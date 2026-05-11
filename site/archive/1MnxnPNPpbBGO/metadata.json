@@ -1,0 +1,84 @@
+{
+  "space_id": "1MnxnPNPpbBGO",
+  "title": "Trade the weather or the Fed rate on Hyperliquid with @tingsxyz",
+  "state": "ended",
+  "created_at": "2025-12-16T21:20:52Z",
+  "started_at": "2025-12-17T19:00:32Z",
+  "ended_at": "2025-12-17T19:58:36Z",
+  "scheduled_start": "2025-12-17T19:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 372,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1146341864561418240",
+      "username": "marcuppe",
+      "display_name": "Marcus Uppe",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1857133053438566400",
+      "username": "nxtdown",
+      "display_name": "next down",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1983369115877478400",
+      "username": "tingsxyz",
+      "display_name": "tings",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1MnxnPNPpbBGO",
+  "summary_title": "Things: Trading Exotic Perpetuals on Hyperliquid From Weather to Fed Rates",
+  "summary_description": "Canadian founders building permissionless perp markets for real-world signals like weather, unemployment, and commodity prices on Hyperliquid.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 288,
+      "label": "Host introduces Things team, Canadian builders launching on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 469,
+      "label": "Founders explain core idea: trading signals directly instead of crypto proxies"
+    },
+    {
+      "timestamp_seconds": 621,
+      "label": "Deep dive on oracle design: why weather, unemployment, commodities are ideal"
+    },
+    {
+      "timestamp_seconds": 1199,
+      "label": "Technical oracle construction: multi-source feeds, weather formula using Kelvin"
+    },
+    {
+      "timestamp_seconds": 1657,
+      "label": "Funding challenge discussed: raising HLP for market deployment, considering Volantis"
+    },
+    {
+      "timestamp_seconds": 1869,
+      "label": "Testnet launching next week with points program: 20% supply for testers, trading competition"
+    },
+    {
+      "timestamp_seconds": 2416,
+      "label": "Referral program details, fee structure, and custom codes for communities"
+    },
+    {
+      "timestamp_seconds": 2569,
+      "label": "Why Hyperliquid: permissionless deploys, best community, fair treatment for all builders"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3490.688,
+  "capture_failure_reason": null
+}

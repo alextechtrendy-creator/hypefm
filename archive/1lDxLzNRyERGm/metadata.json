@@ -1,0 +1,84 @@
+{
+  "space_id": "1lDxLzNRyERGm",
+  "title": "Hyperliquid payments with Cypher",
+  "state": "ended",
+  "created_at": "2025-04-22T19:54:30Z",
+  "started_at": "2025-04-24T17:00:51Z",
+  "ended_at": "2025-04-24T17:58:16Z",
+  "scheduled_start": "2025-04-24T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 64,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "23219674",
+      "username": "ikuberan",
+      "display_name": "Kuberan Marimuthu (Kube)",
+      "role": "speaker"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1481847237860737026",
+      "username": "Cypher_HQ_",
+      "display_name": "Cypher💳",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lDxLzNRyERGm",
+  "summary_title": "CypherCard launches on Hyperliquid: bridging perps to real-world spending",
+  "summary_description": "Cypher's founder discusses on-chain banking, instant card loading from HLP vaults, and Forex fee advantages for global users.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 137,
+      "label": "Introduction and Hyperliquid integration announcement"
+    },
+    {
+      "timestamp_seconds": 327,
+      "label": "Zerk introduces RecGang and why Cypher was needed on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 357,
+      "label": "Cube explains Cypher's on-chain banking vision and perp-to-card workflow"
+    },
+    {
+      "timestamp_seconds": 540,
+      "label": "Technical breakdown: simplifying off-ramp from perpetuals to Visa card"
+    },
+    {
+      "timestamp_seconds": 1208,
+      "label": "PBR requests auto-load feature from HLP vault deposits"
+    },
+    {
+      "timestamp_seconds": 2059,
+      "label": "Roadmap: merchant incentives token, DeFi integrations, co-branded cards"
+    },
+    {
+      "timestamp_seconds": 2481,
+      "label": "Forex education: avoiding predatory POS conversions, on-chain currency solutions"
+    },
+    {
+      "timestamp_seconds": 2938,
+      "label": "Metrics and growth strategy: 25-50 signups, focusing on product-market fit"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3448.192,
+  "capture_failure_reason": null
+}

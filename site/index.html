@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>hype.fm — Spaces about Hyperliquid</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="A community archive of X Spaces about Hyperliquid. Audio, transcripts, key moments, fully searchable.">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --bg-card: #ffffff;
+    --fg: #222;
+    --fg-muted: #666;
+    --fg-faint: #999;
+    --accent: #c0682c;
+    --accent-bg: rgba(192, 104, 44, 0.1);
+    --border: #e5e5e0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    background: var(--bg); color: var(--fg);
+    margin: 0; line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 1.75rem 1.25rem 4rem; }
+  header {
+    margin-bottom: 1rem; padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: baseline; justify-content: space-between;
+  }
+  h1 {
+    font-size: 16px; font-weight: 500; margin: 0; letter-spacing: -0.01em;
+  }
+  .tagline { font-size: 11px; color: var(--fg-faint); font-weight: 400; margin-left: 4px; }
+  .count { font-size: 11px; color: var(--fg-faint); margin: 0; }
+  .search-wrap { margin-bottom: 0.75rem; }
+  #search {
+    width: 100%; padding: 8px 12px;
+    background: white; border: 1px solid var(--border);
+    border-radius: 4px; color: var(--fg);
+    font-size: 12px; font-family: inherit; outline: none;
+  }
+  #search:focus { border-color: var(--accent); }
+  #search::placeholder { color: var(--fg-faint); }
+  .filters {
+    font-size: 11px; color: var(--fg-muted);
+    margin-bottom: 1rem; line-height: 1.8;
+  }
+  .chip {
+    background: none; border: none; padding: 0;
+    font-family: inherit; font-size: 11px; color: var(--fg-muted);
+    cursor: pointer;
+  }
+  .chip:hover { color: var(--fg); }
+  .chip.active { color: var(--accent); font-weight: 500; }
+  .chip-sep { color: var(--border); margin: 0 5px; }
+  .results { display: flex; flex-direction: column; gap: 0.85rem; }
+  .entry {
+    text-decoration: none; color: inherit; display: block;
+  }
+  .entry-row {
+    display: flex; gap: 6px; align-items: baseline;
+  }
+  .entry-num {
+    color: var(--fg-faint); font-size: 13px;
+    min-width: 22px; font-variant-numeric: tabular-nums;
+  }
+  .entry-body { flex: 1; }
+  .entry-title {
+    font-size: 13px; margin: 0; line-height: 1.35; color: var(--fg);
+  }
+  .entry:hover .entry-title { color: var(--accent); }
+  .entry-desc {
+    font-size: 11px; color: var(--fg-muted); margin: 2px 0 0; line-height: 1.4;
+  }
+  .entry-meta {
+    font-size: 10px; color: var(--fg-faint); margin: 2px 0 0;
+  }
+  .entry-meta .tag { color: var(--fg-muted); }
+  .snippet {
+    margin-top: 4px; font-size: 10px; color: var(--fg-muted);
+    line-height: 1.5; padding-left: 8px;
+    border-left: 2px solid var(--border);
+  }
+  mark {
+    background: var(--accent-bg); color: var(--accent);
+    padding: 0 1px; border-radius: 2px;
+  }
+  .empty { color: var(--fg-muted); padding: 2rem 0; text-align: center; font-size: 12px; }
+  footer {
+    margin-top: 3rem; padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--fg-faint); font-size: 11px; text-align: center;
+  }
+  footer a { color: var(--fg-muted); text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>hype.fm<span class="tagline"> — spaces about hyperliquid</span></h1>
+  <p class="count" id="count">loading...</p>
+</header>
+
+<div class="search-wrap">
+  <input id="search" type="text" placeholder="search across transcripts" autocomplete="off">
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div class="results" id="results"></div>
+
+<footer>
+  <a href="https://x.com/i/lists/hyperliquid">a community project</a> &nbsp;·&nbsp;
+  <a href="mailto:takedown@hypefm.xyz">takedown requests</a>
+</footer>
+
+</div>
+
+<script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
+<script>
+(function() {
+  const state = { spaces: [], index: null, activeHost: null, activeTag: null, query: '' };
+  const els = {
+    search: document.getElementById('search'),
+    filters: document.getElementById('filters'),
+    results: document.getElementById('results'),
+    count: document.getElementById('count'),
+  };
+
+  function fmtDuration(s) {
+    if (!s) return '';
+    const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60);
+    return h ? h + 'h ' + m + 'm' : m + 'm';
+  }
+  function fmtDate(iso) {
+    if (!iso) return '';
+    return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toLowerCase();
+  }
+  function esc(s) {
+    return (s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  function hl(text, query) {
+    if (!query) return esc(text);
+    const escaped = esc(text);
+    const terms = query.trim().split(/\s+/).filter(t => t.length >= 2);
+    if (!terms.length) return escaped;
+    const pattern = new RegExp('(' + terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'gi');
+    return escaped.replace(pattern, '<mark>$1</mark>');
+  }
+  function snippet(t, q) {
+    if (!t || !q) return null;
+    const terms = q.trim().toLowerCase().split(/\s+/).filter(x => x.length >= 2);
+    if (!terms.length) return null;
+    const lower = t.toLowerCase();
+    let bestPos = -1;
+    for (const term of terms) {
+      const pos = lower.indexOf(term);
+      if (pos !== -1 && (bestPos === -1 || pos < bestPos)) bestPos = pos;
+    }
+    if (bestPos === -1) return null;
+    const start = Math.max(0, bestPos - 60);
+    const end = Math.min(t.length, bestPos + 180);
+    let s = t.slice(start, end);
+    if (start > 0) s = '…' + s;
+    if (end < t.length) s = s + '…';
+    return s;
+  }
+  function render() {
+    let filtered = state.spaces;
+    if (state.activeHost) filtered = filtered.filter(s => s.host === state.activeHost);
+    if (state.activeTag) filtered = filtered.filter(s => (s.tags || []).includes(state.activeTag));
+    if (state.query && state.index) {
+      const q = state.query.trim();
+      let results = [];
+      try { results = state.index.search(q + '*'); }
+      catch (e) {
+        const lq = q.toLowerCase();
+        results = state.spaces
+          .filter(s => (s.title || '').toLowerCase().includes(lq) || (s._transcript || '').toLowerCase().includes(lq))
+          .map(s => ({ ref: s.id }));
+      }
+      const matchedIds = new Set(results.map(r => r.ref));
+      filtered = filtered.filter(s => matchedIds.has(s.id));
+    }
+    filtered.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    els.count.textContent = filtered.length + ' space' + (filtered.length === 1 ? '' : 's');
+    if (!filtered.length) {
+      els.results.innerHTML = '<div class="empty">no spaces match your search.</div>';
+      return;
+    }
+    els.results.innerHTML = filtered.map((s, i) => {
+      const sn = state.query ? snippet(s._transcript, state.query) : null;
+      const meta = [];
+      if (s.host) meta.push('@' + esc(s.host));
+      if (s.date) meta.push(esc(fmtDate(s.date)));
+      if (s.duration) meta.push(esc(fmtDuration(s.duration)));
+      if (s.tags && s.tags.length) meta.push('<span class="tag">' + s.tags.map(esc).join(', ') + '</span>');
+      if (!s.audio) meta.push('transcript only');
+      return `
+        <a class="entry" href="archive/${encodeURIComponent(s.id)}/index.html">
+          <div class="entry-row">
+            <span class="entry-num">${i + 1}.</span>
+            <div class="entry-body">
+              <p class="entry-title">${state.query ? hl(s.title || 'untitled', state.query) : esc(s.title || 'untitled')}</p>
+              ${s.description ? `<p class="entry-desc">${state.query ? hl(s.description, state.query) : esc(s.description)}</p>` : ''}
+              <p class="entry-meta">${meta.join(' · ')}</p>
+              ${sn ? `<div class="snippet">${hl(sn, state.query)}</div>` : ''}
+            </div>
+          </div>
+        </a>`;
+    }).join('');
+  }
+  function renderFilters() {
+    const hosts = Array.from(new Set(state.spaces.map(s => s.host).filter(Boolean))).sort();
+    const tagsSet = new Set();
+    state.spaces.forEach(s => (s.tags || []).forEach(t => tagsSet.add(t)));
+    const tags = Array.from(tagsSet).sort();
+    function chipBtn(label, isActive, data) {
+      return `<button class="chip ${isActive ? 'active' : ''}" ${data}>${esc(label)}</button>`;
+    }
+    const sep = '<span class="chip-sep">·</span>';
+    let html = chipBtn('all hosts', !state.activeHost, 'data-host=""');
+    hosts.forEach(h => { html += sep + chipBtn('@' + h, state.activeHost === h, 'data-host="' + esc(h) + '"'); });
+    html += '<br>' + chipBtn('all topics', !state.activeTag, 'data-tag=""');
+    tags.forEach(t => { html += sep + chipBtn(t, state.activeTag === t, 'data-tag="' + esc(t) + '"'); });
+    els.filters.innerHTML = html;
+    els.filters.querySelectorAll('.chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (btn.dataset.host !== undefined) state.activeHost = btn.dataset.host || null;
+        if (btn.dataset.tag !== undefined) state.activeTag = btn.dataset.tag || null;
+        renderFilters(); render();
+      });
+    });
+  }
+  function buildIndex() {
+    state.index = lunr(function() {
+      this.ref('id'); this.field('title', { boost: 3 });
+      this.field('description', { boost: 2 });
+      this.field('host', { boost: 2 }); this.field('transcript');
+      state.spaces.forEach(s => {
+        this.add({ id: s.id, title: s.title || '', description: s.description || '', host: s.host || '', transcript: s._transcript || '' });
+      });
+    });
+  }
+  async function load() {
+    try {
+      const resp = await fetch('spaces.json');
+      const data = await resp.json();
+      state.spaces = data.spaces || [];
+      buildIndex(); renderFilters(); render();
+    } catch (e) {
+      els.results.innerHTML = '<div class="empty">could not load spaces.json — run scripts/build_manifest.py</div>';
+      els.count.textContent = '';
+    }
+  }
+  els.search.addEventListener('input', e => { state.query = e.target.value; render(); });
+  load();
+})();
+</script>
+</body>
+</html>

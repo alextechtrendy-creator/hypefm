@@ -1,0 +1,72 @@
+{
+  "space_id": "1ynJOlXaPBwxR",
+  "title": "Hyperliquid Sentiment",
+  "state": "ended",
+  "created_at": "2025-03-27T20:25:26Z",
+  "started_at": "2025-03-28T17:00:20Z",
+  "ended_at": "2025-03-28T17:50:25Z",
+  "scheduled_start": "2025-03-28T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 78,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1440508366812446726",
+      "username": "tradewithonyx",
+      "display_name": "Onyx",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ynJOlXaPBwxR",
+  "summary_title": "Sentiment's margin lending and perp-collateralized loans on Hyperliquid",
+  "summary_description": "How Sentiment enables 15-20% APY on wrapped stake HYPE and introduces novel perp collateral and coin margin products exclusive to Hyperliquid EVM.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 92,
+      "label": "Space intro and guest welcome from Zerk and Zerx Snarks"
+    },
+    {
+      "timestamp_seconds": 414,
+      "label": "Zerx introduces Sentiment: margin lending protocol with TradFi origins and evolution from undercollateralized loans"
+    },
+    {
+      "timestamp_seconds": 656,
+      "label": "Margin lending explained: how Sentiment differs from Aave forks with direct leverage instead of looping"
+    },
+    {
+      "timestamp_seconds": 870,
+      "label": "Upcoming 15x wrapped stake HYPE feature delivering 15-20% APY with minimal borrow rates"
+    },
+    {
+      "timestamp_seconds": 1383,
+      "label": "Perp collateral and coin margin products: enabling delta-neutral strategies and leveraging unrealized P&L"
+    },
+    {
+      "timestamp_seconds": 1625,
+      "label": "Technical walkthrough: using perp positions as collateral on Sentiment interface with precompiles integration"
+    },
+    {
+      "timestamp_seconds": 2230,
+      "label": "Timeline: USDC support in 4 weeks, audit-ready in 6 weeks, precompiles expected within 6 weeks"
+    },
+    {
+      "timestamp_seconds": 2594,
+      "label": "Points incentives announced for early participants; protocol already live with phased rollout planned"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3010.9226875,
+  "capture_failure_reason": null
+}

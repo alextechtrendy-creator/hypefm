@@ -1,0 +1,78 @@
+{
+  "space_id": "1zqKVjDqlYwKB",
+  "title": "LEND $HYPE with @hyperlendx",
+  "state": "ended",
+  "created_at": "2025-04-02T19:46:42Z",
+  "started_at": "2025-04-03T16:00:52Z",
+  "ended_at": "2025-04-03T16:57:57Z",
+  "scheduled_start": "2025-04-03T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 151,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1669097864247623681",
+      "username": "0xNessus",
+      "display_name": "ness.hl",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1zqKVjDqlYwKB",
+  "summary_title": "Hyperland: Building DeFi Infrastructure on Hyperliquid's EVM",
+  "summary_description": "Ness explains how Hyperland brings lending, borrowing, and yield strategies to Hyperliquid EVM with 30M TVL and upcoming token launch.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 418,
+      "label": "Zerk introduces Hyperland and Ness, first NFT project on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 479,
+      "label": "Ness shares his journey: ex-Big Pharma founder, early crypto investor since 2020, Olympus fan"
+    },
+    {
+      "timestamp_seconds": 630,
+      "label": "Ness explains Hyperland vision: enabling HLP as collateral for BTC/ETH futures trades"
+    },
+    {
+      "timestamp_seconds": 870,
+      "label": "Hyperland as Aave for Hyperliquid EVM with portfolio margin and cross-asset collateral"
+    },
+    {
+      "timestamp_seconds": 1112,
+      "label": "Current products: lending, borrowing HYPE and staked HYPE; 30M TVL cap due to EVM liquidity constraints"
+    },
+    {
+      "timestamp_seconds": 1446,
+      "label": "Pre-compiles integration: collateralizing HLP vault, using perps as collateral, yield-bearing strategies"
+    },
+    {
+      "timestamp_seconds": 2051,
+      "label": "Vault strategies: looping for 50-60% yield on stables, hype LST combinations, points and token staking"
+    },
+    {
+      "timestamp_seconds": 3204,
+      "label": "Call to action: join Discord for cap lifts, play poker/bingo, DMs open for feedback"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3430.912,
+  "capture_failure_reason": null
+}

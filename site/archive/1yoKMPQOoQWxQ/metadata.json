@@ -1,0 +1,78 @@
+{
+  "space_id": "1yoKMPQOoQWxQ",
+  "title": "USDH on Hyperliquid with Sky",
+  "state": "ended",
+  "created_at": "2025-09-09T17:26:13Z",
+  "started_at": "2025-09-09T17:30:36Z",
+  "ended_at": "2025-09-09T18:17:01Z",
+  "scheduled_start": "2025-09-09T17:30:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 220,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "385328034",
+      "username": "RuneKek",
+      "display_name": "Rune",
+      "role": "speaker"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1yoKMPQOoQWxQ",
+  "summary_title": "Sky's decentralized stablecoin vision for Hyperliquid governance and infrastructure",
+  "summary_description": "Rune breaks down Sky's USDH proposal, governance framework, and how decentralized collateral strategies outperform centralized stablecoins.",
+  "topic_tags": [
+    "governance",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 128,
+      "label": "Hosts introduce the Space and Rune's background in crypto"
+    },
+    {
+      "timestamp_seconds": 310,
+      "label": "Zerk introduces himself as RecGang co-founder and Hyperliquid validator"
+    },
+    {
+      "timestamp_seconds": 371,
+      "label": "Rune recounts his crypto journey from 2011 Bitcoin to co-founding MakerDAO and Sky"
+    },
+    {
+      "timestamp_seconds": 553,
+      "label": "Discussion of decentralized vs centralized stablecoins and crypto's original ethos"
+    },
+    {
+      "timestamp_seconds": 1160,
+      "label": "Rune explains Sky's governance tools and the tokenized star agent framework"
+    },
+    {
+      "timestamp_seconds": 1827,
+      "label": "Exploration of Hyperliquid-native collateral options like HLP and derivatives"
+    },
+    {
+      "timestamp_seconds": 2106,
+      "label": "Rune pitches why Sky's USDH would be the best option for Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 2620,
+      "label": "Closing remarks and call to action for Hyperliquid community members"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2788.16,
+  "capture_failure_reason": null
+}

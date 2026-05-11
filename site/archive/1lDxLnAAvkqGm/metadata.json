@@ -1,0 +1,96 @@
+{
+  "space_id": "1lDxLnAAvkqGm",
+  "title": "AMA with @squidrouter and @hyperliquidx",
+  "state": "ended",
+  "created_at": "2023-03-28T18:02:09Z",
+  "started_at": "2023-03-31T17:00:24Z",
+  "ended_at": "2023-03-31T18:14:29Z",
+  "scheduled_start": "2023-03-31T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 621,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "319980816",
+      "username": "xulian_hl",
+      "display_name": "xulian.hl",
+      "role": "host"
+    },
+    {
+      "user_id": "65323591",
+      "username": "mastering_alpha",
+      "display_name": "zapper618.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1622260212798291972",
+      "username": "chameleon_jeff",
+      "display_name": "jeff.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1353468713974992897",
+      "username": "ecdsafu",
+      "display_name": "fig",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lDxLnAAvkqGm",
+  "summary_title": "Hyperliquid's First Integration: Squid Cross-Chain Swaps and Vault Strategies",
+  "summary_description": "How Hyperliquid partnered with Squid to onboard users from any blockchain, plus new vaults, API trading, and referral programs.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 332,
+      "label": "Introductions: Jeff (Hyperliquid), Fig (Squid), Zuli (builder ecosystem)"
+    },
+    {
+      "timestamp_seconds": 545,
+      "label": "Why Hyperliquid built its own L1 and chose Squid for first integration"
+    },
+    {
+      "timestamp_seconds": 667,
+      "label": "Fig explains Squid's cross-chain vision using Axelar infrastructure"
+    },
+    {
+      "timestamp_seconds": 1303,
+      "label": "One-click UX flows and roadmap for fiat on-ramps via Kato"
+    },
+    {
+      "timestamp_seconds": 1635,
+      "label": "Hyperliquid referral program, vaults rebrand, and liquidator pool showcase"
+    },
+    {
+      "timestamp_seconds": 1908,
+      "label": "API trading launch with Python SDK examples for quant traders"
+    },
+    {
+      "timestamp_seconds": 2788,
+      "label": "Regulatory approach: decentralized protocol with compliant front-end portal"
+    },
+    {
+      "timestamp_seconds": 3032,
+      "label": "Future roadmap: 20-second cross-chain swaps, Cosmos integration, design refresh"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 4450.88,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,98 @@
+{
+  "space_id": "1kvKpyBOgMPGE",
+  "title": "Hyperliquid Liquid Staking with @kinetiq_xyz",
+  "state": "ended",
+  "created_at": "2025-03-26T18:53:18Z",
+  "started_at": "2025-03-27T16:00:22Z",
+  "ended_at": "2025-03-27T17:23:52Z",
+  "scheduled_start": "2025-03-27T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 179,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "host"
+    },
+    {
+      "user_id": "1878166141501132800",
+      "username": "liquidfi_app",
+      "display_name": "LiquidFi",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1676257066854514688",
+      "username": "pedro_north",
+      "display_name": "Rekt Pedro",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1380935034",
+      "username": "0xOmnia",
+      "display_name": "Omnia.hl π",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1kvKpyBOgMPGE",
+  "summary_title": "Hyperliquid under fire: how validators, exchanges, and Kinetic reshape the ecosystem",
+  "summary_description": "Inside yesterday's market attack, why centralized exchanges fear HyperLiquid, and how Kinetic's liquid staking reshapes DeFi primitives.",
+  "topic_tags": [
+    "governance",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 40,
+      "label": "Intro and hosts: Zerk, PBR, and Omnia from Kinetic kick off"
+    },
+    {
+      "timestamp_seconds": 191,
+      "label": "Space topic: yesterday's HLP manipulation and coordinated exchange response"
+    },
+    {
+      "timestamp_seconds": 341,
+      "label": "Omnia breaks down the attack: how Binance, OKEx, BitGet coordinated to trigger HLP bank run"
+    },
+    {
+      "timestamp_seconds": 554,
+      "label": "Decentralization debate: HyperLiquid sits between Bitcoin and centralized exchanges on spectrum"
+    },
+    {
+      "timestamp_seconds": 855,
+      "label": "Builder codes threat: how HyperLiquid's open exchange infrastructure threatens CEX cartels"
+    },
+    {
+      "timestamp_seconds": 1430,
+      "label": "Meme coin infrastructure: spot tokens, AMMs, and why HyperEVM changes the game"
+    },
+    {
+      "timestamp_seconds": 2096,
+      "label": "Kinetic liquid staking launch: why Omnia built it, validator selection, and StakeHub"
+    },
+    {
+      "timestamp_seconds": 2733,
+      "label": "PBR endorsement of Kinetic's ethos and validator fairness approach"
+    },
+    {
+      "timestamp_seconds": 3186,
+      "label": "Day-one KHype integrations: lending, CDPs, AMMs, bridges, and wrapped-by-design LST"
+    },
+    {
+      "timestamp_seconds": 3551,
+      "label": "Fee structure and incentives: Kinetic's approach to rewards and points"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 5011.2,
+  "capture_failure_reason": null
+}

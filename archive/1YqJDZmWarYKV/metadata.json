@@ -1,0 +1,106 @@
+{
+  "space_id": "1YqJDZmWarYKV",
+  "title": "Rekt on Hyperliquid: Ep1.",
+  "state": "ended",
+  "created_at": "2025-03-11T12:12:01Z",
+  "started_at": "2025-03-11T15:00:07Z",
+  "ended_at": "2025-03-11T16:00:47Z",
+  "scheduled_start": "2025-03-11T15:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 157,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1601623881399369729",
+      "username": "0xOthers",
+      "display_name": "Others 🔥",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1227275045698854912",
+      "username": "Delblondo1",
+      "display_name": "Delblondo.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1458116456395182089",
+      "username": "SpaceSkellies",
+      "display_name": "✰𝕊𝕡𝕒𝕔𝕖 𝕊𝕜𝕖𝕝𝕝𝕚𝕖𝕤✰",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1878166141501132800",
+      "username": "liquidfi_app",
+      "display_name": "LiquidFi",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1506953802771009545",
+      "username": "pageofws",
+      "display_name": "Grae.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1676257066854514688",
+      "username": "pedro_north",
+      "display_name": "Rekt Pedro",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1448047768266846209",
+      "username": "Encryptoed_",
+      "display_name": "Encryptoed",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqJDZmWarYKV",
+  "summary_title": "Trippy Wolves Bridge to Hyperliquid and Ecosystem Deep Dive",
+  "summary_description": "WRECK gang shares NFT migration, marketplace updates, DeFi strategies, and what's next for Hyperliquid's ecosystem.",
+  "topic_tags": [
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 92,
+      "label": "Space introduction and community welcome"
+    },
+    {
+      "timestamp_seconds": 214,
+      "label": "Major announcement: Trippy Wolves bridging to Hyperliquid via Layer Zero"
+    },
+    {
+      "timestamp_seconds": 366,
+      "label": "NFT marketplaces overview—Liquid.fi, Net Protocol, Aspen, Drip"
+    },
+    {
+      "timestamp_seconds": 547,
+      "label": "Hyperliquid NFT collections recap—Tiny Hypercats, Hyper Frogs, Hyper Foxes, Gems"
+    },
+    {
+      "timestamp_seconds": 969,
+      "label": "EJ from Liquid.fi joins, discusses marketplace aggregation and upcoming features"
+    },
+    {
+      "timestamp_seconds": 1725,
+      "label": "Official Hyperliquid NFT launch expected Q1 2025—predicted to dominate market"
+    },
+    {
+      "timestamp_seconds": 2239,
+      "label": "Pivot to DeFi: HyperSwap, loop staking, and yield strategies"
+    },
+    {
+      "timestamp_seconds": 3514,
+      "label": "Closing remarks—HyperFlash announcement for Thursday, weekly spaces planned"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3639.68,
+  "capture_failure_reason": null
+}

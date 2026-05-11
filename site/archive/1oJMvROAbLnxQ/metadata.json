@@ -1,0 +1,78 @@
+{
+  "space_id": "1oJMvROAbLnxQ",
+  "title": "Paragon on Hyperliquid: Trade Bitcoin Dominance",
+  "state": "ended",
+  "created_at": "2026-04-02T18:55:07Z",
+  "started_at": "2026-04-03T16:00:22Z",
+  "ended_at": "2026-04-03T17:00:38Z",
+  "scheduled_start": "2026-04-03T16:00:00Z",
+  "lang": "fr",
+  "is_ticketed": false,
+  "participant_count": 214,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "988493908811374598",
+      "username": "tahathinks",
+      "display_name": "Taha",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1988293950038560769",
+      "username": "tradeparagon",
+      "display_name": "Paragon",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1oJMvROAbLnxQ",
+  "summary_title": "Paragon launches Bitcoin dominance and crypto indices on Hyperliquid",
+  "summary_description": "Founder Taha explains how Paragon makes previously untradeable Bitcoin dominance and market indices actionable through HIP3 perpetual futures.",
+  "topic_tags": [
+    "perps",
+    "listings",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 266,
+      "label": "Introduction to Paragon, a new HIP3 deployer on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 326,
+      "label": "Taha's background from tradfi to DeFi to product-focused building"
+    },
+    {
+      "timestamp_seconds": 719,
+      "label": "Concept behind Paragon: making Bitcoin dominance and indices tradeable"
+    },
+    {
+      "timestamp_seconds": 931,
+      "label": "Why Bitcoin dominance hasn't been tradeable before despite being widely charted"
+    },
+    {
+      "timestamp_seconds": 1388,
+      "label": "Three live tickers: BTCD (Bitcoin dominance), Total2, and Others index"
+    },
+    {
+      "timestamp_seconds": 1846,
+      "label": "Data tables showing indices stability during market crashes versus single assets"
+    },
+    {
+      "timestamp_seconds": 2453,
+      "label": "Future pipeline and stablecoin dominance; community suggestions for new assets"
+    },
+    {
+      "timestamp_seconds": 3085,
+      "label": "How to access Paragon: TradFi campaign, multiple frontends, and community channels"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3609.6426875,
+  "capture_failure_reason": null
+}

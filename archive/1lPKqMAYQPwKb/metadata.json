@@ -1,0 +1,72 @@
+{
+  "space_id": "1lPKqMAYQPwKb",
+  "title": "NFT-fi on Hyperliquid with @hypurrblades",
+  "state": "ended",
+  "created_at": "2025-04-16T19:54:11Z",
+  "started_at": "2025-04-17T16:00:22Z",
+  "ended_at": "2025-04-17T16:44:51Z",
+  "scheduled_start": "2025-04-17T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 110,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1676257066854514688",
+      "username": "pedro_north",
+      "display_name": "Rekt Pedro",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lPKqMAYQPwKb",
+  "summary_title": "HyperBlades building NFT lending, launchpad, and play-to-earn game on Hyperliquid",
+  "summary_description": "Inside look at HyperBlades' full NFT ecosystem launching on Hyperliquid: lending protocol, raffle-based launchpad, marketplace, and mystery game.",
+  "topic_tags": [
+    "ecosystem",
+    "listings",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 305,
+      "label": "Zerk introduces HyperBlades team and their Hyperliquid NFT-fi focus"
+    },
+    {
+      "timestamp_seconds": 398,
+      "label": "Frank explains successful testnet mint with 10k contract requests and upcoming launchpad"
+    },
+    {
+      "timestamp_seconds": 488,
+      "label": "Deep dive into Lendify lending protocol: how borrowers and lenders benefit"
+    },
+    {
+      "timestamp_seconds": 1036,
+      "label": "Raffle-based launchpad system explained with refundable tickets and anti-bot mechanics"
+    },
+    {
+      "timestamp_seconds": 1310,
+      "label": "Timeline revealed: testnet in 2 days, mainnet in less than 2 weeks"
+    },
+    {
+      "timestamp_seconds": 1463,
+      "label": "Team composition: 3 full-time devs, UI/UX designer, game designer, and Frank managing operations"
+    },
+    {
+      "timestamp_seconds": 1953,
+      "label": "Game teaser: imposter-type play-to-earn game coming with other utilities"
+    },
+    {
+      "timestamp_seconds": 2561,
+      "label": "Closing remarks on mainnet mint next week and lending protocol in two weeks"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2667.6693125,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,530 @@
+{
+  "space_id": "1PlKQOXpqMWJE",
+  "language": "en",
+  "duration_seconds": 2920.2986875,
+  "chunks": [
+    {
+      "start": 231.34,
+      "end": 334.48,
+      "speaker": "SPEAKER_00",
+      "text": "gm gm can people can people hear me well gm gm"
+    },
+    {
+      "start": 334.48,
+      "end": 364.54,
+      "speaker": "SPEAKER_00",
+      "text": "can you hear me can anybody hear me oh yep yep yep hello hello hello looks like it's working can you hear me yeah looks good to me it's complicated i think we're having issues today with some of the twitter spaces but"
+    },
+    {
+      "start": 364.54,
+      "end": 395.0,
+      "speaker": "SPEAKER_00",
+      "text": "uh we shall get started very shortly hamza if that's okay with you uh let me just amplify the space now that it's working i'm gonna share it okay yeah i don't know i can't join from my nuda account i don't know um all right hey congrats on the launch i mean isn't it timely that uh we"
+    },
+    {
+      "start": 395.0,
+      "end": 425.04,
+      "speaker": "SPEAKER_00",
+      "text": "have the space and i think you launched just a couple of hours ago oh yeah yeah i was uh just thinking about it uh before joining and we were thinking of uh you know uh going live this week i just didn't know of a date and a lot of like confluence happened just today of course we had the ama and uh we had uh like i just presented there was this hyper liquid uav event right now like a little like literally a few hours"
+    },
+    {
+      "start": 425.04,
+      "end": 455.04,
+      "speaker": "SPEAKER_00",
+      "text": "ago um and i presented over there and we launched the main net right at that because a lot of folks are here in town for a break point and all of that so so yeah this thing today was a was a good day uh yeah thank you very much um that's that's awesome thank you very much yeah yeah you have this event in UAE as well I might well I might share that and pin it when is that happening again oh it just happened it was a few hours ago okay yeah there"
+    },
+    {
+      "start": 455.04,
+      "end": 485.09,
+      "speaker": "SPEAKER_00",
+      "text": "was a few hours ago we presented over there I think the guys in the street about it a little bit yeah very cool okay so you know what seems like this isn't the best setup but can you hear me right it's working yeah that's good you know I tried to experiment with a new setup today hasn't worked out as I wanted but that's okay we shall get started anyways I'm"
+    },
+    {
+      "start": 485.09,
+      "end": 515.25,
+      "speaker": "SPEAKER_00",
+      "text": "just paying one more time and we will get started in one short minute this is such a fresh project I mean just launched and I've deposited how much I think I put in 2k so I didn't want to I didn't want to cap it because I feel bad because I wanted more people to come in but if if they're not going in by the end of the day I'll fill my cap and it's not that much so yeah yeah I don't need to like your Russian and that's why even"
+    },
+    {
+      "start": 515.25,
+      "end": 545.49,
+      "speaker": "SPEAKER_00",
+      "text": "I'm like I understand the markets are a bit weird and everything so I don't want people to like deposit too much or whatever just like learn about it and that's why I'm here to like talk about it and explain everything and explain everything and we will see you in the next video! the yield is coming from because i have i hand to god i have spoken and explained where the yield comes from to like over a thousand people or like at least 500 people by now so i'm"
+    },
+    {
+      "start": 545.49,
+      "end": 576.23,
+      "speaker": "SPEAKER_00",
+      "text": "more than happy to explain it again because uh i know how important that is yeah and then i'll write a nice thread about it that'll be cool i do enjoy doing that all right all right let's get the spaces started people tune in or figure out this x thing um not sure what the issues are this morning but uh seems like it's resolved on that note i'm zerk co -founder of wreck gang we also run a validator on hyperliquid in a small little podcast called exit liquidity and"
+    },
+    {
+      "start": 576.23,
+      "end": 606.49,
+      "speaker": "SPEAKER_00",
+      "text": "today we have the privilege the honor the prestige of hosting hamza from neurovolts as well as i remember you um you know from the polygon times when i was a student i was a student at the university of america and i was a student here is a mccall course for skype i downloaded it and added the scalable class mapping eles which is quite fun yeah yeah and you know on top of it i think one of the biggest hype whales that i know so you have many titles professional dev professional dgin and professional poster maybe you can introduce yourself real quick"
+    },
+    {
+      "start": 606.49,
+      "end": 636.67,
+      "speaker": "SPEAKER_00",
+      "text": "on which hat you want to be wearing today no i definitely don't want to be a poster now uh i think uh at least at least for the uh at least for the spaces because uh because you know one of the things that is , uh i'm not yeah we are in the builder business now uh but yeah uh as uh as zerk said thank you for firstly for hosting us and for uh for having us and explaining and giving the uh trailer so to say um thank you a lot um but yeah i was head of d5 polygon before uh"
+    },
+    {
+      "start": 636.67,
+      "end": 666.79,
+      "speaker": "SPEAKER_00",
+      "text": "by uh by education i i dropped out of nyu in 23 i was doing my master's in computer science i dropped out from there uh but just to go all in crypto post ftx um i think it was a good uh it was a good time uh i don't forget at all um and since then i've been trading uh building a few things but i think when hyper liquid came out uh in uh we i met jeff in when was it it"
+    },
+    {
+      "start": 666.79,
+      "end": 696.83,
+      "speaker": "SPEAKER_00",
+      "text": "was token 2049 in uh 2023 that was the first time i met met jeff and the team and there was like 10 people or i think 12 people only that i knew about about hyper liquid and they were like at a small table in singapore and since then um of course like should have traded with a lot more but but it is what it is uh and since then we've been like big big fans of of hyper liquid and and such big fans that we have not raised anything and we've fully bootstrapped"
+    },
+    {
+      "start": 696.83,
+      "end": 726.83,
+      "speaker": "SPEAKER_00",
+      "text": "it by ourselves um so far and um and yeah because we believe that hyper liquid has to house all of finance and we want to build around the ai um managing finance part of the part of the world so what new that is is we like we believe uh agents are uh are a very very powerful tool uh if if designed properly and that's what we want to and we've been building in the space for a bit now um yeah"
+    },
+    {
+      "start": 726.83,
+      "end": 757.09,
+      "speaker": "SPEAKER_00",
+      "text": "so we are building agentic vaults isn't that cool like how all these people that were on hyper liquid very early you're thinking like if they were developing nouveauty finance according to the picture having uh f tax and omnia they got a juicy drop uh i guess wreck cake as well and now they're all building on top of hyper liquid and that's what you're doing right like probably using some of those funds to create something beneficial for the hyper liquid ecosystem to"
+    },
+    {
+      "start": 757.09,
+      "end": 787.1,
+      "speaker": "SPEAKER_00",
+      "text": "grow it and to house all the finance ultimately as you said yeah you're right like all those all the guys from yeah yeah you right like all those all the guys from that is building some core primitive um yeah it's interesting i agree all right well let's get into these ai vaults because that is very interesting to me i feel this could be a huge game changer and built by the head of d5 from polygon i'm sure it's very"
+    },
+    {
+      "start": 787.1,
+      "end": 817.49,
+      "speaker": "SPEAKER_00",
+      "text": "big brain stuff as well yeah uh any specific questions or do you want me to just like jump in yeah so you know let's start at the beginning why did you decide to go for a vault strategy because there's so many different types of ways using ai to benefit um traders or users or participants in the ecosystem um i personally love vaults because it's so simple but"
+    },
+    {
+      "start": 817.49,
+      "end": 847.81,
+      "speaker": "SPEAKER_00",
+      "text": "wondering why y 'all decided to go with something like vaults um instead of other options yeah no that's a good question uh we were building building early like earlier on we were doing uh we were doing agentic trading where people could like write strategies in like plain english uh and and let's say you could this was like an experiment experimental tool that we made earlier in earlier this year in the summer where people could like write strategies"
+    },
+    {
+      "start": 847.81,
+      "end": 877.97,
+      "speaker": "SPEAKER_00",
+      "text": "in like plain english or for example buy bitcoin when rsi is below 40 sell when it goes above 70 uh and and things like this uh using privy privy smart embedded wallets uh and fully automated by agents but we realized over time and people did about like a million two million dollars of volume and people uh what what i realized uh what we realized was that you know uh a lot of people firstly don't have good strategies um and most of them are taken away by like market makers"
+    },
+    {
+      "start": 877.97,
+      "end": 908.43,
+      "speaker": "SPEAKER_00",
+      "text": "and all um and the other thing is that uh other thing is that like the tech was not ready to to you know accurately do directional trades um with size uh so i think it was a little early but i think for people who don't know that you might have seen n of one the alpha arena product which uh like multiple lms are trading against and the trade xyz also i was gonna ask you exactly this question at some point they're awful traders the ai is suck man correct"
+    },
+    {
+      "start": 908.43,
+      "end": 938.67,
+      "speaker": "SPEAKER_00",
+      "text": "correct correct correct uh exactly so and because because because trade a trade a trade is good because if it is deterministic and ai by definition is probabilistic by like definitions made in a probabilistic way it is it thinks in a probabilistic way and it assigns different like i come from an ai background so like i wouldn't claim myself to be as educated as some of the designers but like fundamentally the ai thinks and allocates different probabilities to um to"
+    },
+    {
+      "start": 938.67,
+      "end": 968.71,
+      "speaker": "SPEAKER_00",
+      "text": "different outcomes and that's how it happens so you don't like when where on the other hand some market maker or some discretionary trader would deterministically think of a strategy and then execute it whereas ai thinks very differently it's like a just a fundamental difference of how the thought process is there so we realized that after speaking with like a hundred people who were who built their agents on our platform and then i realized oh like why why waste time on something which people"
+    },
+    {
+      "start": 968.71,
+      "end": 998.83,
+      "speaker": "SPEAKER_00",
+      "text": "lose money on why not do it on yield because first of all field people always make money uh less less or more that's a different discussion but yield you cannot go wrong with yield uh uh if it is coming from something like a lending market like you really can't go wrong because there's there's demand and there's supply so like you can't go wrong there and then there are the other side uh and on the other side like you can scale it a lot uh and uh and yeah that's how this uh vaults"
+    },
+    {
+      "start": 998.83,
+      "end": 1028.85,
+      "speaker": "SPEAKER_00",
+      "text": "and when we thought we designed it from a first point of view because because uh because like the one there are two designs over here so one you have a singular vault like a year in finance back in the day or a beefy or a year in finance back in the day in 21 d5 summer but then on the other hand you have something like giza on base which is more like one one smart account where you have like a one wallet connected to multiple agents that design is not"
+    },
+    {
+      "start": 1028.85,
+      "end": 1059.11,
+      "speaker": "SPEAKER_00",
+      "text": "in our opinion that design is not the best because you have multiple leakage in the designs in the in every vault is doing its own optimization and it's it's not a d5 first thought process it is a ai design but it's we we are building d5 product with agents but we are not we are a d5 first product that's why we wanted to go vaults because it can scale much much larger and you can accommodate more size and more apys and yeah"
+    },
+    {
+      "start": 1059.11,
+      "end": 1089.51,
+      "speaker": "SPEAKER_00",
+      "text": "yeah I personally think it's one of the untapped potential crypto products that can blow up we've seen prediction markets catch you know fire with retail haven't seen perps being that popular with retail because they are kind of complicated same for most of the yield stuff unless you're using it on one of the centralized exchanges but"
+    },
+    {
+      "start": 1089.51,
+      "end": 1119.53,
+      "speaker": "SPEAKER_00",
+      "text": "if you have a one click button for your mom and pop or your grandma deposit in Neuro vaults right like deposit in these AI managed vaults and it will provide you yield like how simple is that right like to me that is the perfect killer product for retail I don't know if you remember this one probably do you talked about FTX but back then on Terra Luna we had something we called anchor protocol which gave you 20 right"
+    },
+    {
+      "start": 1119.53,
+      "end": 1149.83,
+      "speaker": "SPEAKER_00",
+      "text": "and people just love that because it was the most the most infamous of all d5 but I don't want to say your product reminds me of anchor protocol because that I really I really hope not but the fact that after I deposited my money and I already made five cents and I see that money grow incrementally almost every you know 10 minutes uh to me is great user experience and like I said very simple"
+    },
+    {
+      "start": 1149.83,
+      "end": 1180.23,
+      "speaker": "SPEAKER_00",
+      "text": "very easy to understand in terms of like you know for me as a ui ux deposit money I'm getting paid I'm so happy no thank you I'm glad uh but yeah I mean of course like the yield so I'm more than happy to like go into where the yield comes from because that's what matters yeah let's get into it let's get into it from a user experience this is super easy right like you just go on hyper EVM you go on app Neuro vaults .xyz"
+    },
+    {
+      "start": 1180.23,
+      "end": 1210.47,
+      "speaker": "SPEAKER_00",
+      "text": "you deposit some USDT in one vault it's so easy there's just like one vault right now yeah um and you're done and then you get him paid you can withdraw whenever as far as I understand yeah yeah yeah there's no there's no lock -in there's no nothing it's just uh just the way the 7540 vaults are designed they are not synchronous and what that means is that it takes a bit of a time when I say a bit of time it takes about 10 to 20 minutes to get to withdraw"
+    },
+    {
+      "start": 1210.47,
+      "end": 1240.85,
+      "speaker": "SPEAKER_00",
+      "text": "your capital from underlying yield sources because you have to uh first of all you have to like withdraw uh do a withdrawal from either felix or hyperfi or hyperlend and then you have to close the shares and you have to balance a lot so it takes about 10 to 15 minutes or 20 minutes on an average but like nothing more than that uh in that that's why it took a bit of time i i thought it took like a minute or two for my deposit to go through i don't know deposit is quicker deposit is quicker uh the"
+    },
+    {
+      "start": 1240.85,
+      "end": 1271.59,
+      "speaker": "SPEAKER_00",
+      "text": "withdrawal takes about 5 to 15 sorry 15 to 20 minutes uh in that ballpark okay very cool all right well let's get into the meat and potatoes of what's actually happening here in the back end for you it's just deposit cash and you get paid but what is actually happening like how are we getting paid yeah so it's as simple and if you go if you if you guys open the vaults page and if you go into the"
+    },
+    {
+      "start": 1271.59,
+      "end": 1301.67,
+      "speaker": "SPEAKER_00",
+      "text": "the whitelisted pools or you go to the uh if you go to the whitelisted pools of the composition you will see where the where the money is and where the yield is coming from so the underlying yield comes from the the big lending markets on hyperliquid which is hyperlend hyperfi and felix um so felix we have two pools resins at usdt right now um and uh and which is the frontier markets and the main felix nice pool police main felix"
+    },
+    {
+      "start": 1301.67,
+      "end": 1331.69,
+      "speaker": "SPEAKER_00",
+      "text": "u blaming which is the bimorfo and then you have hyper learn in hyperpha and the the the beauty of of ai agents is that they can actively rebalance and allocate uh across all markets wherever there is high yield and wherever they see that yield is going to remain high by forecasting and all of that so so that's the that's where the meats and potatoes of optimization comes from but but the deposit always goes"
+    },
+    {
+      "start": 1331.69,
+      "end": 1362.19,
+      "speaker": "SPEAKER_00",
+      "text": "into and we can actually I am on my phone but I can I could share there I could share our vault address where you can always see where the money is being deposited in and you can see in on the website as well like right now it's on hyperland because hyperland has the highest apy so like I said and you are farming all the underlying points as well just FYI okay so you're getting hyperland points you're getting the absolute best yield"
+    },
+    {
+      "start": 1362.19,
+      "end": 1392.51,
+      "speaker": "SPEAKER_00",
+      "text": "and those are the pools that you have right now so the AI optimizes for yield today right for I would I would not just say yield because I would say size optimized yield because right now it's like $30 ,000 which is not that much but let's say we are at three million dollars or thirty million dollars and then you cannot just deposit and that's picked if people think that okay this is just like if else or"
+    },
+    {
+      "start": 1392.51,
+      "end": 1422.61,
+      "speaker": "SPEAKER_00",
+      "text": "like a counter where you know you are just counting and comparing the highest yield and depositing over there it's not like that because that's a very trivial problem to solve for but what we do is that we will be scalable I'll go with logic I would say a scalable logic where even if it is like three thirty mil or like twenty minutes ten million five mil like as size increases or 100 mil what we look at is what is the underlying pool how much is the underlying TVL of that pool what is the"
+    },
+    {
+      "start": 1422.61,
+      "end": 1454.07,
+      "speaker": "SPEAKER_00",
+      "text": "APY of this pool what will be the APY when we deposit let's say 50 mil or five mil to that pool like doing this analysis and is is it it it creates scenarios and it creates situations and emulates those situations down the line so so you don't dilute yourself so even instant and then you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see"
+    },
+    {
+      "start": 1454.07,
+      "end": 1484.11,
+      "speaker": "SPEAKER_00",
+      "text": "that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can see that you can getting it but what agents and what are algo and what the agents where the agents come in is that they will"
+    },
+    {
+      "start": 1484.11,
+      "end": 1514.43,
+      "speaker": "SPEAKER_00",
+      "text": "forecast and they will look at all of these scenarios and simulate all these scenarios and then only if and like there's this mathematical term i double f like if and only if when this allows uh like forecasting allows it to move only then will they move it i yeah nice no no that is super clear to me yeah let me just kind of recap so you can say if i understood this correctly but what you're saying is you can't just look at current"
+    },
+    {
+      "start": 1514.43,
+      "end": 1544.81,
+      "speaker": "SPEAKER_00",
+      "text": "yield numbers because if you come in with size you will dilute that yield hence the ai will draft these scenarios of kind of the best way of getting yield on the different pools with size so basically all these parameters are being taken into account uh by the ai manager that you guys using so uh one of the questions and i felt like that was a great marketing point"
+    },
+    {
+      "start": 1544.81,
+      "end": 1575.01,
+      "speaker": "SPEAKER_00",
+      "text": "that sold me on using them one i'm i'm very lazy by the way so for me finding which i made this yeah right like always checking which pool has the best yield and then moving my money like come on man i don't have time to that just deposit and somebody takes care of it and we'll find the best yield so what is this point i pinned it up top that's saying you have outperformed by over 41 percent"
+    },
+    {
+      "start": 1575.01,
+      "end": 1605.51,
+      "speaker": "SPEAKER_00",
+      "text": "uh you know the lending markets what what does that uh mean exactly so that means and again this number can is not necessarily to be 41 .0 percent it can be from 30 to 40 percent what that means is by doing all these optimization and by uh and by allocating and doing all these scenarios um and doing all of these scenarios uh what what it does is that it can allocate"
+    },
+    {
+      "start": 1605.51,
+      "end": 1635.63,
+      "speaker": "SPEAKER_00",
+      "text": "so let's say uh we do a three month t -wop of sorry not t -wop three month average of lending market yields uh what this means is that by our vaults and by our agents you will be able to get 30 to 40 percent of the more apy uh just by our vaults uh of the average so let's say the average lending market is rates are for the lack for the for simple maths it's 10 percent uh and"
+    },
+    {
+      "start": 1635.63,
+      "end": 1666.23,
+      "speaker": "SPEAKER_00",
+      "text": "by depositing over that period and i think it's explained on our website neurovolts .xyz is that if you deposit on our web on on our app uh it it gives you about 30 to 40 percent more than the underlying just by the ai what the ai does of the underlying so this is the best performing right so just just to be go ahead just just to be clear there is there is no leverage there is no looping there is no liquidation risk i mean"
+    },
+    {
+      "start": 1666.23,
+      "end": 1696.25,
+      "speaker": "SPEAKER_00",
+      "text": "of course because i uh of course there's no there's no looping there's no leverage um uh yeah there's there's there's nothing uh like that so like i know a bunch of like projects they have apys by taking account of their token apy so like their token fdv they would put some apy on their on their token of like uh 50 million 100 million fdv and then they would count it as um yeah so count it as the apy which is not yeah bro a thousand percent apy with my"
+    },
+    {
+      "start": 1696.25,
+      "end": 1726.27,
+      "speaker": "SPEAKER_00",
+      "text": "shit coin that i'm gonna give you that's printing you know i remember this was on polygon by the way i think polygon pioneered the shitty farms back i don't know about i don't know polygon pioneered but people definitely pioneered i mean i don't know i don't know i don't know holly whale that was that was one of the first i was in all of them in the beginning anyways this was back then right yeah i remember um okay let's get back to the important topic here so what you're saying these"
+    },
+    {
+      "start": 1726.27,
+      "end": 1756.61,
+      "speaker": "SPEAKER_00",
+      "text": "are usdt vaults for one there is no there is no looping there is no leverage hence there's very little risk of i guess there's always the smart contract risk obviously yes of course and uh but there's no like liquidation per se risk no no no no no no because there's no leverage there's no looping there's no leverage there's no any of the drama that the curations uh curation saga that happened uh"
+    },
+    {
+      "start": 1756.61,
+      "end": 1786.73,
+      "speaker": "SPEAKER_00",
+      "text": "like a few few weeks ago none of that nice that is very cool so um just launched the protocol i'm gonna level set the room because we have way more people than we started with uh so we're talking with hamza x head of d5 at polygon huge participant in the hyper liquid ecosystem and i will add also a little bit of a shit poster on x that i enjoy a lot his tweets now he's building something called"
+    },
+    {
+      "start": 1786.73,
+      "end": 1816.73,
+      "speaker": "SPEAKER_00",
+      "text": "neuro vaults which is the best way of earning yield on hyper evm um real yield plus you're also eligible for the underlying points this is all powered through ai um so there's an ai strategy here running to maximize or optimize your yield and he launched this a few hours ago on mainnet i was one of the first participants we have a few members from"
+    },
+    {
+      "start": 1816.73,
+      "end": 1846.89,
+      "speaker": "SPEAKER_00",
+      "text": "rec that got the invite codes i think there's a few more invite codes coming around in neuro vaults discord and perhaps i'll get a few more to share uh it's capped at 100k right now so we're extremely early they're like 30k right now uh it's capped at 100k right now so we're going to get reach the cap quite soon in my opinion and this market kind of the best way to earn some cash on your stables and obviously you can always withdraw if you want to buy the dip or do whatever you want to do um because there is no lock up on"
+    },
+    {
+      "start": 1846.89,
+      "end": 1877.03,
+      "speaker": "SPEAKER_00",
+      "text": "these except uh there's a little 15 to 30 minute times of settlement because it kind of using these different strategies on these different protocols so it has to withdraw the position and close it out um is that a good uh you know summary for now yeah yeah that's pretty good that's pretty pretty fair and uh and just to add on the on the settlement uh settlement side of things uh since most people and and that was my my um"
+    },
+    {
+      "start": 1877.03,
+      "end": 1907.41,
+      "speaker": "SPEAKER_00",
+      "text": "learning curve i would say uh with um with agents sorry not agents with 7540 is that uh you can look if you since everything is on chain uh as soon as you deposit let's say you have a thousand dollars deposit like 10 out of it and you can see the whole route on chain all the transactions uh went through on chain and uh and once your 7540 settles your deposit it sends you ai usdt so when you deposit your let's"
+    },
+    {
+      "start": 1907.41,
+      "end": 1938.37,
+      "speaker": "SPEAKER_00",
+      "text": "say you deposit a thousand dollars or a hundred dollars or five hundred dollars in usdt you deposit 500 usdt into the vault you get ai usdt which is basically a share token that is one major reason why we wanted to use 7540 because it's a share token and it's a four zero is because of the receipt token which is this um which is this uh you can i wouldn't call it like a liquid stake token but it is a yield bearing token so like sure easiest way to understand it for us right yeah"
+    },
+    {
+      "start": 1938.37,
+      "end": 1968.61,
+      "speaker": "SPEAKER_00",
+      "text": "yeah it's like i i wouldn't call it a liquid stake token because it's like intellectually wrong to call it that but yeah it's like a share token that you get uh from uh like a receipt token but we are going to build a few you can borrow off after right but i can see the you know the call the composability or from from a d5 person correct you you yeah you're a d5 d5 point of view yeah exactly and that's a main reason why we wanted to do it uh i wouldn't say from a yeah we can do the borrowing against"
+    },
+    {
+      "start": 1968.61,
+      "end": 1998.67,
+      "speaker": "SPEAKER_00",
+      "text": "it but i i'm more interested in building a deep pair of this like uh like a a dex pool because we will have some interesting oh so you people want to swap out very quickly i guess okay cool quickly quick if you want to yeah all right all right okay let's get into you know the future plans because right now it's pretty straightforward go on neurovolts .xyz deposit in the one vault earn yield immediately how much did i"
+    },
+    {
+      "start": 1998.67,
+      "end": 2031.55,
+      "speaker": "SPEAKER_00",
+      "text": "earn so i'm at i'm still at no i'm like at six cents now so isn't this wonderful just seeing your money grow um so right now it's quite simple just deposit in one vault optimize your money and you're good to go i think one"
+    },
+    {
+      "start": 2032.99,
+      "end": 2061.67,
+      "speaker": "SPEAKER_00",
+      "text": "major thing is i want to talk to as many users uh because this is i believe is uh is not just another d5 product um and the reason i say that is because i think it's a very important thing that is i strongly strongly strongly believe that in the next few years i believe like agents handling money like quote unquote is what smart contracts were like four or five years ago like four or five years ago there was like barely 10 20 million tvl um and"
+    },
+    {
+      "start": 2061.67,
+      "end": 2091.81,
+      "speaker": "SPEAKER_00",
+      "text": "that was only on compound or some of the big lending markets and like idex as a dex and and that's it like there was nothing else um and i think like smart with with the way the world is going and with the generation of like agents and in every field of uh and finance and especially blockchains is so easy because everything lives on one one platform which is hyper evm or ethereum or whatever you want to call it so i want to talk to as many users and we are building a lot of like ux features"
+    },
+    {
+      "start": 2091.81,
+      "end": 2122.13,
+      "speaker": "SPEAKER_00",
+      "text": "around around so there are three things firstly it's like the ux features which we want to uh we want to make people comfortable reading and analyzing what is what actually the ai thoughts are and we're going to have a panel very soon around the vaults where people can actually see oh um like right next to composition we are going to figure something out where people can people can actually read what the ai is thinking and what it's going to do next"
+    },
+    {
+      "start": 2122.13,
+      "end": 2152.75,
+      "speaker": "SPEAKER_00",
+      "text": "uh so they can uh they can feel more comfortable and that's this is one feedback that i have received over the last uh week or like 10 days that we want to know what like what's going to the next move is going to be where is the capital going what is the risk and all of that like all of the strategies rather than me blabbering on a on a on a twitter spaces on our docs or it should be right on the app and that's fair so we're going to do that um in the next uh i think that's going to be the next feature upgrade um it's"
+    },
+    {
+      "start": 2152.75,
+      "end": 2182.83,
+      "speaker": "SPEAKER_00",
+      "text": "not more of a feature but more of a like a ux but i think that's more important uh but outside of that we're going to have a few yield strategies uh sorry a few more yield sources uh around pendants and uh and then we're going to have a few more yield uh expansion in the area how apartment gibtel uh some of the hds content as well uh there are Some decent pendle pts that can be sized into but again those will be very let's uh like five percent or or maybe less uh size of the of the strategy something around that um we will ask if you guys are interested please hop in the discord we will uh i'd"
+    },
+    {
+      "start": 2182.83,
+      "end": 2213.37,
+      "speaker": "SPEAKER_00",
+      "text": "love to see yeah you know we're all about usdh our validator voted for for native markets so that's that's the next that's the next i was going i was literally the in i oops yes i am resetting my pinned posts the next thing i was going to say the next stable coin is going to be usdh uh the next stable coin we'll do and we were doing usdt because yeah we've been testing it for a while so we thought like why not just go live with it uh and uh we're gonna go we're gonna do usdh we're gonna do usdh uh next um yeah"
+    },
+    {
+      "start": 2213.37,
+      "end": 2243.51,
+      "speaker": "SPEAKER_00",
+      "text": "and since usdh is pretty liquid now when we started it was not that like yeah they've grown they've grown i would you know my other suggestion would be uh as a hypercore first user i felt like you know for some reason it took me way longer uh to figure out how to get usdt on hyper evm and i could i bought it on hypercore right like it was easy and then i transferred the hyper evm but still like that all these friction and button clicks like it would be cool from a"
+    },
+    {
+      "start": 2243.51,
+      "end": 2274.11,
+      "speaker": "SPEAKER_00",
+      "text": "user perspective to just bring your cash right like that's pretty much it deposit any stable coin you want from at least you know hypercore and then maybe even more chains than that and then that in the back end will be converted to the strategy that you need right like right now would be usdt yeah something like that i literally got i i'm literally working on it right like while i'm speaking here because we as as soon as we went live like a bunch of like the way the"
+    },
+    {
+      "start": 2274.11,
+      "end": 2304.21,
+      "speaker": "SPEAKER_00",
+      "text": "uh the bridge aggregators reached out to us and so we yeah it's on our list uh it's on our list i know what you mean you can bridge directly one click from any yeah i i it's it's on it's on nice love it love it and last suggestion again this very ui ux retail normie friendly is if you had some sort of mobile i know it's work it work in progress but if you could deposit on mobile or even better like an app like i know an"
+    },
+    {
+      "start": 2304.21,
+      "end": 2334.3,
+      "speaker": "SPEAKER_00",
+      "text": "app is not always the first thing to do because you're not getting all the users there but still something like that where you can get all the users there and you can get all the users there but still something like that where you can get all the users there and you can just like deposit and earn uh whatever it's 13 or yield on your cash boom super easy super simple it's managed by ai i i just feel like it's a great product for for normies because it's so easy to use no totally i know uh i know i know what you mean and i have seen that in asia specifically"
+    },
+    {
+      "start": 2335.14,
+      "end": 2364.52,
+      "speaker": "SPEAKER_00",
+      "text": "um when i was in like singapore and korea i know a lot of people who were who were much more comfortable on the app side so no totally i i know what you mean yeah but um yeah i think it's a great product for normies because it's so easy to use and i know i know what you mean yeah so so one new stable coins too uh we're going to be able to see what the ai is actually thinking what else you you thinking for neuro vaults uh in the upcoming months yeah like i said uh like more more yield sources uh and uh we're more than happy to get community"
+    },
+    {
+      "start": 2364.52,
+      "end": 2394.64,
+      "speaker": "SPEAKER_00",
+      "text": "feedback like we don't want to just like add it uh and add something that uh uh add something that people don't uh don't appreciate so we so we're going to be able to get community feedback like we don't want to just add something that uh please hop in the discord let us know dm us uh dm me my dms i guess are open um or you can just yell at me on twitter and i'll open my dm if it's not open um and yeah uh i think that's uh and slowly steadily grow i think it's a good market we don't want to uh we don't want to like you know uh grow in"
+    },
+    {
+      "start": 2394.64,
+      "end": 2424.7,
+      "speaker": "SPEAKER_00",
+      "text": "an inorganic way um that that just throw points man throw points and the caps will fill within a day yeah within an hour yeah within an hour yeah just like few whales come in and just like oh thank you uh and so yeah i i don't want that i want like real people to like actually use the product and slowly and steadily and uh yeah that's that's uh that's at least uh that's i think a good two to three months uh uh"
+    },
+    {
+      "start": 2424.7,
+      "end": 2454.88,
+      "speaker": "SPEAKER_00",
+      "text": "two to three months nice nice uh but we have something we have something big coming which we are actually experimenting on not experimenting i think we have sort of done with experiments but i think uh yeah i i don't want to come on you started you started you you gotta finish your front on industry you gotta finish your pot um okay i had a question though so right now i mentioned you know this is great for normies because the yield is safe there's no leverage"
+    },
+    {
+      "start": 2454.88,
+      "end": 2484.88,
+      "speaker": "SPEAKER_00",
+      "text": "it kind of finds you the best yield it's all in stable coin so people kind of feel comfortable with this what about releasing vaults that have more aggressive strategies basically more risk but more yield at the same time yeah we we are we have thought of it we have thought of it and we want to actually what i was referring to earlier was uh and i stopped in between was we want to build this like um we"
+    },
+    {
+      "start": 2484.88,
+      "end": 2515.0,
+      "speaker": "SPEAKER_00",
+      "text": "want to build like a factory model where people can make their own strategies and make their own vaults using our infrastructure so think how hyper liquid did it for the trading vaults like uh on bhlps and the underlying and and like those kind of things we want to do something similar with like for for d5 where people can make their own vaults um and they then can like plug and play what whatever kind of uh whatever kind of uh strategy they want and the underlying and we'll just provide you the blocks and"
+    },
+    {
+      "start": 2515.0,
+      "end": 2545.22,
+      "speaker": "SPEAKER_00",
+      "text": "the agents um and you can just plug and play and uh and do that however yes i know what you mean but again open the kitchen as i call it the discord is open people should jump in and let us know uh what are the use uh what are the yield sources are there because the agents will do their job uh perfectly uh if we provide them the best agents and they're excellent at um and we have like six seven five or six agents uh that do just one"
+    },
+    {
+      "start": 2545.22,
+      "end": 2575.28,
+      "speaker": "SPEAKER_00",
+      "text": "particular job really well um uh and that's like uh and that's the there's the whole like secret agents is that you can't give them too many jobs uh they're like a eight -year -old kid that a 10 year old kid that can um that can uh just do one particular job very well so that's the whole design process uh behind it uh i'm more than happy to chat if anyone wants to talk like deep AI tech stuff uh"
+    },
+    {
+      "start": 2575.28,
+      "end": 2605.34,
+      "speaker": "SPEAKER_00",
+      "text": "early on the discord as well or like private DMS but uh but yeah um yeah hope that uh hope that helps yeah absolutely yeah we'll do the risky stuff sorry just to answer the stuff we will we will have a risky and riskier void uh uh later on but but for now yeah you want to build that trust first right you want people to raise the TVL with something safe and then you can offer something for the degens that is a little more spicy uh all right so anything"
+    },
+    {
+      "start": 2605.34,
+      "end": 2635.34,
+      "speaker": "SPEAKER_00",
+      "text": "else you want to share with the community uh right now I'm gonna say like join their Discord at neuro vaults there's a video that's going to come out in the next few weeks a few access codes there I think there's a sheet that you need to fill out that they'll give you some access codes I I perhaps maybe we'll have a few more in wrecking Discord that I'll share a very new project just launched today and these are AI managed yield vaults outperform the lending markets by"
+    },
+    {
+      "start": 2635.34,
+      "end": 2665.41,
+      "speaker": "SPEAKER_00",
+      "text": "41 I love that I love that uh very safe no liquidation risk obviously there is smart built by Hamza who is the head of the fire polygon so I kind of trust him um where I guess I I I trust them is all I got there uh anything else you want to share with the community in terms of how they can get involved or should get involved with neuro bolts no I think just uh I think our dogs are pretty oh yes uh there's"
+    },
+    {
+      "start": 2665.41,
+      "end": 2695.63,
+      "speaker": "SPEAKER_00",
+      "text": "a there's a cute little chatbot on the on the website uh on the bottom right uh corner uh if you have any questions about those other chats I don't know what to do with them any particular questions you can just ask around it uh ask about uh i think it should answer most of the stuff and then of course you can go into the docs and ask and just like read anything particular or if you have any particular questions open the discord and ask around and share the word deposit as much uh as as little as you as you are comfortable"
+    },
+    {
+      "start": 2695.63,
+      "end": 2726.29,
+      "speaker": "SPEAKER_00",
+      "text": "with as much as you're comfortable with and then read about it and then uh but it's just think of it as as like a robo advisor you have in tradfai uh where you can just deposit your cash and uh end it automatically using a back then you had different tools but using agents you can um you can rebalance and just get the best yield but that's not that's not all of it that's all i can say nice very cool more things yes so many things in the kitchen as you mentioned uh i'm excited for the new yield"
+    },
+    {
+      "start": 2726.29,
+      "end": 2756.54,
+      "speaker": "SPEAKER_00",
+      "text": "sources as well as the new stable coins i'm sure it's just gonna grow from there but congrats on the successful launch on mainnet today i think it's working fine right like there's no bugs on your end you're satisfied with uh what you have deployed so far yeah very cool yeah yeah so far it looks good we've been testing it uh the whole day i mean it was live even yesterday we were just like testing it uh and yeah yeah okay well that yeah so if there's anything um if y 'all have any feedback i think in this early stage"
+    },
+    {
+      "start": 2756.54,
+      "end": 2786.72,
+      "speaker": "SPEAKER_00",
+      "text": "it's always great to give hamza as much feedback as you can since uh you know the product is still growing growing with y 'all uh so yeah give him all your input he's gonna appreciate it i'm sure yeah please any by any means all right well thank you once more for your time for those that tuned in a little later i know we kind of had issues at the beginning the space is recorded all the juicy information is within the space so you can always listen to the recording at a time"
+    },
+    {
+      "start": 2786.72,
+      "end": 2816.84,
+      "speaker": "SPEAKER_00",
+      "text": "that works best for you hamza any closing words for the community you um and then i'll close it out um no uh i mean thank you for thank you everyone for joining i think we had over i think 50 people around up up and up like outgoing and incoming in the in the spaces so thank you for for listening in and thank you for uh for testing it out if you have really appreciate any feedback is much appreciated because i think this is a new whole new category uh and i think"
+    },
+    {
+      "start": 2816.84,
+      "end": 2847.48,
+      "speaker": "SPEAKER_00",
+      "text": "we are gigas like i don't know what is the superlative past giga but like i'm giga giga bullish hyper evm hyper liquid i have i was one of the earliest depositors and users of sevenix and hyperland and literally all of it uh from day one someday from april um and uh and yeah more of a d5 guy so like if you have any d5 particular questions uh but i do believe that this is the more elegant like agents using d5 is a more elegant wake"
+    },
+    {
+      "start": 2847.48,
+      "end": 2877.78,
+      "speaker": "SPEAKER_00",
+      "text": "uh to do and to automate a lot of things so i think that we can just. destinal video where i add, just just getting started in this whole new category we can go with uh terra bullish or no no that's uh i guess peta bullish i don't know like past giga there we go but yeah hamza is a true defy og hence um i'm sure these bots are going to be very successful so wishing you all the best check them out like i said a few access codes in the discord and rec egg um"
+    },
+    {
+      "start": 2877.78,
+      "end": 2907.84,
+      "speaker": "SPEAKER_00",
+      "text": "and it's only going to grow from there so very happy to be early on these ones and perhaps one day you will launch points who knows right like uh why not am i right i'm gonna try to tease that one out i don't know yeah i don't know ah no comment well played well played uh well thanks for taking the time today hamza out of your busy day i know you deployed today um but do bug him for codes and all those things if you have feedback i'm sure he appreciates that yeah yeah and yeah thanks everybody for tuning in uh"
+    },
+    {
+      "start": 2907.84,
+      "end": 2914.72,
+      "speaker": "SPEAKER_00",
+      "text": "and and enjoy the rest of your day everybody thanks one more time thank you thank you everyone bye"
+    }
+  ],
+  "speaker_map": {}
+}

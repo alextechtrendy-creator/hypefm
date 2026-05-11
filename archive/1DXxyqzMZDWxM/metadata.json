@@ -1,0 +1,77 @@
+{
+  "space_id": "1DXxyqzMZDWxM",
+  "title": "DeFi and LST on Hyperliquid with @hyperflash_hl",
+  "state": "ended",
+  "created_at": "2025-03-12T21:52:35Z",
+  "started_at": "2025-03-13T16:00:44Z",
+  "ended_at": "2025-03-13T16:44:35Z",
+  "scheduled_start": "2025-03-13T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 525,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1860029182509563904",
+      "username": "ifmarkets",
+      "display_name": "HyperFlash",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1678659890485526528",
+      "username": "0xSputnik",
+      "display_name": "0xSputnik",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DXxyqzMZDWxM",
+  "summary_title": "HyperFlash: Building DeFi Infrastructure and MEV Capture on HyperEVM",
+  "summary_description": "Deep dive into liquid staking tokens and MEV extraction strategies designed specifically for Hyperliquid's unique architecture.",
+  "topic_tags": [
+    "infrastructure",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 106,
+      "label": "Space opens with focus on DeFi and LSTs despite market conditions"
+    },
+    {
+      "timestamp_seconds": 344,
+      "label": "Himalaya and Sputnik introduce HyperFlash, their LST and MEV project"
+    },
+    {
+      "timestamp_seconds": 616,
+      "label": "Explanation of HyperCore versus HyperEVM architecture and composability"
+    },
+    {
+      "timestamp_seconds": 889,
+      "label": "Deep dive into liquid stake tokens and how FlashHYPE works"
+    },
+    {
+      "timestamp_seconds": 1316,
+      "label": "MEV definition and how arbitrage opportunities work across HyperLiquid markets"
+    },
+    {
+      "timestamp_seconds": 1652,
+      "label": "HyperFlash's 0% commission model and MEV yield distribution strategy"
+    },
+    {
+      "timestamp_seconds": 1989,
+      "label": "Launch timeline: FlashHYPE going live within one to two days"
+    },
+    {
+      "timestamp_seconds": 2080,
+      "label": "Partnerships with major DeFi protocols and incentive structures for early users"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2628.672,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,78 @@
+{
+  "space_id": "1YqKDZlNMOYJV",
+  "title": "Community Owned Dex on HL: Kittenswap",
+  "state": "ended",
+  "created_at": "2025-04-08T16:00:56Z",
+  "started_at": "2025-04-08T16:00:58Z",
+  "ended_at": "2025-04-08T16:41:31Z",
+  "scheduled_start": null,
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 165,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1865171567933562880",
+      "username": "KittenswapHype",
+      "display_name": "Kittenswap (🐱,🐱)",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqKDZlNMOYJV",
+  "summary_title": "KittenSwap: Building the Community-Owned DEX on HyperEVM",
+  "summary_description": "Shinji from KittenSwap discusses concentrated liquidity pools, points distribution, and why they're winning the DEX wars on HyperEVM.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 246,
+      "label": "Introduction to KittenSwap and founders' DeFi background"
+    },
+    {
+      "timestamp_seconds": 306,
+      "label": "Why they chose to build an AMM on HyperEVM and lessons from Curve Wars"
+    },
+    {
+      "timestamp_seconds": 427,
+      "label": "Concentrated liquidity pools explained and advantages over standard AMMs"
+    },
+    {
+      "timestamp_seconds": 517,
+      "label": "Token distribution strategy: 30% airdrop and why decentralization matters"
+    },
+    {
+      "timestamp_seconds": 910,
+      "label": "Points program mechanics and how users earn tokens early"
+    },
+    {
+      "timestamp_seconds": 1155,
+      "label": "Upcoming features: gauges, flight school, and automated liquidity management"
+    },
+    {
+      "timestamp_seconds": 1974,
+      "label": "Yield strategies: stable coin pools with triple points opportunities"
+    },
+    {
+      "timestamp_seconds": 2215,
+      "label": "Call to action: follow KittenSwap, join Discord, deposit in pools"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2437.8666875,
+  "capture_failure_reason": null
+}

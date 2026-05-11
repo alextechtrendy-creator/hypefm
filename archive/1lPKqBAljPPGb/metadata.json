@@ -1,0 +1,90 @@
+{
+  "space_id": "1lPKqBAljPPGb",
+  "title": "AMA with @HyperliquidX - Decentralized Order Book built on Tendermint",
+  "state": "ended",
+  "created_at": "2023-01-06T17:05:19Z",
+  "started_at": "2023-01-06T17:05:21Z",
+  "ended_at": "2023-01-06T18:31:36Z",
+  "scheduled_start": null,
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 374,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1527020295059648513",
+      "username": "HyperliquidX",
+      "display_name": "Hyperliquid",
+      "role": "speaker"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    },
+    {
+      "user_id": "319980816",
+      "username": "xulian_hl",
+      "display_name": "xulian.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1413810618688163843",
+      "username": "xLiquidSpirit",
+      "display_name": "LiquidSpirit",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lPKqBAljPPGb",
+  "summary_title": "Building a fully decentralized order book exchange from scratch on Tendermint",
+  "summary_description": "Hyperliquid founder explains why order books beat AMMs, how their custom chain solves DeFi's UX friction, and what's coming next.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "L1"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 70,
+      "label": "Introductions: Circa and Zerker host Jeff from Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 224,
+      "label": "Trading competition recap: half of participants liquidated by end"
+    },
+    {
+      "timestamp_seconds": 530,
+      "label": "Jeff's background: engineer-traders who saw inefficiency in DeFi after FTX collapse"
+    },
+    {
+      "timestamp_seconds": 895,
+      "label": "Why order books: analyzing AMMs, GMX hybrids, and choosing decentralized order books"
+    },
+    {
+      "timestamp_seconds": 1228,
+      "label": "Key differentiator: fully on-chain order book using Tendermint, not hybrid model"
+    },
+    {
+      "timestamp_seconds": 2102,
+      "label": "New pools feature: community-managed liquidation and market-making strategies launching soon"
+    },
+    {
+      "timestamp_seconds": 3073,
+      "label": "Roadmap: testnet in January, closed alpha mainnet targeting February"
+    },
+    {
+      "timestamp_seconds": 3285,
+      "label": "Collaborative roundtable spaces planned with other DEXs: Kujira, Hubble, DYDX, dYdX"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 5179.904,
+  "capture_failure_reason": null
+}

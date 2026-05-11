@@ -1,0 +1,84 @@
+{
+  "space_id": "1PlKQOXpqMWJE",
+  "title": "AI vaults on Hyperliquid with @neuravaults",
+  "state": "ended",
+  "created_at": "2025-12-04T01:07:27Z",
+  "started_at": "2025-12-04T17:00:37Z",
+  "ended_at": "2025-12-04T17:49:15Z",
+  "scheduled_start": "2025-12-04T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 146,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1912518752337571840",
+      "username": "NeuraMarkets",
+      "display_name": "NeuraX",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1414654440821436420",
+      "username": "Rekt_Zerker",
+      "display_name": "Zerk",
+      "role": "speaker"
+    },
+    {
+      "user_id": "2611100725",
+      "username": "_imhamzah",
+      "display_name": "hamzah",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1PlKQOXpqMWJE",
+  "summary_title": "Neurovolts: AI-Managed Yield Vaults Launch on Hyperliquid EVM",
+  "summary_description": "Hamza, ex-Polygon DeFi head, discusses newly-launched AI agents optimizing stablecoin yields 30-40% above lending markets with zero leverage risk.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 231,
+      "label": "Space goes live after technical difficulties; Hamza joins"
+    },
+    {
+      "timestamp_seconds": 395,
+      "label": "Hamza announces mainnet launch timing coinciding with Hyperliquid event in UAE"
+    },
+    {
+      "timestamp_seconds": 576,
+      "label": "Zerk introduces Hamza as ex-Polygon DeFi head, bootstrapped builder in crypto"
+    },
+    {
+      "timestamp_seconds": 757,
+      "label": "Discussion of why AI vault strategy chosen over directional trading agents"
+    },
+    {
+      "timestamp_seconds": 1180,
+      "label": "Deep dive into mechanics: deposits, withdrawals, and underlying yield sources"
+    },
+    {
+      "timestamp_seconds": 1575,
+      "label": "Explanation of 41% outperformance metric and AI size-aware allocation logic"
+    },
+    {
+      "timestamp_seconds": 2091,
+      "label": "Roadmap preview: transparency features, new stablecoins (USDH), more yield sources"
+    },
+    {
+      "timestamp_seconds": 2816,
+      "label": "Closing remarks; Hamza expresses bullishness on Hyperliquid EVM and agents in DeFi"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2920.2986875,
+  "capture_failure_reason": null
+}

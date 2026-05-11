@@ -1,0 +1,108 @@
+{
+  "space_id": "1YpKkBMnpLwxj",
+  "title": "PVP on Hyperliquid",
+  "state": "ended",
+  "created_at": "2025-03-25T18:58:11Z",
+  "started_at": "2025-03-26T17:00:25Z",
+  "ended_at": "2025-03-26T18:23:55Z",
+  "scheduled_start": "2025-03-26T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 764,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "host"
+    },
+    {
+      "user_id": "1811161714974760960",
+      "username": "pvp_dot_trade",
+      "display_name": "pvp.trade",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1294951889495371776",
+      "username": "HatashiYamatomo",
+      "display_name": "hatashi",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1874962138944671744",
+      "username": "reslashacc",
+      "display_name": "samu (re/acc)",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1808370527959961600",
+      "username": "notputsandcalls",
+      "display_name": "🖤puts🤍",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1723424740361023488",
+      "username": "GuthixHL",
+      "display_name": "Guthix 🫵",
+      "role": "speaker"
+    },
+    {
+      "user_id": "285771380",
+      "username": "scrtlovers",
+      "display_name": "Em𝕊///Rekt101",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YpKkBMnpLwxj",
+  "summary_title": "Coordinated Exchange Attack on Hyperliquid and Building PVP Trading Apps",
+  "summary_description": "Discussion of the Jelly token attack on Hyperliquid, validator response, and introduction to PVP.trade's social trading platform.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 89,
+      "label": "Opening discussion about coordinated attack on Hyperliquid ecosystem"
+    },
+    {
+      "timestamp_seconds": 302,
+      "label": "PVP.trade team explains the Jelly token incident and delisting decision"
+    },
+    {
+      "timestamp_seconds": 514,
+      "label": "Community debate on centralized exchange response and Hyperliquid's decentralization approach"
+    },
+    {
+      "timestamp_seconds": 786,
+      "label": "Discussion of HLP vault withdrawals and yield implications after attack"
+    },
+    {
+      "timestamp_seconds": 1328,
+      "label": "Introduction to PVP.trade platform and telegram bot for group trading"
+    },
+    {
+      "timestamp_seconds": 1781,
+      "label": "PVP.trade co-founders explain genesis story and 30 billion volume milestone"
+    },
+    {
+      "timestamp_seconds": 2296,
+      "label": "How to get started with PVP.trade and copy trading features"
+    },
+    {
+      "timestamp_seconds": 2962,
+      "label": "Transition to Hyperliquid EVM opportunities and leverage strategies"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 5010.752,
+  "capture_failure_reason": null
+}

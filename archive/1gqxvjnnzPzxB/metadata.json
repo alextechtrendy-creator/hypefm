@@ -1,0 +1,72 @@
+{
+  "space_id": "1gqxvjnnzPzxB",
+  "title": "Retire on Hyperliquid with @luckyponds",
+  "state": "ended",
+  "created_at": "2025-06-11T17:39:51Z",
+  "started_at": "2025-06-12T16:02:02Z",
+  "ended_at": "2025-06-12T16:44:12Z",
+  "scheduled_start": "2025-06-12T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 34,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1923501722741190656",
+      "username": "LuckyPonds",
+      "display_name": "Lucky Ponds 🍀",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1gqxvjnnzPzxB",
+  "summary_title": "HyperFrogs NFTs and Lucky Ponds: Building gambling games on HyperVM",
+  "summary_description": "Bernie discusses launching HyperFrogs, an on-chain ASCII NFT collection, and Lucky Ponds, a decentralized lottery with revenue sharing for frog holders.",
+  "topic_tags": [
+    "ecosystem",
+    "community",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 91,
+      "label": "Host introduces Bernie, Cosmos OG dev now building on HyperLiquid"
+    },
+    {
+      "timestamp_seconds": 517,
+      "label": "Bernie explains motivations for launching HyperFrogs on HyperEVM and learning Solidity"
+    },
+    {
+      "timestamp_seconds": 640,
+      "label": "Bernie discusses migration issues with original HyperFrog contract and community response"
+    },
+    {
+      "timestamp_seconds": 791,
+      "label": "Host explains why Hyperliquid attracts builders over Cosmos: more liquidity and active users"
+    },
+    {
+      "timestamp_seconds": 1094,
+      "label": "Lucky Ponds lottery game mechanics and 7% fee revenue sharing with HyperFrogs holders"
+    },
+    {
+      "timestamp_seconds": 1614,
+      "label": "Lucky Ponds goes live with daily, weekly, monthly pools and NFT collaboration promotions"
+    },
+    {
+      "timestamp_seconds": 2071,
+      "label": "Bernie explains hyper mode five-minute pools, PvP mechanics, and whale protection features"
+    },
+    {
+      "timestamp_seconds": 2375,
+      "label": "Security discussion: contract design, VRF challenges, and protections against validator exploitation"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2530.5173125,
+  "capture_failure_reason": null
+}

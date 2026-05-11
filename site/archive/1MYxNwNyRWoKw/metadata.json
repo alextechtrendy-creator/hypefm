@@ -1,0 +1,78 @@
+{
+  "space_id": "1MYxNwNyRWoKw",
+  "title": "Make money during bear with Felix on $HYPE",
+  "state": "ended",
+  "created_at": "2025-04-06T19:44:00Z",
+  "started_at": "2025-04-07T17:59:26Z",
+  "ended_at": "2025-04-07T18:59:43Z",
+  "scheduled_start": "2025-04-07T18:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 146,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1843322702943473664",
+      "username": "felixprotocol",
+      "display_name": "Felix",
+      "role": "speaker"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1MYxNwNyRWoKw",
+  "summary_title": "Make money during the bear with Felix: Liquidation rewards and stable yields",
+  "summary_description": "How Felix Protocol's stability pool lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins on Hyperliquid.",
+  "topic_tags": [
+    "vaults",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 140,
+      "label": "Space opens with discussion of upcoming launch and market activity"
+    },
+    {
+      "timestamp_seconds": 387,
+      "label": "Aaron from Felix introduces the protocol and team background in DeFi risk"
+    },
+    {
+      "timestamp_seconds": 540,
+      "label": "Felix's vision: secure money markets and CDP stablecoin model for Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 691,
+      "label": "How stability pools work: first rights to liquidations, 5% penalty rewards"
+    },
+    {
+      "timestamp_seconds": 873,
+      "label": "APY breakdown: 5-6% stable yield plus additional liquidation rewards from fees"
+    },
+    {
+      "timestamp_seconds": 1417,
+      "label": "Felix launches points program tomorrow; mint cap raising to 5 million FEUSD"
+    },
+    {
+      "timestamp_seconds": 1961,
+      "label": "Future roadmap: Bitcoin support this week, LSTs pending pre-compiles availability"
+    },
+    {
+      "timestamp_seconds": 2506,
+      "label": "Vision for structured products and expanding Hyperliquid's user base beyond DeFi natives"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3619.2,
+  "capture_failure_reason": null
+}

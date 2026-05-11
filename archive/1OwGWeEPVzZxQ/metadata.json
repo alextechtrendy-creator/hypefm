@@ -1,0 +1,84 @@
+{
+  "space_id": "1OwGWeEPVzZxQ",
+  "title": "Long Goog/Short Nvidia with Pair Trading on Hyperliquid",
+  "state": "ended",
+  "created_at": "2025-12-01T20:01:55Z",
+  "started_at": "2025-12-02T16:59:55Z",
+  "ended_at": "2025-12-02T17:52:22Z",
+  "scheduled_start": "2025-12-02T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 169,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1490800981264764930",
+      "username": "ClBlockchain",
+      "display_name": "C-l.hl 🏰🍐",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1362031162298875904",
+      "username": "hufhaus9",
+      "display_name": "huf.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "285771380",
+      "username": "scrtlovers",
+      "display_name": "Em𝕊///Rekt101",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1OwGWeEPVzZxQ",
+  "summary_title": "Pair Protocol's 45% Win Rate Strategy: Pair Trading on Hyperliquid",
+  "summary_description": "How pair trading delivers 2.25x better odds than directional trading, with live vaults and LLM tools launching soon.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 311,
+      "label": "Introduction to Pair Protocol and the team from Montreal"
+    },
+    {
+      "timestamp_seconds": 431,
+      "label": "Huff explains pair trading concept and why it's superior to directional trades"
+    },
+    {
+      "timestamp_seconds": 583,
+      "label": "45% user win rate revealed: multiples higher than directional trading platforms"
+    },
+    {
+      "timestamp_seconds": 854,
+      "label": "Technical deep dive: how Pair tokenizes basket trades and manages risk on-chain"
+    },
+    {
+      "timestamp_seconds": 1036,
+      "label": "October 10 event case study: how pair traders survived liquidation cascade"
+    },
+    {
+      "timestamp_seconds": 1428,
+      "label": "LLM agent and vault launches: automation and passive pair trading coming next week"
+    },
+    {
+      "timestamp_seconds": 1763,
+      "label": "Incentive program: 6K Hype tokens distributed weekly to active pair traders"
+    },
+    {
+      "timestamp_seconds": 2245,
+      "label": "Future vision: API integrations, vaults, and omnipresent pair trading across crypto platforms"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3147.7546875,
+  "capture_failure_reason": null
+}

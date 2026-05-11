@@ -1,0 +1,68 @@
+{
+  "space_id": "1ynKOMYZvjQJR",
+  "title": "Liquid Staking on Hyperliquid with Valantis - stHYPE & HyENA",
+  "state": "ended",
+  "created_at": "2025-12-09T19:22:16Z",
+  "started_at": "2025-12-10T18:59:57Z",
+  "ended_at": "2025-12-10T20:01:14Z",
+  "scheduled_start": "2025-12-10T19:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 65,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1383949323747020808",
+      "username": "0xaioli",
+      "display_name": "Ali",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ynKOMYZvjQJR",
+  "summary_title": "Volantis: Building the Complete Hype Staking Solution on Hyperliquid",
+  "summary_description": "How Volantis is capturing hype's full utility through liquid staking, the Athena partnership, and institutional-grade infrastructure.",
+  "topic_tags": [
+    "HLP",
+    "perps",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 61,
+      "label": "Introductions: Zerk, hosts and Ollie from Volantis growth team"
+    },
+    {
+      "timestamp_seconds": 551,
+      "label": "Volantis thesis: liquid staking and hype utility capture on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 793,
+      "label": "Why Volantis launched points now: products finally ready to scale billions in TVL"
+    },
+    {
+      "timestamp_seconds": 1066,
+      "label": "StakeType multi-account architecture enables market-making discounts and institutional strategies"
+    },
+    {
+      "timestamp_seconds": 1490,
+      "label": "Athena partnership: USD yield flowing back to ST hype holders, custom quote assets avoid slashing"
+    },
+    {
+      "timestamp_seconds": 2642,
+      "label": "Community participation: looping strategies, Pendle integrations, points farming mechanics"
+    },
+    {
+      "timestamp_seconds": 3369,
+      "label": "Hype valuation thesis: undervalued vs peers, potential top-5 asset, long-term flipping Ethereum"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3679.296,
+  "capture_failure_reason": null
+}

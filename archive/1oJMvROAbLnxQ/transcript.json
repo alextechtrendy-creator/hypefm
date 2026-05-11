@@ -1,0 +1,716 @@
+{
+  "space_id": "1oJMvROAbLnxQ",
+  "language": "en",
+  "duration_seconds": 3609.6426875,
+  "chunks": [
+    {
+      "start": 0.0,
+      "end": 75.79,
+      "speaker": "SPEAKER_00",
+      "text": "mgm how"
+    },
+    {
+      "start": 75.79,
+      "end": 106.11,
+      "speaker": "SPEAKER_00",
+      "text": "y 'all doing mic check how we sounded oh you sounding crispy oh got you got like a setup there really okay let's uh is it any reverb or um now it started the reverb but the first yeah i think it's better now all right it's great to connect man yeah very cool thanks for building"
+    },
+    {
+      "start": 106.11,
+      "end": 136.25,
+      "speaker": "SPEAKER_00",
+      "text": "on hyper liquid and i'm really excited for the space new hit three the ployer we don't get those very often we shall get started in just a couple of minutes and i want to say this is the first time somebody gave us a musical request somebody gave us a song to play uh for the intro for the opening of the space so really cool where does that lore come from yeah the idea is you know paragon"
+    },
+    {
+      "start": 136.25,
+      "end": 166.31,
+      "speaker": "SPEAKER_00",
+      "text": "you know paralytics we we have a lot of of p based words floating around in the group chat and you know this this this was actually a meme kind of on the internet not too long ago um you know the idea was like push and p it was the song and and no one really understood what push and p meant um it was kind of a catch -all for whatever you want to call it but it was kind of a catch -all for whatever you want to call it whatever you wanted it to mean um so yeah just a blast from the past i i enjoy nice all right without further ado hope this works"
+    },
+    {
+      "start": 166.31,
+      "end": 196.38,
+      "speaker": "SPEAKER_00",
+      "text": "oh the audio is a bit rough oh yeah so i have the laptop next to the computer in that in that case feel free to just play whatever you've got a bit higher fidelity i don't think i don't think we need to listen to to future through a a mic a laptop usually i have to another setup that it works better but today is i appreciate"
+    },
+    {
+      "start": 196.38,
+      "end": 236.76,
+      "speaker": "SPEAKER_00",
+      "text": "you try man trendy's disappointed trendy you want to come up and play the song my partner in crime um all right so if y 'all just join the space bottom right corner there's a little purple bubble give the space a like it'll retweet always helps with the algorithm and as i said we shall get started in just a minute right now coming to it there we go nice all"
+    },
+    {
+      "start": 236.76,
+      "end": 266.8,
+      "speaker": "SPEAKER_00",
+      "text": "right let me just ping a couple more people and we will get started also want to bring up the files that you shared with me a couple of screenshots i want to use them yeah it'd be awesome just this under the space all right well let's get this uh let's kick it off i like the you know i have a tight ship here i like to keep with"
+    },
+    {
+      "start": 266.8,
+      "end": 296.8,
+      "speaker": "SPEAKER_00",
+      "text": "the timings and everything like that it's really important for me because these spaces most of the time i like to keep with the timings most of the people actually listen to the recordings more than anything hence um yeah i want to keep with the timelines so today we have the honor the privilege the prestige of hosting taha from the paragon team and we're going to learn all about paragon today they are a new hip3 deployer i'm really excited to learn more about what"
+    },
+    {
+      "start": 296.8,
+      "end": 326.86,
+      "speaker": "SPEAKER_00",
+      "text": "they've been cooking what they have in store for us as well and we're going to get started in just a minute so let's get started and they've just deployed i think a couple of days ago on hyperliquid i think the official announcement is 12 hours ago so this is very very fresh very very new uh so excited to learn more about what you all have been doing i'm zerk co -founder of rec gang we also run a validator on hyperliquid um and we host a lot of spaces so like to push the education uh as well as pushing"
+    },
+    {
+      "start": 326.86,
+      "end": 356.98,
+      "speaker": "SPEAKER_00",
+      "text": "p so taha you want to introduce yourself real quick give us maybe a little bit of background about yourself and then we'll get into it yeah that sounds good um so i'm the founder of paragon you know i've been building in the crypto space for a little bit now um you know my journey really started in the world of tradfi in uh structured finance and and kind of hedge funds um yeah i actually first heard about bitcoin back in 2013 during the arab spring my father was actually"
+    },
+    {
+      "start": 356.98,
+      "end": 387.24,
+      "speaker": "SPEAKER_00",
+      "text": "using it for remittance purposes um wish i had paid more attention to that um you know perhaps i i wouldn't be on this this this twitter space right now but all that to to say like that was kind of the beginning beginning of my journey um it really evolved into kind of you know hobbyist enthusiasts in college um mainly a means for my friends and i to to make money from our dorm rooms but um i think around 2019 or 2020 or so you know this story is going to sound fairly familiar"
+    },
+    {
+      "start": 387.24,
+      "end": 417.36,
+      "speaker": "SPEAKER_00",
+      "text": "um i was starting to see some some real traction and proliferation of use cases in d5 that were you know very relevant to what i was doing in the debt capital markets in tradfi um and um at that time all of my friends were kind of jumping ship and and joining crypto startups so i decided to make the leap full -time into the solana ecosystem um where i was building you know helping to build down treasury management tooling um this was all free fdx so you know long"
+    },
+    {
+      "start": 417.36,
+      "end": 447.38,
+      "speaker": "SPEAKER_00",
+      "text": "story short um we had a pipeline of of customers we were selling non -custodial d5 products to uh that basically vanished overnight right because they decided to to keep their funds on fdx um so we pivoted pretty aggressively um you know they decided to keep their funds on ftx instead of going through a non -custodial solution is that what you're saying exactly so our customers were the solana dows themselves right uh we were kind of preaching the gospel"
+    },
+    {
+      "start": 447.38,
+      "end": 477.56,
+      "speaker": "SPEAKER_00",
+      "text": "of you know diversification amongst different overall over collateral and goods but it's also a kind of like a kind of like a divide into like what you can build okay so all of the really great price lists you know that we put together people like jim bryant uh the first time you've seen the d5 platform and and you can you know get a very good idea if you want to get a pretty good idea of how it would be to enter into the fdx estaban um you would likely would you just you know you couldn't just um what do you know you know what you actually want to do with it and and then you just you know you"
+    },
+    {
+      "start": 477.56,
+      "end": 508.0,
+      "speaker": "SPEAKER_00",
+      "text": "have to kind of go through it and figure out where the it's going to be if you like if you're interested you can just go to my website d5 manager or somewhere else there's a link at the bottom of the back to them and say, I told you so, or it was too late at that point. You know, we were a startup and kind of like, what do we, what do we do about, um, so, you know, w what do you do when your, your pipeline kind of vanishes overnight is, is we pivoted. So, you know, we all kind of started thinking about, um, you know, what, what, what, what we could build next that would deliver value in the ecosystem. Um, you"
+    },
+    {
+      "start": 508.0,
+      "end": 538.1,
+      "speaker": "SPEAKER_00",
+      "text": "know, what got me into the space in the first place was like I had said before, kind of some of the unsexier stuff like, uh, debt capital markets on chain and, um, you know, uh, a lot of the over collateralized lending that was still going on post FTX collapse. Um, so we started to put together a dashboard, right. Of kind of like everything you'd want to see as a structured credit or debt investor, um, if you were deploying into the centrifuges and the Maples and, and kind of these defy"
+    },
+    {
+      "start": 538.1,
+      "end": 568.14,
+      "speaker": "SPEAKER_00",
+      "text": "lending protocols. Um, and. Yeah, that became what is now RWA dot X, Y, Z. Uh, those guys really ran with, with that concept of, of analytics for, you know, real world lending tokenization, um, protocols, um, and I parted ways to, to start a product studio called Meridian labs with my business partner, uh, JT Bray, where we focused on validator infrastructure, uh, which, you know, I think is really, uh, I'd"
+    },
+    {
+      "start": 568.14,
+      "end": 598.25,
+      "speaker": "SPEAKER_00",
+      "text": "like to say is a natural evolution of, of kind of what we're doing now with hip three. Nice. Very cool. So, so pretty impressive background in web three. Um, usually when I interview folk, you know, they, they don't, uh, they haven't played with Bitcoin back in 2014. No. Yeah. And, and like, don't let me overplay that. Uh, it was, it was quite literally, uh, you know, your dad waving you over to the computer. Um, yeah, I thought"
+    },
+    {
+      "start": 598.25,
+      "end": 628.45,
+      "speaker": "SPEAKER_00",
+      "text": "he wanted me to, to help him. Is your dad now like, uh, Oh, geez. Super OG Bitcoin holder. I thought he, candidly, I thought he wanted me to help him with an email. Right. Uh, cause that's usually what he, what he's asking for my help with. Um, but yeah, if I, I guess if I had paid more attention to it, then I wouldn't have needed to kind of been on the early exchanges when back in college, kind of messing around with master nodes and things like that. Yeah. I remember those"
+    },
+    {
+      "start": 628.45,
+      "end": 658.51,
+      "speaker": "SPEAKER_00",
+      "text": "days, honestly, I lost my Bitcoin from those times I had. I'd bought it and then I just don't remember where I put it at all. Um, yeah, I've, I've kind of run the gamut of like, you know, the, the entire, just having been around for a little bit now, um, of everything from, you know, the Bitcoin mask, Max, most for you to like, um, you know, everything kind of in between. So, uh, where, where I lie now on the spectrum is, you know, we're really product focused builders first. Um, we think the space"
+    },
+    {
+      "start": 658.51,
+      "end": 688.67,
+      "speaker": "SPEAKER_00",
+      "text": "has come like very far. Uh, especially. For, for builders like us. Um, and that's why we're really excited about what, what hyperliquid is built here with hip three, um, in terms of like almost mirroring the grab and go, you know, off the shelf infrastructure that you see with, with SAS companies and web two. Um, so yeah, very, let's get into it. Let's get into it. So, um, told us a little bit about yourself. Tell us a little bit about Paragon. Uh, we know"
+    },
+    {
+      "start": 688.67,
+      "end": 719.13,
+      "speaker": "SPEAKER_00",
+      "text": "it's a hip three, the poor, but, uh, I'll be. Quite Frank with you. I had not heard of Paragon before this announcement and before y 'all, I guess, snaked with us and all those things kind of unraveled in the past, uh, week. This, this is new to me, so I'd love to know more. Yeah. Yeah. And that was very intentional, right? You know, we were, we're a very lean team and we were heads down building, focused on, you know, delivering a product that we are able to kind of, you"
+    },
+    {
+      "start": 719.13,
+      "end": 749.35,
+      "speaker": "SPEAKER_00",
+      "text": "know, uh, stand behind. And, you know, at least put 500 ,000 hype behind and, um, feel confident in that. Um, but yeah, the, the, the concept behind Paragon really comes from my own trading. Um, after the product studio, um, I, I spent some time, you know, uh, just trading my own book. I, I love markets. Uh, I find them endlessly fascinating. I think like the interdisciplinary nature of them, um, something that shares with crypto and blockchain is, you know, for someone"
+    },
+    {
+      "start": 749.35,
+      "end": 779.49,
+      "speaker": "SPEAKER_00",
+      "text": "like me, who's, who's got a short life. I'm a huge attention span is, is, is always very interesting and alluring. Um, so I was using things like Bitcoin dominance, total two and others every single day in my charting in my systematic workflows. And I looked around and, um, you know, everybody else was doing this too. So I, I started gathering some numbers on it, uh, whether that was search interests over time or social media mentions or, you know, trading view ideas. So"
+    },
+    {
+      "start": 779.49,
+      "end": 810.33,
+      "speaker": "SPEAKER_00",
+      "text": "trading view has like a. the social feature to their website where you can share TA or investment theses. And what I noticed was these things are actually some of the most charted, you know, discussed, widely tracked tickers in crypto. To give you a sense, like we're talking 30 or 40 % as many mentions as Bitcoin or ETH cash tags themselves amongst like people who are, you know, how we defined as avid TA analysts."
+    },
+    {
+      "start": 810.89,
+      "end": 840.65,
+      "speaker": "SPEAKER_00",
+      "text": "And we're talking just as much, if not more than, you know, the hottest TGEs from 2025. So think Monat or Bera. All of this to say they're very front of mind for folks. They occupy mindshare, they're embedded into their workflows, but they remain completely analytical and non -actual. So I think it was a combination of that idea, right? And then seeing HIP3 come down the train tracks as this massive infrastructure"
+    },
+    {
+      "start": 840.65,
+      "end": 871.25,
+      "speaker": "SPEAKER_00",
+      "text": "unlock, you know, lowering of activation energy. I'm going to use some borrowed words here, but when it comes to like trade and product related ideas, they're very hard to pull off, even if you have like one differentiating factor, because everything kind of needs to go right. I think, you know, Jeff has kind of mentioned this before. You know, you need liquidity. You need to go to UX. You need you need everything beyond just your differentiating factor and being able to focus purely on, hey, we"
+    },
+    {
+      "start": 871.25,
+      "end": 901.55,
+      "speaker": "SPEAKER_00",
+      "text": "want to create an index that will find product more fit that folks want to trade. You know, that's hedgeable for market makers that we can build a robust oracle for rather than spending time, right? Kind of iterating on a front end or a T -Block feature that's been built 100 times over really allows us to narrow our focus as builders. So that's that's the concept behind Paragon, right? We're starting with these Bitcoin. Dominance and sort"
+    },
+    {
+      "start": 901.55,
+      "end": 931.94,
+      "speaker": "SPEAKER_00",
+      "text": "of crypto related indices. But I think it can be extended broadly to anything that is front of mind, whether it's discourse or indicators, right, or these mental models that that kind of seem to exist and become consensus. As long as we can build a reliable, low latency data feed and come up with a standardized methodology for it, you know, the design space for markets is really endless. I mean, you're so right on this. We hear Bitcoin."
+    },
+    {
+      "start": 931.96,
+      "end": 962.18,
+      "speaker": "SPEAKER_00",
+      "text": "Dominance pretty much every week, right? Like everybody talks about Bitcoin dominance in terms of crypto movement. Yet, as you mentioned, it wasn't actionable. There isn't a way you can trade Bitcoin dominance as far as I know. So from I guess that you guys decided to spin up a hip free market where it finally can be actionable. Exactly. And, you know, we kind of we looked at history to inform this as well. So"
+    },
+    {
+      "start": 962.18,
+      "end": 992.2,
+      "speaker": "SPEAKER_00",
+      "text": "if you look at other indices, financial indices, whether it's the Russell 2000, the example I really love using is the Dow Jones Industrial Average, right? So the blue chips and to see for for U .S. equities has existed since the late 1800s. But it was, again, analytical and non actionable for for a century before ETFs and, you know, sort of options infrastructure came around. The same thing with the S &P, right? The the analytical"
+    },
+    {
+      "start": 992.2,
+      "end": 1022.48,
+      "speaker": "SPEAKER_00",
+      "text": "indices existed before the ETF. So this is kind of history repeating itself. It's been it's been about a decade. We're talking like 2014 or 2017 for the the tickers that we have in question here. And, you know, why do you think that is S &P? Huge hit on hyperliquid. Very recent. But as you mentioned, you know, you could trade that before. We've been in. Crypto for 20 years at this point."
+    },
+    {
+      "start": 1022.52,
+      "end": 1052.5,
+      "speaker": "SPEAKER_00",
+      "text": "Bitcoin has been around. Yeah, yes. Nobody did that. Bitcoin dominance basket or chart or I don't know. Why is why has this product not launched before? It's a good question. Yeah. And we've spent a lot of time thinking about this, and it's probably like the most consistent question we've gotten, right? I think it's a couple of things. I think perps are are a huge piece of this puzzle, right? When it comes to bootstrapping, two sided marketplaces. And just the product market fit that it's"
+    },
+    {
+      "start": 1052.5,
+      "end": 1083.02,
+      "speaker": "SPEAKER_00",
+      "text": "found in crypto. It's hard to kind of deny that perps are just a better foundation for for launching new things like the, you know, experimental products on top of, you know, a lot of the indices that people have attempted in the past have been spot. And when it comes to spot doing things like, you know, the 125 name baskets that we're doing just gets incredibly challenging, especially two or three years ago, right, where interoperability was nowhere near. Where it is today. So"
+    },
+    {
+      "start": 1083.02,
+      "end": 1113.12,
+      "speaker": "SPEAKER_00",
+      "text": "with the top 125 names, we're talking 40 or 50 blockchain networks like, you know, good luck, I guess. And then like the main reason I would say they haven't really taken off is I just think like the the product minded thinking in this space just hasn't been there. Right. So that that to say, like, there's been a lot of like cart before the horse thinking when it comes to crypto indices. A lot of. Seen in the past has been a top 10 index"
+    },
+    {
+      "start": 1113.12,
+      "end": 1143.76,
+      "speaker": "SPEAKER_00",
+      "text": "or a sector based index, like a DeFi index. And I just don't know if we're there as an asset class yet. I don't personally want set and forget exposure to the top 20 assets. I would implore you to find, you know, six names, right, that you kind of want to buy into and and not look at the chart for for for however many years like it's tough right now. Right. We're still very much a momentum and flow of funds based asset. Class. And, you know, based"
+    },
+    {
+      "start": 1143.76,
+      "end": 1175.12,
+      "speaker": "SPEAKER_00",
+      "text": "on the sort of customer discovery that we've done, these tickers do an excellent job of describing those flows. Right. There's no one company that kind of created them. You see different like different definitions all over the place. Yet traders are still kind of gravitating towards them for as benchmarks. Right. And then taking proxy trade, like using them to take proxy trades on something else. So that's kind of like where we came at the problem from. I"
+    },
+    {
+      "start": 1175.12,
+      "end": 1205.16,
+      "speaker": "SPEAKER_00",
+      "text": "think like before, it's been a lot of like, hey, I think everyone wants to trade a top 50 index. And then you'd put it out there and be surprised why there's kind of no traction again. It kind of goes with the philosophy and the North Star of Paragon, where it's like, let's find the ideas that are already front of mind, right. That are already consensus and do our best to encapsulate the methodology. Right. The narrative. into a standardized definition for the market. S"
+    },
+    {
+      "start": 1205.16,
+      "end": 1237.02,
+      "speaker": "SPEAKER_00",
+      "text": "&P has this motto, right? The standard the market operates on. So is that one of the objectives becoming kind of the standard alt, the basket? Can I use that word? Or others, I think you call it. Yeah, exactly. We want the paragon price to be the, you know, quote unquote true price for these things. And we think that comes with, you know, having standardized, transparent, auditable, you know, independently replicable methodologies for these things. That's"
+    },
+    {
+      "start": 1237.02,
+      "end": 1267.51,
+      "speaker": "SPEAKER_00",
+      "text": "really like the stepping stone. So that's where we see like the value that we're adding to the hyper -liquid community. And I guess, you know, crypto as a whole. Yeah, and it's crazy. You're right as well when you said perps gave a huge unlock for these because never in my life I thought I'd be trading stocks or commodities. But add 20, 50x leverage to it, all of a sudden I'm a silver, oil, and S &P trader, right?"
+    },
+    {
+      "start": 1267.67,
+      "end": 1297.77,
+      "speaker": "SPEAKER_00",
+      "text": "And now it's exciting. Yeah, exactly. So, you know, it's all about like the problem that you're solving, you know, for the user and the friction that you're removing from the equation. And we think trade has done an excellent job with what they're bringing to hyper -liquid, right? By allowing folks to trade these super popular assets, right? Again, that are front of mind and, you know, they're not going to be in the sort of current discourse whenever you want. That is, you know, in my opinion, a 10x improvement on"
+    },
+    {
+      "start": 1297.77,
+      "end": 1327.79,
+      "speaker": "SPEAKER_00",
+      "text": "what exists, what has existed before. And that's why you're seeing them find product market fit. So we're looking at it the same way. I think like for us, we want to focus on where we can bring value on like the asset creation piece of this pipeline. I think like those are the kind of the two parts to being a, you know, a market fit. I think like those are the kind of the two parts So we're kind of like a hip three deployer, right? It's the asset creation piece. And then being like the builder and deployer of these markets and the operator of these"
+    },
+    {
+      "start": 1327.79,
+      "end": 1358.17,
+      "speaker": "SPEAKER_00",
+      "text": "markets. So we're kind of both like S &P and Vanguard slash state street in one is the way to think about it, right? Like we're coming up with the IP and the sort of licensing behind or the methodology behind the indices. But then we don't really need to partner with, you know, a state street or Vanguard to like, make the underlying instrument, right? We can go and deploy the market ourselves. And therefore that let that feedback loop that iteration loop for asset creation happens"
+    },
+    {
+      "start": 1358.17,
+      "end": 1388.32,
+      "speaker": "SPEAKER_00",
+      "text": "at a much quicker rate. So, yeah, that's kind of the way that I see it. Like very cool. So let's talk about those assets in question. You have three, right? That are live today that people can trade soon on the hyperliquid front. And as far as I understand, as soon as, you know, they get to it, you can already used TreadFi. You"
+    },
+    {
+      "start": 1388.32,
+      "end": 1418.58,
+      "speaker": "SPEAKER_00",
+      "text": "can use pair protocol. There's many options if you want to be trading them and soon on the hyperliquid front end. But my focus on this question is the assets. So the three tickers that I see here, BPCB, which to me represents BTC dominance, there's total two and there's others. Can you walk me through kind of the design? Of these three assets and then maybe even talk a little bit about how those prices"
+    },
+    {
+      "start": 1418.58,
+      "end": 1449.0,
+      "speaker": "SPEAKER_00",
+      "text": "are tracked, because I think Oracle's is one of the big differentiating factor and funding rates. There's a lot of like differentiating factors in assets that may seem similar. That's why we have like four goals or five goals on hyperliquid, but they all have their nuances. So walk me through those as well, if you can. Yeah. So we start with 125 name. Bass. It's for for all of our market cap and dominance related perps when it comes to crypto. And then for,"
+    },
+    {
+      "start": 1449.08,
+      "end": 1479.26,
+      "speaker": "SPEAKER_00",
+      "text": "you know, Bitcoin dominance is simply dominance. Indices are defined as, you know, a numerator basket over a denominator basket. You know, typically the entire 125 name universe. So Bitcoin dominance is simply the market cap of Bitcoin over the total market cap of the top 125 assets. This is a. You know, a great measure of Bitcoin outperformance or underperformance. So, you know, it should have less volatility"
+    },
+    {
+      "start": 1479.26,
+      "end": 1509.48,
+      "speaker": "SPEAKER_00",
+      "text": "than Bitcoin itself. It's been interesting. It's kind of been trading range bound for nearly a year. There's a lot of of kind of T .A. out there. You can see on, you know, whether it's reaching a breaking point up or down one way or another. I'm sure there's some some excellent traders maybe in this chat who have opinions on that. And then total two right gives you a better sense of what does the market look like without Bitcoin? So it is the top 125 excluding"
+    },
+    {
+      "start": 1509.48,
+      "end": 1540.07,
+      "speaker": "SPEAKER_00",
+      "text": "the market cap of Bitcoin. It's a good indication of like, OK, well, where are each soul and kind of the rest of the bunch heading? Something you might want to kind of longer short based on Altcoin outperformance or underperformance. And then others. Right is the same concept as total two, but it's excluding the top ten assets. So the concept there is really capturing, you know, the more left tail of assets rather"
+    },
+    {
+      "start": 1540.07,
+      "end": 1570.17,
+      "speaker": "SPEAKER_00",
+      "text": "than, you know, if you have a thesis that Altcoins will outperform at some point in the cycle, the idea is removing kind of single name or idiosyncratic risk. Right. And being able to to capture a basket, right, rather than have to deal with it. Pick the correct horse in the race or have to deal with, you know, a gap down of 50 percent for an otherwise correct thesis. And maybe like we can kind of throw those those pictures up"
+    },
+    {
+      "start": 1570.17,
+      "end": 1600.18,
+      "speaker": "SPEAKER_00",
+      "text": "in the nest at some point that kind of demonstrate this value prop of of, you know, removing kind of single name risk and focusing on this idea of like macro. Right. And broad exposure hedging. Right. For portfolios. Nice. Very cool. I will bring up the pictures to the nest. But meanwhile, I'm curious, how do you even track one hundred twenty five"
+    },
+    {
+      "start": 1600.18,
+      "end": 1630.42,
+      "speaker": "SPEAKER_00",
+      "text": "assets? Like, how does that work from a technical side? It seems like there's a lot there that could happen. And you're probably excluding the stable coins here at Tether and Circles USDC. So, yeah, just walk me through some of the technical challenges. I mean, what are some of the challenges of doing something like this? Yeah. Yeah. I'll certainly say it's a non -trivial engineering left. And, you know, we put an incredible team together who who really are, you know, our collective background, I"
+    },
+    {
+      "start": 1630.42,
+      "end": 1660.56,
+      "speaker": "SPEAKER_00",
+      "text": "think, really lends itself well to this this exercise. Again, my background is in in kind of validator and staking as a service infrastructure. So I've built institutional staking as a service platforms for a lot of the largest players in the space. And then. You know, my my CTO, Ben, you know, he's been a provider of various Oracle infrastructure and block chain networks out there and then a backhand lead in a dev ops lead who really come"
+    },
+    {
+      "start": 1660.56,
+      "end": 1693.56,
+      "speaker": "SPEAKER_00",
+      "text": "from high performance defi trading backgrounds. So it took a while, all of that to say, like building a, you know, kind of like the way that I see it is wrapping a feed from, you know, an Oracle provider and kind of relaying it to people. And then you have a whole bunch of guys out there who are just working on like a single name, you know, like a hybrid, like a single name, you know, like"
+    },
+    {
+      "start": 1693.56,
+      "end": 1723.62,
+      "speaker": "SPEAKER_00",
+      "text": "a number, you know, like a combination of a number and a hundred, you know, if that's the key that you use. And I think, I think, right, if we're, if we're, if we're thinking about, you know, putting a little bit of pride in the idea of what is this right遺m, which is pretty, pretty complex. So anyone can ping Paragon's API and actually get our constituents and our weightings for the indices, just like you would for the S &P 500. Yeah, it's a non -trivial engineering lift,"
+    },
+    {
+      "start": 1723.7,
+      "end": 1754.12,
+      "speaker": "SPEAKER_00",
+      "text": "and it did take some time. It was a lot of motivation for having been in stealth. But yeah, it's a lot of chewing glass and, I guess, man hours. Well, congrats. I mean, it's a huge technical achievement, I would say. So I've pinned up on the nest. I call them Table 1 and Table 2. For those that don't know what the nest is, the jumbotron, or above our names, there's images and tweets that you can share with folk. So"
+    },
+    {
+      "start": 1754.12,
+      "end": 1786.12,
+      "speaker": "SPEAKER_00",
+      "text": "if you want to click on that little image called Table 1, and if you want to walk us through Taha, if that works on your end. And then I'll put up Table 2, unless you want me to start with Table 2. Yeah, I don't know where this is, honestly, on the screen. I'm kind of new to this, so maybe... This is the Bitcoin ETH XRP one, but I also have an image of... Let's start with Table 1. Okay, yeah. If we could put them both up at the same time, that'd be great. Sure can. All"
+    },
+    {
+      "start": 1786.12,
+      "end": 1816.15,
+      "speaker": "SPEAKER_00",
+      "text": "right, I got them both pinned up top. So for those that know how this works, or for those that don't, it's under the comments of the space. As well, you can see those pictures there. Sweet, yeah. So this is... And apologies for the resolution on these. Oh boy, I think we just lost him. All right, well, he'll be back very shortly, I believe. Probably a lot of things"
+    },
+    {
+      "start": 1816.15,
+      "end": 1846.94,
+      "speaker": "SPEAKER_00",
+      "text": "happening on the phone. Let me see. Keep this connected. There we go, he's back. That's a classic Elon style. Yeah, you're back. I don't know if... Too many buttons at the same time there, but go ahead, man. Apologies, yeah. We usually blame Elon for these ones. So"
+    },
+    {
+      "start": 1846.94,
+      "end": 1877.54,
+      "speaker": "SPEAKER_00",
+      "text": "back to where we were. Yeah, so this is just a screenshot from my own computer here. And it was a few months ago when the market was getting absolutely shelled. And if you look at Table 1, right, we can see Bitcoin kind of gapping down 13 % intraday and XRB gapping down 20%, like everything really getting hit quite equally. And if we look at... Except hype. Except hype. Hype"
+    },
+    {
+      "start": 1877.54,
+      "end": 1907.7,
+      "speaker": "SPEAKER_00",
+      "text": "being hit the least, of course. And then if we look at Table 2, right, these are the indices that we track, right, and have now made actionable on Hyperliquid. So a couple of interesting things to point out here. So if your thesis, you know, going back to how we think a lot of folks and market participants in the space think, was Bitcoin outperformance or altcoin outperformance, you know, more broadly, and you"
+    },
+    {
+      "start": 1907.7,
+      "end": 1937.88,
+      "speaker": "SPEAKER_00",
+      "text": "were in a fairly lever -long position, right, on Bitcoin BTC .D or others, you know, .D there, look at how much they're moving, right? We're talking sub -2%, sub -1 % moves in either direction, so... You know what, I'm actually quite surprised about the Bitcoin dominance being down, because usually when Bitcoin goes down, right, everything else takes a shit way, way harder, so I would"
+    },
+    {
+      "start": 1937.88,
+      "end": 1969.04,
+      "speaker": "SPEAKER_00",
+      "text": "have expected... Go ahead. Yeah, yeah. So what this says is like altcoins kind of outperformed, you know, marginally relative to Bitcoin. But the point being, like, it's... If you had entered a position, right, and your thesis was just Bitcoin or, you know, altcoin outperformance or underperformance, you could have been in a position with size and leverage and not gotten blown out based on, you know, what was a correct thesis. And"
+    },
+    {
+      "start": 1969.04,
+      "end": 1999.84,
+      "speaker": "SPEAKER_00",
+      "text": "that, we think, is incredibly powerful, right? That's a tool that has not existed in crypto before that we're very excited about. It's a tool that's very much about delivering to hyperliquid. And look at, you know, USDT dominance and stablecoin dominance. So it explained what this is. So this is just like Bitcoin dominance, right, or others' dominance. It is a measure of USDT or the stablecoins market cap over the top, you know, however many assets. For"
+    },
+    {
+      "start": 1999.84,
+      "end": 2029.98,
+      "speaker": "SPEAKER_00",
+      "text": "us, 125. Look at how they jumped 13 % intraday. So this looks really similar to flows into money market funds in TradFi, right? And in TradFi, that's an excellent signal for risk on and off appetite. So there's a lot of interesting things going on here. Again, we're not the only folks paying attention to this. It's really quite common to,"
+    },
+    {
+      "start": 2029.98,
+      "end": 2060.26,
+      "speaker": "SPEAKER_00",
+      "text": "again, use these tickers and inform them for proxy trades that you're actually taking on other assets. But we're very excited, again, just like how S &P futures deliver exact exposure to the market, we'll be delivering exact exposure through one position. I love it. I love it. This is, you know, the Bitcoin dominance trade, I feel, is to me the second or third most popular trade that's taken. And honestly, yeah,"
+    },
+    {
+      "start": 2060.28,
+      "end": 2090.86,
+      "speaker": "SPEAKER_00",
+      "text": "the most charted thing. And you mentioned this at the beginning of the chat. So it's really cool to see. That being available on Hyperliquid, you're probably familiar with them. But what we had, what we still have today is pair trading, which is not the exact same thing, right? You're opening along on something like Bitcoin, perhaps, and then you're shorting something like Aptos or Sui or one of those volatile VC,"
+    },
+    {
+      "start": 2091.24,
+      "end": 2121.06,
+      "speaker": "SPEAKER_00",
+      "text": "I don't want to call them meme coins, but chains that perhaps. Are a little more volatile, right? And you're hoping that's how you can trade Bitcoin dominance, but you don't have the full picture there. So. Yeah. Yeah. And there's kind of some like relative value trading that I guess exists inherently within the indices themselves. But yeah, what's really even more exciting is like the relative value trades you can make between the indices, right? The fact that they they kind of move with these correlations,"
+    },
+    {
+      "start": 2121.14,
+      "end": 2151.2,
+      "speaker": "SPEAKER_00",
+      "text": "like, you know, how others dominance and Bitcoin dominance move based on. You know, the relative parts of the market moving and how stable coin dominance kind of seems to to be this kind of fear trigger. It's interesting. Yeah. The other interesting piece of it is is kind of like how their subsets and ratios of one another, right? There's this concept in the world of ETF and index options market"
+    },
+    {
+      "start": 2151.2,
+      "end": 2181.26,
+      "speaker": "SPEAKER_00",
+      "text": "making called, you know, representative sampling and stripping, which basically means like. How you would construct your baskets and deltas. And what's really exciting here is like you can actually use the indices themselves as legs, right, for those baskets. So, for example, total two. You know, others is a subset of total two, right? So you can construct total two with others plus assets two through ten, right, most of which have hyper core"
+    },
+    {
+      "start": 2181.26,
+      "end": 2211.27,
+      "speaker": "SPEAKER_00",
+      "text": "perps or and hip three perps. And. And do like a delta neutral funding rate or that way. Yeah, I wanted to ask you this question, and you kind of already talked about it. So as a professional trader, as an experienced crypto native, what would be some of the strategies that you not financial advice? Again, this is just for entertainment purposes."
+    },
+    {
+      "start": 2211.61,
+      "end": 2241.45,
+      "speaker": "SPEAKER_00",
+      "text": "What are some of the strategies that you would recommend for people to? I'm not going to use the word recommend, but what are some of the strategies that you would explore and you would do and you feel would be interesting to actually execute in this market? Yeah, I'll start by saying I'm a terrible trader, maybe not terrible, but I would not certainly call myself an expert. So let's let's start there and everybody kind of use that as a guiding post for the next words. But yeah, for terrible"
+    },
+    {
+      "start": 2241.45,
+      "end": 2271.51,
+      "speaker": "SPEAKER_00",
+      "text": "advice. Yeah, go ahead. Exactly. You guys know where to find me. But yeah, the idea is relative value trades, right? Macro exposure. Dominance trends, right? So if you think generally speaking, you know, the market share of hyperliquid is going to increase over time, we think portfolio hedging is a really strong use case, right? So if you have concentrated alt exposure, for instance, there are liquid funds in the space"
+    },
+    {
+      "start": 2271.51,
+      "end": 2301.65,
+      "speaker": "SPEAKER_00",
+      "text": "who who run these fundamental strategies. And I kind of mentioned this before. It's it's. It's both maybe a pro and a con to be a liquid investor now because, like, the universe of kind of quality assets is far and few between. So, like, you have a lot of concentration risk. So being able to hedge that portfolio like you would with, you know, spooze options or QQQ options, that makes a ton of sense here. And then, like you mentioned before, you"
+    },
+    {
+      "start": 2301.65,
+      "end": 2332.15,
+      "speaker": "SPEAKER_00",
+      "text": "know, relative value trades. So pair trading. You know, the folks at pair protocol are all over this. It seems like their users were actually like recreate synthetically recreating these baskets, you know, and now what's awesome is they, again, have sort of one position, one click exposure for these types of things. Yeah, I use I use pair as well. And you trades, including metals, by the way, silver outperforming"
+    },
+    {
+      "start": 2332.15,
+      "end": 2362.15,
+      "speaker": "SPEAKER_00",
+      "text": "gold. And there's a few things you can do there that are quite interesting. So I'm excited. I'm excited to play with it on pair protocol on top. But, yeah, I'm sure there's going to be so many people coming up with different type of strategies now that we have this. And you mentioned, you know, I think Abraxas Capital. I don't know if you heard of them. So many people are hedging nowadays on hyperliquid and running delta neutral funds because it's the only way of getting like a consistent, I don't"
+    },
+    {
+      "start": 2362.15,
+      "end": 2392.27,
+      "speaker": "SPEAKER_00",
+      "text": "know, 10, 12 percent or whatever it is they're they're pushing here. Yeah. Yeah, we we saw some some pretty interesting, you know, the markets have only been live for, you know, a little over 24 hours now. And I guess we're, yeah, a little over 24. And, you know, like I said before, limited sort of front end integration. But there are some interesting, yeah, very juicy arts presenting themselves moment in time. It'll be interesting to see if they they persist. But,"
+    },
+    {
+      "start": 2392.27,
+      "end": 2422.93,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, the idea is we're, you know, we're we're hopefully providing an entirely new. Toolkit for traders, whether it's relative value trading, you know, whether it's simplifying kind of the the synthetic exposure they were recreating before with multiple legs. Yeah, or whether it's like kind of this new, you know, sort of three quiver arrow that you have right to to speculate on Bitcoin alts or, you know, long tailed assets even more broadly, we're"
+    },
+    {
+      "start": 2422.93,
+      "end": 2453.09,
+      "speaker": "SPEAKER_00",
+      "text": "pretty excited to kind of see what people do with it. Yeah, absolutely. I'm sure this is going to get some good adoption. So so on that point, right now we're talking about assets. There's three tickers available. But on table two, you know, you have stable coin dominance. You have USET dominance. There's a few already. It seems like you have more in the pipeline. I don't know what you can share with us. And I know y 'all just started, but anything"
+    },
+    {
+      "start": 2453.09,
+      "end": 2483.13,
+      "speaker": "SPEAKER_00",
+      "text": "else that's coming up on the pipeline in terms of like these tickers? Is that you're excited about that people will be able to trade? Yeah, we so we create tickers from front of mind ideas, right? So whatever folks are are kind of interested in seeing are, you know, ideally, if we can, again, create a robust oracle for it and we can, you know, garner the liquidity behind it to make sure that there's depth to those order books, we're pretty interested in, you know, seeing if the market"
+    },
+    {
+      "start": 2483.13,
+      "end": 2513.41,
+      "speaker": "SPEAKER_00",
+      "text": "wants to try these things out. Um. We want to be incredibly intentional with the assets that we list. You know, there's an experimental nature to this. People's funds are involved. So while like we definitely want to kind of push the limits of the design space that exists in purpose and hip three more broadly, we do want to be responsible with what we're, you know, kind of creating in a lab and unleashing and kind of Pandora's blocks, if"
+    },
+    {
+      "start": 2513.41,
+      "end": 2543.45,
+      "speaker": "SPEAKER_00",
+      "text": "you will. NFT index. Meme coin index. Yeah, exactly. Bottom bottom 5000. Yeah. All of that to say, like, we are 100 percent open for suggestions. I love the asset creation piece of this, this this puzzle, you know, as I mentioned before, I think it's I think it's so interesting because it's part art and part science, you know, what do people want to trade? What will you know what has currently occupied their mind"
+    },
+    {
+      "start": 2543.45,
+      "end": 2573.61,
+      "speaker": "SPEAKER_00",
+      "text": "shares? Seems to be the art piece. And then the science piece is, again, like, can we create a feed for it and like, can folks hedge it efficiently? So we're working on a lot of things. We've got a lot of fun stuff planned and yeah, open to the community's feedback on what we can equip them with. And if it makes sense, you know, you'll see it, you'll see it on on the Paragon sort of decks in short"
+    },
+    {
+      "start": 2573.61,
+      "end": 2603.75,
+      "speaker": "SPEAKER_00",
+      "text": "order. It's looking forward to all your experiments on that note, you mentioned a word that risk, right. And many no, I'm not going to say many, but but several HIP three deployers actually give some, you know, give some risk to the holders. I don't know if you're familiar with the eventuals HIP free the employer, which uses liquid stake derivative here to bootstrap that 500 K hype that is"
+    },
+    {
+      "start": 2603.75,
+      "end": 2633.91,
+      "speaker": "SPEAKER_00",
+      "text": "needed to deploy. And. And KM Hype Kinetic, also some of that risk comes down to KM Hype holders, obviously Trade and Felix have their own. And you as well kind of fronted, if I can use that term, the 500K hype to deploy a HIP3 market. So you're not passing on the risk to the holders, right? In this case, you guys decided to kind of take it upon yourselves to get that 500K hype,"
+    },
+    {
+      "start": 2634.01,
+      "end": 2664.09,
+      "speaker": "SPEAKER_00",
+      "text": "which is to me kind of a testament of your commitment to this. Exactly. I think it's both that, right? I think it's kind of wanting to keep the development envelope as contained as we can, at least early on. I think the model and the playbook that we're following is very similar to what the Labs team has done. You know? I don't know. And I think I kind of saw this firsthand with my experience in the DAO space. So when"
+    },
+    {
+      "start": 2664.09,
+      "end": 2694.13,
+      "speaker": "SPEAKER_00",
+      "text": "I first got introduced to DAOs, I was convinced that DAOs were, you know, the LLC is 2 .0 and that the LLC was dead. But it turns out like iterating in a startup format, right, is kind of beneficial, at least in your very early, you know, zero to one stage. So the way that we see it is when, you know, the market kind of, you know, demands of us to, you know, whether"
+    },
+    {
+      "start": 2694.13,
+      "end": 2724.21,
+      "speaker": "SPEAKER_00",
+      "text": "that's sharing, like opening up the stake, right, or like decentralizing the stake or the Oracle, you know, in the validator set. Those are all things that we want to do. And we're completely receptive to, you know, again, following the sort of playbook of Hype Labs. It just makes more sense to iterate, right, in kind of a tighter container. For the time being. So that's just how we, how I thought about it and how we thought about it was, you know, we want to"
+    },
+    {
+      "start": 2724.21,
+      "end": 2754.45,
+      "speaker": "SPEAKER_00",
+      "text": "keep the team as lean as possible. The number of stakeholders involved is as lean as we can to satisfy all of the requirements we need. But, yeah, we're very much, you know, when the community kind of demands decentralization, right, we will deliver on that. And that being said, right, we have provenance. We've done a lot of tracking and kind of full auditability. So the idea is anyone, right, with upstream access to"
+    },
+    {
+      "start": 2754.45,
+      "end": 2784.66,
+      "speaker": "SPEAKER_00",
+      "text": "the same data providers and then uses us will be able to independently recreate any of our Oracle results. And, you know, we've tested this out. It takes less than one man day of kind of dev hours to get up and running. Very impressive. Yeah. And I think a lot, you know, you mentioned eventually. We want to decentralize. And I mean, Hyperliquid was also built initially. There were no validators,"
+    },
+    {
+      "start": 2784.7,
+      "end": 2814.72,
+      "speaker": "SPEAKER_00",
+      "text": "actually. And then there was like four and then there was like seven running by just like this, which is not enough. In Jeff's basement, right? No, like, I think that's kind of the way that it ought to be done, candidly. Yeah, I just think, like, I just think it makes a bit more sense for, like, the iteration phase of a startup. Yeah. Yeah. That's kind of where our philosophy stands on it. Yeah, absolutely agree. It feels like crypto grew up so"
+    },
+    {
+      "start": 2814.72,
+      "end": 2844.82,
+      "speaker": "SPEAKER_00",
+      "text": "much. And you mentioned this so many times. But, you know, the product is important. You have to have a PMF here. Yeah. Back then it was like decentralized, super decentralized. But what does it solve for? Well, we don't really know. But it's decentralized, guys. It's really cool. Exactly. For us, the product will always be the product. And the token is never the product, right? Like, the token is a means of, again. Like. There is no other way to do proof -of -stake consensus other than having a token. So. All right. You got into"
+    },
+    {
+      "start": 2844.82,
+      "end": 2875.22,
+      "speaker": "SPEAKER_00",
+      "text": "it. You got into it. I have to ask. The token is a means of doing that down the road, you know, potentially. So that's kind of the way that we see it. Yeah. Like, I agree with you. The space has certainly grown up, you know, quite considerably. So we're very much focused on, you know, longevity, finding product market fit, you know, reducing the kind of market fit. And I think that's the kind of noise that a lot of crypto staples, when it comes to kind of marketing and go -to -market campaigns,"
+    },
+    {
+      "start": 2875.42,
+      "end": 2905.3,
+      "speaker": "SPEAKER_00",
+      "text": "introduce with, you know, launching a new product. Our goal is PMF. All right. Let's get into it, though, because I feel like this is the top -of -mind question of all the degens. I have a lot of friends that are power users of TreadFi. They do them all, bro. They're on Dreamcash. Whatever the platform. They're employees. They will fucking market make it. And they will create some volume because they like the"
+    },
+    {
+      "start": 2905.3,
+      "end": 2935.5,
+      "speaker": "SPEAKER_00",
+      "text": "points. So I don't know if y 'all are planning some. I know there's an incentive with TreadFi already, but wondering if, you know, will you guys have points? That's the direct question right there. Yeah. We can't really comment on that. That's okay. That's okay. I just kind of stayed in the stance on, you know, how I view decentralization and progressive decentralization. And, you know, we very"
+    },
+    {
+      "start": 2935.5,
+      "end": 2965.6,
+      "speaker": "SPEAKER_00",
+      "text": "much believe strongly in, you know, rewarding early users, whether that's through an explicit points program or through some sort of retrospective, you know, retroactive program. You know, all of those things make sense to me. But, again, our focus is, like, creating the buy and sell buttons for things, for, you know, ideas that folks want. So that is our focus right now. Like, you know, a lot of folks have asked us, like, are we building"
+    },
+    {
+      "start": 2965.6,
+      "end": 2995.66,
+      "speaker": "SPEAKER_00",
+      "text": "a front end? You know, perhaps, maybe in the future. Like, we're focused on where we think we can deliver the most value and where we can find product -market fit. And I really think that that's, like, one of the awesome things about HIP3 and Hyperliquid. I kind of touched on this before, is, like, the ability to narrow our focus. We really see it as, like, the path of least resistance to finding, you know, the best way to do it. And, you know, it's the most similar in my experience to, like, the grab -and -go nature,"
+    },
+    {
+      "start": 2995.96,
+      "end": 3025.68,
+      "speaker": "SPEAKER_00",
+      "text": "right, that kind of builders and product -focused thinkers are accustomed to in the world of Web2. Yeah. You've been around the block. And I guess, you know, you all decided to build on Hyperliquid. So I'm sure you're very bullish on it as well. That was kind of part of the rationale. Yeah, very much so. You know. If we're, like, taking our kind of 10 ,000 -foot view here, like, the way that we see it is it very"
+    },
+    {
+      "start": 3025.68,
+      "end": 3055.72,
+      "speaker": "SPEAKER_00",
+      "text": "much seems like this is a race for the exchange for everything or exchange for anything, whatever folks are kind of calling it these days. House of finance. House of finance. There we go. And, yeah, like I said before, the value that we think that we deliver in that space is kind of acting like this, you know, S &P 2 .0 type of party. Right. Who's responsible for the standard the market is operating on, right, these new generation of kind of on -chain markets"
+    },
+    {
+      "start": 3055.72,
+      "end": 3085.76,
+      "speaker": "SPEAKER_00",
+      "text": "that move a lot quicker and never sleep. Yeah. I'm excited for the space because you're right and we're seeing so much adoption recently. Bloomberg talking about it, Fortune talking about Hyperliquid. I mean, it's kind of like it's top of mind now. So and soon perhaps Bitcoin dominance as well. Yeah. It's going to be quoted in Bloomberg. Trade using Paragon. There we go. All right. So how can people get"
+    },
+    {
+      "start": 3085.76,
+      "end": 3116.02,
+      "speaker": "SPEAKER_00",
+      "text": "involved? I pinned, again, up top on the nest. You'll have a TreadFi campaign running currently. So getting a boost in points for trading on TreadFi and the Paragon perps as well as $5 ,000 in cash prizes. Give me more. Give me more. This is the one that I have pinned on the nest. But tell me how people can get involved. Yeah. So right now we're available through, you know, a handful"
+    },
+    {
+      "start": 3116.02,
+      "end": 3146.06,
+      "speaker": "SPEAKER_00",
+      "text": "of third -party builder frontends. So builder being synonymous with kind of third -party frontend in the Hyperliquid ecosystem. And so you can access Paragon markets currently through there as well as the native Hyperliquid API. And then, you know, ideally. You know, we'll be on more frontends and integrations in short order. We have a few alongside the TreadFi campaign. Other, you know, fun competitions and"
+    },
+    {
+      "start": 3146.06,
+      "end": 3176.94,
+      "speaker": "SPEAKER_00",
+      "text": "campaigns planned with those frontends. They should be announced in short order as well. Aside from that, you know, you can reach us on Telegram, the Paragon official channel. And it's linked out in our docs. Docs .Paragon. Not Tread. You know, our website. Paragon. Not Tread. So Telegram and X, where will we be posting official announcements, you know, regarding things"
+    },
+    {
+      "start": 3176.94,
+      "end": 3207.36,
+      "speaker": "SPEAKER_00",
+      "text": "like contract specification changes, listings and delistings, things of that nature. Yeah. I'm going to add a few more here. So give Taha a follow right here on X. Give him a follow. Appreciate that. Yeah, absolutely. Got to grow that X community. It's always helpful. Give Paragon the official account a follow. As Taha mentioned, they are available through TreadFi"
+    },
+    {
+      "start": 3207.36,
+      "end": 3237.36,
+      "speaker": "SPEAKER_00",
+      "text": "hyperliquid API. But on top of that, there's pair protocol where you can trade it based if you're using the based app, ball pen and silico trading. And I'm sure there's going to be many, many, many more ways. And eventually probably the hyperliquid frontend on top of that. If you have questions, join your Telegram. Channel. It's all in their links. Those are the things that I wanted to share. Anything that I missed here, Taha, in terms of like how they can get in touch or get involved with Paragon? No, I think that was pretty"
+    },
+    {
+      "start": 3237.36,
+      "end": 3267.98,
+      "speaker": "SPEAKER_00",
+      "text": "comprehensive. Again, yeah, we're excited to kind of, you know, put this out into the world. I'm excited with what folks are going to do with it. And, you know, as always, always accepting of criticism and feedback. So please, yeah, tell us what we're doing wrong and keep us honest. Yeah, please give them lots of feedback. I'm sure it's going to be valuable. You know, before we go to closing thoughts, I'd like to ask this question, a"
+    },
+    {
+      "start": 3267.98,
+      "end": 3298.0,
+      "speaker": "SPEAKER_00",
+      "text": "pretty generic question. People answer them in various ways. But where do you see Paragon in five years? Yeah, it's a great question. I think there's a lot of ways, you know, the business can evolve after. After achieving kind of the product market fit that I described. But really, like, I do think it kind of fits into this concept of like making the inactionable actionable, right?"
+    },
+    {
+      "start": 3298.1,
+      "end": 3328.18,
+      "speaker": "SPEAKER_00",
+      "text": "Making these front of mind ideas into tradable instruments. And again, I really think the formula there is low latency, you know, institutional grade, reliable infra. Plus, you know, standardized methodologies, you know, equals value for this ecosystem and this kind of new asset creation wave that's going on. So that's where I"
+    },
+    {
+      "start": 3328.18,
+      "end": 3358.99,
+      "speaker": "SPEAKER_00",
+      "text": "want us to be in five or ten years is really, again, the standard for these new on -chain markets. When you think, you know, Bitcoin dominance. We want to achieve the same level of latency. The same level of synonymity, right? That S &P has with, you know, being the market, right? That's exciting. And then people are going to be paying you royalties for using that. Yeah, yeah. I guess we'll see how that plays out. Yeah."
+    },
+    {
+      "start": 3359.87,
+      "end": 3389.11,
+      "speaker": "SPEAKER_00",
+      "text": "But thank you so much again for your time. We're running out the top of the hour. I'll give you like one or two minutes for closing thoughts. I mean, anything else call to action that you want to add on top? Really appreciate your time. Thanks to the audience as well for tuning in. As previously mentioned, the space is recorded. Do you check them out? Do you give Taha Paragon a follow? They're currently running a TreadFi campaign. There's $5 ,000 in rewards on top. You're getting a boost for your TreadFi post points. I know"
+    },
+    {
+      "start": 3389.11,
+      "end": 3419.19,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of y 'all farming this right now. On top, they're going to have many more campaigns. If you're farming things like based, I know they just have the airdrop. Maybe they're going to have more bullpen. So there's various ways of kind of amplifying those. But yeah, then only 24 hours they're live. So give them lots of feedback. They appreciate any insight. And I think this is a great way of trading Bitcoin dominance. I know I will be trading that. I think honestly, I'll be also trading a lot. The total"
+    },
+    {
+      "start": 3419.19,
+      "end": 3449.45,
+      "speaker": "SPEAKER_00",
+      "text": "two and others because I'm quite bearish on the market right now. I don't know if you have any thoughts on where the market is going. Maybe I'm just the only one bearish and I'm getting trapped here. Oil prices, all that. Go ahead, man. What do you think is good? No, I wish I could tell you candidly. No, I've been very off the charts outside of kind of like the headline moves and kind of prints. We've been very focused on kind of shipping this and getting it out there. But I'm happy"
+    },
+    {
+      "start": 3449.45,
+      "end": 3479.89,
+      "speaker": "SPEAKER_00",
+      "text": "to kind of dust off the charts and maybe hop in the trenches with some folks for the competition. Yeah, we'll see who the best. I can guarantee you. I'd love to see a trading competition on these three tickers. Honestly, I feel like there's like a lot that can be done already. But you probably have that in mind already. Yeah. Yeah. Something along those lines. I'm gunning for last place. We're"
+    },
+    {
+      "start": 3479.89,
+      "end": 3509.99,
+      "speaker": "SPEAKER_00",
+      "text": "going to call it wrecked place. There's actually a prize. There we go. It's an art to finish in last place. Exactly. How can you do it the most fantastically, I guess? Yeah. It's always fun. Back then, by the way, one of the first competitions on Hyperliquid, this was three years ago. I think this was still back in testnet. It"
+    },
+    {
+      "start": 3509.99,
+      "end": 3540.01,
+      "speaker": "SPEAKER_00",
+      "text": "was the fastest to get liquidated. That was the competition we run with the Hyperliquid team. And some people had achieved like 15, 30 seconds. And this was before there was all this leverage. I think the max you had was like 10x on Bitcoin. And still people were able to do this. Yeah. Anyways, small piece of lore. Taha, any closing thoughts? Any closing words? And I'll close the space out. No. I think we kind of covered it. Appreciate"
+    },
+    {
+      "start": 3540.01,
+      "end": 3570.19,
+      "speaker": "SPEAKER_00",
+      "text": "your time and having me on. And yeah, excited to kind of put this out there and, again, see what the community does with it. Nice. Love it. Yeah. Thanks again for your time. Really appreciate you building on top of Hyperliquid. And I'm hoping we can have another one of these spaces in a year's time. There's a few builders that they're coming back, you know, because they had built something a year ago and now they're coming back. So I'd love to have you in a year's time or six months whenever you"
+    },
+    {
+      "start": 3570.19,
+      "end": 3600.23,
+      "speaker": "SPEAKER_00",
+      "text": "have like something really exciting to push out. Of course. Yeah. This was a pleasure. Happy to hop back on and give you guys an update. Nice. Love it. Well, best of luck. I think you're off to a great start. People are super excited. And yeah. Looking forward to the trading on Hyperliquid, Bitcoin dominance, Total 2 and others. So very cool. Thanks, man. Thank you. Cheers. Take care. Thank you. Thanks to the audience. Happy Easter, everybody. And enjoy the rest of your day. Thanks"
+    },
+    {
+      "start": 3600.23,
+      "end": 3601.51,
+      "speaker": "SPEAKER_00",
+      "text": "again. Bye. Bye."
+    }
+  ],
+  "speaker_map": {}
+}

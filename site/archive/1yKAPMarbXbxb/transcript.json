@@ -1,0 +1,506 @@
+{
+  "space_id": "1yKAPMarbXbxb",
+  "language": "en",
+  "duration_seconds": 2620.864,
+  "chunks": [
+    {
+      "start": 26.96,
+      "end": 60.1,
+      "speaker": "SPEAKER_00",
+      "text": "hello hello gm gm how you doing how's it going thank you very much for having us no thanks for being available making time and building out bounce tech i'm excited to learn more about what y 'all are cooking we shall get started very shortly meanwhile let me just amplify the space get a few more people in uh it's going to take like a couple of minutes sounds great usually have"
+    },
+    {
+      "start": 60.1,
+      "end": 90.96,
+      "speaker": "SPEAKER_00",
+      "text": "some music ready for this how about this beautiful you"
+    },
+    {
+      "start": 90.96,
+      "end": 175.7,
+      "speaker": "SPEAKER_00",
+      "text": "like it eh love it i'm in that mood all"
+    },
+    {
+      "start": 182.38,
+      "end": 206.28,
+      "speaker": "SPEAKER_00",
+      "text": "right for those that are already joined the space bottom right corner there's a little purple bubble you how appropriate uh click on the little purple bubble give the space a like give a little retweet drop a comment always helps with the algorithm and we shall get started at uh 05 sharp so that means just two minutes i'll"
+    },
+    {
+      "start": 206.28,
+      "end": 258.08,
+      "speaker": "SPEAKER_00",
+      "text": "play some more of that beautiful melody all"
+    },
+    {
+      "start": 258.08,
+      "end": 288.08,
+      "speaker": "SPEAKER_00",
+      "text": "right there it is let's get this spaces started on a beautiful friday afternoon i think hype had hit 38 not so long ago so lots of excitement i think we're getting a bit of consolidation now it's all good um i'm zerk co -founder of wreck gang and i like the host spaces with hyper liquid builders we also run a validator on the blockchain if you want to delegate to us"
+    },
+    {
+      "start": 288.08,
+      "end": 318.2,
+      "speaker": "SPEAKER_00",
+      "text": "that would be nice um that being said we're a little bit of out of the active set right now uh so let's get to some introductions today we have the privilege the honor the prestige of hosting the bounce tech team so i see oxg right here who have already spoken i think his mic is working so oxg how about you introduce yourself real quick and tell us what you do at the bounce tech uh team yeah sure thing um yeah i'm uh i'm"
+    },
+    {
+      "start": 318.2,
+      "end": 348.48,
+      "speaker": "SPEAKER_00",
+      "text": "louis uh ceo of bounce and uh background is in computer science uh joined the crypto space a bit more later around 2022. if you're wondering about the beautiful accent that's german originally and um yeah that's from my side i think max can also shoot his introduction yeah hi guys i'm max i'm uh talking behind the bounce accounts um i got into crypto in 2017 so been around for some time um i met louis a few years ago and he worked on"
+    },
+    {
+      "start": 348.48,
+      "end": 378.58,
+      "speaker": "SPEAKER_00",
+      "text": "tlx in the past which was a leveraged tokens protocol built on synthetic so that's kind of how we met um and tlx ended up being acquired so that's kind of how we ended up getting into bounce which i'm sure we'll get into yeah absolutely i'm very curious about this leverage token technology that you have built out and it seems like you have experience as well from synthetics which was quite popular i guess a"
+    },
+    {
+      "start": 378.58,
+      "end": 408.77,
+      "speaker": "SPEAKER_00",
+      "text": "few years ago um now obviously hyperliquid being the dominant perp decks it makes sense to me to have some leverage tokens on hyperliquid uh but Walk me through a little bit about, you know, what is leveraged tokens, how this idea came about, and let's get folk really introduced on the whole concept here. Yeah, 100%. Yeah, generally leveraged tokens, if you're not familiar with them, the"
+    },
+    {
+      "start": 408.77,
+      "end": 438.85,
+      "speaker": "SPEAKER_00",
+      "text": "way you can imagine them is that they're like a tokenized, non -liquidating perpetual future. They essentially retain constant leverage, or rather leverage within bounds, by reactively rebalancing the underlying PERP. So the way you can imagine, if you buy a BTC5L token, for instance, it has an underlying perpetual future on hyperliquid, and bounds essentially reactively rebalances this PERP should prices move too much against or in favor of you. There's a bunch of advantages that come with this, that, for instance,"
+    },
+    {
+      "start": 439.01,
+      "end": 469.17,
+      "speaker": "SPEAKER_00",
+      "text": "the PERP is kept away from the liquidation threshold if prices move too much. And, for instance, if prices move with you, it automatically up -levers, and you get these up -lever effects and directional movements. As with anything, everything, there's also drawbacks to it. It's not only pros, but, yeah, on a high level, those are leveraged tokens. Yeah, anything to add, Max, in terms of, you know, definition or, I guess, introduction to"
+    },
+    {
+      "start": 469.17,
+      "end": 500.07,
+      "speaker": "SPEAKER_00",
+      "text": "the concept of leveraged tokens? No, I think Louis hit the basics well. Yeah. Yeah. The other thing is that these are composable ERC -20 tokens, so that kind of adds some interesting aspects where you can take what is an underlying PERP, and you can kind of use it across all of DeFi. It's especially interesting when it pertains to funding, because normally with funding, you have to hold this PERP, but in the form of ERC -20, there's a lot more you can do with it. So that's one thing I would add. Yeah,"
+    },
+    {
+      "start": 500.15,
+      "end": 530.47,
+      "speaker": "SPEAKER_00",
+      "text": "I'm excited about all the options, the DeFi composability that you can have. Yeah, I'm excited about all the options, the DeFi composability that you can have with these leveraged tokens, but you kind of already alluded to having some pros and some cons. So, you know, why wouldn't I open a 5X long or a 2X long on Bitcoin and just hold that position? Why would I buy a leveraged token instead? Like, what is the biggest pro, you would say, from doing that? I"
+    },
+    {
+      "start": 530.47,
+      "end": 560.69,
+      "speaker": "SPEAKER_00",
+      "text": "think the biggest pro is that you can really capitalize on directional trends. I think, in general, if you trade with high leverage, where it'd be 5X, 10X, it's usually not the product to hold for the long term in the first place, right? The PERP might liquidate, a leveraged token won't liquidate, but it's going to incur some decay, but that's just a caveat here. But yeah, the main reason why you'd buy a leveraged token is because you do see directional movement incoming. This might be favorable or against you, right? So if you see a rally happening, what we saw just with hype, and you hold a 5X hype"
+    },
+    {
+      "start": 560.69,
+      "end": 590.89,
+      "speaker": "SPEAKER_00",
+      "text": "leveraged token or a hype 5L, as opposed to just a 5X PERP, you would reactively up -lever, up -lever, and really capitalize on this kind of rally. And we have seen this in the past, that doing these directional movements, the tokens outperform the PERPs quite a bit. Oh, really? You get, I guess, better gains as a whole using these tokens instead of just going 5X long? I always get liquidated, by the way, on trading hype. I do not touch"
+    },
+    {
+      "start": 590.89,
+      "end": 620.97,
+      "speaker": "SPEAKER_00",
+      "text": "that anymore. I accept that. I hold spot and chill, and that is the best. So if you can tell me I can just buy a levered token and not be liquidated, that would be great, man. I mean, I can guarantee you that you won't be liquidated on your position. That's what Bounce stands for. But on the other hand, there is something called path dependency. So essentially, if you have the directional movements or price to appreciate, appreciate, and your position up -levers, that really does outperform the PERP. But"
+    },
+    {
+      "start": 620.97,
+      "end": 651.13,
+      "speaker": "SPEAKER_00",
+      "text": "there is this notion of volatility. So if you have a volatility decay, which essentially kicks in if you have sideways volatile movements for a while, imagine it like that, like high price appreciates, so you up -lever, it depreciates again, so you down -lever, and if you have too many of these up -and -down and up -and -down lever, that's when you incur delay. Sorry, decay, not delay. So there's pros and cons to it. There's the path dependency aspect, but definitely you won't get liquidated. And that's also why we call it Bounce, because even if prices"
+    },
+    {
+      "start": 651.13,
+      "end": 681.45,
+      "speaker": "SPEAKER_00",
+      "text": "move against you, you can still get liquidated. You can bounce back, essentially. And yeah, that's how the product works. So as with any levered product, there's pros and cons. But yeah, you don't get liquidated. And if there's some hype -ish movement, as we've seen recently, it will really outperform. Very cool. So what would you say would be the disadvantage? Because to me, all you told me right now, it's only pros. One, no liquidation, which I love. And two, if it does rally to the upside."
+    },
+    {
+      "start": 682.97,
+      "end": 711.51,
+      "speaker": "SPEAKER_00",
+      "text": "Actually gaining more exposure to the asset, or I guess more leverage, more gains to be had here. Go ahead. Yeah, no, I think one way to think about it is probably, let's assume hype prices at, or let's say 40 now, with the given price movements recently. We say it's at 40, and you get a perp in the leverage token at 40 entry price. And now if the leverage token's up levers and down levers and up levers and down levers, and the price goes back to 40, given the perp wasn't"
+    },
+    {
+      "start": 711.51,
+      "end": 742.25,
+      "speaker": "SPEAKER_00",
+      "text": "liquidated, that's a big if here, given the perp wasn't liquidated, the perp would actually have outperformed the leverage token at that point. So that's the disadvantage. That's what I mean with path dependency. If you have too much of like up and down, up and down levering, that's when you incur this volatility decay. So for instance, if you have like sideways volatile markets, it's probably not the right product. So you're saying basically the only instance where it's disadvantageous is"
+    },
+    {
+      "start": 742.25,
+      "end": 772.29,
+      "speaker": "SPEAKER_00",
+      "text": "if you have volatility, so it has to go up and down. It can't be like crab movement, right? Like the crab movement of just going to the right without actually going up and down. There's no difference between the perp and your token. Exactly, exactly. And we have this, we have this predefined rebalance thresholds. So we run some historic and volatility analysis to set them correctly for each token. But yeah, depending on how large these up and down movements are, sometimes there's no rebalance at all. And then it pumps. And you're"
+    },
+    {
+      "start": 772.29,
+      "end": 802.89,
+      "speaker": "SPEAKER_00",
+      "text": "fine. But if it's too much up and down and there's like the up and down levering is actually triggered. Yeah, that's when it's not as advantageous. But that's sad. Again, you don't get liquidated. And if the following rally is strong enough, it also up levers again. Yeah. For that case in particular, where it goes up down, but stays ultimately the same price, I think doing something like an LP would make most sense, right? Like you don't have the impermanent loss, but you're also gaining some of those fees from the swap. So some"
+    },
+    {
+      "start": 802.89,
+      "end": 832.97,
+      "speaker": "SPEAKER_00",
+      "text": "of these MMS actually offer, I guess, bonus tokens on top of it. So, yeah. So I guess in this case to me, you know, it's either LP if you're expecting up down the same price. But if you're expecting crab movement or upwards or downwards, then you're better with the bounce tech, right? Yeah, that's that's it sounds about right. And yes, also, like I mean, based on that, we have like identified these like three core user groups that really like the leverage tokens. And that's the it's on a sophisticated track. There's the trader side that like"
+    },
+    {
+      "start": 832.97,
+      "end": 863.13,
+      "speaker": "SPEAKER_00",
+      "text": "the idea of the up levering, and they just don't want to 24 7 monitor the position and do the margin management themselves and have bounce essentially manage their position. That's one user group. There's the user group that just likes the sheer simplicity of it. I'm buying a BTC 3L. I'm not worrying about liquidations. I just I just get the exposure and don't have to worry about it. And then there's the third user group, which is essentially other protocols that now we're getting into this composability aspect of composable perps that use the leverage tokens as the token. So this is a typical money Lego analogy"
+    },
+    {
+      "start": 863.13,
+      "end": 893.21,
+      "speaker": "SPEAKER_00",
+      "text": "to build with it. I love it. I feel like this was quite popular on Binance at a certain point, but for some reason, it never caught on. Could you kind of get into the weeds of why there's not more adoption of these leverage tokens? Or maybe it's just because the execution has been poor so far. Yeah. Execution has been different. Also the way buying and set them up. But I think this is also one topic Max is quite passionate about. about so you feel like you want to"
+    },
+    {
+      "start": 893.21,
+      "end": 923.49,
+      "speaker": "SPEAKER_00",
+      "text": "take that over max if you want to bounce in go ahead man no no that was a good one um i was going to just say real quick the one thing with binance because they never gave a reason as to why they shut down their leverage tokens um but when that happened it was it was quite correlated to when they had their whole lawsuit in the u .s so i think it had to do with them offering that product in that market as to why they shut it down um but there's been a lot of different popular leverage token products"
+    },
+    {
+      "start": 923.49,
+      "end": 953.69,
+      "speaker": "SPEAKER_00",
+      "text": "ftx ones were famously popular a lot of traders focused on them at the time tlx um we of course did quite well but the main thing here is that the ones that are on chain they've primarily used money markets to do this so they've used ave or compound or whatever money market and they create a leverage token by looping and this one has a much limit a much more limit asset offering whereas"
+    },
+    {
+      "start": 953.69,
+      "end": 983.69,
+      "speaker": "SPEAKER_00",
+      "text": "like you compare Ave markets to hyper liquid it's just not comparable it's like 10 times more assets you can support and additionally you can't go as high with leverage factors whereas on perps it scales much more so I think part of it really was just not having the infrastructure to do this and with hyper liquid we now have the liquidity of finance or like the best centralized exchanges basically at our fingertips and all of these different markets"
+    },
+    {
+      "start": 983.69,
+      "end": 1014.05,
+      "speaker": "SPEAKER_00",
+      "text": "so I think now with that in place uh it's kind of ready for leverage tokens to reach the adoption that they once had on centralized exchanges very cool I love how you mentioned now we have hyper liquid but uh let's get into this uh the technical aspect Max if you want to touch on this or Oxt um basically how does it work in the back end you know I it feels like it's been a while to have a network right where you have that kind of, like there could be some sort of risk here but"
+    },
+    {
+      "start": 1014.05,
+      "end": 1044.05,
+      "speaker": "SPEAKER_00",
+      "text": "maybe i'm just mistaken so maybe can you walk me through on what's actually happening oh max i think you gotta go because oxg actually uh disconnected oh okay i was gonna let lewis take that one because he's uh he's more on that side but um basically we have like a i'll talk until he returns we have a automation layer that monitors each underlying position so when you"
+    },
+    {
+      "start": 1044.05,
+      "end": 1074.39,
+      "speaker": "SPEAKER_00",
+      "text": "go to bounce and you mint a leverage token and this is on hyper ebm um your margin is basically or your collateral is deposited to hyper core and then it opens a corresponding underlying perp and that perp is monitored and within each leverage token so say we have a 5x long hype leverage token there'll be a predefined range so let's say like 4x to 6x leverage for example and"
+    },
+    {
+      "start": 1074.39,
+      "end": 1104.75,
+      "speaker": "SPEAKER_00",
+      "text": "as the underlying perp deviates and it hits one of those bounds it'll rebalance it back to the target average factor so it's basically just a matter of rebalancing the position as needed would it be possible you know remember 10 10 october 10th where we had adls we had all this shit show of liquidation cascades or whatever you want to call them would it be possible that the rebalancing does not perform"
+    },
+    {
+      "start": 1104.75,
+      "end": 1134.77,
+      "speaker": "SPEAKER_00",
+      "text": "and you actually do get liquidated or it's just you know it would be like a very unlikely scenario i mean it's very unlikely um i'd say nothing is impossible if there is uh insane flash crash things can happen um but i think i'll let lewis kind of talk more on this yeah sorry like i don't know what happened there can you hear me now yeah absolutely i saw you went the listener mode elon rugged you i have no idea um i was even i was even speaking"
+    },
+    {
+      "start": 1134.77,
+      "end": 1164.95,
+      "speaker": "SPEAKER_00",
+      "text": "and i guess you guys just didn't hear me um but yeah no i think i think max explained that well with regards to um to the crashes yeah i think i think he pointed that out there's nothing is impossible there is third -party dependencies there can be there is some dependency on the api if um if a flash crash happens and the api is down uh there's very little that can happen on rebalancing side um that said the good thing is also that generally if you do hold a constant leverage position by default even before the flash crash was to"
+    },
+    {
+      "start": 1164.95,
+      "end": 1195.27,
+      "speaker": "SPEAKER_00",
+      "text": "occur you are not going to be too crazy over levered because what happens also to a lot of people is that they they might have opened a 5x position just before or like a 10x position just before the crash or maybe a 2x position but in reality because of price movements they were already sitting on a three four five six x and so that's also an advantage of having these constant leverage products that even before armageddon you're going to be exactly around the leverage you intended to be nice yeah i always put too much leverage"
+    },
+    {
+      "start": 1195.27,
+      "end": 1226.19,
+      "speaker": "SPEAKER_00",
+      "text": "it's an issue uh so it's good that you keep me straight one thing you mentioned again is this kind of unique infrastructure that you have available with hyper liquid with having the perps right on hyper core but also being able to have this as a erc20 token on on hyper evm would you say this is one of the reasons why y 'all decided to deploy this on hyper liquid and and maybe yeah like you mentioned earlier i think it's a good thing that earlier it just wasn't feasible to to perform something like this in"
+    },
+    {
+      "start": 1226.19,
+      "end": 1256.73,
+      "speaker": "SPEAKER_00",
+      "text": "crypto oh like um so essentially the the key reason why we jumped on hyperliquid was uh straight up the liquidity of the order book there is no such liquidity elsewhere and more importantly there's no composable liquidity elsewhere so even back then when the tlx idea emerged we even looked at hyper liquid already but the point is just the perps weren't composable you couldn't actually build something on top of them so when hyperliquid introduced the hyper evm and notably the pre -compiles in the call writer contract suddenly"
+    },
+    {
+      "start": 1256.73,
+      "end": 1287.09,
+      "speaker": "SPEAKER_00",
+      "text": "the largest deepest order book on chain became composable so we found out about the pre -compiles i think three weeks after they launched and we were like then that's a no -brainer that's exactly the liquidity we were lacking before and um now now we got it so that's why we sent out to build on hyper evm and i think also this is there's there's a lot of talk around hyper evm in general is it working is it good um how well is it performing but i think the way one needs to approach hyper evm is it is just another chain"
+    },
+    {
+      "start": 1287.09,
+      "end": 1317.19,
+      "speaker": "SPEAKER_00",
+      "text": "if you look at transactions per second block size whatever metric you like but the the one thing that really distinguishes hyper evm is the sheer composable liquidity of perps that you have connected to it and that's why you can build protocols like bounce you can't build it that efficiently on any other chain and that's that's the reason why we ended up building there and on a high level it's obviously cool to build in one of the most flourishing chains in the world and that's the reason why we ended up building hyper evm and that's the reason why we ended up building projects but that was sega that was more luck on our side nice i"
+    },
+    {
+      "start": 1317.19,
+      "end": 1347.37,
+      "speaker": "SPEAKER_00",
+      "text": "always love when uh builders chill hyper liquid so it's great max anything go ahead we wouldn't be here without hyper liquid so max anything to add on the decision making process for selecting hyper liquid no not really i mean at the end of the day it really was the only option or the only choice there's i guess potential other but nothing really compared so um yeah like louis said uh we're thankful to hyper liquid"
+    },
+    {
+      "start": 1348.75,
+      "end": 1377.43,
+      "speaker": "SPEAKER_00",
+      "text": "very cool hyper liquid is how we usually end all these sentences um so you know we spoke a little bit about how it all works in the back end so we're balancing on the perp side uh the safeties and i guess the cons as well uh how can people get involved with bounce tech today right like can they participate can they farm some points uh let's get let's get them"
+    },
+    {
+      "start": 1377.43,
+      "end": 1407.61,
+      "speaker": "SPEAKER_00",
+      "text": "something to do here yeah so essentially we're in private beta right now so if you want to try out the protocol just drop us a message and we'll send you an invite code we'd obviously be super grateful for any kind of feedback just hop in the discord and let us know what is shit what should we improve because if you don't let us know we can't improve it so yeah any kind of testing and testing and feedback would be fantastic and over the coming weeks we have a lot of stuff to do so if you have some a very fun campaign coming up as well i can't spill the beans here too much yet but i think most"
+    },
+    {
+      "start": 1407.61,
+      "end": 1437.97,
+      "speaker": "SPEAKER_00",
+      "text": "hyper liquid traders will be eligible here so that should be interesting very cool we got some ref codes as well from max uh he gave us some so if you're in the breath gang discord i'll give you some ref codes we have lots of them and do give uh feedback because that's super important for them that are developing this what do you think you know you spoke about campaigns here but uh what would it take for these leverage tokens to gain more adoption you know as you describe"
+    },
+    {
+      "start": 1437.97,
+      "end": 1468.11,
+      "speaker": "SPEAKER_00",
+      "text": "them to me this is quite a unique offering right now because of hyperliquids unique infrastructure but um still i think like there's all this education people have to get over and also understand like how everything works and discover bounce as a whole so what do you think it would take for the adoption to grow yeah oh max you want to take this one or yeah um so in the past one thing that happened is that um i don't know if you're familiar"
+    },
+    {
+      "start": 1468.11,
+      "end": 1498.23,
+      "speaker": "SPEAKER_00",
+      "text": "with index coop but they were kind of a the first like on chain leverage token type product and one thing that happened is that when they and i'm not saying it's clearly their fault but when this product was presented to users initially and pitched it was kind of pitched as this long -term holding vehicle where you buy these 3x eth tokens and you can hold it for two years and if it goes up in that time you'll make money and that's just not true and a lot of people who"
+    },
+    {
+      "start": 1498.23,
+      "end": 1528.32,
+      "speaker": "SPEAKER_00",
+      "text": "are holding um ended up getting wrecked so they've been kind of been viewed as like this holding product um but really it's more suitable towards trading so i think that as people realize this is not something to just hold forever and it's something to use as a trader I think there'll be more adoption seems like Louis was rugged by Elon one more time so the strategy"
+    },
+    {
+      "start": 1528.32,
+      "end": 1558.66,
+      "speaker": "SPEAKER_00",
+      "text": "here that I think you've touched on this would be to buy one of these leverage tokens suppose I want to get like slight long hype exposure I buy the hype 5L right like that would be the play here and then for how long would you say someone should hold it or you know any not financial advice of course but any strategy around these leverage tokens that you can share with us um yeah it really depends on what you want as a trader um I'd say for any 5X"
+    },
+    {
+      "start": 1558.66,
+      "end": 1588.94,
+      "speaker": "SPEAKER_00",
+      "text": "leverage position holding for a year is is too long like it's just not really feasible um so if you want to hold for a longer duration let's say like a month like lower leverages are more suitable like 2X or 3X and then the 5X would be more suitable for like a few weeks and by doing that by kind of like bracketing it you kind of just hedge away that risk of volatility decay a bit because that's how you get caught in that mess is just holding too much leverage for too long so"
+    },
+    {
+      "start": 1588.94,
+      "end": 1619.3,
+      "speaker": "SPEAKER_00",
+      "text": "so can you tell me because you mentioned like this other product was not to hold but to me that that was kind of the appeal here is there's no liquidation and me 5X isn't even a huge levered play so uh but you're telling me that the volatility is probably going to get to you that volatility the case so so am I losing like funds or funding or my position as a whole like what are some of the weaknesses am I looking at so volatility decay is realized directly in"
+    },
+    {
+      "start": 1619.3,
+      "end": 1649.64,
+      "speaker": "SPEAKER_00",
+      "text": "the leverage token so say you meant uh let's say a thousand dollars worth of pipe 5X long leverage tokens and you hold them for a year and then let's say it decays by 300 your position would just lose 300 from my decay or just would be reflected in the performance of the token um and I I don't mean to say that they're not for holding I just I'm saying they're not meant for holding for very long durations, right? Like, also, you probably shouldn't"
+    },
+    {
+      "start": 1649.64,
+      "end": 1680.08,
+      "speaker": "SPEAKER_00",
+      "text": "keep a 5x long PERP open for a very long time. Like, these leveraged products are more intended for shorter -term trading. Oh, you'd be surprised the positions I still have open. But, okay, so strategy here, if you're getting these 5x hype longs, perhaps hold them for a few weeks. If you're getting something smaller leverage, hold them for a little bit longer. We talked a little bit about DeFi composability,"
+    },
+    {
+      "start": 1680.3,
+      "end": 1710.1,
+      "speaker": "SPEAKER_00",
+      "text": "and I think this is one of the powers of having this as a token, is perhaps implementing them in something like a HyperLend or a Felix protocol. Is that something that y 'all are considering in the near future or, I guess, in the far future? Yeah, we're working on a few partnerships with different HyperEVM protocols. Nothing like Anantia. We're working on that. But besides lending markets, one interesting thing as well is providing liquidity. And one thing we did in the past, actually, is you can make"
+    },
+    {
+      "start": 1710.1,
+      "end": 1740.22,
+      "speaker": "SPEAKER_00",
+      "text": "your own delta -neutral pools. So kind of like your own DIY Athena, if you can say that. So how this would look is you would take a 1x or 2x as well, but generally a 1x short leverage token, and you would LP it against its spot equivalent. So you could do like ETH 1x short, or sorry, a hype 1x. So you could do like ETH 1x short leverage token and pair it with staked hype or K -hype and put it in a liquidity pool. And the nice part about that is because it's in the pool,"
+    },
+    {
+      "start": 1740.38,
+      "end": 1770.3,
+      "speaker": "SPEAKER_00",
+      "text": "it kind of auto -rebalances it for you. So you earn funding on the short side, you're delta -neutral, and you can also earn trading fees. And one interesting aspect as well with this, which people don't really talk about, is that with leveraged tokens, bounce leverage tokens, that is, you're earning funding or paying it because they're built on perps. Right. Right. That funding is realized directly in the leveraged token. It's not realized the same way as with perps, whereas with perps, you're directly being paid or paying it, which"
+    },
+    {
+      "start": 1770.3,
+      "end": 1800.46,
+      "speaker": "SPEAKER_00",
+      "text": "is ultimately realized in most jurisdictions as income tax or income loss. Whereas with bounce, it's generally realized as a capital gain. So it's kind of a way also to transform a funding rate farming strategy into something that would be taxed a bit favorably as well. So it's kind of a way also to transform a funding rate farming strategy into something that would be taxed a bit favorably as well. So it's kind of a way also to transform a funding rate farming strategy into something that would be taxed a bit favorably as well. Very cool. Welcome back, Louis. Once more, we're talking about how to use these leveraged tokens in the most optimal"
+    },
+    {
+      "start": 1800.46,
+      "end": 1830.5,
+      "speaker": "SPEAKER_00",
+      "text": "way. Obviously not financial advice, but if you have any strategies to share with us, super welcome. And yeah, if you have anything to add, as well as, you know, kind of the composability piece. Yeah, sorry, not sure why I keep on being rocked here. I swear I'm not pressing anything. The... No, yeah, generally, the composability aspect is obviously fantastic. You're suddenly dealing with composable perps. We have a couple of ideas. Max had outlined a few of those. And"
+    },
+    {
+      "start": 1830.5,
+      "end": 1860.9,
+      "speaker": "SPEAKER_00",
+      "text": "I'm pretty sure there's also ideas out there that we haven't thought of yet. So it's the great thing of building a Lego block in DeFi that other people can take it and innovate with it. With regards to strategies, it's obviously, we've touched on this, the leveraged tokens are fantastic for explosive movements. If you expect an asset to move in either direction explosively, it's a no -brainer to get an up -levering or down -levering product. So that's where the leveraged tokens really excel. I"
+    },
+    {
+      "start": 1860.9,
+      "end": 1891.04,
+      "speaker": "SPEAKER_00",
+      "text": "have this just to add to what Max said. Very cool. Explosive markets. One of, and I guess, I mean, at this point, what drives the most volume on hyperliquid is HIP3, right? And there was so much news about commodities, you know, oil, metals. I love it all. And I usually don't get liquidated on those for some reason. They're a little slower. So"
+    },
+    {
+      "start": 1891.04,
+      "end": 1921.08,
+      "speaker": "SPEAKER_00",
+      "text": "they're better for me. I enjoy them. I was talking to Max about having HIP3 on these leveraged tokens. But from my understanding, it's not yet a possibility. Is that correct? Yeah, that's correct. There's essentially still one precompile missing that we need in order to implement it. But we've been talking to the team. And that is being built as of now. So I'm pretty positive that we'll be able to support HIP3 markets soon. And that's obviously very interesting. Because what you were saying, volatility is generally lower on those assets. So"
+    },
+    {
+      "start": 1921.08,
+      "end": 1951.78,
+      "speaker": "SPEAKER_00",
+      "text": "we could also offer higher leverages for the leveraged tokens. So we could go into the 7x, 10x space potentially with the HIP3 markets. And then you'd get the same advantages. So if there's just a continuous uprise of, let's say, Tesla, you do get this uplevering, which can... Really amplify your exposure and therefore your profit. And there's so much you can do afterwards, right? I think the borrowing angle to me is quite cool. The composability"
+    },
+    {
+      "start": 1951.78,
+      "end": 1982.03,
+      "speaker": "SPEAKER_00",
+      "text": "of owning, I don't know, a 5L long on oil or gold, right? And then you can do all these things that usually you can't even do in the TradFi space. For sure. Absolutely. The beauty of DeFi is really finally playing out. You'll have tokenized... Tokenized exposure to traditional assets that you can now put into the DeFi space and work with it. It's really beautiful. It's the reason why we're so passionate about it. I can see it. I can feel the energy. You're"
+    },
+    {
+      "start": 1982.03,
+      "end": 2012.11,
+      "speaker": "SPEAKER_00",
+      "text": "excited for them to activate the free compas for HIP3, right? 100%. We can't wait. It's really fantastic how it has played out. And that it has played out on Hyperliquid, it really puts us in a great position to keep on building exactly what we're building and dominate this niche and not only do it for crypto assets, but also for TradFi assets. Yeah. Like so far, I think you're the first, you know, a lot of people talk about this, but nobody has really executed on these kind of composable perps that"
+    },
+    {
+      "start": 2012.11,
+      "end": 2042.47,
+      "speaker": "SPEAKER_00",
+      "text": "you can use. And here, this is like literally exactly that. Like it comes out as a ERC20 token. You can play with it as much as you want and do whatever you want with it. So I'm excited. And it's just launched. So everybody that is interested in this, give them a follow. Obviously, we have some codes for y 'all because it's still gated and you can try it out. See if you actually do better with leverage tokens versus conventional leverage. I know most of y 'all do really badly"
+    },
+    {
+      "start": 2042.47,
+      "end": 2072.51,
+      "speaker": "SPEAKER_00",
+      "text": "with conventional leverage, so I think it's worth a try right there. And yeah, perhaps there's going to be some sort of campaign coming up as well. Where do you see BounceTech in six months? And then we'll go to like, where do you see BounceTech? Back in two years? Oh, yeah. So in six months, up until now, we've really been focused on building the core product, get the leverage token to where it needs to be, because this core Lego block needs to be, it's the most"
+    },
+    {
+      "start": 2072.51,
+      "end": 2102.57,
+      "speaker": "SPEAKER_00",
+      "text": "important piece of it all. So that's what we've been focusing on. And like that now that we believe that we are getting there, we have the liquidity, we have the efficiency on the automation layer side, we do see this becoming first the leverage token protocol on hyperliquid, dominating the constant leverage. Leverage space there and then given given the situation we're in to become the constant leverage product or leverage token product that dominates the crypto space. So further down the line with for now, we've been focusing on core"
+    },
+    {
+      "start": 2102.57,
+      "end": 2132.69,
+      "speaker": "SPEAKER_00",
+      "text": "product and now it's also going to be looking at the distribution channels, getting the leverage tokens on more platforms. So that's that's what we're aiming for the next six months. All right, Lewis is talking about growth. Max, do you want to make us dream, you know, some some things that we haven't seen that y 'all are maybe we're going to be working on or maybe not even working on, but, you know, how will people be using leverage tokens in two years time? Yeah, that's a good question. One thing that's interesting as well is that these can be listed"
+    },
+    {
+      "start": 2132.69,
+      "end": 2162.72,
+      "speaker": "SPEAKER_00",
+      "text": "like any other ERC 20 tokens. So right now, if you use bounce, you use it through IPVM, but we can also list these on like hyper core spot, for instance. So it could be something where you don't even actually have to go to our front end. You can just go to whatever exchange like hyperliquid. So that's like something we want to obviously tap into further down the line. Wouldn't that be cool, right? Like, you don't even need like, for instance, do you feel like this would be a more"
+    },
+    {
+      "start": 2162.72,
+      "end": 2194.08,
+      "speaker": "SPEAKER_00",
+      "text": "palatable option for normies where they just go on Robin Hood or whatever app is Revolut? I think y 'all use in Europe and then they just buy this kind of 5L leverage token just like how it was on Binance. It felt like the simplicity of it really appealed to me. Yeah, of course. I mean, the normies don't want to go to a new chain and bridge and get gas tokens and all that stuff. So being on those platforms is obviously nice for them. Yeah,"
+    },
+    {
+      "start": 2194.14,
+      "end": 2224.18,
+      "speaker": "SPEAKER_00",
+      "text": "I feel like that'd be really, really cool. Louis, anything else you're dreaming about, you're seeing that can happen in like two years for the leverage token space, because it's still a new frontier that y 'all are developing. Yeah, I think the dream would be to be in five years. And the position where we still build the same cool product and dominate this space, because you see a lot of crypto protocols don't even survive five years, right? A lot of people stop, a lot of people pivot too much, teams leave, and for us, it's much more"
+    },
+    {
+      "start": 2224.18,
+      "end": 2254.96,
+      "speaker": "SPEAKER_00",
+      "text": "the goal of we want to dominate this niche. And what you mentioned before, it's like the simplicity of the product. This is one way to really onboard people beyond the usual crypto space to get more of the more on the normie side to trade with leverage. So I think there's tremendous. There's tremendous potential, and I hope that in five years we'll still be building, building bounce as we do now. Do you think institutions, people love to throw that word around, institutions, do you think institutions or DATs,"
+    },
+    {
+      "start": 2254.96,
+      "end": 2285.28,
+      "speaker": "SPEAKER_00",
+      "text": "for that matter, will be acquiring, you know, bounce tech leverage tokens instead of native assets? You think that could happen one day? I don't know. Interestingly, there was some. Oh, sorry, Max. Oh, yeah, yeah. Let me just push that. Like, interestingly, there has been. Interest expressed from from some sides because it's just a simple strategy. And like, there's surprisingly many also institutional players that don't necessarily want to build out their own their own strategies and liquidations. Usually it's a no go topic for them. So"
+    },
+    {
+      "start": 2285.28,
+      "end": 2315.52,
+      "speaker": "SPEAKER_00",
+      "text": "non liquidated, non liquidating leveraged exposure is usually very interesting. Yeah, I was just going to add, we've been talking with someone actually, and they're interested in using leverage tokens as kind of like a hedging product, which is part of their there's someone they offer. Like these institutional structure products, and they can use some leverage aspect to hedge in a certain way. So we do see these kind of like unique hedging aspects being used among like more"
+    },
+    {
+      "start": 2315.52,
+      "end": 2346.3,
+      "speaker": "SPEAKER_00",
+      "text": "of the institutional crowd. Yeah, I feel all the hedging possibilities here are very interesting to explore. Okay, let me get to the most direct questions that all the degens have. Will there be points and will there be a bounce token? You can answer no. Immediately if you want, but I'm opening it up. There, there will be points and we're, we're looking at having a token. Yes. Oh, nice. Okay, guys. So if y 'all want to really degen and farm, go"
+    },
+    {
+      "start": 2346.3,
+      "end": 2376.48,
+      "speaker": "SPEAKER_00",
+      "text": "ahead. It is the plan as of now, right? Like this is things can change always further down the line. But that's the that's what we're operating under right now. I mean, the Hyper -EVM protocols that TGE, the ones that are here are doing quite decently to me. I feel like Kinetic. Did a great launch and then Hyperland did a great launch and I think a few more are going to be coming up and TGEing. It's been fine. It's not been like, you know, completely monstrous price action, but it hasn't been the worst"
+    },
+    {
+      "start": 2376.48,
+      "end": 2406.64,
+      "speaker": "SPEAKER_00",
+      "text": "either. So if your product is good, people will hold. There's also one thing that you touched on before. I didn't mean to like toot our own horn in that sense, but we are actually the first protocol to really make use of these precompiles in the core writer in the way they were intended. So that's also why we see ourselves strongly positioned. In the Hyperliquid ecosystem. Yeah, no, you're right. Like I said, like this is the first time I see this kind of really being leveraged to the max, the infrastructure of Hyperliquid because, you know, liquid staking, it's cool. But"
+    },
+    {
+      "start": 2406.64,
+      "end": 2437.42,
+      "speaker": "SPEAKER_00",
+      "text": "that's, you know, one aspect and then lending. Most of that runs on Hyper -EVM. I think they're going to have some sort of connection in the future. But like you said, you're really kind of connecting both pieces. So in a very easy to understand way. So I'm definitely going to try it out and would recommend other people to try it out. Maybe I'll get like volatility, the Cade, and I'll be like, this is shit. I don't like it, but I'll definitely try it out. So you can kind of that sounds"
+    },
+    {
+      "start": 2437.42,
+      "end": 2468.18,
+      "speaker": "SPEAKER_00",
+      "text": "fantastic. There's no limits, right? Like, basically, it's just Hyperliquid liquidity in terms of size and so. So there's yeah, right. Like, there's no. Yeah, fully agreed. Fully agreed. Interestingly, like back then in the in the synthetics days, this was actually an issue that TLX ended up having quite some open interest. It was very large and with rebalancing product at some point, the open interest is relatively too large to the total open interest. It"
+    },
+    {
+      "start": 2468.18,
+      "end": 2498.26,
+      "speaker": "SPEAKER_00",
+      "text": "can become somewhat inefficient. But that's also why we got so excited about Hyperliquid, because if we are reaching this kind of open interest on Hyperliquid, that's a good problem to have. Nice. Love it. Love it. So for those that just tune in, this space. Is recorded. You can always listen to the beginning of space five minutes in. If you're curious to learn more about bounce tech or just the beginning of the story, do check them out. Like I said, give them a follow. We got some codes. You can DM them as well for some codes. Leverage tokens on Hyperliquid. This is"
+    },
+    {
+      "start": 2498.26,
+      "end": 2528.26,
+      "speaker": "SPEAKER_00",
+      "text": "a first. They're fully using the infrastructure of connecting Hypercore with Hyper EVM. So leverage positions with no liquidation risk that will have some sort of DeFi composability afterwards tagged on. They will have a. Points campaign on top of it. So perhaps a token, perhaps some profits. And that being said, just the fact that there's no liquidation to me sounds like a pretty sweet deal just to try it out. I think it's going to be worth it. Any closing thoughts, Lewis or Max? And"
+    },
+    {
+      "start": 2528.26,
+      "end": 2558.31,
+      "speaker": "SPEAKER_00",
+      "text": "then I'll close the space out. Go ahead real quick. No, thanks a lot for this space. You asked some really good questions. Only thing I'll say is that if you guys have any follow up questions, feel free to DM this Twitter account. Or join us on Discord. Yeah, nothing to add. Nothing to add on that one. Fantastic. Thank you so much for having us. Oh, thank you. Thank you. Like I said, the space is recorded. A lot of people actually listen to the recordings. I always say this and it usually"
+    },
+    {
+      "start": 2558.31,
+      "end": 2588.31,
+      "speaker": "SPEAKER_00",
+      "text": "happens. I would love to have a space in like six months or a year. We had actually HyperLend for a one year anniversary. We had them like I think Hyperliquid has Hyper EVM had just deployed. Right. And now a year later. They were they had their TGE, so it's kind of cool. So would love to have you as well in about six months or a year time if y 'all are down. That's good. OK, very cool. Best of luck. I feel like this this is this could have like really"
+    },
+    {
+      "start": 2588.31,
+      "end": 2609.13,
+      "speaker": "SPEAKER_00",
+      "text": "good PMF. And yeah, once more, thanks for building this out on Hyperliquid. Really appreciate everybody's time here. The audience, too. And have yourselves a lovely rest of your life. Have a lovely weekend. Bye bye. Thanks, guys. Thanks, everybody."
+    }
+  ],
+  "speaker_map": {}
+}

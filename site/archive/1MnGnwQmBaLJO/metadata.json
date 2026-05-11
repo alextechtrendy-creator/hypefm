@@ -1,0 +1,78 @@
+{
+  "space_id": "1MnGnwQmBaLJO",
+  "title": "2000x leverage with Opt Fun on Hyperliquid",
+  "state": "ended",
+  "created_at": "2025-06-26T16:01:32Z",
+  "started_at": "2025-06-26T16:01:34Z",
+  "ended_at": "2025-06-26T16:56:58Z",
+  "scheduled_start": null,
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 74,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1926418390165409792",
+      "username": "opt_fun",
+      "display_name": "opt.fun",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1735728340844044288",
+      "username": "unhedged21",
+      "display_name": "Ryan Unhedged",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1MnGnwQmBaLJO",
+  "summary_title": "OptFun: Building 1000X leverage options on Hyperliquid",
+  "summary_description": "Ryan from OptFun explains how they created fair, on-chain options trading with 1000X leverage for one-minute Bitcoin bets.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 147,
+      "label": "Intro: hosts meet with OptFun's Ryan to discuss the platform"
+    },
+    {
+      "timestamp_seconds": 460,
+      "label": "Ryan introduces OptFun: 1000X leverage options on Hyperliquid for one minute"
+    },
+    {
+      "timestamp_seconds": 794,
+      "label": "Why OptFun chose Hyperliquid: ecosystem merit, no VC dumping, devoted traders"
+    },
+    {
+      "timestamp_seconds": 1248,
+      "label": "Technical deep dive: on-chain order book, settlement every minute, UX simplicity"
+    },
+    {
+      "timestamp_seconds": 1520,
+      "label": "Trading tips: enter early in cycle, watch momentum, start with 200X leverage"
+    },
+    {
+      "timestamp_seconds": 1792,
+      "label": "Future roadmap: HYPE token support, HIP3 oracle integration, mobile app development"
+    },
+    {
+      "timestamp_seconds": 2366,
+      "label": "Monetization and sustainability: 5% maker-taker fees, points system, potential airdrops"
+    },
+    {
+      "timestamp_seconds": 3188,
+      "label": "Wrap-up: community feedback encouraged, points system teased, call to action"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3328.8746875,
+  "capture_failure_reason": null
+}

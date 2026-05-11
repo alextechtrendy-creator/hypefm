@@ -1,0 +1,84 @@
+{
+  "space_id": "1YqKDZarRXBJV",
+  "title": "Hyperliquid Perps on Mobile with Nest",
+  "state": "ended",
+  "created_at": "2025-03-18T12:16:12Z",
+  "started_at": "2025-03-19T16:00:19Z",
+  "ended_at": "2025-03-19T16:40:54Z",
+  "scheduled_start": "2025-03-19T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 341,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1464392211118936065",
+      "username": "osama_lit",
+      "display_name": "osama.hl",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1802865062597595137",
+      "username": "web3ambrose",
+      "display_name": "🅰️𝐦𝐛𝐫𝐨𝐬𝐞",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1463962674962780166",
+      "username": "nestwalletxyz",
+      "display_name": "Nest Wallet",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqKDZarRXBJV",
+  "summary_title": "Building Mobile-First Trading on Hyperliquid with Nest Wallet",
+  "summary_description": "Nest Wallet launches Hyperliquid perps on mobile with seamless UX, farming points, and roadmap for spot, staking, and HyperEVM integration.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 96,
+      "label": "Introductions and setup for Nest Wallet discussion"
+    },
+    {
+      "timestamp_seconds": 220,
+      "label": "Hosts discuss funding rates farming strategy on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 402,
+      "label": "Nest Wallet team background from BitCo and DeFi wallet building"
+    },
+    {
+      "timestamp_seconds": 492,
+      "label": "Soft launch of Hyperliquid perps on Nest Wallet announced"
+    },
+    {
+      "timestamp_seconds": 914,
+      "label": "Feature requests including HYPE staking and spot trading for mobile"
+    },
+    {
+      "timestamp_seconds": 1095,
+      "label": "HyperEVM integration planned within two weeks pending demand"
+    },
+    {
+      "timestamp_seconds": 1765,
+      "label": "Future roadmap: one-click bridging, meme coin trackers, NFT support"
+    },
+    {
+      "timestamp_seconds": 2284,
+      "label": "Call to action: test app, give feedback, share feature ideas via DMs"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2440.8746875,
+  "capture_failure_reason": null
+}

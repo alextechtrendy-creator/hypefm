@@ -1,0 +1,35 @@
+# Secrets — NEVER commit
+.env
+cookies.txt
+*.cookies
+*.pem
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modal artifacts
+modal_results/
+downloads/
+hype_v2/
+hype_v3/
+hype_final/
+hype_downloads/
+
+# Old / scratch files
+hyperliquid-spaces-archive.zip
+modal_hello.py
+modal_test*.py
+
+# Audio files (hosted on R2, not in git)
+*.m4a
+*.mp3
+*.wav

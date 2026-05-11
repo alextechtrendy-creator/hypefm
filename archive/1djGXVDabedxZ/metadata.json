@@ -1,0 +1,102 @@
+{
+  "space_id": "1djGXVDabedxZ",
+  "title": "Hyperliquid Mobile with Dexari, Ex-Binance US",
+  "state": "ended",
+  "created_at": "2025-03-29T13:09:06Z",
+  "started_at": "2025-04-01T17:00:34Z",
+  "ended_at": "2025-04-01T17:56:22Z",
+  "scheduled_start": "2025-04-01T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 146,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "40487987",
+      "username": "pbr713",
+      "display_name": "Pbr713",
+      "role": "host"
+    },
+    {
+      "user_id": "1416024118143635458",
+      "username": "Mr_OlaFX",
+      "display_name": "Olá FX 💯📌",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1400908673673687045",
+      "username": "AnonGirder",
+      "display_name": "AnonGirder",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1876728231857917952",
+      "username": "Dexari",
+      "display_name": "Dexari",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1djGXVDabedxZ",
+  "summary_title": "Dexari: Building the Best Mobile App for Hyperliquid Trading",
+  "summary_description": "Ex-Binance founders launch native iOS/Android app for Hyperliquid with seamless onboarding, account abstraction, and multi-chain support.",
+  "topic_tags": [
+    "infrastructure",
+    "execution",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 119,
+      "label": "Intro: Space recorded, activation codes coming, brief casual opening"
+    },
+    {
+      "timestamp_seconds": 308,
+      "label": "Chuck introduces Dexari co-founders and ex-Binance US background"
+    },
+    {
+      "timestamp_seconds": 489,
+      "label": "Discussion of Binance vs Hyperliquid situation, threat to centralized exchanges"
+    },
+    {
+      "timestamp_seconds": 763,
+      "label": "Mobile-first vision explained: native iOS/Android app, better UX than PWA"
+    },
+    {
+      "timestamp_seconds": 947,
+      "label": "Live product demo: spot trading launched, perps blocked for US, full feature parity"
+    },
+    {
+      "timestamp_seconds": 1130,
+      "label": "Multi-chain onboarding: USDC from Ethereum, Arbitrum, Optimism, Base with abstracted bridging"
+    },
+    {
+      "timestamp_seconds": 1493,
+      "label": "Differentiation strategy: centralized exchange UX, native wallet, no dapp browser friction"
+    },
+    {
+      "timestamp_seconds": 1793,
+      "label": "Android app launch announcement, iOS TestFlight, RektDexari code shared"
+    },
+    {
+      "timestamp_seconds": 2128,
+      "label": "Future roadmap: vaults, staking, fiat on/off ramps, debit cards, AI analytics"
+    },
+    {
+      "timestamp_seconds": 2647,
+      "label": "Points program: retroactive points tracking pre-season, tracker coming later"
+    },
+    {
+      "timestamp_seconds": 3044,
+      "label": "Call to action: download app, join Telegram, provide feedback for rapid iteration"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3348.672,
+  "capture_failure_reason": null
+}

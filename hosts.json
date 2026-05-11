@@ -1,0 +1,7 @@
+{
+  "_comment": "Add the X handles (without @) of every account that hosts Hyperliquid Spaces. The discover command will scan their last ~3200 tweets for Space links.",
+  "hosts": [
+    "HyperliquidX",
+    "chameleon_jeff"
+  ]
+}

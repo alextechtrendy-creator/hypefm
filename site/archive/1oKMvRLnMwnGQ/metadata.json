@@ -1,0 +1,78 @@
+{
+  "space_id": "1oKMvRLnMwnGQ",
+  "title": "Robonet prompt to quant execution on Hyperliquid",
+  "state": "ended",
+  "created_at": "2026-04-14T20:42:44Z",
+  "started_at": "2026-04-15T16:00:24Z",
+  "ended_at": "2026-04-15T17:03:08Z",
+  "scheduled_start": "2026-04-15T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 58,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1481297210499338241",
+      "username": "0xGustas",
+      "display_name": "Gustas 🤖",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1091531681515720705",
+      "username": "MichaelZski",
+      "display_name": "Mike Zski",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1oKMvRLnMwnGQ",
+  "summary_title": "How AI agents are democratizing algorithmic trading on Hyperliquid",
+  "summary_description": "Robonet founders demo AI-powered strategy building, backtesting, and live deployment with real 488% returns.",
+  "topic_tags": [
+    "trading",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 147,
+      "label": "Space opens with hosts testing audio and casual banter about X's new cash tags"
+    },
+    {
+      "timestamp_seconds": 430,
+      "label": "Introductions: Zerk from Wreck Gang introduces guests Augustus and Mike from Robonet and Elora"
+    },
+    {
+      "timestamp_seconds": 612,
+      "label": "Mike explains Elora's predictive AI network: 52-53% directional accuracy, forecasting future prices"
+    },
+    {
+      "timestamp_seconds": 1036,
+      "label": "Augustus describes Robonet's evolution from token yield to intent-based automated strategy platform"
+    },
+    {
+      "timestamp_seconds": 1369,
+      "label": "Mike shares real example: deployed AI strategy earning 488% backtest returns on ETH using SMA crossovers"
+    },
+    {
+      "timestamp_seconds": 2093,
+      "label": "Augustus details security: private key management via Brevi, locked code execution, emergency stop controls"
+    },
+    {
+      "timestamp_seconds": 2847,
+      "label": "Roadmap discussion: multi-asset support, oil/metals trading, funding rate arbitrage across venues"
+    },
+    {
+      "timestamp_seconds": 3481,
+      "label": "Closing remarks: hosts thank Robonet team, discuss future where AI agents trade autonomously"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3759.6586875,
+  "capture_failure_reason": null
+}

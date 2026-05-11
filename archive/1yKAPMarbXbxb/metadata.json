@@ -1,0 +1,78 @@
+{
+  "space_id": "1yKAPMarbXbxb",
+  "title": "Leveraged tokens on Hyperliquid ft. Bouncetech",
+  "state": "ended",
+  "created_at": "2026-03-12T17:08:07Z",
+  "started_at": "2026-03-13T16:00:15Z",
+  "ended_at": "2026-03-13T16:43:50Z",
+  "scheduled_start": "2026-03-13T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 112,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1541546926893666304",
+      "username": "0xg_eth",
+      "display_name": "0xG",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1891443687600836608",
+      "username": "BounceTech",
+      "display_name": "Bounce.Tech",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1yKAPMarbXbxb",
+  "summary_title": "Bounce Tech: Non-liquidating leveraged tokens on Hyperliquid",
+  "summary_description": "How leverage tokens work, why they outperform perps in rallies, and why Hyperliquid's infrastructure makes them possible.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 26,
+      "label": "Host introduces Bounce Tech team and space begins"
+    },
+    {
+      "timestamp_seconds": 288,
+      "label": "Louis and Max introduce themselves and their background with TLX"
+    },
+    {
+      "timestamp_seconds": 378,
+      "label": "Core explanation: what are leveraged tokens and how do they rebalance"
+    },
+    {
+      "timestamp_seconds": 530,
+      "label": "Key advantage: no liquidation risk, but volatility decay in sideways markets"
+    },
+    {
+      "timestamp_seconds": 1226,
+      "label": "Why Hyperliquid EVM precompiles made this product possible"
+    },
+    {
+      "timestamp_seconds": 1710,
+      "label": "DeFi composability: delta-neutral pools and tax-efficient funding strategies"
+    },
+    {
+      "timestamp_seconds": 1891,
+      "label": "HIP3 markets coming soon with higher possible leverage for commodities"
+    },
+    {
+      "timestamp_seconds": 2346,
+      "label": "Closing: points campaign confirmed, token planned, six-month and two-year roadmap"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 2620.864,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,72 @@
+{
+  "space_id": "1PKqrEAoBaQGb",
+  "title": "the data layer for Hyperliquid",
+  "state": "ended",
+  "created_at": "2026-04-21T19:24:01Z",
+  "started_at": "2026-04-22T16:59:56Z",
+  "ended_at": "2026-04-22T18:00:36Z",
+  "scheduled_start": "2026-04-22T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 30,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1926996487675822080",
+      "username": "hydromancerxyz",
+      "display_name": "Hydromancer",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1PKqrEAoBaQGb",
+  "summary_title": "How Hydromancer became Hyperliquid's critical data infrastructure layer",
+  "summary_description": "Inside the data pipelines powering 80+ teams building on Hyperliquid, from market makers to HIP4 prediction market builders.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "market-making"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 276,
+      "label": "Xeno introduces Hydromancer and its origin story from HyperDash"
+    },
+    {
+      "timestamp_seconds": 460,
+      "label": "Hydromancer pivots to infrastructure after realizing poor developer tooling pain"
+    },
+    {
+      "timestamp_seconds": 708,
+      "label": "80+ teams rely on Hydromancer: app builders, market makers, and HIP4 deployers"
+    },
+    {
+      "timestamp_seconds": 829,
+      "label": "Explaining priority fees system (REITs and writes) and market maker execution advantage"
+    },
+    {
+      "timestamp_seconds": 1195,
+      "label": "HIP4 prediction markets arriving soon with creative UI/UX opportunities versus HIP3"
+    },
+    {
+      "timestamp_seconds": 2261,
+      "label": "Launching Reservoir: free historical Hyperliquid data forever for ecosystem transparency"
+    },
+    {
+      "timestamp_seconds": 2444,
+      "label": "Research paper reveals 29% of Hyperliquid traders are profitable, outperforming traditional crypto"
+    },
+    {
+      "timestamp_seconds": 3113,
+      "label": "Future plans: support HIP4 endpoints, expand public goods, and grow builder ecosystem"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 3640.8746875,
+  "capture_failure_reason": null
+}

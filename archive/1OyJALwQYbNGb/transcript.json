@@ -1,0 +1,1562 @@
+{
+  "space_id": "1OyJALwQYbNGb",
+  "language": "en",
+  "duration_seconds": 8130.8373125,
+  "chunks": [
+    {
+      "start": 177.71,
+      "end": 208.43,
+      "speaker": "SPEAKER_00",
+      "text": "GM, GM, Brent, how are you doing? GM, GM, Zerk, all good here. How are you? I'm good. I think it's the first time I speak with you, man. I think I came on to Rec Space for a couple of minutes once. Not sure. No, it was Mad Scientist I went to, and I congratulated you for launch. Nice, nice. Well, I'm congratulating you for the launch. Let's get a few more people in. I'm going to amplify the space. Space. I'm"
+    },
+    {
+      "start": 208.43,
+      "end": 238.48,
+      "speaker": "SPEAKER_00",
+      "text": "trying to mint now, and it's tricky. I'm playing with the gas a lot. I don't know if I should be, though. Yeah, let's hope that the Hyperliquid team raised the gas limit, because it's quite conservative at 2 million. I mean, I think it was 10 million in the beginning on base. That's the trick, because I edited to the max, right? That's what I want, because it's been working, and now"
+    },
+    {
+      "start": 238.48,
+      "end": 268.48,
+      "speaker": "SPEAKER_00",
+      "text": "it's failing. So I don't know what I changed. I don't think I changed anything. Putting the max. It's always risky in these situations, because you don't know if a block explorer is going to be able to handle the metadata. For example, BlockScout. Now, they're too cheap, and they can't"
+    },
+    {
+      "start": 268.48,
+      "end": 299.0,
+      "speaker": "SPEAKER_00",
+      "text": "parse the images of the metadata because they set a very low limit. But hopefully, they'll get boosted up over the next days. Yeah, and I mean, we can see them already on your personal browser, right? We can see it there. Exactly. Yeah, if you wanted to be real nerdy about it, you could go to the contract and use the build, the token URI function, and that will give you the whole text that contains the metadata and"
+    },
+    {
+      "start": 299.0,
+      "end": 329.04,
+      "speaker": "SPEAKER_00",
+      "text": "the image. You can just paste that into a browser, and it'll show you what your traits are. Nice. How are you doing, Tony? Welcome to the space. I feel it's been a while we had a wrecked space. Yeah, for sure, man. We were just talking about that. I have a question for all the noobs out there. Definitely not me. I've already minted. But how are we minting these? How are we getting the ETH that we need onto the chain, just for all the people in here who, obviously not me, who are"
+    },
+    {
+      "start": 329.04,
+      "end": 359.04,
+      "speaker": "SPEAKER_00",
+      "text": "having a little bit trouble minting? Bro, I'm having trouble, too. I've minted like five, and now I can't. So, Brent, you need to walk us through all the steps. So, the most crucial part of the process is your wallet has to be an active wallet, as considered by Hyperliquid. So, that means... I mean, the easiest way is you need to have bridged some USDC from Arbitrum to Hyperliquid. So, when you go on"
+    },
+    {
+      "start": 359.04,
+      "end": 389.54,
+      "speaker": "SPEAKER_00",
+      "text": "the Hyperliquid app to hyperliquid .xyz, and you press the deposit function, if you deposit USDC, that means your wallet is active. And they did this in such a way to kind of find the power users, because this then allows you to use the big blocks. And from what I read between the lines, the team wants people to deploy contracts to use the big blocks. I mean, it's kind of a soft filtering. The only developers will"
+    },
+    {
+      "start": 389.54,
+      "end": 419.74,
+      "speaker": "SPEAKER_00",
+      "text": "use the big blocks because they need them to launch smart contracts. But we need the big blocks to mint fully on -chain NFTs because it's just slightly over the gas limit. So, with the dual block architecture, you have a two million gas block that process in one second, and you have a... 10 million gas block that processes in 60 seconds and the default is for the small block which is 2 million gas and it costs 2 .3 million gas"
+    },
+    {
+      "start": 419.74,
+      "end": 450.24,
+      "speaker": "SPEAKER_00",
+      "text": "to make a tiny hypercat so it's just above the limit and we need to jump to the big block okay so the big block then needs you to be an active user to enable the big block and this is the hardest part so once you've deposited onto hyperliquid you become an active user you could probably just deposit one dollar onto hyperliquid and that would be enough to make an active user then you can use that web app that i shared in the thread that"
+    },
+    {
+      "start": 450.24,
+      "end": 480.24,
+      "speaker": "SPEAKER_00",
+      "text": "was built last night which is a huge relief because i was waking up this morning with intention of building that myself i was so glad to see that it was already built when i got up so you can use that web app to toggle from small blocks to big blocks and then when you have a big block you can mint your cat but you need to have your high tokens on the evm at this point once you're an active user you could bridge hype using any of the third party bridges so i"
+    },
+    {
+      "start": 480.24,
+      "end": 510.3,
+      "speaker": "SPEAKER_00",
+      "text": "think one of them is gas .zip you can bridge eth on base to hype on the hyper evm but the way i was doing it was just buying spot hype on the hyperliquid spot dex so i deposited 10 usdc to hyperliquid so i just bought a spot wallet and i just sent the hyperliquid to the transfer wallet and i sent the hyperliquid to the transfer wallet and i got $10 on the spot and then i had $10 on the spot wallet and i bought hype then when i had hype on my spot wallet i could press send and i could send it to the transfer wallet which is like 0x and all the twos"
+    },
+    {
+      "start": 510.3,
+      "end": 541.04,
+      "speaker": "SPEAKER_00",
+      "text": "and then you instantly get hype on evm and hype is the gas token on the evm so when you're on the hyperliquid evm you don't need eth you just need hype so those are two ways to do it really, it's really hard, but we're all DJs here, so it should be fine for us. I mean, it's great that it's actually quite complicated. I feel like there's always the best things have"
+    },
+    {
+      "start": 541.04,
+      "end": 571.36,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit of friction. And then once that friction is removed, then everybody wants in, right? But now you kind of have that edge. Yeah, like Orin was on the Excel sheet. All the steps are in the thread pinned up here, right? So make sure, if you're already a HyperLiquid user, I think most of the people that want to mint this are already HyperLiquid users. So use the hype wallet that you're actually using. I guess you could create a new one, but there's a limit of 10 NFTs per public,"
+    },
+    {
+      "start": 571.5,
+      "end": 601.56,
+      "speaker": "SPEAKER_00",
+      "text": "so I guess you'll have enough, right? So in that sense, follow the thread, but a lot of it is very well detailed. So yeah, but I really love these. They're fully online. They're fully on -chain. You must be the first NFT collection on -chain on HyperLiquid. Actually, I don't know any NFTs that have minted on the HyperLiquid chain right now. Well, this is where I'm a little bit confused right now, because there is another project called The Farm. I think it's thefarm"
+    },
+    {
+      "start": 601.56,
+      "end": 632.14,
+      "speaker": "SPEAKER_00",
+      "text": ".phone or something like that, but they launched somewhere else, and they're bridging onto HyperLiquid. But they deployed their bridging contract. Bridging is not the same. Yes, exactly. Bridging is not the same. But they deployed their bridging contract an hour before me, but I'm going to take it that I'm the first native fully on -chain collection. Well, let's see. Maybe the WebTree sleuths can come along and fish"
+    },
+    {
+      "start": 632.14,
+      "end": 662.26,
+      "speaker": "SPEAKER_00",
+      "text": "all the details out, but I was only checking the verified contracts. But then again, the block explorers are not fully up -to -date. They're going through the chain and adding all the time. So it might take a few days. It might take a few days for it just to settle. But I haven't seen anybody else mint NFTs yet. I don't know. Maybe somebody else has. Yeah. I mean, we're in the Discord, right? We're on X. Haven't seen anybody mint NFTs in Hype using Hype token"
+    },
+    {
+      "start": 662.26,
+      "end": 692.44,
+      "speaker": "SPEAKER_00",
+      "text": "native on -chain mint, right? And we're always... If you come up, you say you're the first, somebody usually will tell you, no, you're not the first. So this is kind of litmus test, right? You say you're the first, and nobody is out here trying to prove you wrong. You are the first. So walk me through, you know, I guess, what made you, what motivated you to kind of launch an"
+    },
+    {
+      "start": 692.44,
+      "end": 722.74,
+      "speaker": "SPEAKER_00",
+      "text": "on -chain collection on Hyperliquid? I feel like I knew you as a GIF animator, right? Like as an artist first, and now you're doing blockchain big blocks and all these things that I actually don't really understand. So that's really cool how you... I hate, yeah, I hate the fact that I had to become a dev. I was just happy enough doing badly drawn memes, to be honest. But yeah, I got involved"
+    },
+    {
+      "start": 722.74,
+      "end": 752.84,
+      "speaker": "SPEAKER_00",
+      "text": "with, you know, Apex, who deployed Veil recently, and he did the on -chain dynos. And I got involved, of course, with De La Frog, crew, rec gang, and I drank all the on -chain Kool -Aid and wanted to be on -chain. And to be honest, I like that. I like that. I like that. I like that. I like that. I like that. I like the vibe. I like the fact that you can deploy a fully on -chain art contract for like 20 cent, maybe even less on base, and you"
+    },
+    {
+      "start": 752.84,
+      "end": 784.46,
+      "speaker": "SPEAKER_00",
+      "text": "never have to pay IPFS fees. So a lot of the OGs here, they'll have launch collections on IPFS for free, and they would have had free storage. But recently, all that changed. So now you have to pay, you know, like $20 a month for storage or so on most of the big IPFS servers like Pinata. So to me, you know, if I was to leave the space and not pay my IPFS bill, those files could potentially be gone. You could have an NFT with no image. But"
+    },
+    {
+      "start": 784.46,
+      "end": 816.17,
+      "speaker": "SPEAKER_00",
+      "text": "if you do an on -chain collection, all the work is upfront. You have to do all the code, but it's cheap and you never have to pay for IPFS. That's why I like the on -chain stuff. And that's why you're kind of pushed into doing pixel art. So it's the easiest method to do on -chain art. There are other ways, but this is for a big generative collection, it's certainly the most straightforward way is pixel art. Yeah."
+    },
+    {
+      "start": 816.23,
+      "end": 846.63,
+      "speaker": "SPEAKER_00",
+      "text": "And it's super cool to have it on -chain. I mean, that's kind of the vision of blockchain, right? It's having immutable assets, having assets that you own forever, and having the image stored on -chain means that will never change, even if you stop paying IPFS. Yeah. Yeah. Exactly. Trusting or becoming a dev, how difficult? Yeah. Yeah. I would say very difficult because"
+    },
+    {
+      "start": 846.63,
+      "end": 876.73,
+      "speaker": "SPEAKER_00",
+      "text": "it's not good enough just to learn solidity. You have to learn how to do web dev because with fully on -chain collection, you can't usually connect to a launch site. You can't use Rodeo. I know there are hacks actually to use Rodeo, but... A lot of the most common launch sites, you can't use a fully on -chain. So it was actually last"
+    },
+    {
+      "start": 876.73,
+      "end": 906.96,
+      "speaker": "SPEAKER_00",
+      "text": "year when I was close to finishing the contracts for Hampepes, and I was bugging Apex and Deployer for them to build me a website. And they were like, no, bro, sorry, I'm too busy. And I was like, fine, I'll just make my own website. So then I had to learn how to use TypeScript. And yeah, that was much harder than learning solidity. And of course, I'm still a noob. I could have spent all this time just being an artist though. So"
+    },
+    {
+      "start": 906.96,
+      "end": 937.82,
+      "speaker": "SPEAKER_00",
+      "text": "you did everything here from A to Z, the art, the contracts, the website, and now you're on Spaces doing the marketing. Yeah. But it is good because then you can use those same skills to try to add value. And maybe not successfully, but you can try to add some value. Like you can see from Hampepes, I made the seasonal"
+    },
+    {
+      "start": 937.82,
+      "end": 967.85,
+      "speaker": "SPEAKER_00",
+      "text": "traits. Yeah. I'm going to show you a couple of different apps where you can try out different shirts and hats and such. And when you can dev for yourself, it's much easier than trying to talk to a guy. Yeah, absolutely. And you got to pay for it. And then they rug you. How many devs rug us? I lost track at this point. So it's good that you"
+    },
+    {
+      "start": 967.85,
+      "end": 998.2,
+      "speaker": "SPEAKER_00",
+      "text": "know how to do it by yourself. I mean, we can see that Kudo went on a huge arc like that. He's a a dev and a musician and everything now it's crazy yeah absolutely and and trendy uh launched the mauskenstein ai agent as well so he's been devving so the only one left that hasn't touched code is myself i feel bad now i feel like an idiot um i"
+    },
+    {
+      "start": 998.2,
+      "end": 1028.2,
+      "speaker": "SPEAKER_00",
+      "text": "guess i gotta learn some skills you your skill is your voice you're you're honing in that uh that speaker voice that bd voice you you just keep staying in that lane you're doing great yeah i'm not even sure i'm good at that so i'm happy i think i think the skill that you're like underrating here is your ability to relate like you understand both worlds like you you can"
+    },
+    {
+      "start": 1028.2,
+      "end": 1058.3,
+      "speaker": "SPEAKER_00",
+      "text": "listen to all this like technical jargon and then you could dumb it down for somebody i understand it all but for other people you know what i mean yeah okay thanks trendy appreciate the the kind of words uh we got others here others did you figure out how to mint these uh tiny hypercats i i did after a little trial and error i haven't tried now that it's the the whitelist phase or whatever the public meant but i did go through and now i'm helping"
+    },
+    {
+      "start": 1058.3,
+      "end": 1088.3,
+      "speaker": "SPEAKER_00",
+      "text": "people so uh yeah you know you gotta love stuff like this like it's it's early it's native you know it's it's kind of the way it should be um to where it's not just you know you go and you're basically you know making an image and you're just linking a website basically but uh no i really wanted to come up and just uh congratulate brin i've been a big fan of brin just from from the gift days like you were saying or jiff or whatever the hell they call them uh i always really liked his work you"
+    },
+    {
+      "start": 1088.3,
+      "end": 1118.39,
+      "speaker": "SPEAKER_00",
+      "text": "know the old wolf printer and and all kinds of stuff he's done a lot of cool stuff so it's cool to see you kind of uh you know growing in the space so congrats brin i like my kitty thanks a lot mate i really appreciate it and i hope at some point to get back to just doing gifs and memes most of the time i don't want to be delving all the time yeah well i remember when you were uh doing the the documentary"
+    },
+    {
+      "start": 1118.39,
+      "end": 1148.52,
+      "speaker": "SPEAKER_00",
+      "text": "stuff i was like hey can you mate and you were just like you were busy for like two years i was like man i miss it did you watch the film i really really enjoyed it yeah pretty pretty good i guess is it a documentary is that what you call it neither web three name nick nick is down here actually nick i see him he's hard to recognize"
+    },
+    {
+      "start": 1148.52,
+      "end": 1179.24,
+      "speaker": "SPEAKER_00",
+      "text": "with uh with his name and picture what his face now i recognize him as that wolf so i know he he's going through this i guess it's a different uh different audience it's perfect yeah i kind of i kind of like being a anonymous a little bit you know like who wants to look at my old ass ugly mug you know nobody i i"
+    },
+    {
+      "start": 1179.24,
+      "end": 1209.48,
+      "speaker": "SPEAKER_00",
+      "text": "would disagree but you know all right if nick can come up that'd be fun uh yeah so if y 'all got questions on how to mint these others is helping people it seems dm him directly yes and i i am at work so i am looking for things not work related to do because he's also probably"
+    },
+    {
+      "start": 1209.48,
+      "end": 1239.52,
+      "speaker": "SPEAKER_00",
+      "text": "in helping people out um i you know this is super cool hyper evm kind of came out of nowhere right like i remember i i messaged liquid hours before and i'm like do you know when hyper evm is coming he's like no i don't know at all uh but i'll try to find out and then they post um i guess a few hours later that it's live and people kind of scrambling on"
+    },
+    {
+      "start": 1239.52,
+      "end": 1270.78,
+      "speaker": "SPEAKER_00",
+      "text": "what to do and i'm like oh my god i'm gonna have to do this i'm gonna have to do this i'm gonna have to do with it so it's i don't know if there's anything deployed uh of value right now well i guess now we have the nfts but outside of that i don't know what you can do with the hyper evm i think they all wanted to have people uh the same right like the same start there's no edge or there's no insiders that that have all their infrastructure ready and then you kind of come in afterwards here everybody starts at the same time yeah i"
+    },
+    {
+      "start": 1270.78,
+      "end": 1300.95,
+      "speaker": "SPEAKER_00",
+      "text": "saw that hyper liquid names is going live that's quite a busy contract right now i don't know how to get on there but that's uh they're going to have all the dot hls pretty soon oh nice when when how do we get on those i want to i want in yeah me too it's probably zillions uh i don't know zillions thing but"
+    },
+    {
+      "start": 1300.95,
+      "end": 1332.33,
+      "speaker": "SPEAKER_00",
+      "text": "we'll see so when do we get then i see that this is kind of like a phased rollout like they're not everything evm is ready they're going to kind of just keep building on it um until it's complete instead of just you know a huge launch yeah i think"
+    },
+    {
+      "start": 1332.33,
+      "end": 1362.37,
+      "speaker": "SPEAKER_00",
+      "text": "you're right i think it's um you know like i said they deployed it there was there was only like one rpc now i think there's there's a couple more if i'm not mistaken so everybody's building on top of hyper evm at the same time uh i guess it's a different approach than what we've seen for other chains where they deploy and everything's ready to go but then again the people that were in on"
+    },
+    {
+      "start": 1362.37,
+      "end": 1392.41,
+      "speaker": "SPEAKER_00",
+      "text": "it have the unfair advantage of you know being handpicked by the team and having their product ready right so i kind of like this decentralized here you go networks live build whatever you want yeah i kind of i i kind of you know with we have so many different you know l1s l2s and everything launching like look at bear chain i mean what was that like a two plus year process and it builds up so"
+    },
+    {
+      "start": 1392.41,
+      "end": 1422.48,
+      "speaker": "SPEAKER_00",
+      "text": "much that you're almost guaranteed to be let down where this just kind of trickles out and it leaves you wanting more so when they make something you get excited as opposed to just instant letdown so maybe that's the play like monad's getting ready to launch i think their testnet today and everybody is going to farm it's going to be a freaking huge thing and it'll probably be a huge letdown but hey when you you know you got one guy doing pixel art on a chain and"
+    },
+    {
+      "start": 1422.48,
+      "end": 1452.6,
+      "speaker": "SPEAKER_00",
+      "text": "more shit you know coming up in the future it's a good reason to be hyped quote unquote pun intended yeah you know hyper liquid was always about the the product first i think that's why people really enjoy it is because the product is so good just using the perks platform is is is really fun and now it's kind of like this open sandbox for people to explore"
+    },
+    {
+      "start": 1452.6,
+      "end": 1483.08,
+      "speaker": "SPEAKER_00",
+      "text": "and really take advantage of all i guess hype has to offer um that being said we already have not only nfts but it seems names as well and uh i think nft marketplace is probably going to be coming up probably going to get some defi very soon so yeah we'll we'll all see a row and uh here for it i think hype is you know we're all hype about it because we got the drops"
+    },
+    {
+      "start": 1483.08,
+      "end": 1513.18,
+      "speaker": "SPEAKER_00",
+      "text": "but uh the building has been so well done and so quickly um that we can be very bullish on the whole chain 20 did you figure out how to mint one did you get one you probably know cracking open a few boxes of cookies i i haven't because i'm mobile i don't you do is is mobile good i thought i saw"
+    },
+    {
+      "start": 1513.18,
+      "end": 1543.88,
+      "speaker": "SPEAKER_00",
+      "text": "something that said you should be on this company or haven't tried mobile yet not a fan is is brand i've heard that works i've heard that the zerion uh mobile wallet is working for a few people there you go maybe i'll try just so i can tell people how to do it you know just be the guinea pig what's the limit"
+    },
+    {
+      "start": 1543.88,
+      "end": 1573.89,
+      "speaker": "SPEAKER_00",
+      "text": "on public mint i thought it was 10 but it seems i'm capped five it is what it is it should be 10 per transaction or 20 total oh is it i i could not figure out how to do 10 per transaction i don't know if anybody figured that one out did you try mint multiple because it quotes me for oh no now it works okay i'll try it but let's let's"
+    },
+    {
+      "start": 1573.89,
+      "end": 1605.34,
+      "speaker": "SPEAKER_00",
+      "text": "go for it just max i've been talking to a couple of other yeah i've been talking to a couple of other hl devs real devs and they're all talking about how to do it so i'm going to go ahead and i'm going to do it i'm going to try it and they said that there are transactions dropping um from time to time and the feeling is that if the transaction is dropping it's because your gas limit is too low and it varies i've been putting the max i've been"
+    },
+    {
+      "start": 1605.34,
+      "end": 1637.4,
+      "speaker": "SPEAKER_00",
+      "text": "putting 7 million 900 i think that that's the max right but maybe that will only get you like three minutes because it takes 2 .3 million per token we'll try to figure out i'm trying to see if i can milk multiple i don't i don't care if burning a little gas for this and how"
+    },
+    {
+      "start": 1637.4,
+      "end": 1671.22,
+      "speaker": "SPEAKER_00",
+      "text": "many how much gray do you put for the mint like base fee and priority oh i need to get someone a bit more dj to answer that i just i just press mint and it pops up i think it's 0 .00023 hype that's 2 .3 million gas nah nah i'll put 10 i"
+    },
+    {
+      "start": 1671.22,
+      "end": 1701.36,
+      "speaker": "SPEAKER_00",
+      "text": "got i got a blast the gas it's so funny that everyone was trying to predict when the when the evm would launch and analyzing previous launches from the team like they tended to launch on a friday they tended to launch at the end of the month so i was guessing that february 28th was a good time to launch on a friday uh would be a good evm launch date because it kind of lines up"
+    },
+    {
+      "start": 1701.36,
+      "end": 1733.93,
+      "speaker": "SPEAKER_00",
+      "text": "with all the things they like to do and then they just dropped us on yesterday so sneaky i mean they yeah they're good they're good i like the fact that you never know when anything is gonna happen and you know we i mean it's no secret that we have friends in the team and they don't tell us anything i feel like they tell us even less than what they tell the public so"
+    },
+    {
+      "start": 1733.93,
+      "end": 1764.3,
+      "speaker": "SPEAKER_00",
+      "text": "that's funny oh might as well announce you know since you're here um we want to bridge the the rex as well to the hyper evm as soon as that's available so i don't know if that was a known fact but we want to be doing that brilliant that's just what we need do it now uh yeah well we're waiting for the providers right like we need either layers you know we're waiting for the or Axelark to go"
+    },
+    {
+      "start": 1764.3,
+      "end": 1794.58,
+      "speaker": "SPEAKER_00",
+      "text": "online or I don't know if Wormhole is going to come but whichever comes online first we're going to be ready for that. Are you talking about Ridge and Wolves? Yeah. What about Trippies? That's what everybody wants. Yeah. Well, you know we're talking about both actually so let's do it. Alright, I think that's kind of breaking news because people are sick of the purple. They're ready to get them Trippies away. Yeah. They're"
+    },
+    {
+      "start": 1794.58,
+      "end": 1824.78,
+      "speaker": "SPEAKER_00",
+      "text": "quite cool and I mean, might as well chat through or brainstorm with the DAO. It's not even the DAO but whatever. Thinking of using, you remember how we have like 300 Trippie Wolves that are mostly in the wallet sitting not doing anything? Kind of the ones that didn't migrate from Terra and we kept in the DAO wallet. Thinking"
+    },
+    {
+      "start": 1824.78,
+      "end": 1854.94,
+      "speaker": "SPEAKER_00",
+      "text": "of giving those away to like pro hyperliquid users or points, you know biggest points holders, what not. Just like free giveaway. Say, hey we're here. Here's some free JPEGs. That was an idea I had but still got to run it by everybody. See if people like it. I don't know if y 'all got any thoughts on it. You"
+    },
+    {
+      "start": 1854.94,
+      "end": 1885.04,
+      "speaker": "SPEAKER_00",
+      "text": "could have a little like a trading contest or something. For a few of them. Who can lose the most money? Who can be the most wrecked? A sweep competition. Yeah. What was Mr. Mint's favorite tactics? Buy one, get one, or sweep competition? Those are the plays, right? How about when he did the BOGO for like a mutant ape or something and it sat"
+    },
+    {
+      "start": 1885.04,
+      "end": 1915.18,
+      "speaker": "SPEAKER_00",
+      "text": "there for fucking ever. Never gave a damn. And I tracked it down who won it and it was actually somebody in Wrecking that won that. Oh, so it was actually a real person that won it? Yeah. He's big into CSA, the crown space apes from TSAS or whatever. I can't remember. It might have been Jazza or one of those guys. But yeah, he owned. I tracked him down. I pinged him in the chat, in the general chat and he ended up getting"
+    },
+    {
+      "start": 1915.18,
+      "end": 1945.63,
+      "speaker": "SPEAKER_00",
+      "text": "it after like a year. I mean, that's cool that he actually got it. I thought it was all a scam. Like there wasn't any mutant apes to give away. Or he just gave it away to himself. And maybe it was one of the other prizes. But maybe it was a ute or something. But either way, it was worth something. You know, he might as well get it. That's cool. That's cool. Even"
+    },
+    {
+      "start": 1945.63,
+      "end": 1976.99,
+      "speaker": "SPEAKER_00",
+      "text": "better when Oh, I wanted to say something about Mint actually. I noticed, and this is totally around random, that there are two tokens exactly the same. And the probabilities of that are like in the millions. Because the minting function takes the transaction hash and uses that as a random seed to generate the traits. And token number 43 and 45 look to be exactly the same to me, which is crazy. Like a 1 in 10 million chance. So"
+    },
+    {
+      "start": 1976.99,
+      "end": 2007.13,
+      "speaker": "SPEAKER_00",
+      "text": "if someone wants to swap one of those tokens for something else. These are going to be very worth it. I can take one and burn it. No, man. I want them. No, I want both, man. I want the brothers. Oh, you get the two brothers and one wallet. Wow. That's pretty cool. Too bad they're on chain. You could just change one"
+    },
+    {
+      "start": 2007.13,
+      "end": 2037.27,
+      "speaker": "SPEAKER_00",
+      "text": "of them to face the other direction. It'd be like a whole new collection these days. I'll do that next year when I need it. Exit liquidity. There you go. Just flip every single one. Put it on chain. To hype mint. We can do anything we want, right? We can transfer them. We can whatever. We can, I don't know, donate them. It's all good."
+    },
+    {
+      "start": 2041.7,
+      "end": 2072.11,
+      "speaker": "SPEAKER_00",
+      "text": "So when do we get our commemorative Hyper NFTs? We were promised when Evian was live. Right. That will be the biggest NFT collection on Hyperliquid. That is obvious. You know, it'll be huge. How much are they going for OTC right now? I've seen $50 ,000 mentioned a few times. Yeah,"
+    },
+    {
+      "start": 2072.15,
+      "end": 2105.98,
+      "speaker": "SPEAKER_00",
+      "text": "I think I mentioned $50 ,000, but is that real? Yeah, if you follow HyperCo, they do an escrow service so you can sell your pre -revealed, pre -received NFT with them, but you have to put down the same amount of collateral. So if you agree $50 ,000 sale price, you need to put up $50 ,000 as well. I think they've done half a dozen or so of those sales so far. For"
+    },
+    {
+      "start": 2105.98,
+      "end": 2136.29,
+      "speaker": "SPEAKER_00",
+      "text": "$50 ,000? That is wild, man. Yeah, if you scroll through HyperCo, maybe you can even pin it here to the space. It's totally wild. Well, I'm so happy. You know, when they first, do you remember when they first signed those terms of service? It was written, do you want an NFT or do you want just the tokens? I was like, well, do"
+    },
+    {
+      "start": 2136.29,
+      "end": 2166.41,
+      "speaker": "SPEAKER_00",
+      "text": "I get less tokens if I pick the NFT or it's just extra, right? And then it ended up being just extra. I'm like, yo, why wouldn't you? Yeah, it was a total psyop. Yeah. Yeah. But they got us again. That's what's... I'm glad I... Yeah, RIP in peeves to anybody who didn't pick the NFT. Right. Right, exactly. I'm sorry for that. But I think"
+    },
+    {
+      "start": 2166.41,
+      "end": 2200.58,
+      "speaker": "SPEAKER_00",
+      "text": "I was saying to everybody, pick the NFT as well. You know, people were asking, I'm like, yeah, you should pick the NFT. Now they're $50 ,000. And the rumor mill is saying that they will be the key to the biggest airdrops because they represent the most active users in hyperliquid. And that's the kind of user you want to target for your airdrop when you're building a new protocol. So let's see. Fingers crossed. I"
+    },
+    {
+      "start": 2200.58,
+      "end": 2231.82,
+      "speaker": "SPEAKER_00",
+      "text": "think, you know, it will be. And I went and listened back to a space that you had with Jeff back in the day, like way back in the closed alpha. And you asked him if he would do anything with the NFTs in future, like would he do some NFT finance or whatever? And he seemed really into it. And then somebody dug that out. I think it was Mogi who co -hosts with PBR and posted that again recently. So"
+    },
+    {
+      "start": 2231.82,
+      "end": 2262.16,
+      "speaker": "SPEAKER_00",
+      "text": "there was some more speculation about that. Wow. I can't believe that that space still gets talked about. I mean, it was like two years ago now. And it was it ended up that Jeff doesn't do many spaces, right? He's so busy. I understand. But it's good that we have that one. And I don't know if you remember, they had less than"
+    },
+    {
+      "start": 2262.16,
+      "end": 2293.01,
+      "speaker": "SPEAKER_00",
+      "text": "a thousand followers in the beginning. I think it was like 500 followers. Wow. It just grew and grew and grew through adoption. Yeah. You know what? I can mint from one computer, but I can't mint from the other computer. I don't know what I did wrong here. So I just don't worry. I'm not going to mint out the whole thing. I'm just, you know, I want to get my allocation that I'm allowed to mint that you set. I"
+    },
+    {
+      "start": 2293.01,
+      "end": 2323.06,
+      "speaker": "SPEAKER_00",
+      "text": "haven't even minted mine yet. Bro, it's coming along, man. There's like 300 minted. Oh, brilliant. It's a small collection. Yeah, I know. This will mint out today. I guarantee you that. People are kind of still figuring out how to do the mint. I think that's, and like I said, it's kind of nice that there's that friction because it feels to me that you know, with"
+    },
+    {
+      "start": 2323.06,
+      "end": 2353.48,
+      "speaker": "SPEAKER_00",
+      "text": "some friction, you get the real hardcore users that actually want to mint this. And I have not been able to mint multiple, so it's kind of like one at a time. Maybe it's just my, you know, my issue, but so far I don't feel like it's been botted or anything. I feel there's a lot of organic users kind of picking a few there, minting a few here. But this could potentially be, some of a contributing factor to the next hyperliquid"
+    },
+    {
+      "start": 2353.48,
+      "end": 2383.54,
+      "speaker": "SPEAKER_00",
+      "text": "airdrop. Because they did reserve, I don't know how much, 30 % of the tokens for future incentives and community. And they never removed the points tab from the UI. Now, we didn't get any new points since, but you know, we're just speculating that trading spot Bitcoin using the EVM could all be factors towards your score future airdrop. So, even if there's a rug and you're interacting"
+    },
+    {
+      "start": 2383.54,
+      "end": 2413.8,
+      "speaker": "SPEAKER_00",
+      "text": "with it, at some way you're potentially earning points. It's like when you're trading perps in the closed alpha. You lost your money, but then you made it back on the airdrop. So, let's hope for that. Let's hope that while we're minting NFTs or creating HL names or whatever, that we're secretly earning points in a new season. Because the next airdrop will be absolutely wild at the current prices. Yeah, you know, this is a good point of discussion and I'm doing, you"
+    },
+    {
+      "start": 2413.8,
+      "end": 2444.02,
+      "speaker": "SPEAKER_00",
+      "text": "know, I'm minting your NFTs because I like the art and I'm bullish on the first on -chain mint and I like you. And I'll mint the names because I, you know, I want to kind of encourage that the name system and I think it'll be useful perhaps in the future, but a lot of the stuff that I do in Hyperliquid is not the farm points. Even the perps back then, right? It was mostly because I wanted the long or short sum thing or using the vault was because I wanted to, you know, get some APR. So, that's the difference"
+    },
+    {
+      "start": 2444.02,
+      "end": 2474.54,
+      "speaker": "SPEAKER_00",
+      "text": "to me with Hyperliquid and any other VC back chain like Monad and Barra and all those. People do the tasks on those chains because they want the farm points. Here, you don't even know if you're going to get these points. Perhaps they'll say, fuck that, there's no points. We like our token price as it is. Giving points or giving extra, you know, hype tokens to y 'all is not good for token price. I would agree. So, you know, if you guys use the platform, just because it's"
+    },
+    {
+      "start": 2474.54,
+      "end": 2505.22,
+      "speaker": "SPEAKER_00",
+      "text": "a good product, that's it. Not because you want to farm Barra or Monad or whatever other token. So, that would be my advice to people. Interact with the chain because you want to, not because you think you're going to get some shit. Because I don't know if you're going to get some shit is all I'm saying. It was a good product up until yesterday morning. And you know, that phrase is seamless trading. It's seamless trading but janky minting. Yeah, the minting, I mean, to be fair, it"
+    },
+    {
+      "start": 2505.22,
+      "end": 2535.58,
+      "speaker": "SPEAKER_00",
+      "text": "wasn't built for the minting. And this is another chain. Hyper EVM is its own category, right? Like the Hyper Liquid L1 is still its own thing. And that's running seamlessly. This is us building and messing with the chain. I'm excited to see what else gets built in the next few days. Because it really is, even though they stealth launched"
+    },
+    {
+      "start": 2535.58,
+      "end": 2569.55,
+      "speaker": "SPEAKER_00",
+      "text": "it, it gave an opportunity, or a little bit of an advantage to the smaller users. People who are agile, who can just build immediately. Opposed to big companies like Lido or whatever that need to really plan things to get going. And when I say this, I'm thinking about small operators like you guys and REC Racing. Are we going to see something like that on Hyper Liquid? Yeah,"
+    },
+    {
+      "start": 2569.57,
+      "end": 2599.65,
+      "speaker": "SPEAKER_00",
+      "text": "I want to give an update on REC Racing, but I think I gave a lot of the updates. Might as well give you the latest one. It feels like our dev rugged again. So the game's ready, but the dev is not ready. So we're looking for a new dev right now. I know, I know. Eventually we'll, I think at this point we gotta start coding. We gotta start doing what you're doing, Bren. Relying on ourselves to finish this. That being"
+    },
+    {
+      "start": 2599.65,
+      "end": 2629.65,
+      "speaker": "SPEAKER_00",
+      "text": "said, the game looks beautiful on its own, and like I mentioned at an earlier space, there's music, there's now, you know, sounds. The animations are very cool. Kudo did an amazing job on the art. But the backend, the contracts, that is well, we had a plan, and now the guy left, so. That's Web3 for you. I think that game devs rug more than"
+    },
+    {
+      "start": 2629.65,
+      "end": 2659.92,
+      "speaker": "SPEAKER_00",
+      "text": "regular devs. Honestly, so you should maybe message EJ. I know we got a new game dev working with us, so we kind of felt rugged after the last one did went out of business. Then we had another one, not happy, now it's the new one. So game devs rug more than rigged devs. Oh, in this case, the game dev actually delivered. You know, they built the game, and it looks nice."
+    },
+    {
+      "start": 2660.1,
+      "end": 2689.94,
+      "speaker": "SPEAKER_00",
+      "text": "They're building like a game. They're a web2 builder, right? So for them, it doesn't matter what's happening in the backend, I guess, in terms of the contracts. So they were okay. It's the Web3 dev. Contract dev. It's okay. Live and learn. Yeah, I agree. I mean, we're going to organize a few more things for Hyperliquid outside of Wreck Racing. I feel like we definitely"
+    },
+    {
+      "start": 2689.94,
+      "end": 2720.18,
+      "speaker": "SPEAKER_00",
+      "text": "want to be hosting, you know, kind of like we do already with Mad Scientist, but want to be hosting spaces with builders on Hyperliquid regularly. Perhaps begging for some perks for the Wreck Gang, you know, once they bridged it to Hyperliquid. I feel like that's an easy lift. Get or trying to, right? As we try to do that. Yeah,"
+    },
+    {
+      "start": 2720.26,
+      "end": 2750.54,
+      "speaker": "SPEAKER_00",
+      "text": "a few things we want to do and really push for this chain. We'll see. Trendy's laughing. What do you think, Trendy? I'm just thinking that you maybe let some cats out of the bag, so to speak. I mean, yeah, it's okay. There's plenty of people. It's fine. We're still, you know, kicking the shit, as they like to say. Ren, you're over 300 minutes. I mean, at a certain point, it's going to get very"
+    },
+    {
+      "start": 2750.54,
+      "end": 2780.84,
+      "speaker": "SPEAKER_00",
+      "text": "very quickly it's going to go out of hand. You know, I have an interesting note on the mint. I was having absolutely no success with the Rabi wallet, and then I switched over to MetaMask, and every single time I minted it went through. Oh, that's interesting. Because usually you would say MetaMask is the absolute bottom tier wallet. Right, yeah. I disagree. I disagree. All you MetaMask haters. I can set gas"
+    },
+    {
+      "start": 2780.84,
+      "end": 2810.9,
+      "speaker": "SPEAKER_00",
+      "text": "limits. I can set everything on my MetaMask. It just looks ugly. It just looks plain basic, but maybe the back end is good on MetaMask. Speaking of MetaMask, I know it is kind of like the, it's like the old school, you know, it's like kind of the beat up car that, you know, it looks okay, but a lot of people drive it, but have you tried bridging on MetaMask lately? You used to have to, like, to bridge, you would have to click it,"
+    },
+    {
+      "start": 2810.96,
+      "end": 2840.92,
+      "speaker": "SPEAKER_00",
+      "text": "and it would take you to your profile, and then, it was kind of a pain in the ass. But now, they have, you click bridge, and it just brings up a box, and it's like, I want base on, you know, Avalanche, and I want to send my base ETH to Avalanche, and you just click it, and it goes right from the wallet. And this is even mobile, I think, does it. So, it's like one click. You don't have to go to your portfolio no more. It makes it pretty easy, so. Or maybe it's just me. I don't know. But before, it was a pain in the ass. It"
+    },
+    {
+      "start": 2840.92,
+      "end": 2872.75,
+      "speaker": "SPEAKER_00",
+      "text": "was like, then you gotta wait 10 minutes. Like, I always bridge to some base to, AVAX, and it was like, you know, 10 seconds. Yeah, the UI has gotten much cleaner, and I know what you're talking about. I want to say that, you know, I rarely, I think I used it a couple of times. This is again, but this 1 % fee they add, right? Like, it's .875 percent"
+    },
+    {
+      "start": 2872.75,
+      "end": 2904.92,
+      "speaker": "SPEAKER_00",
+      "text": "that they add. So, I think that's quite expensive for, for a bridging fee. I mean, for $100 or $200, I don't think it matters that much. That being, what, like $2? Less than that. But, if you're bridging big amounts, I feel like they're overcharging you a bit. I don't know, but, yeah. For small amounts, go for it. For bigger amounts, be mindful that they charge quite a big fee for bridging. By"
+    },
+    {
+      "start": 2904.92,
+      "end": 2935.85,
+      "speaker": "SPEAKER_00",
+      "text": "the way, Brent, so, this is the second time it happens, because I switched computers, and then, okay, everybody's gonna know how many I minted. But I minted five on one, and now I minted five on the other, and everything fails afterwards. So, I think the max mint is five per wallet. You know, I'll tell you something about that. When I took the original contract, the bones of the contract came from Apex, from"
+    },
+    {
+      "start": 2935.85,
+      "end": 2965.97,
+      "speaker": "SPEAKER_00",
+      "text": "his on -chain dynos mint. And he told me in DMs there was a bug in the contract, and good luck finding it. I never found it. So, maybe it's something to do with that. I don't think it's a bug. I think it's a feature. He had minted five. He's just trying to, uh, the unique holder count. He's trying to boost that. It's, you know, it's"
+    },
+    {
+      "start": 2965.97,
+      "end": 2995.97,
+      "speaker": "SPEAKER_00",
+      "text": "great to have better distribution. It's just good for the collection. If it's only us wrecked degens that minted, nobody's gonna wanna buy it. You need that exit liquidity of us, and it has to be somebody else. Hey, and it also makes it easy to wash trade, right? Because you got all these wallets for it. There we go. Stay with me for a second. So, you the equivalent to max is high. You can mint five. You get a high five that you were able to do this"
+    },
+    {
+      "start": 2995.97,
+      "end": 3026.78,
+      "speaker": "SPEAKER_00",
+      "text": "mint, and you're degen, so yeah, we're gonna go with that. I like it. Five it is. Yeah, but I just think it's five because it might be the gas limit you've hit that only lets you do five. But you're saying that if you go back again to just mint one more, you can't. I can't. I can't. And I've tried this on two different computers, two different wallets, two different many,"
+    },
+    {
+      "start": 3026.94,
+      "end": 3057.82,
+      "speaker": "SPEAKER_00",
+      "text": "many different gas fees, and it always fails. Go ahead and send me six hyperliquid token, and I'll try it over here too. Just to confirm for you. You're not gonna rug me, are you? Well, has anybody achieved more than five in one single wallet? Well,"
+    },
+    {
+      "start": 3057.84,
+      "end": 3088.2,
+      "speaker": "SPEAKER_00",
+      "text": "let me look, because I know that there's the explorer that shows you how many holders there are and how many tokens they have. Let me see here. I think I closed out the thing. I was like, I'm done minting. Let me see if I can find it again. If you're still on that page, if you click on the little explorer, it'll take you to the most recent minted, and then it shows the addresses for who's all holding, and it shows you how many they have. So if you see anything above five, that would be your smoking"
+    },
+    {
+      "start": 3088.2,
+      "end": 3118.2,
+      "speaker": "SPEAKER_00",
+      "text": "gun right there. Let's see, where's this address at? Tiny Hypercats. Then we go to View Token Explorer. Then we go to Holders. I don't want to rat somebody out, but somebody, there's some over five."
+    },
+    {
+      "start": 3118.4,
+      "end": 3148.26,
+      "speaker": "SPEAKER_00",
+      "text": "I think I found your wallet, Zerk, with 18 of them in there. That's not mine. Somebody's figuring out how to do it, but I can't do it. I just can't mint more than five. Whatever. I'm good. I got two wallets. Yeah, most of them are four and below. There's a couple six, a couple eight, eleven, eighteen. I was going to say, I minted ten, man. There you go. With one single transaction? Yeah, in one go, no problems. I was using Ravi, and it just,"
+    },
+    {
+      "start": 3148.46,
+      "end": 3178.32,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, no problem. Bren doesn't like the Canadians. I feel I'm getting geo -blocked from minting more. That's funny, because my VPN is set to Canada right now. I just get I just get getting fact -checked. For real? Actually, I sent it to your driveway, so... That's how I know it's just you, who just hates you. Bren,"
+    },
+    {
+      "start": 3178.38,
+      "end": 3208.33,
+      "speaker": "SPEAKER_00",
+      "text": "I thought we were friends here. That's okay. I'm happy with the amount. I'll try a little later to mint more of them. Or I'll create another wallet. Fuck you guys. I can do it on my own. Yeah, I'm up to fifteen right now. I might do another five just to get that even twenty. Gotta show the support for the homie, Mr. Bren. I mean, this is history in the making. The first NFTs on Hyper EVM. On"
+    },
+    {
+      "start": 3208.33,
+      "end": 3238.47,
+      "speaker": "SPEAKER_00",
+      "text": "fully on -chain? Fully on -chain? That's right. That's right. You know, those base, tiny base frogs go for, what, like, three hundred, four hundred dollars on a good day? Maybe even more? So, this is a bargain you're getting here. So, the only way currently to check the images is on the checker on the site, right? There's no other way to view them? Yeah. Eventually, well, I hope sooner rather"
+    },
+    {
+      "start": 3238.47,
+      "end": 3268.73,
+      "speaker": "SPEAKER_00",
+      "text": "than later, one of the block explorers increases the data limit so that we can see the images and also the metadata. There's a very, very, very small limit on most of these block explorers, and it should work, but it doesn't. It works on Unichain for the tiny unicorns, and I don't know if you minted derplets, but if you minted derplets and then looked on Magic Eden to trade afterwards, you'll notice that it took quite a while for some images to come in. Some"
+    },
+    {
+      "start": 3268.73,
+      "end": 3300.29,
+      "speaker": "SPEAKER_00",
+      "text": "images were there immediately, but some of the tokens didn't appear until the next day, and that's to do with the size of the data packet, the metadata. And derplets, they had a huge packet because they had that fart sound and the zooming and everything. Or not the zooming, the kind of animation. So, if a derplet can fart on chain, I think we can see a tiny cat on a block explorer. Incredible tech. Just incredible tech. I"
+    },
+    {
+      "start": 3300.29,
+      "end": 3330.54,
+      "speaker": "SPEAKER_00",
+      "text": "don't know if it's been asked already. I wasn't here for the beginning of the spaces, but I was seeing some questions from people in the Hype .io chats. They were just wondering, do you have any plans for what the first marketplace, any marketplaces in mind that you know are launching? I think one of them that I've heard of is the drip .trade, right? I don't know if there's any other ones. Yeah, there were definitely"
+    },
+    {
+      "start": 3330.54,
+      "end": 3360.76,
+      "speaker": "SPEAKER_00",
+      "text": "two NFT marketplace tokens launched on the DEX, but I haven't seen any info about when they will launch. I mean, everybody I have some info, but I think it's a little confidential. But it was mentioned on the space, so I think that one's coming. Okay, so for right now, we're just waiting to see who's"
+    },
+    {
+      "start": 3360.76,
+      "end": 3390.77,
+      "speaker": "SPEAKER_00",
+      "text": "going to release first. Basically, it sounds like. Yeah, can you imagine what these guys were saying? I mean, they got caught completely off guard yesterday with the announcement. So they have to really struggle to react quickly. Where's Edwin? He took a mental health"
+    },
+    {
+      "start": 3390.77,
+      "end": 3424.2,
+      "speaker": "SPEAKER_00",
+      "text": "break from the space, man. We need him back now. The trippy's got him down. Now, one planet's not coming, right? You know that. I know. I know. I know. I miss them. We need to beg Shane to launch Stargaze to get an outpost over there. And you too, Bernie. I see you. Get us going over there on Hyperliquid. This"
+    },
+    {
+      "start": 3424.2,
+      "end": 3454.32,
+      "speaker": "SPEAKER_00",
+      "text": "dude down here says he's a Magic Eden magician. We could have asked him. Is Magic Eden coming to Hyperliquid? I'm pretty sure it will. Because they have the abstract. They have the base. And they have a pretty complete EDM solution for all NFTs. So I think that one is coming. But, yeah, I'm expecting it to come. I don't know if OpenSea is going to come over. That I think is a little more"
+    },
+    {
+      "start": 3454.32,
+      "end": 3484.47,
+      "speaker": "SPEAKER_00",
+      "text": "doubtful. How could base manage to get OpenSea support on day one but nobody else could? I mean, like I told you, or like you even mentioned earlier, Hyperliquid launched in the most decentralized, non -insider way possible by basically not announcing to anybody that they're going to be doing this. And"
+    },
+    {
+      "start": 3484.47,
+      "end": 3515.09,
+      "speaker": "SPEAKER_00",
+      "text": "now that it's out there, it's the first mover, right? So whoever builds the fastest is going to get the first mover, which makes sense to me. Versus base, I'm sure had long talks with OpenSea before deploying the mainnet and all those things. Everybody was a little bit aware that this was going to get built. I'm sure they were working on it beforehand. So that's why they got such quick OpenSea"
+    },
+    {
+      "start": 3515.09,
+      "end": 3545.73,
+      "speaker": "SPEAKER_00",
+      "text": "integration. That being said, it wasn't the first day. I remember because, remember when we were buying, what is that meme? I think Toshi was the one that survived, but there was another meme, I think it was called Bald, and everybody got wrecked on buying Bald. It was kind of like the meme coin and I think the rumors were SBF launched Bald. Anyways, I remember when we minted the base wrecked chickens, right? The first minted out collection on base, there"
+    },
+    {
+      "start": 3545.73,
+      "end": 3577.28,
+      "speaker": "SPEAKER_00",
+      "text": "was no OpenSea. So, but a few days later OpenSea arrived. That being said, I'm sure they were very much aware months in advance that base was going to deploy something on -chain. We could always ask Aspen. So have you come across Aspen Palatnik? He's another kind of base builder. I think he actually works for OpenSea, but he deploys a web app called Net Protocol. And"
+    },
+    {
+      "start": 3577.28,
+      "end": 3607.64,
+      "speaker": "SPEAKER_00",
+      "text": "I think he actually made one on Unichain for training. Because we were thinking of another Aston, right? It's not the same Aston. No, Aspen. A -S -P -Y -N. I know the story there. No, different guy. No, Aspen Palatnik, he's quite a good builder and he deploys Net Protocol usually wherever people pressure him. So we could bully him into deploying on Hyperliquid. And that's a completely on"
+    },
+    {
+      "start": 3607.64,
+      "end": 3637.78,
+      "speaker": "SPEAKER_00",
+      "text": "-chain trading experience. It's pretty cool. And you can send messages as well. So if you see a token you like, you can send a message to try to get someone to sell it for you. Okay, let's harass him. If he can deploy I mean, the fastest one to deploy there's things to trade now, right? Like there's these tiny Hypercats NFTs. So there's a use case and I'm sure more people are going to be jumping in on your"
+    },
+    {
+      "start": 3637.78,
+      "end": 3668.66,
+      "speaker": "SPEAKER_00",
+      "text": "contract, Bren, and wanting to do on -chain mints. I can't wait for the first punks. And I will not be minting those by the way. Whoever does the punks on Hyperliquid, you're a grifter. But I'm sure there'll be more collections. People want to play with the chain. They want to try, you know, putting up the network on Metamask, Grabby, and whatnot. Using Hypergas. It's cool. So yeah, I'm sure builders will come and whoever's"
+    },
+    {
+      "start": 3668.66,
+      "end": 3698.86,
+      "speaker": "SPEAKER_00",
+      "text": "fastest usually gets first movers. But if something like Magic Eden comes over I think, you know, it's just so big, right? They just have so much visibility. I don't know if you can compete with that. Or OpenSea. Keep Magic Eden far away from hype. Please. We don't need them. They're garbage. There's this Magic Eden dude right in the audience. I want to invite him up to speak and ask him the questions. He doesn't want to. Or maybe"
+    },
+    {
+      "start": 3698.86,
+      "end": 3729.9,
+      "speaker": "SPEAKER_00",
+      "text": "he's just listening in. I'm sorry if I'm bothering you. I'm expecting them to be first. They're quite quick. They're not so bad, Raf. For the trading, it's cool. It's for the minting that I've had issues. Bitcoin as well. You know. They provide a service. Oh, he threw a heart. I'm with Raf on that. Hey, great"
+    },
+    {
+      "start": 3729.9,
+      "end": 3759.9,
+      "speaker": "SPEAKER_00",
+      "text": "for Bitcoin. That's the place to go for Bitcoin. But EVM, I don't know. It just hits different, man. Yeah, I can definitely see that. It's the nostalgia factor. I use Magic Eden mostly exclusively for Solana. And Bitcoin. I really don't touch it for anything else. It feels a little bit weird. But at the same time, you have the people who are shopping"
+    },
+    {
+      "start": 3759.9,
+      "end": 3792.19,
+      "speaker": "SPEAKER_00",
+      "text": "for those specific chains. And they might click on the other chains to see what's popping or what's on there. It might bring some extra liquidity to them. I don't think having them there is a bad thing. I just like shitting on things. I'm not going to lie. I'm a little bitter. Fair enough. Maybe liquidity -wise, trading activity -wise, they're good for that. But yeah, to your point, they suck for launchpad and minting and all that crap. Give"
+    },
+    {
+      "start": 3792.19,
+      "end": 3822.3,
+      "speaker": "SPEAKER_00",
+      "text": "a shout out to our boy Johnny. He's the EVM lead now. I don't know if y 'all remember Johnny from Polygon. He was the one that got us all into NFTs and started to hype NFTs. That was cool. He's a young guy with a mustache, so I don't trust Johnny Metaverse. Anybody under 60 with a mustache, I'm sorry, but I grew up in the 80s. We know what you are. So"
+    },
+    {
+      "start": 3822.3,
+      "end": 3852.34,
+      "speaker": "SPEAKER_00",
+      "text": "is that when you have a mustache only and nothing below it? Yeah, mustache only. If you got a goatee, at least we know. That says something itself. But just mustache only, under 60, if you didn't live in the 70s, no. I'm watching you motherfuckers. He's a chill dude, man. Yeah, you know what, when you do sit down and talk to Johnny, as opposed to what you see on the"
+    },
+    {
+      "start": 3852.34,
+      "end": 3885.14,
+      "speaker": "SPEAKER_00",
+      "text": "timeline or whatever, when you have a business conversation, but he still has a mustache. Take that with a grain of salt. Alright, we got Bernie up in here. Bernie, you launching a marketplace on hype? Would be a solid idea, right? I mean, you'd be the first. Yeah. Could be nice. Don't know anything about it, but... Could be a cool first mover's advantage. Anyway,"
+    },
+    {
+      "start": 3885.78,
+      "end": 3915.34,
+      "speaker": "SPEAKER_00",
+      "text": "great one launching there, Brent. I think you're the first ERC721. It's the second contract, but I think the other one is another NFT collection. So basically, you're the first NFT collection out there. That's excellent. There we go. We got somebody that's checked. Yeah. Yeah, yeah, yeah, yeah. I really love it. I minted too. Like I had one free mint from my handpapers. And"
+    },
+    {
+      "start": 3915.34,
+      "end": 3945.35,
+      "speaker": "SPEAKER_00",
+      "text": "if you had a Pixel Wizard, then you could get the handpaper, and then eventually you could get one of these awesome cats. It takes some time to mint one, especially as a first -time Hyperliquid user. But yeah, managed to pull it off, so... To the victory. When the stakes are high and it's difficult to get one, then it's nice to go for it. I am actually pretty excited to get home,"
+    },
+    {
+      "start": 3945.51,
+      "end": 3975.38,
+      "speaker": "SPEAKER_00",
+      "text": "and I can't wait to take my favorite hampepe and put it on my tiny cat and make a little little meme there of my hampepe riding my tiny cat. So it sucks I'm at work all day. Nobody go out and do it, because I want to be the first one to do that. I don't know why, but I think it'll be freaking awesome. On hampepes, you got a free hampepe if you minted that little tiny frog GM animation I"
+    },
+    {
+      "start": 3975.38,
+      "end": 4006.1,
+      "speaker": "SPEAKER_00",
+      "text": "made way back. And that was only $2, just the gas fee, so almost free. So if you minted that, you got a free hampepe, and then from your free hampepe, you get a free tiny cat. And hopefully you're in profit all the way along. I'm still butthurt about missing the hampepe mint, because I went through all the trouble of fucking splitting up those tiny frog GMs between like ten wallets in"
+    },
+    {
+      "start": 4006.1,
+      "end": 4036.38,
+      "speaker": "SPEAKER_00",
+      "text": "anticipation of that. And then fucking just slept through it. Or maybe I was working. I don't know, but it's all good. I went and bought some off the marketplace. You know what? I like the GM frogs. What's the other one? The ham printer? I got one of those. That's pretty cool. That's like a classic Brynn Jeff, but with the pepe. I think completely"
+    },
+    {
+      "start": 4036.38,
+      "end": 4066.4,
+      "speaker": "SPEAKER_00",
+      "text": "underrated. And unfortunately, ham chain is winding down. My plan was to launch the hampepes on ham chain, but on the day I was to deploy the contracts, I couldn't get it to launch on the ham chain, so I ended up launching on base, which was good in a way because you could trade immediately. There was no marketplace on ham chain, and unfortunately now ham chain is going to wind down. So, kind of dodged a"
+    },
+    {
+      "start": 4066.4,
+      "end": 4096.5,
+      "speaker": "SPEAKER_00",
+      "text": "bullet there in a way, but I also am a bit sad because I wanted to have hampepes on ham chain. But I think layer 3s are just, they haven't caught on. That's the simplest thing to say. They just have not caught on. Bro, I don't think layer 2s have caught on. You're speaking of layer 3s here, you know. It was, I mean, it's an experiment."
+    },
+    {
+      "start": 4096.64,
+      "end": 4130.37,
+      "speaker": "SPEAKER_00",
+      "text": "Let's put it that way. Okay, full transparency, I'm opening up another wallet because it's annoying me. I can only mint 5. I'm only at 10. I have less than RAP. Okay, don't at me. 20 was supposed to be the max. I"
+    },
+    {
+      "start": 4130.37,
+      "end": 4161.98,
+      "speaker": "SPEAKER_00",
+      "text": "started to... So, when are we going to... Go ahead. I was just going to say, when are we going to do something with TGIF, TGIF, TIF, whatever you want to call it. PBR's coin. I think it goes TJIF. It's kind of like a play on words on TGIF. Thank God it's Friday. Oh, I thought it was Thanks Jeff. It's free. Thanks"
+    },
+    {
+      "start": 4161.98,
+      "end": 4194.93,
+      "speaker": "SPEAKER_00",
+      "text": "Jeff, I am free. Yeah, I think it's also that. I think it's initially it was TGIF. I don't know. That's my speculation. We should ask PBR. I kind of don't think he knows. Because it could be a real sleeper. What's the market cap on that? I think it's 200k or so. Something like that. Very low. Okay,"
+    },
+    {
+      "start": 4195.07,
+      "end": 4225.65,
+      "speaker": "SPEAKER_00",
+      "text": "well we should pump it eventually. Somehow. That being said, I don't think anybody wants to put in the work. Everybody wants the pump, but nobody actually wants to shill it. So, up to you, Brent. Yeah, I did have an idea about building out a Dapp for minting a daily trading card, but maybe I won't do that. This week. Take"
+    },
+    {
+      "start": 4225.65,
+      "end": 4255.91,
+      "speaker": "SPEAKER_00",
+      "text": "a break. I think that could be cool. Especially now that we can have ERC tokens, and when the team allows transfer from the DEX to the EVM of ERC20s or the other tokens that are basically on the DEX, then we can really do something. So when we can transfer our TGIF off of the DEX and onto the EVM, then I think that will open up a load of interest. Interesting possibilities. And"
+    },
+    {
+      "start": 4255.91,
+      "end": 4286.23,
+      "speaker": "SPEAKER_00",
+      "text": "it would be cool to lead into the whole rare Pepe theme that PBR was building up. It could be something unique there. I think I said earlier that I would like to try to do something that includes whatever the current narrative is that day. So if you're auctioning one NFT per day, you kind of have a chance to put something from the crypto Twitter or ecosystem news in every day. I mean, if you're going to do it today, you might put that guy"
+    },
+    {
+      "start": 4286.23,
+      "end": 4316.23,
+      "speaker": "SPEAKER_00",
+      "text": "Hayden on, you know, that guy who roped Libra. You might put him on it or something. It could be interesting. I think it's a fun app, you know, to have these cards minted in TGIF, whatever we want to call it. Kind of unique. And PBR is always around. I think he's hosting"
+    },
+    {
+      "start": 4316.23,
+      "end": 4346.37,
+      "speaker": "SPEAKER_00",
+      "text": "Hyper Hour. So you know, he can shill it up app space as well. But you know how we never shill anything. So in that sense, it's fine too. Okay, you're almost at 400. I don't know if people are trying to still figure out how to mint. It seems to be going okay, but one token is not loading. I see 273, but it's on chain so we can get the on chain data and"
+    },
+    {
+      "start": 4346.37,
+      "end": 4376.46,
+      "speaker": "SPEAKER_00",
+      "text": "rebuild it. Something weird going on. Yeah, I'm seeing some people still having issues with the big blocks, little blocks thing. And then also making sure that they're depositing USCC first to activate it. Yeah, that's good. I mean, they're going to get there eventually. Slow and steady wins the"
+    },
+    {
+      "start": 4376.46,
+      "end": 4407.36,
+      "speaker": "SPEAKER_00",
+      "text": "race. Just gives me more time to mint. What are Raph, you're in Haikyos, right? You still hold that? Oh yeah, I've got six of them now. One of them is one of those Catbalios. Those ones have been moving real nice. Shilling the Haikyo Discord, man. Share with the Haikyo. I already did. But the activity"
+    },
+    {
+      "start": 4407.36,
+      "end": 4437.38,
+      "speaker": "SPEAKER_00",
+      "text": "in those chats is a little sporadic, erratic. It just depends on the time of day. I'll keep shilling them throughout the day. But yeah, you already got some that have been minting them. Gotta make them understand provenance and, you know, if anything, if you're a hyper maxi of any sorts, you should just be minting anything and everything haphazardly. Just go"
+    },
+    {
+      "start": 4437.38,
+      "end": 4467.62,
+      "speaker": "SPEAKER_00",
+      "text": "nuts. I mean, yeah, the first collection is usually established, right? The provenance and afterwards, yeah. Agree with you, man. I do think it matters, being the first. But I'm curious what the impact will be when everything opens up and a lot of those projects are launching. I think the only thing that might hold people back right now is there not being an"
+    },
+    {
+      "start": 4467.62,
+      "end": 4498.46,
+      "speaker": "SPEAKER_00",
+      "text": "active marketplace for them to trade these on or to view them easily. But, you know, otherwise, in my experience, the earlier you are to stuff, the better. You just have more opportunities and you're less likely to miss something. So, you know, God forbid you were like, I'm not going to mint these. Mint's not going as fast as I'd like. And then you look back later"
+    },
+    {
+      "start": 4498.46,
+      "end": 4528.7,
+      "speaker": "SPEAKER_00",
+      "text": "on, like we've all inevitably done, and see that the floor has skyrocketed and your opportunity is long gone. So, just got to take some chances. It's not a big gamble. Yeah, it's not a big gamble, for one. What is it, like $23 right now or something like that? Or $22? Yeah. But on top of that, it's not a big competition either. You know, when you get more hype mints, then you"
+    },
+    {
+      "start": 4528.7,
+      "end": 4558.82,
+      "speaker": "SPEAKER_00",
+      "text": "have to grind for whitelist or the mints go crazy and everybody's like, you know, ravenous. It's just not healthy. Here you have the slow people learning how to mint and then minting and kind of organic growth, right? Just like hyperliquid. Had a few users in the beginning and then people just enjoyed the product, stayed there. Growth and growth. Eventually, explosion. Yeah, I'm really... I just minted five!"
+    },
+    {
+      "start": 4558.94,
+      "end": 4589.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, I was able to mint -wrap with a number wallet. It just hates that wallet. Okay, I'm done now. Zerk's gonna dilute the supply. No, no, I only got 15. Okay, that's it. I think that's a lot more than... I might do 20. I'm getting a few more as well. Life savings, right? So, I'm"
+    },
+    {
+      "start": 4589.0,
+      "end": 4619.38,
+      "speaker": "SPEAKER_00",
+      "text": "actually curious to see if this sets or it's going to be part of the discussion on what the average hype mint or mint in hype is going to be like. I've only seen really like one person so far be like, oh, one hype seems like a lot for these but realistically, for a collection this size, $22, $23, whatever it is per mint, I think that's a fair mint. I've"
+    },
+    {
+      "start": 4619.38,
+      "end": 4649.68,
+      "speaker": "SPEAKER_00",
+      "text": "minted far higher for far uglier art on many chains. One hype is zero dollars, man. I got this hype for free. As most of y 'all got this hype for free. Fair. Just converting free magic money to other free magic jpegs. That's always been the cheat code is just to use the shit you got for free. To those who are coming on chain, which"
+    },
+    {
+      "start": 4649.68,
+      "end": 4679.84,
+      "speaker": "SPEAKER_00",
+      "text": "you have to think, a lot of hype holders are kind of brand new to the ecosystem too. They got pulled in that way. They don't have a bunch of free monies from hyperliquid stimmies. But who knows? Maybe if they were around long enough during this bull, then they got their own stimmie somewhere else. Gotta play the game with the free monies from the casino, you know?"
+    },
+    {
+      "start": 4680.12,
+      "end": 4709.84,
+      "speaker": "SPEAKER_00",
+      "text": "Don't add any. My hype was definitely not for free. I got a few gray hairs from trading perps. Okay, fair. We lost a lot and we gained a lot more too. . I think I remember the day we did the first the first Wrecked Chickens racing we did. I was watching the stream on Discord and I was so excited. I was gig along on"
+    },
+    {
+      "start": 4709.84,
+      "end": 4739.99,
+      "speaker": "SPEAKER_00",
+      "text": "Rune and there was some weird crazy candle that went way down back up and I had no stop loss and it just drained everything. I had like $4 ,000 and it went down to like $100 in a second and it was just devastation. For experiences like that I definitely earned my airdrop. Yeah, through the blood, sweat and tears of losing"
+    },
+    {
+      "start": 4739.99,
+      "end": 4770.01,
+      "speaker": "SPEAKER_00",
+      "text": "money leverage trading we got some hype. But that's interesting what you say, Raph, that hypeos are not hyper liquid I guess OGs. I thought that it was OGs buying the collection, but you must know way more since you're part of the community. So I'm glad we get new members through NFTs here. This is cool. Somebody in one of the"
+    },
+    {
+      "start": 4770.01,
+      "end": 4803.67,
+      "speaker": "SPEAKER_00",
+      "text": "hypeo chats actually made the point that I was trying to make about it's not necessarily about any particular NFT mint it's about just using the chain more people on chain, more activity more footprint, more data for larger players. So yeah, just this is all good for the hype ecosystem. It's all going to push us towards a one goal, one direction. So yes, Providence"
+    },
+    {
+      "start": 4805.69,
+      "end": 4833.73,
+      "speaker": "SPEAKER_00",
+      "text": "Providence Yeah, first on chain data stored fully on chain as well, so you know these aren't going anywhere which is beautiful. Beautiful job, Bren. You made all the art, you made all the traits as well. I mean, there's some funny ones. Which ones are your favorite? Well, actually some of the traits were made by my wife. So we sat together for one of the real rainy days over"
+    },
+    {
+      "start": 4833.73,
+      "end": 4863.73,
+      "speaker": "SPEAKER_00",
+      "text": "Christmas and I showed her how to use Krita which is like a free digital drawing platform but I use it for pixel art and she made a bunch of traits and she asked me, does anybody ever make traits for ladies? I was like, yeah, sure. And I went on to the Wrecked Wolf collection and showed her some of the Wrecked Wolves and she said, no those traits are for men. That's just boo. Boobs. So she made traits for ladies. She made the pink bow and"
+    },
+    {
+      "start": 4863.73,
+      "end": 4894.13,
+      "speaker": "SPEAKER_00",
+      "text": "the rain cloud, a few things like that. Yeah, I guess she's way better positioned to know what it's like. But that's cool, it's family art here on chain that you guys have minted and you're going to keep this forever, right? Those are memories that you can build on. Exactly. Yeah, my favorite trait"
+    },
+    {
+      "start": 4894.13,
+      "end": 4924.46,
+      "speaker": "SPEAKER_00",
+      "text": "is the crying eyes. I have a mad scientist with the crying eyes as well and I really like it. Neat to see that. Oh yeah, I see that one. That's a cool one. There's so many great traits actually. 4 .11 now. Okay. 4 .55, so it seems like it's picking up quite quickly now. My expectation is"
+    },
+    {
+      "start": 4924.46,
+      "end": 4954.64,
+      "speaker": "SPEAKER_00",
+      "text": "this. Somebody wants to gamble on when this will mint out. Raph, what you got? I mean, I've got no predictions but I do predict that, well, no predictions but I do have one that this will definitely pick up over the day as it rolls along. I mean, it's still early here where I am and normally, I'm actually doing that thing where I should be working right now but I'm kind of like an hour or so behind because this"
+    },
+    {
+      "start": 4954.64,
+      "end": 4984.84,
+      "speaker": "SPEAKER_00",
+      "text": "is more interesting to me obviously. than anything I do for work. But yeah, I think this will pick up speed. We'll see it pick up over the day. I'd be kind of surprised if this didn't mint out in the next day or so. Just as people become more aware of it because right now you still have people finding out about it, figuring out how to bridge their funds over, how to make sure they're using an active wallet, all"
+    },
+    {
+      "start": 4984.84,
+      "end": 5014.96,
+      "speaker": "SPEAKER_00",
+      "text": "that stuff. But yeah, I already saw somebody mentioning like, oh, are these the first mint on -chain? Oh, I don't even care if they're worthless. I need to own them. Yeah, that's the mentality you gotta have. It's a collectible, right? Exactly. You don't even have to have any PG or Discord or whatever. It's a collectible. I own this first on -chain hyper"
+    },
+    {
+      "start": 5014.96,
+      "end": 5045.5,
+      "speaker": "SPEAKER_00",
+      "text": "EVM. I will incorporate my tiny hyper cats into all my other hype NFTs. There'll be little Easter eggs on everything. But yeah, no, these are definitely just purely for that being first. I mean, shit, you saw how everybody was about getting a certain number, inscription number on Bitcoin under a certain amount. I don't know if that still holds any value"
+    },
+    {
+      "start": 5047.12,
+      "end": 5075.52,
+      "speaker": "SPEAKER_00",
+      "text": "on Ordinals. But it was a big deal for a while there, I remember. Yeah, I think it's not as cool as it used to be. Did it die over there? Bro, I don't know what happened, but ruins, Ordinals, and all that. It used to be so popular, and Bitcoin popped off, and people were like, okay, this was just a way to get more Bitcoin. That's what it"
+    },
+    {
+      "start": 5075.52,
+      "end": 5105.52,
+      "speaker": "SPEAKER_00",
+      "text": "felt like. It felt more like people were bored on Bitcoin, and they were just looking for ways to do shit, and they were like, NFTs on Bitcoin. I was like, okay. I mean, I think it might do a comeback, right? Like, everything comes back in fashion at a certain point. We even had, what is, you know, Uvers was mentioning AVAX earlier. I think he's trading AVAX meme coins. Remember when we had, like, Kakino? It was, what, two years"
+    },
+    {
+      "start": 5105.52,
+      "end": 5135.58,
+      "speaker": "SPEAKER_00",
+      "text": "ago now? That seems, making comebacks. Yeah, everything seems to have a cycle, or a return at some point, but I don't know. I did kind of, I saw some discussion when the inscriptions first came out, the Ordinals, and people were like, why are you putting NFTs on Bitcoin? You know, that should just be for just your store, your digital gold. You don't need to put fucking shit pegs on them. And I was like, eh, I could kind of see that rationale. Why do we need"
+    },
+    {
+      "start": 5135.58,
+      "end": 5166.1,
+      "speaker": "SPEAKER_00",
+      "text": "to have NFTs on Bitcoin? Like, I don't know. Because we can't and why not? That seems to be the long and short answer to fucking just about everything. Why? Because we could. Should we have? I don't know. So, trying to work beyond this space, and then figure out this whole hype thing to mint is a no -go. See, that's why I just said no to work. You just gotta push things off a little bit. Well,"
+    },
+    {
+      "start": 5166.24,
+      "end": 5196.22,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, I don't have it. I guess I could remote desktop in. How about that? I think I need to sit and figure out how to get my hype on Hyperliquid to hype EVM. And then I think that would be the way to go. So, I think if I can figure that out. You just send it to that address, the 0x22 whatever. Yeah. Which, then I got a VPN. So, when's that gonna end? We gotta be about at"
+    },
+    {
+      "start": 5196.22,
+      "end": 5229.91,
+      "speaker": "SPEAKER_00",
+      "text": "the end of the VPN era, huh? Yeah, I thought Trump was gonna end all that. Crime season. Let's go. Everything's legal. We don't need no VPNs. We can claim all the airdrops we want. Time to trade on perps. Hell yeah. I mean, I thought we were turning the corner during that one stargaze, Matt, where you had to set to the US VPN demand or whatever. What was that? Omis or some shit? Like, everybody switched to a UPS or USA VPN? I never thought I'd see that. Yeah,"
+    },
+    {
+      "start": 5229.97,
+      "end": 5259.91,
+      "speaker": "SPEAKER_00",
+      "text": "that was definitely the Omis mint, and I think Canada was pretty lucky as well. I think Zerk was toting around that he had sniper access with his Canadian VPN. I got all three, baby. On multiple walls. Well, no, only two, okay? Don't at me. Okay, how many do you still have? You saw them all pre -revealed? I only sold one. And after reveal. I only sold"
+    },
+    {
+      "start": 5259.91,
+      "end": 5289.99,
+      "speaker": "SPEAKER_00",
+      "text": "one. Yeah, I don't know. I had to pay for the mint. I had no problem during the two phases I was eligible for, and I just kind of forgot about them, so I don't even know what they're worth anymore. Maybe they'll get a mantra. I mean, they're still worth way more than what you minted them for, right? Yeah. I went into the Discord. I was like, I've never been in Bad Kids or Sloth or anything Discord. I'm gonna go"
+    },
+    {
+      "start": 5289.99,
+      "end": 5320.09,
+      "speaker": "SPEAKER_00",
+      "text": "and see what it's all about. And then their motto is, Omis always show up. So I just pop in. First thing I type is, Omis always throw up. And they're like, they deleted it, and they're like, don't ruin our motto! I was like, I'm not gonna make it here. This is not for me. You're making me sick, just like I just said. You can't fuck with those paid moderators, man. The paid ones, they don't fuck around with their slogans. You can't do"
+    },
+    {
+      "start": 5320.09,
+      "end": 5350.25,
+      "speaker": "SPEAKER_00",
+      "text": "that shit. Yeah, I mean, I hope they got a trademark on that or something because they were real, don't mess with our slogan. I was like, man, I was, that was just the first of like five I had ready. I had some, you know, that were like way more X -rated than that. I hit PG and it was X -Nay. Pretty sad. You're gonna get banned, but that's okay. Yeah, I just,"
+    },
+    {
+      "start": 5350.35,
+      "end": 5380.58,
+      "speaker": "SPEAKER_00",
+      "text": "I tucked it in one of the folders and ignored it. I'm like, these people don't want nothing to do with me, I can tell. You know, it's like when you go out and you talk to the wife and you can just tell that look on her face, you're like, ah, man, she just, she's not having me today. Like, I can tell. I better just go sit in the corner. That's how it happens. Um, yeah, 500, 20, 25 %"
+    },
+    {
+      "start": 5380.58,
+      "end": 5412.82,
+      "speaker": "SPEAKER_00",
+      "text": "is it? 25 %? That's pretty good. Yeah, I feel like I'm gonna speculate here. Once people figure this out, probably I think, Zerk, also you should mention that you should mention that really all of the tech support for this mint is happening in the Rektang hyper -ticketing channel right now. Yeah, join the Rektang channel. We're getting live tech support. And"
+    },
+    {
+      "start": 5414.24,
+      "end": 5442.82,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, but it's been going okay, right, Brent? You're figuring things out? Yeah, well, I think it's great that we got an early start this morning with the free mint because we really figured out some of the main issues, the issues with having to have an active wallet with enabling the higher gas limits. Of course, the big blocks is the main one. But we're getting there now. I mean, technically, we're not supposed to do this."
+    },
+    {
+      "start": 5442.98,
+      "end": 5473.19,
+      "speaker": "SPEAKER_00",
+      "text": "That's why the big blocks are there. They're trying to really leave the big blocks for developers, deployers. So we're sneaking in there. And it's an issue because we're early. I got a quick question. Maybe next week they'll raise the gas limits and then it'll be easy. So, Zurich, you minted on multiple computers, you said, right? Like, you did two different PCs? Yes. Did you have to do the big block from each London? I did."
+    },
+    {
+      "start": 5473.27,
+      "end": 5503.25,
+      "speaker": "SPEAKER_00",
+      "text": "I did the and just, you know, had like two active hyperliquid wallets and one, I just started a new one. So I minted 15. Okay, don't at me. Again, I'm allowed 20. This was, I'm going to respect that. But one new wallet and it was quite easy. I just sent USB -C, you know, from my Hype wallet using the hyperliquid transfer feature,"
+    },
+    {
+      "start": 5503.47,
+      "end": 5533.25,
+      "speaker": "SPEAKER_00",
+      "text": "which is actually quite great. That's how we pay people within the DAO. We use that transfer feature because it's free transactions, which is nice. So, anyways, yeah. Funded that wallet on Arbitrum using USB -C and then sent Hype from a wallet and then activated big blocks and pressed mint. So it wasn't too tricky. That being said, the one that I clicked, I'm still having issues with minting multiple. I just mint one at a time. I guess more"
+    },
+    {
+      "start": 5533.25,
+      "end": 5563.51,
+      "speaker": "SPEAKER_00",
+      "text": "gas burn, whatever. Kind of feel like you should mint 21 total, just to show them who the fucking boss is. Now, I feel it's unfair. I feel like at this point, I'm feeling like an insider. So, and I don't like that feeling. Trendy can tell this. Every time projects offer us whitelists, you know, like real insider shit. I'm like, no, we're not getting any for the team."
+    },
+    {
+      "start": 5563.77,
+      "end": 5593.79,
+      "speaker": "SPEAKER_00",
+      "text": "And then Trendy's like, well, what if it's not? Well, Zerg doesn't speak for the whole team here. I try to get to those DMs before Zerg sees them. Doesn't work. Doesn't work. Zerg's hard as gold. Yeah, I'm like, no, I don't want any team allocations. The allocation goes back to the community. Because, you know, if somebody sees that, I feel it's such a bad look. Like, how come the founder of the project got a mint"
+    },
+    {
+      "start": 5593.79,
+      "end": 5624.79,
+      "speaker": "SPEAKER_00",
+      "text": "on this very difficult, or very coveted NFT project, and I didn't, you know. I don't know. I guess you gotta be a little bit of an insider, like Frank says. But I don't really like that. Not even the guy going out getting the whitelist for you? You're not even gonna hook him up? Like, Trendy's out there hustling, and he can't even get a match? No, man. Nobody gets the hookup. Nobody gets the hookup, bro. No, Zerg takes him out of my family's mouth. I'm"
+    },
+    {
+      "start": 5624.79,
+      "end": 5654.8,
+      "speaker": "SPEAKER_00",
+      "text": "feeding him, and Zerg walks in and knocks his head down. Dude, think about how much money you could have right now if it wasn't for Zerg. About seven bucks. Seven bucks in Cosmos mints. You would be down probably thirty dollars. Negative thirty instead of negative five. Yeah, you would be down, man. I'm doing you a favor, Trendy. This whole time, he's a hero. He's got"
+    },
+    {
+      "start": 5654.8,
+      "end": 5684.84,
+      "speaker": "SPEAKER_00",
+      "text": "his cape on. And you didn't even know it. Zerg really is always ahead of the game there. Oh, boy. Yeah, it's cool. 541. Everything's coming along nicely. I'm excited. Magic Eden. You gotta make it happen. DJ Trix, I see you there. We're gonna DM Johnny as well. You know, it is funny, Zerg,"
+    },
+    {
+      "start": 5684.92,
+      "end": 5714.92,
+      "speaker": "SPEAKER_00",
+      "text": "that the last time that that happened was the Dimension Wizards. I won't go beyond that, but that is kind of funny. Right? Right? So I did save you money. I don't know if people remember that or even follow the Dimension Wizards, but it was kind of a shitshow. I don't think they were ill at... You know, the intentions were bad. It just didn't work out. That's it. That's kind of the new Cosmos meta,"
+    },
+    {
+      "start": 5715.06,
+      "end": 5745.45,
+      "speaker": "SPEAKER_00",
+      "text": "isn't it? Like, every chain is launching an NFT on Stargaze, and it's supposed to be, like, the next big thing. They all want airdrops. Go ahead, Johnny. Yeah, no, I was gonna say, only for the ones who haven't launched a token yet, it's the we're gonna extract some of that airdrop meta. Yeah, that's why there's this union one that's doing quite well. I think the founder said there will be some sort of airdrop"
+    },
+    {
+      "start": 5745.45,
+      "end": 5779.05,
+      "speaker": "SPEAKER_00",
+      "text": "and people are into it, so... I kind of like the animation of it. I feel the art's pretty cool. Pretty fun. Different. That Anjo artist is really, really talented. Like, all of their work prior to that, like, they've done really small collections, and they go for a lot of money. I think they had, like, one where they had different, like, heroes or, I don't know, some sort of characters. That one's, like, their most entry -level one as far as, like, price getting into the project. But yeah, that artist is top -notch for sure. Nice."
+    },
+    {
+      "start": 5779.05,
+      "end": 5809.09,
+      "speaker": "SPEAKER_00",
+      "text": "So there's some good shit to mint. Anybody still buy the meme coins on Hyperliquid? Raph, Bren, do you still get into those? I mean, we spoke about TGIF. I don't know if people still are into it. No, I don't think there's anything cooking, really, in the trenches lately. It seems that we're in winter. I mean, this must be our third Hyperliquid spot winter now. So,"
+    },
+    {
+      "start": 5809.09,
+      "end": 5839.63,
+      "speaker": "SPEAKER_00",
+      "text": "I'm excited for the summer again. Yeah, I might pick up some of the OG stuff. I'm not, like, the, you know, purr we all got, which is fun. Obviously, TGIF might as well shill it, but I'm a big fan of HFun. I think HFun is always kind of... because they got the tech going on, and once that pops off, everybody uses HFun, right? So, kind of like that. Yeah. And"
+    },
+    {
+      "start": 5839.63,
+      "end": 5869.68,
+      "speaker": "SPEAKER_00",
+      "text": "the dev is, he's totally based. Did you see his post? What's today about building his own RPC? I mean, the guy, he sold a bunch of hype right at the top, and then bought it back. He's funny. I think he was, like, a baker or something. So, artists and bakers becoming devs is meta on Hyperliquid. What a great arc, though. He sold the top, right"
+    },
+    {
+      "start": 5869.68,
+      "end": 5900.08,
+      "speaker": "SPEAKER_00",
+      "text": "at the top, and he posted that everyone was crying when he sold the top. And then he bought the bottom, and he said everyone's crying that he bought the bottom. You either die... Is he stinking or live? What? I was just gonna say, you either die or live long enough to become the villain. I'll leave. Are we talking about how we lost..."
+    },
+    {
+      "start": 5900.08,
+      "end": 5930.17,
+      "speaker": "SPEAKER_00",
+      "text": "how we're gonna lose hype? Because I already went and tried to gamble on some shitcoins on HyperEVM last night, and I haven't checked them since, but they weren't doing too hot when I left them. Pretty sure I bought, like, two rugs. It's, you know, it's rare to see a coin go all the way down to a $140 market cap. I don't"
+    },
+    {
+      "start": 5930.17,
+      "end": 5960.33,
+      "speaker": "SPEAKER_00",
+      "text": "know how you got rugged there, but that is a total rug. I agree. It'll come back. It'll pop again. What is happening here? I think it's really important that you disable the spot dusting on the Hyperliquid settings, because when a coin goes really far down like that, you can lose it all. That's what happened with my Panda. And it went to almost zero, got dusted, and then it ripped back like $8 million"
+    },
+    {
+      "start": 5960.33,
+      "end": 5990.56,
+      "speaker": "SPEAKER_00",
+      "text": "or something, and I had none, and I was just feeding. I think that's a pretty nefarious little option. It should be off by default, if you ask me, because some of the airdrops that we get, just like as hyped stakers, or even previously as per holders, they used to be almost nothing sometimes. But then, for whatever reason,"
+    },
+    {
+      "start": 5990.62,
+      "end": 6020.57,
+      "speaker": "SPEAKER_00",
+      "text": "the token would pop off, and suddenly the thing that was only worth like $1 or $2 when you got it is way more. But to Brent's point, if you had that on at any point, and that token value got low enough, it could just get dusted for you, and then you're kind of SOL. Also, too, just wanted to throw it out there, if you're having issues minting, and you need a little bit of help, either you"
+    },
+    {
+      "start": 6020.57,
+      "end": 6050.86,
+      "speaker": "SPEAKER_00",
+      "text": "could join the Red Gang Discord, or you could come up and ask us the question, and we could help you. Yeah, open space. If anybody wants to chat or share wisdom, feel free to do so. But where's this market going? Like, you know, in general. I'm very confused. I feel like we got Trump,"
+    },
+    {
+      "start": 6051.0,
+      "end": 6082.2,
+      "speaker": "SPEAKER_00",
+      "text": "everybody was happy, now we don't like him, or we like him, sometimes we don't like him. I don't know what's happening. Everything to this point has been seldom news. Yeah. I'm hopeful for a utility coin season. So everybody's getting rubbed on memes that hopefully will turn back to utility. And you know I'm betting big on Banker, because I drew the art for that, and the devs total chad. And it's a great product. And that's on base. I know it's a Fed chain, but... Oh, you drew the art? Yeah. That's"
+    },
+    {
+      "start": 6082.2,
+      "end": 6112.37,
+      "speaker": "SPEAKER_00",
+      "text": "why you should be bullish on it. I thought that was a funny comment. Is this a TV or a radio? Or a microwave. Yeah. Oh, microwave, right. You drew the art, that's funny. Yeah, and so you should be really bullish on that, because 100 % of the revenue from that is going back to the community. So Deployer is going to build a staking site, so you can do single -sided staking of Banker and TN100X. And all"
+    },
+    {
+      "start": 6112.37,
+      "end": 6142.51,
+      "speaker": "SPEAKER_00",
+      "text": "of the swap fees for using Banker go back to you. He doesn't take any of it. Okay, he makes money from the LP fees, that's because it's a clanker, but he's giving all the funds back to the community. I think that's really cool. And it was a fair launch because it was a clanker, so it couldn't be really sniped or it couldn't be... You know, there was no team allocation to give to KOLs or whoever. And again, that's why clankers aren't really on CEX, because somebody can't give a CEX 15"
+    },
+    {
+      "start": 6142.51,
+      "end": 6172.62,
+      "speaker": "SPEAKER_00",
+      "text": "% of the allocation, which I'm really bullish on utility coins like Banker and Vale and Clanker itself from Proxy Studio. So they're going well, so let's hope for that. I'm tired of being burned on memes. Yeah, likewise. We got BG here. BG, how you doing, man? What's up? No, I was just talking with Brett in the DMs, trying to"
+    },
+    {
+      "start": 6172.62,
+      "end": 6202.62,
+      "speaker": "SPEAKER_00",
+      "text": "figure out this mint. I mean, I think the one thing I missed was changing to the big blocks. That was the only thing I was sort of missing, but other than that, it's a pretty smooth mint. If you already have hyper liquid in your wallet, it works pretty well. It's cool that this is fully on -chain as well. Something I'm certainly passionate about with Ordinals."
+    },
+    {
+      "start": 6203.78,
+      "end": 6232.64,
+      "speaker": "SPEAKER_00",
+      "text": "I was just about to say that as a BTC Max, you'd appreciate that. Yeah. Yeah, thanks for the support. I'm curious. Yeah, go ahead. The thing about being fully on -chain is that it's great on hyperliquid because it's intended to be fully decentralized. When you're fully on -chain on base, they have the ability to prune historical data from the blockchain. So if you were fully on -chain there, it could"
+    },
+    {
+      "start": 6232.64,
+      "end": 6262.99,
+      "speaker": "SPEAKER_00",
+      "text": "get deleted in the future. That's why a lot of maxis say to be fully on -chain, you need Sorry, Brett. Sorry, yeah. Zerk rubbed me. So I think that they won't be able to prune the data from hyperliquid ZVM unless all the validators or a quorum of validators vote for it. So I think it does"
+    },
+    {
+      "start": 6263.53,
+      "end": 6293.37,
+      "speaker": "SPEAKER_00",
+      "text": "really have providence and permanence, more so than base. Even though I don't think base will go and prune data, people always bring that up in threads. Yeah, let's see what happens. Yo, Dawes, what's up? Game over. What's up, game over? How you doing, man? Good. Check the Discord. Check the Discord? Is it on fire? Oh, yeah. Well, my"
+    },
+    {
+      "start": 6293.37,
+      "end": 6323.5,
+      "speaker": "SPEAKER_00",
+      "text": "mint is on fire, yes. Alright, let me run over there real quick. Let me grab the closest taxi I can. Super excited for what I just pulled. Oh, you pulled something nice? Yeah. Oh, boy. Oh, I see. Were you able to min finally or not? That's a cool one. Yeah, I mean, I've minted so far, how many have I minted? I've minted, I think, six so far,"
+    },
+    {
+      "start": 6323.54,
+      "end": 6353.52,
+      "speaker": "SPEAKER_00",
+      "text": "but I don't know. I'm trying to max mint, so I guess it's like 20, right? 20 per wallet. So I'm just doing it. I think one of you guys said it's only kind of working if you do it one per time or one at a time, so I'm just waiting for these TXNs to confirm and then going back in. I'm looking at game overs and he got a cyborg king with the vape pin, so that's pretty epic. Hold the crown. There"
+    },
+    {
+      "start": 6353.52,
+      "end": 6383.76,
+      "speaker": "SPEAKER_00",
+      "text": "you go. I was hoping for it, too. I was looking at the mint page and I didn't see any with crowns, so I didn't know if there was any crowns in the collection. I was like, you know what? I just really want a crown. So pretty hyped about that. Yes, manifesting. My wallet is going to zero, but at least I got the crown. You know, you're ready, game over, for Hyper Liquids points season two. The"
+    },
+    {
+      "start": 6383.76,
+      "end": 6413.88,
+      "speaker": "SPEAKER_00",
+      "text": "amount of liquidations you're racking up. If they have a points season two, um, yeah, I'll be very happy. I'm doubting that they're going to have it because of how much money I have lost, but if they do, I'll be pretty happy about that. They are solely watching yours and seeing what's going on. I swear, the market revolves around my wallet movements. This morning, I was"
+    },
+    {
+      "start": 6413.88,
+      "end": 6443.92,
+      "speaker": "SPEAKER_00",
+      "text": "down because I opened a short on ETH last night and my shorts have been doing pretty well the last few days, so I opened a short on ETH last night. When I went to sleep, I was up like 30%, something like that. When I woke up this morning, I was down like 80%. I was like, yeah, I am not going to go down 100 % on this. I'm just going to cut it because I feel like the market is going to run. Literally, the minute I closed my short,"
+    },
+    {
+      "start": 6445.8,
+      "end": 6473.98,
+      "speaker": "SPEAKER_00",
+      "text": "ETH just plummeted by like $30. Literally, the minute I closed that short. They were stopping you from getting that $50 gain. I know. I'm like, okay, so I've got a $1 ,000 short position and literally millions and millions of dollars of volume somehow are revolving around my $1 ,000 short position. They just wanted to liquidate me and then completely reverse trade"
+    },
+    {
+      "start": 6473.98,
+      "end": 6504.08,
+      "speaker": "SPEAKER_00",
+      "text": "my wallet, I guess. Game over. My $1 ,000 had to be liquidated for those millions of dollars to swing the other way. Just a quick reset. Go ahead. I was just going to say, it looks like the past couple transactions I've now done have failed. Are you more than five in? You"
+    },
+    {
+      "start": 6504.08,
+      "end": 6535.72,
+      "speaker": "SPEAKER_00",
+      "text": "told me, I think you said you had six, right? I'm having the same issue as you, which is one at a time, and once I hit five, it's done. I would recommend switching to another wallet. Okay. A new address, basically. Bryn did mention earlier that there was a fun little quirk that we're calling a feature in the contract that's really trying to test how degen you are, so I think that that's what it is. Okay,"
+    },
+    {
+      "start": 6535.74,
+      "end": 6567.16,
+      "speaker": "SPEAKER_00",
+      "text": "let's see then. Yeah, my expense per wallet is $20. Yeah. So that's really unusual. Let's see here. I do see people in there who have a high amount. Is there a way to hit straight from the contract without using your front end? The only way to track right now is to use Block Explorer, and"
+    },
+    {
+      "start": 6567.16,
+      "end": 6597.44,
+      "speaker": "SPEAKER_00",
+      "text": "if you're using the HyperScout, the BlockScout -based Block Explorer, it's very slow. Per sec seems to be working a little bit better. Let's see. Yeah, BlockScout shows that there's a person with $20, $18, $12, $11, $10, so they're getting past that $5 threshold somehow. Yeah. As they should be. I don't know, I'm just saying my experience, right? Like, it didn't work for me, so that's"
+    },
+    {
+      "start": 6597.44,
+      "end": 6627.58,
+      "speaker": "SPEAKER_00",
+      "text": "kind of what I did to go around it. Canadian $5. And if anybody else has any questions, feel free to jump up. Just kind of shooting the breeze as we degen out on this first on -chain mint on HyperLiquid. Shoot. I accidentally shared something that I wasn't meaning to. Just share to the top that has no relevance to"
+    },
+    {
+      "start": 6627.58,
+      "end": 6658.27,
+      "speaker": "SPEAKER_00",
+      "text": "this. If you want to delete it. No worries. I'll delete it. There we go. Hey, I'm gonna hop down. I appreciate you guys. Just wanted to shout out that crown I pulled. I'm gonna mint a few more here, though. Take it easy, bro. Alright, get to it, Game Over. I think this could be a win. That being said, everybody in the space, Game Over minted this, so, you know, the chances of this actually making money have decreased substantially. I missed. Well, I did mint in the first, like, 30 % so there's"
+    },
+    {
+      "start": 6658.27,
+      "end": 6688.41,
+      "speaker": "SPEAKER_00",
+      "text": "still quite a bit of ways to go, so hopefully that'll offset my bad luck. Yeah, the market is gonna flood with crowns pretty soon here to kind of dilute your value. Yeah, right. That'll be the win for everybody. The whole rest of the collection is all crowns. Yep. Alright, I'll catch you guys later. Have a good day. Later, bro. Thanks, you too, man. Thanks, Mahesh. 6 .52. Alright."
+    },
+    {
+      "start": 6689.47,
+      "end": 6718.54,
+      "speaker": "SPEAKER_00",
+      "text": "What did I say? I said before 4pm. Oh, that's my time. I said like before, you know, 4 hours. Yeah, you did say that. I think it'll start picking up after everybody gets theirs, then they'll share. They want to make sure their bag is full real quick. Then they'll start sharing it out. Yeah, just so you know, the wizard hat is one of the rarest traits. The wizard hat and the yeety glasses,"
+    },
+    {
+      "start": 6718.68,
+      "end": 6749.02,
+      "speaker": "SPEAKER_00",
+      "text": "the green glasses. Crown is pretty rare, 2%. Is there a zombie cat? Yes, it's the rarest skin. Nice, I got one. That's the cat. One of the cats I got. Oh, I need that one. I need a zombie. Show it in the discord. I want to see what it looks like. I'll tag you. He's got like a with a Jeff little"
+    },
+    {
+      "start": 6749.02,
+      "end": 6779.07,
+      "speaker": "SPEAKER_00",
+      "text": "mohawk. Hmm. Oh, I seen it. I seen it. Okay. It's cool. Yeah, it's pretty cool. It's like a cute zombie. It's not like a, you know, I'mma kill you zombie. Yeah, he's got the cute eyes. I saw some with the like really like wrecked eyes. Like Will, Will posted that one with like that red like Ronald McDonald hair and"
+    },
+    {
+      "start": 6779.07,
+      "end": 6809.11,
+      "speaker": "SPEAKER_00",
+      "text": "googly eyes blowing bubblegum. And then Will also pulled like the cutest cat I've ever seen in my life. It's got like a pink bow with like blushing cheeks, smoking a pipe. Keeping it classy with the pipe. Yeah, a lot of thought went into these traits. And Bren"
+    },
+    {
+      "start": 6809.11,
+      "end": 6839.81,
+      "speaker": "SPEAKER_00",
+      "text": "mentioned earlier how he made some of the traits with his wife. I feel like that's a fun story. Has your wife minted any, Bren? No, that's a good, that's a, that's, that would be a good test of technical skills. It feels like you really need to be a Dgen and be in this game for a while to be able to pull one of these cats. Yeah, we're one level. Excel"
+    },
+    {
+      "start": 6839.81,
+      "end": 6870.16,
+      "speaker": "SPEAKER_00",
+      "text": "spreadsheet here. Sounds like BG's hacking the contract. I'm working on it. No, I'm just trying to figure it out. So, Zerk, I wanted to ask you, has anybody recognized you"
+    },
+    {
+      "start": 6870.16,
+      "end": 6901.53,
+      "speaker": "SPEAKER_00",
+      "text": "in real life since you doxxed? No, nobody recognizes me. Why would they recognize me? I don't post, you know. I thought it was so funny. That others got recognized. Was he recognized by somebody at a market? That's funny. That is funny. Well,"
+    },
+    {
+      "start": 6901.55,
+      "end": 6935.73,
+      "speaker": "SPEAKER_00",
+      "text": "others is a celebrity. I'm not, so. He's plastered on the side of a hot sauce bottle. Yeah, I guess he did. Are you working today, Zerk? I'm throwing up air quotes as I say that. No, no. Yeah, air quotes is a good, no. I'm fully Dgen. Doing all the web free shit. Trying"
+    },
+    {
+      "start": 6935.73,
+      "end": 6966.75,
+      "speaker": "SPEAKER_00",
+      "text": "to figure out what the next meta will be. Yeah, good luck with that. I'm hoping that's right. Would be nice to get some more utility, I guess. Yeah. Some of the, you know, some slower moves. Making coins. Even, remember back then when we had the meme season, like, before the elections, I guess? Yeah, but like, Yeah, you could have gotten into WIF at any point and still made some money, or MOG, or even originals, right? Like, that was a slow cook. Yeah. So,"
+    },
+    {
+      "start": 6966.75,
+      "end": 6997.17,
+      "speaker": "SPEAKER_00",
+      "text": "in that sense, I like that pace way more than you know, President of Argentina post -contract and if you didn't buy within the first second, you got rugged an hour later, so. Yeah. Wait, wait, wait, wait, wait, wait. Game Over got a fucking crown. Trendy got a zombie skin. I don't, I, honestly, I haven't scrutinized my mints that well yet, but, and I, you know, you can't see all the traits in pixel"
+    },
+    {
+      "start": 6997.17,
+      "end": 7034.44,
+      "speaker": "SPEAKER_00",
+      "text": "form super clearly all the time, so I don't know if I got anything rare, but I'm, it sounds like I need to go back and mint some more, because I need a crown. Maybe. What did he say the rarest one was? The zombie skin, I think, was one of the rarest. The trait was the wizard hat, and then he also said the green glasses, so if you have either of those, that's rare as well. Yeah,"
+    },
+    {
+      "start": 7034.48,
+      "end": 7067.79,
+      "speaker": "SPEAKER_00",
+      "text": "fuck it, I'm minting another five right now. If you really wanna... Bro, let's come for us. No, I'm gonna own 5 % of the supply. What I did earlier was I looked at the viewer, like, you know how you could, like, view the tokens, and I looked at the one, like, previous and after? Yeah, don't do that to yourself. There's"
+    },
+    {
+      "start": 7067.79,
+      "end": 7114.7,
+      "speaker": "SPEAKER_00",
+      "text": "a rainbow barf, that one's pretty cool looking. Oh, wow. There's, like, one there, there's a trait where it's, like, a cloud that's raining. This would've been perfect for a one -of -one of, like, the Neon Cat or something, as an homage. This just fits this style very well. You already got the puking rainbows. Definitely"
+    },
+    {
+      "start": 7114.7,
+      "end": 7144.71,
+      "speaker": "SPEAKER_00",
+      "text": "a few steps to get it going. Try to explain to some people. Hey, is the mint order going to count or reflect in some way on these NFTs? Like, if I minted number 9 or number 10, will it always be, like, hey, that was number 9 or number 10 in the collection? I don't see why not. Cool. Yeah, it's the token ID that always stays the same,"
+    },
+    {
+      "start": 7144.77,
+      "end": 7174.91,
+      "speaker": "SPEAKER_00",
+      "text": "yeah. That's awesome. Then I got one of the first 10 mints. Nice. Who got number one? Who's that brain -testing out there? The first one's always the insiders. Always the cousins. Yeah, number one is me and number two is my cousin, Voltor. See, I told you, cousins! It's the cousins!"
+    },
+    {
+      "start": 7182.3,
+      "end": 7205.2,
+      "speaker": "SPEAKER_00",
+      "text": "What did he get for his mint? What were the first two mints? I want to see those. A zombie crown with... It got all the rarest traits. With the wizard hat with the crown on top of it. We"
+    },
+    {
+      "start": 7205.2,
+      "end": 7235.31,
+      "speaker": "SPEAKER_00",
+      "text": "love all our children. They're all rare. So, VG, did you migrate your wizard token? Are you in on that? I did. Yeah, I did. I did do that yesterday. I haven't yet. I don't know if it's worth it. I"
+    },
+    {
+      "start": 7235.31,
+      "end": 7265.53,
+      "speaker": "SPEAKER_00",
+      "text": "feel like I might as well keep the BRC20. It's going to get more rare. I don't know. Maybe I'm mistaken. I don't know. I think there's a time limit, right? It's what? Another two months? Three months, I think? It'll be April 15th, I think. What'd you say? I'm sorry? I think it was 1 ,337 hours"
+    },
+    {
+      "start": 7265.53,
+      "end": 7295.54,
+      "speaker": "SPEAKER_00",
+      "text": "or days? Yeah. Yeah, yeah, hours. Yeah, potentially hours, I think. I'm doing the math in my head. Yeah, I think there's a limit, but it didn't really take that long to do. It was pretty easy to do. Was the remaining supplies going to stay?"
+    },
+    {
+      "start": 7295.88,
+      "end": 7332.96,
+      "speaker": "SPEAKER_00",
+      "text": "I remember reading something about being burned. Being burned? Yeah, I believe what they do is they like, they custody the wizard token and then from there, they'll just send it to Satoshi's wallet. And that's technically the burn, I guess. Let's"
+    },
+    {
+      "start": 7332.96,
+      "end": 7365.06,
+      "speaker": "SPEAKER_00",
+      "text": "hope Satoshi never messes with that wallet again. Yeah. He has a lot of BRC20. He has a lot of, I think, a lot of runes. And of course, a lot of Bitcoin. Yeah. That would definitely crash the market. Any transaction on that wallet. Did"
+    },
+    {
+      "start": 7365.06,
+      "end": 7395.1,
+      "speaker": "SPEAKER_00",
+      "text": "you see the most recent speculation that it was Jack Dorsey? Like, that's gaining a lot of traction right now. He's Satoshi? They keep changing, you know. There were a lot of correlations in, like, things that they've found, like, where he was in real life. Like, blockchain events going on and, like, him signing in at certain times and him being in California and, like, the IP popping up in California. They did a lot of,"
+    },
+    {
+      "start": 7395.14,
+      "end": 7425.1,
+      "speaker": "SPEAKER_00",
+      "text": "like, correlations between the two. But, I don't know. I feel like they should just stop digging and stop putting people at risk. I was about to say, I hope we never find out who Satoshi actually is. Part of the allure is, like, oh, you don't know who he is. I feel like it would just take away some of the magic. Agreed. Yeah, like Trendy was saying, the risk as well. Bro, that's like, you know, everybody wants to get after that"
+    },
+    {
+      "start": 7425.1,
+      "end": 7455.27,
+      "speaker": "SPEAKER_00",
+      "text": "person. I'm going through my NFTs now. I minted real quick and now I'm actually looking at them. I feel bad for not looking before. Any crowns? Any zombie skins? No. No. That's okay, though."
+    },
+    {
+      "start": 7455.73,
+      "end": 7486.37,
+      "speaker": "SPEAKER_00",
+      "text": "I got some crying eyes. I got some traits that I like, so that's what matters. At $7 .25, picking up almost, I guess, a third of the way through. That's pretty good. Oh, that's actually moving along pretty well, yeah. Yeah. Yeah, like I said, I think it's going to pick up the more people learn about it and then people want to mint one more and one more and one more and then, you know, it kind of mints out that way. Yes."
+    },
+    {
+      "start": 7486.37,
+      "end": 7516.48,
+      "speaker": "SPEAKER_00",
+      "text": "The FOMO. Bring it. I just hope more people actually get to mint, you know? That's kind of my... As many people can mint, the better it is, right? Yes. Distribution. Don't worry. I'm going to be splitting up all my cats among my wallets. I've learned now that wallet splitting is much, much more beneficial. Just from watching shit over the years. There are very few instances where it paid"
+    },
+    {
+      "start": 7516.48,
+      "end": 7548.32,
+      "speaker": "SPEAKER_00",
+      "text": "to have everything in one wallet. This is good. I'll split up my hype cats with my wallets holding my hypeos so they can live together. Beautiful life. So, as it relates to hypeos, I just bought one of those today as well. Are"
+    },
+    {
+      "start": 7548.32,
+      "end": 7579.12,
+      "speaker": "SPEAKER_00",
+      "text": "they planning on bridging or how's that going to work? Yeah, they're working on the logistics for their bridge. Right now, from what I've seen, the main creator, what's his name? They call him hypeoman, but I think his regular username is black or something. But he's moving pretty fast on stuff. He seems to be a mover, a doer. So, I expect they'll have that"
+    },
+    {
+      "start": 7579.12,
+      "end": 7609.48,
+      "speaker": "SPEAKER_00",
+      "text": "bridge up pretty shortly. I would wager it'd probably come around the same time whatever the first marketplace is that's coming out. It releases, that's probably whoever they'll go with or they'll try to go with. Actually, now that I'm thinking about it, they did specifically mention drip .trade as one of their main marketplaces. So, when that releases, we'll probably have them on chain. But"
+    },
+    {
+      "start": 7609.48,
+      "end": 7639.62,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, they're definitely not going to be on base much longer, which I think that's pretty funny that they were doing the majority of the NFT volume. On base was a hype EVM bridging collection. So, interesting. But... Well, I take this as a challenge, Raph. I think we're going to bridge before them. There we go. Hey, I"
+    },
+    {
+      "start": 7639.62,
+      "end": 7669.9,
+      "speaker": "SPEAKER_00",
+      "text": "told you, man. Get the trippies over. I was advocating for this months ago now at this point, too. So, let's do it. Save the trippies. I saw one sold for $23 the other day. What the fuck? Man. Yeah, I don't know what happened there. That's just injustice, is what that is. I don't know what happened there. But that being said, I think they're waiting for Layer Zero or Axelar to integrate with Hyper"
+    },
+    {
+      "start": 7669.9,
+      "end": 7709.26,
+      "speaker": "SPEAKER_00",
+      "text": "EVM. And then you can do the bridging. I think that's what people are waiting for. And anybody listening, when that time comes, be assured the DAO, the REC Gang DAO will reward us all with the health hype airdrop of their own. You heard it here first, folks. Is this space recorded? Oh, shit, it is. Never mind. NFA and all that. Purely speculation. So,"
+    },
+    {
+      "start": 7709.28,
+      "end": 7740.42,
+      "speaker": "SPEAKER_00",
+      "text": "tell us, Sork, who actually has the REC ticker on Hyperliquid? Does the DAO have it? You know who has the REC ticker. No, that's PBR, man. You know who has the REC ticker. He's front... Oh, really? He donated it to the DAO? Yeah, PBR. I believe PBR is a member of the family. Oh, okay. That's how you do it. When we got something you want, we're part of the DAO. No,"
+    },
+    {
+      "start": 7740.5,
+      "end": 7773.06,
+      "speaker": "SPEAKER_00",
+      "text": "no, no. He can do whatever he wants. I told him to sell it. I told him, you know, you should sell it to somebody that wants to buy it. But he'll do whatever he wants with it. That being said, he has it. Part of the REC family. Okay, so maybe not a hype airdrop, but a REC -ed airdrop coming for trippies. Yeah, yeah. I like the sound of that. I want"
+    },
+    {
+      "start": 7773.06,
+      "end": 7803.9,
+      "speaker": "SPEAKER_00",
+      "text": "the validator as well to go online, but I think Liquid is going to include us. I was going to say, it feels like Liquid is kind of our de facto, unofficial REC -ed validator. I mean, that's who I put a lot of my hype staking support behind anyways. Yeah, same for me and same for most of the DAO stuff. We're going to get Liquid support. Yeah."
+    },
+    {
+      "start": 7803.98,
+      "end": 7837.11,
+      "speaker": "SPEAKER_00",
+      "text": "I keep spreading rumors that there are people looking to specifically reward stakers of certain validators and maybe a Liquid could potentially have a speculative play on that. So yeah, I'm a fan of spreading rumors lately if it pumps my bags. That's what matters. Brent,"
+    },
+    {
+      "start": 7837.15,
+      "end": 7867.41,
+      "speaker": "SPEAKER_00",
+      "text": "is there a lag between the mints and the... I don't know, is there some mints that didn't go through but they take your hype anyways? Question. Yeah, so I'm responding to anybody that I can see who said something like that, and it seems that they get their tokens just slightly lagged. And of course, the block explorers being laggy is not helping either. So I've only had one mint right now that didn't work for some reason, and that was for Med, and I sent him another token"
+    },
+    {
+      "start": 7868.37,
+      "end": 7897.49,
+      "speaker": "SPEAKER_00",
+      "text": "on Discord. But apart from that, it seems fine. Just bear in mind, it does take 60 seconds for the big block transaction, and then it might be another couple of minutes before the block explorer updates. Hey, Zerk, I gotta jump off on another call. But if y 'all are still here when I'm off, I'll jump back on. Yeah, I"
+    },
+    {
+      "start": 7897.49,
+      "end": 7927.5,
+      "speaker": "SPEAKER_00",
+      "text": "mean, I don't know, we could close it out as well. I mean, do people want to keep running this space up the aisle as well? I don't mind keeping it alive, but people want to chat. I'm actually gonna have to jump off here. I have to actually go do work now, regrettably, so I guess I should focus on that for a little bit today. Feels like a good point. Thanks so much, Zerk, for organizing the space. Ah, man, it's nothing."
+    },
+    {
+      "start": 7927.74,
+      "end": 7957.7,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, Will's coming up. I think Will wants to say a few words. I'll let Will speak, and then we'll close it out. Will, Will, share the CA, man. Just share the CA. Just drop it. It's all I need. Just a CA. Hey, how's it going, guys? Can you guys hear me? Yep. Hey, what's up, boss? Boss man. How you doing, Will? All good, all good. Hey, congratulations, on the on the heart. It looks pretty nice. I"
+    },
+    {
+      "start": 7957.7,
+      "end": 7988.32,
+      "speaker": "SPEAKER_00",
+      "text": "know you guys were leaving, so I just gonna ask real quick, you know, when I minted these two transactions, I did two, I did three, but the third one hasn't shown up, and it needs to be like 30 or 40 minutes. Wow, that's painful. So what you're gonna want to do is you're gonna want to go to the Discord, open up a ticket, tag Illiquid Spirit over"
+    },
+    {
+      "start": 7988.32,
+      "end": 8018.81,
+      "speaker": "SPEAKER_00",
+      "text": "like three, four times, okay? Yeah. Okay. Man. I know how that is. No, I'm just kidding, man. Don't go hit up Illiquid unless you want to get a nice little mute, little time out. All right. Appreciate it, man. I'll do it. Yeah,"
+    },
+    {
+      "start": 8018.87,
+      "end": 8048.84,
+      "speaker": "SPEAKER_00",
+      "text": "I'll do it. I'll try and answer almost everything, every message I see about a failed transaction or a token that didn't come true. So yeah, just keep adding Bren in the Discord is what he's saying. Just in Hyperliquid channel. Just be like, hey, where's my mint? Poor Bren. I'll"
+    },
+    {
+      "start": 8048.84,
+      "end": 8078.88,
+      "speaker": "SPEAKER_00",
+      "text": "let Bren do it. But yeah, thanks for tuning in. We'll have more of these spaces about Hyperliquid shit from the RecGang account. And Bren, it looks like you're at 771 right now. I said in about three and a half hours this should be done. You're at 35%. So yeah. And it usually picks up much, much, you know, at this point, I think it's, yeah,"
+    },
+    {
+      "start": 8078.92,
+      "end": 8109.24,
+      "speaker": "SPEAKER_00",
+      "text": "people are just technically challenged. But I'm sure it'll pick up even more, as much as it can, right, with all the things you have to do to make it happen. But yeah, the arc's great. First on -chain mint on Hyperliquid. Congrats again. And yeah, very, very good job. And thanks everybody for tuning in. Bren, you got some closing thoughts? Thanks for all the support. Really"
+    },
+    {
+      "start": 8109.24,
+      "end": 8126.67,
+      "speaker": "SPEAKER_00",
+      "text": "appreciate it. I never expected to be on this whole dev and NFT creation arc. But here we are, and thank you for it. Now, thank you. Thanks everybody. Have a great day. Get hyped."
+    }
+  ],
+  "speaker_map": {}
+}

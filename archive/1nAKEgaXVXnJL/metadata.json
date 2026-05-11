@@ -1,0 +1,84 @@
+{
+  "space_id": "1nAKEgaXVXnJL",
+  "title": "Hyperliquid’s Valantis, modular exchange protocol",
+  "state": "ended",
+  "created_at": "2025-07-21T19:12:17Z",
+  "started_at": "2025-07-22T17:00:40Z",
+  "ended_at": "2025-07-22T18:18:09Z",
+  "scheduled_start": "2025-07-22T17:00:00Z",
+  "lang": "other",
+  "is_ticketed": false,
+  "participant_count": 115,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "user_id": "1484917214813773836",
+      "username": "rekt_gang",
+      "display_name": "Rekt Gang",
+      "role": "host"
+    },
+    {
+      "user_id": "1199474099472367616",
+      "username": "DevenMat",
+      "display_name": "DevenMat 🍓",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1383949323747020808",
+      "username": "0xaioli",
+      "display_name": "Ali",
+      "role": "speaker"
+    },
+    {
+      "user_id": "1605281598185918471",
+      "username": "ValantisLabs",
+      "display_name": "Valantis Labs",
+      "role": "speaker"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1nAKEgaXVXnJL",
+  "summary_title": "Volantis: Building Embedded Liquidity and Yield Strategies on Hyperliquid",
+  "summary_description": "Volantis founders explain their modular yield vaults, LST strategies earning 8% APY, and vision for efficient DeFi on Hyperliquid.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 358,
+      "label": "Zerk introduces Volantis team and Hyperliquid Community Hackathon"
+    },
+    {
+      "timestamp_seconds": 388,
+      "label": "Ali and Dev introduce themselves; Volantis launched on Hyperliquid in early 2024"
+    },
+    {
+      "timestamp_seconds": 541,
+      "label": "Ali describes Volantis as embedded liquidity and market-making solutions for yield generation"
+    },
+    {
+      "timestamp_seconds": 692,
+      "label": "Dev explains modular protocol foundation enabling multiple yield strategies and swaps"
+    },
+    {
+      "timestamp_seconds": 1236,
+      "label": "Discussion of yield strategies: 8% APY on staking, arbitrage opportunities, leveraged yield loops"
+    },
+    {
+      "timestamp_seconds": 2023,
+      "label": "Ali and Dev discuss onboarding institutions and retail to Volantis vaults via improved UX"
+    },
+    {
+      "timestamp_seconds": 3474,
+      "label": "Dev outlines roadmap: Athena pool in months, delta-neutral strategies, tokenized yield products"
+    },
+    {
+      "timestamp_seconds": 4086,
+      "label": "Ali and Dev closing thoughts on Hyperliquid's unique moat as composable perp DEX with EVM"
+    }
+  ],
+  "audio_captured": true,
+  "audio_duration_seconds": 4651.3066875,
+  "capture_failure_reason": null
+}
