@@ -37,47 +37,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1PlKQOXpqMWJE",
-  "summary_title": "Neurovolts: AI-Managed Yield Vaults Launch on Hyperliquid EVM",
-  "summary_description": "Hamza, ex-Polygon DeFi head, discusses newly-launched AI agents optimizing stablecoin yields 30-40% above lending markets with zero leverage risk.",
+  "summary_title": "AI agents optimize stablecoin yield 41% above lending markets on Hyperliquid",
+  "summary_description": "Neuro Vaults launched today: deposit USDT, agents rebalance across Hyperlend, Hyperfi, Felix to maximize APY. No leverage, no liquidation risk.",
   "topic_tags": [
     "vaults",
-    "ecosystem",
-    "infrastructure"
+    "trading",
+    "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 231,
-      "label": "Space goes live after technical difficulties; Hamza joins"
-    },
-    {
       "timestamp_seconds": 395,
-      "label": "Hamza announces mainnet launch timing coinciding with Hyperliquid event in UAE"
+      "label": "Mainnet launch timing: UAE event + Breakpoint conference same day"
     },
     {
-      "timestamp_seconds": 576,
-      "label": "Zerk introduces Hamza as ex-Polygon DeFi head, bootstrapped builder in crypto"
+      "timestamp_seconds": 636,
+      "label": "Hamza background: Head of DeFi at Polygon, dropped NYU Masters for crypto post-FTX"
     },
     {
-      "timestamp_seconds": 757,
-      "label": "Discussion of why AI vault strategy chosen over directional trading agents"
+      "timestamp_seconds": 787,
+      "label": "Why vaults over directional AI trading: agents are probabilistic, not deterministic"
     },
     {
       "timestamp_seconds": 1180,
-      "label": "Deep dive into mechanics: deposits, withdrawals, and underlying yield sources"
+      "label": "User flow: deposit USDT on Neuro Vaults, agents handle allocation, 15-20 min withdrawal window"
     },
     {
       "timestamp_seconds": 1575,
-      "label": "Explanation of 41% outperformance metric and AI size-aware allocation logic"
+      "label": "41% outperformance: agents optimize for size-adjusted yield across three lending protocols"
     },
     {
-      "timestamp_seconds": 2091,
-      "label": "Roadmap preview: transparency features, new stablecoins (USDH), more yield sources"
+      "timestamp_seconds": 1938,
+      "label": "ERC-7540 share token design enables composability, future borrowing against aiUSDT"
     },
     {
-      "timestamp_seconds": 2816,
-      "label": "Closing remarks; Hamza expresses bullishness on Hyperliquid EVM and agents in DeFi"
+      "timestamp_seconds": 2152,
+      "label": "Roadmap: transparency dashboard showing AI reasoning, new stablecoins (USDe, USDH), yield expansion"
+    },
+    {
+      "timestamp_seconds": 2484,
+      "label": "Future factory model: let community build custom vaults with agent infrastructure"
     }
   ],
+  "pull_quote": "Yield you cannot go wrong with yield. If it is coming from something like a lending market, you really can't go wrong because there's demand and there's supply.",
   "audio_captured": true,
   "audio_duration_seconds": 2920.2986875,
   "capture_failure_reason": null

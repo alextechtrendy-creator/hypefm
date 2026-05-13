@@ -31,47 +31,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1yKAPMarbXbxb",
-  "summary_title": "Bounce Tech: Non-liquidating leveraged tokens on Hyperliquid",
-  "summary_description": "How leverage tokens work, why they outperform perps in rallies, and why Hyperliquid's infrastructure makes them possible.",
+  "summary_title": "Leverage tokens on Hyperliquid: no liquidation, constant rebalancing, composable perps",
+  "summary_description": "Bounce Tech launches tokenized perpetual futures that auto-rebalance to maintain fixed leverage, eliminating liquidation risk while capturing directional moves.",
   "topic_tags": [
     "perps",
-    "infrastructure",
-    "trading"
+    "trading",
+    "infrastructure"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 26,
-      "label": "Host introduces Bounce Tech team and space begins"
-    },
-    {
       "timestamp_seconds": 288,
-      "label": "Louis and Max introduce themselves and their background with TLX"
+      "label": "Louis introduces Bounce Tech CEO background and German roots"
     },
     {
-      "timestamp_seconds": 378,
-      "label": "Core explanation: what are leveraged tokens and how do they rebalance"
+      "timestamp_seconds": 408,
+      "label": "Leverage tokens explained: constant leverage via reactive rebalancing"
     },
     {
-      "timestamp_seconds": 530,
-      "label": "Key advantage: no liquidation risk, but volatility decay in sideways markets"
+      "timestamp_seconds": 469,
+      "label": "Max reveals ERC-20 composability advantage across DeFi protocols"
+    },
+    {
+      "timestamp_seconds": 620,
+      "label": "Volatility decay risk: up-lever, down-lever cycles reduce returns"
     },
     {
       "timestamp_seconds": 1226,
-      "label": "Why Hyperliquid EVM precompiles made this product possible"
+      "label": "Hyperliquid EVM precompiles unlock composable perp liquidity"
     },
     {
       "timestamp_seconds": 1710,
-      "label": "DeFi composability: delta-neutral pools and tax-efficient funding strategies"
+      "label": "Delta-neutral LP strategy: pair short leverage tokens with spot"
     },
     {
-      "timestamp_seconds": 1891,
-      "label": "HIP3 markets coming soon with higher possible leverage for commodities"
+      "timestamp_seconds": 1921,
+      "label": "HIP3 commodity markets coming: potential 7x-10x leverage tokens"
     },
     {
       "timestamp_seconds": 2346,
-      "label": "Closing: points campaign confirmed, token planned, six-month and two-year roadmap"
+      "label": "Plans confirmed: Bounce points campaign and token incoming"
     }
   ],
+  "pull_quote": "If you have the directional movements or price to appreciate, your position up-levers, and that really does outperform the perpetual.",
   "audio_captured": true,
   "audio_duration_seconds": 2620.864,
   "capture_failure_reason": null

@@ -1,23 +1,25 @@
-# CypherCard launches on Hyperliquid: bridging perps to real-world spending
+# Cypher Card: Spend your Hyperliquid perps directly on Visa worldwide
 
-_Cypher's founder discusses on-chain banking, instant card loading from HLP vaults, and Forex fee advantages for global users._
+_On-chain banking platform launches prepaid Visa cards for HyperLiquid traders—turn perps into coffee in one click, no withdrawal delays._
+
+> Collapse all these steps into a single step and make it instant. Click of a button, you can load it to Cypher in a minute max, then go buy coffee with it.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-24
 **Duration:** 57:28
-**Tags:** ecosystem, infrastructure, community
+**Tags:** perps, ecosystem, execution, trading
 **Source:** https://x.com/i/spaces/1lDxLzNRyERGm
 
 ## Key moments
 
-- **[2:17]** Introduction and Hyperliquid integration announcement
-- **[5:27]** Zerk introduces RecGang and why Cypher was needed on Hyperliquid
-- **[5:57]** Cube explains Cypher's on-chain banking vision and perp-to-card workflow
-- **[9:00]** Technical breakdown: simplifying off-ramp from perpetuals to Visa card
-- **[20:08]** PBR requests auto-load feature from HLP vault deposits
-- **[34:19]** Roadmap: merchant incentives token, DeFi integrations, co-branded cards
-- **[41:21]** Forex education: avoiding predatory POS conversions, on-chain currency solutions
-- **[48:58]** Metrics and growth strategy: 25-50 signups, focusing on product-market fit
+- **[4:56]** RecGang becomes first NFT community on Hyperliquid
+- **[5:57]** Cypher introduces on-chain bank account vision and card product
+- **[8:30]** Live demo: collapsing six-step off-ramp into single-click card load
+- **[14:03]** Confirms integration with HyperCore only, not HyperEVM
+- **[21:08]** PBR requests HLP vault auto-load feature for cards
+- **[34:49]** Cypher token and merchant incentive protocol launching this year
+- **[41:21]** Identifies predatory 5-8% forex fees at point-of-sale, educates users
+- **[48:58]** Currently 25-50 signups; prioritizes product-market fit over launch hype
 
 ## Transcript
 

@@ -1,23 +1,25 @@
-# Coordinated Exchange Attack on Hyperliquid and Building PVP Trading Apps
+# Coordinated exchange attack on Hyperliquid exposes design tensions
 
-_Discussion of the Jelly token attack on Hyperliquid, validator response, and introduction to PVP.trade's social trading platform._
+_Jelly token manipulation, validator response, and debate over decentralization tradeoffs during live incident._
+
+> Jeff and team have shown that they're here to change it, to put it in our hands, to let the users reap the rewards of the platform and everything.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-26
 **Duration:** 1:23:30
-**Tags:** perps, infrastructure, community
+**Tags:** ecosystem, governance, infrastructure
 **Source:** https://x.com/i/spaces/1YpKkBMnpLwxj
 
 ## Key moments
 
-- **[1:29]** Opening discussion about coordinated attack on Hyperliquid ecosystem
-- **[5:02]** PVP.trade team explains the Jelly token incident and delisting decision
-- **[8:34]** Community debate on centralized exchange response and Hyperliquid's decentralization approach
-- **[13:06]** Discussion of HLP vault withdrawals and yield implications after attack
-- **[22:08]** Introduction to PVP.trade platform and telegram bot for group trading
-- **[29:41]** PVP.trade co-founders explain genesis story and 30 billion volume milestone
-- **[38:16]** How to get started with PVP.trade and copy trading features
-- **[49:22]** Transition to Hyperliquid EVM opportunities and leverage strategies
+- **[1:29]** Space announcement coincides with suspected coordinated attack
+- **[2:29]** Zerk and PBR introduce pvp.trade; Guffix joins to discuss events
+- **[5:32]** Noms notices jelly position down 8-9M, confirms coordinated attack theory
+- **[6:32]** Community debates ongoing market cap caps and OI limits to prevent repeats
+- **[9:34]** Validator quorum voted to delist; PBR defends Jeff and team responsiveness
+- **[12:05]** Discussion of USDT freezing vs USDC; validator governance process affirmed
+- **[17:37]** HLP tvl withdrawal and recovery; discussion of vault impacts and yields
+- **[22:08]** Pivot to pvp.trade launch: Telegram bot for social group trading
 
 ## Transcript
 

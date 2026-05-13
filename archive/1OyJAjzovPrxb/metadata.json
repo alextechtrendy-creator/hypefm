@@ -25,8 +25,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1OyJAjzovPrxb",
-  "summary_title": "Catball NFTs, Illuminati mechanics, and Hyperliquid's ecosystem future",
-  "summary_description": "OG meme founder discusses NFT collection design, trait mechanics, and Hyperliquid's path amid ecosystem competition.",
+  "summary_title": "Catball's pyramid NFTs, trait trading, and Hyperliquid's ecosystem maturation",
+  "summary_description": "OG meme project reveals 5-tier NFT structure with ERC-1155 trait mechanics, addresses community drama around stablecoins and competitor launches.",
   "topic_tags": [
     "ecosystem",
     "community",
@@ -35,37 +35,38 @@
   "key_moments": [
     {
       "timestamp_seconds": 205,
-      "label": "Catball intro: year-old meme, early Hyperliquid community member"
+      "label": "Catball's origin: accidental meme launch via age.fun in May"
     },
     {
-      "timestamp_seconds": 326,
-      "label": "Origin story: launched via age.fun during early trenches era"
+      "timestamp_seconds": 418,
+      "label": "Spot market meme era ended; whales now farm points instead"
     },
     {
-      "timestamp_seconds": 600,
-      "label": "NFT collection launched with 1500+ organic wallets, 20k Hype volume"
+      "timestamp_seconds": 630,
+      "label": "NFT mint hit 1500 wallets, ~20k HYPE volume, ~$10M in value"
     },
     {
       "timestamp_seconds": 932,
-      "label": "Five-tier pyramid structure with illuminati-inspired mechanics explained"
+      "label": "5-tier pyramid structure: 1416 Tier 1 to 20 Tier 5 NFTs"
     },
     {
-      "timestamp_seconds": 1296,
-      "label": "ERC-721 reveal plus ERC-1155 trait system for post-mint customization"
+      "timestamp_seconds": 1326,
+      "label": "ERC-721 art reveal in 2-4 weeks, then ERC-1155 trait splitting"
     },
     {
       "timestamp_seconds": 1599,
-      "label": "Roguelike game plans: utility, NFT integration, trait distribution"
+      "label": "Roguelike game design document done; funding constraints block development"
     },
     {
       "timestamp_seconds": 1933,
-      "label": "Critique of PayPal integration and ecosystem psyops, defense of native markets"
+      "label": "Catball critiques PayPal/Paxos integration as ideological threat"
     },
     {
-      "timestamp_seconds": 2567,
-      "label": "Competing perp DEXs and Hyperliquid's moat discussion"
+      "timestamp_seconds": 2506,
+      "label": "Competitors (CZ perps, Aster, Avantis) can't match Hyperliquid's execution"
     }
   ],
+  "pull_quote": "Hyperliquid is winning because 11 people are generating billions yearly and actually threatening the cartels, while competitors arrive three years late with endless capital.",
   "audio_captured": true,
   "audio_duration_seconds": 3570.7093125,
   "capture_failure_reason": null

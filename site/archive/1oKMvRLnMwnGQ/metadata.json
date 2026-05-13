@@ -31,47 +31,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1oKMvRLnMwnGQ",
-  "summary_title": "How AI agents are democratizing algorithmic trading on Hyperliquid",
-  "summary_description": "Robonet founders demo AI-powered strategy building, backtesting, and live deployment with real 488% returns.",
+  "summary_title": "488% backtest returns: How AI agents execute trading strategies on Hyperliquid",
+  "summary_description": "Mike deployed an AI-built SMA crossover strategy on Hyperliquid using Robonet. Five dollars in credits, 488% backtest, now live as a vault.",
   "topic_tags": [
+    "perps",
     "trading",
-    "infrastructure",
     "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 147,
-      "label": "Space opens with hosts testing audio and casual banter about X's new cash tags"
+      "label": "Space kicks off with Zerk and Wreck Gang validator intro"
     },
     {
-      "timestamp_seconds": 430,
-      "label": "Introductions: Zerk from Wreck Gang introduces guests Augustus and Mike from Robonet and Elora"
+      "timestamp_seconds": 460,
+      "label": "Augustus introduces Robonet's ecosystem focus and seven-year crypto background"
     },
     {
-      "timestamp_seconds": 612,
-      "label": "Mike explains Elora's predictive AI network: 52-53% directional accuracy, forecasting future prices"
+      "timestamp_seconds": 642,
+      "label": "Mike explains Elora's predictive AI: 52-53% directional accuracy baseline"
     },
     {
       "timestamp_seconds": 1036,
-      "label": "Augustus describes Robonet's evolution from token yield to intent-based automated strategy platform"
+      "label": "Robonet problem: fragmented trading infrastructure requiring multiple skill sets"
     },
     {
       "timestamp_seconds": 1369,
-      "label": "Mike shares real example: deployed AI strategy earning 488% backtest returns on ETH using SMA crossovers"
+      "label": "Mike's concrete example: 488% backtest from SMA crossover strategy deployed live"
     },
     {
       "timestamp_seconds": 2093,
-      "label": "Augustus details security: private key management via Brevi, locked code execution, emergency stop controls"
+      "label": "Security deep dive: Brevi key management, code immutability, emergency stop controls"
     },
     {
       "timestamp_seconds": 2847,
-      "label": "Roadmap discussion: multi-asset support, oil/metals trading, funding rate arbitrage across venues"
+      "label": "Roadmap: Multi-asset, funding rate arbitrage, compliance-first vault products"
     },
     {
-      "timestamp_seconds": 3481,
-      "label": "Closing remarks: hosts thank Robonet team, discuss future where AI agents trade autonomously"
+      "timestamp_seconds": 3391,
+      "label": "AI agents racing to zero: arbitrage disappears as barrier to entry collapses"
     }
   ],
+  "pull_quote": "52 percent is already enough, because 80 percent of traders actually make no money, so you've already beaten that by a big margin.",
   "audio_captured": true,
   "audio_duration_seconds": 3759.6586875,
   "capture_failure_reason": null

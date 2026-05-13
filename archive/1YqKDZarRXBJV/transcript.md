@@ -1,23 +1,25 @@
-# Building Mobile-First Trading on Hyperliquid with Nest Wallet
+# Mobile perps trading on Hyperliquid: faster than telegram bots, fully decentralized
 
-_Nest Wallet launches Hyperliquid perps on mobile with seamless UX, farming points, and roadmap for spot, staking, and HyperEVM integration._
+_Nest Wallet launches Hyperliquid L1 perps on mobile with native key custody, MEV protection, and zero speed compromise versus centralized bots._
+
+> You get the security profile of metamask and phantom but why do we have to settle for subpar features? Let's just build something we'd actually use.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-19
 **Duration:** 40:40
-**Tags:** perps, infrastructure, ecosystem
+**Tags:** perps, infrastructure, trading, ecosystem
 **Source:** https://x.com/i/spaces/1YqKDZarRXBJV
 
 ## Key moments
 
-- **[1:36]** Introductions and setup for Nest Wallet discussion
-- **[3:40]** Hosts discuss funding rates farming strategy on Hyperliquid
-- **[6:42]** Nest Wallet team background from BitCo and DeFi wallet building
-- **[8:12]** Soft launch of Hyperliquid perps on Nest Wallet announced
-- **[15:14]** Feature requests including HYPE staking and spot trading for mobile
-- **[18:15]** HyperEVM integration planned within two weeks pending demand
-- **[29:25]** Future roadmap: one-click bridging, meme coin trackers, NFT support
-- **[38:04]** Call to action: test app, give feedback, share feature ideas via DMs
+- **[4:10]** Team background: ex-BitGo custodians building for mobile
+- **[7:42]** Gap in market: no solid mobile perps experience exists yet
+- **[8:12]** Soft-launched Hyperliquid perps hours ago; official Monday
+- **[11:43]** Speed comparison: mobile app faster than Solana telegram bots
+- **[15:44]** Roadmap: spot trading and staking coming within weeks
+- **[18:15]** Hyperliquid EVM support planned for two weeks after L1 launch
+- **[25:24]** Points system live now; potential airdrop if adoption scales
+- **[29:25]** One-button bridge from Solana to Hyperliquid in development
 
 ## Transcript
 

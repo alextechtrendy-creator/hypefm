@@ -25,8 +25,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1lPKqMAYQPwKb",
-  "summary_title": "HyperBlades building NFT lending, launchpad, and play-to-earn game on Hyperliquid",
-  "summary_description": "Inside look at HyperBlades' full NFT ecosystem launching on Hyperliquid: lending protocol, raffle-based launchpad, marketplace, and mystery game.",
+  "summary_title": "Hyperblades' NFT lending, launchpad, and mystery game launching on Hyperliquid within two weeks",
+  "summary_description": "Four-person team building lending platform, raffle-based launchpad, and play-to-earn game. Testnet in two days, mainnet in less than two weeks.",
   "topic_tags": [
     "ecosystem",
     "listings",
@@ -35,37 +35,38 @@
   "key_moments": [
     {
       "timestamp_seconds": 305,
-      "label": "Zerk introduces HyperBlades team and their Hyperliquid NFT-fi focus"
+      "label": "Zerk introduces Hyperblades and their Hyperliquid NFT-fi stack"
     },
     {
       "timestamp_seconds": 398,
-      "label": "Frank explains successful testnet mint with 10k contract requests and upcoming launchpad"
+      "label": "10,000 contract requests handled smoothly on testnet mint"
     },
     {
-      "timestamp_seconds": 488,
-      "label": "Deep dive into Lendify lending protocol: how borrowers and lenders benefit"
+      "timestamp_seconds": 519,
+      "label": "Lending platform lets users test-drive NFTs for up to seven days"
     },
     {
       "timestamp_seconds": 1036,
-      "label": "Raffle-based launchpad system explained with refundable tickets and anti-bot mechanics"
+      "label": "Raffle system differentiates launchpad from competitors like Drip"
     },
     {
       "timestamp_seconds": 1310,
-      "label": "Timeline revealed: testnet in 2 days, mainnet in less than 2 weeks"
+      "label": "Timeline: testnet in two days, mainnet in less than two weeks"
+    },
+    {
+      "timestamp_seconds": 1402,
+      "label": "Play-to-earn game teased as imposter-type game"
     },
     {
       "timestamp_seconds": 1463,
-      "label": "Team composition: 3 full-time devs, UI/UX designer, game designer, and Frank managing operations"
+      "label": "Team of seven: three full-time devs, one game designer, one UX designer, one manager"
     },
     {
-      "timestamp_seconds": 1953,
-      "label": "Game teaser: imposter-type play-to-earn game coming with other utilities"
-    },
-    {
-      "timestamp_seconds": 2561,
-      "label": "Closing remarks on mainnet mint next week and lending protocol in two weeks"
+      "timestamp_seconds": 1524,
+      "label": "Built in three months; major VC partnership coming soon"
     }
   ],
+  "pull_quote": "You can just borrow money against your NFT as collateral, or lend money to test it for up to seven days before deciding whether to buy it.",
   "audio_captured": true,
   "audio_duration_seconds": 2667.6693125,
   "capture_failure_reason": null

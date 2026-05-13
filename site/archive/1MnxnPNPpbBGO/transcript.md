@@ -1,23 +1,24 @@
-# Things: Trading Exotic Perpetuals on Hyperliquid From Weather to Fed Rates
+# Trading weather, Fed rates, and Bitcoin hash rate on Hyperliquid's new perpdex
 
-_Canadian founders building permissionless perp markets for real-world signals like weather, unemployment, and commodity prices on Hyperliquid._
+_Things launches exotic perpetual markets for signals usually hidden behind proxies—weather, unemployment, commodities—with reliable oracles and in-house market making._
+
+> Instead of being forced to long Bitcoin as a proxy for Fed rate, why not give people ability to trade the signals directly?
 
 **Host:** @rekt_gang
 **Date:** 2025-12-17
 **Duration:** 58:10
-**Tags:** perps, infrastructure, ecosystem
+**Tags:** perps, ecosystem, infrastructure, market-making
 **Source:** https://x.com/i/spaces/1MnxnPNPpbBGO
 
 ## Key moments
 
-- **[4:48]** Host introduces Things team, Canadian builders launching on Hyperliquid
-- **[7:49]** Founders explain core idea: trading signals directly instead of crypto proxies
-- **[10:21]** Deep dive on oracle design: why weather, unemployment, commodities are ideal
-- **[19:59]** Technical oracle construction: multi-source feeds, weather formula using Kelvin
-- **[27:37]** Funding challenge discussed: raising HLP for market deployment, considering Volantis
-- **[31:09]** Testnet launching next week with points program: 20% supply for testers, trading competition
-- **[40:16]** Referral program details, fee structure, and custom codes for communities
-- **[42:49]** Why Hyperliquid: permissionless deploys, best community, fair treatment for all builders
+- **[7:49]** Things perpdex launches exotic perpetual markets on Hyperliquid
+- **[8:20]** Core insight: people trade derivatives of signals via proxies instead of directly
+- **[10:21]** Weather and unemployment examples show why perps beat binary prediction markets
+- **[17:58]** Oracle design criteria: easily verifiable, multiple sources, hard to manipulate
+- **[23:02]** Testnet launching next week with in-house market maker and points competition
+- **[31:39]** 20% of total token supply allocated to testnet traders; 10% referral yield
+- **[42:49]** Why Hyperliquid: permissionless market deploys and fairest conditions for builders
 
 ## Transcript
 

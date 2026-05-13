@@ -37,47 +37,45 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1MnxnPNPpbBGO",
-  "summary_title": "Things: Trading Exotic Perpetuals on Hyperliquid From Weather to Fed Rates",
-  "summary_description": "Canadian founders building permissionless perp markets for real-world signals like weather, unemployment, and commodity prices on Hyperliquid.",
+  "summary_title": "Trading weather, Fed rates, and Bitcoin hash rate on Hyperliquid's new perpdex",
+  "summary_description": "Things launches exotic perpetual markets for signals usually hidden behind proxies—weather, unemployment, commodities—with reliable oracles and in-house market making.",
   "topic_tags": [
     "perps",
+    "ecosystem",
     "infrastructure",
-    "ecosystem"
+    "market-making"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 288,
-      "label": "Host introduces Things team, Canadian builders launching on Hyperliquid"
+      "timestamp_seconds": 469,
+      "label": "Things perpdex launches exotic perpetual markets on Hyperliquid"
     },
     {
-      "timestamp_seconds": 469,
-      "label": "Founders explain core idea: trading signals directly instead of crypto proxies"
+      "timestamp_seconds": 500,
+      "label": "Core insight: people trade derivatives of signals via proxies instead of directly"
     },
     {
       "timestamp_seconds": 621,
-      "label": "Deep dive on oracle design: why weather, unemployment, commodities are ideal"
+      "label": "Weather and unemployment examples show why perps beat binary prediction markets"
     },
     {
-      "timestamp_seconds": 1199,
-      "label": "Technical oracle construction: multi-source feeds, weather formula using Kelvin"
+      "timestamp_seconds": 1078,
+      "label": "Oracle design criteria: easily verifiable, multiple sources, hard to manipulate"
     },
     {
-      "timestamp_seconds": 1657,
-      "label": "Funding challenge discussed: raising HLP for market deployment, considering Volantis"
+      "timestamp_seconds": 1382,
+      "label": "Testnet launching next week with in-house market maker and points competition"
     },
     {
-      "timestamp_seconds": 1869,
-      "label": "Testnet launching next week with points program: 20% supply for testers, trading competition"
-    },
-    {
-      "timestamp_seconds": 2416,
-      "label": "Referral program details, fee structure, and custom codes for communities"
+      "timestamp_seconds": 1899,
+      "label": "20% of total token supply allocated to testnet traders; 10% referral yield"
     },
     {
       "timestamp_seconds": 2569,
-      "label": "Why Hyperliquid: permissionless deploys, best community, fair treatment for all builders"
+      "label": "Why Hyperliquid: permissionless market deploys and fairest conditions for builders"
     }
   ],
+  "pull_quote": "Instead of being forced to long Bitcoin as a proxy for Fed rate, why not give people ability to trade the signals directly?",
   "audio_captured": true,
   "audio_duration_seconds": 3490.688,
   "capture_failure_reason": null

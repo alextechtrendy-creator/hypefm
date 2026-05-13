@@ -43,47 +43,45 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1lPKqBAljPPGb",
-  "summary_title": "Building a fully decentralized order book exchange from scratch on Tendermint",
-  "summary_description": "Hyperliquid founder explains why order books beat AMMs, how their custom chain solves DeFi's UX friction, and what's coming next.",
+  "summary_title": "Order book DEX from scratch: why Hyperliquid ditched Arbitrum for its own chain",
+  "summary_description": "Engineers pivoted from testing on Arbitrum to building a Tendermint L1 after realizing what traders actually need.",
   "topic_tags": [
     "perps",
     "infrastructure",
-    "L1"
+    "L1",
+    "execution"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 70,
-      "label": "Introductions: Circa and Zerker host Jeff from Hyperliquid"
-    },
-    {
       "timestamp_seconds": 224,
-      "label": "Trading competition recap: half of participants liquidated by end"
+      "label": "Trading competition liquidation chaos: over 50% wiped out by day two"
     },
     {
-      "timestamp_seconds": 530,
-      "label": "Jeff's background: engineer-traders who saw inefficiency in DeFi after FTX collapse"
+      "timestamp_seconds": 560,
+      "label": "From market makers to founders: how FTX collapse became the call to arms"
     },
     {
       "timestamp_seconds": 895,
-      "label": "Why order books: analyzing AMMs, GMX hybrids, and choosing decentralized order books"
+      "label": "Why order books beat AMMs and hybrid models for decentralized trading"
     },
     {
       "timestamp_seconds": 1228,
-      "label": "Key differentiator: fully on-chain order book using Tendermint, not hybrid model"
+      "label": "dYdX runs order matching on centralized servers; Hyperliquid puts it fully on-chain"
+    },
+    {
+      "timestamp_seconds": 1408,
+      "label": "Pivoted from Arbitrum to native Tendermint chain after three-week infrastructure review"
     },
     {
       "timestamp_seconds": 2102,
-      "label": "New pools feature: community-managed liquidation and market-making strategies launching soon"
+      "label": "Coming soon: vault pools for liquidations, market-making, and copy trading strategies"
     },
     {
       "timestamp_seconds": 3073,
-      "label": "Roadmap: testnet in January, closed alpha mainnet targeting February"
-    },
-    {
-      "timestamp_seconds": 3285,
-      "label": "Collaborative roundtable spaces planned with other DEXs: Kujira, Hubble, DYDX, dYdX"
+      "label": "Mainnet timeline: January testnet, February/March closed alpha, then full launch"
     }
   ],
+  "pull_quote": "We were surprised anyone actually used DeFi. The tech was so far behind centralized exchanges, with so much friction to doing anything you take for granted.",
   "audio_captured": true,
   "audio_duration_seconds": 5179.904,
   "capture_failure_reason": null

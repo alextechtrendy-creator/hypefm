@@ -25,47 +25,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1ynJOlXaPBwxR",
-  "summary_title": "Sentiment's margin lending and perp-collateralized loans on Hyperliquid",
-  "summary_description": "How Sentiment enables 15-20% APY on wrapped stake HYPE and introduces novel perp collateral and coin margin products exclusive to Hyperliquid EVM.",
+  "summary_title": "Margin lending unlocks 15-20% APY on Hyperliquid, plus perp positions as collateral",
+  "summary_description": "Sentiment launches native margin lending on Hyperliquid EVM. Borrow up to 15x leverage on wrapped staked HYPE, and soon use perpetual positions as collateral for delta-neutral strategies.",
   "topic_tags": [
-    "perps",
     "vaults",
-    "ecosystem"
+    "perps",
+    "infrastructure",
+    "trading"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 92,
-      "label": "Space intro and guest welcome from Zerk and Zerx Snarks"
-    },
-    {
       "timestamp_seconds": 414,
-      "label": "Zerx introduces Sentiment: margin lending protocol with TradFi origins and evolution from undercollateralized loans"
+      "label": "Zerx Snarks introduces Sentiment as margin lending protocol"
     },
     {
-      "timestamp_seconds": 656,
-      "label": "Margin lending explained: how Sentiment differs from Aave forks with direct leverage instead of looping"
+      "timestamp_seconds": 535,
+      "label": "Origins: TradFi founders seeking efficient capital access during DeFi summer"
+    },
+    {
+      "timestamp_seconds": 718,
+      "label": "Core mechanic: $100k HYPE collateral → $1M USDC borrow without looping"
     },
     {
       "timestamp_seconds": 870,
-      "label": "Upcoming 15x wrapped stake HYPE feature delivering 15-20% APY with minimal borrow rates"
+      "label": "15x leverage on wrapped staked HYPE yields 15-20% APY next week"
     },
     {
-      "timestamp_seconds": 1383,
-      "label": "Perp collateral and coin margin products: enabling delta-neutral strategies and leveraging unrealized P&L"
+      "timestamp_seconds": 1414,
+      "label": "Purpose collateral: trade perps as collateral, borrow against unrealized P&L"
     },
     {
-      "timestamp_seconds": 1625,
-      "label": "Technical walkthrough: using perp positions as collateral on Sentiment interface with precompiles integration"
+      "timestamp_seconds": 2049,
+      "label": "Coin margin perpetuals coming via Hyperliquid EVM, filling native gap"
     },
     {
       "timestamp_seconds": 2230,
-      "label": "Timeline: USDC support in 4 weeks, audit-ready in 6 weeks, precompiles expected within 6 weeks"
+      "label": "Launch timeline: USDC support within 4 weeks, audits within 6, precompiles within 6"
     },
     {
       "timestamp_seconds": 2594,
-      "label": "Points incentives announced for early participants; protocol already live with phased rollout planned"
+      "label": "Sentiment already live with points incentives launching within days"
     }
   ],
+  "pull_quote": "You have a perp position worth a million dollars in the money and don't want to sell—now you can borrow against that unrealized profit without closing.",
   "audio_captured": true,
   "audio_duration_seconds": 3010.9226875,
   "capture_failure_reason": null

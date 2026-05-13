@@ -10,11 +10,15 @@
     --bg: #fafaf7;
     --bg-card: #ffffff;
     --fg: #222;
-    --fg-muted: #666;
+    --fg-muted: #777;
     --fg-faint: #999;
-    --accent: #c0682c;
-    --accent-bg: rgba(192, 104, 44, 0.1);
-    --border: #e5e5e0;
+    --accent: #0d6856;
+    --accent-light: #97FCE4;
+    --accent-bg: rgba(13, 104, 86, 0.1);
+    --quote-bg: #043b30;
+    --quote-fg: #fafaf7;
+    --border: #d4d2c5;
+    --border-light: #e5e5e0;
   }
   * { box-sizing: border-box; }
   body {
@@ -26,17 +30,17 @@
   .container { max-width: 760px; margin: 0 auto; padding: 1.75rem 1.25rem 4rem; }
   header {
     margin-bottom: 1rem; padding-bottom: 0.75rem;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid var(--border-light);
     display: flex; align-items: baseline; justify-content: space-between;
   }
   h1 {
     font-size: 16px; font-weight: 500; margin: 0; letter-spacing: -0.01em;
   }
   .tagline { font-size: 11px; color: var(--fg-faint); font-weight: 400; margin-left: 4px; }
-  .count { font-size: 11px; color: var(--fg-faint); margin: 0; }
+  .count { font-size: 11px; color: var(--accent); font-weight: 500; margin: 0; }
   .search-wrap { margin-bottom: 0.75rem; }
   #search {
-    width: 100%; padding: 8px 12px;
+    width: 100%; padding: 9px 13px;
     background: white; border: 1px solid var(--border);
     border-radius: 4px; color: var(--fg);
     font-size: 12px; font-family: inherit; outline: none;
@@ -45,7 +49,7 @@
   #search::placeholder { color: var(--fg-faint); }
   .filters {
     font-size: 11px; color: var(--fg-muted);
-    margin-bottom: 1rem; line-height: 1.8;
+    margin-bottom: 1.5rem; line-height: 1.9;
   }
   .chip {
     background: none; border: none; padding: 0;
@@ -54,47 +58,74 @@
   }
   .chip:hover { color: var(--fg); }
   .chip.active { color: var(--accent); font-weight: 500; }
-  .chip-sep { color: var(--border); margin: 0 5px; }
-  .results { display: flex; flex-direction: column; gap: 0.85rem; }
+  .chip-sep { color: #ddd; margin: 0 5px; }
+  .results { display: flex; flex-direction: column; gap: 16px; }
   .entry {
     text-decoration: none; color: inherit; display: block;
+    background: var(--bg-card); border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden;
+    transition: border-color 0.1s;
   }
-  .entry-row {
-    display: flex; gap: 6px; align-items: baseline;
+  .entry:hover { border-color: var(--accent); }
+  .entry-thumb {
+    background: var(--quote-bg);
+    padding: 28px 24px;
+    min-height: 140px;
+    display: flex;
+    align-items: center;
   }
-  .entry-num {
-    color: var(--fg-faint); font-size: 13px;
-    min-width: 22px; font-variant-numeric: tabular-nums;
+  .entry-thumb-quote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 20px;
+    color: var(--quote-fg);
+    line-height: 1.3;
+    margin: 0;
+    font-weight: 500;
   }
-  .entry-body { flex: 1; }
+  .entry-thumb-fallback {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 18px;
+    color: rgba(250, 250, 247, 0.7);
+    line-height: 1.4;
+    margin: 0;
+  }
+  .entry-body { padding: 16px 20px 18px; }
   .entry-title {
-    font-size: 13px; margin: 0; line-height: 1.35; color: var(--fg);
+    font-size: 18px; font-weight: 500;
+    margin: 0; line-height: 1.3; letter-spacing: -0.01em;
+    color: var(--fg);
   }
   .entry:hover .entry-title { color: var(--accent); }
   .entry-desc {
-    font-size: 11px; color: var(--fg-muted); margin: 2px 0 0; line-height: 1.4;
+    font-size: 12px; color: var(--fg-muted);
+    margin: 8px 0 0; line-height: 1.5;
   }
   .entry-meta {
-    font-size: 10px; color: var(--fg-faint); margin: 2px 0 0;
+    font-size: 11px; color: #888;
+    margin: 12px 0 0;
   }
-  .entry-meta .tag { color: var(--fg-muted); }
+  .entry-meta .tag { color: var(--accent); font-weight: 500; }
   .snippet {
-    margin-top: 4px; font-size: 10px; color: var(--fg-muted);
-    line-height: 1.5; padding-left: 8px;
-    border-left: 2px solid var(--border);
+    margin: 10px 0 0; font-size: 11px; color: var(--fg-muted);
+    line-height: 1.5; padding-left: 10px;
+    border-left: 2px solid var(--border-light);
   }
-  mark {
-    background: var(--accent-bg); color: var(--accent);
-    padding: 0 1px; border-radius: 2px;
-  }
+  mark { background: var(--accent-bg); color: var(--accent); padding: 0 1px; border-radius: 2px; }
   .empty { color: var(--fg-muted); padding: 2rem 0; text-align: center; font-size: 12px; }
   footer {
     margin-top: 3rem; padding-top: 1rem;
-    border-top: 1px solid var(--border);
+    border-top: 1px solid var(--border-light);
     color: var(--fg-faint); font-size: 11px; text-align: center;
   }
   footer a { color: var(--fg-muted); text-decoration: none; }
   footer a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    .entry-thumb { padding: 22px 18px; min-height: 110px; }
+    .entry-thumb-quote { font-size: 17px; }
+    .entry-title { font-size: 16px; }
+  }
 </style>
 </head>
 <body>
@@ -200,16 +231,17 @@
       if (s.duration) meta.push(esc(fmtDuration(s.duration)));
       if (s.tags && s.tags.length) meta.push('<span class="tag">' + s.tags.map(esc).join(', ') + '</span>');
       if (!s.audio) meta.push('transcript only');
+      const thumbContent = s.quote
+        ? `<p class="entry-thumb-quote">"${esc(s.quote)}"</p>`
+        : `<p class="entry-thumb-fallback">${esc(s.description || s.title || '')}</p>`;
       return `
         <a class="entry" href="archive/${encodeURIComponent(s.id)}/index.html">
-          <div class="entry-row">
-            <span class="entry-num">${i + 1}.</span>
-            <div class="entry-body">
-              <p class="entry-title">${state.query ? hl(s.title || 'untitled', state.query) : esc(s.title || 'untitled')}</p>
-              ${s.description ? `<p class="entry-desc">${state.query ? hl(s.description, state.query) : esc(s.description)}</p>` : ''}
-              <p class="entry-meta">${meta.join(' · ')}</p>
-              ${sn ? `<div class="snippet">${hl(sn, state.query)}</div>` : ''}
-            </div>
+          <div class="entry-thumb">${thumbContent}</div>
+          <div class="entry-body">
+            <p class="entry-title">${state.query ? hl(s.title || 'untitled', state.query) : esc(s.title || 'untitled')}</p>
+            ${s.description ? `<p class="entry-desc">${state.query ? hl(s.description, state.query) : esc(s.description)}</p>` : ''}
+            <p class="entry-meta">${meta.join(' · ')}</p>
+            ${sn ? `<div class="snippet">${hl(sn, state.query)}</div>` : ''}
           </div>
         </a>`;
     }).join('');

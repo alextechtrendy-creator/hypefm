@@ -31,47 +31,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1oJMvROAbLnxQ",
-  "summary_title": "Paragon launches Bitcoin dominance and crypto indices on Hyperliquid",
-  "summary_description": "Founder Taha explains how Paragon makes previously untradeable Bitcoin dominance and market indices actionable through HIP3 perpetual futures.",
+  "summary_title": "Bitcoin dominance finally tradeable: Paragon launches three crypto indices on Hyperliquid",
+  "summary_description": "Paragon deploys BTC.D, Total2, and Others as actionable perpetuals—turning decade-old analyst charts into hedgeable instruments.",
   "topic_tags": [
     "perps",
     "listings",
-    "infrastructure"
+    "execution",
+    "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 266,
-      "label": "Introduction to Paragon, a new HIP3 deployer on Hyperliquid"
+      "label": "Paragon introduced as new HIP3 deployer, deployed 12 hours prior"
     },
     {
       "timestamp_seconds": 326,
-      "label": "Taha's background from tradfi to DeFi to product-focused building"
+      "label": "Taha's background: tradfi structured finance to crypto builder since 2013"
     },
     {
-      "timestamp_seconds": 719,
-      "label": "Concept behind Paragon: making Bitcoin dominance and indices tradeable"
+      "timestamp_seconds": 779,
+      "label": "Bitcoin dominance found to be charted 30-40% as much as BTC itself"
     },
     {
-      "timestamp_seconds": 931,
-      "label": "Why Bitcoin dominance hasn't been tradeable before despite being widely charted"
+      "timestamp_seconds": 840,
+      "label": "HIP3 infrastructure unlock enables focused asset creation without rebuilding UX"
     },
     {
-      "timestamp_seconds": 1388,
-      "label": "Three live tickers: BTCD (Bitcoin dominance), Total2, and Others index"
+      "timestamp_seconds": 1052,
+      "label": "Perps superior to spot for bootstrapping two-sided markets and new indices"
+    },
+    {
+      "timestamp_seconds": 1418,
+      "label": "Three live tickers: BTC.D, Total2, Others—125-name basket design explained"
     },
     {
       "timestamp_seconds": 1846,
-      "label": "Data tables showing indices stability during market crashes versus single assets"
+      "label": "Table demonstrations show Bitcoin dominance sub-2% moves vs Bitcoin's 13% gap down"
     },
     {
-      "timestamp_seconds": 2453,
-      "label": "Future pipeline and stablecoin dominance; community suggestions for new assets"
-    },
-    {
-      "timestamp_seconds": 3085,
-      "label": "How to access Paragon: TradFi campaign, multiple frontends, and community channels"
+      "timestamp_seconds": 2603,
+      "label": "Paragon fronted 500K HLP themselves, no token staking from community at launch"
     }
   ],
+  "pull_quote": "These things are actually some of the most charted, widely tracked tickers in crypto—30 or 40% as many mentions as Bitcoin itself—yet remain completely analytical and non-actionable.",
   "audio_captured": true,
   "audio_duration_seconds": 3609.6426875,
   "capture_failure_reason": null

@@ -1,22 +1,25 @@
-# Volantis: Building the Complete Hype Staking Solution on Hyperliquid
+# Stake Type's multi-account design unlocks HIP-3 markets, faster withdrawals, and institutional staking
 
-_How Volantis is capturing hype's full utility through liquid staking, the Athena partnership, and institutional-grade infrastructure._
+_Valantis' Ollie explains how ST Hype captured staking yield that no other LST can, and why Athena partnership changes everything._
+
+> Points are just a megaphone on what you're already doing. If the fire itself has no substance, they won't get you anywhere.
 
 **Host:** @rekt_gang
 **Date:** 2025-12-10
 **Duration:** 1:01:19
-**Tags:** HLP, perps, ecosystem
+**Tags:** vaults, tokenomics, ecosystem, market-making
 **Source:** https://x.com/i/spaces/1ynKOMYZvjQJR
 
 ## Key moments
 
-- **[1:01]** Introductions: Zerk, hosts and Ollie from Volantis growth team
-- **[9:11]** Volantis thesis: liquid staking and hype utility capture on Hyperliquid
-- **[13:13]** Why Volantis launched points now: products finally ready to scale billions in TVL
-- **[17:46]** StakeType multi-account architecture enables market-making discounts and institutional strategies
-- **[24:50]** Athena partnership: USD yield flowing back to ST hype holders, custom quote assets avoid slashing
-- **[44:02]** Community participation: looping strategies, Pendle integrations, points farming mechanics
-- **[56:09]** Hype valuation thesis: undervalued vs peers, potential top-5 asset, long-term flipping Ethereum
+- **[2:08]** AI-generated Valantis anthem surprises the space
+- **[9:11]** Valantis pivoted to Hyperliquid because it's the only chain with proven DeFi product-market fit
+- **[13:13]** ST Hype points launch was intentionally delayed nine months until product could scale billions
+- **[17:15]** Hype utilities: 500K for hip-3, 200K for quote assets, 1M for limit orders, 400K for max market-making discounts
+- **[28:23]** Multi-account architecture lets ST Hype offer faster withdrawals and partner yields that single-account LSTs can't
+- **[31:55]** Athena partnership brings 12% APY on USDE, contractual 20K hype/year to ST Hype holders
+- **[46:03]** Looping ST Hype 4-5x via Hyperland borrow is highest-yield points farming strategy
+- **[56:39]** Hype trades like fundamental asset, could flip Ethereum if economic maturity trend continues
 
 ## Transcript
 

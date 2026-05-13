@@ -1,6 +1,8 @@
-# HyperBlades building NFT lending, launchpad, and play-to-earn game on Hyperliquid
+# Hyperblades' NFT lending, launchpad, and mystery game launching on Hyperliquid within two weeks
 
-_Inside look at HyperBlades' full NFT ecosystem launching on Hyperliquid: lending protocol, raffle-based launchpad, marketplace, and mystery game._
+_Four-person team building lending platform, raffle-based launchpad, and play-to-earn game. Testnet in two days, mainnet in less than two weeks._
+
+> You can just borrow money against your NFT as collateral, or lend money to test it for up to seven days before deciding whether to buy it.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-17
@@ -10,14 +12,14 @@ _Inside look at HyperBlades' full NFT ecosystem launching on Hyperliquid: lendin
 
 ## Key moments
 
-- **[5:05]** Zerk introduces HyperBlades team and their Hyperliquid NFT-fi focus
-- **[6:38]** Frank explains successful testnet mint with 10k contract requests and upcoming launchpad
-- **[8:08]** Deep dive into Lendify lending protocol: how borrowers and lenders benefit
-- **[17:16]** Raffle-based launchpad system explained with refundable tickets and anti-bot mechanics
-- **[21:50]** Timeline revealed: testnet in 2 days, mainnet in less than 2 weeks
-- **[24:23]** Team composition: 3 full-time devs, UI/UX designer, game designer, and Frank managing operations
-- **[32:33]** Game teaser: imposter-type play-to-earn game coming with other utilities
-- **[42:41]** Closing remarks on mainnet mint next week and lending protocol in two weeks
+- **[5:05]** Zerk introduces Hyperblades and their Hyperliquid NFT-fi stack
+- **[6:38]** 10,000 contract requests handled smoothly on testnet mint
+- **[8:39]** Lending platform lets users test-drive NFTs for up to seven days
+- **[17:16]** Raffle system differentiates launchpad from competitors like Drip
+- **[21:50]** Timeline: testnet in two days, mainnet in less than two weeks
+- **[23:22]** Play-to-earn game teased as imposter-type game
+- **[24:23]** Team of seven: three full-time devs, one game designer, one UX designer, one manager
+- **[25:24]** Built in three months; major VC partnership coming soon
 
 ## Transcript
 

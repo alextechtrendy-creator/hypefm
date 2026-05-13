@@ -1,23 +1,24 @@
-# Building a fully decentralized order book exchange from scratch on Tendermint
+# Order book DEX from scratch: why Hyperliquid ditched Arbitrum for its own chain
 
-_Hyperliquid founder explains why order books beat AMMs, how their custom chain solves DeFi's UX friction, and what's coming next._
+_Engineers pivoted from testing on Arbitrum to building a Tendermint L1 after realizing what traders actually need._
+
+> We were surprised anyone actually used DeFi. The tech was so far behind centralized exchanges, with so much friction to doing anything you take for granted.
 
 **Host:** @rekt_gang
 **Date:** 2023-01-06
 **Duration:** 1:26:19
-**Tags:** perps, infrastructure, L1
+**Tags:** perps, infrastructure, L1, execution
 **Source:** https://x.com/i/spaces/1lPKqBAljPPGb
 
 ## Key moments
 
-- **[1:10]** Introductions: Circa and Zerker host Jeff from Hyperliquid
-- **[3:44]** Trading competition recap: half of participants liquidated by end
-- **[8:50]** Jeff's background: engineer-traders who saw inefficiency in DeFi after FTX collapse
-- **[14:55]** Why order books: analyzing AMMs, GMX hybrids, and choosing decentralized order books
-- **[20:28]** Key differentiator: fully on-chain order book using Tendermint, not hybrid model
-- **[35:02]** New pools feature: community-managed liquidation and market-making strategies launching soon
-- **[51:13]** Roadmap: testnet in January, closed alpha mainnet targeting February
-- **[54:45]** Collaborative roundtable spaces planned with other DEXs: Kujira, Hubble, DYDX, dYdX
+- **[3:44]** Trading competition liquidation chaos: over 50% wiped out by day two
+- **[9:20]** From market makers to founders: how FTX collapse became the call to arms
+- **[14:55]** Why order books beat AMMs and hybrid models for decentralized trading
+- **[20:28]** dYdX runs order matching on centralized servers; Hyperliquid puts it fully on-chain
+- **[23:28]** Pivoted from Arbitrum to native Tendermint chain after three-week infrastructure review
+- **[35:02]** Coming soon: vault pools for liquidations, market-making, and copy trading strategies
+- **[51:13]** Mainnet timeline: January testnet, February/March closed alpha, then full launch
 
 ## Transcript
 

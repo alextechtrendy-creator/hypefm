@@ -1,6 +1,8 @@
-# Pair Protocol's 45% Win Rate Strategy: Pair Trading on Hyperliquid
+# 45% win rate pair trading beats directional traders on Hyperliquid
 
-_How pair trading delivers 2.25x better odds than directional trading, with live vaults and LLM tools launching soon._
+_Pair Protocol's basket trading achieves 45% profitable users versus 20% on standard perpetual exchanges._
+
+> If this basket falls 2%, knock me out of the trade. If it goes up 5%, take profit. You no longer need to manually manage individual legs.
 
 **Host:** @rekt_gang
 **Date:** 2025-12-02
@@ -10,14 +12,14 @@ _How pair trading delivers 2.25x better odds than directional trading, with live
 
 ## Key moments
 
-- **[5:11]** Introduction to Pair Protocol and the team from Montreal
-- **[7:11]** Huff explains pair trading concept and why it's superior to directional trades
-- **[9:43]** 45% user win rate revealed: multiples higher than directional trading platforms
-- **[14:14]** Technical deep dive: how Pair tokenizes basket trades and manages risk on-chain
-- **[17:16]** October 10 event case study: how pair traders survived liquidation cascade
-- **[23:48]** LLM agent and vault launches: automation and passive pair trading coming next week
-- **[29:23]** Incentive program: 6K Hype tokens distributed weekly to active pair traders
-- **[37:25]** Future vision: API integrations, vaults, and omnipresent pair trading across crypto platforms
+- **[5:11]** Intro to Pair Protocol and pair trading concept
+- **[7:42]** Long-short strategy outperforms directional trading
+- **[9:43]** 45% user win rate announced, five times higher than competitors
+- **[12:43]** Basket feature innovation allows multi-asset long and short positions
+- **[16:45]** October 10th liquidation event: Pair survived while others failed
+- **[23:18]** LLM agent coming next week to suggest shorts based on statistics
+- **[27:49]** Pair vaults launching on Hyperliquid EVM for automated trading
+- **[30:23]** Points program distributing up to 6K Hype tokens weekly
 
 ## Transcript
 

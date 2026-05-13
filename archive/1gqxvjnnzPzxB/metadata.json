@@ -25,47 +25,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1gqxvjnnzPzxB",
-  "summary_title": "HyperFrogs NFTs and Lucky Ponds: Building gambling games on HyperVM",
-  "summary_description": "Bernie discusses launching HyperFrogs, an on-chain ASCII NFT collection, and Lucky Ponds, a decentralized lottery with revenue sharing for frog holders.",
+  "summary_title": "Lucky Ponds: lottery gaming on Hyperliquid with 7% fees flowing back to HyperFrogs holders",
+  "summary_description": "Bernie built a daily, weekly, and monthly raffle app where players deposit 0.1+ HYPE for a chance to win the full pool. Revenue splits to frog holders.",
   "topic_tags": [
+    "perps",
+    "trading",
     "ecosystem",
-    "community",
-    "governance"
+    "community"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 91,
-      "label": "Host introduces Bernie, Cosmos OG dev now building on HyperLiquid"
+      "label": "Host opens space, announces HyperFrogs and Lucky Ponds discussion"
     },
     {
-      "timestamp_seconds": 517,
-      "label": "Bernie explains motivations for launching HyperFrogs on HyperEVM and learning Solidity"
+      "timestamp_seconds": 426,
+      "label": "Zerk introduces Bernie, Cosmos dev pivoting to HyperVM and Hyperliquid"
     },
     {
-      "timestamp_seconds": 640,
-      "label": "Bernie discusses migration issues with original HyperFrog contract and community response"
+      "timestamp_seconds": 487,
+      "label": "HyperFrogs: first ASCII collection on HyperEVM with fully on-chain JPEGs"
+    },
+    {
+      "timestamp_seconds": 548,
+      "label": "Bernie explains what drew him to Hyperliquid: learning EVM, Solidity, first-mover advantage"
     },
     {
       "timestamp_seconds": 791,
-      "label": "Host explains why Hyperliquid attracts builders over Cosmos: more liquidity and active users"
+      "label": "Zerk names real reason: Cosmos broke, Hyperliquid has liquidity and degens willing to gamble"
     },
     {
-      "timestamp_seconds": 1094,
-      "label": "Lucky Ponds lottery game mechanics and 7% fee revenue sharing with HyperFrogs holders"
+      "timestamp_seconds": 1155,
+      "label": "Lucky Ponds launches with 7% fee to HyperFrogs holders on every win"
     },
     {
       "timestamp_seconds": 1614,
-      "label": "Lucky Ponds goes live with daily, weekly, monthly pools and NFT collaboration promotions"
+      "label": "Game goes live after one hour; first week includes Trippy Wolf NFT rewards"
     },
     {
       "timestamp_seconds": 2071,
-      "label": "Bernie explains hyper mode five-minute pools, PvP mechanics, and whale protection features"
-    },
-    {
-      "timestamp_seconds": 2375,
-      "label": "Security discussion: contract design, VRF challenges, and protections against validator exploitation"
+      "label": "Five-minute hyper mode explained: short PVP bursts, requires active simultaneous players"
     }
   ],
+  "pull_quote": "There's just more liquidity, more people, more fun on Hyperliquid right now. I mean, it's just the truth, right?",
   "audio_captured": true,
   "audio_duration_seconds": 2530.5173125,
   "capture_failure_reason": null

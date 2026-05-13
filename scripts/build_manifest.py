@@ -64,6 +64,7 @@ def build() -> None:
             "id": meta.get("space_id"),
             "title": meta.get("summary_title") or meta.get("title"),
             "description": meta.get("summary_description"),
+            "quote": meta.get("pull_quote"),
             "tags": meta.get("topic_tags", []),
             "host": meta.get("host_username"),
             "date": meta.get("started_at") or meta.get("created_at"),

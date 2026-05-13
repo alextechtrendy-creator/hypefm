@@ -1,6 +1,8 @@
-# First on-chain NFT collection launches on Hyperliquid EVM
+# First fully on-chain NFT collection launches on Hyperliquid EVM
 
-_Bren drops Tiny Hypercats, the first fully native NFT mint on Hyperliquid's new EVM, with live minting chaos and ecosystem updates._
+_Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS dependency, family-made traits stored forever._
+
+> The best things have a little bit of friction, and then when it's removed, everybody wants in. But now you kind of have that edge.
 
 **Host:** @rekt_gang
 **Date:** 2025-02-19
@@ -10,14 +12,14 @@ _Bren drops Tiny Hypercats, the first fully native NFT mint on Hyperliquid's new
 
 ## Key moments
 
-- **[2:57]** Intro and gas limit challenges during early Tiny Hypercat minting
-- **[5:29]** How to become active user and access big blocks for minting explained
-- **[11:32]** Bren's journey from GIF animator to on-chain developer and artist
-- **[20:39]** Hyperliquid EVM stealth launch and why decentralized rollout matters
-- **[29:54]** Rec gang plans to bridge Trippie Wolves and give away DAO-held NFTs
-- **[34:01]** Commemorative HyperLiquid NFTs selling OTC for $50k via HyperCo escrow
-- **[55:00]** NFT marketplace and first-mover advantage discussion for Hyperliquid
-- **[1:15:58]** Mint progresses organically with community learning curve and distribution
+- **[2:57]** Space kicks off with gas limit struggles during mint attempts
+- **[5:59]** Explaining dual block architecture and activation requirements
+- **[9:31]** Confirming first native on-chain NFT collection on Hyperliquid
+- **[12:02]** Artist journey from GIFs to on-chain development and deployment
+- **[20:39]** Hyperliquid EVM stealth launch creates equal-footing opportunity
+- **[29:54]** Announcing plans to bridge Trippie Wolves to Hyperliquid EVM
+- **[34:32]** Commemorative Hyper NFTs trading at $50k OTC via escrow
+- **[1:12:26]** Collection approaching 400 mints with organic community participation
 
 ## Transcript
 

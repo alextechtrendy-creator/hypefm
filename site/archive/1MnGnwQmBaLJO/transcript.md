@@ -1,23 +1,25 @@
-# OptFun: Building 1000X leverage options on Hyperliquid
+# OptFun's thousand-X leverage options let you 15X in one minute on Bitcoin
 
-_Ryan from OptFun explains how they created fair, on-chain options trading with 1000X leverage for one-minute Bitcoin bets._
+_One-minute expiry options on Hyperliquid EVM let degens take extreme bets without meme coin rug pull risk. 84M volume in week one._
+
+> We're giving you the same thrill of extreme volatility as Pump Fun, but on a fairer venue with actual Bitcoin liquidity, not a meme coin rug pull.
 
 **Host:** @rekt_gang
 **Date:** 2025-06-26
 **Duration:** 55:28
-**Tags:** perps, infrastructure, ecosystem
+**Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1MnGnwQmBaLJO
 
 ## Key moments
 
-- **[2:27]** Intro: hosts meet with OptFun's Ryan to discuss the platform
-- **[7:40]** Ryan introduces OptFun: 1000X leverage options on Hyperliquid for one minute
-- **[13:14]** Why OptFun chose Hyperliquid: ecosystem merit, no VC dumping, devoted traders
-- **[20:48]** Technical deep dive: on-chain order book, settlement every minute, UX simplicity
-- **[25:20]** Trading tips: enter early in cycle, watch momentum, start with 200X leverage
-- **[29:52]** Future roadmap: HYPE token support, HIP3 oracle integration, mobile app development
-- **[39:26]** Monetization and sustainability: 5% maker-taker fees, points system, potential airdrops
-- **[53:08]** Wrap-up: community feedback encouraged, points system teased, call to action
+- **[3:09]** OptFun pitch: thousand-X leverage on one-minute Bitcoin trades
+- **[8:11]** Ryan explains OptFun as fairest high-volatility bet platform
+- **[10:12]** How OptFun differs from Pump Fun: real liquidity instead of insider rugs
+- **[13:44]** Why Hyperliquid won: devoted traders, no VC dumps, level playing field
+- **[24:21]** Pro tip: place trades 30-60 seconds into cycle, watch Bitcoin momentum
+- **[29:51]** Hype token next, then any asset with Hyperliquid market or HIP3 feed
+- **[36:54]** Biggest win seen: 15X return in single minute
+- **[41:01]** 84 million trading volume in first week
 
 ## Transcript
 

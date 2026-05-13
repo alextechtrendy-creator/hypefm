@@ -1,23 +1,25 @@
-# KittenSwap: Building the Community-Owned DEX on HyperEVM
+# KittenSwap's 30% airdrop flipped HyperSwap's TVL with one clever move
 
-_Shinji from KittenSwap discusses concentrated liquidity pools, points distribution, and why they're winning the DEX wars on HyperEVM._
+_Two DeFi OGs built a concentrated liquidity DEX on HyperEVM without raising a seed round, using MechaCats NFTs and a wide token distribution to overtake competitors._
+
+> Our airdrop is 30% of our supply so as many people as possible who want to work with us and integrate gain tokens, which attracted a lot of users and builders.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-08
 **Duration:** 40:37
-**Tags:** ecosystem, infrastructure, trading
+**Tags:** ecosystem, tokenomics, infrastructure
 **Source:** https://x.com/i/spaces/1YqKDZlNMOYJV
 
 ## Key moments
 
-- **[4:06]** Introduction to KittenSwap and founders' DeFi background
-- **[5:06]** Why they chose to build an AMM on HyperEVM and lessons from Curve Wars
-- **[7:07]** Concentrated liquidity pools explained and advantages over standard AMMs
-- **[8:37]** Token distribution strategy: 30% airdrop and why decentralization matters
-- **[15:10]** Points program mechanics and how users earn tokens early
-- **[19:15]** Upcoming features: gauges, flight school, and automated liquidity management
-- **[32:54]** Yield strategies: stable coin pools with triple points opportunities
-- **[36:55]** Call to action: follow KittenSwap, join Discord, deposit in pools
+- **[4:36]** Founders introduce themselves and DeFi background
+- **[5:37]** Why KittenSwap chose concentrated liquidity pools over UniV2 AMM
+- **[8:37]** 30% airdrop and points program distribution strategy explained
+- **[9:08]** KittenSwap surpassed HyperSwap TVL despite launching second
+- **[9:38]** MechaCats NFTs as seed round alternative, boosted points multiplier
+- **[17:13]** Dual points with other protocols like HyperFi and Kaiko explained
+- **[32:54]** Best yield strategy: K-USD/USDC pool with triple points
+- **[37:56]** MechaCats holders get 3% of token at TGE plus whitelist access
 
 ## Transcript
 

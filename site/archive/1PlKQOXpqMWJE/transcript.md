@@ -1,23 +1,25 @@
-# Neurovolts: AI-Managed Yield Vaults Launch on Hyperliquid EVM
+# AI agents optimize stablecoin yield 41% above lending markets on Hyperliquid
 
-_Hamza, ex-Polygon DeFi head, discusses newly-launched AI agents optimizing stablecoin yields 30-40% above lending markets with zero leverage risk._
+_Neuro Vaults launched today: deposit USDT, agents rebalance across Hyperlend, Hyperfi, Felix to maximize APY. No leverage, no liquidation risk._
+
+> Yield you cannot go wrong with yield. If it is coming from something like a lending market, you really can't go wrong because there's demand and there's supply.
 
 **Host:** @rekt_gang
 **Date:** 2025-12-04
 **Duration:** 48:40
-**Tags:** vaults, ecosystem, infrastructure
+**Tags:** vaults, trading, ecosystem
 **Source:** https://x.com/i/spaces/1PlKQOXpqMWJE
 
 ## Key moments
 
-- **[3:51]** Space goes live after technical difficulties; Hamza joins
-- **[6:35]** Hamza announces mainnet launch timing coinciding with Hyperliquid event in UAE
-- **[9:36]** Zerk introduces Hamza as ex-Polygon DeFi head, bootstrapped builder in crypto
-- **[12:37]** Discussion of why AI vault strategy chosen over directional trading agents
-- **[19:40]** Deep dive into mechanics: deposits, withdrawals, and underlying yield sources
-- **[26:15]** Explanation of 41% outperformance metric and AI size-aware allocation logic
-- **[34:51]** Roadmap preview: transparency features, new stablecoins (USDH), more yield sources
-- **[46:56]** Closing remarks; Hamza expresses bullishness on Hyperliquid EVM and agents in DeFi
+- **[6:35]** Mainnet launch timing: UAE event + Breakpoint conference same day
+- **[10:36]** Hamza background: Head of DeFi at Polygon, dropped NYU Masters for crypto post-FTX
+- **[13:07]** Why vaults over directional AI trading: agents are probabilistic, not deterministic
+- **[19:40]** User flow: deposit USDT on Neuro Vaults, agents handle allocation, 15-20 min withdrawal window
+- **[26:15]** 41% outperformance: agents optimize for size-adjusted yield across three lending protocols
+- **[32:18]** ERC-7540 share token design enables composability, future borrowing against aiUSDT
+- **[35:52]** Roadmap: transparency dashboard showing AI reasoning, new stablecoins (USDe, USDH), yield expansion
+- **[41:24]** Future factory model: let community build custom vaults with agent infrastructure
 
 ## Transcript
 

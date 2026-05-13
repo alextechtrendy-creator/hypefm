@@ -37,47 +37,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1lDxLzNRyERGm",
-  "summary_title": "CypherCard launches on Hyperliquid: bridging perps to real-world spending",
-  "summary_description": "Cypher's founder discusses on-chain banking, instant card loading from HLP vaults, and Forex fee advantages for global users.",
+  "summary_title": "Cypher Card: Spend your Hyperliquid perps directly on Visa worldwide",
+  "summary_description": "On-chain banking platform launches prepaid Visa cards for HyperLiquid traders—turn perps into coffee in one click, no withdrawal delays.",
   "topic_tags": [
+    "perps",
     "ecosystem",
-    "infrastructure",
-    "community"
+    "execution",
+    "trading"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 137,
-      "label": "Introduction and Hyperliquid integration announcement"
-    },
-    {
-      "timestamp_seconds": 327,
-      "label": "Zerk introduces RecGang and why Cypher was needed on Hyperliquid"
+      "timestamp_seconds": 296,
+      "label": "RecGang becomes first NFT community on Hyperliquid"
     },
     {
       "timestamp_seconds": 357,
-      "label": "Cube explains Cypher's on-chain banking vision and perp-to-card workflow"
+      "label": "Cypher introduces on-chain bank account vision and card product"
     },
     {
-      "timestamp_seconds": 540,
-      "label": "Technical breakdown: simplifying off-ramp from perpetuals to Visa card"
+      "timestamp_seconds": 510,
+      "label": "Live demo: collapsing six-step off-ramp into single-click card load"
     },
     {
-      "timestamp_seconds": 1208,
-      "label": "PBR requests auto-load feature from HLP vault deposits"
+      "timestamp_seconds": 843,
+      "label": "Confirms integration with HyperCore only, not HyperEVM"
     },
     {
-      "timestamp_seconds": 2059,
-      "label": "Roadmap: merchant incentives token, DeFi integrations, co-branded cards"
+      "timestamp_seconds": 1268,
+      "label": "PBR requests HLP vault auto-load feature for cards"
+    },
+    {
+      "timestamp_seconds": 2089,
+      "label": "Cypher token and merchant incentive protocol launching this year"
     },
     {
       "timestamp_seconds": 2481,
-      "label": "Forex education: avoiding predatory POS conversions, on-chain currency solutions"
+      "label": "Identifies predatory 5-8% forex fees at point-of-sale, educates users"
     },
     {
       "timestamp_seconds": 2938,
-      "label": "Metrics and growth strategy: 25-50 signups, focusing on product-market fit"
+      "label": "Currently 25-50 signups; prioritizes product-market fit over launch hype"
     }
   ],
+  "pull_quote": "Collapse all these steps into a single step and make it instant. Click of a button, you can load it to Cypher in a minute max, then go buy coffee with it.",
   "audio_captured": true,
   "audio_duration_seconds": 3448.192,
   "capture_failure_reason": null

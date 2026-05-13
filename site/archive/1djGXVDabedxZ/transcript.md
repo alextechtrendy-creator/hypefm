@@ -1,26 +1,25 @@
-# Dexari: Building the Best Mobile App for Hyperliquid Trading
+# Ex-Binance founders build Hyperliquid's first native mobile app with account abstraction
 
-_Ex-Binance founders launch native iOS/Android app for Hyperliquid with seamless onboarding, account abstraction, and multi-chain support._
+_Dexari launched iOS and Android apps abstracting chain complexity, enabling seamless USDC deposits from Ethereum, Arbitrum, Base, Optimism—and soon Bitcoin and Solana._
+
+> Centralized exchanges are inarguably some of the better user experiences built in crypto so far, and Hyperliquid is the first time I've seen a product that rivals them in performance, liquidity, and user experience.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-01
 **Duration:** 55:48
-**Tags:** infrastructure, execution, ecosystem
+**Tags:** ecosystem, execution, infrastructure
 **Source:** https://x.com/i/spaces/1djGXVDabedxZ
 
 ## Key moments
 
-- **[1:59]** Intro: Space recorded, activation codes coming, brief casual opening
-- **[5:08]** Chuck introduces Dexari co-founders and ex-Binance US background
-- **[8:09]** Discussion of Binance vs Hyperliquid situation, threat to centralized exchanges
-- **[12:43]** Mobile-first vision explained: native iOS/Android app, better UX than PWA
-- **[15:47]** Live product demo: spot trading launched, perps blocked for US, full feature parity
-- **[18:50]** Multi-chain onboarding: USDC from Ethereum, Arbitrum, Optimism, Base with abstracted bridging
-- **[24:53]** Differentiation strategy: centralized exchange UX, native wallet, no dapp browser friction
-- **[29:53]** Android app launch announcement, iOS TestFlight, RektDexari code shared
-- **[35:28]** Future roadmap: vaults, staking, fiat on/off ramps, debit cards, AI analytics
-- **[44:07]** Points program: retroactive points tracking pre-season, tracker coming later
-- **[50:44]** Call to action: download app, join Telegram, provide feedback for rapid iteration
+- **[5:08]** Introducing Dexari: mobile solution filling Hyperliquid gap
+- **[6:08]** Chuck and Zach left Binance US to build decentralized exchange
+- **[8:09]** Ex-Binance perspective on centralized exchanges versus Hyperliquid threat
+- **[13:13]** Native iOS and Android apps launching for frictionless mobile trading
+- **[19:20]** Account abstraction: one USDC balance across all chains
+- **[29:23]** Android app just released; iOS TestFlight live with invite code
+- **[36:28]** Roadmap includes vaults, staking, on-ramps, off-ramps, card integration
+- **[44:38]** Points program announced: all current activity counts retroactively
 
 ## Transcript
 

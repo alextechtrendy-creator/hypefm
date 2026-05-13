@@ -1,23 +1,25 @@
-# Volantis: Building Embedded Liquidity and Yield Strategies on Hyperliquid
+# Valantis' 8% APY strategy: capturing LST arbitrage everyone else misses
 
-_Volantis founders explain their modular yield vaults, LST strategies earning 8% APY, and vision for efficient DeFi on Hyperliquid._
+_How modular yield vaults on Hyperliquid are automating LST depeg arbitrage with minimal leverage or lock-up risk._
+
+> The reason for that is like the pool basically is right now the stake type pool is printing eight percent apy for buying d-pegged stake type and just unstaking it.
 
 **Host:** @rekt_gang
 **Date:** 2025-07-22
 **Duration:** 1:17:31
-**Tags:** vaults, ecosystem, infrastructure
+**Tags:** vaults, trading, ecosystem
 **Source:** https://x.com/i/spaces/1nAKEgaXVXnJL
 
 ## Key moments
 
-- **[5:58]** Zerk introduces Volantis team and Hyperliquid Community Hackathon
-- **[6:28]** Ali and Dev introduce themselves; Volantis launched on Hyperliquid in early 2024
-- **[9:01]** Ali describes Volantis as embedded liquidity and market-making solutions for yield generation
-- **[11:32]** Dev explains modular protocol foundation enabling multiple yield strategies and swaps
-- **[20:36]** Discussion of yield strategies: 8% APY on staking, arbitrage opportunities, leveraged yield loops
-- **[33:43]** Ali and Dev discuss onboarding institutions and retail to Volantis vaults via improved UX
-- **[57:54]** Dev outlines roadmap: Athena pool in months, delta-neutral strategies, tokenized yield products
-- **[1:08:06]** Ali and Dev closing thoughts on Hyperliquid's unique moat as composable perp DEX with EVM
+- **[6:28]** Valantis team introduces themselves and Hyperliquid integration
+- **[9:31]** Ali defines Valantis as embedded liquidity products and market-making solutions
+- **[13:32]** Devon explains modular yield vaults with swap facilitation, not just DEXes
+- **[18:05]** K-Hype pool launch and near 1000 depositors after closed access period
+- **[22:08]** 8% APY on stake depeg arbitrage with zero liquidation risk by design
+- **[26:10]** Arbitrage bot gap: Valantis requires unique integration, low competition
+- **[58:24]** Athena pool launching in months with extended features, targeting highest stable yield
+- **[1:10:39]** Closing: Hyperliquid's perp-EVM composability creates multiplicative zero-to-one effect
 
 ## Transcript
 

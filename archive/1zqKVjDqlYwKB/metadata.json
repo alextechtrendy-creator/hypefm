@@ -31,47 +31,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1zqKVjDqlYwKB",
-  "summary_title": "Hyperland: Building DeFi Infrastructure on Hyperliquid's EVM",
-  "summary_description": "Ness explains how Hyperland brings lending, borrowing, and yield strategies to Hyperliquid EVM with 30M TVL and upcoming token launch.",
+  "summary_title": "Lending hype collateral and looping stablecoins to 50-60% yield on Hyperliquid EVM",
+  "summary_description": "Hyperland launches lending/borrowing on Hyperliquid EVM with plans for portfolio margin, collateralized perps, and yield-bearing strategies.",
   "topic_tags": [
+    "infrastructure",
     "vaults",
-    "ecosystem",
-    "infrastructure"
+    "perps",
+    "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 418,
-      "label": "Zerk introduces Hyperland and Ness, first NFT project on Hyperliquid"
+      "label": "Zerk introduces Hyperland as first NFT project on testnet 2022"
     },
     {
       "timestamp_seconds": 479,
-      "label": "Ness shares his journey: ex-Big Pharma founder, early crypto investor since 2020, Olympus fan"
+      "label": "Ness shares background: March 2020 entry, Olympus participant, held 30% of 4-digit ENS numbers"
     },
     {
-      "timestamp_seconds": 630,
-      "label": "Ness explains Hyperland vision: enabling HLP as collateral for BTC/ETH futures trades"
+      "timestamp_seconds": 599,
+      "label": "Realized EVM opportunity to enable HYPE as collateral for futures trading"
     },
     {
-      "timestamp_seconds": 870,
-      "label": "Hyperland as Aave for Hyperliquid EVM with portfolio margin and cross-asset collateral"
+      "timestamp_seconds": 750,
+      "label": "Chose Hyperliquid for its HLP vault and early adoption mindset"
     },
     {
-      "timestamp_seconds": 1112,
-      "label": "Current products: lending, borrowing HYPE and staked HYPE; 30M TVL cap due to EVM liquidity constraints"
+      "timestamp_seconds": 900,
+      "label": "Long-term vision: portfolio margin on L1, banking infrastructure on EVM"
     },
     {
-      "timestamp_seconds": 1446,
-      "label": "Pre-compiles integration: collateralizing HLP vault, using perps as collateral, yield-bearing strategies"
+      "timestamp_seconds": 1415,
+      "label": "Precompiles enable collateralizing HLP vault, yield-bearing perpetuals"
     },
     {
-      "timestamp_seconds": 2051,
-      "label": "Vault strategies: looping for 50-60% yield on stables, hype LST combinations, points and token staking"
+      "timestamp_seconds": 2081,
+      "label": "Looping HLP 2-3x yields 50-60% APY on stables; potential for BTC/ETH strategies"
     },
     {
-      "timestamp_seconds": 3204,
-      "label": "Call to action: join Discord for cap lifts, play poker/bingo, DMs open for feedback"
+      "timestamp_seconds": 2293,
+      "label": "Points system signals upcoming Hyperland token with governance and revenue share"
     }
   ],
+  "pull_quote": "We're basically the Chase banking infrastructure on the EVM side, allowing Hyperliquid to be your Robinhood.",
   "audio_captured": true,
   "audio_duration_seconds": 3430.912,
   "capture_failure_reason": null

@@ -1,6 +1,8 @@
-# Hyperliquid under fire: how validators, exchanges, and Kinetic reshape the ecosystem
+# How Hyperliquid survived a coordinated exchange attack, and what's next
 
-_Inside yesterday's market attack, why centralized exchanges fear HyperLiquid, and how Kinetic's liquid staking reshapes DeFi primitives._
+_Omnia from Kinetic breaks down yesterday's HLP manipulation attempt, validator coordination, and why decentralized perpetuals terrify centralized exchanges._
+
+> If you were able to trick hyperliquids HLP into a position it shouldn't have been in the first place, you could trigger a liquidation, bank run, and endless FUD to put a huge end to your competition.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-27
@@ -10,16 +12,14 @@ _Inside yesterday's market attack, why centralized exchanges fear HyperLiquid, a
 
 ## Key moments
 
-- **[0:40]** Intro and hosts: Zerk, PBR, and Omnia from Kinetic kick off
-- **[3:11]** Space topic: yesterday's HLP manipulation and coordinated exchange response
-- **[5:41]** Omnia breaks down the attack: how Binance, OKEx, BitGet coordinated to trigger HLP bank run
-- **[9:14]** Decentralization debate: HyperLiquid sits between Bitcoin and centralized exchanges on spectrum
-- **[14:15]** Builder codes threat: how HyperLiquid's open exchange infrastructure threatens CEX cartels
-- **[23:50]** Meme coin infrastructure: spot tokens, AMMs, and why HyperEVM changes the game
-- **[34:56]** Kinetic liquid staking launch: why Omnia built it, validator selection, and StakeHub
-- **[45:33]** PBR endorsement of Kinetic's ethos and validator fairness approach
-- **[53:06]** Day-one KHype integrations: lending, CDPs, AMMs, bridges, and wrapped-by-design LST
-- **[59:11]** Fee structure and incentives: Kinetic's approach to rewards and points
+- **[2:10]** The HLP situation from yesterday clears, community bullish again
+- **[5:11]** Omnia explains: coordination between OKEx, Binance, BitGet to trigger HLP bank run
+- **[6:43]** Validators reached quorum to delist the manipulated asset nanoseconds after Binance listing
+- **[9:14]** Someone accumulated almost one-fifth of jelly supply in four days pre-attack
+- **[10:14]** Decentralization spectrum debate: Hyperliquid versus CEX versus Bitcoin
+- **[14:45]** Builder codes on Hyperliquid threaten exchange business model more than perps alone
+- **[34:56]** Kinetic liquid staking launch: why, how, and native integration strategy
+- **[40:28]** StakeHub: autonomous validator scoring to eliminate kickback deals
 
 ## Transcript
 

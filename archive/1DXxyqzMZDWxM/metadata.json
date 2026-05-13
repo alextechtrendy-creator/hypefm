@@ -31,46 +31,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1DXxyqzMZDWxM",
-  "summary_title": "HyperFlash: Building DeFi Infrastructure and MEV Capture on HyperEVM",
-  "summary_description": "Deep dive into liquid staking tokens and MEV extraction strategies designed specifically for Hyperliquid's unique architecture.",
+  "summary_title": "HyperFlash: MEV-boosted staking and composable perps on HyperEVM",
+  "summary_description": "Yale PhD and MIT engineers launch Flash HYPE LST with 0% commission, MEV rewards, and integration across HyperLiquid's DeFi ecosystem.",
   "topic_tags": [
+    "vaults",
+    "ecosystem",
     "infrastructure",
-    "tokenomics"
+    "governance"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 106,
-      "label": "Space opens with focus on DeFi and LSTs despite market conditions"
-    },
-    {
-      "timestamp_seconds": 344,
-      "label": "Himalaya and Sputnik introduce HyperFlash, their LST and MEV project"
+      "timestamp_seconds": 374,
+      "label": "HyperFlash co-founders introduce MEV and LST thesis"
     },
     {
       "timestamp_seconds": 616,
-      "label": "Explanation of HyperCore versus HyperEVM architecture and composability"
+      "label": "Explaining HyperCore vs HyperEVM: same consensus, different states"
+    },
+    {
+      "timestamp_seconds": 707,
+      "label": "First composable perps: DeFi protocols can hold perp positions directly"
     },
     {
       "timestamp_seconds": 889,
-      "label": "Deep dive into liquid stake tokens and how FlashHYPE works"
+      "label": "LST benefits: liquid staking with borrowing and DeFi composability"
     },
     {
       "timestamp_seconds": 1316,
-      "label": "MEV definition and how arbitrage opportunities work across HyperLiquid markets"
+      "label": "MEV definition: maximal extractable value as arbitrage opportunities"
     },
     {
       "timestamp_seconds": 1652,
-      "label": "HyperFlash's 0% commission model and MEV yield distribution strategy"
+      "label": "HyperFlash differentiator: MEV rewards on top of staking yield"
     },
     {
       "timestamp_seconds": 1989,
-      "label": "Launch timeline: FlashHYPE going live within one to two days"
+      "label": "Launch timeline: live within 24-48 hours with point multipliers"
     },
     {
       "timestamp_seconds": 2080,
-      "label": "Partnerships with major DeFi protocols and incentive structures for early users"
+      "label": "Full DeFi integration: partnerships with HyperLend, LoopType, HyperSwap"
     }
   ],
+  "pull_quote": "We are building this for the long run. We will have 0% commission on LST forever, and take a small cut from MEV to hire the best engineers.",
   "audio_captured": true,
   "audio_duration_seconds": 2628.672,
   "capture_failure_reason": null

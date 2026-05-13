@@ -31,47 +31,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1MYxNwNyRWoKw",
-  "summary_title": "Make money during the bear with Felix: Liquidation rewards and stable yields",
-  "summary_description": "How Felix Protocol's stability pool lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins on Hyperliquid.",
+  "summary_title": "Felix Protocol's stability pool captures liquidation rewards for retail depositors",
+  "summary_description": "A new money market on Hyperliquid lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins into a risk pool.",
   "topic_tags": [
     "vaults",
+    "perps",
     "infrastructure",
     "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 140,
-      "label": "Space opens with discussion of upcoming launch and market activity"
+      "timestamp_seconds": 234,
+      "label": "70% APR yield discussion from liquidations and fees"
     },
     {
       "timestamp_seconds": 387,
-      "label": "Aaron from Felix introduces the protocol and team background in DeFi risk"
+      "label": "Felix Protocol founders introduce DeFi risk management background"
     },
     {
-      "timestamp_seconds": 540,
-      "label": "Felix's vision: secure money markets and CDP stablecoin model for Hyperliquid"
+      "timestamp_seconds": 509,
+      "label": "Why Hyperliquid: innovation over stale chains like Ethereum"
     },
     {
       "timestamp_seconds": 691,
-      "label": "How stability pools work: first rights to liquidations, 5% penalty rewards"
+      "label": "Stability pool innovation: retail gets liquidation rewards, not professional liquidators"
     },
     {
-      "timestamp_seconds": 873,
-      "label": "APY breakdown: 5-6% stable yield plus additional liquidation rewards from fees"
+      "timestamp_seconds": 1054,
+      "label": "How liquidations work: proportional distribution of collateral to pool depositors"
     },
     {
-      "timestamp_seconds": 1417,
-      "label": "Felix launches points program tomorrow; mint cap raising to 5 million FEUSD"
+      "timestamp_seconds": 1749,
+      "label": "Tomorrow's launch: mint cap raises from 2.5M to 5M FEUSD"
     },
     {
-      "timestamp_seconds": 1961,
-      "label": "Future roadmap: Bitcoin support this week, LSTs pending pre-compiles availability"
+      "timestamp_seconds": 1930,
+      "label": "Bitcoin launches this week; LSTs pending precompile functionality on mainnet"
     },
     {
-      "timestamp_seconds": 2506,
-      "label": "Vision for structured products and expanding Hyperliquid's user base beyond DeFi natives"
+      "timestamp_seconds": 2899,
+      "label": "Points campaign launching tomorrow; token timeline uncertain pending regulatory clarity"
     }
   ],
+  "pull_quote": "Stability pool depositors get the first right to buy liquidated collateral and keep the 5% penalty, which is value capture we don't see in traditional money markets like Aave.",
   "audio_captured": true,
   "audio_duration_seconds": 3619.2,
   "capture_failure_reason": null

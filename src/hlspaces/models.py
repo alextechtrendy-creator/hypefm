@@ -32,6 +32,7 @@ class SpaceMetadata(BaseModel):
     summary_description: Optional[str] = None
     topic_tags: list[str] = Field(default_factory=list)
     key_moments: list[dict] = Field(default_factory=list)
+    pull_quote: Optional[str] = None
 
     # Capture status
     audio_captured: bool = False

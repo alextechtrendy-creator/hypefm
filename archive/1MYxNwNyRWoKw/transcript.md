@@ -1,23 +1,25 @@
-# Make money during the bear with Felix: Liquidation rewards and stable yields
+# Felix Protocol's stability pool captures liquidation rewards for retail depositors
 
-_How Felix Protocol's stability pool lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins on Hyperliquid._
+_A new money market on Hyperliquid lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins into a risk pool._
+
+> Stability pool depositors get the first right to buy liquidated collateral and keep the 5% penalty, which is value capture we don't see in traditional money markets like Aave.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-07
 **Duration:** 1:00:19
-**Tags:** vaults, infrastructure, ecosystem
+**Tags:** vaults, perps, infrastructure, ecosystem
 **Source:** https://x.com/i/spaces/1MYxNwNyRWoKw
 
 ## Key moments
 
-- **[2:20]** Space opens with discussion of upcoming launch and market activity
-- **[6:27]** Aaron from Felix introduces the protocol and team background in DeFi risk
-- **[9:00]** Felix's vision: secure money markets and CDP stablecoin model for Hyperliquid
-- **[11:31]** How stability pools work: first rights to liquidations, 5% penalty rewards
-- **[14:33]** APY breakdown: 5-6% stable yield plus additional liquidation rewards from fees
-- **[23:37]** Felix launches points program tomorrow; mint cap raising to 5 million FEUSD
-- **[32:41]** Future roadmap: Bitcoin support this week, LSTs pending pre-compiles availability
-- **[41:46]** Vision for structured products and expanding Hyperliquid's user base beyond DeFi natives
+- **[3:54]** 70% APR yield discussion from liquidations and fees
+- **[6:27]** Felix Protocol founders introduce DeFi risk management background
+- **[8:29]** Why Hyperliquid: innovation over stale chains like Ethereum
+- **[11:31]** Stability pool innovation: retail gets liquidation rewards, not professional liquidators
+- **[17:34]** How liquidations work: proportional distribution of collateral to pool depositors
+- **[29:09]** Tomorrow's launch: mint cap raises from 2.5M to 5M FEUSD
+- **[32:10]** Bitcoin launches this week; LSTs pending precompile functionality on mainnet
+- **[48:19]** Points campaign launching tomorrow; token timeline uncertain pending regulatory clarity
 
 ## Transcript
 

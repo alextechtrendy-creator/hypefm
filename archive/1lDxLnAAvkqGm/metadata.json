@@ -49,47 +49,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1lDxLnAAvkqGm",
-  "summary_title": "Hyperliquid's First Integration: Squid Cross-Chain Swaps and Vault Strategies",
-  "summary_description": "How Hyperliquid partnered with Squid to onboard users from any blockchain, plus new vaults, API trading, and referral programs.",
+  "summary_title": "Hyperliquid's liquidator vault: 11% monthly returns on other traders' losses",
+  "summary_description": "Jeff reveals how Hyperliquid's vaults let you profit passively when traders get liquidated—with real 10-11% monthly yields so far.",
   "topic_tags": [
-    "perps",
-    "infrastructure",
-    "ecosystem"
+    "vaults",
+    "trading",
+    "perps"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 332,
-      "label": "Introductions: Jeff (Hyperliquid), Fig (Squid), Zuli (builder ecosystem)"
+      "timestamp_seconds": 363,
+      "label": "Zuli introduces Hyperliquid integration work since December"
     },
     {
       "timestamp_seconds": 545,
-      "label": "Why Hyperliquid built its own L1 and chose Squid for first integration"
+      "label": "Jeff explains why Hyperliquid built its own L1 instead of using Arbitrum"
     },
     {
-      "timestamp_seconds": 667,
-      "label": "Fig explains Squid's cross-chain vision using Axelar infrastructure"
-    },
-    {
-      "timestamp_seconds": 1303,
-      "label": "One-click UX flows and roadmap for fiat on-ramps via Kato"
+      "timestamp_seconds": 606,
+      "label": "Squid integration announced as first collaboration, enabling cross-chain deposits"
     },
     {
       "timestamp_seconds": 1635,
-      "label": "Hyperliquid referral program, vaults rebrand, and liquidator pool showcase"
+      "label": "Referral program launch with weekly USDC rewards, limited invites per week"
+    },
+    {
+      "timestamp_seconds": 1817,
+      "label": "Vaults rebranded, combining Uniswap pools, Yearn, and copy trading features"
     },
     {
       "timestamp_seconds": 1908,
-      "label": "API trading launch with Python SDK examples for quant traders"
+      "label": "API trading goes live with Python SDK examples for quant strategies"
     },
     {
-      "timestamp_seconds": 2788,
-      "label": "Regulatory approach: decentralized protocol with compliant front-end portal"
+      "timestamp_seconds": 2090,
+      "label": "Liquidator vault explained: passive income from liquidations, 11% APY currently"
     },
     {
-      "timestamp_seconds": 3032,
-      "label": "Future roadmap: 20-second cross-chain swaps, Cosmos integration, design refresh"
+      "timestamp_seconds": 3305,
+      "label": "Roadmap focus: onboarding users and brand redesign over new features"
     }
   ],
+  "pull_quote": "You only need people to get liquidated to profit from it. 11% for something very low risk, I think, is amazing.",
   "audio_captured": true,
   "audio_duration_seconds": 4450.88,
   "capture_failure_reason": null

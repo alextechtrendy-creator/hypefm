@@ -37,47 +37,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1YqKDZarRXBJV",
-  "summary_title": "Building Mobile-First Trading on Hyperliquid with Nest Wallet",
-  "summary_description": "Nest Wallet launches Hyperliquid perps on mobile with seamless UX, farming points, and roadmap for spot, staking, and HyperEVM integration.",
+  "summary_title": "Mobile perps trading on Hyperliquid: faster than telegram bots, fully decentralized",
+  "summary_description": "Nest Wallet launches Hyperliquid L1 perps on mobile with native key custody, MEV protection, and zero speed compromise versus centralized bots.",
   "topic_tags": [
     "perps",
     "infrastructure",
+    "trading",
     "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 96,
-      "label": "Introductions and setup for Nest Wallet discussion"
+      "timestamp_seconds": 250,
+      "label": "Team background: ex-BitGo custodians building for mobile"
     },
     {
-      "timestamp_seconds": 220,
-      "label": "Hosts discuss funding rates farming strategy on Hyperliquid"
-    },
-    {
-      "timestamp_seconds": 402,
-      "label": "Nest Wallet team background from BitCo and DeFi wallet building"
+      "timestamp_seconds": 462,
+      "label": "Gap in market: no solid mobile perps experience exists yet"
     },
     {
       "timestamp_seconds": 492,
-      "label": "Soft launch of Hyperliquid perps on Nest Wallet announced"
+      "label": "Soft-launched Hyperliquid perps hours ago; official Monday"
     },
     {
-      "timestamp_seconds": 914,
-      "label": "Feature requests including HYPE staking and spot trading for mobile"
+      "timestamp_seconds": 703,
+      "label": "Speed comparison: mobile app faster than Solana telegram bots"
+    },
+    {
+      "timestamp_seconds": 944,
+      "label": "Roadmap: spot trading and staking coming within weeks"
     },
     {
       "timestamp_seconds": 1095,
-      "label": "HyperEVM integration planned within two weeks pending demand"
+      "label": "Hyperliquid EVM support planned for two weeks after L1 launch"
+    },
+    {
+      "timestamp_seconds": 1524,
+      "label": "Points system live now; potential airdrop if adoption scales"
     },
     {
       "timestamp_seconds": 1765,
-      "label": "Future roadmap: one-click bridging, meme coin trackers, NFT support"
-    },
-    {
-      "timestamp_seconds": 2284,
-      "label": "Call to action: test app, give feedback, share feature ideas via DMs"
+      "label": "One-button bridge from Solana to Hyperliquid in development"
     }
   ],
+  "pull_quote": "You get the security profile of metamask and phantom but why do we have to settle for subpar features? Let's just build something we'd actually use.",
   "audio_captured": true,
   "audio_duration_seconds": 2440.8746875,
   "capture_failure_reason": null

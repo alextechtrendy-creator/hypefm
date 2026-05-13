@@ -37,8 +37,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1OwGWeEPVzZxQ",
-  "summary_title": "Pair Protocol's 45% Win Rate Strategy: Pair Trading on Hyperliquid",
-  "summary_description": "How pair trading delivers 2.25x better odds than directional trading, with live vaults and LLM tools launching soon.",
+  "summary_title": "45% win rate pair trading beats directional traders on Hyperliquid",
+  "summary_description": "Pair Protocol's basket trading achieves 45% profitable users versus 20% on standard perpetual exchanges.",
   "topic_tags": [
     "perps",
     "trading",
@@ -47,37 +47,38 @@
   "key_moments": [
     {
       "timestamp_seconds": 311,
-      "label": "Introduction to Pair Protocol and the team from Montreal"
+      "label": "Intro to Pair Protocol and pair trading concept"
     },
     {
-      "timestamp_seconds": 431,
-      "label": "Huff explains pair trading concept and why it's superior to directional trades"
+      "timestamp_seconds": 462,
+      "label": "Long-short strategy outperforms directional trading"
     },
     {
       "timestamp_seconds": 583,
-      "label": "45% user win rate revealed: multiples higher than directional trading platforms"
+      "label": "45% user win rate announced, five times higher than competitors"
     },
     {
-      "timestamp_seconds": 854,
-      "label": "Technical deep dive: how Pair tokenizes basket trades and manages risk on-chain"
+      "timestamp_seconds": 763,
+      "label": "Basket feature innovation allows multi-asset long and short positions"
     },
     {
-      "timestamp_seconds": 1036,
-      "label": "October 10 event case study: how pair traders survived liquidation cascade"
+      "timestamp_seconds": 1005,
+      "label": "October 10th liquidation event: Pair survived while others failed"
     },
     {
-      "timestamp_seconds": 1428,
-      "label": "LLM agent and vault launches: automation and passive pair trading coming next week"
+      "timestamp_seconds": 1398,
+      "label": "LLM agent coming next week to suggest shorts based on statistics"
     },
     {
-      "timestamp_seconds": 1763,
-      "label": "Incentive program: 6K Hype tokens distributed weekly to active pair traders"
+      "timestamp_seconds": 1669,
+      "label": "Pair vaults launching on Hyperliquid EVM for automated trading"
     },
     {
-      "timestamp_seconds": 2245,
-      "label": "Future vision: API integrations, vaults, and omnipresent pair trading across crypto platforms"
+      "timestamp_seconds": 1823,
+      "label": "Points program distributing up to 6K Hype tokens weekly"
     }
   ],
+  "pull_quote": "If this basket falls 2%, knock me out of the trade. If it goes up 5%, take profit. You no longer need to manually manage individual legs.",
   "audio_captured": true,
   "audio_duration_seconds": 3147.7546875,
   "capture_failure_reason": null

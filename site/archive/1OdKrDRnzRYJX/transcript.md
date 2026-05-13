@@ -1,23 +1,25 @@
-# TopDog: Building a multiplayer trading terminal on Hyperliquid
+# TopDog's multiplayer trading footprints: Copy smarter traders without blindly following them
 
-_Tyron explains how TopDog turns copy trading into social signal discovery, with guilds, cashback rewards, and plans for meme coin trenching._
+_Telegram mini-app showing real-time whale positions on Hyperliquid perps, designed for casual degen traders who want signals, not analytics._
+
+> Blindly copy-trading just doesn't work. We figured out you need the signal of successful wallets but still proactively make your own decisions, not sink your balance.
 
 **Host:** @rekt_gang
 **Date:** 2025-06-10
 **Duration:** 55:01
-**Tags:** trading, ecosystem, community
+**Tags:** trading, ecosystem, execution
 **Source:** https://x.com/i/spaces/1OdKrDRnzRYJX
 
 ## Key moments
 
-- **[5:45]** Celebrating Hyperliquid all-time high and introducing the builder
-- **[7:16]** Origin story: from failed copy trading to wallet footprint signals
-- **[11:49]** TopDog product explained: multiplayer real-time trading app with whale footprints
-- **[14:51]** Why Telegram mini-app: zero friction onboarding, one-click access, simple UX
-- **[22:55]** Revenue model via builder code and cashback rewards from trading volume
-- **[24:26]** Guild wars launch next week with respect points program and competitive leaderboards
-- **[27:58]** Future roadmap: desktop pro version and trenching mode for Hyper EVM meme coins
-- **[48:06]** Public beta rollout within a month after guild evaluation period
+- **[6:46]** Why TopDog was built: Copy-trading consistently sank their balance
+- **[9:18]** Solution: Real-time footprints on chart, not blind copying
+- **[11:19]** Multiplayer first design distinguishes TopDog from other terminals
+- **[14:51]** No wallet connection needed—Telegram single-click onboarding
+- **[24:26]** Guild wars and respect points launching next week
+- **[27:58]** Trench mode for HyperEVM meme coins coming within a month
+- **[35:30]** Revenue model: 0.02% builder fee on top of Hyperliquid fees
+- **[42:33]** Vision: Desktop pro version for serious multiplayer terminal
 
 ## Transcript
 

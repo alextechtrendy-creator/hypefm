@@ -25,47 +25,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1OdKrDRnzRYJX",
-  "summary_title": "TopDog: Building a multiplayer trading terminal on Hyperliquid",
-  "summary_description": "Tyron explains how TopDog turns copy trading into social signal discovery, with guilds, cashback rewards, and plans for meme coin trenching.",
+  "summary_title": "TopDog's multiplayer trading footprints: Copy smarter traders without blindly following them",
+  "summary_description": "Telegram mini-app showing real-time whale positions on Hyperliquid perps, designed for casual degen traders who want signals, not analytics.",
   "topic_tags": [
     "trading",
     "ecosystem",
-    "community"
+    "execution"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 345,
-      "label": "Celebrating Hyperliquid all-time high and introducing the builder"
+      "timestamp_seconds": 406,
+      "label": "Why TopDog was built: Copy-trading consistently sank their balance"
     },
     {
-      "timestamp_seconds": 436,
-      "label": "Origin story: from failed copy trading to wallet footprint signals"
+      "timestamp_seconds": 558,
+      "label": "Solution: Real-time footprints on chart, not blind copying"
     },
     {
-      "timestamp_seconds": 709,
-      "label": "TopDog product explained: multiplayer real-time trading app with whale footprints"
+      "timestamp_seconds": 679,
+      "label": "Multiplayer first design distinguishes TopDog from other terminals"
     },
     {
       "timestamp_seconds": 891,
-      "label": "Why Telegram mini-app: zero friction onboarding, one-click access, simple UX"
-    },
-    {
-      "timestamp_seconds": 1375,
-      "label": "Revenue model via builder code and cashback rewards from trading volume"
+      "label": "No wallet connection needed—Telegram single-click onboarding"
     },
     {
       "timestamp_seconds": 1466,
-      "label": "Guild wars launch next week with respect points program and competitive leaderboards"
+      "label": "Guild wars and respect points launching next week"
     },
     {
       "timestamp_seconds": 1678,
-      "label": "Future roadmap: desktop pro version and trenching mode for Hyper EVM meme coins"
+      "label": "Trench mode for HyperEVM meme coins coming within a month"
     },
     {
-      "timestamp_seconds": 2886,
-      "label": "Public beta rollout within a month after guild evaluation period"
+      "timestamp_seconds": 2130,
+      "label": "Revenue model: 0.02% builder fee on top of Hyperliquid fees"
+    },
+    {
+      "timestamp_seconds": 2553,
+      "label": "Vision: Desktop pro version for serious multiplayer terminal"
     }
   ],
+  "pull_quote": "Blindly copy-trading just doesn't work. We figured out you need the signal of successful wallets but still proactively make your own decisions, not sink your balance.",
   "audio_captured": true,
   "audio_duration_seconds": 3301.184,
   "capture_failure_reason": null

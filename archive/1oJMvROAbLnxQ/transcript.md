@@ -1,23 +1,25 @@
-# Paragon launches Bitcoin dominance and crypto indices on Hyperliquid
+# Bitcoin dominance finally tradeable: Paragon launches three crypto indices on Hyperliquid
 
-_Founder Taha explains how Paragon makes previously untradeable Bitcoin dominance and market indices actionable through HIP3 perpetual futures._
+_Paragon deploys BTC.D, Total2, and Others as actionable perpetuals—turning decade-old analyst charts into hedgeable instruments._
+
+> These things are actually some of the most charted, widely tracked tickers in crypto—30 or 40% as many mentions as Bitcoin itself—yet remain completely analytical and non-actionable.
 
 **Host:** @rekt_gang
 **Date:** 2026-04-03
 **Duration:** 1:00:09
-**Tags:** perps, listings, infrastructure
+**Tags:** perps, listings, execution, ecosystem
 **Source:** https://x.com/i/spaces/1oJMvROAbLnxQ
 
 ## Key moments
 
-- **[4:26]** Introduction to Paragon, a new HIP3 deployer on Hyperliquid
-- **[5:26]** Taha's background from tradfi to DeFi to product-focused building
-- **[11:59]** Concept behind Paragon: making Bitcoin dominance and indices tradeable
-- **[15:31]** Why Bitcoin dominance hasn't been tradeable before despite being widely charted
-- **[23:08]** Three live tickers: BTCD (Bitcoin dominance), Total2, and Others index
-- **[30:46]** Data tables showing indices stability during market crashes versus single assets
-- **[40:53]** Future pipeline and stablecoin dominance; community suggestions for new assets
-- **[51:25]** How to access Paragon: TradFi campaign, multiple frontends, and community channels
+- **[4:26]** Paragon introduced as new HIP3 deployer, deployed 12 hours prior
+- **[5:26]** Taha's background: tradfi structured finance to crypto builder since 2013
+- **[12:59]** Bitcoin dominance found to be charted 30-40% as much as BTC itself
+- **[14:00]** HIP3 infrastructure unlock enables focused asset creation without rebuilding UX
+- **[17:32]** Perps superior to spot for bootstrapping two-sided markets and new indices
+- **[23:38]** Three live tickers: BTC.D, Total2, Others—125-name basket design explained
+- **[30:46]** Table demonstrations show Bitcoin dominance sub-2% moves vs Bitcoin's 13% gap down
+- **[43:23]** Paragon fronted 500K HLP themselves, no token staking from community at launch
 
 ## Transcript
 

@@ -1,23 +1,25 @@
-# HyperFlash: Building DeFi Infrastructure and MEV Capture on HyperEVM
+# HyperFlash: MEV-boosted staking and composable perps on HyperEVM
 
-_Deep dive into liquid staking tokens and MEV extraction strategies designed specifically for Hyperliquid's unique architecture._
+_Yale PhD and MIT engineers launch Flash HYPE LST with 0% commission, MEV rewards, and integration across HyperLiquid's DeFi ecosystem._
+
+> We are building this for the long run. We will have 0% commission on LST forever, and take a small cut from MEV to hire the best engineers.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-13
 **Duration:** 43:48
-**Tags:** infrastructure, tokenomics
+**Tags:** vaults, ecosystem, infrastructure, governance
 **Source:** https://x.com/i/spaces/1DXxyqzMZDWxM
 
 ## Key moments
 
-- **[1:46]** Space opens with focus on DeFi and LSTs despite market conditions
-- **[5:44]** Himalaya and Sputnik introduce HyperFlash, their LST and MEV project
-- **[10:16]** Explanation of HyperCore versus HyperEVM architecture and composability
-- **[14:49]** Deep dive into liquid stake tokens and how FlashHYPE works
-- **[21:56]** MEV definition and how arbitrage opportunities work across HyperLiquid markets
-- **[27:32]** HyperFlash's 0% commission model and MEV yield distribution strategy
-- **[33:09]** Launch timeline: FlashHYPE going live within one to two days
-- **[34:40]** Partnerships with major DeFi protocols and incentive structures for early users
+- **[6:14]** HyperFlash co-founders introduce MEV and LST thesis
+- **[10:16]** Explaining HyperCore vs HyperEVM: same consensus, different states
+- **[11:47]** First composable perps: DeFi protocols can hold perp positions directly
+- **[14:49]** LST benefits: liquid staking with borrowing and DeFi composability
+- **[21:56]** MEV definition: maximal extractable value as arbitrage opportunities
+- **[27:32]** HyperFlash differentiator: MEV rewards on top of staking yield
+- **[33:09]** Launch timeline: live within 24-48 hours with point multipliers
+- **[34:40]** Full DeFi integration: partnerships with HyperLend, LoopType, HyperSwap
 
 ## Transcript
 

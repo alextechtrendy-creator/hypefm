@@ -1,23 +1,25 @@
-# Hyperland: Building DeFi Infrastructure on Hyperliquid's EVM
+# Lending hype collateral and looping stablecoins to 50-60% yield on Hyperliquid EVM
 
-_Ness explains how Hyperland brings lending, borrowing, and yield strategies to Hyperliquid EVM with 30M TVL and upcoming token launch._
+_Hyperland launches lending/borrowing on Hyperliquid EVM with plans for portfolio margin, collateralized perps, and yield-bearing strategies._
+
+> We're basically the Chase banking infrastructure on the EVM side, allowing Hyperliquid to be your Robinhood.
 
 **Host:** @rekt_gang
 **Date:** 2025-04-03
 **Duration:** 57:10
-**Tags:** vaults, ecosystem, infrastructure
+**Tags:** infrastructure, vaults, perps, ecosystem
 **Source:** https://x.com/i/spaces/1zqKVjDqlYwKB
 
 ## Key moments
 
-- **[6:58]** Zerk introduces Hyperland and Ness, first NFT project on Hyperliquid
-- **[7:59]** Ness shares his journey: ex-Big Pharma founder, early crypto investor since 2020, Olympus fan
-- **[10:30]** Ness explains Hyperland vision: enabling HLP as collateral for BTC/ETH futures trades
-- **[14:30]** Hyperland as Aave for Hyperliquid EVM with portfolio margin and cross-asset collateral
-- **[18:32]** Current products: lending, borrowing HYPE and staked HYPE; 30M TVL cap due to EVM liquidity constraints
-- **[24:06]** Pre-compiles integration: collateralizing HLP vault, using perps as collateral, yield-bearing strategies
-- **[34:11]** Vault strategies: looping for 50-60% yield on stables, hype LST combinations, points and token staking
-- **[53:24]** Call to action: join Discord for cap lifts, play poker/bingo, DMs open for feedback
+- **[6:58]** Zerk introduces Hyperland as first NFT project on testnet 2022
+- **[7:59]** Ness shares background: March 2020 entry, Olympus participant, held 30% of 4-digit ENS numbers
+- **[9:59]** Realized EVM opportunity to enable HYPE as collateral for futures trading
+- **[12:30]** Chose Hyperliquid for its HLP vault and early adoption mindset
+- **[15:00]** Long-term vision: portfolio margin on L1, banking infrastructure on EVM
+- **[23:35]** Precompiles enable collateralizing HLP vault, yield-bearing perpetuals
+- **[34:41]** Looping HLP 2-3x yields 50-60% APY on stables; potential for BTC/ETH strategies
+- **[38:13]** Points system signals upcoming Hyperland token with governance and revenue share
 
 ## Transcript
 

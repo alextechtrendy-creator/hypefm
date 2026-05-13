@@ -37,47 +37,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1nAKEgaXVXnJL",
-  "summary_title": "Volantis: Building Embedded Liquidity and Yield Strategies on Hyperliquid",
-  "summary_description": "Volantis founders explain their modular yield vaults, LST strategies earning 8% APY, and vision for efficient DeFi on Hyperliquid.",
+  "summary_title": "Valantis' 8% APY strategy: capturing LST arbitrage everyone else misses",
+  "summary_description": "How modular yield vaults on Hyperliquid are automating LST depeg arbitrage with minimal leverage or lock-up risk.",
   "topic_tags": [
     "vaults",
-    "ecosystem",
-    "infrastructure"
+    "trading",
+    "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 358,
-      "label": "Zerk introduces Volantis team and Hyperliquid Community Hackathon"
-    },
-    {
       "timestamp_seconds": 388,
-      "label": "Ali and Dev introduce themselves; Volantis launched on Hyperliquid in early 2024"
+      "label": "Valantis team introduces themselves and Hyperliquid integration"
     },
     {
-      "timestamp_seconds": 541,
-      "label": "Ali describes Volantis as embedded liquidity and market-making solutions for yield generation"
+      "timestamp_seconds": 571,
+      "label": "Ali defines Valantis as embedded liquidity products and market-making solutions"
     },
     {
-      "timestamp_seconds": 692,
-      "label": "Dev explains modular protocol foundation enabling multiple yield strategies and swaps"
+      "timestamp_seconds": 812,
+      "label": "Devon explains modular yield vaults with swap facilitation, not just DEXes"
     },
     {
-      "timestamp_seconds": 1236,
-      "label": "Discussion of yield strategies: 8% APY on staking, arbitrage opportunities, leveraged yield loops"
+      "timestamp_seconds": 1085,
+      "label": "K-Hype pool launch and near 1000 depositors after closed access period"
     },
     {
-      "timestamp_seconds": 2023,
-      "label": "Ali and Dev discuss onboarding institutions and retail to Volantis vaults via improved UX"
+      "timestamp_seconds": 1328,
+      "label": "8% APY on stake depeg arbitrage with zero liquidation risk by design"
     },
     {
-      "timestamp_seconds": 3474,
-      "label": "Dev outlines roadmap: Athena pool in months, delta-neutral strategies, tokenized yield products"
+      "timestamp_seconds": 1570,
+      "label": "Arbitrage bot gap: Valantis requires unique integration, low competition"
     },
     {
-      "timestamp_seconds": 4086,
-      "label": "Ali and Dev closing thoughts on Hyperliquid's unique moat as composable perp DEX with EVM"
+      "timestamp_seconds": 3504,
+      "label": "Athena pool launching in months with extended features, targeting highest stable yield"
+    },
+    {
+      "timestamp_seconds": 4239,
+      "label": "Closing: Hyperliquid's perp-EVM composability creates multiplicative zero-to-one effect"
     }
   ],
+  "pull_quote": "The reason for that is like the pool basically is right now the stake type pool is printing eight percent apy for buying d-pegged stake type and just unstaking it.",
   "audio_captured": true,
   "audio_duration_seconds": 4651.3066875,
   "capture_failure_reason": null

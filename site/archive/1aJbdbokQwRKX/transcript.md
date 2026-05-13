@@ -1,23 +1,25 @@
-# Liquid Banking and the HyperBeat Super App: Non-Custodial Finance
+# Trade, spend, borrow against Bitcoin—all from one non-custodial account
 
-_800 from HyperBeat explains how to trade, spend, and borrow against crypto assets in one account without giving up custody._
+_HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit, trade perps, and access 8+ currencies without trusting anyone._
+
+> Rich people don't sell their assets, they just borrow against them—now easily accessible to normal people for the first time.
 
 **Host:** @rekt_gang
 **Date:** 2026-03-16
 **Duration:** 1:02:40
-**Tags:** ecosystem, infrastructure, trading
+**Tags:** ecosystem, trading, infrastructure
 **Source:** https://x.com/i/spaces/1aJbdbokQwRKX
 
 ## Key moments
 
-- **[3:54]** Introduction to 800 and HyperBeat co-founder background
-- **[6:57]** Origins of HyperBeat: from testnet validators to liquid banking focus
-- **[7:58]** What is liquid banking: unified account for trading, spending, credit entirely non-custodial
-- **[12:00]** On-ramp and off-ramp problem: why HyperBeat built multi-currency solutions
-- **[15:32]** Product walkthrough: signup, smart accounts, spending on credit, sweep-to-card feature
-- **[23:40]** Multiple currency support and forex fees: HyperBeat's low-cost approach
-- **[35:16]** Incentives: HLP cashback and treasury-yield-based referral programs
-- **[48:23]** HIP3, HIP4, and future: spot assets, prediction markets, and ecosystem growth
+- **[6:57]** HyperBeat origin: early traders who lost money, then built vaults
+- **[7:58]** Liquid banking defined: unified account for trading, spending, credit—all non-custodial
+- **[9:59]** The problem: traders forced to withdraw to Arbitrum, then to CEX to spend
+- **[13:31]** New users from Turkey, Singapore, Vietnam discovering HyperLiquid via liquid banking onramps
+- **[18:33]** Wealth preservation: hold HyperLiquid, borrow against it—rich people don't sell assets
+- **[26:41]** Fees: 0.12% onramp/offramp for USD/EUR, up to 0.4% for other currencies
+- **[37:47]** Referral incentives: 25% of treasury yield from friends' deposits—scalable, not points
+- **[55:57]** Native Bitcoin deposits permissionless via Unit; spend on credit without knowing HyperVM
 
 ## Transcript
 

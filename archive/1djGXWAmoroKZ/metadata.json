@@ -43,47 +43,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1djGXWAmoroKZ",
-  "summary_title": "HyperLiquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons",
-  "summary_description": "Deep dive into HyperBeat-Kinetic dispute, why HyperEVM stalled, and what Cosmos taught us about tokenomics.",
+  "summary_title": "Hyperliquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons",
+  "summary_description": "Trading exotic perpetuals from SpaceX to pre-IPO stocks, plus drama around HyperBeat and Kinetic points allocation.",
   "topic_tags": [
     "perps",
     "ecosystem",
-    "governance"
+    "governance",
+    "vaults"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 99,
-      "label": "Opening: market chaos and profit-taking lessons from Cosmos collapse"
-    },
-    {
       "timestamp_seconds": 220,
-      "label": "SpaceX pre-IPO stock trading on HyperLiquid; early user enthusiasm"
+      "label": "Trading pre-IPO stocks like SpaceX on Hyperliquid with unrealized gains"
     },
     {
       "timestamp_seconds": 373,
-      "label": "HyperBeat VLP closure and why mechanics didn't work for participants"
+      "label": "HyperBeat drama: teams promoted points that never materialized"
     },
     {
-      "timestamp_seconds": 433,
-      "label": "Kinetic-HyperBeat drama: promised K-HYPE tokens never materialized"
+      "timestamp_seconds": 586,
+      "label": "Cosmos ecosystem collapse: Drop protocol shut down farming after a year"
     },
     {
       "timestamp_seconds": 676,
-      "label": "HyperEVM expectations failed; copy-paste chains don't drive adoption"
-    },
-    {
-      "timestamp_seconds": 797,
-      "label": "Lending protocol returning to HyperLiquid core instead of EVM"
+      "label": "Hyper EVM adoption struggles despite first-mover advantage"
     },
     {
       "timestamp_seconds": 1191,
-      "label": "HIP3 stocks: high funding rates block long-term positions despite 10x upside"
+      "label": "HIP3 markets and stock perpetuals funded by Hyperliquid buybacks"
     },
     {
-      "timestamp_seconds": 2591,
-      "label": "Stargaze governance fight and survival strategy beyond Cosmos Hub acquisition"
+      "timestamp_seconds": 3138,
+      "label": "Tiny Hypercats NFT collection doing well despite market downturn"
+    },
+    {
+      "timestamp_seconds": 3682,
+      "label": "Banker trading engine API rollout coming for advanced trading features"
+    },
+    {
+      "timestamp_seconds": 4170,
+      "label": "USDH liquid stake derivative TVL growing toward 28 million"
     }
   ],
+  "pull_quote": "If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core.",
   "audio_captured": true,
   "audio_duration_seconds": 4620.672,
   "capture_failure_reason": null

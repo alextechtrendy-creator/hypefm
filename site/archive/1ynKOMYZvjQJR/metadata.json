@@ -25,43 +25,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1ynKOMYZvjQJR",
-  "summary_title": "Volantis: Building the Complete Hype Staking Solution on Hyperliquid",
-  "summary_description": "How Volantis is capturing hype's full utility through liquid staking, the Athena partnership, and institutional-grade infrastructure.",
+  "summary_title": "Stake Type's multi-account design unlocks HIP-3 markets, faster withdrawals, and institutional staking",
+  "summary_description": "Valantis' Ollie explains how ST Hype captured staking yield that no other LST can, and why Athena partnership changes everything.",
   "topic_tags": [
-    "HLP",
-    "perps",
-    "ecosystem"
+    "vaults",
+    "tokenomics",
+    "ecosystem",
+    "market-making"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 61,
-      "label": "Introductions: Zerk, hosts and Ollie from Volantis growth team"
+      "timestamp_seconds": 128,
+      "label": "AI-generated Valantis anthem surprises the space"
     },
     {
       "timestamp_seconds": 551,
-      "label": "Volantis thesis: liquid staking and hype utility capture on Hyperliquid"
+      "label": "Valantis pivoted to Hyperliquid because it's the only chain with proven DeFi product-market fit"
     },
     {
       "timestamp_seconds": 793,
-      "label": "Why Volantis launched points now: products finally ready to scale billions in TVL"
+      "label": "ST Hype points launch was intentionally delayed nine months until product could scale billions"
     },
     {
-      "timestamp_seconds": 1066,
-      "label": "StakeType multi-account architecture enables market-making discounts and institutional strategies"
+      "timestamp_seconds": 1035,
+      "label": "Hype utilities: 500K for hip-3, 200K for quote assets, 1M for limit orders, 400K for max market-making discounts"
     },
     {
-      "timestamp_seconds": 1490,
-      "label": "Athena partnership: USD yield flowing back to ST hype holders, custom quote assets avoid slashing"
+      "timestamp_seconds": 1703,
+      "label": "Multi-account architecture lets ST Hype offer faster withdrawals and partner yields that single-account LSTs can't"
     },
     {
-      "timestamp_seconds": 2642,
-      "label": "Community participation: looping strategies, Pendle integrations, points farming mechanics"
+      "timestamp_seconds": 1915,
+      "label": "Athena partnership brings 12% APY on USDE, contractual 20K hype/year to ST Hype holders"
     },
     {
-      "timestamp_seconds": 3369,
-      "label": "Hype valuation thesis: undervalued vs peers, potential top-5 asset, long-term flipping Ethereum"
+      "timestamp_seconds": 2763,
+      "label": "Looping ST Hype 4-5x via Hyperland borrow is highest-yield points farming strategy"
+    },
+    {
+      "timestamp_seconds": 3399,
+      "label": "Hype trades like fundamental asset, could flip Ethereum if economic maturity trend continues"
     }
   ],
+  "pull_quote": "Points are just a megaphone on what you're already doing. If the fire itself has no substance, they won't get you anywhere.",
   "audio_captured": true,
   "audio_duration_seconds": 3679.296,
   "capture_failure_reason": null

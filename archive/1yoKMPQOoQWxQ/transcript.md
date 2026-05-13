@@ -1,23 +1,25 @@
-# Sky's decentralized stablecoin vision for Hyperliquid governance and infrastructure
+# Decentralized stablecoins beat centralized custodians—Sky's 4.85% yield on Hyperliquid
 
-_Rune breaks down Sky's USDH proposal, governance framework, and how decentralized collateral strategies outperform centralized stablecoins._
+_Rune from Sky explains why USDH needs governance-first infrastructure, parallel deployments, and diversified collateral beyond T-bills._
+
+> The whole point of crypto is it delivers better infrastructure that makes it easier for people to be completely sure they're not getting ripped off by counterparties and their assets are safe.
 
 **Host:** @rekt_gang
 **Date:** 2025-09-09
 **Duration:** 46:28
-**Tags:** governance, infrastructure, ecosystem
+**Tags:** perps, governance, ecosystem, infrastructure
 **Source:** https://x.com/i/spaces/1yoKMPQOoQWxQ
 
 ## Key moments
 
-- **[2:08]** Hosts introduce the Space and Rune's background in crypto
-- **[5:10]** Zerk introduces himself as RecGang co-founder and Hyperliquid validator
-- **[6:11]** Rune recounts his crypto journey from 2011 Bitcoin to co-founding MakerDAO and Sky
-- **[9:13]** Discussion of decentralized vs centralized stablecoins and crypto's original ethos
-- **[19:20]** Rune explains Sky's governance tools and the tokenized star agent framework
-- **[30:27]** Exploration of Hyperliquid-native collateral options like HLP and derivatives
-- **[35:06]** Rune pitches why Sky's USDH would be the best option for Hyperliquid
-- **[43:40]** Closing remarks and call to action for Hyperliquid community members
+- **[2:08]** Rune introduces Sky's vision and stablecoin philosophy
+- **[6:11]** Origin story: lost everything in 2011 Bitcoin crash, co-founded Maker
+- **[9:13]** Why decentralized money matters: transparency, no counterparty risk
+- **[19:20]** Sky's governance tools and star agents framework explained
+- **[30:27]** Using Hyperliquid native collateral: HLP, purpose positions, LSTs
+- **[35:06]** USDH proposal: liquidity, existing rails, 4.85% yield promise
+- **[38:37]** Spark protocol launch and free access for normal users
+- **[44:10]** Final call: support Sky proposal, explore star agents and Spark
 
 ## Transcript
 

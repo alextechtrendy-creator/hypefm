@@ -1,23 +1,25 @@
-# Sentiment's margin lending and perp-collateralized loans on Hyperliquid
+# Margin lending unlocks 15-20% APY on Hyperliquid, plus perp positions as collateral
 
-_How Sentiment enables 15-20% APY on wrapped stake HYPE and introduces novel perp collateral and coin margin products exclusive to Hyperliquid EVM._
+_Sentiment launches native margin lending on Hyperliquid EVM. Borrow up to 15x leverage on wrapped staked HYPE, and soon use perpetual positions as collateral for delta-neutral strategies._
+
+> You have a perp position worth a million dollars in the money and don't want to sell—now you can borrow against that unrealized profit without closing.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-28
 **Duration:** 50:10
-**Tags:** perps, vaults, ecosystem
+**Tags:** vaults, perps, infrastructure, trading
 **Source:** https://x.com/i/spaces/1ynJOlXaPBwxR
 
 ## Key moments
 
-- **[1:32]** Space intro and guest welcome from Zerk and Zerx Snarks
-- **[6:54]** Zerx introduces Sentiment: margin lending protocol with TradFi origins and evolution from undercollateralized loans
-- **[10:56]** Margin lending explained: how Sentiment differs from Aave forks with direct leverage instead of looping
-- **[14:30]** Upcoming 15x wrapped stake HYPE feature delivering 15-20% APY with minimal borrow rates
-- **[23:03]** Perp collateral and coin margin products: enabling delta-neutral strategies and leveraging unrealized P&L
-- **[27:05]** Technical walkthrough: using perp positions as collateral on Sentiment interface with precompiles integration
-- **[37:10]** Timeline: USDC support in 4 weeks, audit-ready in 6 weeks, precompiles expected within 6 weeks
-- **[43:14]** Points incentives announced for early participants; protocol already live with phased rollout planned
+- **[6:54]** Zerx Snarks introduces Sentiment as margin lending protocol
+- **[8:55]** Origins: TradFi founders seeking efficient capital access during DeFi summer
+- **[11:58]** Core mechanic: $100k HYPE collateral → $1M USDC borrow without looping
+- **[14:30]** 15x leverage on wrapped staked HYPE yields 15-20% APY next week
+- **[23:34]** Purpose collateral: trade perps as collateral, borrow against unrealized P&L
+- **[34:09]** Coin margin perpetuals coming via Hyperliquid EVM, filling native gap
+- **[37:10]** Launch timeline: USDC support within 4 weeks, audits within 6, precompiles within 6
+- **[43:14]** Sentiment already live with points incentives launching within days
 
 ## Transcript
 

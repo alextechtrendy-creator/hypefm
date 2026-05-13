@@ -43,59 +43,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1djGXVDabedxZ",
-  "summary_title": "Dexari: Building the Best Mobile App for Hyperliquid Trading",
-  "summary_description": "Ex-Binance founders launch native iOS/Android app for Hyperliquid with seamless onboarding, account abstraction, and multi-chain support.",
+  "summary_title": "Ex-Binance founders build Hyperliquid's first native mobile app with account abstraction",
+  "summary_description": "Dexari launched iOS and Android apps abstracting chain complexity, enabling seamless USDC deposits from Ethereum, Arbitrum, Base, Optimism—and soon Bitcoin and Solana.",
   "topic_tags": [
-    "infrastructure",
+    "ecosystem",
     "execution",
-    "ecosystem"
+    "infrastructure"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 119,
-      "label": "Intro: Space recorded, activation codes coming, brief casual opening"
+      "timestamp_seconds": 308,
+      "label": "Introducing Dexari: mobile solution filling Hyperliquid gap"
     },
     {
-      "timestamp_seconds": 308,
-      "label": "Chuck introduces Dexari co-founders and ex-Binance US background"
+      "timestamp_seconds": 368,
+      "label": "Chuck and Zach left Binance US to build decentralized exchange"
     },
     {
       "timestamp_seconds": 489,
-      "label": "Discussion of Binance vs Hyperliquid situation, threat to centralized exchanges"
+      "label": "Ex-Binance perspective on centralized exchanges versus Hyperliquid threat"
     },
     {
-      "timestamp_seconds": 763,
-      "label": "Mobile-first vision explained: native iOS/Android app, better UX than PWA"
+      "timestamp_seconds": 793,
+      "label": "Native iOS and Android apps launching for frictionless mobile trading"
     },
     {
-      "timestamp_seconds": 947,
-      "label": "Live product demo: spot trading launched, perps blocked for US, full feature parity"
+      "timestamp_seconds": 1160,
+      "label": "Account abstraction: one USDC balance across all chains"
     },
     {
-      "timestamp_seconds": 1130,
-      "label": "Multi-chain onboarding: USDC from Ethereum, Arbitrum, Optimism, Base with abstracted bridging"
+      "timestamp_seconds": 1763,
+      "label": "Android app just released; iOS TestFlight live with invite code"
     },
     {
-      "timestamp_seconds": 1493,
-      "label": "Differentiation strategy: centralized exchange UX, native wallet, no dapp browser friction"
+      "timestamp_seconds": 2188,
+      "label": "Roadmap includes vaults, staking, on-ramps, off-ramps, card integration"
     },
     {
-      "timestamp_seconds": 1793,
-      "label": "Android app launch announcement, iOS TestFlight, RektDexari code shared"
-    },
-    {
-      "timestamp_seconds": 2128,
-      "label": "Future roadmap: vaults, staking, fiat on/off ramps, debit cards, AI analytics"
-    },
-    {
-      "timestamp_seconds": 2647,
-      "label": "Points program: retroactive points tracking pre-season, tracker coming later"
-    },
-    {
-      "timestamp_seconds": 3044,
-      "label": "Call to action: download app, join Telegram, provide feedback for rapid iteration"
+      "timestamp_seconds": 2678,
+      "label": "Points program announced: all current activity counts retroactively"
     }
   ],
+  "pull_quote": "Centralized exchanges are inarguably some of the better user experiences built in crypto so far, and Hyperliquid is the first time I've seen a product that rivals them in performance, liquidity, and user experience.",
   "audio_captured": true,
   "audio_duration_seconds": 3348.672,
   "capture_failure_reason": null

@@ -31,6 +31,9 @@ def render_markdown(meta: SpaceMetadata, transcript: Transcript) -> str:
     if meta.summary_description:
         lines.append(f"_{meta.summary_description}_")
         lines.append("")
+    if meta.pull_quote:
+        lines.append(f"> {meta.pull_quote}")
+        lines.append("")
     if meta.host_username:
         lines.append(f"**Host:** @{meta.host_username}")
     if meta.started_at:
@@ -62,17 +65,21 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>{title} — hype.fm</title>
+<title>{title} - hype.fm</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root {{
     --bg: #fafaf7;
     --bg-card: #ffffff;
     --fg: #222;
-    --fg-muted: #666;
+    --fg-muted: #777;
     --fg-faint: #999;
-    --accent: #c0682c;
-    --border: #e5e5e0;
+    --accent: #0d6856;
+    --accent-bg: rgba(13, 104, 86, 0.1);
+    --quote-bg: #043b30;
+    --quote-fg: #fafaf7;
+    --border: #d4d2c5;
+    --border-light: #e5e5e0;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -80,60 +87,75 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     background: var(--bg); color: var(--fg);
     margin: 0; line-height: 1.5; -webkit-font-smoothing: antialiased;
   }}
-  .container {{ max-width: 720px; margin: 0 auto; padding: 1.75rem 1.25rem 4rem; }}
-  .back {{ font-size: 11px; color: var(--fg-faint); text-decoration: none; }}
+  .container {{ max-width: 760px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }}
+  .back {{
+    font-size: 11px; color: var(--fg-muted);
+    text-decoration: none; display: inline-block; margin-bottom: 1.25rem;
+  }}
   .back:hover {{ color: var(--accent); }}
   h1 {{
-    font-size: 18px; font-weight: 500; line-height: 1.3;
-    margin: 0.75rem 0 0.5rem; letter-spacing: -0.01em;
+    font-size: 24px; font-weight: 500; line-height: 1.25;
+    margin: 0 0 0.5rem; letter-spacing: -0.01em;
   }}
   .description {{
-    font-size: 13px; color: #555; margin: 0 0 0.75rem; line-height: 1.5;
+    font-size: 14px; color: #555;
+    margin: 0 0 1rem; line-height: 1.55;
   }}
-  .meta {{
-    font-size: 11px; color: var(--fg-muted); margin: 0 0 1rem;
+  .pull-quote {{
+    background: var(--quote-bg);
+    border-radius: 8px;
+    padding: 22px 24px;
+    margin: 0 0 1.25rem;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--quote-fg);
+    line-height: 1.4;
+    font-weight: 500;
   }}
-  .meta .tag {{ color: var(--accent); }}
-  audio {{
-    width: 100%; height: 38px; margin-bottom: 1.25rem;
-  }}
+  .meta {{ font-size: 11px; color: var(--fg-faint); margin: 0 0 1.25rem; }}
+  .meta .tag {{ color: var(--accent); font-weight: 500; }}
+  audio {{ width: 100%; height: 42px; margin-bottom: 1.5rem; }}
   .audio-unavailable {{
     font-size: 12px; color: var(--fg-muted); font-style: italic;
-    padding: 0.6rem 0.8rem; background: var(--bg-card);
-    border: 1px solid var(--border); border-radius: 4px;
-    margin-bottom: 1.25rem;
+    padding: 0.7rem 0.9rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px;
+    margin-bottom: 1.5rem;
   }}
   .section-label {{
-    font-size: 11px; color: var(--fg-faint); margin: 0 0 0.5rem;
-    text-transform: uppercase; letter-spacing: 0.05em;
+    font-size: 11px; color: var(--fg-muted);
+    margin: 1.5rem 0 0.5rem; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.06em;
   }}
-  .moments {{ display: flex; flex-direction: column; gap: 6px; margin-bottom: 1.5rem; }}
+  .moments {{ display: flex; flex-direction: column; gap: 2px; margin-bottom: 1.75rem; }}
   .moment {{
-    display: flex; gap: 12px; padding: 8px 10px;
-    background: var(--bg-card); border: 1px solid var(--border);
-    border-radius: 4px; cursor: pointer; transition: border-color 0.1s;
+    display: flex; gap: 12px; align-items: baseline;
+    padding: 8px 10px; margin: 0 -10px;
+    border-radius: 4px; cursor: pointer;
+    transition: background 0.1s;
   }}
-  .moment:hover {{ border-color: #ccc; }}
+  .moment:hover {{ background: white; }}
   .moment-ts {{
-    font-size: 11px; color: var(--accent); font-weight: 500;
-    min-width: 48px; font-variant-numeric: tabular-nums;
+    font-size: 12px; color: var(--accent); font-weight: 500;
+    min-width: 52px; font-variant-numeric: tabular-nums;
   }}
-  .moment-label {{ font-size: 12px; margin: 0; line-height: 1.4; color: #333; }}
+  .moment-label {{ font-size: 13px; margin: 0; line-height: 1.45; color: #444; }}
   .transcript-toggle {{
-    border-top: 1px solid var(--border); padding-top: 1rem; margin-top: 1.5rem;
+    border-top: 1px solid var(--border-light); padding: 1rem 0 0 0;
+    margin-top: 1.5rem;
     font-size: 12px; color: var(--accent); cursor: pointer;
     background: none; border-left: none; border-right: none; border-bottom: none;
-    padding-left: 0; padding-right: 0; font-family: inherit;
+    font-family: inherit; font-weight: 500;
   }}
   .transcript-toggle:hover {{ text-decoration: underline; }}
   #transcript {{ display: none; margin-top: 1rem; }}
   #transcript.visible {{ display: block; }}
   .chunk {{
-    padding: 0.6rem 0.75rem; margin-bottom: 0.4rem; background: var(--bg-card);
-    border: 1px solid var(--border); border-radius: 4px; cursor: pointer;
+    padding: 0.7rem 0.85rem; margin-bottom: 0.4rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px; cursor: pointer;
     transition: border-color 0.1s;
   }}
-  .chunk:hover {{ border-color: #ccc; }}
+  .chunk:hover {{ border-color: var(--border); }}
   .chunk-header {{
     display: flex; gap: 0.6rem; font-size: 11px; margin-bottom: 0.25rem;
     color: var(--fg-muted);
@@ -142,21 +164,27 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500;
   }}
   .chunk-speaker {{ font-weight: 500; }}
-  .chunk-text {{ color: #333; font-size: 12px; line-height: 1.5; }}
+  .chunk-text {{ color: #333; font-size: 13px; line-height: 1.55; }}
   .footer {{
-    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border);
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border-light);
     color: var(--fg-faint); font-size: 11px; text-align: center;
   }}
   .footer a {{ color: var(--fg-muted); text-decoration: none; }}
+  .footer a:hover {{ color: var(--accent); }}
+  @media (max-width: 600px) {{
+    h1 {{ font-size: 20px; }}
+    .pull-quote {{ font-size: 15px; padding: 18px 20px; }}
+  }}
 </style>
 </head>
 <body>
 <div class="container">
 
-<a href="../../index.html" class="back">← back to hype.fm</a>
+<a href="../../index.html" class="back">&larr; back to hype.fm</a>
 
 <h1>{title}</h1>
 {description_html}
+{quote_html}
 <p class="meta">{meta_html}</p>
 
 {audio_section}
@@ -166,8 +194,8 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 {transcript_section}
 
 <div class="footer">
-  <a href="https://hypefm.xyz">hype.fm</a> &nbsp;·&nbsp;
-  <a href="{space_url}" target="_blank" rel="noopener">view on x</a>
+  <a href="../../index.html">hype.fm</a> &nbsp;&middot;&nbsp;
+  <a href="{space_url}" target="_blank" rel="noopener">view on X</a>
 </div>
 
 </div>
@@ -191,7 +219,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
   if (toggle && transcript) {{
     toggle.addEventListener('click', () => {{
       const visible = transcript.classList.toggle('visible');
-      toggle.textContent = visible ? '− hide full transcript' : '+ show full transcript';
+      toggle.textContent = visible ? '- hide full transcript' : '+ show full transcript';
     }});
   }}
 </script>
@@ -201,13 +229,16 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 
 
 def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str = "audio.m4a") -> str:
-    # Use R2 URL if available, fall back to local file
     audio_url = f"https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/{meta.space_id}/audio.m4a"
     title = meta.summary_title or meta.title or "Untitled Space"
 
     description_html = ""
     if meta.summary_description:
         description_html = f'<p class="description">{_escape(meta.summary_description)}</p>'
+
+    quote_html = ""
+    if meta.pull_quote:
+        quote_html = f'<div class="pull-quote">"{_escape(meta.pull_quote)}"</div>'
 
     meta_parts = []
     if meta.host_username:
@@ -216,10 +247,10 @@ def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str
         meta_parts.append(meta.started_at.strftime("%b %d, %Y").lower())
     if transcript.duration_seconds:
         meta_parts.append(_format_timestamp(transcript.duration_seconds))
-    meta_html = " &nbsp;·&nbsp; ".join(meta_parts)
+    meta_html = " &middot; ".join(meta_parts)
     if meta.topic_tags:
-        tag_html = " · ".join(f'<span class="tag">{_escape(t)}</span>' for t in meta.topic_tags)
-        meta_html += f" &nbsp;·&nbsp; {tag_html}"
+        tag_html = ", ".join(_escape(t) for t in meta.topic_tags)
+        meta_html += f' &middot; <span class="tag">{tag_html}</span>'
 
     if meta.audio_captured:
         audio_section = f'<audio controls preload="metadata" src="{audio_url}"></audio>'
@@ -270,6 +301,7 @@ def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str
     return _HTML_TEMPLATE.format(
         title=_escape(title),
         description_html=description_html,
+        quote_html=quote_html,
         meta_html=meta_html,
         audio_section=audio_section,
         moments_section=moments_section,

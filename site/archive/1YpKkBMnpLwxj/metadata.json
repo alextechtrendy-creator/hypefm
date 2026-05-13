@@ -61,47 +61,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1YpKkBMnpLwxj",
-  "summary_title": "Coordinated Exchange Attack on Hyperliquid and Building PVP Trading Apps",
-  "summary_description": "Discussion of the Jelly token attack on Hyperliquid, validator response, and introduction to PVP.trade's social trading platform.",
+  "summary_title": "Coordinated exchange attack on Hyperliquid exposes design tensions",
+  "summary_description": "Jelly token manipulation, validator response, and debate over decentralization tradeoffs during live incident.",
   "topic_tags": [
-    "perps",
-    "infrastructure",
-    "community"
+    "ecosystem",
+    "governance",
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 89,
-      "label": "Opening discussion about coordinated attack on Hyperliquid ecosystem"
+      "label": "Space announcement coincides with suspected coordinated attack"
     },
     {
-      "timestamp_seconds": 302,
-      "label": "PVP.trade team explains the Jelly token incident and delisting decision"
+      "timestamp_seconds": 149,
+      "label": "Zerk and PBR introduce pvp.trade; Guffix joins to discuss events"
     },
     {
-      "timestamp_seconds": 514,
-      "label": "Community debate on centralized exchange response and Hyperliquid's decentralization approach"
+      "timestamp_seconds": 332,
+      "label": "Noms notices jelly position down 8-9M, confirms coordinated attack theory"
     },
     {
-      "timestamp_seconds": 786,
-      "label": "Discussion of HLP vault withdrawals and yield implications after attack"
+      "timestamp_seconds": 392,
+      "label": "Community debates ongoing market cap caps and OI limits to prevent repeats"
+    },
+    {
+      "timestamp_seconds": 574,
+      "label": "Validator quorum voted to delist; PBR defends Jeff and team responsiveness"
+    },
+    {
+      "timestamp_seconds": 725,
+      "label": "Discussion of USDT freezing vs USDC; validator governance process affirmed"
+    },
+    {
+      "timestamp_seconds": 1057,
+      "label": "HLP tvl withdrawal and recovery; discussion of vault impacts and yields"
     },
     {
       "timestamp_seconds": 1328,
-      "label": "Introduction to PVP.trade platform and telegram bot for group trading"
-    },
-    {
-      "timestamp_seconds": 1781,
-      "label": "PVP.trade co-founders explain genesis story and 30 billion volume milestone"
-    },
-    {
-      "timestamp_seconds": 2296,
-      "label": "How to get started with PVP.trade and copy trading features"
-    },
-    {
-      "timestamp_seconds": 2962,
-      "label": "Transition to Hyperliquid EVM opportunities and leverage strategies"
+      "label": "Pivot to pvp.trade launch: Telegram bot for social group trading"
     }
   ],
+  "pull_quote": "Jeff and team have shown that they're here to change it, to put it in our hands, to let the users reap the rewards of the platform and everything.",
   "audio_captured": true,
   "audio_duration_seconds": 5010.752,
   "capture_failure_reason": null

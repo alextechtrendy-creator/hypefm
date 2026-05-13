@@ -2,12 +2,13 @@
   "spaces": [
     {
       "id": "1aJbdbokQwRKX",
-      "title": "Liquid Banking and the HyperBeat Super App: Non-Custodial Finance",
-      "description": "800 from HyperBeat explains how to trade, spend, and borrow against crypto assets in one account without giving up custody.",
+      "title": "Trade, spend, borrow against Bitcoin\u2014all from one non-custodial account",
+      "description": "HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit, trade perps, and access 8+ currencies without trusting anyone.",
+      "quote": "Rich people don't sell their assets, they just borrow against them\u2014now easily accessible to normal people for the first time.",
       "tags": [
         "ecosystem",
-        "infrastructure",
-        "trading"
+        "trading",
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2026-03-16T13:59:26Z",
@@ -18,12 +19,13 @@
     },
     {
       "id": "1djGXVDabedxZ",
-      "title": "Dexari: Building the Best Mobile App for Hyperliquid Trading",
-      "description": "Ex-Binance founders launch native iOS/Android app for Hyperliquid with seamless onboarding, account abstraction, and multi-chain support.",
+      "title": "Ex-Binance founders build Hyperliquid's first native mobile app with account abstraction",
+      "description": "Dexari launched iOS and Android apps abstracting chain complexity, enabling seamless USDC deposits from Ethereum, Arbitrum, Base, Optimism\u2014and soon Bitcoin and Solana.",
+      "quote": "Centralized exchanges are inarguably some of the better user experiences built in crypto so far, and Hyperliquid is the first time I've seen a product that rivals them in performance, liquidity, and user experience.",
       "tags": [
-        "infrastructure",
+        "ecosystem",
         "execution",
-        "ecosystem"
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2025-04-01T17:00:34Z",
@@ -34,12 +36,14 @@
     },
     {
       "id": "1djGXWAmoroKZ",
-      "title": "HyperLiquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons",
-      "description": "Deep dive into HyperBeat-Kinetic dispute, why HyperEVM stalled, and what Cosmos taught us about tokenomics.",
+      "title": "Hyperliquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons",
+      "description": "Trading exotic perpetuals from SpaceX to pre-IPO stocks, plus drama around HyperBeat and Kinetic points allocation.",
+      "quote": "If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core.",
       "tags": [
         "perps",
         "ecosystem",
-        "governance"
+        "governance",
+        "vaults"
       ],
       "host": "rekt_gang",
       "date": "2025-11-14T14:55:12Z",
@@ -50,11 +54,14 @@
     },
     {
       "id": "1DXxyqzMZDWxM",
-      "title": "HyperFlash: Building DeFi Infrastructure and MEV Capture on HyperEVM",
-      "description": "Deep dive into liquid staking tokens and MEV extraction strategies designed specifically for Hyperliquid's unique architecture.",
+      "title": "HyperFlash: MEV-boosted staking and composable perps on HyperEVM",
+      "description": "Yale PhD and MIT engineers launch Flash HYPE LST with 0% commission, MEV rewards, and integration across HyperLiquid's DeFi ecosystem.",
+      "quote": "We are building this for the long run. We will have 0% commission on LST forever, and take a small cut from MEV to hire the best engineers.",
       "tags": [
+        "vaults",
+        "ecosystem",
         "infrastructure",
-        "tokenomics"
+        "governance"
       ],
       "host": "rekt_gang",
       "date": "2025-03-13T16:00:44Z",
@@ -65,12 +72,14 @@
     },
     {
       "id": "1gqxvjnnzPzxB",
-      "title": "HyperFrogs NFTs and Lucky Ponds: Building gambling games on HyperVM",
-      "description": "Bernie discusses launching HyperFrogs, an on-chain ASCII NFT collection, and Lucky Ponds, a decentralized lottery with revenue sharing for frog holders.",
+      "title": "Lucky Ponds: lottery gaming on Hyperliquid with 7% fees flowing back to HyperFrogs holders",
+      "description": "Bernie built a daily, weekly, and monthly raffle app where players deposit 0.1+ HYPE for a chance to win the full pool. Revenue splits to frog holders.",
+      "quote": "There's just more liquidity, more people, more fun on Hyperliquid right now. I mean, it's just the truth, right?",
       "tags": [
+        "perps",
+        "trading",
         "ecosystem",
-        "community",
-        "governance"
+        "community"
       ],
       "host": "rekt_gang",
       "date": "2025-06-12T16:02:02Z",
@@ -81,8 +90,9 @@
     },
     {
       "id": "1kvKpyBOgMPGE",
-      "title": "Hyperliquid under fire: how validators, exchanges, and Kinetic reshape the ecosystem",
-      "description": "Inside yesterday's market attack, why centralized exchanges fear HyperLiquid, and how Kinetic's liquid staking reshapes DeFi primitives.",
+      "title": "How Hyperliquid survived a coordinated exchange attack, and what's next",
+      "description": "Omnia from Kinetic breaks down yesterday's HLP manipulation attempt, validator coordination, and why decentralized perpetuals terrify centralized exchanges.",
+      "quote": "If you were able to trick hyperliquids HLP into a position it shouldn't have been in the first place, you could trigger a liquidation, bank run, and endless FUD to put a huge end to your competition.",
       "tags": [
         "governance",
         "infrastructure",
@@ -97,12 +107,13 @@
     },
     {
       "id": "1lDxLnAAvkqGm",
-      "title": "Hyperliquid's First Integration: Squid Cross-Chain Swaps and Vault Strategies",
-      "description": "How Hyperliquid partnered with Squid to onboard users from any blockchain, plus new vaults, API trading, and referral programs.",
+      "title": "Hyperliquid's liquidator vault: 11% monthly returns on other traders' losses",
+      "description": "Jeff reveals how Hyperliquid's vaults let you profit passively when traders get liquidated\u2014with real 10-11% monthly yields so far.",
+      "quote": "You only need people to get liquidated to profit from it. 11% for something very low risk, I think, is amazing.",
       "tags": [
-        "perps",
-        "infrastructure",
-        "ecosystem"
+        "vaults",
+        "trading",
+        "perps"
       ],
       "host": "rekt_gang",
       "date": "2023-03-31T17:00:24Z",
@@ -113,12 +124,14 @@
     },
     {
       "id": "1lDxLzNRyERGm",
-      "title": "CypherCard launches on Hyperliquid: bridging perps to real-world spending",
-      "description": "Cypher's founder discusses on-chain banking, instant card loading from HLP vaults, and Forex fee advantages for global users.",
+      "title": "Cypher Card: Spend your Hyperliquid perps directly on Visa worldwide",
+      "description": "On-chain banking platform launches prepaid Visa cards for HyperLiquid traders\u2014turn perps into coffee in one click, no withdrawal delays.",
+      "quote": "Collapse all these steps into a single step and make it instant. Click of a button, you can load it to Cypher in a minute max, then go buy coffee with it.",
       "tags": [
+        "perps",
         "ecosystem",
-        "infrastructure",
-        "community"
+        "execution",
+        "trading"
       ],
       "host": "rekt_gang",
       "date": "2025-04-24T17:00:51Z",
@@ -129,12 +142,14 @@
     },
     {
       "id": "1lPKqBAljPPGb",
-      "title": "Building a fully decentralized order book exchange from scratch on Tendermint",
-      "description": "Hyperliquid founder explains why order books beat AMMs, how their custom chain solves DeFi's UX friction, and what's coming next.",
+      "title": "Order book DEX from scratch: why Hyperliquid ditched Arbitrum for its own chain",
+      "description": "Engineers pivoted from testing on Arbitrum to building a Tendermint L1 after realizing what traders actually need.",
+      "quote": "We were surprised anyone actually used DeFi. The tech was so far behind centralized exchanges, with so much friction to doing anything you take for granted.",
       "tags": [
         "perps",
         "infrastructure",
-        "L1"
+        "L1",
+        "execution"
       ],
       "host": "rekt_gang",
       "date": "2023-01-06T17:05:21Z",
@@ -145,8 +160,9 @@
     },
     {
       "id": "1lPKqMAYQPwKb",
-      "title": "HyperBlades building NFT lending, launchpad, and play-to-earn game on Hyperliquid",
-      "description": "Inside look at HyperBlades' full NFT ecosystem launching on Hyperliquid: lending protocol, raffle-based launchpad, marketplace, and mystery game.",
+      "title": "Hyperblades' NFT lending, launchpad, and mystery game launching on Hyperliquid within two weeks",
+      "description": "Four-person team building lending platform, raffle-based launchpad, and play-to-earn game. Testnet in two days, mainnet in less than two weeks.",
+      "quote": "You can just borrow money against your NFT as collateral, or lend money to test it for up to seven days before deciding whether to buy it.",
       "tags": [
         "ecosystem",
         "listings",
@@ -161,11 +177,12 @@
     },
     {
       "id": "1MnGnwQmBaLJO",
-      "title": "OptFun: Building 1000X leverage options on Hyperliquid",
-      "description": "Ryan from OptFun explains how they created fair, on-chain options trading with 1000X leverage for one-minute Bitcoin bets.",
+      "title": "OptFun's thousand-X leverage options let you 15X in one minute on Bitcoin",
+      "description": "One-minute expiry options on Hyperliquid EVM let degens take extreme bets without meme coin rug pull risk. 84M volume in week one.",
+      "quote": "We're giving you the same thrill of extreme volatility as Pump Fun, but on a fairer venue with actual Bitcoin liquidity, not a meme coin rug pull.",
       "tags": [
         "perps",
-        "infrastructure",
+        "trading",
         "ecosystem"
       ],
       "host": "rekt_gang",
@@ -177,12 +194,14 @@
     },
     {
       "id": "1MnxnPNPpbBGO",
-      "title": "Things: Trading Exotic Perpetuals on Hyperliquid From Weather to Fed Rates",
-      "description": "Canadian founders building permissionless perp markets for real-world signals like weather, unemployment, and commodity prices on Hyperliquid.",
+      "title": "Trading weather, Fed rates, and Bitcoin hash rate on Hyperliquid's new perpdex",
+      "description": "Things launches exotic perpetual markets for signals usually hidden behind proxies\u2014weather, unemployment, commodities\u2014with reliable oracles and in-house market making.",
+      "quote": "Instead of being forced to long Bitcoin as a proxy for Fed rate, why not give people ability to trade the signals directly?",
       "tags": [
         "perps",
+        "ecosystem",
         "infrastructure",
-        "ecosystem"
+        "market-making"
       ],
       "host": "rekt_gang",
       "date": "2025-12-17T19:00:32Z",
@@ -193,10 +212,12 @@
     },
     {
       "id": "1MYxNwNyRWoKw",
-      "title": "Make money during the bear with Felix: Liquidation rewards and stable yields",
-      "description": "How Felix Protocol's stability pool lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins on Hyperliquid.",
+      "title": "Felix Protocol's stability pool captures liquidation rewards for retail depositors",
+      "description": "A new money market on Hyperliquid lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins into a risk pool.",
+      "quote": "Stability pool depositors get the first right to buy liquidated collateral and keep the 5% penalty, which is value capture we don't see in traditional money markets like Aave.",
       "tags": [
         "vaults",
+        "perps",
         "infrastructure",
         "ecosystem"
       ],
@@ -209,12 +230,13 @@
     },
     {
       "id": "1nAKEgaXVXnJL",
-      "title": "Volantis: Building Embedded Liquidity and Yield Strategies on Hyperliquid",
-      "description": "Volantis founders explain their modular yield vaults, LST strategies earning 8% APY, and vision for efficient DeFi on Hyperliquid.",
+      "title": "Valantis' 8% APY strategy: capturing LST arbitrage everyone else misses",
+      "description": "How modular yield vaults on Hyperliquid are automating LST depeg arbitrage with minimal leverage or lock-up risk.",
+      "quote": "The reason for that is like the pool basically is right now the stake type pool is printing eight percent apy for buying d-pegged stake type and just unstaking it.",
       "tags": [
         "vaults",
-        "ecosystem",
-        "infrastructure"
+        "trading",
+        "ecosystem"
       ],
       "host": "rekt_gang",
       "date": "2025-07-22T17:00:40Z",
@@ -225,12 +247,13 @@
     },
     {
       "id": "1OdKrDRnzRYJX",
-      "title": "TopDog: Building a multiplayer trading terminal on Hyperliquid",
-      "description": "Tyron explains how TopDog turns copy trading into social signal discovery, with guilds, cashback rewards, and plans for meme coin trenching.",
+      "title": "TopDog's multiplayer trading footprints: Copy smarter traders without blindly following them",
+      "description": "Telegram mini-app showing real-time whale positions on Hyperliquid perps, designed for casual degen traders who want signals, not analytics.",
+      "quote": "Blindly copy-trading just doesn't work. We figured out you need the signal of successful wallets but still proactively make your own decisions, not sink your balance.",
       "tags": [
         "trading",
         "ecosystem",
-        "community"
+        "execution"
       ],
       "host": "rekt_gang",
       "date": "2025-06-10T14:00:24Z",
@@ -241,12 +264,14 @@
     },
     {
       "id": "1oJMvROAbLnxQ",
-      "title": "Paragon launches Bitcoin dominance and crypto indices on Hyperliquid",
-      "description": "Founder Taha explains how Paragon makes previously untradeable Bitcoin dominance and market indices actionable through HIP3 perpetual futures.",
+      "title": "Bitcoin dominance finally tradeable: Paragon launches three crypto indices on Hyperliquid",
+      "description": "Paragon deploys BTC.D, Total2, and Others as actionable perpetuals\u2014turning decade-old analyst charts into hedgeable instruments.",
+      "quote": "These things are actually some of the most charted, widely tracked tickers in crypto\u201430 or 40% as many mentions as Bitcoin itself\u2014yet remain completely analytical and non-actionable.",
       "tags": [
         "perps",
         "listings",
-        "infrastructure"
+        "execution",
+        "ecosystem"
       ],
       "host": "rekt_gang",
       "date": "2026-04-03T16:00:22Z",
@@ -257,11 +282,12 @@
     },
     {
       "id": "1oKMvRLnMwnGQ",
-      "title": "How AI agents are democratizing algorithmic trading on Hyperliquid",
-      "description": "Robonet founders demo AI-powered strategy building, backtesting, and live deployment with real 488% returns.",
+      "title": "488% backtest returns: How AI agents execute trading strategies on Hyperliquid",
+      "description": "Mike deployed an AI-built SMA crossover strategy on Hyperliquid using Robonet. Five dollars in credits, 488% backtest, now live as a vault.",
+      "quote": "52 percent is already enough, because 80 percent of traders actually make no money, so you've already beaten that by a big margin.",
       "tags": [
+        "perps",
         "trading",
-        "infrastructure",
         "ecosystem"
       ],
       "host": "rekt_gang",
@@ -273,8 +299,9 @@
     },
     {
       "id": "1OwGWeEPVzZxQ",
-      "title": "Pair Protocol's 45% Win Rate Strategy: Pair Trading on Hyperliquid",
-      "description": "How pair trading delivers 2.25x better odds than directional trading, with live vaults and LLM tools launching soon.",
+      "title": "45% win rate pair trading beats directional traders on Hyperliquid",
+      "description": "Pair Protocol's basket trading achieves 45% profitable users versus 20% on standard perpetual exchanges.",
+      "quote": "If this basket falls 2%, knock me out of the trade. If it goes up 5%, take profit. You no longer need to manually manage individual legs.",
       "tags": [
         "perps",
         "trading",
@@ -289,8 +316,9 @@
     },
     {
       "id": "1OyJAjzovPrxb",
-      "title": "Catball NFTs, Illuminati mechanics, and Hyperliquid's ecosystem future",
-      "description": "OG meme founder discusses NFT collection design, trait mechanics, and Hyperliquid's path amid ecosystem competition.",
+      "title": "Catball's pyramid NFTs, trait trading, and Hyperliquid's ecosystem maturation",
+      "description": "OG meme project reveals 5-tier NFT structure with ERC-1155 trait mechanics, addresses community drama around stablecoins and competitor launches.",
+      "quote": "Hyperliquid is winning because 11 people are generating billions yearly and actually threatening the cartels, while competitors arrive three years late with endless capital.",
       "tags": [
         "ecosystem",
         "community",
@@ -305,8 +333,9 @@
     },
     {
       "id": "1OyJALwQYbNGb",
-      "title": "First on-chain NFT collection launches on Hyperliquid EVM",
-      "description": "Bren drops Tiny Hypercats, the first fully native NFT mint on Hyperliquid's new EVM, with live minting chaos and ecosystem updates.",
+      "title": "First fully on-chain NFT collection launches on Hyperliquid EVM",
+      "description": "Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS dependency, family-made traits stored forever.",
+      "quote": "The best things have a little bit of friction, and then when it's removed, everybody wants in. But now you kind of have that edge.",
       "tags": [
         "ecosystem",
         "infrastructure",
@@ -321,11 +350,13 @@
     },
     {
       "id": "1PKqrEAoBaQGb",
-      "title": "How Hydromancer became Hyperliquid's critical data infrastructure layer",
-      "description": "Inside the data pipelines powering 80+ teams building on Hyperliquid, from market makers to HIP4 prediction market builders.",
+      "title": "80+ teams use Hydromancer's data layer. What they're building on HyperLiquid.",
+      "description": "Infrastructure powering app builders, market makers, and HIP4 prediction markets\u2014plus research showing 29% of HyperLiquid traders are profitable.",
+      "quote": "Hyperliquid uniquely cultivated a community of people who actually wants to trade, because Binance and Coinbase didn't manage to get any traction on their prediction market products.",
       "tags": [
         "infrastructure",
         "ecosystem",
+        "perps",
         "market-making"
       ],
       "host": "rekt_gang",
@@ -337,12 +368,13 @@
     },
     {
       "id": "1PlKQOXpqMWJE",
-      "title": "Neurovolts: AI-Managed Yield Vaults Launch on Hyperliquid EVM",
-      "description": "Hamza, ex-Polygon DeFi head, discusses newly-launched AI agents optimizing stablecoin yields 30-40% above lending markets with zero leverage risk.",
+      "title": "AI agents optimize stablecoin yield 41% above lending markets on Hyperliquid",
+      "description": "Neuro Vaults launched today: deposit USDT, agents rebalance across Hyperlend, Hyperfi, Felix to maximize APY. No leverage, no liquidation risk.",
+      "quote": "Yield you cannot go wrong with yield. If it is coming from something like a lending market, you really can't go wrong because there's demand and there's supply.",
       "tags": [
         "vaults",
-        "ecosystem",
-        "infrastructure"
+        "trading",
+        "ecosystem"
       ],
       "host": "rekt_gang",
       "date": "2025-12-04T17:00:37Z",
@@ -353,12 +385,13 @@
     },
     {
       "id": "1yKAPMarbXbxb",
-      "title": "Bounce Tech: Non-liquidating leveraged tokens on Hyperliquid",
-      "description": "How leverage tokens work, why they outperform perps in rallies, and why Hyperliquid's infrastructure makes them possible.",
+      "title": "Leverage tokens on Hyperliquid: no liquidation, constant rebalancing, composable perps",
+      "description": "Bounce Tech launches tokenized perpetual futures that auto-rebalance to maintain fixed leverage, eliminating liquidation risk while capturing directional moves.",
+      "quote": "If you have the directional movements or price to appreciate, your position up-levers, and that really does outperform the perpetual.",
       "tags": [
         "perps",
-        "infrastructure",
-        "trading"
+        "trading",
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2026-03-13T16:00:15Z",
@@ -369,12 +402,14 @@
     },
     {
       "id": "1ynJOlXaPBwxR",
-      "title": "Sentiment's margin lending and perp-collateralized loans on Hyperliquid",
-      "description": "How Sentiment enables 15-20% APY on wrapped stake HYPE and introduces novel perp collateral and coin margin products exclusive to Hyperliquid EVM.",
+      "title": "Margin lending unlocks 15-20% APY on Hyperliquid, plus perp positions as collateral",
+      "description": "Sentiment launches native margin lending on Hyperliquid EVM. Borrow up to 15x leverage on wrapped staked HYPE, and soon use perpetual positions as collateral for delta-neutral strategies.",
+      "quote": "You have a perp position worth a million dollars in the money and don't want to sell\u2014now you can borrow against that unrealized profit without closing.",
       "tags": [
-        "perps",
         "vaults",
-        "ecosystem"
+        "perps",
+        "infrastructure",
+        "trading"
       ],
       "host": "rekt_gang",
       "date": "2025-03-28T17:00:20Z",
@@ -385,12 +420,14 @@
     },
     {
       "id": "1ynKOMYZvjQJR",
-      "title": "Volantis: Building the Complete Hype Staking Solution on Hyperliquid",
-      "description": "How Volantis is capturing hype's full utility through liquid staking, the Athena partnership, and institutional-grade infrastructure.",
+      "title": "Stake Type's multi-account design unlocks HIP-3 markets, faster withdrawals, and institutional staking",
+      "description": "Valantis' Ollie explains how ST Hype captured staking yield that no other LST can, and why Athena partnership changes everything.",
+      "quote": "Points are just a megaphone on what you're already doing. If the fire itself has no substance, they won't get you anywhere.",
       "tags": [
-        "HLP",
-        "perps",
-        "ecosystem"
+        "vaults",
+        "tokenomics",
+        "ecosystem",
+        "market-making"
       ],
       "host": "rekt_gang",
       "date": "2025-12-10T18:59:57Z",
@@ -401,12 +438,14 @@
     },
     {
       "id": "1yoKMPQOoQWxQ",
-      "title": "Sky's decentralized stablecoin vision for Hyperliquid governance and infrastructure",
-      "description": "Rune breaks down Sky's USDH proposal, governance framework, and how decentralized collateral strategies outperform centralized stablecoins.",
+      "title": "Decentralized stablecoins beat centralized custodians\u2014Sky's 4.85% yield on Hyperliquid",
+      "description": "Rune from Sky explains why USDH needs governance-first infrastructure, parallel deployments, and diversified collateral beyond T-bills.",
+      "quote": "The whole point of crypto is it delivers better infrastructure that makes it easier for people to be completely sure they're not getting ripped off by counterparties and their assets are safe.",
       "tags": [
+        "perps",
         "governance",
-        "infrastructure",
-        "ecosystem"
+        "ecosystem",
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2025-09-09T17:30:36Z",
@@ -417,12 +456,13 @@
     },
     {
       "id": "1YpKkBMnpLwxj",
-      "title": "Coordinated Exchange Attack on Hyperliquid and Building PVP Trading Apps",
-      "description": "Discussion of the Jelly token attack on Hyperliquid, validator response, and introduction to PVP.trade's social trading platform.",
+      "title": "Coordinated exchange attack on Hyperliquid exposes design tensions",
+      "description": "Jelly token manipulation, validator response, and debate over decentralization tradeoffs during live incident.",
+      "quote": "Jeff and team have shown that they're here to change it, to put it in our hands, to let the users reap the rewards of the platform and everything.",
       "tags": [
-        "perps",
-        "infrastructure",
-        "community"
+        "ecosystem",
+        "governance",
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2025-03-26T17:00:25Z",
@@ -433,10 +473,13 @@
     },
     {
       "id": "1YqJDZmWarYKV",
-      "title": "Trippy Wolves Bridge to Hyperliquid and Ecosystem Deep Dive",
-      "description": "WRECK gang shares NFT migration, marketplace updates, DeFi strategies, and what's next for Hyperliquid's ecosystem.",
+      "title": "Trippy Wolves bridge to Hyperliquid, official NFTs worth 50K+, DeFi yields emerge",
+      "description": "Wreck Gang's NFT collection goes live on Hyperliquid EVM via Layer Zero. Official Hyperliquid NFTs expected Q1 2025 could reshape entire ecosystem.",
+      "quote": "The official Hyperliquid NFT is going to crush all other collections instantly\u2014there's nothing competing against this in my opinion.",
       "tags": [
-        "ecosystem"
+        "ecosystem",
+        "listings",
+        "community"
       ],
       "host": "rekt_gang",
       "date": "2025-03-11T15:00:07Z",
@@ -447,11 +490,13 @@
     },
     {
       "id": "1YqKDZarRXBJV",
-      "title": "Building Mobile-First Trading on Hyperliquid with Nest Wallet",
-      "description": "Nest Wallet launches Hyperliquid perps on mobile with seamless UX, farming points, and roadmap for spot, staking, and HyperEVM integration.",
+      "title": "Mobile perps trading on Hyperliquid: faster than telegram bots, fully decentralized",
+      "description": "Nest Wallet launches Hyperliquid L1 perps on mobile with native key custody, MEV protection, and zero speed compromise versus centralized bots.",
+      "quote": "You get the security profile of metamask and phantom but why do we have to settle for subpar features? Let's just build something we'd actually use.",
       "tags": [
         "perps",
         "infrastructure",
+        "trading",
         "ecosystem"
       ],
       "host": "rekt_gang",
@@ -463,12 +508,13 @@
     },
     {
       "id": "1YqKDZlNMOYJV",
-      "title": "KittenSwap: Building the Community-Owned DEX on HyperEVM",
-      "description": "Shinji from KittenSwap discusses concentrated liquidity pools, points distribution, and why they're winning the DEX wars on HyperEVM.",
+      "title": "KittenSwap's 30% airdrop flipped HyperSwap's TVL with one clever move",
+      "description": "Two DeFi OGs built a concentrated liquidity DEX on HyperEVM without raising a seed round, using MechaCats NFTs and a wide token distribution to overtake competitors.",
+      "quote": "Our airdrop is 30% of our supply so as many people as possible who want to work with us and integrate gain tokens, which attracted a lot of users and builders.",
       "tags": [
         "ecosystem",
-        "infrastructure",
-        "trading"
+        "tokenomics",
+        "infrastructure"
       ],
       "host": "rekt_gang",
       "date": "2025-04-08T16:00:58Z",
@@ -479,12 +525,14 @@
     },
     {
       "id": "1zqKVjDqlYwKB",
-      "title": "Hyperland: Building DeFi Infrastructure on Hyperliquid's EVM",
-      "description": "Ness explains how Hyperland brings lending, borrowing, and yield strategies to Hyperliquid EVM with 30M TVL and upcoming token launch.",
+      "title": "Lending hype collateral and looping stablecoins to 50-60% yield on Hyperliquid EVM",
+      "description": "Hyperland launches lending/borrowing on Hyperliquid EVM with plans for portfolio margin, collateralized perps, and yield-bearing strategies.",
+      "quote": "We're basically the Chase banking infrastructure on the EVM side, allowing Hyperliquid to be your Robinhood.",
       "tags": [
+        "infrastructure",
         "vaults",
-        "ecosystem",
-        "infrastructure"
+        "perps",
+        "ecosystem"
       ],
       "host": "rekt_gang",
       "date": "2025-04-03T16:00:52Z",

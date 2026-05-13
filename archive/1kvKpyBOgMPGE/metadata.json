@@ -43,8 +43,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1kvKpyBOgMPGE",
-  "summary_title": "Hyperliquid under fire: how validators, exchanges, and Kinetic reshape the ecosystem",
-  "summary_description": "Inside yesterday's market attack, why centralized exchanges fear HyperLiquid, and how Kinetic's liquid staking reshapes DeFi primitives.",
+  "summary_title": "How Hyperliquid survived a coordinated exchange attack, and what's next",
+  "summary_description": "Omnia from Kinetic breaks down yesterday's HLP manipulation attempt, validator coordination, and why decentralized perpetuals terrify centralized exchanges.",
   "topic_tags": [
     "governance",
     "infrastructure",
@@ -52,46 +52,39 @@
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 40,
-      "label": "Intro and hosts: Zerk, PBR, and Omnia from Kinetic kick off"
+      "timestamp_seconds": 130,
+      "label": "The HLP situation from yesterday clears, community bullish again"
     },
     {
-      "timestamp_seconds": 191,
-      "label": "Space topic: yesterday's HLP manipulation and coordinated exchange response"
+      "timestamp_seconds": 311,
+      "label": "Omnia explains: coordination between OKEx, Binance, BitGet to trigger HLP bank run"
     },
     {
-      "timestamp_seconds": 341,
-      "label": "Omnia breaks down the attack: how Binance, OKEx, BitGet coordinated to trigger HLP bank run"
+      "timestamp_seconds": 403,
+      "label": "Validators reached quorum to delist the manipulated asset nanoseconds after Binance listing"
     },
     {
       "timestamp_seconds": 554,
-      "label": "Decentralization debate: HyperLiquid sits between Bitcoin and centralized exchanges on spectrum"
+      "label": "Someone accumulated almost one-fifth of jelly supply in four days pre-attack"
     },
     {
-      "timestamp_seconds": 855,
-      "label": "Builder codes threat: how HyperLiquid's open exchange infrastructure threatens CEX cartels"
+      "timestamp_seconds": 614,
+      "label": "Decentralization spectrum debate: Hyperliquid versus CEX versus Bitcoin"
     },
     {
-      "timestamp_seconds": 1430,
-      "label": "Meme coin infrastructure: spot tokens, AMMs, and why HyperEVM changes the game"
+      "timestamp_seconds": 885,
+      "label": "Builder codes on Hyperliquid threaten exchange business model more than perps alone"
     },
     {
       "timestamp_seconds": 2096,
-      "label": "Kinetic liquid staking launch: why Omnia built it, validator selection, and StakeHub"
+      "label": "Kinetic liquid staking launch: why, how, and native integration strategy"
     },
     {
-      "timestamp_seconds": 2733,
-      "label": "PBR endorsement of Kinetic's ethos and validator fairness approach"
-    },
-    {
-      "timestamp_seconds": 3186,
-      "label": "Day-one KHype integrations: lending, CDPs, AMMs, bridges, and wrapped-by-design LST"
-    },
-    {
-      "timestamp_seconds": 3551,
-      "label": "Fee structure and incentives: Kinetic's approach to rewards and points"
+      "timestamp_seconds": 2428,
+      "label": "StakeHub: autonomous validator scoring to eliminate kickback deals"
     }
   ],
+  "pull_quote": "If you were able to trick hyperliquids HLP into a position it shouldn't have been in the first place, you could trigger a liquidation, bank run, and endless FUD to put a huge end to your competition.",
   "audio_captured": true,
   "audio_duration_seconds": 5011.2,
   "capture_failure_reason": null

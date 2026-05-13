@@ -31,47 +31,49 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1yoKMPQOoQWxQ",
-  "summary_title": "Sky's decentralized stablecoin vision for Hyperliquid governance and infrastructure",
-  "summary_description": "Rune breaks down Sky's USDH proposal, governance framework, and how decentralized collateral strategies outperform centralized stablecoins.",
+  "summary_title": "Decentralized stablecoins beat centralized custodians—Sky's 4.85% yield on Hyperliquid",
+  "summary_description": "Rune from Sky explains why USDH needs governance-first infrastructure, parallel deployments, and diversified collateral beyond T-bills.",
   "topic_tags": [
+    "perps",
     "governance",
-    "infrastructure",
-    "ecosystem"
+    "ecosystem",
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 128,
-      "label": "Hosts introduce the Space and Rune's background in crypto"
-    },
-    {
-      "timestamp_seconds": 310,
-      "label": "Zerk introduces himself as RecGang co-founder and Hyperliquid validator"
+      "label": "Rune introduces Sky's vision and stablecoin philosophy"
     },
     {
       "timestamp_seconds": 371,
-      "label": "Rune recounts his crypto journey from 2011 Bitcoin to co-founding MakerDAO and Sky"
+      "label": "Origin story: lost everything in 2011 Bitcoin crash, co-founded Maker"
     },
     {
       "timestamp_seconds": 553,
-      "label": "Discussion of decentralized vs centralized stablecoins and crypto's original ethos"
+      "label": "Why decentralized money matters: transparency, no counterparty risk"
     },
     {
       "timestamp_seconds": 1160,
-      "label": "Rune explains Sky's governance tools and the tokenized star agent framework"
+      "label": "Sky's governance tools and star agents framework explained"
     },
     {
       "timestamp_seconds": 1827,
-      "label": "Exploration of Hyperliquid-native collateral options like HLP and derivatives"
+      "label": "Using Hyperliquid native collateral: HLP, purpose positions, LSTs"
     },
     {
       "timestamp_seconds": 2106,
-      "label": "Rune pitches why Sky's USDH would be the best option for Hyperliquid"
+      "label": "USDH proposal: liquidity, existing rails, 4.85% yield promise"
     },
     {
-      "timestamp_seconds": 2620,
-      "label": "Closing remarks and call to action for Hyperliquid community members"
+      "timestamp_seconds": 2317,
+      "label": "Spark protocol launch and free access for normal users"
+    },
+    {
+      "timestamp_seconds": 2650,
+      "label": "Final call: support Sky proposal, explore star agents and Spark"
     }
   ],
+  "pull_quote": "The whole point of crypto is it delivers better infrastructure that makes it easier for people to be completely sure they're not getting ripped off by counterparties and their assets are safe.",
   "audio_captured": true,
   "audio_duration_seconds": 2788.16,
   "capture_failure_reason": null

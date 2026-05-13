@@ -100,6 +100,7 @@ def archive(space_url_or_id: str, no_audio: bool, no_diarize: bool, archive_dir:
             meta.summary_description = summary.get("description")
             meta.topic_tags = summary.get("tags", [])
             meta.key_moments = summary.get("key_moments", [])
+            meta.pull_quote = summary.get("pull_quote")
             click.echo(f"    ✓ {meta.summary_title}")
             if meta.topic_tags:
                 click.echo(f"    tags: {', '.join(meta.topic_tags)}")
@@ -179,43 +180,53 @@ def backfill(ctx: click.Context, ids_file: Path, no_audio: bool, no_diarize: boo
     for sid, reason in failures:
         click.echo(f"  {sid}: {reason}")
 
+
 @cli.command()
-@click.argument("space_id")
 @click.option("--archive-dir", type=click.Path(path_type=Path), default=None)
-def resummarize(space_id: str, archive_dir: Path | None) -> None:
-    """Regenerate the summary title/description/tags for an existing archive entry."""
+@click.option("--limit", type=int, default=None)
+def resummarize_all(archive_dir: Path | None, limit: int | None) -> None:
+    """Re-run LLM summarization across every archive entry."""
     from .summarize import summarize_transcript
-    archive_dir = archive_dir or ARCHIVE_DIR
-    entry_dir = archive_dir / space_id
-    meta_path = entry_dir / "metadata.json"
-    transcript_path = entry_dir / "transcript.json"
-
-    if not meta_path.exists() or not transcript_path.exists():
-        click.echo(f"✗ Missing metadata or transcript at {entry_dir}", err=True)
-        sys.exit(1)
-
-    meta_data = json.loads(meta_path.read_text(encoding="utf-8"))
-    transcript_data = json.loads(transcript_path.read_text(encoding="utf-8"))
-
     from .models import SpaceMetadata, Transcript
-    meta = SpaceMetadata(**meta_data)
-    transcript = Transcript(**transcript_data)
 
-    click.echo(f"→ Re-summarizing {space_id}...")
-    summary = summarize_transcript(transcript)
-    if not summary:
-        click.echo("✗ Summarization failed", err=True)
-        sys.exit(1)
+    archive_dir = archive_dir or ARCHIVE_DIR
+    entry_dirs = sorted(d for d in archive_dir.iterdir() if d.is_dir())
+    if limit:
+        entry_dirs = entry_dirs[:limit]
 
-    meta.summary_title = summary.get("title")
-    meta.summary_description = summary.get("description")
-    meta.topic_tags = summary.get("tags", [])
-    meta.key_moments = summary.get("key_moments", [])
+    successes = 0
+    for entry_dir in entry_dirs:
+        meta_path = entry_dir / "metadata.json"
+        transcript_path = entry_dir / "transcript.json"
+        if not meta_path.exists() or not transcript_path.exists():
+            click.echo(f"  ⏭️  {entry_dir.name}: missing files")
+            continue
 
-    meta_path.write_text(meta.model_dump_json(indent=2), encoding="utf-8")
-    click.echo(f"✓ {meta.summary_title}")
-    click.echo(f"  {meta.summary_description}")
-    click.echo(f"  tags: {', '.join(meta.topic_tags)}")
+        meta_data = json.loads(meta_path.read_text(encoding="utf-8"))
+        transcript_data = json.loads(transcript_path.read_text(encoding="utf-8"))
+        meta = SpaceMetadata(**meta_data)
+        transcript = Transcript(**transcript_data)
+
+        click.echo(f"  → {entry_dir.name}...")
+        summary = summarize_transcript(transcript)
+        if not summary:
+            click.echo(f"    ✗ failed")
+            continue
+
+        meta.summary_title = summary.get("title")
+        meta.summary_description = summary.get("description")
+        meta.topic_tags = summary.get("tags", [])
+        meta.key_moments = summary.get("key_moments", [])
+        meta.pull_quote = summary.get("pull_quote")
+
+        meta_path.write_text(meta.model_dump_json(indent=2), encoding="utf-8")
+        click.echo(f"    ✓ {meta.summary_title}")
+        if meta.pull_quote:
+            click.echo(f"      quote: \"{meta.pull_quote[:80]}...\"")
+        successes += 1
+
+    click.echo(f"\nResummarized {successes}/{len(entry_dirs)} entries.")
+
 def main() -> None:
     cli()
 

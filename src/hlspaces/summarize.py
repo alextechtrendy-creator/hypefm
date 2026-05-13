@@ -1,4 +1,4 @@
-"""Generate title, description, tags, and key moments for a Space using Claude Haiku."""
+"""Generate title, description, tags, key moments, and pull quote for a Space."""
 from __future__ import annotations
 
 import json
@@ -18,29 +18,49 @@ TOPIC_VOCAB = [
 ]
 
 
-SYSTEM_PROMPT = f"""You are summarizing X Spaces (audio conversations) about Hyperliquid, a decentralized perpetual futures exchange.
+SYSTEM_PROMPT = f"""You are writing titles, descriptions, and pull quotes for archived X Spaces about Hyperliquid (a decentralized perpetual futures exchange).
 
-Given a transcript with timestamps, produce a JSON object with FOUR fields:
+The goal: make someone in the Hyperliquid community stop scrolling and click. Wrong tone is press release. Right tone is intriguing fact.
 
-1. "title": A descriptive title for the Space, 8-15 words, sentence case. Capture the actual topic, not a generic "weekly call" label. Examples:
-   - "Why HLP outperformed every quarter of 2025 and what changes next year"
-   - "How a quant team rewrote their execution stack around Hyperliquid"
+Given a transcript with timestamps, produce JSON with FIVE fields:
 
-2. "description": A one-line standfirst (under 20 words) describing what listeners get. Concrete and intriguing.
+1. "title": 8-15 words, sentence case. Rules:
+   - Lead with the most interesting fact, claim, or angle — not the company name
+   - Use specific numbers when meaningful ("488% backtest", "45% win rate", "80+ teams")
+   - Promise tension or contrast when present
+   - Avoid generic verbs: "launches", "building", "introduces", "explains"
+   - Avoid press-release pattern "[Name]: [Generic descriptor]"
+   - If a project name appears, only include it when the name itself is the hook
+
+   Good: "Trading exotic perpetuals on Hyperliquid from weather to Fed rates"
+   Good: "HyperLiquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons"
+   Good: "Pair Protocol's 45% win rate strategy: pair trading on Hyperliquid"
+   Bad: "How [Company X] became Hyperliquid's [thing]"
+   Bad: "[Company X]: Building the Complete [Y] on Hyperliquid"
+
+2. "description": One line under 20 words. Concrete and intriguing. Add detail the title didn't.
 
 3. "tags": Array of 2-3 topic tags from this controlled vocabulary ONLY: {TOPIC_VOCAB}
    Don't invent tags outside this list.
 
 4. "key_moments": Array of 5-8 objects, each with:
-   - "timestamp_seconds": integer, the start time in seconds of that moment
-   - "label": short description (under 12 words) of what happens at that moment
-   The moments should map a listener through the Space — intro/setup, main topics, demos or specific examples, Q&A, roadmap/wrap-up. Spread them roughly across the full duration. Use timestamps that actually appear in the transcript.
+   - "timestamp_seconds": integer
+   - "label": short description under 12 words
+   Spread roughly across full duration. Use actual transcript timestamps.
+
+5. "pull_quote": ONE quote from the transcript, 8-25 words, that works standalone. Rules:
+   - Must be intriguing, opinionated, surprising, funny, or specific
+   - Must read as a coherent sentence — no filler like "yeah" "like" "you know"
+   - Must NOT be context-dependent ("as I was saying", "that thing we mentioned")
+   - Prefer concrete claims, numbers, contrarian takes, vivid metaphors
+   - Light cleanup is OK (remove "um", "uh", fix obvious word slips); preserve meaning
+   - If no quote in the transcript meets the bar, return null. A bad quote is worse than no quote.
+   - Do NOT include quotation marks in the value itself.
 
 Return ONLY valid JSON, no markdown fences, no commentary."""
 
 
 def _build_timestamped_transcript(transcript: Transcript, char_limit: int = 60000) -> str:
-    """Format transcript with timestamps so the LLM can pick key moments."""
     lines = []
     total_chars = 0
     for chunk in transcript.chunks:
@@ -55,7 +75,6 @@ def _build_timestamped_transcript(transcript: Transcript, char_limit: int = 6000
 
 
 def summarize_transcript(transcript: Transcript) -> Optional[dict]:
-    """Call Claude Haiku to generate title, description, tags, and key moments."""
     api_key = os.getenv("ANTHROPIC_API_KEY")
     if not api_key:
         print("  warn: ANTHROPIC_API_KEY not set, skipping summarization")
@@ -76,7 +95,7 @@ def summarize_transcript(transcript: Transcript) -> Optional[dict]:
     try:
         response = client.messages.create(
             model="claude-haiku-4-5",
-            max_tokens=800,
+            max_tokens=1000,
             system=SYSTEM_PROMPT,
             messages=[{
                 "role": "user",
@@ -107,7 +126,6 @@ def summarize_transcript(transcript: Transcript) -> Optional[dict]:
     if isinstance(data.get("tags"), list):
         data["tags"] = [t for t in data["tags"] if t in TOPIC_VOCAB]
 
-    # Validate and clean key_moments
     cleaned_moments = []
     for moment in data.get("key_moments", []):
         if isinstance(moment, dict) and "timestamp_seconds" in moment and "label" in moment:
@@ -119,5 +137,13 @@ def summarize_transcript(transcript: Transcript) -> Optional[dict]:
             except (ValueError, TypeError):
                 continue
     data["key_moments"] = cleaned_moments
+
+    # Clean pull_quote: strip wrapping quotes, allow None
+    pq = data.get("pull_quote")
+    if pq and isinstance(pq, str):
+        pq = pq.strip().strip('"').strip("'").strip()
+        data["pull_quote"] = pq if pq else None
+    else:
+        data["pull_quote"] = None
 
     return data

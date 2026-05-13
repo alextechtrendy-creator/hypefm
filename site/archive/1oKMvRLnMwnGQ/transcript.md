@@ -1,23 +1,25 @@
-# How AI agents are democratizing algorithmic trading on Hyperliquid
+# 488% backtest returns: How AI agents execute trading strategies on Hyperliquid
 
-_Robonet founders demo AI-powered strategy building, backtesting, and live deployment with real 488% returns._
+_Mike deployed an AI-built SMA crossover strategy on Hyperliquid using Robonet. Five dollars in credits, 488% backtest, now live as a vault._
+
+> 52 percent is already enough, because 80 percent of traders actually make no money, so you've already beaten that by a big margin.
 
 **Host:** @rekt_gang
 **Date:** 2026-04-15
 **Duration:** 1:02:39
-**Tags:** trading, infrastructure, ecosystem
+**Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1oKMvRLnMwnGQ
 
 ## Key moments
 
-- **[2:27]** Space opens with hosts testing audio and casual banter about X's new cash tags
-- **[7:10]** Introductions: Zerk from Wreck Gang introduces guests Augustus and Mike from Robonet and Elora
-- **[10:12]** Mike explains Elora's predictive AI network: 52-53% directional accuracy, forecasting future prices
-- **[17:16]** Augustus describes Robonet's evolution from token yield to intent-based automated strategy platform
-- **[22:49]** Mike shares real example: deployed AI strategy earning 488% backtest returns on ETH using SMA crossovers
-- **[34:53]** Augustus details security: private key management via Brevi, locked code execution, emergency stop controls
-- **[47:27]** Roadmap discussion: multi-asset support, oil/metals trading, funding rate arbitrage across venues
-- **[58:01]** Closing remarks: hosts thank Robonet team, discuss future where AI agents trade autonomously
+- **[2:27]** Space kicks off with Zerk and Wreck Gang validator intro
+- **[7:40]** Augustus introduces Robonet's ecosystem focus and seven-year crypto background
+- **[10:42]** Mike explains Elora's predictive AI: 52-53% directional accuracy baseline
+- **[17:16]** Robonet problem: fragmented trading infrastructure requiring multiple skill sets
+- **[22:49]** Mike's concrete example: 488% backtest from SMA crossover strategy deployed live
+- **[34:53]** Security deep dive: Brevi key management, code immutability, emergency stop controls
+- **[47:27]** Roadmap: Multi-asset, funding rate arbitrage, compliance-first vault products
+- **[56:31]** AI agents racing to zero: arbitrage disappears as barrier to entry collapses
 
 ## Transcript
 

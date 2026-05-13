@@ -25,47 +25,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1aJbdbokQwRKX",
-  "summary_title": "Liquid Banking and the HyperBeat Super App: Non-Custodial Finance",
-  "summary_description": "800 from HyperBeat explains how to trade, spend, and borrow against crypto assets in one account without giving up custody.",
+  "summary_title": "Trade, spend, borrow against Bitcoin—all from one non-custodial account",
+  "summary_description": "HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit, trade perps, and access 8+ currencies without trusting anyone.",
   "topic_tags": [
     "ecosystem",
-    "infrastructure",
-    "trading"
+    "trading",
+    "infrastructure"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 234,
-      "label": "Introduction to 800 and HyperBeat co-founder background"
-    },
-    {
       "timestamp_seconds": 417,
-      "label": "Origins of HyperBeat: from testnet validators to liquid banking focus"
+      "label": "HyperBeat origin: early traders who lost money, then built vaults"
     },
     {
       "timestamp_seconds": 478,
-      "label": "What is liquid banking: unified account for trading, spending, credit entirely non-custodial"
+      "label": "Liquid banking defined: unified account for trading, spending, credit—all non-custodial"
     },
     {
-      "timestamp_seconds": 720,
-      "label": "On-ramp and off-ramp problem: why HyperBeat built multi-currency solutions"
+      "timestamp_seconds": 599,
+      "label": "The problem: traders forced to withdraw to Arbitrum, then to CEX to spend"
     },
     {
-      "timestamp_seconds": 932,
-      "label": "Product walkthrough: signup, smart accounts, spending on credit, sweep-to-card feature"
+      "timestamp_seconds": 811,
+      "label": "New users from Turkey, Singapore, Vietnam discovering HyperLiquid via liquid banking onramps"
     },
     {
-      "timestamp_seconds": 1420,
-      "label": "Multiple currency support and forex fees: HyperBeat's low-cost approach"
+      "timestamp_seconds": 1113,
+      "label": "Wealth preservation: hold HyperLiquid, borrow against it—rich people don't sell assets"
     },
     {
-      "timestamp_seconds": 2116,
-      "label": "Incentives: HLP cashback and treasury-yield-based referral programs"
+      "timestamp_seconds": 1601,
+      "label": "Fees: 0.12% onramp/offramp for USD/EUR, up to 0.4% for other currencies"
     },
     {
-      "timestamp_seconds": 2903,
-      "label": "HIP3, HIP4, and future: spot assets, prediction markets, and ecosystem growth"
+      "timestamp_seconds": 2267,
+      "label": "Referral incentives: 25% of treasury yield from friends' deposits—scalable, not points"
+    },
+    {
+      "timestamp_seconds": 3357,
+      "label": "Native Bitcoin deposits permissionless via Unit; spend on credit without knowing HyperVM"
     }
   ],
+  "pull_quote": "Rich people don't sell their assets, they just borrow against them—now easily accessible to normal people for the first time.",
   "audio_captured": true,
   "audio_duration_seconds": 3760.2986875,
   "capture_failure_reason": null

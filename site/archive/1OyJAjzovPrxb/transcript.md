@@ -1,6 +1,8 @@
-# Catball NFTs, Illuminati mechanics, and Hyperliquid's ecosystem future
+# Catball's pyramid NFTs, trait trading, and Hyperliquid's ecosystem maturation
 
-_OG meme founder discusses NFT collection design, trait mechanics, and Hyperliquid's path amid ecosystem competition._
+_OG meme project reveals 5-tier NFT structure with ERC-1155 trait mechanics, addresses community drama around stablecoins and competitor launches._
+
+> Hyperliquid is winning because 11 people are generating billions yearly and actually threatening the cartels, while competitors arrive three years late with endless capital.
 
 **Host:** @rekt_gang
 **Date:** 2025-09-18
@@ -10,14 +12,14 @@ _OG meme founder discusses NFT collection design, trait mechanics, and Hyperliqu
 
 ## Key moments
 
-- **[3:25]** Catball intro: year-old meme, early Hyperliquid community member
-- **[5:26]** Origin story: launched via age.fun during early trenches era
-- **[10:00]** NFT collection launched with 1500+ organic wallets, 20k Hype volume
-- **[15:32]** Five-tier pyramid structure with illuminati-inspired mechanics explained
-- **[21:36]** ERC-721 reveal plus ERC-1155 trait system for post-mint customization
-- **[26:39]** Roguelike game plans: utility, NFT integration, trait distribution
-- **[32:13]** Critique of PayPal integration and ecosystem psyops, defense of native markets
-- **[42:47]** Competing perp DEXs and Hyperliquid's moat discussion
+- **[3:25]** Catball's origin: accidental meme launch via age.fun in May
+- **[6:58]** Spot market meme era ended; whales now farm points instead
+- **[10:30]** NFT mint hit 1500 wallets, ~20k HYPE volume, ~$10M in value
+- **[15:32]** 5-tier pyramid structure: 1416 Tier 1 to 20 Tier 5 NFTs
+- **[22:06]** ERC-721 art reveal in 2-4 weeks, then ERC-1155 trait splitting
+- **[26:39]** Roguelike game design document done; funding constraints block development
+- **[32:13]** Catball critiques PayPal/Paxos integration as ideological threat
+- **[41:46]** Competitors (CZ perps, Aster, Avantis) can't match Hyperliquid's execution
 
 ## Transcript
 

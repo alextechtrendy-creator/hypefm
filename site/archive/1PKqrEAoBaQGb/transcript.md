@@ -1,23 +1,25 @@
-# How Hydromancer became Hyperliquid's critical data infrastructure layer
+# 80+ teams use Hydromancer's data layer. What they're building on HyperLiquid.
 
-_Inside the data pipelines powering 80+ teams building on Hyperliquid, from market makers to HIP4 prediction market builders._
+_Infrastructure powering app builders, market makers, and HIP4 prediction markets—plus research showing 29% of HyperLiquid traders are profitable._
+
+> Hyperliquid uniquely cultivated a community of people who actually wants to trade, because Binance and Coinbase didn't manage to get any traction on their prediction market products.
 
 **Host:** @rekt_gang
 **Date:** 2026-04-22
 **Duration:** 1:00:40
-**Tags:** infrastructure, ecosystem, market-making
+**Tags:** infrastructure, ecosystem, perps, market-making
 **Source:** https://x.com/i/spaces/1PKqrEAoBaQGb
 
 ## Key moments
 
-- **[4:36]** Xeno introduces Hydromancer and its origin story from HyperDash
-- **[7:40]** Hydromancer pivots to infrastructure after realizing poor developer tooling pain
-- **[11:48]** 80+ teams rely on Hydromancer: app builders, market makers, and HIP4 deployers
-- **[13:49]** Explaining priority fees system (REITs and writes) and market maker execution advantage
-- **[19:55]** HIP4 prediction markets arriving soon with creative UI/UX opportunities versus HIP3
-- **[37:41]** Launching Reservoir: free historical Hyperliquid data forever for ecosystem transparency
-- **[40:44]** Research paper reveals 29% of Hyperliquid traders are profitable, outperforming traditional crypto
-- **[51:53]** Future plans: support HIP4 endpoints, expand public goods, and grow builder ecosystem
+- **[5:07]** Xeno introduces Hydromancer: from HyperDash to infra
+- **[6:39]** HyperDash acquired by pvp.trade; pivot to data layer
+- **[11:48]** 80+ teams using Hydromancer: app builders, market makers, HIP3/4
+- **[19:55]** HIP4 prediction markets: binary options, politics, sports
+- **[33:04]** Prediction: HIP4 launches early June, starting with binary options
+- **[37:41]** Reservoir: free historical HyperLiquid data for everyone
+- **[40:44]** Research: 29% of HyperLiquid traders are profitable
+- **[44:16]** Eastern European scalping terminals hit 80% user profitability
 
 ## Transcript
 

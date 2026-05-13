@@ -67,8 +67,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1OyJALwQYbNGb",
-  "summary_title": "First on-chain NFT collection launches on Hyperliquid EVM",
-  "summary_description": "Bren drops Tiny Hypercats, the first fully native NFT mint on Hyperliquid's new EVM, with live minting chaos and ecosystem updates.",
+  "summary_title": "First fully on-chain NFT collection launches on Hyperliquid EVM",
+  "summary_description": "Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS dependency, family-made traits stored forever.",
   "topic_tags": [
     "ecosystem",
     "infrastructure",
@@ -77,37 +77,38 @@
   "key_moments": [
     {
       "timestamp_seconds": 177,
-      "label": "Intro and gas limit challenges during early Tiny Hypercat minting"
+      "label": "Space kicks off with gas limit struggles during mint attempts"
     },
     {
-      "timestamp_seconds": 329,
-      "label": "How to become active user and access big blocks for minting explained"
+      "timestamp_seconds": 359,
+      "label": "Explaining dual block architecture and activation requirements"
     },
     {
-      "timestamp_seconds": 692,
-      "label": "Bren's journey from GIF animator to on-chain developer and artist"
+      "timestamp_seconds": 571,
+      "label": "Confirming first native on-chain NFT collection on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 722,
+      "label": "Artist journey from GIFs to on-chain development and deployment"
     },
     {
       "timestamp_seconds": 1239,
-      "label": "Hyperliquid EVM stealth launch and why decentralized rollout matters"
+      "label": "Hyperliquid EVM stealth launch creates equal-footing opportunity"
     },
     {
       "timestamp_seconds": 1794,
-      "label": "Rec gang plans to bridge Trippie Wolves and give away DAO-held NFTs"
+      "label": "Announcing plans to bridge Trippie Wolves to Hyperliquid EVM"
     },
     {
-      "timestamp_seconds": 2041,
-      "label": "Commemorative HyperLiquid NFTs selling OTC for $50k via HyperCo escrow"
+      "timestamp_seconds": 2072,
+      "label": "Commemorative Hyper NFTs trading at $50k OTC via escrow"
     },
     {
-      "timestamp_seconds": 3300,
-      "label": "NFT marketplace and first-mover advantage discussion for Hyperliquid"
-    },
-    {
-      "timestamp_seconds": 4558,
-      "label": "Mint progresses organically with community learning curve and distribution"
+      "timestamp_seconds": 4346,
+      "label": "Collection approaching 400 mints with organic community participation"
     }
   ],
+  "pull_quote": "The best things have a little bit of friction, and then when it's removed, everybody wants in. But now you kind of have that edge.",
   "audio_captured": true,
   "audio_duration_seconds": 8130.8373125,
   "capture_failure_reason": null

@@ -1,23 +1,24 @@
-# Trippy Wolves Bridge to Hyperliquid and Ecosystem Deep Dive
+# Trippy Wolves bridge to Hyperliquid, official NFTs worth 50K+, DeFi yields emerge
 
-_WRECK gang shares NFT migration, marketplace updates, DeFi strategies, and what's next for Hyperliquid's ecosystem._
+_Wreck Gang's NFT collection goes live on Hyperliquid EVM via Layer Zero. Official Hyperliquid NFTs expected Q1 2025 could reshape entire ecosystem._
+
+> The official Hyperliquid NFT is going to crush all other collections instantly—there's nothing competing against this in my opinion.
 
 **Host:** @rekt_gang
 **Date:** 2025-03-11
 **Duration:** 1:00:39
-**Tags:** ecosystem
+**Tags:** ecosystem, listings, community
 **Source:** https://x.com/i/spaces/1YqJDZmWarYKV
 
 ## Key moments
 
-- **[1:32]** Space introduction and community welcome
-- **[3:34]** Major announcement: Trippy Wolves bridging to Hyperliquid via Layer Zero
-- **[6:06]** NFT marketplaces overview—Liquid.fi, Net Protocol, Aspen, Drip
-- **[9:07]** Hyperliquid NFT collections recap—Tiny Hypercats, Hyper Frogs, Hyper Foxes, Gems
-- **[16:09]** EJ from Liquid.fi joins, discusses marketplace aggregation and upcoming features
-- **[28:45]** Official Hyperliquid NFT launch expected Q1 2025—predicted to dominate market
-- **[37:19]** Pivot to DeFi: HyperSwap, loop staking, and yield strategies
-- **[58:34]** Closing remarks—HyperFlash announcement for Thursday, weekly spaces planned
+- **[3:34]** Trippy Wolves bridge announcement and Layer Zero integration
+- **[9:07]** Tiny Hypercats minted out in four hours, first on-chain NFT collection
+- **[12:08]** Hyper Foxes on-chain game launch, wolf game clone mechanics
+- **[19:40]** Official Hyperliquid NFTs deployment Q1 2025, top 5K traders eligible
+- **[30:16]** Official NFT floor speculation at 50K, OTC sales already happening
+- **[38:50]** HyperSwap liquidity pools and loop type staking strategies discussed
+- **[56:02]** W-HYPE stable pairs earning 15-30% APR on HyperSwap
 
 ## Transcript
 

@@ -1,23 +1,25 @@
-# Bounce Tech: Non-liquidating leveraged tokens on Hyperliquid
+# Leverage tokens on Hyperliquid: no liquidation, constant rebalancing, composable perps
 
-_How leverage tokens work, why they outperform perps in rallies, and why Hyperliquid's infrastructure makes them possible._
+_Bounce Tech launches tokenized perpetual futures that auto-rebalance to maintain fixed leverage, eliminating liquidation risk while capturing directional moves._
+
+> If you have the directional movements or price to appreciate, your position up-levers, and that really does outperform the perpetual.
 
 **Host:** @rekt_gang
 **Date:** 2026-03-13
 **Duration:** 43:40
-**Tags:** perps, infrastructure, trading
+**Tags:** perps, trading, infrastructure
 **Source:** https://x.com/i/spaces/1yKAPMarbXbxb
 
 ## Key moments
 
-- **[0:26]** Host introduces Bounce Tech team and space begins
-- **[4:48]** Louis and Max introduce themselves and their background with TLX
-- **[6:18]** Core explanation: what are leveraged tokens and how do they rebalance
-- **[8:50]** Key advantage: no liquidation risk, but volatility decay in sideways markets
-- **[20:26]** Why Hyperliquid EVM precompiles made this product possible
-- **[28:30]** DeFi composability: delta-neutral pools and tax-efficient funding strategies
-- **[31:31]** HIP3 markets coming soon with higher possible leverage for commodities
-- **[39:06]** Closing: points campaign confirmed, token planned, six-month and two-year roadmap
+- **[4:48]** Louis introduces Bounce Tech CEO background and German roots
+- **[6:48]** Leverage tokens explained: constant leverage via reactive rebalancing
+- **[7:49]** Max reveals ERC-20 composability advantage across DeFi protocols
+- **[10:20]** Volatility decay risk: up-lever, down-lever cycles reduce returns
+- **[20:26]** Hyperliquid EVM precompiles unlock composable perp liquidity
+- **[28:30]** Delta-neutral LP strategy: pair short leverage tokens with spot
+- **[32:01]** HIP3 commodity markets coming: potential 7x-10x leverage tokens
+- **[39:06]** Plans confirmed: Bounce points campaign and token incoming
 
 ## Transcript
 

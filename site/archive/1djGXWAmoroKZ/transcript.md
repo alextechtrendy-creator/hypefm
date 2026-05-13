@@ -1,23 +1,25 @@
-# HyperLiquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons
+# Hyperliquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons
 
-_Deep dive into HyperBeat-Kinetic dispute, why HyperEVM stalled, and what Cosmos taught us about tokenomics._
+_Trading exotic perpetuals from SpaceX to pre-IPO stocks, plus drama around HyperBeat and Kinetic points allocation._
+
+> If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core.
 
 **Host:** @rekt_gang
 **Date:** 2025-11-14
 **Duration:** 1:17:00
-**Tags:** perps, ecosystem, governance
+**Tags:** perps, ecosystem, governance, vaults
 **Source:** https://x.com/i/spaces/1djGXWAmoroKZ
 
 ## Key moments
 
-- **[1:39]** Opening: market chaos and profit-taking lessons from Cosmos collapse
-- **[3:40]** SpaceX pre-IPO stock trading on HyperLiquid; early user enthusiasm
-- **[6:13]** HyperBeat VLP closure and why mechanics didn't work for participants
-- **[7:13]** Kinetic-HyperBeat drama: promised K-HYPE tokens never materialized
-- **[11:16]** HyperEVM expectations failed; copy-paste chains don't drive adoption
-- **[13:17]** Lending protocol returning to HyperLiquid core instead of EVM
-- **[19:51]** HIP3 stocks: high funding rates block long-term positions despite 10x upside
-- **[43:11]** Stargaze governance fight and survival strategy beyond Cosmos Hub acquisition
+- **[3:40]** Trading pre-IPO stocks like SpaceX on Hyperliquid with unrealized gains
+- **[6:13]** HyperBeat drama: teams promoted points that never materialized
+- **[9:46]** Cosmos ecosystem collapse: Drop protocol shut down farming after a year
+- **[11:16]** Hyper EVM adoption struggles despite first-mover advantage
+- **[19:51]** HIP3 markets and stock perpetuals funded by Hyperliquid buybacks
+- **[52:18]** Tiny Hypercats NFT collection doing well despite market downturn
+- **[1:01:22]** Banker trading engine API rollout coming for advanced trading features
+- **[1:09:30]** USDH liquid stake derivative TVL growing toward 28 million
 
 ## Transcript
 

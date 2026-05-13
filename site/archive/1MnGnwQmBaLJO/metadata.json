@@ -31,47 +31,48 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1MnGnwQmBaLJO",
-  "summary_title": "OptFun: Building 1000X leverage options on Hyperliquid",
-  "summary_description": "Ryan from OptFun explains how they created fair, on-chain options trading with 1000X leverage for one-minute Bitcoin bets.",
+  "summary_title": "OptFun's thousand-X leverage options let you 15X in one minute on Bitcoin",
+  "summary_description": "One-minute expiry options on Hyperliquid EVM let degens take extreme bets without meme coin rug pull risk. 84M volume in week one.",
   "topic_tags": [
     "perps",
-    "infrastructure",
+    "trading",
     "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 147,
-      "label": "Intro: hosts meet with OptFun's Ryan to discuss the platform"
+      "timestamp_seconds": 189,
+      "label": "OptFun pitch: thousand-X leverage on one-minute Bitcoin trades"
     },
     {
-      "timestamp_seconds": 460,
-      "label": "Ryan introduces OptFun: 1000X leverage options on Hyperliquid for one minute"
+      "timestamp_seconds": 491,
+      "label": "Ryan explains OptFun as fairest high-volatility bet platform"
     },
     {
-      "timestamp_seconds": 794,
-      "label": "Why OptFun chose Hyperliquid: ecosystem merit, no VC dumping, devoted traders"
+      "timestamp_seconds": 612,
+      "label": "How OptFun differs from Pump Fun: real liquidity instead of insider rugs"
     },
     {
-      "timestamp_seconds": 1248,
-      "label": "Technical deep dive: on-chain order book, settlement every minute, UX simplicity"
+      "timestamp_seconds": 824,
+      "label": "Why Hyperliquid won: devoted traders, no VC dumps, level playing field"
     },
     {
-      "timestamp_seconds": 1520,
-      "label": "Trading tips: enter early in cycle, watch momentum, start with 200X leverage"
+      "timestamp_seconds": 1461,
+      "label": "Pro tip: place trades 30-60 seconds into cycle, watch Bitcoin momentum"
     },
     {
-      "timestamp_seconds": 1792,
-      "label": "Future roadmap: HYPE token support, HIP3 oracle integration, mobile app development"
+      "timestamp_seconds": 1791,
+      "label": "Hype token next, then any asset with Hyperliquid market or HIP3 feed"
     },
     {
-      "timestamp_seconds": 2366,
-      "label": "Monetization and sustainability: 5% maker-taker fees, points system, potential airdrops"
+      "timestamp_seconds": 2214,
+      "label": "Biggest win seen: 15X return in single minute"
     },
     {
-      "timestamp_seconds": 3188,
-      "label": "Wrap-up: community feedback encouraged, points system teased, call to action"
+      "timestamp_seconds": 2461,
+      "label": "84 million trading volume in first week"
     }
   ],
+  "pull_quote": "We're giving you the same thrill of extreme volatility as Pump Fun, but on a fairer venue with actual Bitcoin liquidity, not a meme coin rug pull.",
   "audio_captured": true,
   "audio_duration_seconds": 3328.8746875,
   "capture_failure_reason": null

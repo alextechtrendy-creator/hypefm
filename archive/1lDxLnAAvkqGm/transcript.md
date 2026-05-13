@@ -1,23 +1,25 @@
-# Hyperliquid's First Integration: Squid Cross-Chain Swaps and Vault Strategies
+# Hyperliquid's liquidator vault: 11% monthly returns on other traders' losses
 
-_How Hyperliquid partnered with Squid to onboard users from any blockchain, plus new vaults, API trading, and referral programs._
+_Jeff reveals how Hyperliquid's vaults let you profit passively when traders get liquidated—with real 10-11% monthly yields so far._
+
+> You only need people to get liquidated to profit from it. 11% for something very low risk, I think, is amazing.
 
 **Host:** @rekt_gang
 **Date:** 2023-03-31
 **Duration:** 1:14:10
-**Tags:** perps, infrastructure, ecosystem
+**Tags:** vaults, trading, perps
 **Source:** https://x.com/i/spaces/1lDxLnAAvkqGm
 
 ## Key moments
 
-- **[5:32]** Introductions: Jeff (Hyperliquid), Fig (Squid), Zuli (builder ecosystem)
-- **[9:05]** Why Hyperliquid built its own L1 and chose Squid for first integration
-- **[11:07]** Fig explains Squid's cross-chain vision using Axelar infrastructure
-- **[21:43]** One-click UX flows and roadmap for fiat on-ramps via Kato
-- **[27:15]** Hyperliquid referral program, vaults rebrand, and liquidator pool showcase
-- **[31:48]** API trading launch with Python SDK examples for quant traders
-- **[46:28]** Regulatory approach: decentralized protocol with compliant front-end portal
-- **[50:32]** Future roadmap: 20-second cross-chain swaps, Cosmos integration, design refresh
+- **[6:03]** Zuli introduces Hyperliquid integration work since December
+- **[9:05]** Jeff explains why Hyperliquid built its own L1 instead of using Arbitrum
+- **[10:06]** Squid integration announced as first collaboration, enabling cross-chain deposits
+- **[27:15]** Referral program launch with weekly USDC rewards, limited invites per week
+- **[30:17]** Vaults rebranded, combining Uniswap pools, Yearn, and copy trading features
+- **[31:48]** API trading goes live with Python SDK examples for quant strategies
+- **[34:50]** Liquidator vault explained: passive income from liquidations, 11% APY currently
+- **[55:05]** Roadmap focus: onboarding users and brand redesign over new features
 
 ## Transcript
 
