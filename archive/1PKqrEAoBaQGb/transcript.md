@@ -1,25 +1,31 @@
-# 80+ teams use Hydromancer's data layer. What they're building on HyperLiquid.
+# 80+ teams building on Hydromancer: infrastructure, HIP4, and trader profitability
 
-_Infrastructure powering app builders, market makers, and HIP4 prediction markets—plus research showing 29% of HyperLiquid traders are profitable._
+_Xeno from Hydromancer shares data insights, HIP4 prediction market strategy, and how 29% of Hyperliquid traders are actually profitable._
 
-> Hyperliquid uniquely cultivated a community of people who actually wants to trade, because Binance and Coinbase didn't manage to get any traction on their prediction market products.
+> Hyperliquid uniquely cultivated a community of people who actually want to trade, unlike Binance or Coinbase.
+> — Xeno, Hydromancer
 
 **Host:** @rekt_gang
 **Date:** 2026-04-22
 **Duration:** 1:00:40
-**Tags:** infrastructure, ecosystem, perps, market-making
+**Tags:** infrastructure, ecosystem, perps
 **Source:** https://x.com/i/spaces/1PKqrEAoBaQGb
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Xeno** — Hydromancer _guest_
 
 ## Key moments
 
-- **[5:07]** Xeno introduces Hydromancer: from HyperDash to infra
-- **[6:39]** HyperDash acquired by pvp.trade; pivot to data layer
-- **[11:48]** 80+ teams using Hydromancer: app builders, market makers, HIP3/4
-- **[19:55]** HIP4 prediction markets: binary options, politics, sports
-- **[33:04]** Prediction: HIP4 launches early June, starting with binary options
-- **[37:41]** Reservoir: free historical HyperLiquid data for everyone
-- **[40:44]** Research: 29% of HyperLiquid traders are profitable
-- **[44:16]** Eastern European scalping terminals hit 80% user profitability
+- **[5:07]** Xeno introduces Hydromancer's origin: HyperDash experiment
+- **[7:09]** HyperDash acquired by pvp.trade, Hydromancer pivots to infra
+- **[11:48]** 80+ teams using Hydromancer for data, market-making, and app building
+- **[13:49]** Priority fees system: REITs vs RFQs explained for execution speed
+- **[20:25]** HIP4 prediction markets coming soon, more creative than HIP3
+- **[33:04]** Xeno predicts HIP4 launch in early June
+- **[40:12]** Research paper: 29% of Hyperliquid traders are profitable
+- **[44:16]** Eastern European scalping terminal shows 80% user profitability
 
 ## Transcript
 

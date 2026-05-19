@@ -1,25 +1,32 @@
-# Decentralized stablecoins beat centralized custodians—Sky's 4.85% yield on Hyperliquid
+# Sky's decentralized stablecoin governance and Hyperliquid collateral opportunities
 
-_Rune from Sky explains why USDH needs governance-first infrastructure, parallel deployments, and diversified collateral beyond T-bills._
+_Rune from Sky discusses tokenized agents, risk frameworks, and why decentralized money matters for crypto's future._
 
-> The whole point of crypto is it delivers better infrastructure that makes it easier for people to be completely sure they're not getting ripped off by counterparties and their assets are safe.
+> Decentralization is the whole purpose of why crypto was created as a reaction to the financial crisis.
+> — Rune, Sky
 
 **Host:** @rekt_gang
 **Date:** 2025-09-09
 **Duration:** 46:28
-**Tags:** perps, governance, ecosystem, infrastructure
+**Tags:** perps, governance, ecosystem
 **Source:** https://x.com/i/spaces/1yoKMPQOoQWxQ
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — RecGang _host_
+- **Rune** — Sky _guest_
+- **PVR** _guest_
 
 ## Key moments
 
-- **[2:08]** Rune introduces Sky's vision and stablecoin philosophy
-- **[6:11]** Origin story: lost everything in 2011 Bitcoin crash, co-founded Maker
-- **[9:13]** Why decentralized money matters: transparency, no counterparty risk
-- **[19:20]** Sky's governance tools and star agents framework explained
-- **[30:27]** Using Hyperliquid native collateral: HLP, purpose positions, LSTs
-- **[35:06]** USDH proposal: liquidity, existing rails, 4.85% yield promise
-- **[38:37]** Spark protocol launch and free access for normal users
-- **[44:10]** Final call: support Sky proposal, explore star agents and Spark
+- **[5:10]** Host introduction: Zerk from RecGang, validator on Hyperliquid
+- **[6:11]** Rune's origin story: Bitcoin crash in 2011 led to stablecoins and Maker
+- **[7:12]** Sky's differentiator: decentralized governance and autonomous infrastructure
+- **[9:13]** Decentralized vs custodial stablecoins: crypto ethos and user protection
+- **[19:50]** USDH proposal: wrapping USDS with Hyperliquid star agent and governance
+- **[32:00]** Risk framework: using any uncorrelated asset as collateral with proper enhancement
+- **[35:06]** Sky's case for USDH: 4.85% returns, liquidity, and efficiency without new infrastructure
+- **[44:10]** Call to action: support USDH proposal and explore Spark on Hyperliquid
 
 ## Transcript
 

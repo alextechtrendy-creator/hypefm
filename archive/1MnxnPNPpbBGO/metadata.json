@@ -12,70 +12,68 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1146341864561418240",
-      "username": "marcuppe",
-      "display_name": "Marcus Uppe",
-      "role": "speaker"
+      "name": "Ivan",
+      "handle": null,
+      "team": "Things",
+      "role": "guest"
     },
     {
-      "user_id": "1857133053438566400",
-      "username": "nxtdown",
-      "display_name": "next down",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1983369115877478400",
-      "username": "tingsxyz",
-      "display_name": "tings",
-      "role": "speaker"
+      "name": "Nox",
+      "handle": null,
+      "team": "Things",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1MnxnPNPpbBGO",
-  "summary_title": "Trading weather, Fed rates, and Bitcoin hash rate on Hyperliquid's new perpdex",
-  "summary_description": "Things launches exotic perpetual markets for signals usually hidden behind proxies—weather, unemployment, commodities—with reliable oracles and in-house market making.",
+  "summary_title": "Trading weather, Fed rates, and egg prices on Hyperliquid",
+  "summary_description": "Things team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid.",
   "topic_tags": [
     "perps",
     "ecosystem",
-    "infrastructure",
-    "market-making"
+    "infrastructure"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 469,
-      "label": "Things perpdex launches exotic perpetual markets on Hyperliquid"
+      "timestamp_seconds": 288,
+      "label": "Things: exotic perps for signals, not proxies"
     },
     {
       "timestamp_seconds": 500,
-      "label": "Core insight: people trade derivatives of signals via proxies instead of directly"
+      "label": "Fed rate example—why perps beat binary prediction markets"
     },
     {
-      "timestamp_seconds": 621,
-      "label": "Weather and unemployment examples show why perps beat binary prediction markets"
+      "timestamp_seconds": 834,
+      "label": "Weather markets: hedging use case for Bitcoin miners"
     },
     {
       "timestamp_seconds": 1078,
-      "label": "Oracle design criteria: easily verifiable, multiple sources, hard to manipulate"
+      "label": "Oracle design: multi-source, easily verifiable, hard to manipulate"
     },
     {
-      "timestamp_seconds": 1382,
-      "label": "Testnet launching next week with in-house market maker and points competition"
+      "timestamp_seconds": 1688,
+      "label": "Testnet launch next week, 20% of points allocated to testnet traders"
     },
     {
-      "timestamp_seconds": 1899,
-      "label": "20% of total token supply allocated to testnet traders; 10% referral yield"
+      "timestamp_seconds": 2295,
+      "label": "Points program rewards profitable trading, not wash volume"
     },
     {
       "timestamp_seconds": 2569,
-      "label": "Why Hyperliquid: permissionless market deploys and fairest conditions for builders"
+      "label": "Why Hyperliquid: permissionless deploys and best community"
     }
   ],
-  "pull_quote": "Instead of being forced to long Bitcoin as a proxy for Fed rate, why not give people ability to trade the signals directly?",
+  "pull_quote": "We're trying to find markets that are easily verifiable, deterministic, with everything obvious and nothing like a black box",
+  "quote_attribution": {
+    "name": "Ivan",
+    "team": "Things",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3490.688,
   "capture_failure_reason": null

@@ -12,61 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "Wrecking",
       "role": "host"
     },
     {
-      "user_id": "1826173605287182336",
-      "username": "Catbal",
-      "display_name": "Catbal",
-      "role": "speaker"
+      "name": "Catball",
+      "handle": null,
+      "team": "Catball",
+      "role": "guest"
+    },
+    {
+      "name": "Toast",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1OyJAjzovPrxb",
-  "summary_title": "Catball's pyramid NFTs, trait trading, and Hyperliquid's ecosystem maturation",
-  "summary_description": "OG meme project reveals 5-tier NFT structure with ERC-1155 trait mechanics, addresses community drama around stablecoins and competitor launches.",
+  "summary_title": "Catball's pyramid NFTs, trait trading, and Hyperliquid's resistance to cartels",
+  "summary_description": "How a year-old meme became a tiered NFT project with customizable traits, and why the community fights PayPal influence.",
   "topic_tags": [
     "ecosystem",
     "community",
-    "governance"
+    "trading"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 205,
-      "label": "Catball's origin: accidental meme launch via age.fun in May"
+      "label": "Catball introduction: one year old, first memes on Hyperliquid"
     },
     {
-      "timestamp_seconds": 418,
-      "label": "Spot market meme era ended; whales now farm points instead"
+      "timestamp_seconds": 326,
+      "label": "Origin story: launched semi-accidentally via Agefun token creator in May"
     },
     {
-      "timestamp_seconds": 630,
-      "label": "NFT mint hit 1500 wallets, ~20k HYPE volume, ~$10M in value"
+      "timestamp_seconds": 539,
+      "label": "Pivot to NFTs: 1500 wallets, 10k HYPE volume at mint, free PFPs on Soul Bound"
     },
     {
-      "timestamp_seconds": 932,
-      "label": "5-tier pyramid structure: 1416 Tier 1 to 20 Tier 5 NFTs"
+      "timestamp_seconds": 902,
+      "label": "Five-tier pyramid structure: 1416 Tier 1 to 20 Tier 5, inspired by Illuminati/Buddhism"
     },
     {
-      "timestamp_seconds": 1326,
-      "label": "ERC-721 art reveal in 2-4 weeks, then ERC-1155 trait splitting"
+      "timestamp_seconds": 1266,
+      "label": "ERC721 + ERC1155 reveal strategy: traits as tradeable items, partner integrations"
     },
     {
       "timestamp_seconds": 1599,
-      "label": "Roguelike game design document done; funding constraints block development"
+      "label": "Game roadmap: roguelike dungeon experience, PvP, utility via traits distribution"
     },
     {
       "timestamp_seconds": 1933,
-      "label": "Catball critiques PayPal/Paxos integration as ideological threat"
+      "label": "Catball's post on PayPal integration: crypto hijacked by establishment figures"
     },
     {
-      "timestamp_seconds": 2506,
-      "label": "Competitors (CZ perps, Aster, Avantis) can't match Hyperliquid's execution"
+      "timestamp_seconds": 2416,
+      "label": "Hyperliquid wins: USDC native, Paxos coming, hype near all-time high at 59"
     }
   ],
-  "pull_quote": "Hyperliquid is winning because 11 people are generating billions yearly and actually threatening the cartels, while competitors arrive three years late with endless capital.",
+  "pull_quote": "If you want to be a billionaire in crypto it has to come from somewhere, and it feels off because it is a zero-sum game.",
+  "quote_attribution": {
+    "name": "Catball",
+    "team": "Catball",
+    "role": "founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3570.7093125,
   "capture_failure_reason": null

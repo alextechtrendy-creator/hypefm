@@ -12,62 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "Rekt Gang",
       "role": "host"
     },
     {
-      "user_id": "1923501722741190656",
-      "username": "LuckyPonds",
-      "display_name": "Lucky Ponds 🍀",
-      "role": "speaker"
+      "name": "Bernie",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1gqxvjnnzPzxB",
-  "summary_title": "Lucky Ponds: lottery gaming on Hyperliquid with 7% fees flowing back to HyperFrogs holders",
-  "summary_description": "Bernie built a daily, weekly, and monthly raffle app where players deposit 0.1+ HYPE for a chance to win the full pool. Revenue splits to frog holders.",
+  "summary_title": "Lucky Ponds: Lottery gambling on Hyperliquid with HyperFrog revenue share",
+  "summary_description": "Bernie's new gambling app lets you deposit 0.1 HYPE to win big, with 7% of winnings flowing back to HyperFrog holders.",
   "topic_tags": [
     "perps",
-    "trading",
     "ecosystem",
-    "community"
+    "trading"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 91,
-      "label": "Host opens space, announces HyperFrogs and Lucky Ponds discussion"
-    },
-    {
       "timestamp_seconds": 426,
-      "label": "Zerk introduces Bernie, Cosmos dev pivoting to HyperVM and Hyperliquid"
+      "label": "Bernie intro: Cosmos OG dev pivots to Hyperliquid and HyperVM"
     },
     {
-      "timestamp_seconds": 487,
-      "label": "HyperFrogs: first ASCII collection on HyperEVM with fully on-chain JPEGs"
+      "timestamp_seconds": 517,
+      "label": "HyperFrogs launch: second on-chain ASCII collection, full JPEG storage"
     },
     {
-      "timestamp_seconds": 548,
-      "label": "Bernie explains what drew him to Hyperliquid: learning EVM, Solidity, first-mover advantage"
+      "timestamp_seconds": 640,
+      "label": "Migration issue: contract wasn't recognized as NFT, required workaround"
     },
     {
       "timestamp_seconds": 791,
-      "label": "Zerk names real reason: Cosmos broke, Hyperliquid has liquidity and degens willing to gamble"
+      "label": "Why Hyperliquid: Cosmos had no liquidity, poor user engagement, drama"
     },
     {
       "timestamp_seconds": 1155,
-      "label": "Lucky Ponds launches with 7% fee to HyperFrogs holders on every win"
+      "label": "Lucky Ponds structure: 7% fee on wins goes to HyperFrog holders"
     },
     {
       "timestamp_seconds": 1614,
-      "label": "Game goes live after one hour; first week includes Trippy Wolf NFT rewards"
+      "label": "Launch live now: daily, weekly, monthly pools plus Wreck Gang NFT giveaway"
     },
     {
       "timestamp_seconds": 2071,
-      "label": "Five-minute hyper mode explained: short PVP bursts, requires active simultaneous players"
+      "label": "HyperMode: experimental 5-minute and hourly pools for degens"
+    },
+    {
+      "timestamp_seconds": 2344,
+      "label": "Security: no VRF yet, relies on hard contract calls requiring 4-block control"
     }
   ],
-  "pull_quote": "There's just more liquidity, more people, more fun on Hyperliquid right now. I mean, it's just the truth, right?",
+  "pull_quote": "Cosmos had a lot of drama and is missing key players that actually do stuff on chain. Here people are building meme coins and communities centered around liquidity.",
+  "quote_attribution": {
+    "name": "Bernie",
+    "team": null,
+    "role": "developer"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2530.5173125,
   "capture_failure_reason": null

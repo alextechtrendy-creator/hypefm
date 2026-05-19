@@ -33,6 +33,11 @@ def render_markdown(meta: SpaceMetadata, transcript: Transcript) -> str:
         lines.append("")
     if meta.pull_quote:
         lines.append(f"> {meta.pull_quote}")
+        if meta.quote_attribution and meta.quote_attribution.get("name"):
+            name = meta.quote_attribution.get("name", "")
+            team = meta.quote_attribution.get("team")
+            attrib = f"— {name}" + (f", {team}" if team else "")
+            lines.append(f"> {attrib}")
         lines.append("")
     if meta.host_username:
         lines.append(f"**Host:** @{meta.host_username}")
@@ -44,6 +49,22 @@ def render_markdown(meta: SpaceMetadata, transcript: Transcript) -> str:
         lines.append(f"**Tags:** {', '.join(meta.topic_tags)}")
     lines.append(f"**Source:** {meta.space_url}")
     lines.append("")
+    if meta.participants:
+        lines.append("## Who's talking")
+        lines.append("")
+        for p in meta.participants:
+            name = p.get("name", "")
+            handle = p.get("handle")
+            team = p.get("team")
+            role = p.get("role", "guest")
+            line = f"- **{name}**"
+            if handle:
+                line += f" (@{handle})"
+            if team:
+                line += f" — {team}"
+            line += f" _{role}_"
+            lines.append(line)
+        lines.append("")
     if meta.key_moments:
         lines.append("## Key moments")
         lines.append("")
@@ -78,6 +99,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     --accent-bg: rgba(13, 104, 86, 0.1);
     --quote-bg: #043b30;
     --quote-fg: #fafaf7;
+    --quote-accent: #97FCE4;
     --border: #d4d2c5;
     --border-light: #e5e5e0;
   }}
@@ -101,20 +123,46 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 14px; color: #555;
     margin: 0 0 1rem; line-height: 1.55;
   }}
-  .pull-quote {{
+  .quote-card {{
     background: var(--quote-bg);
     border-radius: 8px;
     padding: 22px 24px;
     margin: 0 0 1.25rem;
+  }}
+  .quote-text {{
     font-family: Georgia, serif;
     font-style: italic;
     font-size: 17px;
     color: var(--quote-fg);
     line-height: 1.4;
+    margin: 0;
     font-weight: 500;
   }}
+  .quote-byline {{
+    margin: 14px 0 0; padding-top: 12px;
+    border-top: 1px solid rgba(151, 252, 228, 0.18);
+    display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap;
+    font-size: 12px; line-height: 1.4;
+  }}
+  .quote-byline-name {{ color: var(--quote-fg); font-weight: 600; }}
+  .quote-byline-role {{ color: rgba(151, 252, 228, 0.85); }}
+  .quote-byline-sep {{ color: rgba(151, 252, 228, 0.4); }}
+  .quote-byline-team {{
+    display: inline-flex; align-items: center;
+    background: rgba(151, 252, 228, 0.12);
+    border: 1px solid rgba(151, 252, 228, 0.3);
+    color: var(--quote-accent); font-weight: 500;
+    padding: 2px 9px; border-radius: 12px;
+    text-decoration: none; font-size: 11px;
+    transition: background 0.1s;
+  }}
+  .quote-byline-team:hover {{
+    background: rgba(151, 252, 228, 0.22);
+    border-color: rgba(151, 252, 228, 0.5);
+  }}
   .meta {{ font-size: 11px; color: var(--fg-faint); margin: 0 0 1.25rem; }}
-  .meta .tag {{ color: var(--accent); font-weight: 500; }}
+  .meta .tag {{ color: var(--accent); font-weight: 500; cursor: pointer; }}
+  .meta .tag:hover {{ text-decoration: underline; }}
   audio {{ width: 100%; height: 42px; margin-bottom: 1.5rem; }}
   .audio-unavailable {{
     font-size: 12px; color: var(--fg-muted); font-style: italic;
@@ -126,6 +174,27 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     font-size: 11px; color: var(--fg-muted);
     margin: 1.5rem 0 0.5rem; font-weight: 500;
     text-transform: uppercase; letter-spacing: 0.06em;
+  }}
+  .participants {{ display: flex; flex-direction: column; margin-bottom: 1.75rem; }}
+  .participant {{
+    display: flex; gap: 16px; padding: 10px 0;
+    border-top: 1px solid var(--border-light);
+    align-items: baseline;
+  }}
+  .participant:first-of-type {{ border-top: 0; padding-top: 4px; }}
+  .participant-name {{
+    font-size: 13px; font-weight: 500; color: var(--fg);
+    min-width: 120px;
+  }}
+  .participant-name a {{ color: var(--accent); text-decoration: none; }}
+  .participant-name a:hover {{ text-decoration: underline; }}
+  .participant-affiliation {{
+    font-size: 12px; color: #666; flex: 1; line-height: 1.45;
+  }}
+  .participant-role {{
+    font-size: 10px; color: var(--accent); font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.05em;
+    background: var(--accent-bg); padding: 2px 7px; border-radius: 3px;
   }}
   .moments {{ display: flex; flex-direction: column; gap: 2px; margin-bottom: 1.75rem; }}
   .moment {{
@@ -160,9 +229,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
     display: flex; gap: 0.6rem; font-size: 11px; margin-bottom: 0.25rem;
     color: var(--fg-muted);
   }}
-  .chunk-ts {{
-    color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500;
-  }}
+  .chunk-ts {{ color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500; }}
   .chunk-speaker {{ font-weight: 500; }}
   .chunk-text {{ color: #333; font-size: 13px; line-height: 1.55; }}
   .footer {{
@@ -173,7 +240,8 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
   .footer a:hover {{ color: var(--accent); }}
   @media (max-width: 600px) {{
     h1 {{ font-size: 20px; }}
-    .pull-quote {{ font-size: 15px; padding: 18px 20px; }}
+    .quote-text {{ font-size: 15px; }}
+    .quote-card {{ padding: 18px 20px; }}
   }}
 </style>
 </head>
@@ -184,10 +252,12 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 
 <h1>{title}</h1>
 {description_html}
-{quote_html}
+{quote_card_html}
 <p class="meta">{meta_html}</p>
 
 {audio_section}
+
+{participants_section}
 
 {moments_section}
 
@@ -236,9 +306,21 @@ def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str
     if meta.summary_description:
         description_html = f'<p class="description">{_escape(meta.summary_description)}</p>'
 
-    quote_html = ""
+    quote_card_html = ""
     if meta.pull_quote:
-        quote_html = f'<div class="pull-quote">"{_escape(meta.pull_quote)}"</div>'
+        quote_html = f'<p class="quote-text">"{_escape(meta.pull_quote)}"</p>'
+        byline_html = ""
+        attr = meta.quote_attribution
+        if attr and attr.get("name"):
+            parts = [f'<span class="quote-byline-name">{_escape(attr["name"])}</span>']
+            if attr.get("role"):
+                parts.append(f'<span class="quote-byline-role">{_escape(attr["role"])}</span>')
+            if attr.get("team"):
+                team_url = "../../index.html?team=" + _escape(attr["team"])
+                parts.append('<span class="quote-byline-sep">&middot;</span>')
+                parts.append(f'<a class="quote-byline-team" href="{team_url}">{_escape(attr["team"])}</a>')
+            byline_html = f'<div class="quote-byline">{"".join(parts)}</div>'
+        quote_card_html = f'<div class="quote-card">{quote_html}{byline_html}</div>'
 
     meta_parts = []
     if meta.host_username:
@@ -249,14 +331,41 @@ def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str
         meta_parts.append(_format_timestamp(transcript.duration_seconds))
     meta_html = " &middot; ".join(meta_parts)
     if meta.topic_tags:
-        tag_html = ", ".join(_escape(t) for t in meta.topic_tags)
-        meta_html += f' &middot; <span class="tag">{tag_html}</span>'
+        tag_html = ", ".join(f'<a class="tag" href="../../index.html?tag={_escape(t)}">{_escape(t)}</a>' for t in meta.topic_tags)
+        meta_html += f' &middot; {tag_html}'
 
     if meta.audio_captured:
         audio_section = f'<audio controls preload="metadata" src="{audio_url}"></audio>'
     else:
         reason = meta.capture_failure_reason or "Audio not available."
         audio_section = f'<div class="audio-unavailable">{_escape(reason)}</div>'
+
+    participants_section = ""
+    if meta.participants:
+        participant_items = []
+        for p in meta.participants:
+            name = _escape(p.get("name", ""))
+            handle = p.get("handle")
+            team = p.get("team")
+            role = p.get("role", "guest")
+            if handle:
+                name_html = f'<a href="https://x.com/{_escape(handle)}" target="_blank" rel="noopener">{name}</a>'
+                if name:
+                    name_html += f' <span style="color:#999;font-weight:400;">@{_escape(handle)}</span>'
+            else:
+                name_html = name
+            affiliation = team if team else "&mdash;"
+            participant_items.append(
+                f'<div class="participant">'
+                f'<div class="participant-name">{name_html}</div>'
+                f'<div class="participant-affiliation">{_escape(affiliation) if affiliation != "&mdash;" else affiliation}</div>'
+                f'<span class="participant-role">{_escape(role)}</span>'
+                f'</div>'
+            )
+        participants_section = (
+            '<p class="section-label">who\'s talking</p>'
+            f'<div class="participants">{"".join(participant_items)}</div>'
+        )
 
     moments_section = ""
     if meta.key_moments:
@@ -301,9 +410,10 @@ def render_html(meta: SpaceMetadata, transcript: Transcript, audio_filename: str
     return _HTML_TEMPLATE.format(
         title=_escape(title),
         description_html=description_html,
-        quote_html=quote_html,
+        quote_card_html=quote_card_html,
         meta_html=meta_html,
         audio_section=audio_section,
+        participants_section=participants_section,
         moments_section=moments_section,
         transcript_section=transcript_section,
         space_url=_escape(meta.space_url),

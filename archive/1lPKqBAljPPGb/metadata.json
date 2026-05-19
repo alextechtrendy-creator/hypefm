@@ -12,76 +12,68 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Circa",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1527020295059648513",
-      "username": "HyperliquidX",
-      "display_name": "Hyperliquid",
-      "role": "speaker"
+      "name": "Jeff",
+      "handle": null,
+      "team": "Hyperliquid",
+      "role": "guest"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
-    },
-    {
-      "user_id": "319980816",
-      "username": "xulian_hl",
-      "display_name": "xulian.hl",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1413810618688163843",
-      "username": "xLiquidSpirit",
-      "display_name": "LiquidSpirit",
-      "role": "speaker"
+      "name": "Xuli",
+      "handle": null,
+      "team": "rekt_gang",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1lPKqBAljPPGb",
-  "summary_title": "Order book DEX from scratch: why Hyperliquid ditched Arbitrum for its own chain",
-  "summary_description": "Engineers pivoted from testing on Arbitrum to building a Tendermint L1 after realizing what traders actually need.",
+  "summary_title": "Order books on Tendermint: why Hyperliquid rebuilt DeFi from scratch",
+  "summary_description": "Hyperliquid founder explains why they chose to build their own L1 instead of using existing infrastructure for decentralized perpetuals.",
   "topic_tags": [
     "perps",
     "infrastructure",
-    "L1",
-    "execution"
+    "L1"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 224,
-      "label": "Trading competition liquidation chaos: over 50% wiped out by day two"
+      "timestamp_seconds": 530,
+      "label": "Jeff introduces himself as Hyperliquid founder, background in market making"
     },
     {
-      "timestamp_seconds": 560,
-      "label": "From market makers to founders: how FTX collapse became the call to arms"
+      "timestamp_seconds": 743,
+      "label": "FTX implosion was the defining moment to build trustless platform"
     },
     {
       "timestamp_seconds": 895,
-      "label": "Why order books beat AMMs and hybrid models for decentralized trading"
+      "label": "Why order books over AMMs and hybrid models like GMX"
     },
     {
       "timestamp_seconds": 1228,
-      "label": "dYdX runs order matching on centralized servers; Hyperliquid puts it fully on-chain"
+      "label": "Key differentiator: entire order book runs on-chain, not centralized servers"
     },
     {
-      "timestamp_seconds": 1408,
-      "label": "Pivoted from Arbitrum to native Tendermint chain after three-week infrastructure review"
+      "timestamp_seconds": 1438,
+      "label": "Decision to build Hyperliquid chain on Tendermint after trading comp"
     },
     {
       "timestamp_seconds": 2102,
-      "label": "Coming soon: vault pools for liquidations, market-making, and copy trading strategies"
+      "label": "Introducing vaults and pools for community-managed liquidity strategies"
     },
     {
       "timestamp_seconds": 3073,
-      "label": "Mainnet timeline: January testnet, February/March closed alpha, then full launch"
+      "label": "Mainnet timeline: testnet in January, closed alpha in February"
     }
   ],
-  "pull_quote": "We were surprised anyone actually used DeFi. The tech was so far behind centralized exchanges, with so much friction to doing anything you take for granted.",
+  "pull_quote": "The entire order book actually runs on chain. There's no one computer that if shut down, the whole thing stops.",
+  "quote_attribution": {
+    "name": "Jeff",
+    "team": "Hyperliquid",
+    "role": "founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 5179.904,
   "capture_failure_reason": null

@@ -12,63 +12,45 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1380022958182256640",
-      "username": "_TrendyTech",
-      "display_name": "Trendy",
-      "role": "host"
+      "name": "Bren",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1601623881399369729",
-      "username": "0xOthers",
-      "display_name": "Others 🔥",
-      "role": "speaker"
+      "name": "Zerk",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1559881756580487168",
-      "username": "Ad0nis_hl",
-      "display_name": "Ad0nis",
-      "role": "speaker"
+      "name": "Tony",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1362481938469187590",
-      "username": "WILL504HN",
-      "display_name": "Will5⭕️4.multi⛓️",
-      "role": "speaker"
+      "name": "Trendy",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1035546530533580800",
-      "username": "GameOver_Rekt",
-      "display_name": "GameOver",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1469425818451562499",
-      "username": "BrenOfTheGlen",
-      "display_name": "Bren",
-      "role": "speaker"
-    },
-    {
-      "user_id": "958719290",
-      "username": "Berny0x",
-      "display_name": "Berny",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1638724648576622593",
-      "username": "BitGod21",
-      "display_name": "BG",
-      "role": "speaker"
+      "name": "Others",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1OyJALwQYbNGb",
-  "summary_title": "First fully on-chain NFT collection launches on Hyperliquid EVM",
-  "summary_description": "Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS dependency, family-made traits stored forever.",
+  "summary_title": "First fully on-chain NFT collection on Hyperliquid EVM, minted by pixel artist",
+  "summary_description": "Bren launches tiny Hypercats, the first native on-chain NFTs on Hyperliquid, requiring big blocks and HYPE gas token.",
   "topic_tags": [
     "ecosystem",
     "infrastructure",
@@ -77,38 +59,43 @@
   "key_moments": [
     {
       "timestamp_seconds": 177,
-      "label": "Space kicks off with gas limit struggles during mint attempts"
+      "label": "Host introduces Bren, congrats on launch"
     },
     {
-      "timestamp_seconds": 359,
-      "label": "Explaining dual block architecture and activation requirements"
+      "timestamp_seconds": 329,
+      "label": "Minting mechanics explained: need active wallet via USDC deposit"
     },
     {
-      "timestamp_seconds": 571,
-      "label": "Confirming first native on-chain NFT collection on Hyperliquid"
+      "timestamp_seconds": 389,
+      "label": "Dual block architecture: 2M gas (1s) vs 10M gas (60s)"
     },
     {
-      "timestamp_seconds": 722,
-      "label": "Artist journey from GIFs to on-chain development and deployment"
+      "timestamp_seconds": 601,
+      "label": "Bren claims first native fully on-chain NFT collection on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 692,
+      "label": "Bren's journey from GIF animator to on-chain developer"
+    },
+    {
+      "timestamp_seconds": 816,
+      "label": "Why on-chain: immutable, no IPFS fees, permanent storage"
     },
     {
       "timestamp_seconds": 1239,
-      "label": "Hyperliquid EVM stealth launch creates equal-footing opportunity"
+      "label": "Hyperliquid EVM stealth launch, no insider advantage"
     },
     {
-      "timestamp_seconds": 1794,
-      "label": "Announcing plans to bridge Trippie Wolves to Hyperliquid EVM"
-    },
-    {
-      "timestamp_seconds": 2072,
-      "label": "Commemorative Hyper NFTs trading at $50k OTC via escrow"
-    },
-    {
-      "timestamp_seconds": 4346,
-      "label": "Collection approaching 400 mints with organic community participation"
+      "timestamp_seconds": 2353,
+      "label": "Speculation: minting activity may count toward future airdrop points"
     }
   ],
-  "pull_quote": "The best things have a little bit of friction, and then when it's removed, everybody wants in. But now you kind of have that edge.",
+  "pull_quote": "I like the fact that you can deploy a fully on-chain art contract for like 20 cents, maybe even less on base, and you never have to pay IPFS fees.",
+  "quote_attribution": {
+    "name": "Bren",
+    "team": null,
+    "role": "artist, developer"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 8130.8373125,
   "capture_failure_reason": null

@@ -1,24 +1,31 @@
-# Order book DEX from scratch: why Hyperliquid ditched Arbitrum for its own chain
+# Order books on Tendermint: why Hyperliquid rebuilt DeFi from scratch
 
-_Engineers pivoted from testing on Arbitrum to building a Tendermint L1 after realizing what traders actually need._
+_Hyperliquid founder explains why they chose to build their own L1 instead of using existing infrastructure for decentralized perpetuals._
 
-> We were surprised anyone actually used DeFi. The tech was so far behind centralized exchanges, with so much friction to doing anything you take for granted.
+> The entire order book actually runs on chain. There's no one computer that if shut down, the whole thing stops.
+> — Jeff, Hyperliquid
 
 **Host:** @rekt_gang
 **Date:** 2023-01-06
 **Duration:** 1:26:19
-**Tags:** perps, infrastructure, L1, execution
+**Tags:** perps, infrastructure, L1
 **Source:** https://x.com/i/spaces/1lPKqBAljPPGb
+
+## Who's talking
+
+- **Circa** (@rekt_gang) _host_
+- **Jeff** — Hyperliquid _guest_
+- **Xuli** — rekt_gang _guest_
 
 ## Key moments
 
-- **[3:44]** Trading competition liquidation chaos: over 50% wiped out by day two
-- **[9:20]** From market makers to founders: how FTX collapse became the call to arms
-- **[14:55]** Why order books beat AMMs and hybrid models for decentralized trading
-- **[20:28]** dYdX runs order matching on centralized servers; Hyperliquid puts it fully on-chain
-- **[23:28]** Pivoted from Arbitrum to native Tendermint chain after three-week infrastructure review
-- **[35:02]** Coming soon: vault pools for liquidations, market-making, and copy trading strategies
-- **[51:13]** Mainnet timeline: January testnet, February/March closed alpha, then full launch
+- **[8:50]** Jeff introduces himself as Hyperliquid founder, background in market making
+- **[12:23]** FTX implosion was the defining moment to build trustless platform
+- **[14:55]** Why order books over AMMs and hybrid models like GMX
+- **[20:28]** Key differentiator: entire order book runs on-chain, not centralized servers
+- **[23:58]** Decision to build Hyperliquid chain on Tendermint after trading comp
+- **[35:02]** Introducing vaults and pools for community-managed liquidity strategies
+- **[51:13]** Mainnet timeline: testnet in January, closed alpha in February
 
 ## Transcript
 

@@ -1,8 +1,9 @@
-# Trippy Wolves bridge to Hyperliquid, official NFTs worth 50K+, DeFi yields emerge
+# Trippy Wolves bridge to Hyperliquid, official NFTs incoming at 50K+
 
-_Wreck Gang's NFT collection goes live on Hyperliquid EVM via Layer Zero. Official Hyperliquid NFTs expected Q1 2025 could reshape entire ecosystem._
+_Wreck Gang migrates NFT collection, discusses ecosystem collections, DeFi yields, and the impending Hyperliquid official NFT drop._
 
-> The official Hyperliquid NFT is going to crush all other collections instantly—there's nothing competing against this in my opinion.
+> The official Hyperliquid NFT is going to crush all other collections instantly, I feel like maybe 50K to 70K floor once deployed
+> — rekt_gang
 
 **Host:** @rekt_gang
 **Date:** 2025-03-11
@@ -10,15 +11,24 @@ _Wreck Gang's NFT collection goes live on Hyperliquid EVM via Layer Zero. Offici
 **Tags:** ecosystem, listings, community
 **Source:** https://x.com/i/spaces/1YqJDZmWarYKV
 
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **EJ** — Liquid Fi _guest_
+- **Zerk** — Liquid Fi _guest_
+- **Pedro** _guest_
+- **Riddhi** — HyperSwap _guest_
+- **Crypto** _guest_
+
 ## Key moments
 
-- **[3:34]** Trippy Wolves bridge announcement and Layer Zero integration
-- **[9:07]** Tiny Hypercats minted out in four hours, first on-chain NFT collection
-- **[12:08]** Hyper Foxes on-chain game launch, wolf game clone mechanics
-- **[19:40]** Official Hyperliquid NFTs deployment Q1 2025, top 5K traders eligible
-- **[30:16]** Official NFT floor speculation at 50K, OTC sales already happening
-- **[38:50]** HyperSwap liquidity pools and loop type staking strategies discussed
-- **[56:02]** W-HYPE stable pairs earning 15-30% APR on HyperSwap
+- **[3:34]** Trippy Wolves bridging live via LayerZero integration
+- **[9:07]** Tiny Hypercats minted out in ~4 hours, first on-chain NFT collection
+- **[28:45]** Hyperliquid official NFT drop Q1 2025: 5K top traders eligible
+- **[30:16]** Official Hyperliquid NFT floor already 50K+ via OTC sales
+- **[36:49]** HyperSwap DEX launches with points program, stable pair yields
+- **[52:29]** Loop Type liquid staking derivative offers 15%+ APR through looping
+- **[55:32]** Native Hype staking yields 2% plus airdrop eligibility
 
 ## Transcript
 

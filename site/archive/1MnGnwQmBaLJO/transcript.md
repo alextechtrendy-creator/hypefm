@@ -1,8 +1,9 @@
-# OptFun's thousand-X leverage options let you 15X in one minute on Bitcoin
+# OptFun's 1000X leverage: Bitcoin options in one minute on Hyperliquid
 
-_One-minute expiry options on Hyperliquid EVM let degens take extreme bets without meme coin rug pull risk. 84M volume in week one._
+_Ryan explains why OptFun chose Hyperliquid, how 1000X leverage works fairly, and what 84M volume in week one means._
 
-> We're giving you the same thrill of extreme volatility as Pump Fun, but on a fairer venue with actual Bitcoin liquidity, not a meme coin rug pull.
+> If you keep doubling your bet, at some point you'll win and bail out all losses, but that number gets very big very fast.
+> — Ryan, OptFun
 
 **Host:** @rekt_gang
 **Date:** 2025-06-26
@@ -10,16 +11,22 @@ _One-minute expiry options on Hyperliquid EVM let degens take extreme bets witho
 **Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1MnGnwQmBaLJO
 
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Ryan** — OptFun _guest_
+- **Jim** _guest_
+
 ## Key moments
 
-- **[3:09]** OptFun pitch: thousand-X leverage on one-minute Bitcoin trades
-- **[8:11]** Ryan explains OptFun as fairest high-volatility bet platform
-- **[10:12]** How OptFun differs from Pump Fun: real liquidity instead of insider rugs
-- **[13:44]** Why Hyperliquid won: devoted traders, no VC dumps, level playing field
-- **[24:21]** Pro tip: place trades 30-60 seconds into cycle, watch Bitcoin momentum
-- **[29:51]** Hype token next, then any asset with Hyperliquid market or HIP3 feed
-- **[36:54]** Biggest win seen: 15X return in single minute
-- **[41:01]** 84 million trading volume in first week
+- **[3:09]** OptFun thesis: fair degen venue vs Pump Fun insider cabal
+- **[8:11]** Ryan intro: OptFun is 1000X Bitcoin options, one minute expiry, on Hyperliquid EVM
+- **[13:44]** Why Hyperliquid: devoted traders, fast shipping team, fair ecosystem (no VC dumps)
+- **[19:17]** 50M (now 84M) volume in first week despite zero outreach from core team
+- **[21:18]** Technical: on-chain order book, high-performance RPCs, one-minute settlement, clean UX
+- **[24:50]** Strategy tip: place trades 30-60s into cycle, look at prior minute momentum
+- **[30:22]** Future: HIP3 enables any asset (stocks, commodities, meme coins) at 1000X+
+- **[36:54]** Biggest win seen: 15X return in one minute; exploring auto-roll and time variants
 
 ## Transcript
 

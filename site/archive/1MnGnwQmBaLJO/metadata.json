@@ -12,27 +12,27 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1926418390165409792",
-      "username": "opt_fun",
-      "display_name": "opt.fun",
-      "role": "speaker"
+      "name": "Ryan",
+      "handle": null,
+      "team": "OptFun",
+      "role": "guest"
     },
     {
-      "user_id": "1735728340844044288",
-      "username": "unhedged21",
-      "display_name": "Ryan Unhedged",
-      "role": "speaker"
+      "name": "Jim",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1MnGnwQmBaLJO",
-  "summary_title": "OptFun's thousand-X leverage options let you 15X in one minute on Bitcoin",
-  "summary_description": "One-minute expiry options on Hyperliquid EVM let degens take extreme bets without meme coin rug pull risk. 84M volume in week one.",
+  "summary_title": "OptFun's 1000X leverage: Bitcoin options in one minute on Hyperliquid",
+  "summary_description": "Ryan explains why OptFun chose Hyperliquid, how 1000X leverage works fairly, and what 84M volume in week one means.",
   "topic_tags": [
     "perps",
     "trading",
@@ -41,38 +41,43 @@
   "key_moments": [
     {
       "timestamp_seconds": 189,
-      "label": "OptFun pitch: thousand-X leverage on one-minute Bitcoin trades"
+      "label": "OptFun thesis: fair degen venue vs Pump Fun insider cabal"
     },
     {
       "timestamp_seconds": 491,
-      "label": "Ryan explains OptFun as fairest high-volatility bet platform"
-    },
-    {
-      "timestamp_seconds": 612,
-      "label": "How OptFun differs from Pump Fun: real liquidity instead of insider rugs"
+      "label": "Ryan intro: OptFun is 1000X Bitcoin options, one minute expiry, on Hyperliquid EVM"
     },
     {
       "timestamp_seconds": 824,
-      "label": "Why Hyperliquid won: devoted traders, no VC dumps, level playing field"
+      "label": "Why Hyperliquid: devoted traders, fast shipping team, fair ecosystem (no VC dumps)"
     },
     {
-      "timestamp_seconds": 1461,
-      "label": "Pro tip: place trades 30-60 seconds into cycle, watch Bitcoin momentum"
+      "timestamp_seconds": 1157,
+      "label": "50M (now 84M) volume in first week despite zero outreach from core team"
     },
     {
-      "timestamp_seconds": 1791,
-      "label": "Hype token next, then any asset with Hyperliquid market or HIP3 feed"
+      "timestamp_seconds": 1278,
+      "label": "Technical: on-chain order book, high-performance RPCs, one-minute settlement, clean UX"
+    },
+    {
+      "timestamp_seconds": 1490,
+      "label": "Strategy tip: place trades 30-60s into cycle, look at prior minute momentum"
+    },
+    {
+      "timestamp_seconds": 1822,
+      "label": "Future: HIP3 enables any asset (stocks, commodities, meme coins) at 1000X+"
     },
     {
       "timestamp_seconds": 2214,
-      "label": "Biggest win seen: 15X return in single minute"
-    },
-    {
-      "timestamp_seconds": 2461,
-      "label": "84 million trading volume in first week"
+      "label": "Biggest win seen: 15X return in one minute; exploring auto-roll and time variants"
     }
   ],
-  "pull_quote": "We're giving you the same thrill of extreme volatility as Pump Fun, but on a fairer venue with actual Bitcoin liquidity, not a meme coin rug pull.",
+  "pull_quote": "If you keep doubling your bet, at some point you'll win and bail out all losses, but that number gets very big very fast.",
+  "quote_attribution": {
+    "name": "Ryan",
+    "team": "OptFun",
+    "role": "chief degen trader"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3328.8746875,
   "capture_failure_reason": null

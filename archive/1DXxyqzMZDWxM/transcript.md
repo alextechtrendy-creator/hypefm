@@ -1,25 +1,32 @@
-# HyperFlash: MEV-boosted staking and composable perps on HyperEVM
+# HyperFlash's MEV-powered LST: 0% commission, composable perps, launching Monday
 
-_Yale PhD and MIT engineers launch Flash HYPE LST with 0% commission, MEV rewards, and integration across HyperLiquid's DeFi ecosystem._
+_Himalaya and Sputnik explain Flash HYPE, MEV capture on HyperEVM, and why decentralized validators matter._
 
-> We are building this for the long run. We will have 0% commission on LST forever, and take a small cut from MEV to hire the best engineers.
+> You're earning the yield, but you can do so much more. Like there is basically no downside.
+> — Sputnik, HyperFlash
 
 **Host:** @rekt_gang
 **Date:** 2025-03-13
 **Duration:** 43:48
-**Tags:** vaults, ecosystem, infrastructure, governance
+**Tags:** perps, ecosystem, infrastructure
 **Source:** https://x.com/i/spaces/1DXxyqzMZDWxM
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Himalaya** — HyperFlash _guest_
+- **Sputnik** — HyperFlash _guest_
 
 ## Key moments
 
-- **[6:14]** HyperFlash co-founders introduce MEV and LST thesis
-- **[10:16]** Explaining HyperCore vs HyperEVM: same consensus, different states
-- **[11:47]** First composable perps: DeFi protocols can hold perp positions directly
-- **[14:49]** LST benefits: liquid staking with borrowing and DeFi composability
-- **[21:56]** MEV definition: maximal extractable value as arbitrage opportunities
-- **[27:32]** HyperFlash differentiator: MEV rewards on top of staking yield
-- **[33:09]** Launch timeline: live within 24-48 hours with point multipliers
-- **[34:40]** Full DeFi integration: partnerships with HyperLend, LoopType, HyperSwap
+- **[6:14]** Himalaya and Sputnik introduce HyperFlash: LST + MEV arbitrage
+- **[10:16]** HyperCore vs HyperEVM explained: same consensus, different state
+- **[11:47]** First composable perps: DeFi can hold perpetual positions directly
+- **[14:49]** What LSTs do: unlock staked HYPE without losing yield
+- **[22:26]** MEV definition and arbitrage opportunities on HyperFlash
+- **[27:32]** 0% commission LST plus MEV rewards: differentiation strategy
+- **[33:09]** Launch timing: tomorrow or Monday, announcements in 1-2 days
+- **[34:40]** Partnerships with HyperLend, Felix, LoopTyper, HyperSwap live at launch
 
 ## Transcript
 

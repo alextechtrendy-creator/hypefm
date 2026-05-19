@@ -94,13 +94,15 @@ def archive(space_url_or_id: str, no_audio: bool, no_diarize: bool, archive_dir:
     if transcript.chunks:
         click.echo("  Summarizing with Claude Haiku...")
         from .summarize import summarize_transcript
-        summary = summarize_transcript(transcript)
+        summary = summarize_transcript(transcript, host_username=meta.host_username)
         if summary:
             meta.summary_title = summary.get("title")
             meta.summary_description = summary.get("description")
             meta.topic_tags = summary.get("tags", [])
             meta.key_moments = summary.get("key_moments", [])
             meta.pull_quote = summary.get("pull_quote")
+            meta.quote_attribution = summary.get("quote_attribution")
+            meta.participants = summary.get("participants", [])
             click.echo(f"    ✓ {meta.summary_title}")
             if meta.topic_tags:
                 click.echo(f"    tags: {', '.join(meta.topic_tags)}")
@@ -208,7 +210,7 @@ def resummarize_all(archive_dir: Path | None, limit: int | None) -> None:
         transcript = Transcript(**transcript_data)
 
         click.echo(f"  → {entry_dir.name}...")
-        summary = summarize_transcript(transcript)
+        summary = summarize_transcript(transcript, host_username=meta.host_username)
         if not summary:
             click.echo(f"    ✗ failed")
             continue
@@ -218,6 +220,8 @@ def resummarize_all(archive_dir: Path | None, limit: int | None) -> None:
         meta.topic_tags = summary.get("tags", [])
         meta.key_moments = summary.get("key_moments", [])
         meta.pull_quote = summary.get("pull_quote")
+        meta.quote_attribution = summary.get("quote_attribution")
+        meta.participants = summary.get("participants", [])
 
         meta_path.write_text(meta.model_dump_json(indent=2), encoding="utf-8")
         click.echo(f"    ✓ {meta.summary_title}")

@@ -1,24 +1,31 @@
-# Trading weather, Fed rates, and Bitcoin hash rate on Hyperliquid's new perpdex
+# Trading weather, Fed rates, and egg prices on Hyperliquid
 
-_Things launches exotic perpetual markets for signals usually hidden behind proxies—weather, unemployment, commodities—with reliable oracles and in-house market making._
+_Things team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid._
 
-> Instead of being forced to long Bitcoin as a proxy for Fed rate, why not give people ability to trade the signals directly?
+> We're trying to find markets that are easily verifiable, deterministic, with everything obvious and nothing like a black box
+> — Ivan, Things
 
 **Host:** @rekt_gang
 **Date:** 2025-12-17
 **Duration:** 58:10
-**Tags:** perps, ecosystem, infrastructure, market-making
+**Tags:** perps, ecosystem, infrastructure
 **Source:** https://x.com/i/spaces/1MnxnPNPpbBGO
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Ivan** — Things _guest_
+- **Nox** — Things _guest_
 
 ## Key moments
 
-- **[7:49]** Things perpdex launches exotic perpetual markets on Hyperliquid
-- **[8:20]** Core insight: people trade derivatives of signals via proxies instead of directly
-- **[10:21]** Weather and unemployment examples show why perps beat binary prediction markets
-- **[17:58]** Oracle design criteria: easily verifiable, multiple sources, hard to manipulate
-- **[23:02]** Testnet launching next week with in-house market maker and points competition
-- **[31:39]** 20% of total token supply allocated to testnet traders; 10% referral yield
-- **[42:49]** Why Hyperliquid: permissionless market deploys and fairest conditions for builders
+- **[4:48]** Things: exotic perps for signals, not proxies
+- **[8:20]** Fed rate example—why perps beat binary prediction markets
+- **[13:54]** Weather markets: hedging use case for Bitcoin miners
+- **[17:58]** Oracle design: multi-source, easily verifiable, hard to manipulate
+- **[28:08]** Testnet launch next week, 20% of points allocated to testnet traders
+- **[38:15]** Points program rewards profitable trading, not wash volume
+- **[42:49]** Why Hyperliquid: permissionless deploys and best community
 
 ## Transcript
 

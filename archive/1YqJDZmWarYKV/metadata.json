@@ -12,57 +12,45 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1601623881399369729",
-      "username": "0xOthers",
-      "display_name": "Others 🔥",
-      "role": "speaker"
+      "name": "EJ",
+      "handle": null,
+      "team": "Liquid Fi",
+      "role": "guest"
     },
     {
-      "user_id": "1227275045698854912",
-      "username": "Delblondo1",
-      "display_name": "Delblondo.hl",
-      "role": "speaker"
+      "name": "Zerk",
+      "handle": null,
+      "team": "Liquid Fi",
+      "role": "guest"
     },
     {
-      "user_id": "1458116456395182089",
-      "username": "SpaceSkellies",
-      "display_name": "✰𝕊𝕡𝕒𝕔𝕖 𝕊𝕜𝕖𝕝𝕝𝕚𝕖𝕤✰",
-      "role": "speaker"
+      "name": "Pedro",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1878166141501132800",
-      "username": "liquidfi_app",
-      "display_name": "LiquidFi",
-      "role": "speaker"
+      "name": "Riddhi",
+      "handle": null,
+      "team": "HyperSwap",
+      "role": "guest"
     },
     {
-      "user_id": "1506953802771009545",
-      "username": "pageofws",
-      "display_name": "Grae.hl",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1676257066854514688",
-      "username": "pedro_north",
-      "display_name": "Rekt Pedro",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1448047768266846209",
-      "username": "Encryptoed_",
-      "display_name": "Encryptoed",
-      "role": "speaker"
+      "name": "Crypto",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1YqJDZmWarYKV",
-  "summary_title": "Trippy Wolves bridge to Hyperliquid, official NFTs worth 50K+, DeFi yields emerge",
-  "summary_description": "Wreck Gang's NFT collection goes live on Hyperliquid EVM via Layer Zero. Official Hyperliquid NFTs expected Q1 2025 could reshape entire ecosystem.",
+  "summary_title": "Trippy Wolves bridge to Hyperliquid, official NFTs incoming at 50K+",
+  "summary_description": "Wreck Gang migrates NFT collection, discusses ecosystem collections, DeFi yields, and the impending Hyperliquid official NFT drop.",
   "topic_tags": [
     "ecosystem",
     "listings",
@@ -71,34 +59,39 @@
   "key_moments": [
     {
       "timestamp_seconds": 214,
-      "label": "Trippy Wolves bridge announcement and Layer Zero integration"
+      "label": "Trippy Wolves bridging live via LayerZero integration"
     },
     {
       "timestamp_seconds": 547,
-      "label": "Tiny Hypercats minted out in four hours, first on-chain NFT collection"
+      "label": "Tiny Hypercats minted out in ~4 hours, first on-chain NFT collection"
     },
     {
-      "timestamp_seconds": 728,
-      "label": "Hyper Foxes on-chain game launch, wolf game clone mechanics"
-    },
-    {
-      "timestamp_seconds": 1180,
-      "label": "Official Hyperliquid NFTs deployment Q1 2025, top 5K traders eligible"
+      "timestamp_seconds": 1725,
+      "label": "Hyperliquid official NFT drop Q1 2025: 5K top traders eligible"
     },
     {
       "timestamp_seconds": 1816,
-      "label": "Official NFT floor speculation at 50K, OTC sales already happening"
+      "label": "Official Hyperliquid NFT floor already 50K+ via OTC sales"
     },
     {
-      "timestamp_seconds": 2330,
-      "label": "HyperSwap liquidity pools and loop type staking strategies discussed"
+      "timestamp_seconds": 2209,
+      "label": "HyperSwap DEX launches with points program, stable pair yields"
     },
     {
-      "timestamp_seconds": 3362,
-      "label": "W-HYPE stable pairs earning 15-30% APR on HyperSwap"
+      "timestamp_seconds": 3149,
+      "label": "Loop Type liquid staking derivative offers 15%+ APR through looping"
+    },
+    {
+      "timestamp_seconds": 3332,
+      "label": "Native Hype staking yields 2% plus airdrop eligibility"
     }
   ],
-  "pull_quote": "The official Hyperliquid NFT is going to crush all other collections instantly—there's nothing competing against this in my opinion.",
+  "pull_quote": "The official Hyperliquid NFT is going to crush all other collections instantly, I feel like maybe 50K to 70K floor once deployed",
+  "quote_attribution": {
+    "name": "rekt_gang",
+    "team": null,
+    "role": "host"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3639.68,
   "capture_failure_reason": null

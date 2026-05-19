@@ -12,80 +12,80 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "PBR",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1469425818451562499",
-      "username": "BrenOfTheGlen",
-      "display_name": "Bren",
-      "role": "speaker"
+      "name": "Brent",
+      "handle": null,
+      "team": "Tiny Hypercats",
+      "role": "guest"
     },
     {
-      "user_id": "1976365592904163328",
-      "username": "0xGZMB",
-      "display_name": "gen z michael burry",
-      "role": "speaker"
+      "name": "Floren",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
+      "name": "Lauren",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "365838728",
-      "username": "flarnrules1",
-      "display_name": "flarnrules🦄📡",
-      "role": "speaker"
+      "name": "Michael Burry",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1djGXWAmoroKZ",
-  "summary_title": "Hyperliquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons",
-  "summary_description": "Trading exotic perpetuals from SpaceX to pre-IPO stocks, plus drama around HyperBeat and Kinetic points allocation.",
+  "summary_title": "Cosmos collapse, HyperLiquid drama, and why execution beats announcements",
+  "summary_description": "Cosmos extracted its users. HyperBeat-Kinetic tension. Why the best teams stay silent and ship.",
   "topic_tags": [
-    "perps",
     "ecosystem",
     "governance",
-    "vaults"
+    "community"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 220,
-      "label": "Trading pre-IPO stocks like SpaceX on Hyperliquid with unrealized gains"
+      "timestamp_seconds": 129,
+      "label": "Cosmos ecosystem: years of profits that should have been taken"
     },
     {
-      "timestamp_seconds": 373,
-      "label": "HyperBeat drama: teams promoted points that never materialized"
+      "timestamp_seconds": 220,
+      "label": "Trading pre-IPO stocks like SpaceX on Hyperliquid; positions still open"
+    },
+    {
+      "timestamp_seconds": 403,
+      "label": "HyperBeat-Kinetic drama: promises vs. execution on point rewards"
     },
     {
       "timestamp_seconds": 586,
-      "label": "Cosmos ecosystem collapse: Drop protocol shut down farming after a year"
+      "label": "Drop protocol farmed users for a year, then shut down without sharing gains"
     },
     {
       "timestamp_seconds": 676,
-      "label": "Hyper EVM adoption struggles despite first-mover advantage"
+      "label": "HyperEVM: same boring shit as every other chain, same boring results"
     },
     {
-      "timestamp_seconds": 1191,
-      "label": "HIP3 markets and stock perpetuals funded by Hyperliquid buybacks"
+      "timestamp_seconds": 2225,
+      "label": "Cosmos Hub creator Jaquan forking to build Atone; destroying what he created"
     },
     {
-      "timestamp_seconds": 3138,
-      "label": "Tiny Hypercats NFT collection doing well despite market downturn"
-    },
-    {
-      "timestamp_seconds": 3682,
-      "label": "Banker trading engine API rollout coming for advanced trading features"
-    },
-    {
-      "timestamp_seconds": 4170,
-      "label": "USDH liquid stake derivative TVL growing toward 28 million"
+      "timestamp_seconds": 3773,
+      "label": "Banker trading engine becoming available via API to other platforms"
     }
   ],
-  "pull_quote": "If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core.",
+  "pull_quote": "If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core. And that'll be that.",
+  "quote_attribution": {
+    "name": "PBR",
+    "team": null,
+    "role": "guest"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 4620.672,
   "capture_failure_reason": null

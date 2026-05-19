@@ -12,85 +12,90 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "319980816",
-      "username": "xulian_hl",
-      "display_name": "xulian.hl",
-      "role": "host"
+      "name": "Jeff",
+      "handle": null,
+      "team": "Hyperliquid",
+      "role": "guest"
     },
     {
-      "user_id": "65323591",
-      "username": "mastering_alpha",
-      "display_name": "zapper618.hl",
-      "role": "speaker"
+      "name": "Fig",
+      "handle": null,
+      "team": "Squid",
+      "role": "guest"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
+      "name": "Zuli",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1622260212798291972",
-      "username": "chameleon_jeff",
-      "display_name": "jeff.hl",
-      "role": "speaker"
+      "name": "Finn",
+      "handle": null,
+      "team": "Terra Spaces",
+      "role": "guest"
     },
     {
-      "user_id": "1353468713974992897",
-      "username": "ecdsafu",
-      "display_name": "fig",
-      "role": "speaker"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1lDxLnAAvkqGm",
-  "summary_title": "Hyperliquid's liquidator vault: 11% monthly returns on other traders' losses",
-  "summary_description": "Jeff reveals how Hyperliquid's vaults let you profit passively when traders get liquidated—with real 10-11% monthly yields so far.",
+  "summary_title": "Hyperliquid, Squid, and Axelar: Cross-chain perps in 20 seconds",
+  "summary_description": "Jeff, Fig, and Zuli discuss Hyperliquid's L1, Squid's cross-chain integration, and the liquidator vault strategy.",
   "topic_tags": [
-    "vaults",
-    "trading",
-    "perps"
+    "perps",
+    "infrastructure",
+    "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 363,
-      "label": "Zuli introduces Hyperliquid integration work since December"
+      "label": "Zuli intro: multi-chain maxi building on Axelar, helping Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 393,
+      "label": "Fig: Squid co-founder, musician-turned-developer, cross-chain swap layer"
+    },
+    {
+      "timestamp_seconds": 484,
+      "label": "Jeff: Market-making background, realized need for custom L1, building Hyperliquid"
     },
     {
       "timestamp_seconds": 545,
-      "label": "Jeff explains why Hyperliquid built its own L1 instead of using Arbitrum"
+      "label": "Why Hyperliquid chose custom L1 over Arbitrum: performance requirements"
     },
     {
       "timestamp_seconds": 606,
-      "label": "Squid integration announced as first collaboration, enabling cross-chain deposits"
+      "label": "Squid integration: one-click onboarding from any chain to Hyperliquid"
     },
     {
       "timestamp_seconds": 1635,
-      "label": "Referral program launch with weekly USDC rewards, limited invites per week"
+      "label": "Referral rewards program live: USDC distribution based on trading volume"
     },
     {
       "timestamp_seconds": 1817,
-      "label": "Vaults rebranded, combining Uniswap pools, Yearn, and copy trading features"
+      "label": "Vaults renamed from pools: liquidation, market-making, and copy-trading strategies"
     },
     {
       "timestamp_seconds": 1908,
-      "label": "API trading goes live with Python SDK examples for quant strategies"
-    },
-    {
-      "timestamp_seconds": 2090,
-      "label": "Liquidator vault explained: passive income from liquidations, 11% APY currently"
-    },
-    {
-      "timestamp_seconds": 3305,
-      "label": "Roadmap focus: onboarding users and brand redesign over new features"
+      "label": "API trading: Python SDK for quant traders, first dex with end-to-end example"
     }
   ],
-  "pull_quote": "You only need people to get liquidated to profit from it. 11% for something very low risk, I think, is amazing.",
+  "pull_quote": "If you want to be certain on the price, you can be uncertain on execution",
+  "quote_attribution": {
+    "name": "Jeff",
+    "team": "Hyperliquid",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 4450.88,
   "capture_failure_reason": null

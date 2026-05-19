@@ -1,25 +1,35 @@
-# Hyperliquid's liquidator vault: 11% monthly returns on other traders' losses
+# Hyperliquid, Squid, and Axelar: Cross-chain perps in 20 seconds
 
-_Jeff reveals how Hyperliquid's vaults let you profit passively when traders get liquidated—with real 10-11% monthly yields so far._
+_Jeff, Fig, and Zuli discuss Hyperliquid's L1, Squid's cross-chain integration, and the liquidator vault strategy._
 
-> You only need people to get liquidated to profit from it. 11% for something very low risk, I think, is amazing.
+> If you want to be certain on the price, you can be uncertain on execution
+> — Jeff, Hyperliquid
 
 **Host:** @rekt_gang
 **Date:** 2023-03-31
 **Duration:** 1:14:10
-**Tags:** vaults, trading, perps
+**Tags:** perps, infrastructure, ecosystem
 **Source:** https://x.com/i/spaces/1lDxLnAAvkqGm
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Jeff** — Hyperliquid _guest_
+- **Fig** — Squid _guest_
+- **Zuli** _guest_
+- **Finn** — Terra Spaces _guest_
+- **PBR** _guest_
 
 ## Key moments
 
-- **[6:03]** Zuli introduces Hyperliquid integration work since December
-- **[9:05]** Jeff explains why Hyperliquid built its own L1 instead of using Arbitrum
-- **[10:06]** Squid integration announced as first collaboration, enabling cross-chain deposits
-- **[27:15]** Referral program launch with weekly USDC rewards, limited invites per week
-- **[30:17]** Vaults rebranded, combining Uniswap pools, Yearn, and copy trading features
-- **[31:48]** API trading goes live with Python SDK examples for quant strategies
-- **[34:50]** Liquidator vault explained: passive income from liquidations, 11% APY currently
-- **[55:05]** Roadmap focus: onboarding users and brand redesign over new features
+- **[6:03]** Zuli intro: multi-chain maxi building on Axelar, helping Hyperliquid
+- **[6:33]** Fig: Squid co-founder, musician-turned-developer, cross-chain swap layer
+- **[8:04]** Jeff: Market-making background, realized need for custom L1, building Hyperliquid
+- **[9:05]** Why Hyperliquid chose custom L1 over Arbitrum: performance requirements
+- **[10:06]** Squid integration: one-click onboarding from any chain to Hyperliquid
+- **[27:15]** Referral rewards program live: USDC distribution based on trading volume
+- **[30:17]** Vaults renamed from pools: liquidation, market-making, and copy-trading strategies
+- **[31:48]** API trading: Python SDK for quant traders, first dex with end-to-end example
 
 ## Transcript
 

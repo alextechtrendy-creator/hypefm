@@ -1,25 +1,31 @@
-# AI agents optimize stablecoin yield 41% above lending markets on Hyperliquid
+# AI agents optimize stablecoin yield on Hyperliquid, outperforming lending markets by 41%
 
-_Neuro Vaults launched today: deposit USDT, agents rebalance across Hyperlend, Hyperfi, Felix to maximize APY. No leverage, no liquidation risk._
+_Neurovolts launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk._
 
-> Yield you cannot go wrong with yield. If it is coming from something like a lending market, you really can't go wrong because there's demand and there's supply.
+> Agents handling money is what smart contracts were four or five years ago. Massive untapped potential.
+> — Hamza, Neurovolts
 
 **Host:** @rekt_gang
 **Date:** 2025-12-04
 **Duration:** 48:40
-**Tags:** vaults, trading, ecosystem
+**Tags:** vaults, ecosystem, infrastructure
 **Source:** https://x.com/i/spaces/1PlKQOXpqMWJE
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Hamza** — Neurovolts _guest_
 
 ## Key moments
 
-- **[6:35]** Mainnet launch timing: UAE event + Breakpoint conference same day
-- **[10:36]** Hamza background: Head of DeFi at Polygon, dropped NYU Masters for crypto post-FTX
-- **[13:07]** Why vaults over directional AI trading: agents are probabilistic, not deterministic
-- **[19:40]** User flow: deposit USDT on Neuro Vaults, agents handle allocation, 15-20 min withdrawal window
-- **[26:15]** 41% outperformance: agents optimize for size-adjusted yield across three lending protocols
-- **[32:18]** ERC-7540 share token design enables composability, future borrowing against aiUSDT
-- **[35:52]** Roadmap: transparency dashboard showing AI reasoning, new stablecoins (USDe, USDH), yield expansion
-- **[41:24]** Future factory model: let community build custom vaults with agent infrastructure
+- **[6:35]** Mainnet launch coincides with Hyperliquid UAE event and AMA
+- **[10:06]** Hamza introduces himself: ex-Polygon head of DeFi, dropped out of NYU to go all-in crypto post-FTX
+- **[12:06]** Neurovolts building agentic vaults because directional AI trading is too early
+- **[14:07]** Earlier experiment with plain-English trading strategies saw $1-2M volume but AI proved too probabilistic
+- **[19:09]** User deposits $2K, already earning yield incrementally—compares experience to Anchor Protocol simplicity
+- **[23:42]** AI forecasts impact of large deposits on pool APY before allocating capital across lending markets
+- **[34:21]** Hamza: agents handling money is what smart contracts were 4-5 years ago—massive untapped potential
+- **[41:24]** Future: vault factory model lets anyone create custom DeFi strategies using Neurovolts infrastructure and agents
 
 ## Transcript
 

@@ -12,62 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1926996487675822080",
-      "username": "hydromancerxyz",
-      "display_name": "Hydromancer",
-      "role": "speaker"
+      "name": "Xeno",
+      "handle": null,
+      "team": "Hydromancer",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1PKqrEAoBaQGb",
-  "summary_title": "80+ teams use Hydromancer's data layer. What they're building on HyperLiquid.",
-  "summary_description": "Infrastructure powering app builders, market makers, and HIP4 prediction markets—plus research showing 29% of HyperLiquid traders are profitable.",
+  "summary_title": "80+ teams building on Hydromancer: infrastructure, HIP4, and trader profitability",
+  "summary_description": "Xeno from Hydromancer shares data insights, HIP4 prediction market strategy, and how 29% of Hyperliquid traders are actually profitable.",
   "topic_tags": [
     "infrastructure",
     "ecosystem",
-    "perps",
-    "market-making"
+    "perps"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 307,
-      "label": "Xeno introduces Hydromancer: from HyperDash to infra"
+      "label": "Xeno introduces Hydromancer's origin: HyperDash experiment"
     },
     {
-      "timestamp_seconds": 399,
-      "label": "HyperDash acquired by pvp.trade; pivot to data layer"
+      "timestamp_seconds": 429,
+      "label": "HyperDash acquired by pvp.trade, Hydromancer pivots to infra"
     },
     {
       "timestamp_seconds": 708,
-      "label": "80+ teams using Hydromancer: app builders, market makers, HIP3/4"
+      "label": "80+ teams using Hydromancer for data, market-making, and app building"
     },
     {
-      "timestamp_seconds": 1195,
-      "label": "HIP4 prediction markets: binary options, politics, sports"
+      "timestamp_seconds": 829,
+      "label": "Priority fees system: REITs vs RFQs explained for execution speed"
+    },
+    {
+      "timestamp_seconds": 1225,
+      "label": "HIP4 prediction markets coming soon, more creative than HIP3"
     },
     {
       "timestamp_seconds": 1984,
-      "label": "Prediction: HIP4 launches early June, starting with binary options"
+      "label": "Xeno predicts HIP4 launch in early June"
     },
     {
-      "timestamp_seconds": 2261,
-      "label": "Reservoir: free historical HyperLiquid data for everyone"
-    },
-    {
-      "timestamp_seconds": 2444,
-      "label": "Research: 29% of HyperLiquid traders are profitable"
+      "timestamp_seconds": 2412,
+      "label": "Research paper: 29% of Hyperliquid traders are profitable"
     },
     {
       "timestamp_seconds": 2656,
-      "label": "Eastern European scalping terminals hit 80% user profitability"
+      "label": "Eastern European scalping terminal shows 80% user profitability"
     }
   ],
-  "pull_quote": "Hyperliquid uniquely cultivated a community of people who actually wants to trade, because Binance and Coinbase didn't manage to get any traction on their prediction market products.",
+  "pull_quote": "Hyperliquid uniquely cultivated a community of people who actually want to trade, unlike Binance or Coinbase.",
+  "quote_attribution": {
+    "name": "Xeno",
+    "team": "Hydromancer",
+    "role": "founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3640.8746875,
   "capture_failure_reason": null

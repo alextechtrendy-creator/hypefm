@@ -1,25 +1,33 @@
-# Hyperliquid ecosystem drama, EVM adoption challenges, and Cosmos collapse lessons
+# Cosmos collapse, HyperLiquid drama, and why execution beats announcements
 
-_Trading exotic perpetuals from SpaceX to pre-IPO stocks, plus drama around HyperBeat and Kinetic points allocation._
+_Cosmos extracted its users. HyperBeat-Kinetic tension. Why the best teams stay silent and ship._
 
-> If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core.
+> If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core. And that'll be that.
+> — PBR
 
 **Host:** @rekt_gang
 **Date:** 2025-11-14
 **Duration:** 1:17:00
-**Tags:** perps, ecosystem, governance, vaults
+**Tags:** ecosystem, governance, community
 **Source:** https://x.com/i/spaces/1djGXWAmoroKZ
+
+## Who's talking
+
+- **PBR** (@rekt_gang) _host_
+- **Brent** — Tiny Hypercats _guest_
+- **Floren** _guest_
+- **Lauren** _guest_
+- **Michael Burry** _guest_
 
 ## Key moments
 
-- **[3:40]** Trading pre-IPO stocks like SpaceX on Hyperliquid with unrealized gains
-- **[6:13]** HyperBeat drama: teams promoted points that never materialized
-- **[9:46]** Cosmos ecosystem collapse: Drop protocol shut down farming after a year
-- **[11:16]** Hyper EVM adoption struggles despite first-mover advantage
-- **[19:51]** HIP3 markets and stock perpetuals funded by Hyperliquid buybacks
-- **[52:18]** Tiny Hypercats NFT collection doing well despite market downturn
-- **[1:01:22]** Banker trading engine API rollout coming for advanced trading features
-- **[1:09:30]** USDH liquid stake derivative TVL growing toward 28 million
+- **[2:09]** Cosmos ecosystem: years of profits that should have been taken
+- **[3:40]** Trading pre-IPO stocks like SpaceX on Hyperliquid; positions still open
+- **[6:43]** HyperBeat-Kinetic drama: promises vs. execution on point rewards
+- **[9:46]** Drop protocol farmed users for a year, then shut down without sharing gains
+- **[11:16]** HyperEVM: same boring shit as every other chain, same boring results
+- **[37:05]** Cosmos Hub creator Jaquan forking to build Atone; destroying what he created
+- **[1:02:53]** Banker trading engine becoming available via API to other platforms
 
 ## Transcript
 

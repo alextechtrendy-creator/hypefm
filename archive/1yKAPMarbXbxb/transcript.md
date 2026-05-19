@@ -1,25 +1,32 @@
-# Leverage tokens on Hyperliquid: no liquidation, constant rebalancing, composable perps
+# Leverage tokens on Hyperliquid: no liquidation, composable perps, explosive upside
 
-_Bounce Tech launches tokenized perpetual futures that auto-rebalance to maintain fixed leverage, eliminating liquidation risk while capturing directional moves._
+_Bounce Tech brings non-liquidating leveraged tokens to Hyperliquid, combining HyperCore perps with ERC-20 composability._
 
-> If you have the directional movements or price to appreciate, your position up-levers, and that really does outperform the perpetual.
+> Non-liquidated, non-liquidating leveraged exposure is usually very interesting to institutional players
+> — Max, Bounce Tech
 
 **Host:** @rekt_gang
 **Date:** 2026-03-13
 **Duration:** 43:40
-**Tags:** perps, trading, infrastructure
+**Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1yKAPMarbXbxb
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Louis** — Bounce Tech _guest_
+- **Max** — Bounce Tech _guest_
 
 ## Key moments
 
-- **[4:48]** Louis introduces Bounce Tech CEO background and German roots
-- **[6:48]** Leverage tokens explained: constant leverage via reactive rebalancing
-- **[7:49]** Max reveals ERC-20 composability advantage across DeFi protocols
-- **[10:20]** Volatility decay risk: up-lever, down-lever cycles reduce returns
-- **[20:26]** Hyperliquid EVM precompiles unlock composable perp liquidity
-- **[28:30]** Delta-neutral LP strategy: pair short leverage tokens with spot
-- **[32:01]** HIP3 commodity markets coming: potential 7x-10x leverage tokens
-- **[39:06]** Plans confirmed: Bounce points campaign and token incoming
+- **[4:48]** Louis introduces Bounce Tech, CEO background in computer science
+- **[6:48]** Definition: leveraged tokens as non-liquidating, constant-leverage perpetuals
+- **[7:49]** Composable ERC-20 tokens enable DeFi integration and funding rate strategies
+- **[10:20]** Volatility decay explained: rebalancing costs in sideways, volatile markets
+- **[20:56]** HyperEVM precompiles unlock composable perp liquidity for leverage tokens
+- **[28:30]** Delta-neutral LP strategy: short leverage token paired with spot equivalent
+- **[31:31]** HIP3 markets coming soon with higher leverage factors up to 10x
+- **[39:06]** Points campaign confirmed, token launch planned
 
 ## Transcript
 

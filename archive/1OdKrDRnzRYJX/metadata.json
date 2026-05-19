@@ -12,61 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1381784142426251268",
-      "username": "tyren_dg",
-      "display_name": "Tyren.hl",
-      "role": "speaker"
+      "name": "Tyron",
+      "handle": null,
+      "team": "TopDog",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1OdKrDRnzRYJX",
-  "summary_title": "TopDog's multiplayer trading footprints: Copy smarter traders without blindly following them",
-  "summary_description": "Telegram mini-app showing real-time whale positions on Hyperliquid perps, designed for casual degen traders who want signals, not analytics.",
+  "summary_title": "TopDog: multiplayer trading footprints and guild wars on Hyperliquid",
+  "summary_description": "Telegram mini app for copying whale trades in real-time, launching guild battles next week with respect points.",
   "topic_tags": [
+    "perps",
     "trading",
-    "ecosystem",
-    "execution"
+    "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 406,
-      "label": "Why TopDog was built: Copy-trading consistently sank their balance"
+      "label": "TopDog origin: copy trading tool that kept sinking their balance"
     },
     {
       "timestamp_seconds": 558,
-      "label": "Solution: Real-time footprints on chart, not blind copying"
+      "label": "Footprints feature: real-time whale trades on chart with 1-2 second latency"
     },
     {
-      "timestamp_seconds": 679,
-      "label": "Multiplayer first design distinguishes TopDog from other terminals"
+      "timestamp_seconds": 709,
+      "label": "Multiplayer-first design: follow wallets, see PnLs, profiles in one app"
     },
     {
       "timestamp_seconds": 891,
-      "label": "No wallet connection needed—Telegram single-click onboarding"
+      "label": "Telegram mini app: zero onboarding friction, single-click access via existing login"
+    },
+    {
+      "timestamp_seconds": 1435,
+      "label": "Cashback rewards: 5-25% based on 30-day volume batches"
     },
     {
       "timestamp_seconds": 1466,
-      "label": "Guild wars and respect points launching next week"
+      "label": "Guild system launching next week with respect points and weekly battles"
     },
     {
       "timestamp_seconds": 1678,
-      "label": "Trench mode for HyperEVM meme coins coming within a month"
+      "label": "Trench mode coming for Hyper EVM: meme coin trading with same footprint visibility"
     },
     {
       "timestamp_seconds": 2130,
-      "label": "Revenue model: 0.02% builder fee on top of Hyperliquid fees"
-    },
-    {
-      "timestamp_seconds": 2553,
-      "label": "Vision: Desktop pro version for serious multiplayer terminal"
+      "label": "Revenue model: 0.02% fee on top of Hyperliquid builder code"
     }
   ],
-  "pull_quote": "Blindly copy-trading just doesn't work. We figured out you need the signal of successful wallets but still proactively make your own decisions, not sink your balance.",
+  "pull_quote": "We figured out that blindly copy trading doesn't work, so we armed users with lean information just enough to make their own trade decisions.",
+  "quote_attribution": {
+    "name": "Tyron",
+    "team": "TopDog",
+    "role": null
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3301.184,
   "capture_failure_reason": null

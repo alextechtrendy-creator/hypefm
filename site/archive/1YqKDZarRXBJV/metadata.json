@@ -12,74 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1464392211118936065",
-      "username": "osama_lit",
-      "display_name": "osama.hl",
-      "role": "speaker"
+      "name": "Osama",
+      "handle": null,
+      "team": "Nest Wallet",
+      "role": "guest"
     },
     {
-      "user_id": "1802865062597595137",
-      "username": "web3ambrose",
-      "display_name": "🅰️𝐦𝐛𝐫𝐨𝐬𝐞",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1463962674962780166",
-      "username": "nestwalletxyz",
-      "display_name": "Nest Wallet",
-      "role": "speaker"
+      "name": "Bill",
+      "handle": null,
+      "team": "Nest Wallet",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1YqKDZarRXBJV",
-  "summary_title": "Mobile perps trading on Hyperliquid: faster than telegram bots, fully decentralized",
-  "summary_description": "Nest Wallet launches Hyperliquid L1 perps on mobile with native key custody, MEV protection, and zero speed compromise versus centralized bots.",
+  "summary_title": "Nest Wallet brings mobile-first perps and staking to Hyperliquid",
+  "summary_description": "Canadian team launches soft-release of Hyperliquid perps on mobile with spot and staking coming soon.",
   "topic_tags": [
     "perps",
     "infrastructure",
-    "trading",
     "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 250,
-      "label": "Team background: ex-BitGo custodians building for mobile"
+      "timestamp_seconds": 96,
+      "label": "Host introduces Nest Wallet team, based in Toronto"
+    },
+    {
+      "timestamp_seconds": 371,
+      "label": "Hyperliquid perps soft-launched on Nest mobile wallet hours before"
     },
     {
       "timestamp_seconds": 462,
-      "label": "Gap in market: no solid mobile perps experience exists yet"
+      "label": "Team explains gap: mobile trading lacks CEX-like UX while staying decentralized"
     },
     {
-      "timestamp_seconds": 492,
-      "label": "Soft-launched Hyperliquid perps hours ago; official Monday"
-    },
-    {
-      "timestamp_seconds": 703,
-      "label": "Speed comparison: mobile app faster than Solana telegram bots"
+      "timestamp_seconds": 612,
+      "label": "Origin story: from Gnosis Safe grant to identifying mobile trading problems"
     },
     {
       "timestamp_seconds": 944,
-      "label": "Roadmap: spot trading and staking coming within weeks"
+      "label": "Spot trading and HYPE staking on mobile coming after L1 launch"
     },
     {
       "timestamp_seconds": 1095,
-      "label": "Hyperliquid EVM support planned for two weeks after L1 launch"
+      "label": "Hyper EVM integration planned within two weeks based on demand"
     },
     {
       "timestamp_seconds": 1524,
-      "label": "Points system live now; potential airdrop if adoption scales"
+      "label": "Points system for app usage; potential airdrop hinted but not confirmed"
     },
     {
       "timestamp_seconds": 1765,
-      "label": "One-button bridge from Solana to Hyperliquid in development"
+      "label": "One-click bridge from Solana to Hyperliquid in development with dBridge"
     }
   ],
-  "pull_quote": "You get the security profile of metamask and phantom but why do we have to settle for subpar features? Let's just build something we'd actually use.",
+  "pull_quote": "You get the security profile of Metamask and Phantom but why do we have to settle for subpar features.",
+  "quote_attribution": {
+    "name": "Osama",
+    "team": "Nest Wallet",
+    "role": null
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2440.8746875,
   "capture_failure_reason": null

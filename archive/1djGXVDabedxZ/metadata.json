@@ -12,79 +12,84 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "host"
+      "name": "Chuck",
+      "handle": null,
+      "team": "Dexari",
+      "role": "guest"
     },
     {
-      "user_id": "1416024118143635458",
-      "username": "Mr_OlaFX",
-      "display_name": "Olá FX 💯📌",
-      "role": "speaker"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1400908673673687045",
-      "username": "AnonGirder",
-      "display_name": "AnonGirder",
-      "role": "speaker"
+      "name": "Anand",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1876728231857917952",
-      "username": "Dexari",
-      "display_name": "Dexari",
-      "role": "speaker"
+      "name": "Ola",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1djGXVDabedxZ",
-  "summary_title": "Ex-Binance founders build Hyperliquid's first native mobile app with account abstraction",
-  "summary_description": "Dexari launched iOS and Android apps abstracting chain complexity, enabling seamless USDC deposits from Ethereum, Arbitrum, Base, Optimism—and soon Bitcoin and Solana.",
+  "summary_title": "Ex-Binance builders launch native mobile app for Hyperliquid trading",
+  "summary_description": "Dexari brings seamless perpetuals and spot trading to iOS and Android with account abstraction, multi-chain deposits, and integrated staking.",
   "topic_tags": [
+    "perps",
     "ecosystem",
-    "execution",
-    "infrastructure"
+    "execution"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 308,
-      "label": "Introducing Dexari: mobile solution filling Hyperliquid gap"
+      "label": "Dexari introduced as mobile solution for Hyperliquid"
     },
     {
       "timestamp_seconds": 368,
-      "label": "Chuck and Zach left Binance US to build decentralized exchange"
+      "label": "Chuck reveals co-founders left Binance US to build Dexari"
     },
     {
       "timestamp_seconds": 489,
-      "label": "Ex-Binance perspective on centralized exchanges versus Hyperliquid threat"
+      "label": "Discussion of Binance vs Hyperliquid situation last week"
     },
     {
-      "timestamp_seconds": 793,
-      "label": "Native iOS and Android apps launching for frictionless mobile trading"
+      "timestamp_seconds": 763,
+      "label": "Android app just launched; iOS TestFlight available"
     },
     {
-      "timestamp_seconds": 1160,
-      "label": "Account abstraction: one USDC balance across all chains"
+      "timestamp_seconds": 1130,
+      "label": "Hyper-EVM integration on roadmap with DeFi app bundling"
     },
     {
-      "timestamp_seconds": 1763,
-      "label": "Android app just released; iOS TestFlight live with invite code"
+      "timestamp_seconds": 1703,
+      "label": "Account abstraction enables single USDC balance across chains"
     },
     {
-      "timestamp_seconds": 2188,
-      "label": "Roadmap includes vaults, staking, on-ramps, off-ramps, card integration"
+      "timestamp_seconds": 2219,
+      "label": "Vault integration and fiat on/off ramps planned"
     },
     {
       "timestamp_seconds": 2678,
-      "label": "Points program announced: all current activity counts retroactively"
+      "label": "Points pre-season retroactively tracking all user activity"
     }
   ],
-  "pull_quote": "Centralized exchanges are inarguably some of the better user experiences built in crypto so far, and Hyperliquid is the first time I've seen a product that rivals them in performance, liquidity, and user experience.",
+  "pull_quote": "Hyperliquid is the first time I've seen a product that rivals what a centralized exchange can do in terms of performance, liquidity, and user experience.",
+  "quote_attribution": {
+    "name": "Chuck",
+    "team": "Dexari",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3348.672,
   "capture_failure_reason": null

@@ -12,97 +12,90 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "rekt_gang",
       "role": "host"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "host"
+      "name": "PBR",
+      "handle": null,
+      "team": "rekt_gang",
+      "role": "guest"
     },
     {
-      "user_id": "1811161714974760960",
-      "username": "pvp_dot_trade",
-      "display_name": "pvp.trade",
-      "role": "speaker"
+      "name": "Noms",
+      "handle": null,
+      "team": "PVP.trade",
+      "role": "guest"
     },
     {
-      "user_id": "1294951889495371776",
-      "username": "HatashiYamatomo",
-      "display_name": "hatashi",
-      "role": "speaker"
+      "name": "Guffix",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1874962138944671744",
-      "username": "reslashacc",
-      "display_name": "samu (re/acc)",
-      "role": "speaker"
+      "name": "Hatashi",
+      "handle": null,
+      "team": "Hyperbeets",
+      "role": "guest"
     },
     {
-      "user_id": "1808370527959961600",
-      "username": "notputsandcalls",
-      "display_name": "🖤puts🤍",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1723424740361023488",
-      "username": "GuthixHL",
-      "display_name": "Guthix 🫵",
-      "role": "speaker"
-    },
-    {
-      "user_id": "285771380",
-      "username": "scrtlovers",
-      "display_name": "Em𝕊///Rekt101",
-      "role": "speaker"
+      "name": "Amir",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1YpKkBMnpLwxj",
-  "summary_title": "Coordinated exchange attack on Hyperliquid exposes design tensions",
-  "summary_description": "Jelly token manipulation, validator response, and debate over decentralization tradeoffs during live incident.",
+  "summary_title": "Coordinated attack on Hyperliquid, validator response, and PVP trading's future",
+  "summary_description": "Jelly crash, delisting decision, and why PVP.trade is building the social layer for Hyperliquid perps.",
   "topic_tags": [
+    "perps",
     "ecosystem",
-    "governance",
-    "infrastructure"
+    "governance"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 89,
-      "label": "Space announcement coincides with suspected coordinated attack"
+      "label": "Space begins: hosts discuss timing and recent Hyperliquid events"
     },
     {
       "timestamp_seconds": 149,
-      "label": "Zerk and PBR introduce pvp.trade; Guffix joins to discuss events"
+      "label": "Zerk introduces rekt_gang; discussion of coordinated attack on Jelly"
     },
     {
       "timestamp_seconds": 332,
-      "label": "Noms notices jelly position down 8-9M, confirms coordinated attack theory"
+      "label": "Noms (PVP.trade co-founder) describes Jelly position down 8-9 million, calls it coordinated attack"
     },
     {
       "timestamp_seconds": 392,
-      "label": "Community debates ongoing market cap caps and OI limits to prevent repeats"
+      "label": "Discussion of OI caps relative to market cap and HLP risk exposure"
     },
     {
-      "timestamp_seconds": 574,
-      "label": "Validator quorum voted to delist; PBR defends Jeff and team responsiveness"
+      "timestamp_seconds": 514,
+      "label": "PBR comments on Binance threat and validator response to delisting"
     },
     {
-      "timestamp_seconds": 725,
-      "label": "Discussion of USDT freezing vs USDC; validator governance process affirmed"
-    },
-    {
-      "timestamp_seconds": 1057,
-      "label": "HLP tvl withdrawal and recovery; discussion of vault impacts and yields"
+      "timestamp_seconds": 604,
+      "label": "Clarification that validators voted as committee, not just Jeff"
     },
     {
       "timestamp_seconds": 1328,
-      "label": "Pivot to pvp.trade launch: Telegram bot for social group trading"
+      "label": "Pivot to PVP.trade: 30 billion volume, Telegram bot, copy trading launch"
+    },
+    {
+      "timestamp_seconds": 2962,
+      "label": "Discussion of Hyperliquid EVM opportunities: lending, liquid staking, NFTs"
     }
   ],
-  "pull_quote": "Jeff and team have shown that they're here to change it, to put it in our hands, to let the users reap the rewards of the platform and everything.",
+  "pull_quote": "Trading with friends is always more fun, and it feels less bad when you get liquidated because you're not just a retard trading by yourself.",
+  "quote_attribution": {
+    "name": "Noms",
+    "team": "PVP.trade",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 5010.752,
   "capture_failure_reason": null

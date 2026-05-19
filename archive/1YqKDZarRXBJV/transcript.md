@@ -1,25 +1,32 @@
-# Mobile perps trading on Hyperliquid: faster than telegram bots, fully decentralized
+# Nest Wallet brings mobile-first perps and staking to Hyperliquid
 
-_Nest Wallet launches Hyperliquid L1 perps on mobile with native key custody, MEV protection, and zero speed compromise versus centralized bots._
+_Canadian team launches soft-release of Hyperliquid perps on mobile with spot and staking coming soon._
 
-> You get the security profile of metamask and phantom but why do we have to settle for subpar features? Let's just build something we'd actually use.
+> You get the security profile of Metamask and Phantom but why do we have to settle for subpar features.
+> — Osama, Nest Wallet
 
 **Host:** @rekt_gang
 **Date:** 2025-03-19
 **Duration:** 40:40
-**Tags:** perps, infrastructure, trading, ecosystem
+**Tags:** perps, infrastructure, ecosystem
 **Source:** https://x.com/i/spaces/1YqKDZarRXBJV
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Osama** — Nest Wallet _guest_
+- **Bill** — Nest Wallet _guest_
 
 ## Key moments
 
-- **[4:10]** Team background: ex-BitGo custodians building for mobile
-- **[7:42]** Gap in market: no solid mobile perps experience exists yet
-- **[8:12]** Soft-launched Hyperliquid perps hours ago; official Monday
-- **[11:43]** Speed comparison: mobile app faster than Solana telegram bots
-- **[15:44]** Roadmap: spot trading and staking coming within weeks
-- **[18:15]** Hyperliquid EVM support planned for two weeks after L1 launch
-- **[25:24]** Points system live now; potential airdrop if adoption scales
-- **[29:25]** One-button bridge from Solana to Hyperliquid in development
+- **[1:36]** Host introduces Nest Wallet team, based in Toronto
+- **[6:11]** Hyperliquid perps soft-launched on Nest mobile wallet hours before
+- **[7:42]** Team explains gap: mobile trading lacks CEX-like UX while staying decentralized
+- **[10:12]** Origin story: from Gnosis Safe grant to identifying mobile trading problems
+- **[15:44]** Spot trading and HYPE staking on mobile coming after L1 launch
+- **[18:15]** Hyper EVM integration planned within two weeks based on demand
+- **[25:24]** Points system for app usage; potential airdrop hinted but not confirmed
+- **[29:25]** One-click bridge from Solana to Hyperliquid in development with dBridge
 
 ## Transcript
 

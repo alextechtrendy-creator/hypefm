@@ -12,62 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1383949323747020808",
-      "username": "0xaioli",
-      "display_name": "Ali",
-      "role": "speaker"
+      "name": "Ollie",
+      "handle": null,
+      "team": "Volantis",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1ynKOMYZvjQJR",
-  "summary_title": "Stake Type's multi-account design unlocks HIP-3 markets, faster withdrawals, and institutional staking",
-  "summary_description": "Valantis' Ollie explains how ST Hype captured staking yield that no other LST can, and why Athena partnership changes everything.",
+  "summary_title": "Stake Type's multi-account design unlocks institutional hype staking on Hyperliquid",
+  "summary_description": "How Volantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield.",
   "topic_tags": [
     "vaults",
-    "tokenomics",
     "ecosystem",
-    "market-making"
+    "tokenomics"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 128,
-      "label": "AI-generated Valantis anthem surprises the space"
+      "label": "AI-generated Volantis anthem surprise, 15 minutes to create"
+    },
+    {
+      "timestamp_seconds": 370,
+      "label": "Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Volantis"
     },
     {
       "timestamp_seconds": 551,
-      "label": "Valantis pivoted to Hyperliquid because it's the only chain with proven DeFi product-market fit"
+      "label": "Ollie defines Volantis: liquid staking and liquidity products earning more hype than anywhere else"
     },
     {
-      "timestamp_seconds": 793,
-      "label": "ST Hype points launch was intentionally delayed nine months until product could scale billions"
+      "timestamp_seconds": 674,
+      "label": "Why Hyperliquid: only chain with genuine market product-market fit for DeFi teams"
     },
     {
-      "timestamp_seconds": 1035,
-      "label": "Hype utilities: 500K for hip-3, 200K for quote assets, 1M for limit orders, 400K for max market-making discounts"
+      "timestamp_seconds": 824,
+      "label": "Points launch was strategically delayed 8-9 months until products could scale billions in TVL"
     },
     {
-      "timestamp_seconds": 1703,
-      "label": "Multi-account architecture lets ST Hype offer faster withdrawals and partner yields that single-account LSTs can't"
+      "timestamp_seconds": 1096,
+      "label": "Stake Type solves hype utility gap: lets any staker access 400K market-making discounts, HIP-3 requirements"
     },
     {
-      "timestamp_seconds": 1915,
-      "label": "Athena partnership brings 12% APY on USDE, contractual 20K hype/year to ST Hype holders"
+      "timestamp_seconds": 1824,
+      "label": "Athena partnership: USDE quote asset is non-slashable, guarantees 20K hype yearly to ST hype holders"
     },
     {
-      "timestamp_seconds": 2763,
-      "label": "Looping ST Hype 4-5x via Hyperland borrow is highest-yield points farming strategy"
-    },
-    {
-      "timestamp_seconds": 3399,
-      "label": "Hype trades like fundamental asset, could flip Ethereum if economic maturity trend continues"
+      "timestamp_seconds": 3369,
+      "label": "Ollie predicts hype top-5 asset in 2026, eventually flipping Ethereum on 5-10 year timeframe"
     }
   ],
-  "pull_quote": "Points are just a megaphone on what you're already doing. If the fire itself has no substance, they won't get you anywhere.",
+  "pull_quote": "Hype trades more like a fundamental asset than pretty much any other token, yet it's hilariously undervalued relative to Cardano or Tron.",
+  "quote_attribution": {
+    "name": "Ollie",
+    "team": "Volantis",
+    "role": "head of growth"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3679.296,
   "capture_failure_reason": null

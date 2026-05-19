@@ -1,25 +1,32 @@
-# Hyperblades' NFT lending, launchpad, and mystery game launching on Hyperliquid within two weeks
+# NFT lending, launchpad raffles, and an imposter game coming to Hyperliquid
 
-_Four-person team building lending platform, raffle-based launchpad, and play-to-earn game. Testnet in two days, mainnet in less than two weeks._
+_Hyperblades is launching a lending platform, NFT marketplace, raffle-based launchpad, and play-to-earn game on Hyperliquid._
 
-> You can just borrow money against your NFT as collateral, or lend money to test it for up to seven days before deciding whether to buy it.
+> Lending is to get more hype, like if somebody needs hype as collateral or wants to admit more NFTs, they can offer their NFT as collateral.
+> — Zerk, Brecking
 
 **Host:** @rekt_gang
 **Date:** 2025-04-17
 **Duration:** 44:27
-**Tags:** ecosystem, listings, community
+**Tags:** ecosystem, vaults, listings
 **Source:** https://x.com/i/spaces/1lPKqMAYQPwKb
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Frank** — Hyperblades _guest_
+- **Zerk** — Brecking _guest_
+- **Pedro** _guest_
 
 ## Key moments
 
-- **[5:05]** Zerk introduces Hyperblades and their Hyperliquid NFT-fi stack
-- **[6:38]** 10,000 contract requests handled smoothly on testnet mint
-- **[8:39]** Lending platform lets users test-drive NFTs for up to seven days
-- **[17:16]** Raffle system differentiates launchpad from competitors like Drip
-- **[21:50]** Timeline: testnet in two days, mainnet in less than two weeks
-- **[23:22]** Play-to-earn game teased as imposter-type game
-- **[24:23]** Team of seven: three full-time devs, one game designer, one UX designer, one manager
-- **[25:24]** Built in three months; major VC partnership coming soon
+- **[5:05]** Zerk introduces Hyperblades, a new NFT-fi platform on Hyperliquid
+- **[6:38]** Testnet mint succeeded with 10,000 contract requests on Hyper-EVM
+- **[7:37]** Frank explains the raffle system launchpad launching in two days
+- **[8:39]** Lending platform lets users test NFTs for 2-7 days before buying
+- **[17:16]** Raffle method: whitelisted users guaranteed one NFT, others compete for tickets
+- **[21:50]** Mainnet lending protocol launching within two weeks of testnet
+- **[32:33]** Frank teases imposter-themed play-to-earn game launching with platform
 
 ## Transcript
 

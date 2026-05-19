@@ -12,67 +12,68 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
+      "name": "Shinji",
+      "handle": null,
+      "team": "KittenSwap",
+      "role": "guest"
     },
     {
-      "user_id": "1865171567933562880",
-      "username": "KittenswapHype",
-      "display_name": "Kittenswap (🐱,🐱)",
-      "role": "speaker"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1YqKDZlNMOYJV",
-  "summary_title": "KittenSwap's 30% airdrop flipped HyperSwap's TVL with one clever move",
-  "summary_description": "Two DeFi OGs built a concentrated liquidity DEX on HyperEVM without raising a seed round, using MechaCats NFTs and a wide token distribution to overtake competitors.",
+  "summary_title": "KittenSwap's 30% airdrop strategy flips HyperEVM's top DEX in three months",
+  "summary_description": "From self-funded to #1 TVL: how two DeFi OGs built the DEX ecosystem wanted using concentrated liquidity and community-first tokenomics.",
   "topic_tags": [
     "ecosystem",
-    "tokenomics",
-    "infrastructure"
+    "perps",
+    "trading"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 276,
-      "label": "Founders introduce themselves and DeFi background"
+      "label": "Shinji introduces KittenSwap co-founders and DeFi background"
     },
     {
-      "timestamp_seconds": 337,
-      "label": "Why KittenSwap chose concentrated liquidity pools over UniV2 AMM"
+      "timestamp_seconds": 427,
+      "label": "Why KittenSwap chose concentrated liquidity pools over UniV2 AMMs"
     },
     {
       "timestamp_seconds": 517,
-      "label": "30% airdrop and points program distribution strategy explained"
-    },
-    {
-      "timestamp_seconds": 548,
-      "label": "KittenSwap surpassed HyperSwap TVL despite launching second"
+      "label": "30% airdrop and points program drove user adoption and TVL lead"
     },
     {
       "timestamp_seconds": 578,
-      "label": "MechaCats NFTs as seed round alternative, boosted points multiplier"
+      "label": "MechaCats NFT launch as self-funded seed round and community builder"
     },
     {
-      "timestamp_seconds": 1033,
-      "label": "Dual points with other protocols like HyperFi and Kaiko explained"
+      "timestamp_seconds": 1518,
+      "label": "Why DeFi shifted from Arbitrum to HyperEVM after airdrop mess"
     },
     {
       "timestamp_seconds": 1974,
-      "label": "Best yield strategy: K-USD/USDC pool with triple points"
+      "label": "Three-in-one yield: KUSD/USDC pool earns Kaiko, HyperFi, and Kitten points"
     },
     {
       "timestamp_seconds": 2276,
-      "label": "MechaCats holders get 3% of token at TGE plus whitelist access"
+      "label": "MechaCats holders receive 3% of beacon token at TGE"
     }
   ],
-  "pull_quote": "Our airdrop is 30% of our supply so as many people as possible who want to work with us and integrate gain tokens, which attracted a lot of users and builders.",
+  "pull_quote": "Letting people get in early allows the community to form and allows people to really get invested in the protocol.",
+  "quote_attribution": {
+    "name": "Shinji",
+    "team": "KittenSwap",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2437.8666875,
   "capture_failure_reason": null

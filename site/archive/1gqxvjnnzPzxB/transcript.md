@@ -1,25 +1,31 @@
-# Lucky Ponds: lottery gaming on Hyperliquid with 7% fees flowing back to HyperFrogs holders
+# Lucky Ponds: Lottery gambling on Hyperliquid with HyperFrog revenue share
 
-_Bernie built a daily, weekly, and monthly raffle app where players deposit 0.1+ HYPE for a chance to win the full pool. Revenue splits to frog holders._
+_Bernie's new gambling app lets you deposit 0.1 HYPE to win big, with 7% of winnings flowing back to HyperFrog holders._
 
-> There's just more liquidity, more people, more fun on Hyperliquid right now. I mean, it's just the truth, right?
+> Cosmos had a lot of drama and is missing key players that actually do stuff on chain. Here people are building meme coins and communities centered around liquidity.
+> — Bernie
 
 **Host:** @rekt_gang
 **Date:** 2025-06-12
 **Duration:** 42:10
-**Tags:** perps, trading, ecosystem, community
+**Tags:** perps, ecosystem, trading
 **Source:** https://x.com/i/spaces/1gqxvjnnzPzxB
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — Rekt Gang _host_
+- **Bernie** _guest_
 
 ## Key moments
 
-- **[1:31]** Host opens space, announces HyperFrogs and Lucky Ponds discussion
-- **[7:06]** Zerk introduces Bernie, Cosmos dev pivoting to HyperVM and Hyperliquid
-- **[8:07]** HyperFrogs: first ASCII collection on HyperEVM with fully on-chain JPEGs
-- **[9:08]** Bernie explains what drew him to Hyperliquid: learning EVM, Solidity, first-mover advantage
-- **[13:11]** Zerk names real reason: Cosmos broke, Hyperliquid has liquidity and degens willing to gamble
-- **[19:15]** Lucky Ponds launches with 7% fee to HyperFrogs holders on every win
-- **[26:54]** Game goes live after one hour; first week includes Trippy Wolf NFT rewards
-- **[34:31]** Five-minute hyper mode explained: short PVP bursts, requires active simultaneous players
+- **[7:06]** Bernie intro: Cosmos OG dev pivots to Hyperliquid and HyperVM
+- **[8:37]** HyperFrogs launch: second on-chain ASCII collection, full JPEG storage
+- **[10:40]** Migration issue: contract wasn't recognized as NFT, required workaround
+- **[13:11]** Why Hyperliquid: Cosmos had no liquidity, poor user engagement, drama
+- **[19:15]** Lucky Ponds structure: 7% fee on wins goes to HyperFrog holders
+- **[26:54]** Launch live now: daily, weekly, monthly pools plus Wreck Gang NFT giveaway
+- **[34:31]** HyperMode: experimental 5-minute and hourly pools for degens
+- **[39:04]** Security: no VRF yet, relies on hard contract calls requiring 4-block control
 
 ## Transcript
 

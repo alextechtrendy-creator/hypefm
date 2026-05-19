@@ -1,25 +1,34 @@
-# Ex-Binance founders build Hyperliquid's first native mobile app with account abstraction
+# Ex-Binance builders launch native mobile app for Hyperliquid trading
 
-_Dexari launched iOS and Android apps abstracting chain complexity, enabling seamless USDC deposits from Ethereum, Arbitrum, Base, Optimism—and soon Bitcoin and Solana._
+_Dexari brings seamless perpetuals and spot trading to iOS and Android with account abstraction, multi-chain deposits, and integrated staking._
 
-> Centralized exchanges are inarguably some of the better user experiences built in crypto so far, and Hyperliquid is the first time I've seen a product that rivals them in performance, liquidity, and user experience.
+> Hyperliquid is the first time I've seen a product that rivals what a centralized exchange can do in terms of performance, liquidity, and user experience.
+> — Chuck, Dexari
 
 **Host:** @rekt_gang
 **Date:** 2025-04-01
 **Duration:** 55:48
-**Tags:** ecosystem, execution, infrastructure
+**Tags:** perps, ecosystem, execution
 **Source:** https://x.com/i/spaces/1djGXVDabedxZ
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Chuck** — Dexari _guest_
+- **PBR** _guest_
+- **Anand** _guest_
+- **Ola** _guest_
 
 ## Key moments
 
-- **[5:08]** Introducing Dexari: mobile solution filling Hyperliquid gap
-- **[6:08]** Chuck and Zach left Binance US to build decentralized exchange
-- **[8:09]** Ex-Binance perspective on centralized exchanges versus Hyperliquid threat
-- **[13:13]** Native iOS and Android apps launching for frictionless mobile trading
-- **[19:20]** Account abstraction: one USDC balance across all chains
-- **[29:23]** Android app just released; iOS TestFlight live with invite code
-- **[36:28]** Roadmap includes vaults, staking, on-ramps, off-ramps, card integration
-- **[44:38]** Points program announced: all current activity counts retroactively
+- **[5:08]** Dexari introduced as mobile solution for Hyperliquid
+- **[6:08]** Chuck reveals co-founders left Binance US to build Dexari
+- **[8:09]** Discussion of Binance vs Hyperliquid situation last week
+- **[12:43]** Android app just launched; iOS TestFlight available
+- **[18:50]** Hyper-EVM integration on roadmap with DeFi app bundling
+- **[28:23]** Account abstraction enables single USDC balance across chains
+- **[36:59]** Vault integration and fiat on/off ramps planned
+- **[44:38]** Points pre-season retroactively tracking all user activity
 
 ## Transcript
 

@@ -1,25 +1,32 @@
-# Cypher Card: Spend your Hyperliquid perps directly on Visa worldwide
+# Cypher's prepaid Visa card: turning Hyperliquid perps into real-world spending
 
-_On-chain banking platform launches prepaid Visa cards for HyperLiquid traders—turn perps into coffee in one click, no withdrawal delays._
+_Cypher launches on Hyperliquid with instant card loading from perps and spot balances, plus plans for merchant rewards and on-chain forex._
 
-> Collapse all these steps into a single step and make it instant. Click of a button, you can load it to Cypher in a minute max, then go buy coffee with it.
+> We collapse all these steps into a single step and make it instant. If you already have some spot or perps balance, with a click of a button, load it to Cypher instantly.
+> — Cube, Cypher
 
 **Host:** @rekt_gang
 **Date:** 2025-04-24
 **Duration:** 57:28
-**Tags:** perps, ecosystem, execution, trading
+**Tags:** ecosystem, execution, trading
 **Source:** https://x.com/i/spaces/1lDxLzNRyERGm
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — RecGang _host_
+- **Cube** — Cypher _guest_
+- **PBR** _guest_
 
 ## Key moments
 
-- **[4:56]** RecGang becomes first NFT community on Hyperliquid
-- **[5:57]** Cypher introduces on-chain bank account vision and card product
-- **[8:30]** Live demo: collapsing six-step off-ramp into single-click card load
-- **[14:03]** Confirms integration with HyperCore only, not HyperEVM
-- **[21:08]** PBR requests HLP vault auto-load feature for cards
-- **[34:49]** Cypher token and merchant incentive protocol launching this year
-- **[41:21]** Identifies predatory 5-8% forex fees at point-of-sale, educates users
-- **[48:58]** Currently 25-50 signups; prioritizes product-market fit over launch hype
+- **[3:56]** Hyperliquid's abstracted HTTP API made integration smoother than typical blockchains
+- **[8:30]** Cypher collapses multiple off-ramp steps into one-click card loading from perps balance
+- **[11:01]** Virtual card live immediately after KYC; physical cards ship globally in weeks
+- **[14:03]** Integration built on HyperCore API, not HyperEVM; abstracted signatures used like normal users
+- **[16:06]** Supports HYPE, USDC, PER, BTC, ETH loading; community wanted PER from day one
+- **[20:08]** Future: auto-load from HLP vault when balance drops below threshold
+- **[34:49]** Merchant token and incentive protocol launching this year for cashback at Uber, Marriott
+- **[41:52]** Users overpaid six figures in forex fees in Q1 2025 alone; Cypher alerts when to decline POS conversions
 
 ## Transcript
 

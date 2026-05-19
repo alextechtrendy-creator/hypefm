@@ -12,68 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "RecGang",
       "role": "host"
     },
     {
-      "user_id": "385328034",
-      "username": "RuneKek",
-      "display_name": "Rune",
-      "role": "speaker"
+      "name": "Rune",
+      "handle": null,
+      "team": "Sky",
+      "role": "guest"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
+      "name": "PVR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1yoKMPQOoQWxQ",
-  "summary_title": "Decentralized stablecoins beat centralized custodians—Sky's 4.85% yield on Hyperliquid",
-  "summary_description": "Rune from Sky explains why USDH needs governance-first infrastructure, parallel deployments, and diversified collateral beyond T-bills.",
+  "summary_title": "Sky's decentralized stablecoin governance and Hyperliquid collateral opportunities",
+  "summary_description": "Rune from Sky discusses tokenized agents, risk frameworks, and why decentralized money matters for crypto's future.",
   "topic_tags": [
     "perps",
     "governance",
-    "ecosystem",
-    "infrastructure"
+    "ecosystem"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 128,
-      "label": "Rune introduces Sky's vision and stablecoin philosophy"
+      "timestamp_seconds": 310,
+      "label": "Host introduction: Zerk from RecGang, validator on Hyperliquid"
     },
     {
       "timestamp_seconds": 371,
-      "label": "Origin story: lost everything in 2011 Bitcoin crash, co-founded Maker"
+      "label": "Rune's origin story: Bitcoin crash in 2011 led to stablecoins and Maker"
+    },
+    {
+      "timestamp_seconds": 432,
+      "label": "Sky's differentiator: decentralized governance and autonomous infrastructure"
     },
     {
       "timestamp_seconds": 553,
-      "label": "Why decentralized money matters: transparency, no counterparty risk"
+      "label": "Decentralized vs custodial stablecoins: crypto ethos and user protection"
     },
     {
-      "timestamp_seconds": 1160,
-      "label": "Sky's governance tools and star agents framework explained"
+      "timestamp_seconds": 1190,
+      "label": "USDH proposal: wrapping USDS with Hyperliquid star agent and governance"
     },
     {
-      "timestamp_seconds": 1827,
-      "label": "Using Hyperliquid native collateral: HLP, purpose positions, LSTs"
+      "timestamp_seconds": 1920,
+      "label": "Risk framework: using any uncorrelated asset as collateral with proper enhancement"
     },
     {
       "timestamp_seconds": 2106,
-      "label": "USDH proposal: liquidity, existing rails, 4.85% yield promise"
-    },
-    {
-      "timestamp_seconds": 2317,
-      "label": "Spark protocol launch and free access for normal users"
+      "label": "Sky's case for USDH: 4.85% returns, liquidity, and efficiency without new infrastructure"
     },
     {
       "timestamp_seconds": 2650,
-      "label": "Final call: support Sky proposal, explore star agents and Spark"
+      "label": "Call to action: support USDH proposal and explore Spark on Hyperliquid"
     }
   ],
-  "pull_quote": "The whole point of crypto is it delivers better infrastructure that makes it easier for people to be completely sure they're not getting ripped off by counterparties and their assets are safe.",
+  "pull_quote": "Decentralization is the whole purpose of why crypto was created as a reaction to the financial crisis.",
+  "quote_attribution": {
+    "name": "Rune",
+    "team": "Sky",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2788.16,
   "capture_failure_reason": null

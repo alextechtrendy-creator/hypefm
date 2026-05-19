@@ -12,68 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1860029182509563904",
-      "username": "ifmarkets",
-      "display_name": "HyperFlash",
-      "role": "speaker"
+      "name": "Himalaya",
+      "handle": null,
+      "team": "HyperFlash",
+      "role": "guest"
     },
     {
-      "user_id": "1678659890485526528",
-      "username": "0xSputnik",
-      "display_name": "0xSputnik",
-      "role": "speaker"
+      "name": "Sputnik",
+      "handle": null,
+      "team": "HyperFlash",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1DXxyqzMZDWxM",
-  "summary_title": "HyperFlash: MEV-boosted staking and composable perps on HyperEVM",
-  "summary_description": "Yale PhD and MIT engineers launch Flash HYPE LST with 0% commission, MEV rewards, and integration across HyperLiquid's DeFi ecosystem.",
+  "summary_title": "HyperFlash's MEV-powered LST: 0% commission, composable perps, launching Monday",
+  "summary_description": "Himalaya and Sputnik explain Flash HYPE, MEV capture on HyperEVM, and why decentralized validators matter.",
   "topic_tags": [
-    "vaults",
+    "perps",
     "ecosystem",
-    "infrastructure",
-    "governance"
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 374,
-      "label": "HyperFlash co-founders introduce MEV and LST thesis"
+      "label": "Himalaya and Sputnik introduce HyperFlash: LST + MEV arbitrage"
     },
     {
       "timestamp_seconds": 616,
-      "label": "Explaining HyperCore vs HyperEVM: same consensus, different states"
+      "label": "HyperCore vs HyperEVM explained: same consensus, different state"
     },
     {
       "timestamp_seconds": 707,
-      "label": "First composable perps: DeFi protocols can hold perp positions directly"
+      "label": "First composable perps: DeFi can hold perpetual positions directly"
     },
     {
       "timestamp_seconds": 889,
-      "label": "LST benefits: liquid staking with borrowing and DeFi composability"
+      "label": "What LSTs do: unlock staked HYPE without losing yield"
     },
     {
-      "timestamp_seconds": 1316,
-      "label": "MEV definition: maximal extractable value as arbitrage opportunities"
+      "timestamp_seconds": 1346,
+      "label": "MEV definition and arbitrage opportunities on HyperFlash"
     },
     {
       "timestamp_seconds": 1652,
-      "label": "HyperFlash differentiator: MEV rewards on top of staking yield"
+      "label": "0% commission LST plus MEV rewards: differentiation strategy"
     },
     {
       "timestamp_seconds": 1989,
-      "label": "Launch timeline: live within 24-48 hours with point multipliers"
+      "label": "Launch timing: tomorrow or Monday, announcements in 1-2 days"
     },
     {
       "timestamp_seconds": 2080,
-      "label": "Full DeFi integration: partnerships with HyperLend, LoopType, HyperSwap"
+      "label": "Partnerships with HyperLend, Felix, LoopTyper, HyperSwap live at launch"
     }
   ],
-  "pull_quote": "We are building this for the long run. We will have 0% commission on LST forever, and take a small cut from MEV to hire the best engineers.",
+  "pull_quote": "You're earning the yield, but you can do so much more. Like there is basically no downside.",
+  "quote_attribution": {
+    "name": "Sputnik",
+    "team": "HyperFlash",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2628.672,
   "capture_failure_reason": null

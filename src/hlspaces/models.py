@@ -33,6 +33,8 @@ class SpaceMetadata(BaseModel):
     topic_tags: list[str] = Field(default_factory=list)
     key_moments: list[dict] = Field(default_factory=list)
     pull_quote: Optional[str] = None
+    quote_attribution: Optional[dict] = None
+    participants: list[dict] = Field(default_factory=list)
 
     # Capture status
     audio_captured: bool = False

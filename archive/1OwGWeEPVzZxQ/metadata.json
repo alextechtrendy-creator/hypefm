@@ -12,33 +12,27 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1490800981264764930",
-      "username": "ClBlockchain",
-      "display_name": "C-l.hl 🏰🍐",
-      "role": "speaker"
+      "name": "Huff",
+      "handle": null,
+      "team": "Pair Protocol",
+      "role": "guest"
     },
     {
-      "user_id": "1362031162298875904",
-      "username": "hufhaus9",
-      "display_name": "huf.hl",
-      "role": "speaker"
-    },
-    {
-      "user_id": "285771380",
-      "username": "scrtlovers",
-      "display_name": "Em𝕊///Rekt101",
-      "role": "speaker"
+      "name": "CL",
+      "handle": null,
+      "team": "Pair Protocol",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1OwGWeEPVzZxQ",
-  "summary_title": "45% win rate pair trading beats directional traders on Hyperliquid",
-  "summary_description": "Pair Protocol's basket trading achieves 45% profitable users versus 20% on standard perpetual exchanges.",
+  "summary_title": "45% win rate pair trading beats directional on Hyperliquid by multiples",
+  "summary_description": "Pair Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon.",
   "topic_tags": [
     "perps",
     "trading",
@@ -46,39 +40,44 @@
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 311,
-      "label": "Intro to Pair Protocol and pair trading concept"
-    },
-    {
-      "timestamp_seconds": 462,
-      "label": "Long-short strategy outperforms directional trading"
+      "timestamp_seconds": 341,
+      "label": "Huff introduces Pair Protocol and pair trading concept"
     },
     {
       "timestamp_seconds": 583,
-      "label": "45% user win rate announced, five times higher than competitors"
+      "label": "45% win rate revealed, multiples higher than directional trading"
     },
     {
       "timestamp_seconds": 763,
-      "label": "Basket feature innovation allows multi-asset long and short positions"
+      "label": "CL demonstrates basket strategy with long/short baskets"
+    },
+    {
+      "timestamp_seconds": 945,
+      "label": "Technical breakdown: synchronized execution and tokenization of positions"
     },
     {
       "timestamp_seconds": 1005,
-      "label": "October 10th liquidation event: Pair survived while others failed"
+      "label": "October 10th event case study: Pair users stayed profitable during liquidations"
     },
     {
-      "timestamp_seconds": 1398,
-      "label": "LLM agent coming next week to suggest shorts based on statistics"
+      "timestamp_seconds": 1428,
+      "label": "LLM agent launching next week for trade suggestions"
     },
     {
       "timestamp_seconds": 1669,
-      "label": "Pair vaults launching on Hyperliquid EVM for automated trading"
+      "label": "Vault contracts in audit, coming to Hyper EVM soon"
     },
     {
       "timestamp_seconds": 1823,
-      "label": "Points program distributing up to 6K Hype tokens weekly"
+      "label": "Paying 6K HLP tokens weekly in rewards, not farming points"
     }
   ],
-  "pull_quote": "If this basket falls 2%, knock me out of the trade. If it goes up 5%, take profit. You no longer need to manually manage individual legs.",
+  "pull_quote": "45% of pair traders are profitable versus 20% directional traders on Hyperliquid, multiples higher because users avoid liquidations with hedging.",
+  "quote_attribution": {
+    "name": "Huff",
+    "team": "Pair Protocol",
+    "role": "founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3147.7546875,
   "capture_failure_reason": null

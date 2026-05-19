@@ -1,8 +1,9 @@
-# 45% win rate pair trading beats directional traders on Hyperliquid
+# 45% win rate pair trading beats directional on Hyperliquid by multiples
 
-_Pair Protocol's basket trading achieves 45% profitable users versus 20% on standard perpetual exchanges._
+_Pair Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon._
 
-> If this basket falls 2%, knock me out of the trade. If it goes up 5%, take profit. You no longer need to manually manage individual legs.
+> 45% of pair traders are profitable versus 20% directional traders on Hyperliquid, multiples higher because users avoid liquidations with hedging.
+> — Huff, Pair Protocol
 
 **Host:** @rekt_gang
 **Date:** 2025-12-02
@@ -10,16 +11,22 @@ _Pair Protocol's basket trading achieves 45% profitable users versus 20% on stan
 **Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1OwGWeEPVzZxQ
 
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Huff** — Pair Protocol _guest_
+- **CL** — Pair Protocol _guest_
+
 ## Key moments
 
-- **[5:11]** Intro to Pair Protocol and pair trading concept
-- **[7:42]** Long-short strategy outperforms directional trading
-- **[9:43]** 45% user win rate announced, five times higher than competitors
-- **[12:43]** Basket feature innovation allows multi-asset long and short positions
-- **[16:45]** October 10th liquidation event: Pair survived while others failed
-- **[23:18]** LLM agent coming next week to suggest shorts based on statistics
-- **[27:49]** Pair vaults launching on Hyperliquid EVM for automated trading
-- **[30:23]** Points program distributing up to 6K Hype tokens weekly
+- **[5:41]** Huff introduces Pair Protocol and pair trading concept
+- **[9:43]** 45% win rate revealed, multiples higher than directional trading
+- **[12:43]** CL demonstrates basket strategy with long/short baskets
+- **[15:45]** Technical breakdown: synchronized execution and tokenization of positions
+- **[16:45]** October 10th event case study: Pair users stayed profitable during liquidations
+- **[23:48]** LLM agent launching next week for trade suggestions
+- **[27:49]** Vault contracts in audit, coming to Hyper EVM soon
+- **[30:23]** Paying 6K HLP tokens weekly in rewards, not farming points
 
 ## Transcript
 

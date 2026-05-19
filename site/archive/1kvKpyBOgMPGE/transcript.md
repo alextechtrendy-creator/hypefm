@@ -1,25 +1,33 @@
-# How Hyperliquid survived a coordinated exchange attack, and what's next
+# HyperLiquid's validator cartel problem and Kinetic's StakeHub solution
 
-_Omnia from Kinetic breaks down yesterday's HLP manipulation attempt, validator coordination, and why decentralized perpetuals terrify centralized exchanges._
+_Omnia from Kinetic explains why liquid staking needs autonomous validator selection, not secret kickback deals._
 
-> If you were able to trick hyperliquids HLP into a position it shouldn't have been in the first place, you could trigger a liquidation, bank run, and endless FUD to put a huge end to your competition.
+> For us, that doesn't make any sense. We don't give a fuck about working with any validator in particular.
+> — Omnia, Kinetic
 
 **Host:** @rekt_gang
 **Date:** 2025-03-27
 **Duration:** 1:23:31
-**Tags:** governance, infrastructure, ecosystem
+**Tags:** vaults, infrastructure, governance
 **Source:** https://x.com/i/spaces/1kvKpyBOgMPGE
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **PBR** _guest_
+- **Omnia** — Kinetic _guest_
+- **Pedro** _guest_
 
 ## Key moments
 
-- **[2:10]** The HLP situation from yesterday clears, community bullish again
-- **[5:11]** Omnia explains: coordination between OKEx, Binance, BitGet to trigger HLP bank run
-- **[6:43]** Validators reached quorum to delist the manipulated asset nanoseconds after Binance listing
-- **[9:14]** Someone accumulated almost one-fifth of jelly supply in four days pre-attack
-- **[10:14]** Decentralization spectrum debate: Hyperliquid versus CEX versus Bitcoin
-- **[14:45]** Builder codes on Hyperliquid threaten exchange business model more than perps alone
-- **[34:56]** Kinetic liquid staking launch: why, how, and native integration strategy
-- **[40:28]** StakeHub: autonomous validator scoring to eliminate kickback deals
+- **[2:10]** Discussion of yesterday's exchange attack and HLP bank run attempt
+- **[6:43]** Omnia alleges Binance, OKEx, BitGet coordinated to attack HyperLiquid
+- **[9:14]** Debate: is HyperLiquid decentralized or centralized? Spectrum argument
+- **[17:17]** Builder codes as existential threat to centralized exchanges
+- **[21:20]** Meme coin infrastructure gap between HyperCore and HyperEVM
+- **[35:26]** Omnia introduces Kinetic: 13-person team, all friends or prior collaborators
+- **[40:28]** StakeHub: autonomous validator scoring replaces kickback deals
+- **[54:36]** K-Hype design: wrapped by default, growing exchange ratio, no extra wrapping step
 
 ## Transcript
 

@@ -1,25 +1,33 @@
-# Valantis' 8% APY strategy: capturing LST arbitrage everyone else misses
+# Volantis builds 8% yield vaults on Hyperliquid's LST ecosystem
 
-_How modular yield vaults on Hyperliquid are automating LST depeg arbitrage with minimal leverage or lock-up risk._
+_Embedded liquidity protocols capturing arbitrage and enabling leverage on Hyperliquid's most efficient yield strategies._
 
-> The reason for that is like the pool basically is right now the stake type pool is printing eight percent apy for buying d-pegged stake type and just unstaking it.
+> On-chain markets are a lot more inefficient than people realize. The amount of value extracted from retail traders every day is pretty insane.
+> — Ali, Volantis
 
 **Host:** @rekt_gang
 **Date:** 2025-07-22
 **Duration:** 1:17:31
-**Tags:** vaults, trading, ecosystem
+**Tags:** vaults, perps, ecosystem
 **Source:** https://x.com/i/spaces/1nAKEgaXVXnJL
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Ali** — Volantis _guest_
+- **Dave** — Volantis _guest_
+- **Matt** — Volantis _guest_
 
 ## Key moments
 
-- **[6:28]** Valantis team introduces themselves and Hyperliquid integration
-- **[9:31]** Ali defines Valantis as embedded liquidity products and market-making solutions
-- **[13:32]** Devon explains modular yield vaults with swap facilitation, not just DEXes
-- **[18:05]** K-Hype pool launch and near 1000 depositors after closed access period
-- **[22:08]** 8% APY on stake depeg arbitrage with zero liquidation risk by design
-- **[26:10]** Arbitrage bot gap: Valantis requires unique integration, low competition
-- **[58:24]** Athena pool launching in months with extended features, targeting highest stable yield
-- **[1:10:39]** Closing: Hyperliquid's perp-EVM composability creates multiplicative zero-to-one effect
+- **[6:28]** Volantis team intro: Ali (head of growth), Dave (co-founder), Matt
+- **[7:30]** Dave explains modular AMMs as generalization of yield strategies with swap capability
+- **[17:05]** Stake Type pool remains second biggest on Hyper EBM; K-Hype launch with 1000 depositors
+- **[21:38]** 8% APY on d-pegged Stake Type; no high-risk strategies by design, only yield with margin
+- **[26:10]** Volantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes
+- **[34:43]** Institution strategy: park millions earning staking-like yields without dilution
+- **[58:24]** Roadmap: Athena pool in 2-3 months, delta-neutral strategies, then basis trade tokenization
+- **[1:04:57]** Volantis pushes product-first over points; integrates partner points for LP rewards
 
 ## Transcript
 

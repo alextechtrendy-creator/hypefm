@@ -1,25 +1,31 @@
-# Felix Protocol's stability pool captures liquidation rewards for retail depositors
+# 70% APR from liquidations: Felix Protocol's stability pool on Hyperliquid
 
-_A new money market on Hyperliquid lets you earn 5-7% APR plus liquidation rewards by depositing stablecoins into a risk pool._
+_CDP stablecoin with revenue-sharing liquidations. Deposit FEUSD, earn yield plus hype collateral discounts._
 
-> Stability pool depositors get the first right to buy liquidated collateral and keep the 5% penalty, which is value capture we don't see in traditional money markets like Aave.
+> The stability pool depositors get the first right to buy liquidated collateral and receive the 5% penalty clipped from the borrower.
+> — Aaron, Felix Protocol
 
 **Host:** @rekt_gang
 **Date:** 2025-04-07
 **Duration:** 1:00:19
-**Tags:** vaults, perps, infrastructure, ecosystem
+**Tags:** vaults, perps, infrastructure
 **Source:** https://x.com/i/spaces/1MYxNwNyRWoKw
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — RecGang _host_
+- **Aaron** — Felix Protocol _guest_
 
 ## Key moments
 
-- **[3:54]** 70% APR yield discussion from liquidations and fees
-- **[6:27]** Felix Protocol founders introduce DeFi risk management background
-- **[8:29]** Why Hyperliquid: innovation over stale chains like Ethereum
-- **[11:31]** Stability pool innovation: retail gets liquidation rewards, not professional liquidators
-- **[17:34]** How liquidations work: proportional distribution of collateral to pool depositors
-- **[29:09]** Tomorrow's launch: mint cap raises from 2.5M to 5M FEUSD
-- **[32:10]** Bitcoin launches this week; LSTs pending precompile functionality on mainnet
-- **[48:19]** Points campaign launching tomorrow; token timeline uncertain pending regulatory clarity
+- **[2:53]** Felix launching tomorrow with mint cap increase to 5M
+- **[3:54]** Stability pool yielding ~70% APR from liquidation rewards
+- **[6:58]** Aaron introduces Felix co-founders' DeFi risk background at Anthias
+- **[10:00]** Why FEUSD stablecoin: filling gap before native USDC/USDT arrives
+- **[14:03]** Liquidation mechanics: stability pool gets first right to collateral
+- **[28:09]** Gradual launch strategy: slowly raising caps from 500K to 2.5M
+- **[32:10]** Bitcoin launching Thursday/Friday; LSTs waiting on pre-compiles
+- **[41:46]** Bitcoin structured products vision to bring new users to Hyperliquid
 
 ## Transcript
 

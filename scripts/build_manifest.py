@@ -64,13 +64,15 @@ def build() -> None:
             "id": meta.get("space_id"),
             "title": meta.get("summary_title") or meta.get("title"),
             "description": meta.get("summary_description"),
-            "quote": meta.get("pull_quote"),
             "tags": meta.get("topic_tags", []),
             "host": meta.get("host_username"),
             "date": meta.get("started_at") or meta.get("created_at"),
             "duration": meta.get("audio_duration_seconds"),
             "audio": meta.get("audio_captured", False),
             "url": meta.get("space_url"),
+            "quote": meta.get("pull_quote"),
+            "quote_attribution": meta.get("quote_attribution"),
+            "participants": meta.get("participants", []),
             "_transcript": transcript_text,
         })
 

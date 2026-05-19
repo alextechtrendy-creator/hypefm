@@ -1,25 +1,32 @@
-# Lending hype collateral and looping stablecoins to 50-60% yield on Hyperliquid EVM
+# Hyperland brings portfolio margin to Hyperliquid EVM with yield-bearing perps
 
-_Hyperland launches lending/borrowing on Hyperliquid EVM with plans for portfolio margin, collateralized perps, and yield-bearing strategies._
+_New lending protocol enables collateralized perpetuals, 50-60% looping yields, and tokenized strategies on Hyper EVM._
 
-> We're basically the Chase banking infrastructure on the EVM side, allowing Hyperliquid to be your Robinhood.
+> We're going to be that banking infrastructure on the EVM side. Think of it as Hyperliquid being Robinhood, and we're Chase.
+> — Ness, Hyperland
 
 **Host:** @rekt_gang
 **Date:** 2025-04-03
 **Duration:** 57:10
-**Tags:** infrastructure, vaults, perps, ecosystem
+**Tags:** infrastructure, perps, ecosystem
 **Source:** https://x.com/i/spaces/1zqKVjDqlYwKB
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — RETGANG _host_
+- **Ness** — Hyperland _guest_
+- **PBR** _guest_
 
 ## Key moments
 
-- **[6:58]** Zerk introduces Hyperland as first NFT project on testnet 2022
-- **[7:59]** Ness shares background: March 2020 entry, Olympus participant, held 30% of 4-digit ENS numbers
-- **[9:59]** Realized EVM opportunity to enable HYPE as collateral for futures trading
-- **[12:30]** Chose Hyperliquid for its HLP vault and early adoption mindset
-- **[15:00]** Long-term vision: portfolio margin on L1, banking infrastructure on EVM
-- **[23:35]** Precompiles enable collateralizing HLP vault, yield-bearing perpetuals
-- **[34:41]** Looping HLP 2-3x yields 50-60% APY on stables; potential for BTC/ETH strategies
-- **[38:13]** Points system signals upcoming Hyperland token with governance and revenue share
+- **[6:58]** Ness introduces Hyperland as first lending protocol on Hyper EVM
+- **[9:59]** Vision: collateralize HLP vault, enable BTC/ETH as collateral for perp trades
+- **[12:30]** Hyperland already live on mainnet with 30M TVL cap, lending and borrowing HYPE
+- **[15:00]** Long-term goal: portfolio margin infrastructure, positioning as DeFi banking layer
+- **[23:35]** Precompiles unlock yield-bearing perpetuals: deposit perps as collateral, borrow against pnl
+- **[34:41]** Looping strategies projected to generate 50-60% yield on stablecoins or volatile assets
+- **[38:13]** Governance token with revenue share utility confirmed via points system
+- **[52:24]** Focus on UX, community testing, and usefulness over points farming
 
 ## Transcript
 

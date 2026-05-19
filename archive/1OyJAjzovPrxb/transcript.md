@@ -1,25 +1,32 @@
-# Catball's pyramid NFTs, trait trading, and Hyperliquid's ecosystem maturation
+# Catball's pyramid NFTs, trait trading, and Hyperliquid's resistance to cartels
 
-_OG meme project reveals 5-tier NFT structure with ERC-1155 trait mechanics, addresses community drama around stablecoins and competitor launches._
+_How a year-old meme became a tiered NFT project with customizable traits, and why the community fights PayPal influence._
 
-> Hyperliquid is winning because 11 people are generating billions yearly and actually threatening the cartels, while competitors arrive three years late with endless capital.
+> If you want to be a billionaire in crypto it has to come from somewhere, and it feels off because it is a zero-sum game.
+> — Catball, Catball
 
 **Host:** @rekt_gang
 **Date:** 2025-09-18
 **Duration:** 59:30
-**Tags:** ecosystem, community, governance
+**Tags:** ecosystem, community, trading
 **Source:** https://x.com/i/spaces/1OyJAjzovPrxb
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — Wrecking _host_
+- **Catball** — Catball _guest_
+- **Toast** _guest_
 
 ## Key moments
 
-- **[3:25]** Catball's origin: accidental meme launch via age.fun in May
-- **[6:58]** Spot market meme era ended; whales now farm points instead
-- **[10:30]** NFT mint hit 1500 wallets, ~20k HYPE volume, ~$10M in value
-- **[15:32]** 5-tier pyramid structure: 1416 Tier 1 to 20 Tier 5 NFTs
-- **[22:06]** ERC-721 art reveal in 2-4 weeks, then ERC-1155 trait splitting
-- **[26:39]** Roguelike game design document done; funding constraints block development
-- **[32:13]** Catball critiques PayPal/Paxos integration as ideological threat
-- **[41:46]** Competitors (CZ perps, Aster, Avantis) can't match Hyperliquid's execution
+- **[3:25]** Catball introduction: one year old, first memes on Hyperliquid
+- **[5:26]** Origin story: launched semi-accidentally via Agefun token creator in May
+- **[8:59]** Pivot to NFTs: 1500 wallets, 10k HYPE volume at mint, free PFPs on Soul Bound
+- **[15:02]** Five-tier pyramid structure: 1416 Tier 1 to 20 Tier 5, inspired by Illuminati/Buddhism
+- **[21:06]** ERC721 + ERC1155 reveal strategy: traits as tradeable items, partner integrations
+- **[26:39]** Game roadmap: roguelike dungeon experience, PvP, utility via traits distribution
+- **[32:13]** Catball's post on PayPal integration: crypto hijacked by establishment figures
+- **[40:16]** Hyperliquid wins: USDC native, Paxos coming, hype near all-time high at 59
 
 ## Transcript
 

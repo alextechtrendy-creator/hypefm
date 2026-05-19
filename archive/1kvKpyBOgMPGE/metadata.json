@@ -12,79 +12,78 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "host"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     },
     {
-      "user_id": "1878166141501132800",
-      "username": "liquidfi_app",
-      "display_name": "LiquidFi",
-      "role": "speaker"
+      "name": "Omnia",
+      "handle": null,
+      "team": "Kinetic",
+      "role": "guest"
     },
     {
-      "user_id": "1676257066854514688",
-      "username": "pedro_north",
-      "display_name": "Rekt Pedro",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1380935034",
-      "username": "0xOmnia",
-      "display_name": "Omnia.hl π",
-      "role": "speaker"
+      "name": "Pedro",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1kvKpyBOgMPGE",
-  "summary_title": "How Hyperliquid survived a coordinated exchange attack, and what's next",
-  "summary_description": "Omnia from Kinetic breaks down yesterday's HLP manipulation attempt, validator coordination, and why decentralized perpetuals terrify centralized exchanges.",
+  "summary_title": "HyperLiquid's validator cartel problem and Kinetic's StakeHub solution",
+  "summary_description": "Omnia from Kinetic explains why liquid staking needs autonomous validator selection, not secret kickback deals.",
   "topic_tags": [
-    "governance",
+    "vaults",
     "infrastructure",
-    "ecosystem"
+    "governance"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 130,
-      "label": "The HLP situation from yesterday clears, community bullish again"
-    },
-    {
-      "timestamp_seconds": 311,
-      "label": "Omnia explains: coordination between OKEx, Binance, BitGet to trigger HLP bank run"
+      "label": "Discussion of yesterday's exchange attack and HLP bank run attempt"
     },
     {
       "timestamp_seconds": 403,
-      "label": "Validators reached quorum to delist the manipulated asset nanoseconds after Binance listing"
+      "label": "Omnia alleges Binance, OKEx, BitGet coordinated to attack HyperLiquid"
     },
     {
       "timestamp_seconds": 554,
-      "label": "Someone accumulated almost one-fifth of jelly supply in four days pre-attack"
+      "label": "Debate: is HyperLiquid decentralized or centralized? Spectrum argument"
     },
     {
-      "timestamp_seconds": 614,
-      "label": "Decentralization spectrum debate: Hyperliquid versus CEX versus Bitcoin"
+      "timestamp_seconds": 1037,
+      "label": "Builder codes as existential threat to centralized exchanges"
     },
     {
-      "timestamp_seconds": 885,
-      "label": "Builder codes on Hyperliquid threaten exchange business model more than perps alone"
+      "timestamp_seconds": 1280,
+      "label": "Meme coin infrastructure gap between HyperCore and HyperEVM"
     },
     {
-      "timestamp_seconds": 2096,
-      "label": "Kinetic liquid staking launch: why, how, and native integration strategy"
+      "timestamp_seconds": 2126,
+      "label": "Omnia introduces Kinetic: 13-person team, all friends or prior collaborators"
     },
     {
       "timestamp_seconds": 2428,
-      "label": "StakeHub: autonomous validator scoring to eliminate kickback deals"
+      "label": "StakeHub: autonomous validator scoring replaces kickback deals"
+    },
+    {
+      "timestamp_seconds": 3276,
+      "label": "K-Hype design: wrapped by default, growing exchange ratio, no extra wrapping step"
     }
   ],
-  "pull_quote": "If you were able to trick hyperliquids HLP into a position it shouldn't have been in the first place, you could trigger a liquidation, bank run, and endless FUD to put a huge end to your competition.",
+  "pull_quote": "For us, that doesn't make any sense. We don't give a fuck about working with any validator in particular.",
+  "quote_attribution": {
+    "name": "Omnia",
+    "team": "Kinetic",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 5011.2,
   "capture_failure_reason": null

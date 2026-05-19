@@ -12,68 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "RETGANG",
       "role": "host"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
+      "name": "Ness",
+      "handle": null,
+      "team": "Hyperland",
+      "role": "guest"
     },
     {
-      "user_id": "1669097864247623681",
-      "username": "0xNessus",
-      "display_name": "ness.hl",
-      "role": "speaker"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1zqKVjDqlYwKB",
-  "summary_title": "Lending hype collateral and looping stablecoins to 50-60% yield on Hyperliquid EVM",
-  "summary_description": "Hyperland launches lending/borrowing on Hyperliquid EVM with plans for portfolio margin, collateralized perps, and yield-bearing strategies.",
+  "summary_title": "Hyperland brings portfolio margin to Hyperliquid EVM with yield-bearing perps",
+  "summary_description": "New lending protocol enables collateralized perpetuals, 50-60% looping yields, and tokenized strategies on Hyper EVM.",
   "topic_tags": [
     "infrastructure",
-    "vaults",
     "perps",
     "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 418,
-      "label": "Zerk introduces Hyperland as first NFT project on testnet 2022"
-    },
-    {
-      "timestamp_seconds": 479,
-      "label": "Ness shares background: March 2020 entry, Olympus participant, held 30% of 4-digit ENS numbers"
+      "label": "Ness introduces Hyperland as first lending protocol on Hyper EVM"
     },
     {
       "timestamp_seconds": 599,
-      "label": "Realized EVM opportunity to enable HYPE as collateral for futures trading"
+      "label": "Vision: collateralize HLP vault, enable BTC/ETH as collateral for perp trades"
     },
     {
       "timestamp_seconds": 750,
-      "label": "Chose Hyperliquid for its HLP vault and early adoption mindset"
+      "label": "Hyperland already live on mainnet with 30M TVL cap, lending and borrowing HYPE"
     },
     {
       "timestamp_seconds": 900,
-      "label": "Long-term vision: portfolio margin on L1, banking infrastructure on EVM"
+      "label": "Long-term goal: portfolio margin infrastructure, positioning as DeFi banking layer"
     },
     {
       "timestamp_seconds": 1415,
-      "label": "Precompiles enable collateralizing HLP vault, yield-bearing perpetuals"
+      "label": "Precompiles unlock yield-bearing perpetuals: deposit perps as collateral, borrow against pnl"
     },
     {
       "timestamp_seconds": 2081,
-      "label": "Looping HLP 2-3x yields 50-60% APY on stables; potential for BTC/ETH strategies"
+      "label": "Looping strategies projected to generate 50-60% yield on stablecoins or volatile assets"
     },
     {
       "timestamp_seconds": 2293,
-      "label": "Points system signals upcoming Hyperland token with governance and revenue share"
+      "label": "Governance token with revenue share utility confirmed via points system"
+    },
+    {
+      "timestamp_seconds": 3144,
+      "label": "Focus on UX, community testing, and usefulness over points farming"
     }
   ],
-  "pull_quote": "We're basically the Chase banking infrastructure on the EVM side, allowing Hyperliquid to be your Robinhood.",
+  "pull_quote": "We're going to be that banking infrastructure on the EVM side. Think of it as Hyperliquid being Robinhood, and we're Chase.",
+  "quote_attribution": {
+    "name": "Ness",
+    "team": "Hyperland",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3430.912,
   "capture_failure_reason": null

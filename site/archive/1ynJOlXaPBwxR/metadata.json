@@ -12,62 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "RecGang",
       "role": "host"
     },
     {
-      "user_id": "1440508366812446726",
-      "username": "tradewithonyx",
-      "display_name": "Onyx",
-      "role": "speaker"
+      "name": "Zerx Snarks",
+      "handle": null,
+      "team": "Sentiment",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1ynJOlXaPBwxR",
-  "summary_title": "Margin lending unlocks 15-20% APY on Hyperliquid, plus perp positions as collateral",
-  "summary_description": "Sentiment launches native margin lending on Hyperliquid EVM. Borrow up to 15x leverage on wrapped staked HYPE, and soon use perpetual positions as collateral for delta-neutral strategies.",
+  "summary_title": "Margin lending with perp positions as collateral, coming to Hyperliquid",
+  "summary_description": "Sentiment brings leveraged lending and coin margin to Hyperliquid's L1, enabling 15-20% APY on wrapped stake hype.",
   "topic_tags": [
-    "vaults",
     "perps",
-    "infrastructure",
-    "trading"
+    "vaults",
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 414,
-      "label": "Zerx Snarks introduces Sentiment as margin lending protocol"
+      "label": "Zerk introduces himself as RecGang co-founder, first NFT project on Hyperliquid"
     },
     {
       "timestamp_seconds": 535,
-      "label": "Origins: TradFi founders seeking efficient capital access during DeFi summer"
+      "label": "Sentiment origin story: TradFi founders building undercollateralized lending for DeFi"
     },
     {
       "timestamp_seconds": 718,
-      "label": "Core mechanic: $100k HYPE collateral → $1M USDC borrow without looping"
+      "label": "Margin lending explained: 10-20x leverage on collateral without looping"
     },
     {
       "timestamp_seconds": 870,
-      "label": "15x leverage on wrapped staked HYPE yields 15-20% APY next week"
+      "label": "15x leverage strategy on wrapped stake hype launching next week, 15-20% APY"
     },
     {
       "timestamp_seconds": 1414,
-      "label": "Purpose collateral: trade perps as collateral, borrow against unrealized P&L"
+      "label": "Perp positions as collateral: novel product enabling native coin margin on Hyperliquid"
     },
     {
-      "timestamp_seconds": 2049,
-      "label": "Coin margin perpetuals coming via Hyperliquid EVM, filling native gap"
+      "timestamp_seconds": 1746,
+      "label": "Taking loans against unrealized P&L on long perp positions without liquidating"
     },
     {
       "timestamp_seconds": 2230,
-      "label": "Launch timeline: USDC support within 4 weeks, audits within 6, precompiles within 6"
+      "label": "Timeline: USDC support in 4 weeks, audit-ready in 6 weeks, precompiles ideally same"
     },
     {
       "timestamp_seconds": 2594,
-      "label": "Sentiment already live with points incentives launching within days"
+      "label": "Points live now, first base version of Sentiment already deployed with 1M TVL"
     }
   ],
-  "pull_quote": "You have a perp position worth a million dollars in the money and don't want to sell—now you can borrow against that unrealized profit without closing.",
+  "pull_quote": "You can now leverage perp positions as collateral, something only sophisticated market makers had access to before.",
+  "quote_attribution": {
+    "name": "Zerx Snarks",
+    "team": "Sentiment",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3010.9226875,
   "capture_failure_reason": null

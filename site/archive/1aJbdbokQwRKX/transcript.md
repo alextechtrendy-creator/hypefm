@@ -1,8 +1,9 @@
-# Trade, spend, borrow against Bitcoin—all from one non-custodial account
+# Liquid banking on Hyperliquid: spending crypto without selling it
 
-_HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit, trade perps, and access 8+ currencies without trusting anyone._
+_How Hyperbeet built non-custodial spending, credit, and trading in one account across eight currencies._
 
-> Rich people don't sell their assets, they just borrow against them—now easily accessible to normal people for the first time.
+> Rich people don't sell their assets they just borrow against it—now easily accessible to normal people
+> — 800, Hyperbeet
 
 **Host:** @rekt_gang
 **Date:** 2026-03-16
@@ -10,16 +11,21 @@ _HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit,
 **Tags:** ecosystem, trading, infrastructure
 **Source:** https://x.com/i/spaces/1aJbdbokQwRKX
 
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **800** — Hyperbeet _guest_
+
 ## Key moments
 
-- **[6:57]** HyperBeat origin: early traders who lost money, then built vaults
-- **[7:58]** Liquid banking defined: unified account for trading, spending, credit—all non-custodial
-- **[9:59]** The problem: traders forced to withdraw to Arbitrum, then to CEX to spend
-- **[13:31]** New users from Turkey, Singapore, Vietnam discovering HyperLiquid via liquid banking onramps
-- **[18:33]** Wealth preservation: hold HyperLiquid, borrow against it—rich people don't sell assets
-- **[26:41]** Fees: 0.12% onramp/offramp for USD/EUR, up to 0.4% for other currencies
-- **[37:47]** Referral incentives: 25% of treasury yield from friends' deposits—scalable, not points
-- **[55:57]** Native Bitcoin deposits permissionless via Unit; spend on credit without knowing HyperVM
+- **[6:57]** Hyperbeet origins: from losing money to building vaults
+- **[7:58]** Liquid banking explained: unified non-custodial account for spend, trade, save, credit
+- **[9:59]** The onboarding problem: why traders forced to use centralized exchanges
+- **[13:00]** New user acquisition from Turkey, Singapore, Vietnam via off-ramps
+- **[18:33]** Don't sell your assets—borrow against them like rich people do
+- **[23:10]** Eight currencies live: AED, GBP, SGD, Turkish Lira, Vietnamese Dong, Indian Rupee, USD, EUR
+- **[37:16]** Treasury-backed stablecoin drives infinite, scalable referral yield
+- **[55:57]** Deposit native Bitcoin permissionlessly, spend on credit without custody
 
 ## Transcript
 

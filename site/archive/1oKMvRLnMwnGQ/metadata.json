@@ -12,67 +12,68 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "Rekt Gang",
       "role": "host"
     },
     {
-      "user_id": "1481297210499338241",
-      "username": "0xGustas",
-      "display_name": "Gustas 🤖",
-      "role": "speaker"
+      "name": "Augustus",
+      "handle": null,
+      "team": "RoboNet",
+      "role": "guest"
     },
     {
-      "user_id": "1091531681515720705",
-      "username": "MichaelZski",
-      "display_name": "Mike Zski",
-      "role": "speaker"
+      "name": "Mike",
+      "handle": null,
+      "team": "Elora Labs",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1oKMvRLnMwnGQ",
-  "summary_title": "488% backtest returns: How AI agents execute trading strategies on Hyperliquid",
-  "summary_description": "Mike deployed an AI-built SMA crossover strategy on Hyperliquid using Robonet. Five dollars in credits, 488% backtest, now live as a vault.",
+  "summary_title": "AI agents trading 488% backtests: RoboNet's no-code strategy builder",
+  "summary_description": "RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies on Hyperliquid using natural language prompts.",
   "topic_tags": [
-    "perps",
     "trading",
-    "ecosystem"
+    "ecosystem",
+    "perps"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 147,
-      "label": "Space kicks off with Zerk and Wreck Gang validator intro"
+      "timestamp_seconds": 430,
+      "label": "Zerk introduces RoboNet and the day's topic"
     },
     {
-      "timestamp_seconds": 460,
-      "label": "Augustus introduces Robonet's ecosystem focus and seven-year crypto background"
+      "timestamp_seconds": 612,
+      "label": "Mike explains Elora's predictive AI network and accuracy limits"
     },
     {
-      "timestamp_seconds": 642,
-      "label": "Mike explains Elora's predictive AI: 52-53% directional accuracy baseline"
+      "timestamp_seconds": 854,
+      "label": "Mike reveals 52-55% directional accuracy is the realistic ceiling"
     },
     {
-      "timestamp_seconds": 1036,
-      "label": "Robonet problem: fragmented trading infrastructure requiring multiple skill sets"
+      "timestamp_seconds": 1459,
+      "label": "Mike deploys 488% backtest strategy on Hyperliquid vault"
     },
     {
-      "timestamp_seconds": 1369,
-      "label": "Mike's concrete example: 488% backtest from SMA crossover strategy deployed live"
+      "timestamp_seconds": 1701,
+      "label": "Strategy vault funded with $990, now earning 34% annualized returns"
     },
     {
-      "timestamp_seconds": 2093,
-      "label": "Security deep dive: Brevi key management, code immutability, emergency stop controls"
+      "timestamp_seconds": 2123,
+      "label": "Augustus explains security: Brevi manages keys, strategy code locked in production"
     },
     {
-      "timestamp_seconds": 2847,
-      "label": "Roadmap: Multi-asset, funding rate arbitrage, compliance-first vault products"
-    },
-    {
-      "timestamp_seconds": 3391,
-      "label": "AI agents racing to zero: arbitrage disappears as barrier to entry collapses"
+      "timestamp_seconds": 2878,
+      "label": "Future roadmap: multi-asset, funding rate arbitrage, commodities trading"
     }
   ],
-  "pull_quote": "52 percent is already enough, because 80 percent of traders actually make no money, so you've already beaten that by a big margin.",
+  "pull_quote": "52% directional accuracy is already beating 80% of traders who actually lose money most of the time",
+  "quote_attribution": {
+    "name": "Mike",
+    "team": "Elora Labs",
+    "role": "head of go-to-market"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3759.6586875,
   "capture_failure_reason": null

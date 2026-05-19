@@ -12,21 +12,21 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1654225011434045442",
-      "username": "degennQuant",
-      "display_name": "800.HL",
-      "role": "speaker"
+      "name": "800",
+      "handle": null,
+      "team": "Hyperbeet",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1aJbdbokQwRKX",
-  "summary_title": "Trade, spend, borrow against Bitcoin—all from one non-custodial account",
-  "summary_description": "HyperBeat's liquid banking lets you deposit native Bitcoin, spend it as credit, trade perps, and access 8+ currencies without trusting anyone.",
+  "summary_title": "Liquid banking on Hyperliquid: spending crypto without selling it",
+  "summary_description": "How Hyperbeet built non-custodial spending, credit, and trading in one account across eight currencies.",
   "topic_tags": [
     "ecosystem",
     "trading",
@@ -35,38 +35,43 @@
   "key_moments": [
     {
       "timestamp_seconds": 417,
-      "label": "HyperBeat origin: early traders who lost money, then built vaults"
+      "label": "Hyperbeet origins: from losing money to building vaults"
     },
     {
       "timestamp_seconds": 478,
-      "label": "Liquid banking defined: unified account for trading, spending, credit—all non-custodial"
+      "label": "Liquid banking explained: unified non-custodial account for spend, trade, save, credit"
     },
     {
       "timestamp_seconds": 599,
-      "label": "The problem: traders forced to withdraw to Arbitrum, then to CEX to spend"
+      "label": "The onboarding problem: why traders forced to use centralized exchanges"
     },
     {
-      "timestamp_seconds": 811,
-      "label": "New users from Turkey, Singapore, Vietnam discovering HyperLiquid via liquid banking onramps"
+      "timestamp_seconds": 780,
+      "label": "New user acquisition from Turkey, Singapore, Vietnam via off-ramps"
     },
     {
       "timestamp_seconds": 1113,
-      "label": "Wealth preservation: hold HyperLiquid, borrow against it—rich people don't sell assets"
+      "label": "Don't sell your assets—borrow against them like rich people do"
     },
     {
-      "timestamp_seconds": 1601,
-      "label": "Fees: 0.12% onramp/offramp for USD/EUR, up to 0.4% for other currencies"
+      "timestamp_seconds": 1390,
+      "label": "Eight currencies live: AED, GBP, SGD, Turkish Lira, Vietnamese Dong, Indian Rupee, USD, EUR"
     },
     {
-      "timestamp_seconds": 2267,
-      "label": "Referral incentives: 25% of treasury yield from friends' deposits—scalable, not points"
+      "timestamp_seconds": 2236,
+      "label": "Treasury-backed stablecoin drives infinite, scalable referral yield"
     },
     {
       "timestamp_seconds": 3357,
-      "label": "Native Bitcoin deposits permissionless via Unit; spend on credit without knowing HyperVM"
+      "label": "Deposit native Bitcoin permissionlessly, spend on credit without custody"
     }
   ],
-  "pull_quote": "Rich people don't sell their assets, they just borrow against them—now easily accessible to normal people for the first time.",
+  "pull_quote": "Rich people don't sell their assets they just borrow against it—now easily accessible to normal people",
+  "quote_attribution": {
+    "name": "800",
+    "team": "Hyperbeet",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3760.2986875,
   "capture_failure_reason": null

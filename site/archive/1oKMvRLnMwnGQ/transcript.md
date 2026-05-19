@@ -1,25 +1,31 @@
-# 488% backtest returns: How AI agents execute trading strategies on Hyperliquid
+# AI agents trading 488% backtests: RoboNet's no-code strategy builder
 
-_Mike deployed an AI-built SMA crossover strategy on Hyperliquid using Robonet. Five dollars in credits, 488% backtest, now live as a vault._
+_RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies on Hyperliquid using natural language prompts._
 
-> 52 percent is already enough, because 80 percent of traders actually make no money, so you've already beaten that by a big margin.
+> 52% directional accuracy is already beating 80% of traders who actually lose money most of the time
+> — Mike, Elora Labs
 
 **Host:** @rekt_gang
 **Date:** 2026-04-15
 **Duration:** 1:02:39
-**Tags:** perps, trading, ecosystem
+**Tags:** trading, ecosystem, perps
 **Source:** https://x.com/i/spaces/1oKMvRLnMwnGQ
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — Rekt Gang _host_
+- **Augustus** — RoboNet _guest_
+- **Mike** — Elora Labs _guest_
 
 ## Key moments
 
-- **[2:27]** Space kicks off with Zerk and Wreck Gang validator intro
-- **[7:40]** Augustus introduces Robonet's ecosystem focus and seven-year crypto background
-- **[10:42]** Mike explains Elora's predictive AI: 52-53% directional accuracy baseline
-- **[17:16]** Robonet problem: fragmented trading infrastructure requiring multiple skill sets
-- **[22:49]** Mike's concrete example: 488% backtest from SMA crossover strategy deployed live
-- **[34:53]** Security deep dive: Brevi key management, code immutability, emergency stop controls
-- **[47:27]** Roadmap: Multi-asset, funding rate arbitrage, compliance-first vault products
-- **[56:31]** AI agents racing to zero: arbitrage disappears as barrier to entry collapses
+- **[7:10]** Zerk introduces RoboNet and the day's topic
+- **[10:12]** Mike explains Elora's predictive AI network and accuracy limits
+- **[14:14]** Mike reveals 52-55% directional accuracy is the realistic ceiling
+- **[24:19]** Mike deploys 488% backtest strategy on Hyperliquid vault
+- **[28:21]** Strategy vault funded with $990, now earning 34% annualized returns
+- **[35:23]** Augustus explains security: Brevi manages keys, strategy code locked in production
+- **[47:58]** Future roadmap: multi-asset, funding rate arbitrage, commodities trading
 
 ## Transcript
 

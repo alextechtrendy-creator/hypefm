@@ -1,25 +1,31 @@
-# Stake Type's multi-account design unlocks HIP-3 markets, faster withdrawals, and institutional staking
+# Stake Type's multi-account design unlocks institutional hype staking on Hyperliquid
 
-_Valantis' Ollie explains how ST Hype captured staking yield that no other LST can, and why Athena partnership changes everything._
+_How Volantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield._
 
-> Points are just a megaphone on what you're already doing. If the fire itself has no substance, they won't get you anywhere.
+> Hype trades more like a fundamental asset than pretty much any other token, yet it's hilariously undervalued relative to Cardano or Tron.
+> — Ollie, Volantis
 
 **Host:** @rekt_gang
 **Date:** 2025-12-10
 **Duration:** 1:01:19
-**Tags:** vaults, tokenomics, ecosystem, market-making
+**Tags:** vaults, ecosystem, tokenomics
 **Source:** https://x.com/i/spaces/1ynKOMYZvjQJR
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) _host_
+- **Ollie** — Volantis _guest_
 
 ## Key moments
 
-- **[2:08]** AI-generated Valantis anthem surprises the space
-- **[9:11]** Valantis pivoted to Hyperliquid because it's the only chain with proven DeFi product-market fit
-- **[13:13]** ST Hype points launch was intentionally delayed nine months until product could scale billions
-- **[17:15]** Hype utilities: 500K for hip-3, 200K for quote assets, 1M for limit orders, 400K for max market-making discounts
-- **[28:23]** Multi-account architecture lets ST Hype offer faster withdrawals and partner yields that single-account LSTs can't
-- **[31:55]** Athena partnership brings 12% APY on USDE, contractual 20K hype/year to ST Hype holders
-- **[46:03]** Looping ST Hype 4-5x via Hyperland borrow is highest-yield points farming strategy
-- **[56:39]** Hype trades like fundamental asset, could flip Ethereum if economic maturity trend continues
+- **[2:08]** AI-generated Volantis anthem surprise, 15 minutes to create
+- **[6:10]** Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Volantis
+- **[9:11]** Ollie defines Volantis: liquid staking and liquidity products earning more hype than anywhere else
+- **[11:14]** Why Hyperliquid: only chain with genuine market product-market fit for DeFi teams
+- **[13:44]** Points launch was strategically delayed 8-9 months until products could scale billions in TVL
+- **[18:16]** Stake Type solves hype utility gap: lets any staker access 400K market-making discounts, HIP-3 requirements
+- **[30:24]** Athena partnership: USDE quote asset is non-slashable, guarantees 20K hype yearly to ST hype holders
+- **[56:09]** Ollie predicts hype top-5 asset in 2026, eventually flipping Ethereum on 5-10 year timeframe
 
 ## Transcript
 

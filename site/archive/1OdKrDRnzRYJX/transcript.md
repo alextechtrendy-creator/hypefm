@@ -1,25 +1,31 @@
-# TopDog's multiplayer trading footprints: Copy smarter traders without blindly following them
+# TopDog: multiplayer trading footprints and guild wars on Hyperliquid
 
-_Telegram mini-app showing real-time whale positions on Hyperliquid perps, designed for casual degen traders who want signals, not analytics._
+_Telegram mini app for copying whale trades in real-time, launching guild battles next week with respect points._
 
-> Blindly copy-trading just doesn't work. We figured out you need the signal of successful wallets but still proactively make your own decisions, not sink your balance.
+> We figured out that blindly copy trading doesn't work, so we armed users with lean information just enough to make their own trade decisions.
+> — Tyron, TopDog
 
 **Host:** @rekt_gang
 **Date:** 2025-06-10
 **Duration:** 55:01
-**Tags:** trading, ecosystem, execution
+**Tags:** perps, trading, ecosystem
 **Source:** https://x.com/i/spaces/1OdKrDRnzRYJX
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Tyron** — TopDog _guest_
 
 ## Key moments
 
-- **[6:46]** Why TopDog was built: Copy-trading consistently sank their balance
-- **[9:18]** Solution: Real-time footprints on chart, not blind copying
-- **[11:19]** Multiplayer first design distinguishes TopDog from other terminals
-- **[14:51]** No wallet connection needed—Telegram single-click onboarding
-- **[24:26]** Guild wars and respect points launching next week
-- **[27:58]** Trench mode for HyperEVM meme coins coming within a month
-- **[35:30]** Revenue model: 0.02% builder fee on top of Hyperliquid fees
-- **[42:33]** Vision: Desktop pro version for serious multiplayer terminal
+- **[6:46]** TopDog origin: copy trading tool that kept sinking their balance
+- **[9:18]** Footprints feature: real-time whale trades on chart with 1-2 second latency
+- **[11:49]** Multiplayer-first design: follow wallets, see PnLs, profiles in one app
+- **[14:51]** Telegram mini app: zero onboarding friction, single-click access via existing login
+- **[23:55]** Cashback rewards: 5-25% based on 30-day volume batches
+- **[24:26]** Guild system launching next week with respect points and weekly battles
+- **[27:58]** Trench mode coming for Hyper EVM: meme coin trading with same footprint visibility
+- **[35:30]** Revenue model: 0.02% fee on top of Hyperliquid builder code
 
 ## Transcript
 

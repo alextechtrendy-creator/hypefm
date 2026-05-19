@@ -12,73 +12,78 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1199474099472367616",
-      "username": "DevenMat",
-      "display_name": "DevenMat 🍓",
-      "role": "speaker"
+      "name": "Ali",
+      "handle": null,
+      "team": "Volantis",
+      "role": "guest"
     },
     {
-      "user_id": "1383949323747020808",
-      "username": "0xaioli",
-      "display_name": "Ali",
-      "role": "speaker"
+      "name": "Dave",
+      "handle": null,
+      "team": "Volantis",
+      "role": "guest"
     },
     {
-      "user_id": "1605281598185918471",
-      "username": "ValantisLabs",
-      "display_name": "Valantis Labs",
-      "role": "speaker"
+      "name": "Matt",
+      "handle": null,
+      "team": "Volantis",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1nAKEgaXVXnJL",
-  "summary_title": "Valantis' 8% APY strategy: capturing LST arbitrage everyone else misses",
-  "summary_description": "How modular yield vaults on Hyperliquid are automating LST depeg arbitrage with minimal leverage or lock-up risk.",
+  "summary_title": "Volantis builds 8% yield vaults on Hyperliquid's LST ecosystem",
+  "summary_description": "Embedded liquidity protocols capturing arbitrage and enabling leverage on Hyperliquid's most efficient yield strategies.",
   "topic_tags": [
     "vaults",
-    "trading",
+    "perps",
     "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 388,
-      "label": "Valantis team introduces themselves and Hyperliquid integration"
+      "label": "Volantis team intro: Ali (head of growth), Dave (co-founder), Matt"
     },
     {
-      "timestamp_seconds": 571,
-      "label": "Ali defines Valantis as embedded liquidity products and market-making solutions"
+      "timestamp_seconds": 450,
+      "label": "Dave explains modular AMMs as generalization of yield strategies with swap capability"
     },
     {
-      "timestamp_seconds": 812,
-      "label": "Devon explains modular yield vaults with swap facilitation, not just DEXes"
+      "timestamp_seconds": 1025,
+      "label": "Stake Type pool remains second biggest on Hyper EBM; K-Hype launch with 1000 depositors"
     },
     {
-      "timestamp_seconds": 1085,
-      "label": "K-Hype pool launch and near 1000 depositors after closed access period"
-    },
-    {
-      "timestamp_seconds": 1328,
-      "label": "8% APY on stake depeg arbitrage with zero liquidation risk by design"
+      "timestamp_seconds": 1298,
+      "label": "8% APY on d-pegged Stake Type; no high-risk strategies by design, only yield with margin"
     },
     {
       "timestamp_seconds": 1570,
-      "label": "Arbitrage bot gap: Valantis requires unique integration, low competition"
+      "label": "Volantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes"
+    },
+    {
+      "timestamp_seconds": 2083,
+      "label": "Institution strategy: park millions earning staking-like yields without dilution"
     },
     {
       "timestamp_seconds": 3504,
-      "label": "Athena pool launching in months with extended features, targeting highest stable yield"
+      "label": "Roadmap: Athena pool in 2-3 months, delta-neutral strategies, then basis trade tokenization"
     },
     {
-      "timestamp_seconds": 4239,
-      "label": "Closing: Hyperliquid's perp-EVM composability creates multiplicative zero-to-one effect"
+      "timestamp_seconds": 3897,
+      "label": "Volantis pushes product-first over points; integrates partner points for LP rewards"
     }
   ],
-  "pull_quote": "The reason for that is like the pool basically is right now the stake type pool is printing eight percent apy for buying d-pegged stake type and just unstaking it.",
+  "pull_quote": "On-chain markets are a lot more inefficient than people realize. The amount of value extracted from retail traders every day is pretty insane.",
+  "quote_attribution": {
+    "name": "Ali",
+    "team": "Volantis",
+    "role": "head of growth"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 4651.3066875,
   "capture_failure_reason": null

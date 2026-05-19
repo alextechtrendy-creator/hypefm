@@ -1,25 +1,31 @@
-# KittenSwap's 30% airdrop flipped HyperSwap's TVL with one clever move
+# KittenSwap's 30% airdrop strategy flips HyperEVM's top DEX in three months
 
-_Two DeFi OGs built a concentrated liquidity DEX on HyperEVM without raising a seed round, using MechaCats NFTs and a wide token distribution to overtake competitors._
+_From self-funded to #1 TVL: how two DeFi OGs built the DEX ecosystem wanted using concentrated liquidity and community-first tokenomics._
 
-> Our airdrop is 30% of our supply so as many people as possible who want to work with us and integrate gain tokens, which attracted a lot of users and builders.
+> Letting people get in early allows the community to form and allows people to really get invested in the protocol.
+> — Shinji, KittenSwap
 
 **Host:** @rekt_gang
 **Date:** 2025-04-08
 **Duration:** 40:37
-**Tags:** ecosystem, tokenomics, infrastructure
+**Tags:** ecosystem, perps, trading
 **Source:** https://x.com/i/spaces/1YqKDZlNMOYJV
+
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Shinji** — KittenSwap _guest_
+- **PBR** _guest_
 
 ## Key moments
 
-- **[4:36]** Founders introduce themselves and DeFi background
-- **[5:37]** Why KittenSwap chose concentrated liquidity pools over UniV2 AMM
-- **[8:37]** 30% airdrop and points program distribution strategy explained
-- **[9:08]** KittenSwap surpassed HyperSwap TVL despite launching second
-- **[9:38]** MechaCats NFTs as seed round alternative, boosted points multiplier
-- **[17:13]** Dual points with other protocols like HyperFi and Kaiko explained
-- **[32:54]** Best yield strategy: K-USD/USDC pool with triple points
-- **[37:56]** MechaCats holders get 3% of token at TGE plus whitelist access
+- **[4:36]** Shinji introduces KittenSwap co-founders and DeFi background
+- **[7:07]** Why KittenSwap chose concentrated liquidity pools over UniV2 AMMs
+- **[8:37]** 30% airdrop and points program drove user adoption and TVL lead
+- **[9:38]** MechaCats NFT launch as self-funded seed round and community builder
+- **[25:18]** Why DeFi shifted from Arbitrum to HyperEVM after airdrop mess
+- **[32:54]** Three-in-one yield: KUSD/USDC pool earns Kaiko, HyperFi, and Kitten points
+- **[37:56]** MechaCats holders receive 3% of beacon token at TGE
 
 ## Transcript
 

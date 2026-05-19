@@ -12,74 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": "RecGang",
       "role": "host"
     },
     {
-      "user_id": "23219674",
-      "username": "ikuberan",
-      "display_name": "Kuberan Marimuthu (Kube)",
-      "role": "speaker"
+      "name": "Cube",
+      "handle": null,
+      "team": "Cypher",
+      "role": "guest"
     },
     {
-      "user_id": "40487987",
-      "username": "pbr713",
-      "display_name": "Pbr713",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1481847237860737026",
-      "username": "Cypher_HQ_",
-      "display_name": "Cypher💳",
-      "role": "speaker"
+      "name": "PBR",
+      "handle": null,
+      "team": null,
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1lDxLzNRyERGm",
-  "summary_title": "Cypher Card: Spend your Hyperliquid perps directly on Visa worldwide",
-  "summary_description": "On-chain banking platform launches prepaid Visa cards for HyperLiquid traders—turn perps into coffee in one click, no withdrawal delays.",
+  "summary_title": "Cypher's prepaid Visa card: turning Hyperliquid perps into real-world spending",
+  "summary_description": "Cypher launches on Hyperliquid with instant card loading from perps and spot balances, plus plans for merchant rewards and on-chain forex.",
   "topic_tags": [
-    "perps",
     "ecosystem",
     "execution",
     "trading"
   ],
   "key_moments": [
     {
-      "timestamp_seconds": 296,
-      "label": "RecGang becomes first NFT community on Hyperliquid"
-    },
-    {
-      "timestamp_seconds": 357,
-      "label": "Cypher introduces on-chain bank account vision and card product"
+      "timestamp_seconds": 236,
+      "label": "Hyperliquid's abstracted HTTP API made integration smoother than typical blockchains"
     },
     {
       "timestamp_seconds": 510,
-      "label": "Live demo: collapsing six-step off-ramp into single-click card load"
+      "label": "Cypher collapses multiple off-ramp steps into one-click card loading from perps balance"
+    },
+    {
+      "timestamp_seconds": 661,
+      "label": "Virtual card live immediately after KYC; physical cards ship globally in weeks"
     },
     {
       "timestamp_seconds": 843,
-      "label": "Confirms integration with HyperCore only, not HyperEVM"
+      "label": "Integration built on HyperCore API, not HyperEVM; abstracted signatures used like normal users"
     },
     {
-      "timestamp_seconds": 1268,
-      "label": "PBR requests HLP vault auto-load feature for cards"
+      "timestamp_seconds": 966,
+      "label": "Supports HYPE, USDC, PER, BTC, ETH loading; community wanted PER from day one"
+    },
+    {
+      "timestamp_seconds": 1208,
+      "label": "Future: auto-load from HLP vault when balance drops below threshold"
     },
     {
       "timestamp_seconds": 2089,
-      "label": "Cypher token and merchant incentive protocol launching this year"
+      "label": "Merchant token and incentive protocol launching this year for cashback at Uber, Marriott"
     },
     {
-      "timestamp_seconds": 2481,
-      "label": "Identifies predatory 5-8% forex fees at point-of-sale, educates users"
-    },
-    {
-      "timestamp_seconds": 2938,
-      "label": "Currently 25-50 signups; prioritizes product-market fit over launch hype"
+      "timestamp_seconds": 2512,
+      "label": "Users overpaid six figures in forex fees in Q1 2025 alone; Cypher alerts when to decline POS conversions"
     }
   ],
-  "pull_quote": "Collapse all these steps into a single step and make it instant. Click of a button, you can load it to Cypher in a minute max, then go buy coffee with it.",
+  "pull_quote": "We collapse all these steps into a single step and make it instant. If you already have some spot or perps balance, with a click of a button, load it to Cypher instantly.",
+  "quote_attribution": {
+    "name": "Cube",
+    "team": "Cypher",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3448.192,
   "capture_failure_reason": null

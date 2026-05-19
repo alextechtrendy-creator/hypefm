@@ -12,68 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "988493908811374598",
-      "username": "tahathinks",
-      "display_name": "Taha",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1988293950038560769",
-      "username": "tradeparagon",
-      "display_name": "Paragon",
-      "role": "speaker"
+      "name": "Taha",
+      "handle": null,
+      "team": "Paragon",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1oJMvROAbLnxQ",
-  "summary_title": "Bitcoin dominance finally tradeable: Paragon launches three crypto indices on Hyperliquid",
-  "summary_description": "Paragon deploys BTC.D, Total2, and Others as actionable perpetuals—turning decade-old analyst charts into hedgeable instruments.",
+  "summary_title": "Bitcoin dominance finally actionable: Paragon's 125-name index perps on Hyperliquid",
+  "summary_description": "Paragon deploys crypto's most-charted but previously untradeable indices—BTC.D, Total 2, Others—as HIP3 perpetuals with institutional-grade oracles.",
   "topic_tags": [
     "perps",
     "listings",
-    "execution",
-    "ecosystem"
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 266,
-      "label": "Paragon introduced as new HIP3 deployer, deployed 12 hours prior"
+      "label": "Paragon introduced as new HIP3 deployer, live 12 hours ago"
     },
     {
-      "timestamp_seconds": 326,
-      "label": "Taha's background: tradfi structured finance to crypto builder since 2013"
+      "timestamp_seconds": 719,
+      "label": "Taha explains genesis: Bitcoin dominance is the most-charted non-tradeable ticker in crypto"
     },
     {
-      "timestamp_seconds": 779,
-      "label": "Bitcoin dominance found to be charted 30-40% as much as BTC itself"
+      "timestamp_seconds": 810,
+      "label": "30-40% as many TradingView mentions as BTC or ETH; occupies mindshare but zero actionability"
     },
     {
-      "timestamp_seconds": 840,
-      "label": "HIP3 infrastructure unlock enables focused asset creation without rebuilding UX"
+      "timestamp_seconds": 931,
+      "label": "Three live tickers: BTC.D, Total 2 (top 125 ex-BTC), Others (top 125 ex-top 10)"
     },
     {
-      "timestamp_seconds": 1052,
-      "label": "Perps superior to spot for bootstrapping two-sided markets and new indices"
+      "timestamp_seconds": 1449,
+      "label": "125-name basket methodology; Bitcoin dominance = BTC market cap / top 125 total"
     },
     {
-      "timestamp_seconds": 1418,
-      "label": "Three live tickers: BTC.D, Total2, Others—125-name basket design explained"
-    },
-    {
-      "timestamp_seconds": 1846,
-      "label": "Table demonstrations show Bitcoin dominance sub-2% moves vs Bitcoin's 13% gap down"
+      "timestamp_seconds": 1877,
+      "label": "Case study: BTC down 13%, Bitcoin dominance down <1%—removes single-name risk"
     },
     {
       "timestamp_seconds": 2603,
-      "label": "Paragon fronted 500K HLP themselves, no token staking from community at launch"
+      "label": "Paragon self-funded 500K HLP; retains control during zero-to-one stage"
+    },
+    {
+      "timestamp_seconds": 3085,
+      "label": "Live on TreadFi, Pair Protocol, Based, BullPen, Silico; $5K cash prizes + points boost"
     }
   ],
-  "pull_quote": "These things are actually some of the most charted, widely tracked tickers in crypto—30 or 40% as many mentions as Bitcoin itself—yet remain completely analytical and non-actionable.",
+  "pull_quote": "Bitcoin dominance is the most charted, most discussed, widely tracked ticker in crypto—yet it remained completely non-actionable until now.",
+  "quote_attribution": {
+    "name": "Taha",
+    "team": "Paragon",
+    "role": "founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 3609.6426875,
   "capture_failure_reason": null

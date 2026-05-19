@@ -47,6 +47,17 @@
   }
   #search:focus { border-color: var(--accent); }
   #search::placeholder { color: var(--fg-faint); }
+  .active-filter {
+    display: flex; gap: 8px; align-items: center;
+    margin-bottom: 0.75rem; font-size: 11px;
+  }
+  .active-filter-label { color: var(--fg-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .active-filter-pill {
+    background: var(--accent); color: white; font-weight: 500;
+    padding: 3px 10px; border-radius: 12px;
+    display: inline-flex; align-items: center; gap: 6px;
+    cursor: pointer; font-size: 11px; border: none; font-family: inherit;
+  }
   .filters {
     font-size: 11px; color: var(--fg-muted);
     margin-bottom: 1.5rem; line-height: 1.9;
@@ -70,14 +81,14 @@
   .entry-thumb {
     background: var(--quote-bg);
     padding: 28px 24px;
-    min-height: 140px;
-    display: flex;
-    align-items: center;
+    min-height: 150px;
+    display: flex; flex-direction: column;
+    justify-content: center; gap: 18px;
   }
   .entry-thumb-quote {
     font-family: Georgia, serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 19px;
     color: var(--quote-fg);
     line-height: 1.3;
     margin: 0;
@@ -91,9 +102,33 @@
     line-height: 1.4;
     margin: 0;
   }
-  .entry-body { padding: 16px 20px 18px; }
+  .byline {
+    display: flex; align-items: baseline; gap: 8px;
+    flex-wrap: wrap;
+    font-size: 13px; line-height: 1.4;
+    border-top: 1px solid rgba(151, 252, 228, 0.18);
+    padding-top: 14px;
+  }
+  .byline-name { color: var(--quote-fg); font-weight: 600; }
+  .byline-role { color: rgba(151, 252, 228, 0.85); font-size: 12px; }
+  .byline-sep { color: rgba(151, 252, 228, 0.4); }
+  .byline-team {
+    display: inline-flex; align-items: center;
+    background: rgba(151, 252, 228, 0.12);
+    border: 1px solid rgba(151, 252, 228, 0.3);
+    color: var(--accent-light); font-weight: 500;
+    padding: 3px 10px; border-radius: 12px;
+    text-decoration: none; font-size: 12px;
+    cursor: pointer; font-family: inherit;
+    transition: background 0.1s;
+  }
+  .byline-team:hover {
+    background: rgba(151, 252, 228, 0.22);
+    border-color: rgba(151, 252, 228, 0.5);
+  }
+  .entry-body { padding: 14px 18px 16px; }
   .entry-title {
-    font-size: 18px; font-weight: 500;
+    font-size: 17px; font-weight: 500;
     margin: 0; line-height: 1.3; letter-spacing: -0.01em;
     color: var(--fg);
   }
@@ -104,9 +139,14 @@
   }
   .entry-meta {
     font-size: 11px; color: #888;
-    margin: 12px 0 0;
+    margin: 10px 0 0;
   }
-  .entry-meta .tag { color: var(--accent); font-weight: 500; }
+  .entry-meta .tag {
+    color: var(--accent); font-weight: 500;
+    cursor: pointer; background: none; border: none; padding: 0;
+    font-family: inherit; font-size: inherit;
+  }
+  .entry-meta .tag:hover { text-decoration: underline; }
   .snippet {
     margin: 10px 0 0; font-size: 11px; color: var(--fg-muted);
     line-height: 1.5; padding-left: 10px;
@@ -122,9 +162,10 @@
   footer a { color: var(--fg-muted); text-decoration: none; }
   footer a:hover { color: var(--accent); }
   @media (max-width: 600px) {
-    .entry-thumb { padding: 22px 18px; min-height: 110px; }
-    .entry-thumb-quote { font-size: 17px; }
-    .entry-title { font-size: 16px; }
+    .entry-thumb { padding: 22px 18px; min-height: 120px; gap: 14px; }
+    .entry-thumb-quote { font-size: 16px; }
+    .entry-title { font-size: 15px; }
+    .byline { font-size: 12px; padding-top: 10px; }
   }
 </style>
 </head>
@@ -140,6 +181,8 @@
   <input id="search" type="text" placeholder="search across transcripts" autocomplete="off">
 </div>
 
+<div id="active-filters"></div>
+
 <div class="filters" id="filters"></div>
 
 <div class="results" id="results"></div>
@@ -154,13 +197,20 @@
 <script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
 <script>
 (function() {
-  const state = { spaces: [], index: null, activeHost: null, activeTag: null, query: '' };
+  const state = { spaces: [], index: null, activeHost: null, activeTag: null, activeTeam: null, query: '' };
   const els = {
     search: document.getElementById('search'),
     filters: document.getElementById('filters'),
+    activeFilters: document.getElementById('active-filters'),
     results: document.getElementById('results'),
     count: document.getElementById('count'),
   };
+
+  // Read URL params on load
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('tag')) state.activeTag = params.get('tag');
+  if (params.get('team')) state.activeTeam = params.get('team');
+  if (params.get('host')) state.activeHost = params.get('host');
 
   function fmtDuration(s) {
     if (!s) return '';
@@ -200,10 +250,44 @@
     if (end < t.length) s = s + '…';
     return s;
   }
+  function renderActiveFilters() {
+    const parts = [];
+    if (state.activeTeam) {
+      parts.push('<span class="active-filter-label">team</span>');
+      parts.push(`<button class="active-filter-pill" data-clear="team">${esc(state.activeTeam)} ✕</button>`);
+    }
+    if (state.activeTag) {
+      parts.push('<span class="active-filter-label">topic</span>');
+      parts.push(`<button class="active-filter-pill" data-clear="tag">${esc(state.activeTag)} ✕</button>`);
+    }
+    if (state.activeHost) {
+      parts.push('<span class="active-filter-label">host</span>');
+      parts.push(`<button class="active-filter-pill" data-clear="host">@${esc(state.activeHost)} ✕</button>`);
+    }
+    els.activeFilters.innerHTML = parts.length
+      ? '<div class="active-filter">' + parts.join('') + '</div>'
+      : '';
+    els.activeFilters.querySelectorAll('[data-clear]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const what = btn.dataset.clear;
+        if (what === 'team') state.activeTeam = null;
+        if (what === 'tag') state.activeTag = null;
+        if (what === 'host') state.activeHost = null;
+        renderAll();
+      });
+    });
+  }
   function render() {
     let filtered = state.spaces;
     if (state.activeHost) filtered = filtered.filter(s => s.host === state.activeHost);
     if (state.activeTag) filtered = filtered.filter(s => (s.tags || []).includes(state.activeTag));
+    if (state.activeTeam) {
+      filtered = filtered.filter(s => {
+        const attrTeam = s.quote_attribution && s.quote_attribution.team;
+        const partTeams = (s.participants || []).map(p => p.team).filter(Boolean);
+        return attrTeam === state.activeTeam || partTeams.includes(state.activeTeam);
+      });
+    }
     if (state.query && state.index) {
       const q = state.query.trim();
       let results = [];
@@ -223,17 +307,36 @@
       els.results.innerHTML = '<div class="empty">no spaces match your search.</div>';
       return;
     }
-    els.results.innerHTML = filtered.map((s, i) => {
+    els.results.innerHTML = filtered.map(s => {
       const sn = state.query ? snippet(s._transcript, state.query) : null;
       const meta = [];
       if (s.host) meta.push('@' + esc(s.host));
       if (s.date) meta.push(esc(fmtDate(s.date)));
       if (s.duration) meta.push(esc(fmtDuration(s.duration)));
-      if (s.tags && s.tags.length) meta.push('<span class="tag">' + s.tags.map(esc).join(', ') + '</span>');
+      if (s.tags && s.tags.length) {
+        const tagButtons = s.tags.map(t => `<button class="tag" data-tag="${esc(t)}">${esc(t)}</button>`).join(', ');
+        meta.push(tagButtons);
+      }
       if (!s.audio) meta.push('transcript only');
-      const thumbContent = s.quote
-        ? `<p class="entry-thumb-quote">"${esc(s.quote)}"</p>`
-        : `<p class="entry-thumb-fallback">${esc(s.description || s.title || '')}</p>`;
+
+      // Quote panel content
+      let thumbContent;
+      if (s.quote) {
+        thumbContent = `<p class="entry-thumb-quote">"${esc(s.quote)}"</p>`;
+        const attr = s.quote_attribution;
+        if (attr && attr.name) {
+          const parts = [`<span class="byline-name">${esc(attr.name)}</span>`];
+          if (attr.role) parts.push(`<span class="byline-role">${esc(attr.role)}</span>`);
+          if (attr.team) {
+            parts.push('<span class="byline-sep">·</span>');
+            parts.push(`<button class="byline-team" data-team="${esc(attr.team)}">${esc(attr.team)}</button>`);
+          }
+          thumbContent += `<div class="byline">${parts.join('')}</div>`;
+        }
+      } else {
+        thumbContent = `<p class="entry-thumb-fallback">${esc(s.description || s.title || '')}</p>`;
+      }
+
       return `
         <a class="entry" href="archive/${encodeURIComponent(s.id)}/index.html">
           <div class="entry-thumb">${thumbContent}</div>
@@ -245,6 +348,26 @@
           </div>
         </a>`;
     }).join('');
+
+    // Wire up team pill clicks (stop propagation so clicking team doesn't open the card)
+    els.results.querySelectorAll('.byline-team').forEach(btn => {
+      btn.addEventListener('click', e => {
+        e.preventDefault();
+        e.stopPropagation();
+        state.activeTeam = btn.dataset.team;
+        renderAll();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
+    els.results.querySelectorAll('.tag').forEach(btn => {
+      btn.addEventListener('click', e => {
+        e.preventDefault();
+        e.stopPropagation();
+        state.activeTag = btn.dataset.tag;
+        renderAll();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
   }
   function renderFilters() {
     const hosts = Array.from(new Set(state.spaces.map(s => s.host).filter(Boolean))).sort();
@@ -264,7 +387,7 @@
       btn.addEventListener('click', () => {
         if (btn.dataset.host !== undefined) state.activeHost = btn.dataset.host || null;
         if (btn.dataset.tag !== undefined) state.activeTag = btn.dataset.tag || null;
-        renderFilters(); render();
+        renderAll();
       });
     });
   }
@@ -278,12 +401,18 @@
       });
     });
   }
+  function renderAll() {
+    renderActiveFilters();
+    renderFilters();
+    render();
+  }
   async function load() {
     try {
       const resp = await fetch('spaces.json');
       const data = await resp.json();
       state.spaces = data.spaces || [];
-      buildIndex(); renderFilters(); render();
+      buildIndex();
+      renderAll();
     } catch (e) {
       els.results.innerHTML = '<div class="empty">could not load spaces.json — run scripts/build_manifest.py</div>';
       els.count.textContent = '';

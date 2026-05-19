@@ -12,73 +12,66 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1912518752337571840",
-      "username": "NeuraMarkets",
-      "display_name": "NeuraX",
-      "role": "speaker"
-    },
-    {
-      "user_id": "1414654440821436420",
-      "username": "Rekt_Zerker",
-      "display_name": "Zerk",
-      "role": "speaker"
-    },
-    {
-      "user_id": "2611100725",
-      "username": "_imhamzah",
-      "display_name": "hamzah",
-      "role": "speaker"
+      "name": "Hamza",
+      "handle": null,
+      "team": "Neurovolts",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1PlKQOXpqMWJE",
-  "summary_title": "AI agents optimize stablecoin yield 41% above lending markets on Hyperliquid",
-  "summary_description": "Neuro Vaults launched today: deposit USDT, agents rebalance across Hyperlend, Hyperfi, Felix to maximize APY. No leverage, no liquidation risk.",
+  "summary_title": "AI agents optimize stablecoin yield on Hyperliquid, outperforming lending markets by 41%",
+  "summary_description": "Neurovolts launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk.",
   "topic_tags": [
     "vaults",
-    "trading",
-    "ecosystem"
+    "ecosystem",
+    "infrastructure"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 395,
-      "label": "Mainnet launch timing: UAE event + Breakpoint conference same day"
+      "label": "Mainnet launch coincides with Hyperliquid UAE event and AMA"
     },
     {
-      "timestamp_seconds": 636,
-      "label": "Hamza background: Head of DeFi at Polygon, dropped NYU Masters for crypto post-FTX"
+      "timestamp_seconds": 606,
+      "label": "Hamza introduces himself: ex-Polygon head of DeFi, dropped out of NYU to go all-in crypto post-FTX"
     },
     {
-      "timestamp_seconds": 787,
-      "label": "Why vaults over directional AI trading: agents are probabilistic, not deterministic"
+      "timestamp_seconds": 726,
+      "label": "Neurovolts building agentic vaults because directional AI trading is too early"
     },
     {
-      "timestamp_seconds": 1180,
-      "label": "User flow: deposit USDT on Neuro Vaults, agents handle allocation, 15-20 min withdrawal window"
+      "timestamp_seconds": 847,
+      "label": "Earlier experiment with plain-English trading strategies saw $1-2M volume but AI proved too probabilistic"
     },
     {
-      "timestamp_seconds": 1575,
-      "label": "41% outperformance: agents optimize for size-adjusted yield across three lending protocols"
+      "timestamp_seconds": 1149,
+      "label": "User deposits $2K, already earning yield incrementally—compares experience to Anchor Protocol simplicity"
     },
     {
-      "timestamp_seconds": 1938,
-      "label": "ERC-7540 share token design enables composability, future borrowing against aiUSDT"
+      "timestamp_seconds": 1422,
+      "label": "AI forecasts impact of large deposits on pool APY before allocating capital across lending markets"
     },
     {
-      "timestamp_seconds": 2152,
-      "label": "Roadmap: transparency dashboard showing AI reasoning, new stablecoins (USDe, USDH), yield expansion"
+      "timestamp_seconds": 2061,
+      "label": "Hamza: agents handling money is what smart contracts were 4-5 years ago—massive untapped potential"
     },
     {
       "timestamp_seconds": 2484,
-      "label": "Future factory model: let community build custom vaults with agent infrastructure"
+      "label": "Future: vault factory model lets anyone create custom DeFi strategies using Neurovolts infrastructure and agents"
     }
   ],
-  "pull_quote": "Yield you cannot go wrong with yield. If it is coming from something like a lending market, you really can't go wrong because there's demand and there's supply.",
+  "pull_quote": "Agents handling money is what smart contracts were four or five years ago. Massive untapped potential.",
+  "quote_attribution": {
+    "name": "Hamza",
+    "team": "Neurovolts",
+    "role": "co-founder"
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2920.2986875,
   "capture_failure_reason": null

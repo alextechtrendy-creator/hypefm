@@ -1,8 +1,9 @@
-# First fully on-chain NFT collection launches on Hyperliquid EVM
+# First fully on-chain NFT collection on Hyperliquid EVM, minted by pixel artist
 
-_Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS dependency, family-made traits stored forever._
+_Bren launches tiny Hypercats, the first native on-chain NFTs on Hyperliquid, requiring big blocks and HYPE gas token._
 
-> The best things have a little bit of friction, and then when it's removed, everybody wants in. But now you kind of have that edge.
+> I like the fact that you can deploy a fully on-chain art contract for like 20 cents, maybe even less on base, and you never have to pay IPFS fees.
+> — Bren
 
 **Host:** @rekt_gang
 **Date:** 2025-02-19
@@ -10,16 +11,25 @@ _Tiny Hypercats: fully on-chain pixel art minted with HYPE gas token, no IPFS de
 **Tags:** ecosystem, infrastructure, community
 **Source:** https://x.com/i/spaces/1OyJALwQYbNGb
 
+## Who's talking
+
+- **rekt_gang** (@rekt_gang) _host_
+- **Bren** _guest_
+- **Zerk** _guest_
+- **Tony** _guest_
+- **Trendy** _guest_
+- **Others** _guest_
+
 ## Key moments
 
-- **[2:57]** Space kicks off with gas limit struggles during mint attempts
-- **[5:59]** Explaining dual block architecture and activation requirements
-- **[9:31]** Confirming first native on-chain NFT collection on Hyperliquid
-- **[12:02]** Artist journey from GIFs to on-chain development and deployment
-- **[20:39]** Hyperliquid EVM stealth launch creates equal-footing opportunity
-- **[29:54]** Announcing plans to bridge Trippie Wolves to Hyperliquid EVM
-- **[34:32]** Commemorative Hyper NFTs trading at $50k OTC via escrow
-- **[1:12:26]** Collection approaching 400 mints with organic community participation
+- **[2:57]** Host introduces Bren, congrats on launch
+- **[5:29]** Minting mechanics explained: need active wallet via USDC deposit
+- **[6:29]** Dual block architecture: 2M gas (1s) vs 10M gas (60s)
+- **[10:01]** Bren claims first native fully on-chain NFT collection on Hyperliquid
+- **[11:32]** Bren's journey from GIF animator to on-chain developer
+- **[13:36]** Why on-chain: immutable, no IPFS fees, permanent storage
+- **[20:39]** Hyperliquid EVM stealth launch, no insider advantage
+- **[39:13]** Speculation: minting activity may count toward future airdrop points
 
 ## Transcript
 

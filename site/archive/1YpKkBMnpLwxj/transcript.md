@@ -1,25 +1,35 @@
-# Coordinated exchange attack on Hyperliquid exposes design tensions
+# Coordinated attack on Hyperliquid, validator response, and PVP trading's future
 
-_Jelly token manipulation, validator response, and debate over decentralization tradeoffs during live incident._
+_Jelly crash, delisting decision, and why PVP.trade is building the social layer for Hyperliquid perps._
 
-> Jeff and team have shown that they're here to change it, to put it in our hands, to let the users reap the rewards of the platform and everything.
+> Trading with friends is always more fun, and it feels less bad when you get liquidated because you're not just a retard trading by yourself.
+> — Noms, PVP.trade
 
 **Host:** @rekt_gang
 **Date:** 2025-03-26
 **Duration:** 1:23:30
-**Tags:** ecosystem, governance, infrastructure
+**Tags:** perps, ecosystem, governance
 **Source:** https://x.com/i/spaces/1YpKkBMnpLwxj
+
+## Who's talking
+
+- **Zerk** (@rekt_gang) — rekt_gang _host_
+- **PBR** — rekt_gang _guest_
+- **Noms** — PVP.trade _guest_
+- **Guffix** _guest_
+- **Hatashi** — Hyperbeets _guest_
+- **Amir** _guest_
 
 ## Key moments
 
-- **[1:29]** Space announcement coincides with suspected coordinated attack
-- **[2:29]** Zerk and PBR introduce pvp.trade; Guffix joins to discuss events
-- **[5:32]** Noms notices jelly position down 8-9M, confirms coordinated attack theory
-- **[6:32]** Community debates ongoing market cap caps and OI limits to prevent repeats
-- **[9:34]** Validator quorum voted to delist; PBR defends Jeff and team responsiveness
-- **[12:05]** Discussion of USDT freezing vs USDC; validator governance process affirmed
-- **[17:37]** HLP tvl withdrawal and recovery; discussion of vault impacts and yields
-- **[22:08]** Pivot to pvp.trade launch: Telegram bot for social group trading
+- **[1:29]** Space begins: hosts discuss timing and recent Hyperliquid events
+- **[2:29]** Zerk introduces rekt_gang; discussion of coordinated attack on Jelly
+- **[5:32]** Noms (PVP.trade co-founder) describes Jelly position down 8-9 million, calls it coordinated attack
+- **[6:32]** Discussion of OI caps relative to market cap and HLP risk exposure
+- **[8:34]** PBR comments on Binance threat and validator response to delisting
+- **[10:04]** Clarification that validators voted as committee, not just Jeff
+- **[22:08]** Pivot to PVP.trade: 30 billion volume, Telegram bot, copy trading launch
+- **[49:22]** Discussion of Hyperliquid EVM opportunities: lending, liquid staking, NFTs
 
 ## Transcript
 

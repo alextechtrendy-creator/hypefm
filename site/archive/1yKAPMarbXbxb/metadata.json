@@ -12,67 +12,72 @@
   "host_username": "rekt_gang",
   "participants": [
     {
-      "user_id": "1484917214813773836",
-      "username": "rekt_gang",
-      "display_name": "Rekt Gang",
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
-      "user_id": "1541546926893666304",
-      "username": "0xg_eth",
-      "display_name": "0xG",
-      "role": "speaker"
+      "name": "Louis",
+      "handle": null,
+      "team": "Bounce Tech",
+      "role": "guest"
     },
     {
-      "user_id": "1891443687600836608",
-      "username": "BounceTech",
-      "display_name": "Bounce.Tech",
-      "role": "speaker"
+      "name": "Max",
+      "handle": null,
+      "team": "Bounce Tech",
+      "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1yKAPMarbXbxb",
-  "summary_title": "Leverage tokens on Hyperliquid: no liquidation, constant rebalancing, composable perps",
-  "summary_description": "Bounce Tech launches tokenized perpetual futures that auto-rebalance to maintain fixed leverage, eliminating liquidation risk while capturing directional moves.",
+  "summary_title": "Leverage tokens on Hyperliquid: no liquidation, composable perps, explosive upside",
+  "summary_description": "Bounce Tech brings non-liquidating leveraged tokens to Hyperliquid, combining HyperCore perps with ERC-20 composability.",
   "topic_tags": [
     "perps",
     "trading",
-    "infrastructure"
+    "ecosystem"
   ],
   "key_moments": [
     {
       "timestamp_seconds": 288,
-      "label": "Louis introduces Bounce Tech CEO background and German roots"
+      "label": "Louis introduces Bounce Tech, CEO background in computer science"
     },
     {
       "timestamp_seconds": 408,
-      "label": "Leverage tokens explained: constant leverage via reactive rebalancing"
+      "label": "Definition: leveraged tokens as non-liquidating, constant-leverage perpetuals"
     },
     {
       "timestamp_seconds": 469,
-      "label": "Max reveals ERC-20 composability advantage across DeFi protocols"
+      "label": "Composable ERC-20 tokens enable DeFi integration and funding rate strategies"
     },
     {
       "timestamp_seconds": 620,
-      "label": "Volatility decay risk: up-lever, down-lever cycles reduce returns"
+      "label": "Volatility decay explained: rebalancing costs in sideways, volatile markets"
     },
     {
-      "timestamp_seconds": 1226,
-      "label": "Hyperliquid EVM precompiles unlock composable perp liquidity"
+      "timestamp_seconds": 1256,
+      "label": "HyperEVM precompiles unlock composable perp liquidity for leverage tokens"
     },
     {
       "timestamp_seconds": 1710,
-      "label": "Delta-neutral LP strategy: pair short leverage tokens with spot"
+      "label": "Delta-neutral LP strategy: short leverage token paired with spot equivalent"
     },
     {
-      "timestamp_seconds": 1921,
-      "label": "HIP3 commodity markets coming: potential 7x-10x leverage tokens"
+      "timestamp_seconds": 1891,
+      "label": "HIP3 markets coming soon with higher leverage factors up to 10x"
     },
     {
       "timestamp_seconds": 2346,
-      "label": "Plans confirmed: Bounce points campaign and token incoming"
+      "label": "Points campaign confirmed, token launch planned"
     }
   ],
-  "pull_quote": "If you have the directional movements or price to appreciate, your position up-levers, and that really does outperform the perpetual.",
+  "pull_quote": "Non-liquidated, non-liquidating leveraged exposure is usually very interesting to institutional players",
+  "quote_attribution": {
+    "name": "Max",
+    "team": "Bounce Tech",
+    "role": null
+  },
   "audio_captured": true,
   "audio_duration_seconds": 2620.864,
   "capture_failure_reason": null
