@@ -1,0 +1,632 @@
+{
+  "space_id": "1YGNrZmEwWRGw",
+  "language": "en",
+  "duration_seconds": 3258.1333125,
+  "chunks": [
+    {
+      "start": 99.86,
+      "end": 129.9,
+      "speaker": "SPEAKER_00",
+      "text": "GM, GM, how are you doing? Hello, hello. Oh, I hear you nice and clear. Let's do a quick mic check for, is it, uh, Gio May? Gio May? Apologies. Hello, hello. Yep. Can you hear me? Oh, your voices are so crispy. This"
+    },
+    {
+      "start": 129.9,
+      "end": 160.02,
+      "speaker": "SPEAKER_00",
+      "text": "is great. Okay, great. These are the, um, I think they're like $20 from, from Apple. That was a good buy. Yeah, they're great. They're great. Much better than the wireless ones. Uh, yeah, they're working fine, man. Uh, all right. So we shall get started in just a couple of minutes. I see people joining in. If you just joined in, bottom right corner, there's a little purple bubble. Click on the little purple bubble. Give the space a"
+    },
+    {
+      "start": 160.02,
+      "end": 190.54,
+      "speaker": "SPEAKER_00",
+      "text": "like. Give a little retweet. Drop a comment. Always helps with the algorithm. And I'm super excited about this space today. I think there was so much talk about prediction. And, uh, I mean, you guys are, are building it out. So I'm excited to learn more. Likewise. Likewise. Great pleasure to be on. Thank you. The pleasure. We've also got Mick. He's a listener right now. Yeah, I got him approved. So"
+    },
+    {
+      "start": 190.54,
+      "end": 220.72,
+      "speaker": "SPEAKER_00",
+      "text": "hoping he comes up real quick. I'm going to give all of y 'all follows too. Here we go. Yeah. If you see these speakers up top with a really cool outcome badge, give them a follow. Uh, that's how it works nowadays, right? You got to build a CT audience. Uh, definitely is good for marketing. So yeah, for sure. I mean, I only had about two people following me when I first started"
+    },
+    {
+      "start": 220.72,
+      "end": 251.26,
+      "speaker": "SPEAKER_00",
+      "text": "the, uh, building outcome. Still quite small now, just with 200. Don't worry about it. Go ahead. Make the two people was Guillaume and me. Yeah, indeed. Uh, it's about the friends you make along the way in this space. So now you're at 200, man, it's a hundred X. That's good. Yeah. Only if my trades were also a hundred X, it would, that would be nice. Hey,"
+    },
+    {
+      "start": 251.42,
+      "end": 281.74,
+      "speaker": "SPEAKER_00",
+      "text": "hype is that 42 and a half. I think people are very happy about that. Some incredible news coming out of the Coinbase and circle team. Um, so, you know, I think a lot of people are a little sad to see USDH go, but. But that being said, I think, you know, this is like building hyperliquid upwards. So super cool news to hear that today. And the price has reacted accordingly. Yeah. Uh, it"
+    },
+    {
+      "start": 281.74,
+      "end": 311.96,
+      "speaker": "SPEAKER_00",
+      "text": "was quite some big news. I mean, uh, it's quite, it's quite, uh, exciting to see such a big institution, uh, uh, put all their cards with hyper liquid. Uh, obviously this was a really, really, really big bonus for a hype. Uh, even the token, I mean, I literally opened a long position, uh, been building it up for the past two days. So it was quite, it was the perfect time to pump. Oh, we're going to call you a hundred X soon"
+    },
+    {
+      "start": 311.96,
+      "end": 342.1,
+      "speaker": "SPEAKER_00",
+      "text": "then. All right. Well, let's get this spaces started. Uh, I'm Zerk co -founder of wreck gang. We run a validator on hyperliquid and we run lots of spaces as well. Try to educate the hype fam about what's happening within the ecosystem. And today I have the privilege. The honor, the prestige of hosting the team at outcome X, Y, Z, who've been heads down building prediction markets on hyperliquid. So super excited to learn more about this. As a reminder, these spaces"
+    },
+    {
+      "start": 342.1,
+      "end": 372.12,
+      "speaker": "SPEAKER_00",
+      "text": "are recorded and they will be transcribed as well. So you will be able to listen to timestamps and all that good things. But let's get to some quick introductions. Um, maybe we can start with geo mig and then infinity AK. Please tell us a little bit about yourself and what you guys do at the outcome team. For sure. Yeah. Again, thank you for having us. Super excited to be on. Um, so we, we, the three co -founders of outcome,"
+    },
+    {
+      "start": 372.3,
+      "end": 402.42,
+      "speaker": "SPEAKER_00",
+      "text": "um, I've been super early in the space of, of hyperliquid since like late 2023, we actually started out as market makers on hyperliquid. Um, and then we got into the field of, of becoming a builder. Once we saw that prediction markets. Yeah. Sort of taking off. I mean, they were so small when we started, this was about a year and a half ago, but, um, we got super excited about the space and wanted to build a better prediction market for hyperliquid, but that's a little bit, um, about"
+    },
+    {
+      "start": 402.42,
+      "end": 432.54,
+      "speaker": "SPEAKER_00",
+      "text": "me. I'll pass it on to mig. Yeah. So thank you for having us, right. Uh, I can already tell this is going to be a fun and interesting conversation for us. Um, well, hyperliquid maxi, so we love speaking about hyperliquid and we're also prediction market maxi. So. Two birds in one stone. So like, uh, Guillaume, you mentioned, we were early market makers, um, and we've known each other for, I would say almost a decade now, uh, prior to,"
+    },
+    {
+      "start": 432.58,
+      "end": 463.88,
+      "speaker": "SPEAKER_00",
+      "text": "to market making on DeFi, we were, we were also market making on some, some trust by assets. And then we kind of fell in love with, uh, prediction markets like mid 2024 and kind of shifted our attention. Um, but yeah, I'm also one of the co -founders. I'll pass it to. Infinite AK. Yeah. Um, again, thank you for having us. I mean, um, yeah, like Guillaume said, you know, we, we, we were early market makers and hyperliquid,"
+    },
+    {
+      "start": 463.96,
+      "end": 493.94,
+      "speaker": "SPEAKER_00",
+      "text": "um, but before that, you know, we were, uh, uh, big in the traditional finance world too, you know, uh, working with some, with some banking partners. Um, so we've been builders for quite a while, but building on hyperliquid. Uh, something that we've always wanted to do and, uh, and, you know, given the opportunity, uh, when hip four was announced and even way before that, uh, when hyper EVM first came out, you know, we, we"
+    },
+    {
+      "start": 493.94,
+      "end": 523.94,
+      "speaker": "SPEAKER_00",
+      "text": "always knew that we wanted to build a prediction market back when it was still very, very small. And so as soon as we saw the opportunity, you know, we took it, uh, we knew that this is the ecosystem that we wanted to build them. Um, and really, really happy to see. Uh, the. Yeah. trajectory that it's on you know um and the position that we are in now nice very cool and before we jump into prediction markets i think everybody wants to talk about that i love talking about hyperliquid and"
+    },
+    {
+      "start": 523.94,
+      "end": 554.34,
+      "speaker": "SPEAKER_00",
+      "text": "it seems y 'all three are very bullish on hyperliquid so what made you guys decide to market make on hyperliquid and then kind of double down and become builders coming from the trad buy space i guess that's a interesting to see you chose this ecosystem out of all of them so maybe infinity and and megan guillo whoever wants to take that one yeah um so so to give a little bit of insights we we were um actually"
+    },
+    {
+      "start": 554.34,
+      "end": 584.7,
+      "speaker": "SPEAKER_00",
+      "text": "traders on centralized exchanges before that so we were trading on like binance ftx and then post ftx crash we kind of pivoted over to decentralized exchanges tried out dyd x so this was in 2023 we tried a dydx and also hyperliquid but uh during uh like in 2023 the liquidity on hyperliquid wasn't actually the best so we shifted to dydx for a month but then moved back over to hyperliquid this was like october 2023"
+    },
+    {
+      "start": 584.7,
+      "end": 614.8,
+      "speaker": "SPEAKER_00",
+      "text": "um when liquidity wasn't there but uh the the infrastructure itself just worked every everything was super smooth um and during that time like the community wasn't that big at all i mean we we we weren't market making for like points or anything like that it was more about building our reputation in the decentralized exchange space um and then from there on we we pivoted over to to becoming builders essentially"
+    },
+    {
+      "start": 614.8,
+      "end": 644.95,
+      "speaker": "SPEAKER_00",
+      "text": "yeah it all makes sense go ahead make yeah i just want to quickly add like when we were completely market making i didn't even know points existed and then we just got an airdrop towards the end of the year so it was pretty good uh that we pivoted to hyperliquid to be honest yeah it seems a lot of the builders i mean we we could talk about max and armenia there's so many of them uh"
+    },
+    {
+      "start": 644.95,
+      "end": 676.17,
+      "speaker": "SPEAKER_00",
+      "text": "that that did get an airdrop hence have decided to double down in the ecosystem so great to see i mean you guys could have just you know went away but decided to stick around and build something really cool Cool. So let's get to this prediction markets. I think Meg mentioned that you're a lover of prediction markets. So kind of, you know, what came through your heads when they announced this HIP4 thing? Because initially, I think this idea was kind of thrown around a little bit. I"
+    },
+    {
+      "start": 676.17,
+      "end": 706.45,
+      "speaker": "SPEAKER_00",
+      "text": "think, you know, the reception was lukewarm initially, but now with Kalshi and Polymarket really popping off, prediction markets seem something that is almost inevitable. So yeah, maybe talk me through what made you guys decide to build prediction markets on Hyperliquid. Well, was that pun intended? Because we like to say the outcome is inevitable. So I mean,"
+    },
+    {
+      "start": 706.51,
+      "end": 737.75,
+      "speaker": "SPEAKER_00",
+      "text": "we looked at the prediction market space and then in like mid 2024, Polymarket was still relatively small. I mean, the valuation was under a billion dollars. Kalshi was basically non -existent at the time. And then when we looked at Polymarket, we saw kind of two key pillars that was not tackled in the best manner. And we thought we could probably tackle this in a much better way. But also the fundamentals of prediction markets are"
+    },
+    {
+      "start": 737.75,
+      "end": 767.79,
+      "speaker": "SPEAKER_00",
+      "text": "just so interesting. And it's the first, the last time where we are actually getting to work on a new financial instrument. I mean, the last time there was a financial instrument being kind of happening in front of our eyes was 80 years ago, like when the options contracts were getting popular. So working on a new kind of financial primitive was just too big of an opportunity for us to not pursue. That's it from my side. I'll let Kiyomi"
+    },
+    {
+      "start": 767.79,
+      "end": 797.97,
+      "speaker": "SPEAKER_00",
+      "text": "and Infinite AK add on to that. Infinite, maybe you can... You can add a little bit on. Yeah. I mean, yeah, like Mick said, you know, when we first looked at prediction markets and Polymarket started to gain some traction there and, you know, we were using it as Mick said, like working on a new financial tool, I mean, is anybody's dream and"
+    },
+    {
+      "start": 797.97,
+      "end": 829.29,
+      "speaker": "SPEAKER_00",
+      "text": "then doing it in a way where you start seeing... But I think the thing is that it's been so much, I mean, in the financial field so much success and traction. I mean, maybe we're not there yet, but still, like being here right now, we've come a very, very long way from where we were, like 16 months ago, when we were first drafting our plans and HyperEVM wasn't even a thing yet. And so with, we looked at a few things and were like, Like, this can be done in a much better way. And you know what? Why"
+    },
+    {
+      "start": 829.29,
+      "end": 859.89,
+      "speaker": "SPEAKER_00",
+      "text": "can't we do it? And so we knew that we wanted to do something on HyperLiquid. And we knew what we wanted to do, which was prediction markets. And I guess later, I would love to share some details about what were the things that we really looked at and were like, we should change this. Oh, that's beautiful. That was going to be my next question. That's a great segue. I mean, that is really the question here. We know PolyMarket."
+    },
+    {
+      "start": 859.93,
+      "end": 890.73,
+      "speaker": "SPEAKER_00",
+      "text": "We know Kalshi. I think there's like 50 prediction markets at this point. Yeah. Very small ones. So what is the gap that you guys intend to fill? Or I guess what is the product market fit for outcome versus everyone else? For sure. For sure. I mean, first of all, like everybody else in the space, they don't really offer anything. Different than what PolyMarket and Kalshi are already offering. And I'm sorry, but you're not going to beat them when"
+    },
+    {
+      "start": 890.73,
+      "end": 920.79,
+      "speaker": "SPEAKER_00",
+      "text": "your product has nothing special and they've got billions and millions of dollars in backing. And so you need something really different, something that's a serious pain point for users on these platforms. And you need to change it, right? What's been happening recently with PolyMarket and Ooma, right, is a lot of. Controversy around how certain markets are resolved. And we thought, how can you have a"
+    },
+    {
+      "start": 920.79,
+      "end": 951.35,
+      "speaker": "SPEAKER_00",
+      "text": "decentralized prediction market when your resolution mechanism is sort of centralized and it can be swayed with money? And so the first thing that we wanted to tackle was how do we build a decentralized resolution mechanism, a data -driven resolution mechanism, right? So we did that and then obviously a big, big, unique selling point, which big"
+    },
+    {
+      "start": 951.35,
+      "end": 981.57,
+      "speaker": "SPEAKER_00",
+      "text": "props to Hyperliquid and thanks to them, was the difference unified margin is going to make to prediction markets right now. I mean, we see MetaMask and other front ends of PolyMarket that have perps from Hyperliquid and then PolyMarket. Right. With prediction markets. So users' funds are fragmented here. You cannot hedge your position so easily, you"
+    },
+    {
+      "start": 981.57,
+      "end": 1011.65,
+      "speaker": "SPEAKER_00",
+      "text": "know, and unified margin is going to completely change that. And we see if we dominate the HIP4 space, there's no reason why we cannot beat PolyMarket and Kaushik. That's music to my ears. Very exciting. All right. So let's double down a little bit on the first point. So for those that are. A little unfamiliar with how PolyMarket works, they use this, can I call it resolver or I don't, I don't even want to call it"
+    },
+    {
+      "start": 1011.65,
+      "end": 1043.33,
+      "speaker": "SPEAKER_00",
+      "text": "an oracle called Uma, which kind of decides for these very tricky decisions. And I know a few people that are listening to this space that already got wrecked by some questionable decisions. So you said that data will be able to, you know, you guys are going to be using data to resolve. These markets. So maybe could you walk me through how this is going to work technically as compared to something like PolyMarket once more? And"
+    },
+    {
+      "start": 1043.33,
+      "end": 1073.37,
+      "speaker": "SPEAKER_00",
+      "text": "maybe Mig, you want to go or go ahead, Infinity. Yeah, actually, Mig can take this one for sure. Yeah, so one of the biggest challenges for these contracts is trust, right? So you need to understand that you trust where the resolution is coming from. And also the speed of this resolution. So when we looked at that problem, we saw that we can kind of solve this using data. And the"
+    },
+    {
+      "start": 1073.37,
+      "end": 1103.53,
+      "speaker": "SPEAKER_00",
+      "text": "way we basically do that is we connect to these trusted data sources. For example, if it's like Fed interest rates, we'll go to the Federal Reserve government website and then we will kind of connect to the API endpoints and then we'll turn that data. And then you can see that the on -chain that's kind of right there, you can connect to this domain like chain. The main thing that needs to be done is the solution is toąne the on -chain through our method on chain. So our kind of content interesante example is probably estimated to do, of course, a Advisory with data 말 estud apartments. So your data 상, that looks really chipsety. On your whole pipeline, you can see where this data was coming from the whole pipeline. You can see what the output"
+    },
+    {
+      "start": 1103.53,
+      "end": 1133.71,
+      "speaker": "SPEAKER_00",
+      "text": "of this data will be. And then from that on chain, we connect it to. Our kind of. Smart contracts. for resolving the contract and then it goes from the data to the on -chain setup program to our smart contracts and it's completely autonomous and decentralized. So like that, we don't have a control of changing the kind of resolution. It goes directly from"
+    },
+    {
+      "start": 1133.71,
+      "end": 1164.09,
+      "speaker": "SPEAKER_00",
+      "text": "the data pipeline to the smart contract. When the output is X, then the contract will resolve for X. If it was Y, then it will resolve for Y. That gives you speed and it also gives you trust. When these high net worth individuals or these large market makers want to come and kind of trade on these assets, they will have full trust because everything is verifiable on -chain and they can see the complete pipeline on where the resolving underlying is coming from. And"
+    },
+    {
+      "start": 1164.09,
+      "end": 1194.33,
+      "speaker": "SPEAKER_00",
+      "text": "we've kind of done this for almost, I would say, 16 months now and we've resolved more than a thousand contracts. This has been on the Hyper -EVM. That's wild. Infinity AK, go ahead. You have your hand up. Very Canadian of you. Yeah. I also want to highlight that we've actually spent so much time and effort into making sure that the system is"
+    },
+    {
+      "start": 1194.33,
+      "end": 1224.57,
+      "speaker": "SPEAKER_00",
+      "text": "bulletproof and that our data providers are the top in the world. That there's no doubt, no doubt about if the data that we're going to receive has any mistake, right? Because at the end of the day, once you resolve a contract, we cannot go back on it. And so, you know, and I think a lot of people underestimate actually how much work needs to go into this side of the business on not just securing the partnerships"
+    },
+    {
+      "start": 1224.57,
+      "end": 1256.55,
+      "speaker": "SPEAKER_00",
+      "text": "and convincing, let's say, for sports, you need to go and convince the top, the data providers to give you their data in a time where they are being ridiculed for providing data to prediction markets. And then on top of all that, it's super expensive, like ridiculously expensive. And then you have to do that for all the different categories. Now, some are free, like economics, where we have our team scraping"
+    },
+    {
+      "start": 1256.55,
+      "end": 1287.21,
+      "speaker": "SPEAKER_00",
+      "text": "the data, right? But a lot of work goes in there. And a lot of money and effort. And so, you know, we've been doing this, like Mig said, for 16, 18 months. We've resolved over a thousand contracts on Hyper EVM. And we are prepared. I mean, we're literally just waiting. As soon as Hyper Liquid says go, we will deploy everything. Oh, boy. I"
+    },
+    {
+      "start": 1287.21,
+      "end": 1317.41,
+      "speaker": "SPEAKER_00",
+      "text": "mean, you mentioned sports. I didn't even go there yet. So, Gio, there must be so many data sources, right? Like, how do you even manage all of these data providers? You guys probably use oracles that are well -known in the crypto space, but some of this stuff is obviously, you know, like crypto agnostic almost. Yeah, I mean, like I said, you need to connect to verifiable data sources that"
+    },
+    {
+      "start": 1317.41,
+      "end": 1348.01,
+      "speaker": "SPEAKER_00",
+      "text": "also work in the space of Web2, right? So, when you look at that and you want to make sure that you have the data sources, you kind of look at their reputation and their track record, right? So, we want to always make sure that we have the best sources for football, for soccer, anything that's related to sports and all types of sports and categories in that also. So, we essentially just do our due diligence to make sure that whatever we put as our resolution sort of oracle source, it"
+    },
+    {
+      "start": 1348.01,
+      "end": 1378.53,
+      "speaker": "SPEAKER_00",
+      "text": "is always the top choice. Okay. And there's definitely a lot of work that goes into it because essentially at the end of the day, each category from politics, like anything real world events related all the way to sports and to crypto and Shadify, it's all essentially its own kind of business where you need to create a proper pipeline. Yeah, that's a great point. Infinity, I see your hand still up. I don't know if it was just from the past one or... It's"
+    },
+    {
+      "start": 1378.53,
+      "end": 1408.73,
+      "speaker": "SPEAKER_00",
+      "text": "just from the past. All right. All good. Well, this is a great segue to the most fun question for me, which is what kind of markets can we expect on outcome? Right now, we have Bitcoin and I guess we have multi -outcome Bitcoin, but you guys already mentioned sports. Gio mentioned politics. Are you guys going to take over everything that Polymarket has to offer? What can you tell me right now in terms of what you guys are planning on offering? Yeah, I"
+    },
+    {
+      "start": 1408.73,
+      "end": 1439.11,
+      "speaker": "SPEAKER_00",
+      "text": "mean, look, we still do not know exactly how permissionless deployment is going to work here. So we can't say for certain that this is what we're going to do, but let's make up a dream where permissionless deployment goes exactly the way we want it, right? We can deploy whatever we want right out the floodgates. We have every single category locked. We have all the data providers that we need. We have every single"
+    },
+    {
+      "start": 1439.11,
+      "end": 1469.29,
+      "speaker": "SPEAKER_00",
+      "text": "market that we could... Possibly launch ready. I mean, we update this document every other day based on the real world events coming up, sports matches coming up, political elections coming up, data from the Bureau of Labor Statistics, the Fed of every major country. I mean, we have a list right now of over 1 ,500"
+    },
+    {
+      "start": 1469.29,
+      "end": 1499.91,
+      "speaker": "SPEAKER_00",
+      "text": "markets that if, if there's a hyperliquid that tomorrow we can deploy, we can launch them all. And every single category, we're not held back anywhere. Wow, that is wild. 1 ,500 markets. So everything, pretty much everything is what you're telling me. Everything. Is on the table. That's super cool. So you mentioned, you know, that you still don't know this is going to come soon. When do you expect, you"
+    },
+    {
+      "start": 1499.91,
+      "end": 1530.08,
+      "speaker": "SPEAKER_00",
+      "text": "know, kind of the full -blown anybody can deploy a HIP -4? And I know this is not like we don't know, but when do you anticipate, I guess, this is going to be possible? Whoever wants to take this. Yeah, I can take that one then. So, so the concept of emissions deployment is probably going to be quite similar to HIP -3. When we look at HIP"
+    },
+    {
+      "start": 1530.08,
+      "end": 1560.52,
+      "speaker": "SPEAKER_00",
+      "text": "-4 right now, what the hyperliquid team did is, of course, they launched it on testnet first, then they are, then they launched it on mainnet. So that, that essentially the team makes sure that everything is working right. Now the team, we expect the team to not take up all markets or sort of probably just stick to Bitcoin and HIP, and then launch permissions deployment right after that. Now permissions deployment itself might be a phased rollout where first"
+    },
+    {
+      "start": 1560.52,
+      "end": 1590.76,
+      "speaker": "SPEAKER_00",
+      "text": "the orca source has to be possibly, a data source from hyperliquid itself. And then there's going to be other sort of concepts that means that we can deploy any, any sort of market that we want. We don't know when it's going to be, to be honest. The hyperliquid team likes to just stick to public announcements and stick to that sort of decentralized playbook, which we, of course, appreciate and respect. But hopefully we will see it in"
+    },
+    {
+      "start": 1590.76,
+      "end": 1621.12,
+      "speaker": "SPEAKER_00",
+      "text": "the near future. You got to give me a month that I would love to tell you a month so that we can have the World Cup. I would love to tell you. I mean, we have all for the World Cup. Yeah, that would be so cool. You're right. Yeah, I'd love to. That's a good one. That would be amazing. Yeah. Speaking, I guess, of these. Well, OK, so coming soon, TM, as we all know, hyperliquid team ships. So"
+    },
+    {
+      "start": 1621.12,
+      "end": 1651.18,
+      "speaker": "SPEAKER_00",
+      "text": "and they're full of surprises, hopefully sooner rather than later. Perhaps. Towards the World Cup. My question is, you know, you guys mentioned so many markets. Are you at all concerned? But I guess you are market makers. So this is something that comes on top of your head, but about the liquidity aspect or kind of having that. Yeah, go ahead. Yeah, I was actually going to clarify this. So when I said that we are"
+    },
+    {
+      "start": 1651.18,
+      "end": 1681.96,
+      "speaker": "SPEAKER_00",
+      "text": "ready to deploy over 1 ,500 markets, it doesn't necessarily mean that we're going to deploy them all at something else that poly market is doing, which we don't want to is they they're deploying thousands of thousands of markets at the same time, which really fragments. Like, like liquidity, right? So we really want to focus on the top markets."
+    },
+    {
+      "start": 1682.04,
+      "end": 1712.17,
+      "speaker": "SPEAKER_00",
+      "text": "Once we think we'll perform well, once we know users, we actually would want to want to trade rather than, let's say, 1 ,000 markets at a given time. Yeah, I think that's a great strategy because it does get fragmented. And if you've ever traded some of the more obscure stuff on poly market, you get like horrendous slippage on it. You know, you buy something, you pay twice the price for it. So that that to me makes a"
+    },
+    {
+      "start": 1712.17,
+      "end": 1743.28,
+      "speaker": "SPEAKER_00",
+      "text": "lot of sense. Very cool. So, you know, we were talking a bit about liquidity. So. I just want to go ahead. Sorry. Yeah. I just sort of cut you off. I want to hand it over to you on me there. He's been working quite indefinitely on the liquidity side. So you can kind of address. Oh, go ahead. You owe me to cook on that side as well. We can't share too much, but he will share what we can. Okay, sure. Thank"
+    },
+    {
+      "start": 1743.28,
+      "end": 1773.58,
+      "speaker": "SPEAKER_00",
+      "text": "you. So with with a lot of market makers, I mean, a lot of the liquidity that comes from these exchanges that you see, a lot of it is sort of algorithmic, right? So there's a lot of institutions that are putting in orders and making sure that the books stay liquid. Now, with prediction markets, there's there's a few things that that market makers and institutions stay wary of, which is number one. Like one of them is resolution. Of course, if market makers do hold their positions in a sort of directional"
+    },
+    {
+      "start": 1773.58,
+      "end": 1803.58,
+      "speaker": "SPEAKER_00",
+      "text": "position, if resolution doesn't work out right, then essentially can fight them back. The other thing is a cold start problem and just the books not being liquid enough. Right. So the environment itself is the problem with with hyperliquid. We're kind of solving that. So we do have things like cancer prioritization, speed bumps, which which make the whole trading environment for institutions a lot more sort of convenient, essentially. And we've been speaking to some of the largest market makers"
+    },
+    {
+      "start": 1803.58,
+      "end": 1833.84,
+      "speaker": "SPEAKER_00",
+      "text": "that are out there across TradFi and and crypto. And what? Well, the feedback that that we gathered from a lot of them is that. The the platform itself kind of fragments their own liquidity also. So when they have to hedge across two different platforms like I think. Infinite, I mentioned that before, it's that you essentially split your margin right across those two platforms and"
+    },
+    {
+      "start": 1833.84,
+      "end": 1864.28,
+      "speaker": "SPEAKER_00",
+      "text": "also the environment itself is not the best for trading. So we're we have a lot of. Sort of strategies and also. A lot of things cooking up in the background, I don't want to say too much of what we're actually doing, because we have to make sure that we publicly announce that first. And Megan and he would kill me if I say too much. But there's a lot of things that we're solving on that side to make sure that hyperliquid or HIP for specifically our contracts are going to be the"
+    },
+    {
+      "start": 1864.28,
+      "end": 1895.0,
+      "speaker": "SPEAKER_00",
+      "text": "most liquid prediction market slash options venue that you have seen. Anywhere across DeFi. To be honest, there's there's a lot cooking in the background and we're solving many issues such as the cold start problem that prediction markets have. Nice. Thanks for this. I believe Infinity mentioned unified portfolio margin at the beginning of the space. And I kind of wanted to get back to this because we are talking about liquidity here. You know, what"
+    },
+    {
+      "start": 1895.0,
+      "end": 1925.0,
+      "speaker": "SPEAKER_00",
+      "text": "kind of strategy do you guys anticipate? Or what interesting hedge or strategy you're expecting power users to be deploying using all these new tools, these new features that hyperliquid recently implemented? I don't know, maybe Infinity you want to go and then make or Gil, I see you unmuted. Yeah, I mean, it's just about the liquidity topic, so I can dive a bit more deeper in that. So when we look at the markets that we will deploy that are kind"
+    },
+    {
+      "start": 1925.0,
+      "end": 1955.2,
+      "speaker": "SPEAKER_00",
+      "text": "of in the hyperliquid ecosystem itself, like native hyperliquid users, a lot of them do want to see hedging possible across different venues that are kind of like trigger events, right? So there's a lot of builders that have built great tools on top of it, such as pair protocol. If you're familiar with them, essentially what they what they're doing at the moment is they're using Polymarket for trigger events and then they can go long or short direction. It's kind of all automated. So super cool tools that these builders are building, but also like institutions and"
+    },
+    {
+      "start": 1955.2,
+      "end": 1985.42,
+      "speaker": "SPEAKER_00",
+      "text": "traders natively on hyperliquid want to do that without. Kind of going to different venues, right, with essentially a platform that they're very familiar with already. So we might see things like longing Bitcoin and then on HIP4 going short as kind of like a hedge, like essentially protecting your downward risk. So we will see this not only with the same underlying asset, but we will probably see this also with cross"
+    },
+    {
+      "start": 1985.42,
+      "end": 2015.48,
+      "speaker": "SPEAKER_00",
+      "text": "related events. So, for example, you might have the underlying asset of oil that you're trading, but then you want to make sure that a trigger event such as the Strait of Hormuz is going to protect your downside, which means that a user could go long on oil or short on oil, but then also have the opposite side of that trigger on an event that's correlated. So the underlying asset doesn't have to be correlated, but the event itself can create a correlation in these contracts. So there's a lot of great"
+    },
+    {
+      "start": 2015.48,
+      "end": 2045.66,
+      "speaker": "SPEAKER_00",
+      "text": "things that we've been talking about and discussing with traders, builders and institutions, because the main issue here with liquidity is also figuring out a fair value of what is the actual fair value on an event, on a real world event that has no underlying asset like Bitcoin or S &P 500 or something. Yeah, I'm excited to see what kind of fancy, complicated, but super interesting strategies people"
+    },
+    {
+      "start": 2045.66,
+      "end": 2076.34,
+      "speaker": "SPEAKER_00",
+      "text": "come up with combining HIP4 with perhaps HIP3. Yeah, I'm excited to see what kind of fancy, complicated, but super interesting strategies people come up with combining HIP4 with perhaps HIP3. Yeah, I'm excited to see what kind of fancy, complicated, but super interesting strategies people come up with combining HIP3. I'm sure we're going to see some cool shit coming up. Yeah. So on the next topic, now that we talked about liquidity, you guys already have lots of users. I mean, I think you guys are breaking barriers. I'm hoping y 'all get to, you know, 10 million, 100 million trading volumes going up and up on outcome. Right"
+    },
+    {
+      "start": 2076.34,
+      "end": 2106.45,
+      "speaker": "SPEAKER_00",
+      "text": "now, it's mostly Bitcoin trading, but wondering how people can get involved. Today with outcome. So what would you say for them that they need to participate right now today? Maybe we can start with Infinity. There we go. And then we'll go to MIG and then GEO. Yeah, I mean, you saw even in our testnet, we were doing some great numbers there in"
+    },
+    {
+      "start": 2106.45,
+      "end": 2136.61,
+      "speaker": "SPEAKER_00",
+      "text": "terms of user acquisition. I mean, before HIP4 came out and we had to move to mainnet, we had over 200 ,000. Users in our testnet. And even in the first week, breaking over $1 million in volume was such a great feeling because to be completely honest, we didn't really focus on the volume right now or user acquisition right now because we know that we are just a front end"
+    },
+    {
+      "start": 2136.61,
+      "end": 2167.33,
+      "speaker": "SPEAKER_00",
+      "text": "right now. And our real expertise and unique selling point starts to kick in when we deploy our own card. And that's when we expected really to have a big surge in volume and user acquisition. But we see that right now, too. Now we know that that is going to be exponentially higher when we deploy our own contracts. But it's super encouraging to see that people"
+    },
+    {
+      "start": 2167.33,
+      "end": 2197.99,
+      "speaker": "SPEAKER_00",
+      "text": "are supporting us. People do like our product. You know, it feels nice to know that we are doing this. It's something right here. And how can people get involved? You know, it's super easy to use Outcome. If you are interested in prediction markets, try out our interface. I'm sure you would love it. Right now, it only has two markets, Bitcoin multi"
+    },
+    {
+      "start": 2197.99,
+      "end": 2228.66,
+      "speaker": "SPEAKER_00",
+      "text": "-outcome and Bitcoin up and down. But it's sort of. It's. It's sort of the beginning of what Outcome could really be. Give us feedback in our in our Discord or on X and we'll always try our best to make it better and better. Yeah, do join the Discord, give them lots of feedback on X. You can already trade on"
+    },
+    {
+      "start": 2228.66,
+      "end": 2258.68,
+      "speaker": "SPEAKER_00",
+      "text": "their website to Outcome .XYZ. Mig, do you want to add anything else for the folk at home that want to get involved? Yeah, I just want to highlight that we're very early here. And we, as a team, are really, really dedicated to dominating the prediction market space. Like, we really value how important prediction markets will be 10"
+    },
+    {
+      "start": 2258.68,
+      "end": 2288.78,
+      "speaker": "SPEAKER_00",
+      "text": "years, 20 years, 50 years down the line. And we are definitely trying to ensure in the background that we are one of the winning teams. Once the. settles or kind of this popularity of prediction markets kind of go to a norm there's a lot of cool features that we're working on and when we become deployers that's when the real fun starts because our contracts it is not only going to be on our"
+    },
+    {
+      "start": 2288.78,
+      "end": 2319.06,
+      "speaker": "SPEAKER_00",
+      "text": "front end but we're also going to be able to tap into hyperliquid builder codes distribution and all of these major um platforms that are already connected to hyperliquid are going to get the chance to use our contracts and once we enable large liquidity large institutions or high net worth individuals can place five figure six figure seven figure positions in"
+    },
+    {
+      "start": 2319.06,
+      "end": 2349.22,
+      "speaker": "SPEAKER_00",
+      "text": "our books and hopefully get filled that's that's what we're moving towards if you want to get started early on um we have some exciting things coming up uh so just join um and and deposit and make a couple trades we see everything nice there's a lot to unpack there by the way um i am gonna ask i don't know who's the weakest link here maybe maybe geo is the weakest link or maybe"
+    },
+    {
+      "start": 2349.22,
+      "end": 2379.36,
+      "speaker": "SPEAKER_00",
+      "text": "mig i'm not sure but i am gonna ask the points question so and i don't know if y 'all gonna answer this question at all you have to but i would just throw it out there if anybody wants to comment on some sort of outcome points in the back end that perhaps are going to lead to something maybe just stay tuned that that's all we can say just there's no points right now but just stay tuned all right that's fair that's fair um but yeah do play with"
+    },
+    {
+      "start": 2379.36,
+      "end": 2409.42,
+      "speaker": "SPEAKER_00",
+      "text": "it perhaps stay tuned there might be some points perhaps not but just enjoy it and looking forward to kind of playing with all the markets once the deploy mig you mentioned something that also i think hyperliquid is very proud of which is the builder codes and the integration with most recently trust wallet the competitor right but let's not forget phantom which i use and uh i'm gonna give a shout out to the native markets apps they they have"
+    },
+    {
+      "start": 2409.42,
+      "end": 2439.86,
+      "speaker": "SPEAKER_00",
+      "text": "one that's called markets pretty cool so there's lots of uh yeah there's ways there's a lot of apps that use builder codes so do you have any thoughts about that you anticipate people using these builder codes and perhaps phantom uh which already has a prediction markets you know partner uh as well as uh rabbi i think also has one metamask has one right so do you anticipate these uh wallets which have incredible distribution a kind of uh you"
+    },
+    {
+      "start": 2439.86,
+      "end": 2470.2,
+      "speaker": "SPEAKER_00",
+      "text": "know they already have hyper liquid perps why not hyper liquid prediction markets i think a lot of these um if they're using both hyperliquid and another kind of prediction market that's not going to be hip4 um need to tackle very big problems which is the user experience problem of splitting their their kind of funds between two different kind of blockchains or two different kind of protocols"
+    },
+    {
+      "start": 2470.2,
+      "end": 2500.8,
+      "speaker": "SPEAKER_00",
+      "text": "if hip4 is is the way that we imagine and we can deploy as many contracts and we give a similar venue to a lot of these um kind of uh traders then i think it will be second nature to switch as a lot of these guys are doing super super successful already from the hip4 builder codes i mean phantom what was it 22 million in in in in the last year that's"
+    },
+    {
+      "start": 2500.8,
+      "end": 2531.78,
+      "speaker": "SPEAKER_00",
+      "text": "pretty much the same business model for them yeah they don't do anything right like i mean a little bit of front -end work back -end work is handled by hyperliquid and free money for them so i'm sure they're happy about it yeah i'm sure they are i don't know how much they make off poly market quite frankly but but i can't believe it's going to be more than what hyperliquid offers that's just my two cents um guillo any thoughts on this any thoughts on i guess distribution once"
+    },
+    {
+      "start": 2531.78,
+      "end": 2562.28,
+      "speaker": "SPEAKER_00",
+      "text": "the markets launch right polymarket and kalshi do have some great distribution i mean all those sports games have some sort of marketing you know they have a polymarket logo or kalshi logo there how are you guys planning to get that distribution i mean obviously the hyperliquid fam is going to support you but outside hyperliquid basically yeah when we think about outcome we kind of have to think about it in two different distribution channels so obviously"
+    },
+    {
+      "start": 2562.28,
+      "end": 2592.42,
+      "speaker": "SPEAKER_00",
+      "text": "outcome .xyz is is the user -facing interface and the application right for for web and mobile so so that's where the end user will will jump on make their predictions um and then we have the other side of distribution which is us as a deployer so that that's our second business right where we want to power all of these different infrastructure that are interest infrastructures such as wallets interfaces prime brokers that are all consumer facing right um so"
+    },
+    {
+      "start": 2592.42,
+      "end": 2622.48,
+      "speaker": "SPEAKER_00",
+      "text": "we we see it kind of more of a strategic play from our side is is making sure that both of these distribution nodes are taken care of as much as possible now of course when you look at polymarket and kalshi i mean these guys raise it billions and billions of dollars so we're not there yet we're completely um bootstrapped and and we've built everything from scratch now we are planning to go super aggressive so of course it doesn't mean that we don't have anything in in our back pocket we"
+    },
+    {
+      "start": 2622.48,
+      "end": 2652.72,
+      "speaker": "SPEAKER_00",
+      "text": "are planning to go very aggressive with with many many things that that we're excited to share in the future but like mig said that it's going to be kind of a natural shift right user experience is super important for all of these wallets these wallets don't want to fragment their users attention and they don't want to over complicate things if i'm a metamask user or phantom user i i don't want to have to bridge my funds between two different platforms every single time and then take a slippage loss get some complications different interfaces"
+    },
+    {
+      "start": 2652.72,
+      "end": 2682.78,
+      "speaker": "SPEAKER_00",
+      "text": "so it kind of makes sense naturally nice looking forward to another thing that that costs much money people don't want to talk about a lot is regulations um i think it's kind of important for these prediction markets right uh kalshi being yada yada approved in the u .s how do you guys plan to tackle this kind of regulation angle for for uh prediction markets and you can share whatever you're comfortable sharing maybe mig we can start with you and then we'll"
+    },
+    {
+      "start": 2682.78,
+      "end": 2713.29,
+      "speaker": "SPEAKER_00",
+      "text": "go to gil i mean it's very early doors for us we we once we are once we are deployers obviously we are not going to be a decentralized entity and in the future you know we might go down that route we haven't kind of decided ourselves um but we're happy to be a decentralized uh kind of protocol especially uh"
+    },
+    {
+      "start": 2713.29,
+      "end": 2743.31,
+      "speaker": "SPEAKER_00",
+      "text": "the idea on how successful hyperliquid has become on just being a decentralized entity themselves and we believe in d5 as a team um but yeah we're going we we've had kind of these discussions internally quite a lot uh but at the moment it's uh what we're happy to be just a decentralized protocol uh maybe griami wants to add to that no i i think you're you're right on the money but i i think also um regulations will"
+    },
+    {
+      "start": 2743.31,
+      "end": 2773.41,
+      "speaker": "SPEAKER_00",
+      "text": "get clearer like for example the cftc is currently um fighting to make sure that prediction markets are essentially on their table right so so there's going to be a lot more clarity in the future for prediction markets we've spoken to a couple of folks and teams across the prediction market space who want to tackle the us specifically and making sure that they can grow and scale the user base in in the us that's not our target at the moment um like like mc said our focus"
+    },
+    {
+      "start": 2773.41,
+      "end": 2803.43,
+      "speaker": "SPEAKER_00",
+      "text": "more being a decentralized protocol here um but i think we'll see where regulations go on that side prediction markets are growing quite a quite rapidly so there's probably going to be more clarity on regulation um very soon yeah i hope so too as well and a pretty exciting news seeing that circle slash coinbase i think they're the same company at this point um you know it seems to me with the usdc push on hyperliquid"
+    },
+    {
+      "start": 2803.43,
+      "end": 2833.51,
+      "speaker": "SPEAKER_00",
+      "text": "plus the hyperliquid policy center all these kind of players are pretty experienced in lobbying and regulations so hopefully we get more clarity for y 'all you know for hyperliquid projects but as well for hit three deplorers hit four deployers uh in the very near future so that's good news to me agreed agreed it's very very spectacular to to be within this space to be honest like so many large institutions have"
+    },
+    {
+      "start": 2833.51,
+      "end": 2863.81,
+      "speaker": "SPEAKER_00",
+      "text": "kind of adopted um a hyperliquid kind of uh ethos and everyone is kind of joining forces and it's really really clear that there is no second best like hyperliquid has really really kind of shown that and we really want to kind of follow on that from the prediction market space and and show why certain things should just be tackled better and is tackled better people will choose you love"
+    },
+    {
+      "start": 2865.73,
+      "end": 2893.83,
+      "speaker": "SPEAKER_00",
+      "text": "it yeah everybody's so bullish i mean we started it was 42 and a half it's 43 .4 now so you know i think everybody's bullish on this news um okay let's get to some fun questions before i close the space out uh you know prediction markets offer so much creative freedom so wondering what is the weirdest market somebody asked you to do or what is the weird this market you all have seen let's start with the"
+    },
+    {
+      "start": 2893.83,
+      "end": 2923.91,
+      "speaker": "SPEAKER_00",
+      "text": "mig and then we'll go to the geo i think the weirdest one i saw on polymarket was will clavicula be the president of iran something like that which is or or be pregnant i don't know uh polymarket do really really weird uh contracts we definitely want to stay away from those type of contracts um our focus is on like the contracts that matter to people"
+    },
+    {
+      "start": 2923.91,
+      "end": 2953.95,
+      "speaker": "SPEAKER_00",
+      "text": "uh i know those contracts could be good marketing angles uh but we want the finance uh we want prediction markets to have financial meaning uh so so yeah you probably won't be seeing will clavicula get pregnant at the end of the year from us unless they use uma right they're gonna resolve that yes he was indeed pregnant because this this and that right like they make up i tell you uh geo what is the funniest one you've seen honestly it was"
+    },
+    {
+      "start": 2953.95,
+      "end": 2984.27,
+      "speaker": "SPEAKER_00",
+      "text": "that that clavicular one also i mean when we saw obviously these are more gimmicky type of contracts which we get it's great for marketing like mick said um but the the the the funniest one i saw outside of that i don't know i'm not sure i don't keep up too much with the super super niche contracts yeah some of them you know user deployed as well which is gets a little even crazier um but that's a completely different story so okay"
+    },
+    {
+      "start": 2984.27,
+      "end": 3014.37,
+      "speaker": "SPEAKER_00",
+      "text": "before we close the space out i like to you know ask y 'all where do you see outcome in a year from now and then people are going to get really excited about it and i hope that we can have as well as space in the year from now to kind of chat about everything that has been accomplished so mig go ahead man where do you see yourselves uh in a year's time wow uh it's a good question where do i see outcome in a year so honestly i i really do see us"
+    },
+    {
+      "start": 3014.37,
+      "end": 3044.58,
+      "speaker": "SPEAKER_00",
+      "text": "dominating the hip4 space similar to the way the trade team did for hip free i see us being majority of the volume majority of the market share majority of the mind share um and then also tapping into the market share of polymarket and kaoshi um as well as on top of all of that i think our platform is just going to be a no -brainer place for people who like to"
+    },
+    {
+      "start": 3044.58,
+      "end": 3075.08,
+      "speaker": "SPEAKER_00",
+      "text": "use prediction markets as we're going to add so many more features that aren't even on calcium polymarket yet we want to kind of be the innovators in the space and stay ahead of the curve um we understand the space really well and we kind of understand what the end user kind of expects so hopefully by the end of the year we've formulated everything that we've been working on for for many many months and yeah people people just love our product i'm"
+    },
+    {
+      "start": 3075.08,
+      "end": 3105.14,
+      "speaker": "SPEAKER_00",
+      "text": "excited guill go ahead man i think um outcome will will be the deploy that's just going to power a lot of different consumer -facing applications from from wallets to prime brokers to to trading interfaces and then also hopefully centralized exchanges um the the infrastructure that we're going to provide is going to be a no -brainer to be very honest so it's going to be kind"
+    },
+    {
+      "start": 3105.14,
+      "end": 3135.14,
+      "speaker": "SPEAKER_00",
+      "text": "of a natural flow of institutions moving over to not only hyperliquid but also outcomes on contracts the space itself prediction markets are still small that's why we see this sort of insane growth month on month that polymarket and koshi are doing and with what we're going to add like mig said the the features that we're going to add are essentially going to make make outcome feel like you're just using a web 2 application the"
+    },
+    {
+      "start": 3135.14,
+      "end": 3165.36,
+      "speaker": "SPEAKER_00",
+      "text": "the infrastructure in the back is going to be web 3 of course but anything that has to do with user experience is going to feel extremely familiar in web 2. so we don't only think about the hyperliquid bubble itself or the web 2 bubble by next year hopefully we will be dominating the web 2 bubble also love it and yeah i think polymarket has really achieved that by being kind of abstracted from crypto people forget the poly is for polygon although they think they're going to move to their own chain anyways on"
+    },
+    {
+      "start": 3165.36,
+      "end": 3196.24,
+      "speaker": "SPEAKER_00",
+      "text": "that note really great space i learned so much um appreciate the time that you gave us today so for the folks that joined a little later as i mentioned in the beginning the space is recorded and will be transcribed so you can listen to it if you have any questions you know time that works best for you go to outcome .xyz place some bets maybe points maybe not stay tuned we'll see uh give mig a follow give give geo a follow give their x account a follow as well leave lots of feedback in the discord anything"
+    },
+    {
+      "start": 3196.24,
+      "end": 3226.41,
+      "speaker": "SPEAKER_00",
+      "text": "else closing words mig and guillo that you want to share with the community and then they'll close the space up follow infinite ak as well right we need to get him to 2k but no yeah it's been great if anyone has questions feel free to reach out on discord we're quite active there as uh founders as well um feedback's always appreciated we try to tailor the product to to the end user so let us know if you have any feedback love"
+    },
+    {
+      "start": 3226.41,
+      "end": 3257.09,
+      "speaker": "SPEAKER_00",
+      "text": "it guill honestly just excited to build alongside our community grow our community and then make sure that we take hyp4 and hyperliquids to the next level thank you for having us it's been super fun no thank you you thanks everybody for tuning in as well thank you yes thank you um and enjoy the rest of your day on this beautiful green day hyper liquid as we say thanks everybody thank you"
+    }
+  ],
+  "speaker_map": {}
+}

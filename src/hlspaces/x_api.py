@@ -62,7 +62,7 @@ def fetch_space_metadata(space_id: str) -> SpaceMetadata:
     speaker_ids = set(str(s) for s in (space.speaker_ids or []))
     creator_id = str(space.creator_id) if space.creator_id else None
 
-    participants: list[Participant] = []
+    participants: list[dict] = []
     host_username = None
     for uid, info in users_by_id.items():
         if uid in host_ids:
@@ -75,12 +75,12 @@ def fetch_space_metadata(space_id: str) -> SpaceMetadata:
             role = "creator"
         else:
             role = "participant"
-        participants.append(Participant(
-            user_id=uid,
-            username=info["username"],
-            display_name=info["name"],
-            role=role,
-        ))
+        participants.append({
+            "name": info["name"] or info["username"],
+            "handle": info["username"],
+            "team": None,
+            "role": "host" if role == "host" else "guest",
+        })
 
     return SpaceMetadata(
         space_id=space_id,

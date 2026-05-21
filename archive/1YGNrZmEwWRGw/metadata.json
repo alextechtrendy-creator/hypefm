@@ -1,0 +1,90 @@
+{
+  "space_id": "1YGNrZmEwWRGw",
+  "title": "Prediction Markets on Hyperliquid powered by Outcome",
+  "state": "ended",
+  "created_at": "2026-05-13T18:26:44Z",
+  "started_at": "2026-05-14T16:00:04Z",
+  "ended_at": "2026-05-14T16:54:33Z",
+  "scheduled_start": "2026-05-14T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 187,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "MIG | Outcome",
+      "handle": "OutcomeMiG",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Gyomei",
+      "handle": "IamGyomei",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "OutcomeAK",
+      "handle": "OutcomeAK",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YGNrZmEwWRGw",
+  "summary_title": "Outcome's decentralized resolution and unified margin reshape prediction markets on Hyperliquid",
+  "summary_description": "Prediction market builders share how data-driven resolution and portfolio margin solve core problems Polymarket and Kalshi miss.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 342,
+      "label": "Outcome co-founders introduce prediction market vision"
+    },
+    {
+      "timestamp_seconds": 554,
+      "label": "Why they chose Hyperliquid over dYdX in 2023"
+    },
+    {
+      "timestamp_seconds": 706,
+      "label": "Two core gaps they identified in Polymarket and Kalshi"
+    },
+    {
+      "timestamp_seconds": 920,
+      "label": "Decentralized, data-driven resolution mechanism explained"
+    },
+    {
+      "timestamp_seconds": 1073,
+      "label": "How API-connected data feeds resolve contracts autonomously"
+    },
+    {
+      "timestamp_seconds": 1439,
+      "label": "1,500 markets ready to deploy across all categories"
+    },
+    {
+      "timestamp_seconds": 1895,
+      "label": "Hedging strategies enabled by unified margin"
+    },
+    {
+      "timestamp_seconds": 2258,
+      "label": "Builder code distribution and institutional market-making plans"
+    }
+  ],
+  "pull_quote": "1500 prediction markets ready to deploy on Hyperliquid",
+"quote_attribution": {
+    "name": "AK",
+    "team": "Outcome",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3258.1333125,
+  "capture_failure_reason": null
+}
