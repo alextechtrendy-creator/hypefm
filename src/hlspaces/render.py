@@ -86,7 +86,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>{title} - hype.fm</title>
+<title>{title} - hypefm</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root {{
@@ -248,7 +248,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 <body>
 <div class="container">
 
-<a href="../../index.html" class="back">&larr; back to hype.fm</a>
+<a href="../../index.html" class="back">&larr; back to hypefm</a>
 
 <h1>{title}</h1>
 {description_html}
@@ -264,7 +264,7 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 {transcript_section}
 
 <div class="footer">
-  <a href="../../index.html">hype.fm</a> &nbsp;&middot;&nbsp;
+  <a href="../../index.html">hypefm</a> &nbsp;&middot;&nbsp;
   <a href="{space_url}" target="_blank" rel="noopener">view on X</a>
 </div>
 
