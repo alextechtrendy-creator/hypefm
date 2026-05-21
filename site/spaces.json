@@ -20,6 +20,13 @@
         "team": "Hyperbeet",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "Hyperbeet",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -55,6 +62,13 @@
         "name": "Chuck",
         "team": "Dexari",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Dexari",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -110,6 +124,7 @@
         "team": null,
         "role": "guest"
       },
+      "team_info": null,
       "participants": [
         {
           "name": "PBR",
@@ -164,6 +179,13 @@
         "team": "HyperFlash",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "HyperFlash",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -206,6 +228,7 @@
         "team": null,
         "role": "developer"
       },
+      "team_info": null,
       "participants": [
         {
           "name": "Zerk",
@@ -241,6 +264,13 @@
         "name": "Omnia",
         "team": "Kinetic",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Kinetic",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -289,6 +319,13 @@
         "name": "Jeff",
         "team": "Hyperliquid",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Hyperliquid",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -350,6 +387,13 @@
         "team": "Cypher",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "Cypher",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -392,6 +436,13 @@
         "team": "Hyperliquid",
         "role": "founder"
       },
+      "team_info": {
+        "name": "Hyperliquid",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Circa",
@@ -433,6 +484,13 @@
         "name": "Zerk",
         "team": "Brecking",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Brecking",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -482,6 +540,13 @@
         "team": "OptFun",
         "role": "chief degen trader"
       },
+      "team_info": {
+        "name": "OptFun",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -523,6 +588,13 @@
         "name": "Ivan",
         "team": "Things",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Things",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -566,6 +638,13 @@
         "team": "Felix Protocol",
         "role": "core contributor"
       },
+      "team_info": {
+        "name": "Felix Protocol",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -601,6 +680,13 @@
         "name": "Ali",
         "team": "Volantis",
         "role": "head of growth"
+      },
+      "team_info": {
+        "name": "Volantis",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -650,6 +736,13 @@
         "team": "TopDog",
         "role": null
       },
+      "team_info": {
+        "name": "TopDog",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "rekt_gang",
@@ -686,6 +779,13 @@
         "team": "Paragon",
         "role": "founder"
       },
+      "team_info": {
+        "name": "Paragon",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -721,6 +821,13 @@
         "name": "Mike",
         "team": "Elora Labs",
         "role": "head of go-to-market"
+      },
+      "team_info": {
+        "name": "Elora Labs",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -764,6 +871,13 @@
         "team": "Pair Protocol",
         "role": "founder"
       },
+      "team_info": {
+        "name": "Pair Protocol",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -805,6 +919,13 @@
         "name": "Catball",
         "team": "Catball",
         "role": "founder"
+      },
+      "team_info": {
+        "name": "Catball",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -848,6 +969,7 @@
         "team": null,
         "role": "artist, developer"
       },
+      "team_info": null,
       "participants": [
         {
           "name": "rekt_gang",
@@ -908,6 +1030,13 @@
         "team": "Hydromancer",
         "role": "founder"
       },
+      "team_info": {
+        "name": "Hydromancer",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": "Data infrastructure layer for Hyperliquid"
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -944,6 +1073,13 @@
         "team": "Neurovolts",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "Neurovolts",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -979,6 +1115,13 @@
         "name": "AK",
         "team": "Outcome",
         "role": null
+      },
+      "team_info": {
+        "name": "Outcome",
+        "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/outcome.jpg",
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -1028,6 +1171,13 @@
         "team": "Bounce Tech",
         "role": null
       },
+      "team_info": {
+        "name": "Bounce Tech",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -1070,6 +1220,13 @@
         "team": "Sentiment",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "Sentiment",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -1106,6 +1263,13 @@
         "team": "Volantis",
         "role": "head of growth"
       },
+      "team_info": {
+        "name": "Volantis",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "Zerk",
@@ -1141,6 +1305,13 @@
         "name": "Rune",
         "team": "Sky",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Sky",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -1183,6 +1354,13 @@
         "name": "Noms",
         "team": "PVP.trade",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "PVP.trade",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {
@@ -1244,6 +1422,7 @@
         "team": null,
         "role": "host"
       },
+      "team_info": null,
       "participants": [
         {
           "name": "rekt_gang",
@@ -1304,6 +1483,13 @@
         "team": "Nest Wallet",
         "role": null
       },
+      "team_info": {
+        "name": "Nest Wallet",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "rekt_gang",
@@ -1346,6 +1532,13 @@
         "team": "KittenSwap",
         "role": "co-founder"
       },
+      "team_info": {
+        "name": "KittenSwap",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
+      },
       "participants": [
         {
           "name": "rekt_gang",
@@ -1387,6 +1580,13 @@
         "name": "Ness",
         "team": "Hyperland",
         "role": "co-founder"
+      },
+      "team_info": {
+        "name": "Hyperland",
+        "logo": null,
+        "x_handle": null,
+        "website": null,
+        "description": null
       },
       "participants": [
         {

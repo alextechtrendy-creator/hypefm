@@ -1,11 +1,4 @@
-"""Build site/spaces.json from the archive/ folder.
-
-Scans every archive entry and produces a single JSON file the homepage
-reads at load time. Includes full transcripts for in-browser search.
-
-Run from project root:
-    python scripts/build_manifest.py
-"""
+"""Build site/spaces.json from the archive folder, merging in teams.json data."""
 from __future__ import annotations
 
 import json
@@ -13,52 +6,76 @@ import shutil
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-ARCHIVE_DIR = ROOT / "archive"
-SITE_DIR = ROOT / "site"
+
+ROOT = Path(__file__).parent.parent
+ARCHIVE = ROOT / "archive"
+TEAMS_FILE = ROOT / "teams.json"
+SITE = ROOT / "site"
+SITE_ARCHIVE = SITE / "archive"
+SPACES_JSON = SITE / "spaces.json"
 
 
-def _safe_load_json(path: Path) -> dict | None:
+def load_teams() -> dict:
+    if not TEAMS_FILE.exists():
+        return {}
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        return json.loads(TEAMS_FILE.read_text(encoding="utf-8"))
     except Exception as e:
-        print(f"  warn: could not read {path.name}: {e}", file=sys.stderr)
-        return None
+        print(f"warn: could not parse teams.json: {e}")
+        return {}
 
 
-def _flatten_transcript(transcript_data: dict) -> str:
-    chunks = transcript_data.get("chunks", [])
-    return " ".join(c.get("text", "") for c in chunks)
-
-
-def build() -> None:
-    if not ARCHIVE_DIR.exists():
-        print(f"No archive/ directory at {ARCHIVE_DIR}", file=sys.stderr)
+def main():
+    if not ARCHIVE.exists():
+        print(f"archive directory not found: {ARCHIVE}")
         sys.exit(1)
 
-    SITE_DIR.mkdir(exist_ok=True)
-    spaces = []
-
-    entry_dirs = sorted(d for d in ARCHIVE_DIR.iterdir() if d.is_dir())
+    teams = load_teams()
+    entry_dirs = sorted([d for d in ARCHIVE.iterdir() if d.is_dir()])
     print(f"Scanning {len(entry_dirs)} archive entries...")
 
+    spaces = []
     for entry_dir in entry_dirs:
         meta_path = entry_dir / "metadata.json"
         transcript_path = entry_dir / "transcript.json"
-
         if not meta_path.exists():
-            print(f"  skip {entry_dir.name}: no metadata.json")
             continue
 
-        meta = _safe_load_json(meta_path)
-        if not meta:
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"  warn: could not read metadata.json: {e}")
             continue
 
         transcript_text = ""
         if transcript_path.exists():
-            transcript = _safe_load_json(transcript_path)
-            if transcript:
-                transcript_text = _flatten_transcript(transcript)
+            try:
+                transcript = json.loads(transcript_path.read_text(encoding="utf-8"))
+                transcript_text = " ".join(c.get("text", "") for c in transcript.get("chunks", []))
+            except Exception:
+                pass
+
+        team_info = None
+        attr = meta.get("quote_attribution")
+        if attr and attr.get("team"):
+            team_name = attr["team"]
+            t = teams.get(team_name)
+            if t:
+                team_info = {
+                    "name": team_name,
+                    "logo": t.get("logo"),
+                    "x_handle": t.get("x_handle"),
+                    "website": t.get("website"),
+                    "description": t.get("description"),
+                }
+            else:
+                team_info = {
+                    "name": team_name,
+                    "logo": None,
+                    "x_handle": None,
+                    "website": None,
+                    "description": None,
+                }
 
         spaces.append({
             "id": meta.get("space_id"),
@@ -72,27 +89,22 @@ def build() -> None:
             "url": meta.get("space_url"),
             "quote": meta.get("pull_quote"),
             "quote_attribution": meta.get("quote_attribution"),
+            "team_info": team_info,
             "participants": meta.get("participants", []),
             "_transcript": transcript_text,
         })
 
-    output = {"spaces": spaces}
-    out_path = SITE_DIR / "spaces.json"
-    out_path.write_text(json.dumps(output, indent=2, default=str), encoding="utf-8")
+    SPACES_JSON.parent.mkdir(parents=True, exist_ok=True)
+    SPACES_JSON.write_text(json.dumps({"spaces": spaces}, indent=2), encoding="utf-8")
+    print(f"\u2713 Wrote {SPACES_JSON} with {len(spaces)} spaces")
 
-    site_archive = SITE_DIR / "archive"
-    if site_archive.exists():
-        shutil.rmtree(site_archive)
-    shutil.copytree(ARCHIVE_DIR, site_archive)
-
-    total_size_mb = sum(
-        f.stat().st_size for f in site_archive.rglob("*") if f.is_file()
-    ) / 1024 / 1024
-
-    print(f"\n✓ Wrote {out_path} with {len(spaces)} spaces")
-    print(f"✓ Mirrored archive to {site_archive} ({total_size_mb:.1f} MB)")
-    print(f"\nNext: deploy the site/ folder to Vercel.")
+    if SITE_ARCHIVE.exists():
+        shutil.rmtree(SITE_ARCHIVE)
+    shutil.copytree(ARCHIVE, SITE_ARCHIVE)
+    size_mb = sum(f.stat().st_size for f in SITE_ARCHIVE.rglob("*")) / (1024 * 1024)
+    print(f"\u2713 Mirrored archive to {SITE_ARCHIVE} ({size_mb:.1f} MB)")
+    print(f"Next: deploy the site/ folder to Vercel.")
 
 
 if __name__ == "__main__":
-    build()
+    main()

@@ -7,18 +7,21 @@
 <meta name="description" content="A community archive of X Spaces about Hyperliquid. Audio, transcripts, key moments, fully searchable.">
 <style>
   :root {
-    --bg: #fafaf7;
-    --bg-card: #ffffff;
-    --fg: #222;
-    --fg-muted: #777;
-    --fg-faint: #999;
-    --accent: #0d6856;
+    --bg: #0a1612;
+    --bg-card: #14241f;
+    --bg-team: #1c2e28;
+    --fg: #fafaf7;
+    --fg-muted: rgba(250,250,247,0.65);
+    --fg-faint: rgba(250,250,247,0.5);
+    --accent: #97FCE4;
     --accent-light: #97FCE4;
-    --accent-bg: rgba(13, 104, 86, 0.1);
-    --quote-bg: #043b30;
-    --quote-fg: #fafaf7;
-    --border: #d4d2c5;
-    --border-light: #e5e5e0;
+    --accent-bg: rgba(151, 252, 228, 0.12);
+    --quote-color: #97FCE4;
+    --logo-bg: #97FCE4;
+    --logo-fg: #043b30;
+    --border: #2a3d36;
+    --border-light: #2a3d36;
+    --team-strip-border: #2a3d36;
   }
   * { box-sizing: border-box; }
   body {
@@ -33,35 +36,27 @@
     border-bottom: 1px solid var(--border-light);
     display: flex; align-items: baseline; justify-content: space-between;
   }
-  h1 {
-    font-size: 16px; font-weight: 500; margin: 0; letter-spacing: -0.01em;
-  }
+  h1 { font-size: 16px; font-weight: 500; margin: 0; letter-spacing: -0.01em; }
   .tagline { font-size: 11px; color: var(--fg-faint); font-weight: 400; margin-left: 4px; }
   .count { font-size: 11px; color: var(--accent); font-weight: 500; margin: 0; }
   .search-wrap { margin-bottom: 0.75rem; }
   #search {
     width: 100%; padding: 9px 13px;
-    background: white; border: 1px solid var(--border);
+    background: var(--bg-card); border: 1px solid var(--border);
     border-radius: 4px; color: var(--fg);
     font-size: 12px; font-family: inherit; outline: none;
   }
   #search:focus { border-color: var(--accent); }
   #search::placeholder { color: var(--fg-faint); }
-  .active-filter {
-    display: flex; gap: 8px; align-items: center;
-    margin-bottom: 0.75rem; font-size: 11px;
-  }
+  .active-filter { display: flex; gap: 8px; align-items: center; margin-bottom: 0.75rem; font-size: 11px; }
   .active-filter-label { color: var(--fg-muted); text-transform: uppercase; letter-spacing: 0.05em; }
   .active-filter-pill {
-    background: var(--accent); color: white; font-weight: 500;
+    background: var(--accent); color: var(--bg); font-weight: 500;
     padding: 3px 10px; border-radius: 12px;
     display: inline-flex; align-items: center; gap: 6px;
     cursor: pointer; font-size: 11px; border: none; font-family: inherit;
   }
-  .filters {
-    font-size: 11px; color: var(--fg-muted);
-    margin-bottom: 1.5rem; line-height: 1.9;
-  }
+  .filters { font-size: 11px; color: var(--fg-muted); margin-bottom: 1.5rem; line-height: 1.9; }
   .chip {
     background: none; border: none; padding: 0;
     font-family: inherit; font-size: 11px; color: var(--fg-muted);
@@ -69,78 +64,51 @@
   }
   .chip:hover { color: var(--fg); }
   .chip.active { color: var(--accent); font-weight: 500; }
-  .chip-sep { color: #ddd; margin: 0 5px; }
+  .chip-sep { color: var(--border-light); margin: 0 5px; }
   .results { display: flex; flex-direction: column; gap: 16px; }
   .entry {
-    text-decoration: none; color: inherit; display: block;
+    text-decoration: none; color: inherit;
     background: var(--bg-card); border: 1px solid var(--border);
     border-radius: 10px; overflow: hidden;
+    display: flex; min-height: 200px;
     transition: border-color 0.1s;
   }
   .entry:hover { border-color: var(--accent); }
-  .entry-thumb {
-    background: var(--quote-bg);
-    padding: 28px 24px;
-    min-height: 150px;
+  .entry-team-strip {
+    flex: 0 0 140px; background: var(--bg-team);
+    border-right: 1px solid var(--team-strip-border);
+    padding: 22px 18px;
     display: flex; flex-direction: column;
-    justify-content: center; gap: 18px;
+    align-items: center; justify-content: center; gap: 12px;
   }
-  .entry-thumb-quote {
-    font-family: Georgia, serif;
-    font-style: italic;
-    font-size: 19px;
-    color: var(--quote-fg);
-    line-height: 1.3;
-    margin: 0;
-    font-weight: 500;
+  .entry-team-logo {
+    width: 72px; height: 72px; border-radius: 12px;
+    background: var(--logo-bg);
+    display: flex; align-items: center; justify-content: center;
+    font-family: Georgia, serif; font-weight: 700;
+    font-size: 30px; color: var(--logo-fg);
+    overflow: hidden;
   }
-  .entry-thumb-fallback {
-    font-family: Georgia, serif;
-    font-style: italic;
-    font-size: 18px;
-    color: rgba(250, 250, 247, 0.7);
-    line-height: 1.4;
-    margin: 0;
+  .entry-team-logo img { width: 100%; height: 100%; object-fit: cover; }
+  .entry-team-name {
+    color: var(--accent); font-weight: 600; font-size: 13px;
+    margin: 0; text-align: center; line-height: 1.3;
   }
-  .byline {
-    display: flex; align-items: baseline; gap: 8px;
-    flex-wrap: wrap;
-    font-size: 13px; line-height: 1.4;
-    border-top: 1px solid rgba(151, 252, 228, 0.18);
-    padding-top: 14px;
+  .entry-body {
+    flex: 1; padding: 22px;
+    display: flex; flex-direction: column; justify-content: space-between;
   }
-  .byline-name { color: var(--quote-fg); font-weight: 600; }
-  .byline-role { color: rgba(151, 252, 228, 0.85); font-size: 12px; }
-  .byline-sep { color: rgba(151, 252, 228, 0.4); }
-  .byline-team {
-    display: inline-flex; align-items: center;
-    background: rgba(151, 252, 228, 0.12);
-    border: 1px solid rgba(151, 252, 228, 0.3);
-    color: var(--accent-light); font-weight: 500;
-    padding: 3px 10px; border-radius: 12px;
-    text-decoration: none; font-size: 12px;
-    cursor: pointer; font-family: inherit;
-    transition: background 0.1s;
+  .entry-quote {
+    font-family: Georgia, serif; font-style: italic;
+    color: var(--quote-color); font-weight: 500;
+    font-size: 17px; line-height: 1.4;
+    margin: 0 0 14px; padding: 0 0 14px;
+    border-bottom: 1px solid var(--accent-light);
   }
-  .byline-team:hover {
-    background: rgba(151, 252, 228, 0.22);
-    border-color: rgba(151, 252, 228, 0.5);
-  }
-  .entry-body { padding: 14px 18px 16px; }
-  .entry-title {
-    font-size: 17px; font-weight: 500;
-    margin: 0; line-height: 1.3; letter-spacing: -0.01em;
-    color: var(--fg);
-  }
+  .entry-title { font-size: 17px; font-weight: 500; margin: 0; line-height: 1.4; letter-spacing: -0.01em; color: var(--fg); }
   .entry:hover .entry-title { color: var(--accent); }
-  .entry-desc {
-    font-size: 12px; color: var(--fg-muted);
-    margin: 8px 0 0; line-height: 1.5;
-  }
-  .entry-meta {
-    font-size: 11px; color: #888;
-    margin: 10px 0 0;
-  }
+  .entry-desc { font-size: 12px; color: var(--fg-muted); margin: 10px 0 0; line-height: 1.5; }
+  .entry-meta { font-size: 11px; color: var(--fg-muted); margin: 12px 0 0; }
   .entry-meta .tag {
     color: var(--accent); font-weight: 500;
     cursor: pointer; background: none; border: none; padding: 0;
@@ -161,11 +129,18 @@
   }
   footer a { color: var(--fg-muted); text-decoration: none; }
   footer a:hover { color: var(--accent); }
-  @media (max-width: 600px) {
-    .entry-thumb { padding: 22px 18px; min-height: 120px; gap: 14px; }
-    .entry-thumb-quote { font-size: 16px; }
+  @media (max-width: 700px) {
+    .entry { flex-direction: column; min-height: 0; }
+    .entry-team-strip {
+      flex: 0 0 auto; border-right: 0;
+      border-bottom: 1px solid var(--team-strip-border);
+      flex-direction: row; gap: 14px; justify-content: flex-start;
+      padding: 14px 18px;
+    }
+    .entry-team-logo { width: 56px; height: 56px; font-size: 22px; }
+    .entry-team-name { font-size: 13px; }
+    .entry-quote { font-size: 15px; }
     .entry-title { font-size: 15px; }
-    .byline { font-size: 12px; padding-top: 10px; }
   }
 </style>
 </head>
@@ -182,9 +157,7 @@
 </div>
 
 <div id="active-filters"></div>
-
 <div class="filters" id="filters"></div>
-
 <div class="results" id="results"></div>
 
 <footer>
@@ -206,7 +179,6 @@
     count: document.getElementById('count'),
   };
 
-  // Read URL params on load
   const params = new URLSearchParams(window.location.search);
   if (params.get('tag')) state.activeTag = params.get('tag');
   if (params.get('team')) state.activeTeam = params.get('team');
@@ -309,56 +281,54 @@
     }
     els.results.innerHTML = filtered.map(s => {
       const sn = state.query ? snippet(s._transcript, state.query) : null;
-      const meta = [];
-      if (s.host) meta.push('@' + esc(s.host));
-      if (s.date) meta.push(esc(fmtDate(s.date)));
-      if (s.duration) meta.push(esc(fmtDuration(s.duration)));
+      const metaParts = [];
+      if (s.host) metaParts.push('@' + esc(s.host));
+      if (s.date) metaParts.push(esc(fmtDate(s.date)));
+      if (s.duration) metaParts.push(esc(fmtDuration(s.duration)));
       if (s.tags && s.tags.length) {
         const tagButtons = s.tags.map(t => `<button class="tag" data-tag="${esc(t)}">${esc(t)}</button>`).join(', ');
-        meta.push(tagButtons);
+        metaParts.push(tagButtons);
       }
-      if (!s.audio) meta.push('transcript only');
+      if (!s.audio) metaParts.push('transcript only');
 
-      // Quote panel content
-      let thumbContent;
-      if (s.quote) {
-        thumbContent = `<p class="entry-thumb-quote">"${esc(s.quote)}"</p>`;
-        const attr = s.quote_attribution;
-        if (attr && attr.name) {
-          const parts = [`<span class="byline-name">${esc(attr.name)}</span>`];
-          if (attr.role) parts.push(`<span class="byline-role">${esc(attr.role)}</span>`);
-          if (attr.team) {
-            parts.push('<span class="byline-sep">·</span>');
-            parts.push(`<button class="byline-team" data-team="${esc(attr.team)}">${esc(attr.team)}</button>`);
-          }
-          thumbContent += `<div class="byline">${parts.join('')}</div>`;
-        }
+      let teamStripHtml;
+      const team = s.team_info;
+      if (team) {
+        const logoContent = team.logo
+          ? `<img src="${esc(team.logo)}" alt="${esc(team.name)}">`
+          : esc((team.name || '?').slice(0, 1).toUpperCase());
+        teamStripHtml = `
+          <div class="entry-team-strip">
+            <div class="entry-team-logo">${logoContent}</div>
+            <p class="entry-team-name">${esc(team.name)}</p>
+          </div>`;
       } else {
-        thumbContent = `<p class="entry-thumb-fallback">${esc(s.description || s.title || '')}</p>`;
+        const hostName = s.host || '?';
+        const initial = hostName.slice(0, 1).toUpperCase();
+        teamStripHtml = `
+          <div class="entry-team-strip">
+            <div class="entry-team-logo">${esc(initial)}</div>
+            <p class="entry-team-name">@${esc(hostName)}</p>
+          </div>`;
       }
+
+      const quoteHtml = s.quote ? `<p class="entry-quote">"${esc(s.quote)}"</p>` : '';
 
       return `
         <a class="entry" href="archive/${encodeURIComponent(s.id)}/index.html">
-          <div class="entry-thumb">${thumbContent}</div>
+          ${teamStripHtml}
           <div class="entry-body">
-            <p class="entry-title">${state.query ? hl(s.title || 'untitled', state.query) : esc(s.title || 'untitled')}</p>
-            ${s.description ? `<p class="entry-desc">${state.query ? hl(s.description, state.query) : esc(s.description)}</p>` : ''}
-            <p class="entry-meta">${meta.join(' · ')}</p>
-            ${sn ? `<div class="snippet">${hl(sn, state.query)}</div>` : ''}
+            <div>
+              ${quoteHtml}
+              <p class="entry-title">${state.query ? hl(s.title || 'untitled', state.query) : esc(s.title || 'untitled')}</p>
+              ${s.description ? `<p class="entry-desc">${state.query ? hl(s.description, state.query) : esc(s.description)}</p>` : ''}
+              ${sn ? `<div class="snippet">${hl(sn, state.query)}</div>` : ''}
+            </div>
+            <p class="entry-meta">${metaParts.join(' · ')}</p>
           </div>
         </a>`;
     }).join('');
 
-    // Wire up team pill clicks (stop propagation so clicking team doesn't open the card)
-    els.results.querySelectorAll('.byline-team').forEach(btn => {
-      btn.addEventListener('click', e => {
-        e.preventDefault();
-        e.stopPropagation();
-        state.activeTeam = btn.dataset.team;
-        renderAll();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-    });
     els.results.querySelectorAll('.tag').forEach(btn => {
       btn.addEventListener('click', e => {
         e.preventDefault();
