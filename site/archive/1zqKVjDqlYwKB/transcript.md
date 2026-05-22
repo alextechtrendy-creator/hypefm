@@ -1,9 +1,9 @@
-# Hyperland brings portfolio margin to Hyperliquid EVM with yield-bearing perps
+# HyperLend brings portfolio margin to Hyperliquid EVM with yield-bearing perps
 
 _New lending protocol enables collateralized perpetuals, 50-60% looping yields, and tokenized strategies on Hyper EVM._
 
 > We're going to be that banking infrastructure on the EVM side. Think of it as Hyperliquid being Robinhood, and we're Chase.
-> — Ness, Hyperland
+> — Ness, HyperLend
 
 **Host:** @rekt_gang
 **Date:** 2025-04-03
@@ -14,14 +14,14 @@ _New lending protocol enables collateralized perpetuals, 50-60% looping yields, 
 ## Who's talking
 
 - **Zerk** (@rekt_gang) — RETGANG _host_
-- **Ness** — Hyperland _guest_
+- **Ness** — HyperLend _guest_
 - **PBR** _guest_
 
 ## Key moments
 
-- **[6:58]** Ness introduces Hyperland as first lending protocol on Hyper EVM
+- **[6:58]** Ness introduces HyperLend as first lending protocol on Hyper EVM
 - **[9:59]** Vision: collateralize HLP vault, enable BTC/ETH as collateral for perp trades
-- **[12:30]** Hyperland already live on mainnet with 30M TVL cap, lending and borrowing HYPE
+- **[12:30]** HyperLend already live on mainnet with 30M TVL cap, lending and borrowing HYPE
 - **[15:00]** Long-term goal: portfolio margin infrastructure, positioning as DeFi banking layer
 - **[23:35]** Precompiles unlock yield-bearing perpetuals: deposit perps as collateral, borrow against pnl
 - **[34:41]** Looping strategies projected to generate 50-60% yield on stablecoins or volatile assets

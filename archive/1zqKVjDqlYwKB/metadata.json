@@ -20,7 +20,7 @@
     {
       "name": "Ness",
       "handle": null,
-      "team": "Hyperland",
+      "team": "HyperLend",
       "role": "guest"
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1zqKVjDqlYwKB",
-  "summary_title": "Hyperland brings portfolio margin to Hyperliquid EVM with yield-bearing perps",
+  "summary_title": "HyperLend brings portfolio margin to Hyperliquid EVM with yield-bearing perps",
   "summary_description": "New lending protocol enables collateralized perpetuals, 50-60% looping yields, and tokenized strategies on Hyper EVM.",
   "topic_tags": [
     "infrastructure",
@@ -41,7 +41,7 @@
   "key_moments": [
     {
       "timestamp_seconds": 418,
-      "label": "Ness introduces Hyperland as first lending protocol on Hyper EVM"
+      "label": "Ness introduces HyperLend as first lending protocol on Hyper EVM"
     },
     {
       "timestamp_seconds": 599,
@@ -49,7 +49,7 @@
     },
     {
       "timestamp_seconds": 750,
-      "label": "Hyperland already live on mainnet with 30M TVL cap, lending and borrowing HYPE"
+      "label": "HyperLend already live on mainnet with 30M TVL cap, lending and borrowing HYPE"
     },
     {
       "timestamp_seconds": 900,
@@ -75,7 +75,7 @@
   "pull_quote": "We're going to be that banking infrastructure on the EVM side. Think of it as Hyperliquid being Robinhood, and we're Chase.",
   "quote_attribution": {
     "name": "Ness",
-    "team": "Hyperland",
+    "team": "HyperLend",
     "role": "co-founder"
   },
   "audio_captured": true,

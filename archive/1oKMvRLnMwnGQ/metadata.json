@@ -26,7 +26,7 @@
     {
       "name": "Mike",
       "handle": null,
-      "team": "Elora Labs",
+      "team": "Alora Labs",
       "role": "guest"
     }
   ],
@@ -45,7 +45,7 @@
     },
     {
       "timestamp_seconds": 612,
-      "label": "Mike explains Elora's predictive AI network and accuracy limits"
+      "label": "Mike explains Alora's predictive AI network and accuracy limits"
     },
     {
       "timestamp_seconds": 854,
@@ -71,7 +71,7 @@
   "pull_quote": "52% directional accuracy is already beating 80% of traders who actually lose money most of the time",
   "quote_attribution": {
     "name": "Mike",
-    "team": "Elora Labs",
+    "team": "RoboNet",
     "role": "head of go-to-market"
   },
   "audio_captured": true,

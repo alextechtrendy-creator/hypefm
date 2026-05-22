@@ -20,13 +20,13 @@
     {
       "name": "800",
       "handle": null,
-      "team": "Hyperbeet",
+      "team": "HyperBeat",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1aJbdbokQwRKX",
   "summary_title": "Liquid banking on Hyperliquid: spending crypto without selling it",
-  "summary_description": "How Hyperbeet built non-custodial spending, credit, and trading in one account across eight currencies.",
+  "summary_description": "How HyperBeat built non-custodial spending, credit, and trading in one account across eight currencies.",
   "topic_tags": [
     "ecosystem",
     "trading",
@@ -35,7 +35,7 @@
   "key_moments": [
     {
       "timestamp_seconds": 417,
-      "label": "Hyperbeet origins: from losing money to building vaults"
+      "label": "HyperBeat origins: from losing money to building vaults"
     },
     {
       "timestamp_seconds": 478,
@@ -69,7 +69,7 @@
   "pull_quote": "Rich people don't sell their assets they just borrow against it—now easily accessible to normal people",
   "quote_attribution": {
     "name": "800",
-    "team": "Hyperbeet",
+    "team": "HyperBeat",
     "role": "co-founder"
   },
   "audio_captured": true,

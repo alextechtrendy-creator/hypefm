@@ -1,6 +1,6 @@
 # Cosmos collapse, HyperLiquid drama, and why execution beats announcements
 
-_Cosmos extracted its users. HyperBeat-Kinetic tension. Why the best teams stay silent and ship._
+_Cosmos extracted its users. HyperBeat-Kinetiq tension. Why the best teams stay silent and ship._
 
 > If they're not going to build something good enough on Hyper EVM, we're just going to build it better on Hyper Core. And that'll be that.
 > — PBR
@@ -23,7 +23,7 @@ _Cosmos extracted its users. HyperBeat-Kinetic tension. Why the best teams stay 
 
 - **[2:09]** Cosmos ecosystem: years of profits that should have been taken
 - **[3:40]** Trading pre-IPO stocks like SpaceX on Hyperliquid; positions still open
-- **[6:43]** HyperBeat-Kinetic drama: promises vs. execution on point rewards
+- **[6:43]** HyperBeat-Kinetiq drama: promises vs. execution on point rewards
 - **[9:46]** Drop protocol farmed users for a year, then shut down without sharing gains
 - **[11:16]** HyperEVM: same boring shit as every other chain, same boring results
 - **[37:05]** Cosmos Hub creator Jaquan forking to build Atone; destroying what he created

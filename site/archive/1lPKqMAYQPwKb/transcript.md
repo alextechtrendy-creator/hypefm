@@ -3,7 +3,7 @@
 _Hyperblades is launching a lending platform, NFT marketplace, raffle-based launchpad, and play-to-earn game on Hyperliquid._
 
 > Lending is to get more hype, like if somebody needs hype as collateral or wants to admit more NFTs, they can offer their NFT as collateral.
-> — Zerk, Brecking
+> — Zerk, HyperBlades
 
 **Host:** @rekt_gang
 **Date:** 2025-04-17
@@ -15,7 +15,7 @@ _Hyperblades is launching a lending platform, NFT marketplace, raffle-based laun
 
 - **rekt_gang** (@rekt_gang) _host_
 - **Frank** — Hyperblades _guest_
-- **Zerk** — Brecking _guest_
+- **Zerk** — HyperBlades _guest_
 - **Pedro** _guest_
 
 ## Key moments

@@ -20,24 +20,24 @@
     {
       "name": "Ali",
       "handle": null,
-      "team": "Volantis",
+      "team": "Valantis",
       "role": "guest"
     },
     {
       "name": "Dave",
       "handle": null,
-      "team": "Volantis",
+      "team": "Valantis",
       "role": "guest"
     },
     {
       "name": "Matt",
       "handle": null,
-      "team": "Volantis",
+      "team": "Valantis",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1nAKEgaXVXnJL",
-  "summary_title": "Volantis builds 8% yield vaults on Hyperliquid's LST ecosystem",
+  "summary_title": "Valantis builds 8% yield vaults on Hyperliquid's LST ecosystem",
   "summary_description": "Embedded liquidity protocols capturing arbitrage and enabling leverage on Hyperliquid's most efficient yield strategies.",
   "topic_tags": [
     "vaults",
@@ -47,7 +47,7 @@
   "key_moments": [
     {
       "timestamp_seconds": 388,
-      "label": "Volantis team intro: Ali (head of growth), Dave (co-founder), Matt"
+      "label": "Valantis team intro: Ali (head of growth), Dave (co-founder), Matt"
     },
     {
       "timestamp_seconds": 450,
@@ -63,7 +63,7 @@
     },
     {
       "timestamp_seconds": 1570,
-      "label": "Volantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes"
+      "label": "Valantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes"
     },
     {
       "timestamp_seconds": 2083,
@@ -75,13 +75,13 @@
     },
     {
       "timestamp_seconds": 3897,
-      "label": "Volantis pushes product-first over points; integrates partner points for LP rewards"
+      "label": "Valantis pushes product-first over points; integrates partner points for LP rewards"
     }
   ],
   "pull_quote": "On-chain markets are a lot more inefficient than people realize. The amount of value extracted from retail traders every day is pretty insane.",
   "quote_attribution": {
     "name": "Ali",
-    "team": "Volantis",
+    "team": "Valantis",
     "role": "head of growth"
   },
   "audio_captured": true,

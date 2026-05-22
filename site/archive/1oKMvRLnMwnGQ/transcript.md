@@ -3,7 +3,7 @@
 _RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies on Hyperliquid using natural language prompts._
 
 > 52% directional accuracy is already beating 80% of traders who actually lose money most of the time
-> — Mike, Elora Labs
+> — Mike, Alora Labs
 
 **Host:** @rekt_gang
 **Date:** 2026-04-15
@@ -15,12 +15,12 @@ _RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies 
 
 - **Zerk** (@rekt_gang) — Rekt Gang _host_
 - **Augustus** — RoboNet _guest_
-- **Mike** — Elora Labs _guest_
+- **Mike** — Alora Labs _guest_
 
 ## Key moments
 
 - **[7:10]** Zerk introduces RoboNet and the day's topic
-- **[10:12]** Mike explains Elora's predictive AI network and accuracy limits
+- **[10:12]** Mike explains Alora's predictive AI network and accuracy limits
 - **[14:14]** Mike reveals 52-55% directional accuracy is the realistic ceiling
 - **[24:19]** Mike deploys 488% backtest strategy on Hyperliquid vault
 - **[28:21]** Strategy vault funded with $990, now earning 34% annualized returns

@@ -1,0 +1,90 @@
+{
+  "space_id": "podcast-ep37-nest",
+  "title": "Exit Liquidity Ep 37 - MEGAHYPE'd w/ Nest",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-01-16T00:12:25",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Zerk",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ace",
+      "handle": null,
+      "team": "Nest",
+      "role": "guest"
+    },
+    {
+      "name": "Trendy",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://open.spotify.com/show/5fSUkDXU8a4yz3HJcDwgnx",
+  "summary_title": "Nest's metadex model: solving the DEX trilemma while bootstrapping Hyperliquid's long-tail assets",
+  "summary_description": "How metadexes balance traders, LPs, and token holders—and why Nest is positioning itself as the home for new Hyper-EVM protocols before graduating to HyperCore.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 307,
+      "label": "What is a metadex and why it solves the DEX trilemma"
+    },
+    {
+      "timestamp_seconds": 458,
+      "label": "How token holders vote weekly on fee-generating pools to direct LP rewards"
+    },
+    {
+      "timestamp_seconds": 549,
+      "label": "Metadex vs. Uniswap: token value capture and fee distribution differences"
+    },
+    {
+      "timestamp_seconds": 797,
+      "label": "Nest as complementary to HyperCore: bootstrapping liquidity for long-tail and new tokens"
+    },
+    {
+      "timestamp_seconds": 1437,
+      "label": "Introducing the Hype Engine and Megahype: 40% of Nest revenues buying back HYPE"
+    },
+    {
+      "timestamp_seconds": 1558,
+      "label": "Megahype as a DAT-like token: treasury representation and voting APR distribution"
+    },
+    {
+      "timestamp_seconds": 1830,
+      "label": "Why Ace is bullish on building on Hyperliquid: organic community, no VC incentives"
+    },
+    {
+      "timestamp_seconds": 2134,
+      "label": "How to get involved: provide liquidity, lock Nest, vote, earn Megahype via vault"
+    }
+  ],
+  "pull_quote": "It's the first time since Ethereum that it feels like there's an organic open builder community not being paid by venture capitalists to come build.",
+  "quote_attribution": {
+    "name": "Ace",
+    "team": "Nest",
+    "role": "co-founder and chief strategy officer"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2872.583375,
+  "capture_failure_reason": null
+}

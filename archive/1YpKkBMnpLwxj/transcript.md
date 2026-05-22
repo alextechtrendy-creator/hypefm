@@ -17,7 +17,7 @@ _Jelly crash, delisting decision, and why PVP.trade is building the social layer
 - **PBR** — rekt_gang _guest_
 - **Noms** — PVP.trade _guest_
 - **Guffix** _guest_
-- **Hatashi** — Hyperbeets _guest_
+- **Hatashi** — HyperBeat _guest_
 - **Amir** _guest_
 
 ## Key moments

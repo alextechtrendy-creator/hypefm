@@ -1,0 +1,566 @@
+{
+  "space_id": "podcast-ep43-hyperlend",
+  "language": "en",
+  "duration_seconds": 2803.2083125,
+  "chunks": [
+    {
+      "start": 0.72,
+      "end": 30.94,
+      "speaker": "SPEAKER_00",
+      "text": "Zerk, my friend, it has been a while. How are you doing? I'm doing great. How are you doing? I'm doing good, especially when I only watch hockey maybe ever so often. But what does that mean? Like, I don't always do blah, blah, blah. But when I do, it's like I feel like that. I don't always watch hockey. But when I do, it's when Team USA is playing Canada for the gold. Oh, he's stabbing me in the heart. It's so painful. And I really wanted them to win. They"
+    },
+    {
+      "start": 30.94,
+      "end": 61.44,
+      "speaker": "SPEAKER_00",
+      "text": "played well, too. Undeserved in a way. But then again, it is hockey. It was a 1 -1 game. They should have scored more. The goalie did a great job. So congrats to you. That one save where I was like 99 % sure y 'all were going to score, where it just so happened to glaze off of his stick. And I was like, that is just, that's angels right there. Somebody put their foot down. Somebody wanted y 'all to win. It's OK. Once in every 46 years,"
+    },
+    {
+      "start": 61.6,
+      "end": 91.56,
+      "speaker": "SPEAKER_00",
+      "text": "you win the gold medal. We win it every, you know, time. We got to give some to y 'all. You sound like a Cowboys fan right now. Back in 1995, we had five Super Bowls. I got to go somewhere, right? But anyway, on today's show, we have a special guest, Ness, who's joining us and giving us all the alpha on Hyperlens. And of course, this being our first show back, I got some rust. Let me get, let me get our intro going in 3,"
+    },
+    {
+      "start": 91.72,
+      "end": 122.76,
+      "speaker": "SPEAKER_00",
+      "text": "2, 1. 5. U .S .T. 4. Do I have your attention now? 3. 3. What's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the what's the"
+    },
+    {
+      "start": 122.76,
+      "end": 153.36,
+      "speaker": "SPEAKER_00",
+      "text": "what's hundred and twenty nine dollars up point three percent on the one hour down two percent on the twenty four down point nine on the seven days so we're relatively flat over the last twenty four hours our top gainers are dcr stable zero or layer zero meme core and arbitrum leading the pack is dcr up eight percent how are you doing zerk we have a fun show today yeah"
+    },
+    {
+      "start": 153.36,
+      "end": 183.5,
+      "speaker": "SPEAKER_00",
+      "text": "i'm excited for today's show how timely it is as well the market look at that fear and greed index at 16 i think the market's still very much bearish all our familia got wrecked shorting yesterday though bro yeah like i guess the the 10 o 'clock crew finally got called out the market was excited about it and then i guess somebody else took their place yeah somebody else dumped it today it's fine it's fine it's all good yeah man i will let you"
+    },
+    {
+      "start": 183.5,
+      "end": 215.35,
+      "speaker": "SPEAKER_00",
+      "text": "introduce very exciting show today we have we have ness right from hyperlin yeah exactly so ness is building the all -in -one credit layer on hyper liquid which is called hyperlin received the huge shout out from jeff uh during his latest podcast so that was super cool to hear uh but let's get into it how you doing ness hello can you hear me well yeah absolutely amazing i'm doing we're"
+    },
+    {
+      "start": 215.35,
+      "end": 245.83,
+      "speaker": "SPEAKER_00",
+      "text": "doing great have you watched some of the olympic hockey honestly no i just know that a part of the olympics are happening in italy which is close to slovenia uh so i know that like all my italian friends have been very much enjoying the whole show there but haven't watched that much honestly i mean you've been down yeah you've been a busy building true true haven't watched tv honestly in a while at all bro i hope you can get a break now that tge but let's"
+    },
+    {
+      "start": 245.83,
+      "end": 276.25,
+      "speaker": "SPEAKER_00",
+      "text": "get into hyperland um we like to start these shows right at the beginning so some of the audience is not familiar with what hyperland is so let's get started on what is hyperland what is the mission there and we'll go from there yeah so basically in short as simple as possible we're basically like a land and bar protocol so basically if you have like any additional hype and would basically not want to sell it you can come to our platform and borrow"
+    },
+    {
+      "start": 276.25,
+      "end": 306.33,
+      "speaker": "SPEAKER_00",
+      "text": "some usdc where you can basically use that anywhere else you would like to and you can also use i don't know if you're a big fan of kinetic you can basically stake it and have the k hype and put that escalator on the hyperland borrow some hype and loop that for like additional yield which can basically like instead of like a two percent staking yield you can get i think that up to like 4 .5 percent or something like that um so yeah and kind of like the mission has always been the same"
+    },
+    {
+      "start": 306.33,
+      "end": 336.51,
+      "speaker": "SPEAKER_00",
+      "text": "like we just want to stand here next to hyperliquid as they are exploring to become the future of all finance and basically rediscover or like push out the decentralization method also in us and kind of like allow us participants to be active on the platform uh and we fully realize that like it's going to be a very long way and we just have to make sure that we survive and like basically have every possible product when it comes to lend and borrow"
+    },
+    {
+      "start": 336.51,
+      "end": 366.67,
+      "speaker": "SPEAKER_00",
+      "text": "uh and just like entirely focus on that very cool so is that what you would define as the credit layer on hyperliquid all the lending all the borrowing going exactly exactly uh we really do want to kind of like focus on on clients um like there's something that will happen in like a month uh that i can't share now but like uh we realize that kind of like some of the institutional side uh"
+    },
+    {
+      "start": 366.67,
+      "end": 396.89,
+      "speaker": "SPEAKER_00",
+      "text": "as they are kind of like sec compliant and stuff like that they cannot interact with like public defi pools um because like as far as i understand it like one of their kind of precautions is that is that like um i don't know if i'm not sure how to exactly state it but like they cannot interact with a protocol where they don't know who the users are um so basically there's a way to kind of like open up private uh credit markets which kind of like allows the institutions to come on board on hyperland"
+    },
+    {
+      "start": 396.89,
+      "end": 427.05,
+      "speaker": "SPEAKER_00",
+      "text": "and utilize their hyperliquid positions very cool and you know i want to kind of do the story chronologically but since you mentioned this a couple of times compliance having u .s investors being you know institutional focused what do you think about this new initiative that hyperliquid uh just launched which is basically a lobbying initiative around getting perps approved in the u .s or legal"
+    },
+    {
+      "start": 427.05,
+      "end": 457.57,
+      "speaker": "SPEAKER_00",
+      "text": "quote unquote yeah i think that's like extremely smart like i don't think that anyone expected for them to go so heavy on that route and like open up a specific kind of like uh company or like uh i wouldn't call it service i'm just kind of like getting their way into the house of all finance in america of course yeah they call it the hyperliquid policy center so maybe we could go through that and see what happens in the future i don't know i don't know call it a center yeah they're"
+    },
+    {
+      "start": 457.57,
+      "end": 488.15,
+      "speaker": "SPEAKER_00",
+      "text": "through 50 million at it so i'm sure they are quite serious that of course getting yeah adoption in in your country in the gold medal hockey winners trendy but all right so hyperland would you you know kind of explain us what it is would you compare it to something like ave or camino or margin phi on these other chains and say this is kind of the hyperliquid"
+    },
+    {
+      "start": 488.15,
+      "end": 518.55,
+      "speaker": "SPEAKER_00",
+      "text": "specific one uh is that an accurate way of kind of comparing hyperland to other protocols yeah um i would say that we're very similar to other because like we are unofficially licensed work of other as well uh so if we kind of had we kind of have the whole approval from the dial um kind of like be fully fully utilized on hyper evm and be there for us so i think that's a good point yeah i think that's a good point yeah i think hyperliquid and i don't think that they're willing to deploy them themselves"
+    },
+    {
+      "start": 518.55,
+      "end": 548.55,
+      "speaker": "SPEAKER_00",
+      "text": "here because like if they were they would already do it and because like we have the official agreement in place i don't think that they would be looking to backstab us in such a way yeah you know this was one of the i think there was a post at a certain point from uh i think it was stanny i don't remember who actually posted this about having an ave fork on hyperliquid and this was and you guys are basically it right there's no point"
+    },
+    {
+      "start": 548.55,
+      "end": 578.77,
+      "speaker": "SPEAKER_00",
+      "text": "of having another one yeah that's true that's true but but but i think that it was mark that tweeted it like multiple times um that we are the ones representing ave on the hyperliquid side which is very good but i don't think that like people like i don't want people to view us as just a fork um as a lot more things are going to start progressing slowly and still like you need that like basic and then borrow on an evm or like a network for"
+    },
+    {
+      "start": 578.77,
+      "end": 608.99,
+      "speaker": "SPEAKER_00",
+      "text": "it to kind of like potentially um be utilizing that the capital can flow there so that was going to be my next question this is a great segue how is it building lending borrowing on technically um a perps chain you know people call hyperliquid a perp native protocol or perp native product it's not like your general traditional evm so how has that experience been"
+    },
+    {
+      "start": 608.99,
+      "end": 640.44,
+      "speaker": "SPEAKER_00",
+      "text": "yeah i think that at the beginning it was um a lot more harder than it is right now because like a lot more things have been developed developed there's a lot more like sdks and stuff like that and a lot more kind of like um i don't know how to call it but like people have had a lot of like errors on the evm and then you can basically learn from previous people's mistakes already so you're kind of like know what to do so so"
+    },
+    {
+      "start": 640.44,
+      "end": 670.54,
+      "speaker": "SPEAKER_00",
+      "text": "now it's been easier but i guess my question is more about philosophically speaking you know there's like this big huge perps platform and then there's hyper evm which is supposedly right like the two are very much interconnected but i feel there is that gap that sometimes need to be bridged no philosophically that that's a good question i'm not sure i think that like for any protocol that's looking to come here is"
+    },
+    {
+      "start": 670.54,
+      "end": 700.54,
+      "speaker": "SPEAKER_00",
+      "text": "going to be hard um my advice to you is just like be extremely active in the community like feel free to reach out to me if you have like any questions or problems or anything like that i'll make sure to help out to my full extent um but yeah like as uh jeff also stated it on his podcast like that it's just like basically that you would allow financial applications for the evm to be built on binance for example and then you can just like build it on binance and then you can build it on if you want to compare it as like an exchange um so a"
+    },
+    {
+      "start": 700.54,
+      "end": 730.72,
+      "speaker": "SPEAKER_00",
+      "text": "lot more like interesting products can be made as jeff stated as well like you can tokenize their land and borrow protocol which i think is going to be very interesting to utilize on the evm side and especially on hyperland as well um but that's mostly it okay very cool yeah i mean i feel like if you want to house all of finance you need lending borrowing and for sure right like that's the backbone and recently something"
+    },
+    {
+      "start": 730.72,
+      "end": 760.92,
+      "speaker": "SPEAKER_00",
+      "text": "that got implemented at the core level is what they call portfolio margin there was so many discussions on portfolio margin i want you to explain to us what is this portfolio margin thing and then we'll get into how hike per land plays a role into it yeah um like in general and like very simply uh put it's basically this you have i don't know like a lot of assets and you don't want to basically sell them and"
+    },
+    {
+      "start": 760.92,
+      "end": 791.22,
+      "speaker": "SPEAKER_00",
+      "text": "you want to use them for trading purposes as well uh so basically what you do is like collateralize all of the assets you want to use and borrow usdc uh like i think that on hyperliquid majority of that will only be possible for like blue chip assets there's like btc if so and hype uh and then like how hyperland can come into play is that like we offer like a lot more broader um section of different assets that can be collateralized"
+    },
+    {
+      "start": 791.22,
+      "end": 821.44,
+      "speaker": "SPEAKER_00",
+      "text": "uh so we have a like a bigger advantage there and specifically with like lsts like we can offer portfolio margin for all k hype users uh which i think is going to be very cool uh and i think that already people are utilizing that it's just like it's just not displayed in like a unified trading front end uh which i'm sure um us in canada can do something here on their like kind of native markets ui so basically people will be able to borrow"
+    },
+    {
+      "start": 821.44,
+      "end": 851.68,
+      "speaker": "SPEAKER_00",
+      "text": "from their assets right this is kind of like the same way of going about it um and hyperlet and what hyperland is going to be offering is all the lst so we have k hype st hype i mean there's b hype there's so many at this point i'm kind of uh i'm blanking on some but they're a great way of earning yield plus you get to borrow on top exactly exactly you don't have to sell your hype sale trade but of course you gotta be a good trader to not"
+    },
+    {
+      "start": 851.68,
+      "end": 881.92,
+      "speaker": "SPEAKER_00",
+      "text": "then have like depth you know that's not a good thing to happen to you and when is that application coming online because i know portfolio margin is live but i'm not sure i can use my k hype to you know use as collateral on hypercore yet unless i haven't activated some things yeah on the hypercore i'm not sure if they're gonna add that like i i can't even speak on the behalf of the hyperliquids team but you can like fully do"
+    },
+    {
+      "start": 881.92,
+      "end": 911.94,
+      "speaker": "SPEAKER_00",
+      "text": "that on hyperland now for example yeah so so yeah that's that's kind of my question is you know will they integrate vertically with hyperland as well almost like you know you're on hypercore but in the back end hyperland is the backbone do you think that's gonna happen i honestly hope so um but once again i have no idea what's going to happen so i'm not sure i'm not sure i'm not sure what the plans of hyperliquid are i just know that i'm gonna do"
+    },
+    {
+      "start": 911.94,
+      "end": 942.08,
+      "speaker": "SPEAKER_00",
+      "text": "my best to make sure that we focus on security and risk first uh and make sure that like no users are exploited or anything bad happens in our market and i think that with our focus being strictly on that and like making sure that the product grows um will come off as very good in the eyes of hyperliquid but i'm not sure how like technically difficult it should be um because like core is a bit of a different network than a standardized network so i'm not sure how like technically difficult it should be yeah i can"
+    },
+    {
+      "start": 942.08,
+      "end": 972.8,
+      "speaker": "SPEAKER_00",
+      "text": "see it you know how initially hip3 were supposed was supposed to differentiate through ui ux right but ultimately everybody just trades on hypercore now so it's you know your assets and however you run the funding rates and all the oracles so perhaps this is going to be the next iteration where you have like a lending borrowing tab on hypercore and then maybe you can choose from a few different products and then you can choose from a few different products and then you can choose from a few different products and then you can choose from a few different providers but you'll have hyperlen obviously on it yeah"
+    },
+    {
+      "start": 972.8,
+      "end": 1002.86,
+      "speaker": "SPEAKER_00",
+      "text": "i think that would be very interesting um i'll pitch it to julian and see what he says but i don't think that he's gonna respond in any way that's kind of like indicate what they're gonna do you know they've been very tell you to read the docs yeah for sure so yeah that'd be cool to have some sort of vertical integration with hypercore but even without vertical integration currently i believe you"
+    },
+    {
+      "start": 1002.86,
+      "end": 1032.9,
+      "speaker": "SPEAKER_00",
+      "text": "have a tvl around 500 million depending on high price which is which is really impressive right and it stayed even after the token drop so meaning like there's real users here real liquidity yeah like honestly i was genuinely very surprised when we uh okay so we had the kind of like first uh season of points and then we of course like had a hidden season as well and like even after the first points uh that were being like like the first season that ended"
+    },
+    {
+      "start": 1032.9,
+      "end": 1063.74,
+      "speaker": "SPEAKER_00",
+      "text": "like not a lot of capital actually went out it was just that the kind of like market went down which kind of lets where tvl to drop and also after the hidden season points being ended the capital did not leave once again and now also after tge um people are still here using the product uh so i'm very much happy to say that like majority of the users that are on the platform right now is not filled with farmers uh so i'm very happy about that of how the overall"
+    },
+    {
+      "start": 1063.74,
+      "end": 1093.9,
+      "speaker": "SPEAKER_00",
+      "text": "tvl has played out so far yeah that's very cool and i know we're gonna get a lot of interest on this question so you had the points you had the second secret season of points and now the token has dropped so let's talk about hpl a little bit for all those that are curious about this token one really congrats on the genesis i feel like it was extremely smooth i think it was extremely smooth and i think it was extremely dropping directly in the wallets um you know i had some looped hype and things like that"
+    },
+    {
+      "start": 1093.9,
+      "end": 1124.16,
+      "speaker": "SPEAKER_00",
+      "text": "and that got dropped too so really cool that it's all been handled so well so walk me through you know your thoughts on the tge and then we'll get into the tokenomics and the utility and things like that if i'm being honest it was very stressful yesterday um because like handling such a big drop and like so many users and like so many technical things had to get checked out so that we have the full green light uh so it was like from the morning until like"
+    },
+    {
+      "start": 1124.16,
+      "end": 1154.36,
+      "speaker": "SPEAKER_00",
+      "text": "uh 4 30 p .m central eastern time it was just like all day at it uh and then of course a lot more things happened afterwards as well with people like asking where they got the airdrop and stuff like that but i think that the overall distribution has been handled very well we also sent it out for departing protocols like hyper beat valantis and looped hype as well um we all distributed that ourselves so that the partnering protocols did not have to do that much uh work and"
+    },
+    {
+      "start": 1154.36,
+      "end": 1184.78,
+      "speaker": "SPEAKER_00",
+      "text": "we just basically wanted to make sure that like everybody that used the platform got the tokens that they deserved um but yeah i think that overall all is well now and everybody's happy about distribution and like how many tokens they got yeah lots of stress but y 'all did a great job like i said i love the video and thank you just very seamless um i feel like you know hyper liquid set the bar in terms of deploying tokens and y 'all have met those expectations"
+    },
+    {
+      "start": 1184.78,
+      "end": 1214.86,
+      "speaker": "SPEAKER_00",
+      "text": "and i'm gonna give a shout out to kinetic as well which kind of fit that too very well yeah i think the overall uh hyper liquid set a very good standard for crypto uh and i and i also think that there's going to be like a shift like a slow shift between like actually focusing on what the products do are they generating uh revenue do they have like actual users on the platform um because like there's a lot of like coins that are like at extreme valuations while"
+    },
+    {
+      "start": 1214.86,
+      "end": 1245.12,
+      "speaker": "SPEAKER_00",
+      "text": "the user base is non -existent um which is not a good thing displaying crypto i guess um so i'm kind of like forecasting a switch on the whole thesis there yeah but the vcs bring the hype right yeah of course the vc is bringing the money all right so let's get into the hpl uh tokenomics so from my understanding about 40 percent deployed at genesis is"
+    },
+    {
+      "start": 1245.12,
+      "end": 1275.18,
+      "speaker": "SPEAKER_00",
+      "text": "that correct 25 for genesis 5 for liquidity and 10 i think for uh some of the early investors is that in total circulating supply right now is i think 33 percent uh for investors we had like a 10 unlock on tg which was set like almost two years ago um so it was kind of like fair for them to get us a little bit of a chance to get a little bit of a chance to get a little bit of a chance to get a little bit of allocation already on tge and then yeah we airdropped the total of like 25 percent and"
+    },
+    {
+      "start": 1275.18,
+      "end": 1305.28,
+      "speaker": "SPEAKER_00",
+      "text": "then because like we are an officially licensed fork of ave uh we in total had to give them as well like 4 .5 percent of the token supply um and then all of that calculated leads around like 30 33 percent nice so 30 33 percent and i'm doing the math right now i'm trying to do the math and you are at a market cap of four point six million which to me for a 500 million tvl you don't have to"
+    },
+    {
+      "start": 1305.28,
+      "end": 1335.94,
+      "speaker": "SPEAKER_00",
+      "text": "answer to this question but 500 million tvl the credit layer for all of finance feels absolutely ridiculous to be valued at 4 .6 million uh as of now but i understand a lot of people got this at a zero cost basis so perhaps they're taking some profits and that is fine but i feel like it's a little bit more of a we might see a run such as the kinetic one where it did like 5x from wherever it was at the bottom that's"
+    },
+    {
+      "start": 1335.94,
+      "end": 1368.24,
+      "speaker": "SPEAKER_00",
+      "text": "not financial advice of course but let's get into the token so 33 percentage circulating and future token emissions much further away i think there's a vesting of like one or two years plus some incentives coming up right for continuous users of hyperlink i guess you can speculate on that yes i can speculate on that i can't say anything though all"
+    },
+    {
+      "start": 1368.24,
+      "end": 1398.48,
+      "speaker": "SPEAKER_00",
+      "text": "right what can you say on the utility of the token or or the planned utilities or whatever you can share on you know in terms of what people will be able to do with their tokens yeah i think that like there's one thing that we've been already vocal about but not as much as saying like okay this is what we're gonna be doing we're just kind of like along the way in the article that we've been writing we kind of like dropped hints um so i'm sure a lot of people already know that like staking is gonna come and it's gonna have like uh it's"
+    },
+    {
+      "start": 1398.48,
+      "end": 1429.24,
+      "speaker": "SPEAKER_00",
+      "text": "like i don't like to call it like never seen before because like it sounds huge that something like this hasn't been done with just like a unique way uh to make sure that all the active users of our actual platform get to benefit the most out of this which at the end are the people that you want to take care of right uh because like all the users we are here right now uh so the only way is to kind of like make sure that they stay here and make sure that like all the new existing institutions and"
+    },
+    {
+      "start": 1429.24,
+      "end": 1459.4,
+      "speaker": "SPEAKER_00",
+      "text": "big borrowers that want to come in uh will see this kind of like unique feature and be like oh it definitely makes sense to stay here and benefit from the discounts um but i i think that i've said enough uh when it comes to the discounts so one you'll earn yield and two you're probably gonna get a rebate some of those lending fees that's my speculation very cool and you know"
+    },
+    {
+      "start": 1459.4,
+      "end": 1489.46,
+      "speaker": "SPEAKER_00",
+      "text": "how y 'all also generate i think about a million dollars in revenue per year um and that was kind of like you know the fees that that a protocol generate that always feels like it's something that gets discussed a lot um will there be i guess any sort of i want to use the word buybacks but might as well since this is the podcast um some sort of buybacks of this token or even"
+    },
+    {
+      "start": 1489.46,
+      "end": 1519.5,
+      "speaker": "SPEAKER_00",
+      "text": "of hype tokens i think like kinetic has some sort of function there um as well as buying back k hype which they still haven't done yet but they're they mentioned it a few times uh i really like what kinetic did uh of course like for the protocol revenue and stuff like that we have to survive and make sure that the team gets paid and stuff like that um but like i think that like compared to hyperliquid it's a it's a bit different uh like we don't earn three million per day that would kind"
+    },
+    {
+      "start": 1519.5,
+      "end": 1549.52,
+      "speaker": "SPEAKER_00",
+      "text": "of like effectively then make a lot of sense to buy that much per day over a token uh it's a lot less uh so i i also can't stand nothing on that because i don't want to say something and then we eventually don't do it um but i really like what kinetic did and i think that the the method that they did is like all the training volume that happens on the token and then we eventually don't do it um but i really like what they did on core they basically get fees from that and then they buy back the hype and send it back to the assistance fund um which is an interesting way to"
+    },
+    {
+      "start": 1549.52,
+      "end": 1579.54,
+      "speaker": "SPEAKER_00",
+      "text": "go about it yeah another flywheel for hype which is great and i guess potentially hpl too so anything else you want to mention in terms of tokenomics and hpl utility that we haven't discussed or haven't tapped into i'm always you know giving you an open space here yeah um i'm not sure i'll just let everybody speculate on it um our internal focus is still going to be on the product"
+    },
+    {
+      "start": 1579.54,
+      "end": 1609.54,
+      "speaker": "SPEAKER_00",
+      "text": "and making sure that we kind of like satisfy all users that are looking to come on our platform uh and of course help on board a lot more institutions nice yeah i remember uh omni on the kinetic space as well was quite quite shy of speculating on anything but it's cool to see that there will be utilities for hpl tokens and perhaps some sort of buyback mechanism for hype or even hpl i'm"
+    },
+    {
+      "start": 1609.54,
+      "end": 1639.7,
+      "speaker": "SPEAKER_00",
+      "text": "speculating here i'm allowed uh all right so you mentioned you know you guys are still heads down this this probably was a lot of stress um a lot of work but now that the token is out of the way you can focus again on the product um y 'all have some really neat features that i personally enjoy that perhaps are a little overlooked you know one of them i think was uh not"
+    },
+    {
+      "start": 1639.7,
+      "end": 1670.54,
+      "speaker": "SPEAKER_00",
+      "text": "getting liquidated there's like a little trigger that you can say no liquidations um a few other things like that so what are some of the current features that you really appreciate from hyperland and you feel like are sometimes overlooked yeah i also really do like the liquidation guard uh i think that there's also like a cool thing that we can do for the hpl and i think that's a really cool thing that we can do for the hpl and i think that's for all perps traders um but then like of course like there's some kind of like permissionless stuff that you have to approve but like the liquid liquidation"
+    },
+    {
+      "start": 1670.54,
+      "end": 1701.26,
+      "speaker": "SPEAKER_00",
+      "text": "guard that you mentioned basically if you allow that on um we're gonna like for you repay your loan so that you don't get liquidated if you set like a certain health factor you want to go by um but yeah like i didn't hear that many people mention this feature like now that i think of it maybe we should create like a separate subpick for the hpl and i think that's a really cool thing that we can do for the hpl and for example uh so that like more people can actually see what's happening or have like a subpage where it says like uh full like advanced settings um"
+    },
+    {
+      "start": 1701.26,
+      "end": 1731.44,
+      "speaker": "SPEAKER_00",
+      "text": "but there's also like a thing that we can play here with is that like with all the perp trader they can kind of like set up a similar thing where they would kind of like allocate like how much capital they would borrow in order to kind of like prevent liquidation on their perps so just kind of like adding more margin to the perp but of course um it's very difficult if like uh event for like or like an event that like uh 10th of october happens um because like the evm and core uh bridging"
+    },
+    {
+      "start": 1731.44,
+      "end": 1761.44,
+      "speaker": "SPEAKER_00",
+      "text": "is not atomic uh so some things might not be processed as smooth as people would like to and of course like if like a huge liquidation cascade happens um a lot of stuff can happen very quickly yeah but i do like that feature by the way just to kind of throw it out there and i appreciate it thank you thank you but i agree would be cool as well to get protected on the perp side um for those that wish to do so so"
+    },
+    {
+      "start": 1761.44,
+      "end": 1791.84,
+      "speaker": "SPEAKER_00",
+      "text": "um perhaps it's not perfect but it will still kind of work during regular hours yeah like we've been also discussing a lot internally when it comes to saying like okay yeah like we realize that the majority of the user base on hyperliquid are traders um so we've put in a lot of thought on like how to attract these traders to like in the same time use hyperland um so i like open for any traders that have like any particular ideas"
+    },
+    {
+      "start": 1791.84,
+      "end": 1821.94,
+      "speaker": "SPEAKER_00",
+      "text": "that they would like to be enabled which kind of like uses a land and bar infrastructure behind the scenes as well um and yeah like feel free to reach out i have like a few ideas that i would appreciate feedback on as well nice i i trade so i could give some feedback uh i'm not the best trader though especially crypto some of the stocks metals though that's fine i'm happy that hyperliquid has those assets because i'm easier to been easier to trade i'll send you the"
+    },
+    {
+      "start": 1821.94,
+      "end": 1852.04,
+      "speaker": "SPEAKER_00",
+      "text": "ideas as well because like if you like the liquidation guard uh which is like a very niche um service i would say uh i think you're going to be interesting to hear what i say to you from the trader side nice yeah send it to me um all right so you mentioned traders and i know a lot of the focus is on the current which are the traders but as a lending borrowing protocol and you mentioned institutions as well i'm curious to hear"
+    },
+    {
+      "start": 1852.04,
+      "end": 1882.3,
+      "speaker": "SPEAKER_00",
+      "text": "your thoughts on expanding outside of perpetrators and let's go crazy even comparing hyperlent to something like clarna or you know there's so much credit nowadays for people to pay at walmart and housing all the finance and all that right like let's you know do you see that happening retail using or borrowing on hyperland and perhaps even paying through"
+    },
+    {
+      "start": 1882.3,
+      "end": 1913.22,
+      "speaker": "SPEAKER_00",
+      "text": "loans eventually like um there's like an article that i'm going to release in a few weeks and it says that like okay if hyperlinking wants to really house all finance like we're not uh scared to speculate that they're going to reach the levels of volume as the stock exchange and then if you compare hyperliquids volume to the stock exchange volume we can necessarily say that we can be the jp morgan to the stock exchange for example to"
+    },
+    {
+      "start": 1913.22,
+      "end": 1944.06,
+      "speaker": "SPEAKER_00",
+      "text": "kind of like process all credit like micro loans big institution loans like undercollateralized loans rdba loans um there's a lot of things that can actually happen on chain but of course like with rwa and like big undercollateralized loans a lot of it has to be like scc compliant which on the other side for like retail traders means that like it's not that good because like they would have to kyc and kyb at our platform for example but for for institutions like they're very much used to"
+    },
+    {
+      "start": 1944.06,
+      "end": 1974.46,
+      "speaker": "SPEAKER_00",
+      "text": "having that kind of like necessary steps to take so you think institutions might leverage hyperlend to offer this service to their customers basically is that how you kind of see the flow here yeah that would be also very interesting to explore because like the institutions are the ones that are handling the people's money i guess and also the ones that have all the i guess"
+    },
+    {
+      "start": 1974.46,
+      "end": 2005.01,
+      "speaker": "SPEAKER_00",
+      "text": "i don't know like crazy connections i don't know how to call them but like um big money people yeah that'd be really cool and i'm excited to read that article that you're gonna have coming up this was one of my questions actually so where do you see hyperlend in five years you know like we can go back to where do you see hyperliquid in five years after yeah um like honestly still"
+    },
+    {
+      "start": 2005.01,
+      "end": 2035.89,
+      "speaker": "SPEAKER_00",
+      "text": "see us being always next to hyperliquid in five years um like we fully realize that hyperliquid is not here to play uh and i think that with all the updates that they've been doing so far it shows the kind of like length uh they're willing to go and then we just have to like pick up the pace and be at the same kind of speed as they are like i fully realize that we're not going to be able to like ship that fast as they are um but i'm sure that we're getting very close to that speed yeah"
+    },
+    {
+      "start": 2037.74,
+      "end": 2066.08,
+      "speaker": "SPEAKER_00",
+      "text": "it's exciting to see them build the house of finance out and you guys being right next to them in terms of uh everything that's that's you know lending borrowing credit um we talked a little bit about ai at the beginning it was you know a piece that uh but i want to you know ai is so popular one of the products that i've played with recently in"
+    },
+    {
+      "start": 2066.08,
+      "end": 2096.3,
+      "speaker": "SPEAKER_00",
+      "text": "uh it's called neurovolts i don't know if you're familiar with this one uh hamza built it out but basically they're they're kind of trying to manage you know some of the yield that exists on these lending protocols um which i thought was was a great way of using ai do you see like any ai usage within hyperland that you guys are working on or agents you know kind of going through hyperland"
+    },
+    {
+      "start": 2096.3,
+      "end": 2126.56,
+      "speaker": "SPEAKER_00",
+      "text": "as a backbone go ahead like internally most definitely no like we don't want ai touching our core protocol at all um but we're in big favor of like all the people that have like those agents agents and are basically utilizing hyperland um to get a good yield out of it if we look at usdc now the supply apy is at like four percent but it's like for the past two months or three months it has been consistently around seven"
+    },
+    {
+      "start": 2126.56,
+      "end": 2157.38,
+      "speaker": "SPEAKER_00",
+      "text": "percent um and then i just started like reaching out to all the people that had this kind of like automated vault systems also hamza like fun fact i met hamza in person i think in singapore uh a very chill guy uh so shout out to him but yeah like in short we don't plan to use ai at all at hyperland like maybe for like team management systems but that's the most out of it not for the core product right but it's cool but it's"
+    },
+    {
+      "start": 2157.38,
+      "end": 2187.61,
+      "speaker": "SPEAKER_00",
+      "text": "cool to see all these agents kind of uh playing with the platform and connecting to it in such a decentralized fashion and basically getting more yield for for us end users yeah i think that like if you have some idle capital um like either of course like put a hyperland and enjoy the yield or just like leave it up to the ai and agents to handle your money um and spread it around crypto and defi yeah that's i"
+    },
+    {
+      "start": 2187.61,
+      "end": 2217.83,
+      "speaker": "SPEAKER_00",
+      "text": "mean you know i think everybody's working on a variation of an ai agent trading polymarket or kalshi stuff or trading perps and many have been quite unsuccessful at it so i like the yield one because it's more guaranteed to actually make you some money yeah like of course everybody's being uh building ai for ai agents for something now everybody's doing ai um but no one knows what"
+    },
+    {
+      "start": 2217.83,
+      "end": 2248.13,
+      "speaker": "SPEAKER_00",
+      "text": "exactly they're building you know trendy trendy build some cool shit with ai by the way uh but there are tools that you know he legit uses or we legit use so in terms of like if yeah if you have an idea that you know is you know you know what it's going to look like in terms of end product that can work but some of the make me some money and just throw it out there i don't know if that's gonna no right trendy yeah and i think anybody who's listening ness said something earlier"
+    },
+    {
+      "start": 2248.13,
+      "end": 2278.69,
+      "speaker": "SPEAKER_00",
+      "text": "that like even though i'm a vibe coder um it's a very important thing and that's have security at your most forefront like anytime you're building anything like constantly ask your vibe coding agent like like just to run security sweeps just to check everything like like when i was building it out like the things that i have now i've built with like bank level encryption um like i can't do that with like a bank level encryption um like i can't do that with like continue to just constantly every time i'm done with a build all right run a security sweep or get like some open source repositories and just like build"
+    },
+    {
+      "start": 2278.69,
+      "end": 2308.74,
+      "speaker": "SPEAKER_00",
+      "text": "out a script that just constantly you could just deploy it and it'll run and it'll just test everything just to make sure you're sound because if you sway or lose the trust of your users you're done yeah ness i don't know if you're gonna go for five or seven audits at this point no like that's for a core business like we got audited for you three times and i think that was enough because like the second time already they found like no vulnerabilities"
+    },
+    {
+      "start": 2308.74,
+      "end": 2338.8,
+      "speaker": "SPEAKER_00",
+      "text": "um like with any product that we're doing like we're big fans of passion of auditing group uh they're extremely uh efficient and they can do a lot of quality work so like any product like also let the liquidation guy i can share the audit report to you if you're interested like all the features guys holy shit even that feature oh my god of course i do have a question this um like a in traditional banking or finance excuse me"
+    },
+    {
+      "start": 2338.8,
+      "end": 2368.9,
+      "speaker": "SPEAKER_00",
+      "text": "you have a lot of times where you have the ability to move your loan or your your credit um from one bank to another like um i could transfer my my existing balance from one to another are y 'all gonna implement something where you have like an easy transfer like i'm using somebody right now like it would be cool if i could just easily like click a button and move my loan over to hyperlend and maybe they'd give me like some sort of like zero apy for a couple months i don't i wouldn't say a year but just some kind of feature like"
+    },
+    {
+      "start": 2368.9,
+      "end": 2399.14,
+      "speaker": "SPEAKER_00",
+      "text": "that to kind of like people who already kind of locked into something buy them out move them over yeah that's an interesting idea um if i'm honest we really didn't think of it because like we don't want to like vampire attack other protocols like even for our protocol like i don't know if i would be okay with like somebody just having like a one click transfer all positions out of hyperlend you know um so i'm not sure like how morally that's a good answer and like"
+    },
+    {
+      "start": 2399.14,
+      "end": 2429.18,
+      "speaker": "SPEAKER_00",
+      "text": "how i guess aggressive we want to be yeah maybe two clicks right now it's pretty much that right it's like withdraw funds and then settle your loan and then you can take it somewhere else so it's yeah it's probably like three four clicks and you're done um but yeah on that point of what banks allow you to do you've been approached by many neobanks or or maybe i'm just speculating here what do you think"
+    },
+    {
+      "start": 2429.18,
+      "end": 2459.3,
+      "speaker": "SPEAKER_00",
+      "text": "about kind of the the rise of neobanks and all these different apps that uh app banks that launch and they want to offer yield to their customers right like that's one of the value prop offering yield on stable coins um have you seen that trend pop off institutions reaching out to kind of offer some stable loan for your platform um like i think that like stable loans are possible with private markets um"
+    },
+    {
+      "start": 2459.3,
+      "end": 2489.4,
+      "speaker": "SPEAKER_00",
+      "text": "but like with neobanks i don't think that there is that many on the evm side i think that the only one close to that being is like hyperbeat i think that they've done a very good job on that front um but honestly not that many reached out like we just have a few users that are interested to have like a car product um which can work very good in a sense of like you have a hype or usdc deposited on hyperland you earn the yield"
+    },
+    {
+      "start": 2489.4,
+      "end": 2519.62,
+      "speaker": "SPEAKER_00",
+      "text": "and then basically you can spend that and behind the scenes it's just gonna like borrow usd for you and spend it as you are spending um and the kind of like supply api repays your loan automatically uh i think that those are kind of like unique and niched out features that we can potentially also have in hyperland um but i'm saying for sure um so yeah so many things to explore i think with"
+    },
+    {
+      "start": 2519.62,
+      "end": 2550.6,
+      "speaker": "SPEAKER_00",
+      "text": "uh with the credit system so it's cool that y 'all are constantly building this out constantly working on it and there's so much more to develop so yeah i'm excited for y 'all's future and i mean you chose the right ecosystem right like from the beginning i think you kind of spoke very highly of hyperliquid we all speak very highly of hyperliquid and we'll continue to do so and continue to build here yeah do you remember when we had the first call uh like it was such"
+    },
+    {
+      "start": 2550.6,
+      "end": 2580.64,
+      "speaker": "SPEAKER_00",
+      "text": "a long time ago yeah i think that i was living in lisbon still at that point uh where i just like moved out to focus on the project um but it's been some time since our last conversation i'm looking at it it's been a year oh my god yeah yeah a year yeah yeah march 19 if i see something like this so well don't you love that zerk like you always mention like when like we would love to chat"
+    },
+    {
+      "start": 2580.64,
+      "end": 2610.82,
+      "speaker": "SPEAKER_00",
+      "text": "again in like six to eight months so like we got that full circle like from start to finish not finished they're not done but yeah like this is a pivotal point in the history of hyperlin true and i think that one year ago in march we just launched um it's a crazy i mean hyper edm anniversary it was was just like it was like it was like it was like it was like it was like it was a few i i think it was a week ago or something like that it wasn't long ago so it makes perfect sense amazing yeah i mean one year"
+    },
+    {
+      "start": 2610.82,
+      "end": 2640.9,
+      "speaker": "SPEAKER_00",
+      "text": "from the did you ever think you you know you'd be here building a 500 million dollar tvl protocol and launching i don't know what the fdv is but like launching this this token on this day like a year ago did you think this was going to happen when you launched hyperland honestly no idea um like i knew that hyperliquid is going to do well and like if we just focus on security it shouldn't be a"
+    },
+    {
+      "start": 2640.9,
+      "end": 2671.06,
+      "speaker": "SPEAKER_00",
+      "text": "problem for us to scale as well but like i had no idea that it's just gonna get at that scale that it is right now uh like we even had like an all -time high of total market size of like 980 million million when hype was at 60 dollars um so i think that as the market turns it's just gonna go a lot more crazier again and the numbers are gonna ramp up um but yeah like if i'm being honest i genuinely had no idea it's gonna get that big but i'm all here for it now"
+    },
+    {
+      "start": 2671.06,
+      "end": 2702.24,
+      "speaker": "SPEAKER_00",
+      "text": "and like going at it every day i mean huge congrats on the success of hyperlend as a protocol product market fit i mean token everything you guys did an incredible job really proud of of the hyperliquid builders what you've achieved yeah so and i'm hoping we can get another one of these uh calls in a in a year right trendy true tvl"
+    },
+    {
+      "start": 2702.24,
+      "end": 2732.24,
+      "speaker": "SPEAKER_00",
+      "text": "is gonna be back to the multiple billions because hype was gonna pump and exactly yeah we can already schedule it like i'll put it in my calendar then like a year from now we gotta talk again uh beautiful i love it um any any closing words ness i'm gonna let the people know you know you guys give them a follow give ness a follow check out the hyperlend protocol um perhaps they're gonna launch some sort of card service as well we'll see lots of new"
+    },
+    {
+      "start": 2732.24,
+      "end": 2762.32,
+      "speaker": "SPEAKER_00",
+      "text": "features that are being worked on as of today hpl trading only at 4 .5 million when they have 500 million in tvl to me makes absolutely no sense like i said zero cost basis some people taking profits it's fine uh it's gonna pump back eventually i can feel it in my balls uh anything else that you want to shout out to the community i don't have that much just like if anybody's interesting or like has any feedback about hyperlend"
+    },
+    {
+      "start": 2762.32,
+      "end": 2792.94,
+      "speaker": "SPEAKER_00",
+      "text": "feel free to reach out like i'm always online so unless i'm sleeping so feel free to ask me anything basically nice yeah give them lots of feedback congrats once more trendy you want to close this space out yeah we we definitely appreciate you joining us and that's the uh the um ethical builder who doesn't want to vampire anybody very nice very nice but yeah with that he's there i'm trendy and we're trying to help you not to become exit liquidity there"
+    },
+    {
+      "start": 2792.94,
+      "end": 2793.78,
+      "speaker": "SPEAKER_00",
+      "text": "is no second best"
+    }
+  ],
+  "speaker_map": {}
+}

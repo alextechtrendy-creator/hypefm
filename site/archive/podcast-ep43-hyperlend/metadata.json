@@ -1,0 +1,84 @@
+{
+  "space_id": "podcast-ep43-hyperlend",
+  "title": "Exit Liquidity Ep 43 - All the alpha on HyperLend",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-02-28T01:30:37",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "rekt_gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Zerk",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ness",
+      "handle": null,
+      "team": "HyperLend",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://open.spotify.com/episode/6KYOxwbIYdKRsfoMaUownG",
+  "summary_title": "HyperLend's 500M TVL credit layer and the future of on-chain finance",
+  "summary_description": "Ness breaks down HyperLend's lending protocol, portfolio margin integration, HPL tokenomics, and why institutions need compliant credit markets on Hyperliquid.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 183,
+      "label": "HyperLend mission: all-in-one credit layer on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 336,
+      "label": "Private credit markets for SEC-compliant institutions launching soon"
+    },
+    {
+      "timestamp_seconds": 427,
+      "label": "Hyperliquid's 50M policy center lobbying for US perp approval"
+    },
+    {
+      "timestamp_seconds": 730,
+      "label": "Portfolio margin live; HyperLend offers broader collateral for LSTs"
+    },
+    {
+      "timestamp_seconds": 1063,
+      "label": "HPL genesis: 33% circulating, staking and fee discounts planned"
+    },
+    {
+      "timestamp_seconds": 1639,
+      "label": "Liquidation guard feature: auto-repay to prevent liquidations"
+    },
+    {
+      "timestamp_seconds": 1882,
+      "label": "Vision: HyperLend as JP Morgan for decentralized credit markets"
+    },
+    {
+      "timestamp_seconds": 2278,
+      "label": "Three audits completed; no vulnerabilities found in core protocol"
+    }
+  ],
+  "pull_quote": "If Hyperliquid wants to really house all finance, we can be JP Morgan to the stock exchange for credit.",
+  "quote_attribution": {
+    "name": "Ness",
+    "team": "HyperLend",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2803.2083125,
+  "capture_failure_reason": null
+}

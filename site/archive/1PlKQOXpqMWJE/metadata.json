@@ -20,13 +20,13 @@
     {
       "name": "Hamza",
       "handle": null,
-      "team": "Neurovolts",
+      "team": "Neuravaults",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1PlKQOXpqMWJE",
   "summary_title": "AI agents optimize stablecoin yield on Hyperliquid, outperforming lending markets by 41%",
-  "summary_description": "Neurovolts launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk.",
+  "summary_description": "Neuravaults launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk.",
   "topic_tags": [
     "vaults",
     "ecosystem",
@@ -43,7 +43,7 @@
     },
     {
       "timestamp_seconds": 726,
-      "label": "Neurovolts building agentic vaults because directional AI trading is too early"
+      "label": "Neuravaults building agentic vaults because directional AI trading is too early"
     },
     {
       "timestamp_seconds": 847,
@@ -63,13 +63,13 @@
     },
     {
       "timestamp_seconds": 2484,
-      "label": "Future: vault factory model lets anyone create custom DeFi strategies using Neurovolts infrastructure and agents"
+      "label": "Future: vault factory model lets anyone create custom DeFi strategies using Neuravaults infrastructure and agents"
     }
   ],
   "pull_quote": "Agents handling money is what smart contracts were four or five years ago. Massive untapped potential.",
   "quote_attribution": {
     "name": "Hamza",
-    "team": "Neurovolts",
+    "team": "Neuravaults",
     "role": "co-founder"
   },
   "audio_captured": true,

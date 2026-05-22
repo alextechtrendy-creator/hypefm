@@ -20,13 +20,13 @@
     {
       "name": "Ollie",
       "handle": null,
-      "team": "Volantis",
+      "team": "Valantis",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1ynKOMYZvjQJR",
   "summary_title": "Stake Type's multi-account design unlocks institutional hype staking on Hyperliquid",
-  "summary_description": "How Volantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield.",
+  "summary_description": "How Valantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield.",
   "topic_tags": [
     "vaults",
     "ecosystem",
@@ -35,15 +35,15 @@
   "key_moments": [
     {
       "timestamp_seconds": 128,
-      "label": "AI-generated Volantis anthem surprise, 15 minutes to create"
+      "label": "AI-generated Valantis anthem surprise, 15 minutes to create"
     },
     {
       "timestamp_seconds": 370,
-      "label": "Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Volantis"
+      "label": "Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Valantis"
     },
     {
       "timestamp_seconds": 551,
-      "label": "Ollie defines Volantis: liquid staking and liquidity products earning more hype than anywhere else"
+      "label": "Ollie defines Valantis: liquid staking and liquidity products earning more hype than anywhere else"
     },
     {
       "timestamp_seconds": 674,
@@ -69,7 +69,7 @@
   "pull_quote": "Hype trades more like a fundamental asset than pretty much any other token, yet it's hilariously undervalued relative to Cardano or Tron.",
   "quote_attribution": {
     "name": "Ollie",
-    "team": "Volantis",
+    "team": "Valantis",
     "role": "head of growth"
   },
   "audio_captured": true,

@@ -1,9 +1,9 @@
-# HyperLiquid's validator cartel problem and Kinetic's StakeHub solution
+# HyperLiquid's validator cartel problem and Kinetiq's StakeHub solution
 
-_Omnia from Kinetic explains why liquid staking needs autonomous validator selection, not secret kickback deals._
+_Omnia from Kinetiq explains why liquid staking needs autonomous validator selection, not secret kickback deals._
 
 > For us, that doesn't make any sense. We don't give a fuck about working with any validator in particular.
-> — Omnia, Kinetic
+> — Omnia, Kinetiq
 
 **Host:** @rekt_gang
 **Date:** 2025-03-27
@@ -15,7 +15,7 @@ _Omnia from Kinetic explains why liquid staking needs autonomous validator selec
 
 - **Zerk** (@rekt_gang) _host_
 - **PBR** _guest_
-- **Omnia** — Kinetic _guest_
+- **Omnia** — Kinetiq _guest_
 - **Pedro** _guest_
 
 ## Key moments
@@ -25,7 +25,7 @@ _Omnia from Kinetic explains why liquid staking needs autonomous validator selec
 - **[9:14]** Debate: is HyperLiquid decentralized or centralized? Spectrum argument
 - **[17:17]** Builder codes as existential threat to centralized exchanges
 - **[21:20]** Meme coin infrastructure gap between HyperCore and HyperEVM
-- **[35:26]** Omnia introduces Kinetic: 13-person team, all friends or prior collaborators
+- **[35:26]** Omnia introduces Kinetiq: 13-person team, all friends or prior collaborators
 - **[40:28]** StakeHub: autonomous validator scoring replaces kickback deals
 - **[54:36]** K-Hype design: wrapped by default, growing exchange ratio, no extra wrapping step
 

@@ -1,9 +1,9 @@
 # Liquid banking on Hyperliquid: spending crypto without selling it
 
-_How Hyperbeet built non-custodial spending, credit, and trading in one account across eight currencies._
+_How HyperBeat built non-custodial spending, credit, and trading in one account across eight currencies._
 
 > Rich people don't sell their assets they just borrow against it—now easily accessible to normal people
-> — 800, Hyperbeet
+> — 800, HyperBeat
 
 **Host:** @rekt_gang
 **Date:** 2026-03-16
@@ -14,11 +14,11 @@ _How Hyperbeet built non-custodial spending, credit, and trading in one account 
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **800** — Hyperbeet _guest_
+- **800** — HyperBeat _guest_
 
 ## Key moments
 
-- **[6:57]** Hyperbeet origins: from losing money to building vaults
+- **[6:57]** HyperBeat origins: from losing money to building vaults
 - **[7:58]** Liquid banking explained: unified non-custodial account for spend, trade, save, credit
 - **[9:59]** The onboarding problem: why traders forced to use centralized exchanges
 - **[13:00]** New user acquisition from Turkey, Singapore, Vietnam via off-ramps

@@ -1,9 +1,9 @@
 # Trading weather, Fed rates, and egg prices on Hyperliquid
 
-_Things team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid._
+_Tings team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid._
 
 > We're trying to find markets that are easily verifiable, deterministic, with everything obvious and nothing like a black box
-> — Ivan, Things
+> — Ivan, Tings
 
 **Host:** @rekt_gang
 **Date:** 2025-12-17
@@ -14,12 +14,12 @@ _Things team building exotic perpetuals for signals like unemployment, Bitcoin h
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **Ivan** — Things _guest_
-- **Nox** — Things _guest_
+- **Ivan** — Tings _guest_
+- **Nox** — Tings _guest_
 
 ## Key moments
 
-- **[4:48]** Things: exotic perps for signals, not proxies
+- **[4:48]** Tings: exotic perps for signals, not proxies
 - **[8:20]** Fed rate example—why perps beat binary prediction markets
 - **[13:54]** Weather markets: hedging use case for Bitcoin miners
 - **[17:58]** Oracle design: multi-source, easily verifiable, hard to manipulate

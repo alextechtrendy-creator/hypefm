@@ -1,0 +1,90 @@
+{
+  "space_id": "podcast-ep29-hypurrfi",
+  "title": "Exit Liquidity - HypurrFi Everything",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2025-12-23T01:50:47",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Zerk",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Andy",
+      "handle": null,
+      "team": "HypurrFi",
+      "role": "guest"
+    },
+    {
+      "name": "Kurt",
+      "handle": null,
+      "team": "HypurrFi",
+      "role": "guest"
+    },
+    {
+      "name": "Trendy",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://open.spotify.com/show/5fSUkDXU8a4yz3HJcDwgnx",
+  "summary_title": "HypurrFi's lending, cards, and Pokemon perpetuals: building real finance on Hyperliquid",
+  "summary_description": "How HypurrFi is expanding beyond Aave forks to Euler, trading terminals, and permissionless markets—including Pokemon card index futures.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 121,
+      "label": "Andy explains why HypurrFi chose Hyperliquid after the airdrop"
+    },
+    {
+      "timestamp_seconds": 393,
+      "label": "HypurrFi core product: lending for traders, no forced liquidations"
+    },
+    {
+      "timestamp_seconds": 514,
+      "label": "The card product: borrow against collateral like a credit card, tax-free"
+    },
+    {
+      "timestamp_seconds": 848,
+      "label": "Euler launch: niche lending markets for PT tokens and yield assets"
+    },
+    {
+      "timestamp_seconds": 908,
+      "label": "Trading terminal alpha (PURRS): lending + perps + options in one UI"
+    },
+    {
+      "timestamp_seconds": 1089,
+      "label": "HIP-3 permissionless markets: Pokemon card index perpetuals launching"
+    },
+    {
+      "timestamp_seconds": 1663,
+      "label": "Kurt on the real barrier to retail adoption: security and custody, not education alone"
+    },
+    {
+      "timestamp_seconds": 1967,
+      "label": "Points program: highest incentives on Hype and stablecoin supply, card rewards"
+    }
+  ],
+  "pull_quote": "When you start thinking in terms of lending and borrowing, you unlock your capital in ways you couldn't before. It's wild.",
+  "quote_attribution": {
+    "name": "Andy",
+    "team": "HypurrFi",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2570.0416875,
+  "capture_failure_reason": null
+}

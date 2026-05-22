@@ -1,0 +1,74 @@
+{
+  "space_id": "podcast-ep19-hyperliquid-update",
+  "title": "Exit Liquidity - Hyperliquid Update",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2025-11-30T00:52:16",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Trendy",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Zerk",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://open.spotify.com/show/5fSUkDXU8a4yz3HJcDwgnx",
+  "summary_title": "Hyperliquid's $850M annual buyback: the perp dex that chose users over profits",
+  "summary_description": "One year after launch, Hyperliquid burns 99% of fees buying back HYPE while dominating perp trading with exotic assets from Pokemon cards to pre-IPO companies.",
+  "topic_tags": [
+    "perps",
+    "tokenomics",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 574,
+      "label": "Hyperliquid TGE anniversary: HYPE token launched one year ago at $2"
+    },
+    {
+      "timestamp_seconds": 755,
+      "label": "$850M in buybacks this year alone using 99% of protocol fees"
+    },
+    {
+      "timestamp_seconds": 937,
+      "label": "Hyperliquid's speed: 100k TPS, 1-2 second finality vs Solana's 1500 TPS"
+    },
+    {
+      "timestamp_seconds": 1299,
+      "label": "Builder codes let wallets like Phantom and MetaMask embed perps, splitting revenue"
+    },
+    {
+      "timestamp_seconds": 1722,
+      "label": "HIP3 markets: third-party deployed perps on exotic assets like Counter-Strike skins"
+    },
+    {
+      "timestamp_seconds": 1933,
+      "label": "$17M HYPE collateral required to deploy new markets, enforcing quality control"
+    },
+    {
+      "timestamp_seconds": 2328,
+      "label": "Token unlock FUD: only 600k HYPE sold OTC, no massive dump on anniversary"
+    }
+  ],
+  "pull_quote": "They could have kept $400 million for themselves and still done a buyback. But they did 99%.",
+  "quote_attribution": {
+    "name": "Zerk",
+    "team": null,
+    "role": "guest"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2574.4166875,
+  "capture_failure_reason": null
+}

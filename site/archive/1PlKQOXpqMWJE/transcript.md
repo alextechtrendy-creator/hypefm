@@ -1,9 +1,9 @@
 # AI agents optimize stablecoin yield on Hyperliquid, outperforming lending markets by 41%
 
-_Neurovolts launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk._
+_Neuravaults launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optimized yield across lending protocols with no leverage or liquidation risk._
 
 > Agents handling money is what smart contracts were four or five years ago. Massive untapped potential.
-> — Hamza, Neurovolts
+> — Hamza, Neuravaults
 
 **Host:** @rekt_gang
 **Date:** 2025-12-04
@@ -14,18 +14,18 @@ _Neurovolts launches agentic vaults on Hyperliquid EVM. Deposit USDT, earn optim
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **Hamza** — Neurovolts _guest_
+- **Hamza** — Neuravaults _guest_
 
 ## Key moments
 
 - **[6:35]** Mainnet launch coincides with Hyperliquid UAE event and AMA
 - **[10:06]** Hamza introduces himself: ex-Polygon head of DeFi, dropped out of NYU to go all-in crypto post-FTX
-- **[12:06]** Neurovolts building agentic vaults because directional AI trading is too early
+- **[12:06]** Neuravaults building agentic vaults because directional AI trading is too early
 - **[14:07]** Earlier experiment with plain-English trading strategies saw $1-2M volume but AI proved too probabilistic
 - **[19:09]** User deposits $2K, already earning yield incrementally—compares experience to Anchor Protocol simplicity
 - **[23:42]** AI forecasts impact of large deposits on pool APY before allocating capital across lending markets
 - **[34:21]** Hamza: agents handling money is what smart contracts were 4-5 years ago—massive untapped potential
-- **[41:24]** Future: vault factory model lets anyone create custom DeFi strategies using Neurovolts infrastructure and agents
+- **[41:24]** Future: vault factory model lets anyone create custom DeFi strategies using Neuravaults infrastructure and agents
 
 ## Transcript
 

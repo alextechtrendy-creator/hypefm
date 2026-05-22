@@ -1,9 +1,9 @@
 # Stake Type's multi-account design unlocks institutional hype staking on Hyperliquid
 
-_How Volantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield._
+_How Valantis built the only LST capturing hype's full utility: market-making discounts, HIP-3 deployments, and Athena partnership yield._
 
 > Hype trades more like a fundamental asset than pretty much any other token, yet it's hilariously undervalued relative to Cardano or Tron.
-> — Ollie, Volantis
+> — Ollie, Valantis
 
 **Host:** @rekt_gang
 **Date:** 2025-12-10
@@ -14,13 +14,13 @@ _How Volantis built the only LST capturing hype's full utility: market-making di
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **Ollie** — Volantis _guest_
+- **Ollie** — Valantis _guest_
 
 ## Key moments
 
-- **[2:08]** AI-generated Volantis anthem surprise, 15 minutes to create
-- **[6:10]** Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Volantis
-- **[9:11]** Ollie defines Volantis: liquid staking and liquidity products earning more hype than anywhere else
+- **[2:08]** AI-generated Valantis anthem surprise, 15 minutes to create
+- **[6:10]** Zerk introduces himself as Wrecking co-founder, hosts with Ollie from Valantis
+- **[9:11]** Ollie defines Valantis: liquid staking and liquidity products earning more hype than anywhere else
 - **[11:14]** Why Hyperliquid: only chain with genuine market product-market fit for DeFi teams
 - **[13:44]** Points launch was strategically delayed 8-9 months until products could scale billions in TVL
 - **[18:16]** Stake Type solves hype utility gap: lets any staker access 400K market-making discounts, HIP-3 requirements

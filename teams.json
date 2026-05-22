@@ -1,42 +1,48 @@
 {
   "Hydromancer": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hydromancer.jpg",
     "x_handle": null,
     "website": null,
     "description": "Data infrastructure layer for Hyperliquid"
   },
   "HyperBeat": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hyperbeat.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Robonet": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/robonet.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "RoboNet": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/robonet.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Valantis": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/valantis.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Felix": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/felix.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "KittenSwap": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/kittenswap.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
-  "Hyperland": {
-    "logo": null,
+  "HyperLend": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hyperlend.jpg",
     "x_handle": null,
     "website": null,
     "description": null
@@ -47,26 +53,26 @@
     "website": null,
     "description": null
   },
-  "Neurovolts": {
-    "logo": null,
+  "Neuravaults": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/neuravaults.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Sky": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/sky.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Pair Protocol": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/pair-protocol.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Nest Wallet": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/nest-wallet.jpg",
     "x_handle": null,
     "website": null,
     "description": null
@@ -78,43 +84,43 @@
     "description": null
   },
   "OptFun": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/optfun.png",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Dexari": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/dexari.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Cypher": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/cypher.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "TopDog": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/topdog.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HyperLend ": {
     "logo": null,
     "x_handle": null,
     "website": null,
     "description": null
   },
-  "HyperLend": {
-    "logo": null,
-    "x_handle": null,
-    "website": null,
-    "description": null
-  },
-  "Catball": {
-    "logo": null,
+  "Catbal": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/catbal.jpg",
     "x_handle": null,
     "website": null,
     "description": null
   },
   "Lucky Ponds": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/lucky-ponds.png",
     "x_handle": null,
     "website": null,
     "description": null
@@ -126,7 +132,7 @@
     "description": null
   },
   "Bounce Tech": {
-    "logo": null,
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/bounce-tech.jpg",
     "x_handle": null,
     "website": null,
     "description": null
@@ -138,8 +144,38 @@
     "description": null
   },
   "Paragon": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/paragon.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Kinetiq": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/kinetiq.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Alora Labs": {
     "logo": null,
     "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HypurrFi": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypurrfi.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Nest": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/nest.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Tings": {
+    "logo": null,
+    "x_handle": "tingsxyz",
     "website": null,
     "description": null
   }

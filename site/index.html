@@ -263,7 +263,11 @@
     if (state.query && state.index) {
       const q = state.query.trim();
       let results = [];
-      try { results = state.index.search(q + '*'); }
+      try {
+        const terms = q.split(/\s+/).filter(Boolean);
+        const lunrQuery = terms.map(t => `${t} ${t}* ${t}~1`).join(' ');
+        results = state.index.search(lunrQuery);
+      }
       catch (e) {
         const lq = q.toLowerCase();
         results = state.spaces

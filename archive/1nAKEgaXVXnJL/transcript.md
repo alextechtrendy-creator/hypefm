@@ -1,9 +1,9 @@
-# Volantis builds 8% yield vaults on Hyperliquid's LST ecosystem
+# Valantis builds 8% yield vaults on Hyperliquid's LST ecosystem
 
 _Embedded liquidity protocols capturing arbitrage and enabling leverage on Hyperliquid's most efficient yield strategies._
 
 > On-chain markets are a lot more inefficient than people realize. The amount of value extracted from retail traders every day is pretty insane.
-> — Ali, Volantis
+> — Ali, Valantis
 
 **Host:** @rekt_gang
 **Date:** 2025-07-22
@@ -14,20 +14,20 @@ _Embedded liquidity protocols capturing arbitrage and enabling leverage on Hyper
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **Ali** — Volantis _guest_
-- **Dave** — Volantis _guest_
-- **Matt** — Volantis _guest_
+- **Ali** — Valantis _guest_
+- **Dave** — Valantis _guest_
+- **Matt** — Valantis _guest_
 
 ## Key moments
 
-- **[6:28]** Volantis team intro: Ali (head of growth), Dave (co-founder), Matt
+- **[6:28]** Valantis team intro: Ali (head of growth), Dave (co-founder), Matt
 - **[7:30]** Dave explains modular AMMs as generalization of yield strategies with swap capability
 - **[17:05]** Stake Type pool remains second biggest on Hyper EBM; K-Hype launch with 1000 depositors
 - **[21:38]** 8% APY on d-pegged Stake Type; no high-risk strategies by design, only yield with margin
-- **[26:10]** Volantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes
+- **[26:10]** Valantis arbitrage alpha: unique integration creates low-competition edge vs. fork DEXes
 - **[34:43]** Institution strategy: park millions earning staking-like yields without dilution
 - **[58:24]** Roadmap: Athena pool in 2-3 months, delta-neutral strategies, then basis trade tokenization
-- **[1:04:57]** Volantis pushes product-first over points; integrates partner points for LP rewards
+- **[1:04:57]** Valantis pushes product-first over points; integrates partner points for LP rewards
 
 ## Transcript
 

@@ -1,9 +1,9 @@
-# Catball's pyramid NFTs, trait trading, and Hyperliquid's resistance to cartels
+# Catbal's pyramid NFTs, trait trading, and Hyperliquid's resistance to cartels
 
 _How a year-old meme became a tiered NFT project with customizable traits, and why the community fights PayPal influence._
 
 > If you want to be a billionaire in crypto it has to come from somewhere, and it feels off because it is a zero-sum game.
-> — Catball, Catball
+> — Catbal, Catbal
 
 **Host:** @rekt_gang
 **Date:** 2025-09-18
@@ -14,18 +14,18 @@ _How a year-old meme became a tiered NFT project with customizable traits, and w
 ## Who's talking
 
 - **Zerk** (@rekt_gang) — Wrecking _host_
-- **Catball** — Catball _guest_
+- **Catbal** — Catbal _guest_
 - **Toast** _guest_
 
 ## Key moments
 
-- **[3:25]** Catball introduction: one year old, first memes on Hyperliquid
+- **[3:25]** Catbal introduction: one year old, first memes on Hyperliquid
 - **[5:26]** Origin story: launched semi-accidentally via Agefun token creator in May
 - **[8:59]** Pivot to NFTs: 1500 wallets, 10k HYPE volume at mint, free PFPs on Soul Bound
 - **[15:02]** Five-tier pyramid structure: 1416 Tier 1 to 20 Tier 5, inspired by Illuminati/Buddhism
 - **[21:06]** ERC721 + ERC1155 reveal strategy: traits as tradeable items, partner integrations
 - **[26:39]** Game roadmap: roguelike dungeon experience, PvP, utility via traits distribution
-- **[32:13]** Catball's post on PayPal integration: crypto hijacked by establishment figures
+- **[32:13]** Catbal's post on PayPal integration: crypto hijacked by establishment figures
 - **[40:16]** Hyperliquid wins: USDC native, Paxos coming, hype near all-time high at 59
 
 ## Transcript

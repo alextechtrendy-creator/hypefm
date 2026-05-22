@@ -26,7 +26,7 @@
     {
       "name": "Omnia",
       "handle": null,
-      "team": "Kinetic",
+      "team": "Kinetiq",
       "role": "guest"
     },
     {
@@ -37,8 +37,8 @@
     }
   ],
   "space_url": "https://x.com/i/spaces/1kvKpyBOgMPGE",
-  "summary_title": "HyperLiquid's validator cartel problem and Kinetic's StakeHub solution",
-  "summary_description": "Omnia from Kinetic explains why liquid staking needs autonomous validator selection, not secret kickback deals.",
+  "summary_title": "HyperLiquid's validator cartel problem and Kinetiq's StakeHub solution",
+  "summary_description": "Omnia from Kinetiq explains why liquid staking needs autonomous validator selection, not secret kickback deals.",
   "topic_tags": [
     "vaults",
     "infrastructure",
@@ -67,7 +67,7 @@
     },
     {
       "timestamp_seconds": 2126,
-      "label": "Omnia introduces Kinetic: 13-person team, all friends or prior collaborators"
+      "label": "Omnia introduces Kinetiq: 13-person team, all friends or prior collaborators"
     },
     {
       "timestamp_seconds": 2428,
@@ -81,7 +81,7 @@
   "pull_quote": "For us, that doesn't make any sense. We don't give a fuck about working with any validator in particular.",
   "quote_attribution": {
     "name": "Omnia",
-    "team": "Kinetic",
+    "team": "Kinetiq",
     "role": "co-founder"
   },
   "audio_captured": true,

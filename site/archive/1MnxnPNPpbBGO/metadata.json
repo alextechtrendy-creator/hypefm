@@ -20,19 +20,19 @@
     {
       "name": "Ivan",
       "handle": null,
-      "team": "Things",
+      "team": "Tings",
       "role": "guest"
     },
     {
       "name": "Nox",
       "handle": null,
-      "team": "Things",
+      "team": "Tings",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1MnxnPNPpbBGO",
   "summary_title": "Trading weather, Fed rates, and egg prices on Hyperliquid",
-  "summary_description": "Things team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid.",
+  "summary_description": "Tings team building exotic perpetuals for signals like unemployment, Bitcoin hash rate, and commodities on Hyperliquid.",
   "topic_tags": [
     "perps",
     "ecosystem",
@@ -41,7 +41,7 @@
   "key_moments": [
     {
       "timestamp_seconds": 288,
-      "label": "Things: exotic perps for signals, not proxies"
+      "label": "Tings: exotic perps for signals, not proxies"
     },
     {
       "timestamp_seconds": 500,
@@ -71,7 +71,7 @@
   "pull_quote": "We're trying to find markets that are easily verifiable, deterministic, with everything obvious and nothing like a black box",
   "quote_attribution": {
     "name": "Ivan",
-    "team": "Things",
+    "team": "Tings",
     "role": "co-founder"
   },
   "audio_captured": true,
