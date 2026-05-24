@@ -1,0 +1,80 @@
+{
+  "space_id": "1YpKklmONyBGj",
+  "title": "Hypurrco x Hyperlend",
+  "state": "ended",
+  "created_at": "2024-11-01T06:14:55Z",
+  "started_at": "2024-11-06T12:00:32Z",
+  "ended_at": "2024-11-06T12:33:29Z",
+  "scheduled_start": "2024-11-06T12:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 161,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "HyperLend",
+      "handle": "hyperlendx",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Cryptonaire",
+      "handle": "cryptonaire555",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YpKklmONyBGj",
+  "summary_title": "HyperLend: building Aave for Hyperliquid with isolated pools and exotic collateral",
+  "summary_description": "First native lending protocol on Hyper EVM aims to offer more collateral options and community-first approach than established giants.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 400,
+      "label": "Benjamin introduces HyperLend founding team and background"
+    },
+    {
+      "timestamp_seconds": 490,
+      "label": "Hyper Collective explains community-led mission to market Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 583,
+      "label": "HyperLend's mission: become the go-to lending protocol on Hyper EVM"
+    },
+    {
+      "timestamp_seconds": 703,
+      "label": "Strategy vs Aave: isolated pools, exotic collateral, community involvement"
+    },
+    {
+      "timestamp_seconds": 854,
+      "label": "Security approach: private audit plus $100k Cantina competition"
+    },
+    {
+      "timestamp_seconds": 1246,
+      "label": "Day one launch includes collateralized HYPE and PUR with mystery tool Friday"
+    },
+    {
+      "timestamp_seconds": 1398,
+      "label": "Collateralizing perpetual positions to attract traders and kickstart TVL flywheel"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "HyperLend",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1968.6826875,
+  "capture_failure_reason": null
+}

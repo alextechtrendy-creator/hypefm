@@ -20,13 +20,13 @@
     {
       "name": "Jeff",
       "handle": null,
-      "team": "Hyperliquid",
+      "team": null,
       "role": "guest"
     },
     {
       "name": "Xuli",
       "handle": null,
-      "team": "rekt_gang",
+      "team": null,
       "role": "guest"
     }
   ],
@@ -71,7 +71,7 @@
   "pull_quote": "The entire order book actually runs on chain. There's no one computer that if shut down, the whole thing stops.",
   "quote_attribution": {
     "name": "Jeff",
-    "team": "Hyperliquid",
+    "team": null,
     "role": "founder"
   },
   "audio_captured": true,

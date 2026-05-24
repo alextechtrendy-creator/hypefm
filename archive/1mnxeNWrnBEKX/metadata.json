@@ -1,0 +1,90 @@
+{
+  "space_id": "1mnxeNWrnBEKX",
+  "title": "HypurrCo AMA Series: GlueX Terminal",
+  "state": "ended",
+  "created_at": "2025-11-05T08:34:50Z",
+  "started_at": "2025-11-10T14:00:21Z",
+  "ended_at": "2025-11-10T14:37:00Z",
+  "scheduled_start": "2025-11-10T14:00:39Z",
+  "lang": "pt",
+  "is_ticketed": false,
+  "participant_count": 89,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "GlueX Terminal",
+      "handle": "GluexTerminal",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "GlueX Protocol",
+      "handle": "GluexProtocol",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Filius",
+      "handle": "FiliusJff",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1mnxeNWrnBEKX",
+  "summary_title": "GlueX Terminal: unified DeFi portfolio view with risk, yield, and execution",
+  "summary_description": "Felix from GlueX reveals their terminal product—aggregating all DeFi positions, liquidation risk, and APY in one dashboard launching December.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "execution"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 188,
+      "label": "HyperCollective introduces itself as ecosystem validator and content creator"
+    },
+    {
+      "timestamp_seconds": 279,
+      "label": "Felix shares GlueX's origin: three years building intent solvers for Curve"
+    },
+    {
+      "timestamp_seconds": 430,
+      "label": "Pivot moment: recognizing fragmentation across L2s motivated building aggregation"
+    },
+    {
+      "timestamp_seconds": 702,
+      "label": "Two-million gas limit and vault tokens require HyperLiquid-specific optimization"
+    },
+    {
+      "timestamp_seconds": 952,
+      "label": "GlueX Terminal revealed: unified semantic layer for all DeFi protocols"
+    },
+    {
+      "timestamp_seconds": 1255,
+      "label": "Terminal combines portfolio overview, risk analytics, and direct execution"
+    },
+    {
+      "timestamp_seconds": 1498,
+      "label": "Recent $19B liquidation and protocol exploits prove portfolio risk visibility crucial"
+    },
+    {
+      "timestamp_seconds": 1864,
+      "label": "Beta access rolling out this week, public December launch targeted"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "GlueX",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2197.3333125,
+  "capture_failure_reason": null
+}

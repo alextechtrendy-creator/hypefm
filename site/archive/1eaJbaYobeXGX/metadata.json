@@ -1,0 +1,90 @@
+{
+  "space_id": "1eaJbaYobeXGX",
+  "title": "HypurrCollective x Ambit Labs",
+  "state": "ended",
+  "created_at": "2024-10-26T17:30:31Z",
+  "started_at": "2024-10-31T14:30:04Z",
+  "ended_at": "2024-10-31T15:21:38Z",
+  "scheduled_start": "2024-10-31T14:30:00Z",
+  "lang": "fr",
+  "is_ticketed": false,
+  "participant_count": 267,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Sphere CM",
+      "handle": "sphere_cm",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Cain O'Sullivan",
+      "handle": "cainosullivan",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1eaJbaYobeXGX",
+  "summary_title": "Ambit's HyperDrive: spot lending and tokenized vaults on Hyperliquid",
+  "summary_description": "Ambit Labs brings a one-stop DeFi shop to Hyperliquid—lending against yield-bearing collateral, tokenized HLP vaults, and liquid staking.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 304,
+      "label": "Hypercollectives mission: marketing and community for Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 426,
+      "label": "Cain introduces his 25-year engineering background, Terra/Anchor history"
+    },
+    {
+      "timestamp_seconds": 487,
+      "label": "Matt: Anchor reached third-largest DeFi protocol before Terra collapse"
+    },
+    {
+      "timestamp_seconds": 608,
+      "label": "HyperDrive: vertically integrated spot lending, tokenized HLP vaults"
+    },
+    {
+      "timestamp_seconds": 790,
+      "label": "Why Hyperliquid: native perps and spot liquidity enable novel yield strategies"
+    },
+    {
+      "timestamp_seconds": 1282,
+      "label": "LST differentiation: utility within HyperDrive, not the token itself"
+    },
+    {
+      "timestamp_seconds": 1557,
+      "label": "DeFi trends on Hyperliquid still unknown—possibilities emerging with EVM access"
+    },
+    {
+      "timestamp_seconds": 2132,
+      "label": "Hyperliquid community organic despite points program ending—volume and liquidations hold"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Hyperdrive",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3088.6826875,
+  "capture_failure_reason": null
+}

@@ -14,7 +14,7 @@ _Hyperblades is launching a lending platform, NFT marketplace, raffle-based laun
 ## Who's talking
 
 - **rekt_gang** (@rekt_gang) _host_
-- **Frank** — Hyperblades _guest_
+- **Frank** — HyperBlades _guest_
 - **Zerk** — HyperBlades _guest_
 - **Pedro** _guest_
 

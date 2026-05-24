@@ -13,7 +13,7 @@ _How a year-old meme became a tiered NFT project with customizable traits, and w
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — Wrecking _host_
+- **Zerk** (@rekt_gang) — HyperBlades _host_
 - **Catbal** — Catbal _guest_
 - **Toast** _guest_
 

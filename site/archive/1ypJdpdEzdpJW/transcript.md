@@ -1,0 +1,160 @@
+# Solve Finance brings Bitcoin yield to Hyperliquid, Binance launch tomorrow
+
+_On-chain Bitcoin reserve with 2.5B TVL launches dual listing. How Solve abstracts staking complexity for conservative Bitcoin holders._
+
+**Host:** @hypurr_co
+**Date:** 2025-01-16
+**Duration:** 36:30
+**Tags:** ecosystem, listings, trading
+**Source:** https://x.com/i/spaces/1ypJdpdEzdpJW
+
+## Who's talking
+
+- **HypurrCollective.hl 🐱** (@hypurr_co) _host_
+- **Solv Protocol** (@SolvProtocol) _guest_
+- **Catherine Chan** (@catwychan) _guest_
+
+## Key moments
+
+- **[3:31]** Solve launching on Binance and Hyperliquid this week
+- **[6:03]** Catherine introduces Solve: on-chain Bitcoin reserve with 1,000 BTC
+- **[7:03]** Solve live on 16+ chains, Bear Chain vault hit 100M TVL in 3 days
+- **[9:34]** Solve's mission: risk-adjusted Bitcoin denominated returns for holders
+- **[19:09]** Solve BTC solves liquidity fragmentation across wrapped Bitcoin variants
+- **[24:41]** Season One points program complete, Season Two live, airdrop checks today
+- **[26:43]** Four token functions: governance, staking, fee discounts, Bitcoin reserve offering
+- **[28:47]** Binance listing tomorrow 6pm Singapore time, Hyperliquid 30min-1hr delay
+
+## Transcript
+
+**[3:01] SPEAKER_00:** gm gm hi there all right i think we can probably begin yeah that sounds good trying to get the official account to join it might take some time um but yeah let's let's uh let's start let's start it nice okay welcome back to another series of hyper collective ama um today we have a very special guest one
+
+**[3:31] SPEAKER_00:** of the largest uh bpc5 um project solve finance uh i think everyone should probably know it uh at least by name because they are making rather big waves uh they are gonna launch on binance as well as hyperliquid this week so we'll touch more on that later uh for those who are new and still uh don't know what hyper collective is uh basically hyper collective is
+
+**[4:02] SPEAKER_00:** a grassroots initiative that is focused on enhancing the hyperliquid ecosystem uh we are a collective of founders builders traders and power users uh that all worked in harmony to drive innovation and growth within the ecosystem ourselves we have a few uh initiatives that um that are aimed at enriching our community and uh has enhanced the hyperliquid ecosystem so far i think the most notable one is uh ecosystem guide uh and
+
+**[4:32] SPEAKER_00:** our blog which um which is the dedicated page highlighting various projects within the ecosystem uh most of them are already live on hyper evm testnet uh and will be launched on hyper evm mainnet uh i think another uh big initiative of ours is also the our mainnet validator uh that is currently the largest stick uh validator outside of foundation nodes uh
+
+**[5:02] SPEAKER_00:** outside of this too we also i think a lot of users are also familiar with our content which is our weekly wrap -ups ecosystem guides amas like this one and many more so these are key initiatives that we've done so far we have partnered with a lot of other native ecosystem projects to bring liquid staking tokens to bring airdrops and multiple other cool stuff that are uh in the project so yeah that's a big one um and then we are working coming for
+
+**[5:33] SPEAKER_00:** stakeholders and our community. So I think today Solve is one of our very close friends. Catherine, why don't you talk more about, give a maybe like an introduction about what Solve is. Yeah, sure. Hey guys, Catherine here. So I'm the Head of Ecosystem at Solve. And maybe I'll just start by giving you guys an intro about Solve. So
+
+**[6:03] SPEAKER_00:** Solve, we're in the BTC finance ecosystem and we are a on -chain Bitcoin reserve. And what we're working on is to bring value and Bitcoin denominated returns to Bitcoin holders. And so with BTC is back to 100K today and we have the Trump inauguration on just next Monday. So for the entire crypto, especially on the price of Bitcoin in terms of outlook for
+
+**[6:33] SPEAKER_00:** the year 2025, I think we really could not pick a better time to launch Solve, which is going to be tomorrow. And so we positioned ourselves as the on -chain micro strategy. And I could probably talk a little bit about that in a minute. And so we currently have 1 ,000 Bitcoin in our reserve. So that's totaling about a little bit over 2
+
+**[7:03] SPEAKER_00:** .5 billion dollars in our reserve. And we also have a multi -chain expansion strategy, whereby right now we are live on more than 10 different chains. I think it's probably 16 the last time I count. That will include Ethereum, Arbitrum -based, Avalanche, just to name a few. And hopefully very soon we will have Hyperliquid as well. And we recently
+
+**[7:33] SPEAKER_00:** also participated in the bear chain pre -deposit vault. And earlier today it just hit 100 million in TVL. So that's a very significant milestone given that we just opened the vault for three days. And so obviously I look after all the chain expansion. So Hyperliquid as a chain has been on my personal radar, or actually on Solve's radar for a while. So I think that is probably how the community come to
+
+**[8:03] SPEAKER_00:** know about us, about us wanting to co -build on the Hyper -EVM ecosystem. So we do have a little bit of history well back. And the decision of launching Solve on Hyperliquid also come quite naturally from that, because a number of people that is quite, there's actually a lot more people at Solve that is way more, is even more bullish
+
+**[8:33] SPEAKER_00:** than me in terms of Hyperliquid. And they couldn't shut up about, like I've ever, like, I think they've been, they've been shilling me for months about, you know, like, you're going to check this out, you're going to check this, you're going to check this, you're going to check this thing out, like for a long time. Like I said, it's like, it's a perfect, but like, it's also a chain. So, so that sort of got on my radar, like for months. So I would probably just pause here. But also, again, so Binance
+
+**[9:04] SPEAKER_00:** has announced our listing. And so live trading will be on tomorrow, 6pm Singapore in time. And, and so we're very, very excited about that and Hyperliquid, hopefully at the same time. And I'll probably stop there. Nice. Thanks. That's a good overview. I think, perhaps, you could
+
+**[9:34] SPEAKER_00:** share, could you share more about how Solve BTC helped Bitcoin holders? Yeah, sure. So to put it very simply, we want to give Bitcoin holders risk adjusted and Bitcoin denominator returns. That's all we're doing. Put it simply. I know that some of the jargons that you've you've seen on our website, like we're seeking tokens, sometimes it might not make sense to traders or whatnot. But it's
+
+**[10:04] SPEAKER_00:** simply we want to give value to holders of Bitcoins. And our aim is to make it no longer a idle asset, but rather it is an asset that you could put into work. And it is an active asset that could sort of like work to generate yield for you. And and I think at the end of the day, I think what Solve has been building
+
+**[10:35] SPEAKER_00:** for over four years now. And so that's actually forever in crypto. That's two cycles. And we pivot to Bitcoin ecosystem earlier last year, so around 2024. And I think speaking from the result is proven to be a very successful pivot. We probably couldn't pick a better time to pivot and onto a very right narrative and sector. But we always I think from four
+
+**[11:05] SPEAKER_00:** years of navigating and trying to narrow, I think our principle is to what we want is to help design products that meets product market fit, such that the incentives that we put out whether or not its points, airdrops, token emissions, are only used to address what we're keeping, or we want to minimize and narrow. But now that that's attract people to come over but they will want to stay longer because we
+
+**[11:35] SPEAKER_00:** can continuously provide them with value and not just token emissions so that is i think that is probably the thing that set us apart with um our direct competitors in the market and also i'm seeing a lot of crypto projects at large uh because i um i don't know i i have not seen that many products that actually meet product market fit in crypto um there's i think that's very helpful and i think i'm i'm working very closely with um with some of
+
+**[12:05] SPEAKER_00:** the other ones including how to look at right here and um and so how do we how do we how are we sort of convince ourselves that there is actually a market for this right and so obviously btc5 um it it sounded like a gimmick it sounded like um it sounded like a game file or social file people want to do it for the sake of doing it but i like to think about the sector as bitcoin finance and what i mean by that and
+
+**[12:36] SPEAKER_00:** and i actually want to sort of bring you guys back to show you that there were actually earlier attempts on bitcoin finance either from trap or c5 and um i don't know if you guys remember like grayscale um from like 20 2013 uh so 2013 grayscale launched the bitcoin ets uh so essentially is uh it's bringing bitcoin to more of a mass awareness
+
+**[13:06] SPEAKER_00:** um allowing sort of traditional institutions to be able to get involved in bitcoin um and that at that time the market cap of gbtc the gray cell um bitcoin trust is probably about i don't know probably about about billion dollars so that is probably the i would say that's the market cap of the entire sector because they're the only people that are attempting that um and then fast forward to probably about 2018 uh
+
+**[13:36] SPEAKER_00:** probably 2015 2018 uh there are some centralized platform that emerges um uh some of them uh uh one one is babel finance and one and the other is matrixport um so essentially uh the bitcoin miners well the bitcoin holders or the yeah the the the bitcoin holders that load that whole significant amount of bitcoin largely at the time was miners they they
+
+**[14:07] SPEAKER_00:** have this need of um generating yield um at the time so so it was managed by a centralized platform and essentially what matrixport sort of offer was a service that allowed people to lend and borrow bitcoin and or some sort of fixed product on bitcoin and as such give them a lot of money and they were able to get a lot of money from them a uh some sort of return so i think that is so in my opinion that is actually very similar to what we're doing and and and i will see that as a
+
+**[14:37] SPEAKER_00:** second attempt on bitcoin finance and so so what so i think i think what solve is doing here like is not some it is something that it is actually a quite existing business and uh what uh matrixport and the other centralized platform they're they're offering have like they have natural clients right so so it actually it actually showed that we have a it actually showed that we we do have a market
+
+**[15:07] SPEAKER_00:** needs for it and so in the year of 2024 we have largely expended bitcoin on defi right and i don't know if you i don't know if you guys like know like these like wbdc they've kind of been around for a long time but as a normal person you probably don't want to hold wbdc you don't want to hold wbdc you don't want to hold wbdc because because the yield is about less than 0 .1 and so so that's that's very unattractive for retail um there's there's virtually no reason
+
+**[15:37] SPEAKER_00:** for you to hold wbdc on chain most people um retail i care to speculate a lot of them hold their bitcoin on centralized exchange right and and i think ever since sort of solve emerges that kind of suddenly um makes the entire bitcoin on defi very vibrant whereby when we have yield bearing bitcoin products there are so much more defi strategies uh
+
+**[16:07] SPEAKER_00:** um and crushing strategy that you could start deploying so it kind of suddenly make things very interested very interesting and you know the fact that we have 2 .5 billion dollars with a bitcoin in in a very short space of time almost shows a um a validation to what we're doing so i think and then and then concluding the year of 2024 looking back um i think we have done tremendously on
+
+**[16:38] SPEAKER_00:** um attracting bitcoin users on chain and so for us we then look at what is next right because bitcoin on chain currently is is actually very a very very small amount compared to the where are the the rest of the bitcoin at large it's probably in the middle of the world but it's probably in the middle of the world when we're talking about two two percent of the entire bitcoin bitcoin holders in market cap where are the rest of the bitcoin so so i think in the year of 2025 so will actually be
+
+**[17:08] SPEAKER_00:** expanding uh to attract uh bitcoin holders on centralized exchanges and on track five at large and that is something that we are very bullish about um uh even though that we are we have we're actually very different from hyper liquid like hyperliquids very grand grassroots uh no vc um is all very community driven and then solve is actually very bc right like and we we do we do we did exact
+
+**[17:38] SPEAKER_00:** establish quite good relationship with centralized exchanges with probably i think we have finance by bid okay x um bacon i think already announced um we actually work with them uh quite a lot in the year 2024 um and um and i think that this relationship could help us leverage uh further and um kind of activating the bitcoin on centralized exchange
+
+**[18:09] SPEAKER_00:** um so yeah so i think uh i think uh i i actually i like i thought about a kind of like ramble a little bit but tldr is um we want to give the court holders um a risk -adjusted um bitcoin denominator return such that their bitcoin is is no longer just sitting around, they're actively working for them. And in the year of 2025, there's a lot more opportunities for Solve when we can tap into the Bitcoins in centralized exchanges
+
+**[18:39] SPEAKER_00:** and beyond. Yeah, but I think that's a very detailed explanation, like sharing history, competitors, the entire market around Bitcoin finance. I think a lot of people are aware as well, like Bitcoin evidence leads to, I think, over a trillion dollars of idle capital. And liquidity fragmentation in general is very apparent across all chains in DeFi. So how
+
+**[19:09] SPEAKER_00:** does Solve BTC actually solve this? Do you want to share more about this, like stating abstraction layer that Solve actually has? Yeah, sure. So liquidity fragmentation, I guess that's a big part of it. That's exactly what Solve BTC is trying to solve. The problem with what is happening on the Bitcoin representation on each chain is they could be very different, right? The dominant wrapped Bitcoin on each
+
+**[19:39] SPEAKER_00:** chain, sometimes it could be WBDC and sometimes it could be the CBBDC, which is the Coinbase version of it. And then you also have the Binance. Yeah. BTCB. So I would say it does cause liquidity fragmentation. So essentially, Solve BTC would 100 % solve that challenge, whereby we accept
+
+**[20:10] SPEAKER_00:** minting of Solve BTC from these Bitcoin wrappers from different chains. And once you have one Solve BTC, you could take it to any chains. So it certainly enables quite a lot of opportunities there, like some of the sophisticated DeFi farmers, they go as far as taking things cross -chain as well. And I think we are, Solve, we
+
+**[20:40] SPEAKER_00:** are every day, day in, day out, we're about 70 % of the Chainlink CCIP. So Chainlink CCIP is... Yeah. It is their cross -chain interoperability protocol. And Solve, ever since we started using Chainlink, we're just consistently 70 % of their volume every single day. So there's quite a lot of demand. Once you hold Solve BTC, it's shown that you have significant demand for people to
+
+**[21:10] SPEAKER_00:** take Solve BTC on each ecosystem. So taking back to the staking abstraction layer. Yeah. So it is something that we advocate in terms of the main aim for staking abstraction layer, or what we call the SAL, is mainly to simplify the user experience, right? Nobody really understands Bitcoin
+
+**[21:40] SPEAKER_00:** staking. Not many people. Not many people do. And... But... But we don't necessarily need people to understand, except that Solve is able to put your Bitcoin to work. And because Bitcoin traditionally is not a stakeable asset, it's not like ETH or Solana or Hype, in that it's
+
+**[22:10] SPEAKER_00:** a proof of work token, right? It's not stakeable. You can't really stake it for anything. So for the longest time, people are not able to stake Bitcoin. And that kind of innovation really, really, really came around kind of around like 2024, where there are a number of emerging protocols that are
+
+**[22:40] SPEAKER_00:** working towards that initiative, that Bitcoin staking slowly become accepted by Bitcoin holders. Bitcoin holders has interesting traits. Yeah. Bitcoin staking is a concept whereby they're quite conservative. They don't YOLO on things. It's very different from everybody else in crypto. They don't do the memes or they won't sacrifice
+
+**[23:10] SPEAKER_00:** their Bitcoin to buy memes, right? And when Bitcoin staking, this concept came about, it slowly, slowly get accepted by Bitcoin holders. And I think that's something that's going to continue to be used to be assured that it is not something that is like a meme coin that I am going to sacrifice or lose my entire Bitcoin for the promise of yield. And I think the entire
+
+**[23:41] SPEAKER_00:** BTC ecosystem as an aggregate has grown quite significantly as a whole in the year of 2024. Yeah. Yeah. Yeah. Yeah. I think in terms of Sol, we still want to abstract that complexity away from the user whereby let us handle the technicalities. And as a Bitcoin holder, you can be assured that you will be happy with one
+
+**[24:11] SPEAKER_00:** of the five products that we offer you that gives you different types of the quantum denominated return. You got it. I think Solve BTC definitely did a very good job in abstracting the complexity. away all the technicality difficulties um and it's just one step further than what uh bitcoin i think um soft also currently has an ongoing point system uh
+
+**[24:41] SPEAKER_00:** perhaps share more about how users can earn points yeah sure uh so we do have we do we uh we we just uh we finished our season one um i think last week and then today uh if you participated in our season one you will be able to check how much uh soul you are eligible to receive as an airdrop and i think so far the consensus is um is generally quite positive i i was
+
+**[25:12] SPEAKER_00:** expecting quite a lot of fun but so far i'm not hearing i think most people are actually quite happy and so so season one i think um um it's in my opinion it's quite a success and uh you and obviously you'll be able to see your actual um roi or apy uh when soul token has a price tomorrow uh season two has uh season two actually has already started um immediately on the back end of season one and season two uh points
+
+**[25:42] SPEAKER_00:** program uh we try to make it actually more simpler than season one uh the rules are quite straightforward uh that is something that we want to make sure this time and you but i would say i would say it is with it is our goal it is off school that in the very in the future we no longer need a points program whereby you know bitcoin holders are
+
+**[26:13] SPEAKER_00:** already satisfied with the product that would be given them that we that that that we do not need extra boost um from our token emission to almost uh in a way subsidize uh their games and that that is something we're working towards but season two is live right now so um so yeah so if you want to participate um now is the time so we all know how these points eventually
+
+**[26:43] SPEAKER_00:** convert uh to the soft token especially with the imminent launch of it uh what are some uh key use cases of the soft token all right so um there are four there are four main functions of the soul token so number one is obviously governance um and i say that yeah i kind of say that with a with a with a tone but yes you you so token holders can vote on governance decisions um in
+
+**[27:13] SPEAKER_00:** the very in the very near future and participate in governance and um the second one is sticking and so by sticking soul um token and the sticking abstraction layer uh the stickers can earn um the protocol admissions as well and the last one will be a fee discount so if you hold uh self tokens there's um so you'll be able to enjoy fee discounts including sort of redemption fees for self btc and last but not least there's is something that we have
+
+**[27:43] SPEAKER_00:** not advertised too much um yet because details will come available very soon uh so um we will be launching something we call the bitcoin reserve offering uh this is something very similar to the bitcoin reserve offering uh so we're going to be launching something similar to what microstrategy is doing with their with their strategy um issuing convertible note um to purchase bitcoin as as their as their microstrategy's corporate reserve and we were we will be doing actually something quite
+
+**[28:13] SPEAKER_00:** similar uh it's actually written in our tokenomics um we have not refilled too much information about that uh but that will become available very soon i will say it will it will become available uh hopefully a couple of weeks after our token launch so that is something that we are very excited about uh we've been we've been sort of boasting that we want to be the launching microstrategy and this is exactly how we're going to do it all right
+
+**[28:47] SPEAKER_00:** i think uh regarding the soft token uh finance has also i believe uh announced soft protocols like the third project on binance uh mega drop platform uh i think if i remember correctly the soft token will also be listed uh tomorrow and i think it's going to be a little bit later so i think it's going to be a little bit later so i think it's going to be a little bit later so i think it is also like public information that soft ticker is live on hyper and
+
+**[29:17] SPEAKER_00:** then soft has secured the ticker on hyperliquid and it's um waiting to go live at the same time uh as finance so what are the plans around listing on hyperliquid and also um will it be simultaneous okay so i can confirm that the listing on hyperliquid will not be sooner than the finance listing finance um testing initial listing and will it be simultaneous uh
+
+**[29:48] SPEAKER_00:** that is something that we are um we are working to ensure uh but i would say expect potentially a delay of 30 minutes to an hour um almost almost simultaneous yep okay i think everyone is probably um looking forward to launch to solve launch on both binance and hyperliquid uh personally i'll likely be buying uh but on hyperliquid
+
+**[30:18] SPEAKER_00:** not on binance so uh very excited and hopefully it goes uh extremely successful for you guys uh i think um yeah perhaps to um wrap up the spaces i think one point that you mentioned earlier is that uh solve is also kind of the opposite of hyperliquid you guys have raised a lot of money from uh many different high profile vcs uh how do you think um how
+
+**[30:48] SPEAKER_00:** do you see the community shaping uh the future of solve and also solve the integration with hyperliquid that is a good question i mean there's no right and wrong right i mean i do wish i do wish we're community driven too uh but there are times that um it is it is it is easier that if you have some like starting um starting capital um there's a lot it's a lot easier for you to hire the right talent uh
+
+**[31:19] SPEAKER_00:** without sort of asking them to be underpaid um so um the the ethos are different or the way approaching it is very different um but um i mean i mean i would love to see actually like i wouldn't say is uh it's it's too much in conflict i hope that it will marry very well um when hyper ebm is life um
+
+**[31:49] SPEAKER_00:** i do hope to see there's a mix of um grassroots project and bc back project right um so i mean take i mean take take soul for example right so if we are integrating with a protocol um the minimum the very very minimum that will ask for this protocol is is they have to at least be audited and one audit could could take a hundred thousand dollars and that is not something that um perhaps a non
+
+**[32:19] SPEAKER_00:** a grassroots project could could afford so um so i would so so i would probably expect when hyper ebm comes to life the people that comes to build the hyper ebm ecosystem would be like a combination um like i i i don't like in my opinion i don't think vc money is necessarily evil they are like like you know sometimes you know they are the early believer believers and um and having that
+
+**[32:49] SPEAKER_00:** starting fund is is actually very helpful um otherwise you might not be able to uh move things very quickly so um i think hyper liquid is do uh in in my opinion it's very hard to replicate its success i honestly don't think there is many other teams out there that is able to build a product like this without bc money um i don't think i don't i don't actually i actually couldn't think of any
+
+**[33:19] SPEAKER_00:** other team that could do that um so i think it's exception not the norm and i probably wouldn't accept everybody that is building on hyper evm is using their their own money to do it i really hope not um and i do i do the way i see it right like the vc that supported us um or the angels that supported us they are our early believers when we probably have nothing like a like a product market fit product when we were um
+
+**[33:49] SPEAKER_00:** trying to pivot to the right direction they still they still invest in us so i don't see them as evil and i do feel like they should be they they they should be rewarded and i i i think that eventually um that's what hyper evm if we want to have a vibrant ecosystem i think that is that is what i see um uh the future i think it's going to be a mix and i think for solve um i i i i know that we're probably
+
+**[34:19] SPEAKER_00:** a little bit less cash cash drops than some of some of our partners and um you know we we definitely want to support them as well yep i fully agree with you i think the hyperliquid team is definitely an exception and not the norm um i think it definitely helped with the background and trading and how uh well capitalized they were already and uh they don't need um external funding i i think
+
+**[34:50] SPEAKER_00:** yeah i think with that uh that kind of wrap up the spaces i think that's a very very comprehensive overview that katherine has given uh us regarding solve i'll probably just open a floor uh to listeners for any questions uh that they would like to ask katherine about solve right now so if you have a question just uh request to speak all right
+
+**[35:52] SPEAKER_00:** i think everyone is very happy with uh katherine's sharing today there's no questions and i think it's really a very detailed view uh people are probably very optimistic and excited about the um this coming week so yeah um all the best once again and thank you everyone for joining today thank you for having me yes stay tuned tomorrow tomorrow 6 p .m yep all
+
+**[36:22] SPEAKER_00:** right see you thanks guys bye goodbye

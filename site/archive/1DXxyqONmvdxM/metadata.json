@@ -1,0 +1,65 @@
+{
+  "space_id": "1DXxyqONmvdxM",
+  "title": "HypurrCo AMAs: Hyperdrive Launch, featuring LayerZero",
+  "state": "ended",
+  "created_at": "2025-05-21T02:07:14Z",
+  "started_at": "2025-05-28T15:00:35Z",
+  "ended_at": "2025-05-28T15:57:03Z",
+  "scheduled_start": "2025-05-28T15:00:00Z",
+  "lang": "other",
+  "is_ticketed": false,
+  "participant_count": 534,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Hyperdrive",
+      "handle": "hyperdrivedefi",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Thlither",
+      "handle": "0xthlither",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Cain O'Sullivan",
+      "handle": "cainosullivan",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "𝑴𝒂𝒓𝒕𝒊𝒏𝒛.HL",
+      "handle": "onchain_martinz",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Chip.hl // Evgeny Yurchenko",
+      "handle": "chip1cr",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DXxyqONmvdxM",
+  "summary_title": null,
+  "summary_description": null,
+  "topic_tags": [],
+  "key_moments": [],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Hyperdrive",
+    "role": null
+  },
+  "audio_captured": false,
+  "audio_duration_seconds": null,
+  "capture_failure_reason": "yt-dlp failed: ying API: Bad guest token; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n"
+}

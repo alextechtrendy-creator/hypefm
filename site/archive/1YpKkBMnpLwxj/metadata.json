@@ -14,13 +14,13 @@
     {
       "name": "Zerk",
       "handle": "rekt_gang",
-      "team": "rekt_gang",
+      "team": null,
       "role": "host"
     },
     {
       "name": "PBR",
       "handle": null,
-      "team": "rekt_gang",
+      "team": null,
       "role": "guest"
     },
     {

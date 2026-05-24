@@ -1,0 +1,96 @@
+{
+  "space_id": "1lDxLlpodVzxm",
+  "title": "HypurrCollective AMA Series: Pear Protocol.",
+  "state": "ended",
+  "created_at": "2024-12-29T12:15:03Z",
+  "started_at": "2025-01-03T15:00:39Z",
+  "ended_at": "2025-01-03T15:40:11Z",
+  "scheduled_start": "2025-01-03T15:00:00Z",
+  "lang": "pt",
+  "is_ticketed": false,
+  "participant_count": 455,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "n1ce.hl | perp dex arc",
+      "handle": "0xn1ce",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "PurrLaserrCat-BlueLaserr Domination on Hyperliquid",
+      "handle": "PurrLaserrCat",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "anḍ̴͆͒ŷ̶͙̱̲",
+      "handle": "andyhyfi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Pear Protocol 🍐 (v2.1 arc)",
+      "handle": "pear_protocol",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lDxLlpodVzxm",
+  "summary_title": "Pair trading on Hyperliquid: narrative trades with 400M volume in four months",
+  "summary_description": "Pear Protocol founder explains pair trading mechanics, 45% win rate potential, and airdrop season two details.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 271,
+      "label": "Pear Protocol intro: first pair trading platform in crypto"
+    },
+    {
+      "timestamp_seconds": 392,
+      "label": "Why pair trading beats solo leverage: consistent profits through narrative trades"
+    },
+    {
+      "timestamp_seconds": 483,
+      "label": "Key differentiators: charting, tokenized positions, automated take profit and stop loss"
+    },
+    {
+      "timestamp_seconds": 696,
+      "label": "400M volume in four months, hundreds of active traders acquired"
+    },
+    {
+      "timestamp_seconds": 816,
+      "label": "Airdrop season two: three NFT tiers, 50k to 100k volume thresholds"
+    },
+    {
+      "timestamp_seconds": 999,
+      "label": "Deploying on Hyperliquid EVM: 75-80% done with execution APIs"
+    },
+    {
+      "timestamp_seconds": 1563,
+      "label": "Why Hyperliquid beats Arbitrum: points, staking, airdrops attract CeFi users"
+    },
+    {
+      "timestamp_seconds": 1745,
+      "label": "Hyperliquid solved cold-start liquidity via HLP and gasless trading"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Pear Protocol",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2368.32,
+  "capture_failure_reason": null
+}

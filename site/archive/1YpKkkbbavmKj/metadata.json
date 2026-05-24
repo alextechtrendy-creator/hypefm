@@ -1,0 +1,156 @@
+{
+  "space_id": "1YpKkkbbavmKj",
+  "title": "Stablecoin Roundtable $USDH",
+  "state": "ended",
+  "created_at": "2025-09-09T03:16:33Z",
+  "started_at": "2025-09-09T14:27:58Z",
+  "ended_at": "2025-09-09T16:59:56Z",
+  "scheduled_start": "2025-09-09T14:30:00Z",
+  "lang": "de",
+  "is_ticketed": false,
+  "participant_count": 4470,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Rune",
+      "handle": "RuneKek",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Drake Evans",
+      "handle": "drakeevans",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Anish Agnihotri",
+      "handle": "anishagnihotri",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "aaalex.hl",
+      "handle": "aaalexhl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Duck",
+      "handle": "0xDuckworth",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Nass Eddequiouaq",
+      "handle": "nassyweazy",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Anicet¤",
+      "handle": "Smallro_man",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Anon Canadian",
+      "handle": "mishdrag",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "aadil",
+      "handle": "amamujee",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "bhau",
+      "handle": "bhau___",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Sean Kelley",
+      "handle": "SeanKelleyX",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Artem Oak",
+      "handle": "Artem_Oak",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YpKkkbbavmKj",
+  "summary_title": "Six stablecoin teams compete for Hyperliquid's native USDH issuer mandate",
+  "summary_description": "Paxos, Frax, Sky, Bastion, Agora, and Native Markets pitch compliance strategies and revenue-sharing models for Hyperliquid's new stablecoin.",
+  "topic_tags": [
+    "tokenomics",
+    "governance",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 325,
+      "label": "Host opens stablecoin roundtable with six competing teams"
+    },
+    {
+      "timestamp_seconds": 415,
+      "label": "Ball: Paxos is only team with OCC federal charter approval for $10B+ asset"
+    },
+    {
+      "timestamp_seconds": 574,
+      "label": "Drake: Agora believes stablecoins should be run as public goods with high rev share"
+    },
+    {
+      "timestamp_seconds": 666,
+      "label": "Max: Native Markets aims to build Hyperliquid-native stablecoin with spot/perp integration"
+    },
+    {
+      "timestamp_seconds": 1000,
+      "label": "Sean: Frax proposes 0% take rate, 100% yield streamed on-chain via FraxNet"
+    },
+    {
+      "timestamp_seconds": 1182,
+      "label": "Rune: Sky offers $8B USDS experience, modular approach to stablecoin ecosystem"
+    },
+    {
+      "timestamp_seconds": 3290,
+      "label": "Bastion proposes 90% reserve interest to growth, 50% to assistance fund, 40% to incentives"
+    },
+    {
+      "timestamp_seconds": 3565,
+      "label": "Rune: Monthly settlement cycles with autonomous buyback system for Sky USDH"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "USDH",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 9124.5653125,
+  "capture_failure_reason": null
+}

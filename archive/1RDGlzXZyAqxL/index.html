@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AI agents automating HLP loops: Neko's DeFi infrastructure on Hyperliquid - hypefm</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --bg-card: #ffffff;
+    --fg: #222;
+    --fg-muted: #777;
+    --fg-faint: #999;
+    --accent: #0d6856;
+    --accent-bg: rgba(13, 104, 86, 0.1);
+    --quote-bg: #043b30;
+    --quote-fg: #fafaf7;
+    --quote-accent: #97FCE4;
+    --border: #d4d2c5;
+    --border-light: #e5e5e0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    background: var(--bg); color: var(--fg);
+    margin: 0; line-height: 1.5; -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+  .back {
+    font-size: 11px; color: var(--fg-muted);
+    text-decoration: none; display: inline-block; margin-bottom: 1.25rem;
+  }
+  .back:hover { color: var(--accent); }
+  h1 {
+    font-size: 24px; font-weight: 500; line-height: 1.25;
+    margin: 0 0 0.5rem; letter-spacing: -0.01em;
+  }
+  .description {
+    font-size: 14px; color: #555;
+    margin: 0 0 1rem; line-height: 1.55;
+  }
+  .quote-card {
+    background: var(--quote-bg);
+    border-radius: 8px;
+    padding: 22px 24px;
+    margin: 0 0 1.25rem;
+  }
+  .quote-text {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--quote-fg);
+    line-height: 1.4;
+    margin: 0;
+    font-weight: 500;
+  }
+  .quote-byline {
+    margin: 14px 0 0; padding-top: 12px;
+    border-top: 1px solid rgba(151, 252, 228, 0.18);
+    display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap;
+    font-size: 12px; line-height: 1.4;
+  }
+  .quote-byline-name { color: var(--quote-fg); font-weight: 600; }
+  .quote-byline-role { color: rgba(151, 252, 228, 0.85); }
+  .quote-byline-sep { color: rgba(151, 252, 228, 0.4); }
+  .quote-byline-team {
+    display: inline-flex; align-items: center;
+    background: rgba(151, 252, 228, 0.12);
+    border: 1px solid rgba(151, 252, 228, 0.3);
+    color: var(--quote-accent); font-weight: 500;
+    padding: 2px 9px; border-radius: 12px;
+    text-decoration: none; font-size: 11px;
+    transition: background 0.1s;
+  }
+  .quote-byline-team:hover {
+    background: rgba(151, 252, 228, 0.22);
+    border-color: rgba(151, 252, 228, 0.5);
+  }
+  .meta { font-size: 11px; color: var(--fg-faint); margin: 0 0 1.25rem; }
+  .meta .tag { color: var(--accent); font-weight: 500; cursor: pointer; }
+  .meta .tag:hover { text-decoration: underline; }
+  audio { width: 100%; height: 42px; margin-bottom: 1.5rem; }
+  .audio-unavailable {
+    font-size: 12px; color: var(--fg-muted); font-style: italic;
+    padding: 0.7rem 0.9rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px;
+    margin-bottom: 1.5rem;
+  }
+  .section-label {
+    font-size: 11px; color: var(--fg-muted);
+    margin: 1.5rem 0 0.5rem; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .participants { display: flex; flex-direction: column; margin-bottom: 1.75rem; }
+  .participant {
+    display: flex; gap: 16px; padding: 10px 0;
+    border-top: 1px solid var(--border-light);
+    align-items: baseline;
+  }
+  .participant:first-of-type { border-top: 0; padding-top: 4px; }
+  .participant-name {
+    font-size: 13px; font-weight: 500; color: var(--fg);
+    min-width: 120px;
+  }
+  .participant-name a { color: var(--accent); text-decoration: none; }
+  .participant-name a:hover { text-decoration: underline; }
+  .participant-affiliation {
+    font-size: 12px; color: #666; flex: 1; line-height: 1.45;
+  }
+  .participant-role {
+    font-size: 10px; color: var(--accent); font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.05em;
+    background: var(--accent-bg); padding: 2px 7px; border-radius: 3px;
+  }
+  .moments { display: flex; flex-direction: column; gap: 2px; margin-bottom: 1.75rem; }
+  .moment {
+    display: flex; gap: 12px; align-items: baseline;
+    padding: 8px 10px; margin: 0 -10px;
+    border-radius: 4px; cursor: pointer;
+    transition: background 0.1s;
+  }
+  .moment:hover { background: white; }
+  .moment-ts {
+    font-size: 12px; color: var(--accent); font-weight: 500;
+    min-width: 52px; font-variant-numeric: tabular-nums;
+  }
+  .moment-label { font-size: 13px; margin: 0; line-height: 1.45; color: #444; }
+  .transcript-toggle {
+    border-top: 1px solid var(--border-light); padding: 1rem 0 0 0;
+    margin-top: 1.5rem;
+    font-size: 12px; color: var(--accent); cursor: pointer;
+    background: none; border-left: none; border-right: none; border-bottom: none;
+    font-family: inherit; font-weight: 500;
+  }
+  .transcript-toggle:hover { text-decoration: underline; }
+  #transcript { display: none; margin-top: 1rem; }
+  #transcript.visible { display: block; }
+  .chunk {
+    padding: 0.7rem 0.85rem; margin-bottom: 0.4rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px; cursor: pointer;
+    transition: border-color 0.1s;
+  }
+  .chunk:hover { border-color: var(--border); }
+  .chunk-header {
+    display: flex; gap: 0.6rem; font-size: 11px; margin-bottom: 0.25rem;
+    color: var(--fg-muted);
+  }
+  .chunk-ts { color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500; }
+  .chunk-speaker { font-weight: 500; }
+  .chunk-text { color: #333; font-size: 13px; line-height: 1.55; }
+  .footer {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border-light);
+    color: var(--fg-faint); font-size: 11px; text-align: center;
+  }
+  .footer a { color: var(--fg-muted); text-decoration: none; }
+  .footer a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    h1 { font-size: 20px; }
+    .quote-text { font-size: 15px; }
+    .quote-card { padding: 18px 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<a href="../../index.html" class="back">&larr; back to hypefm</a>
+
+<h1>AI agents automating HLP loops: Neko's DeFi infrastructure on Hyperliquid</h1>
+<p class="description">How Neko is building backend DeFi AI agents to solve capital efficiency, not just UX—plus 33% airdrop strategy and private beta launch.</p>
+
+<p class="meta">@hypurr_co &middot; mar 05, 2025 &middot; 31:09 &middot; <a class="tag" href="../../index.html?tag=ecosystem">ecosystem</a>, <a class="tag" href="../../index.html?tag=infrastructure">infrastructure</a>, <a class="tag" href="../../index.html?tag=vaults">vaults</a></p>
+
+<audio controls preload="metadata" src="https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/1RDGlzXZyAqxL/audio.m4a"></audio>
+
+<p class="section-label">who's talking</p><div class="participants"><div class="participant"><div class="participant-name"><a href="https://x.com/hypurr_co" target="_blank" rel="noopener">HypurrCollective.hl 🐱</a> <span style="color:#999;font-weight:400;">@hypurr_co</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">host</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/rardedd" target="_blank" rel="noopener">rardedd</a> <span style="color:#999;font-weight:400;">@rardedd</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/neko_hl" target="_blank" rel="noopener">neko.hl</a> <span style="color:#999;font-weight:400;">@neko_hl</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/Cryptohalo1" target="_blank" rel="noopener">Halodunka</a> <span style="color:#999;font-weight:400;">@Cryptohalo1</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/Marvinsin1" target="_blank" rel="noopener">Danielmarvin(❖,❖)</a> <span style="color:#999;font-weight:400;">@Marvinsin1</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div></div>
+
+<p class="section-label">key moments</p><div class="moments"><div class="moment" data-start="381"><span class="moment-ts">6:21</span><p class="moment-label">Neko introduced as DeFi AI storm for Hyperliquid and HyperEVM</p></div><div class="moment" data-start="442"><span class="moment-ts">7:22</span><p class="moment-label">Three reasons to build on Hyperliquid: community, egalitarian environment, execution</p></div><div class="moment" data-start="562"><span class="moment-ts">9:22</span><p class="moment-label">AI agents defined: bots with reasoning capacity, tools, and LLM APIs</p></div><div class="moment" data-start="623"><span class="moment-ts">10:23</span><p class="moment-label">DeFi AI agents unlock backend capital efficiency beyond UX improvements</p></div><div class="moment" data-start="847"><span class="moment-ts">14:07</span><p class="moment-label">Neko token bonded at 12M FDV in 20 minutes via HyperPump</p></div><div class="moment" data-start="908"><span class="moment-ts">15:08</span><p class="moment-label">100% fair launch float with 33% of supply airdropped to communities</p></div><div class="moment" data-start="1451"><span class="moment-ts">24:11</span><p class="moment-label">Private beta launching second or third week of March, rate-limited to 100 users</p></div><div class="moment" data-start="1616"><span class="moment-ts">26:56</span><p class="moment-label">V1 focuses on structured agentic workflows executing swaps and vault deposits automatically</p></div></div>
+
+<button id="transcript-toggle" class="transcript-toggle">+ show full transcript</button><div id="transcript"><div class="chunk" data-start="229.04"><div class="chunk-header"><span class="chunk-ts">3:49</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">GM, GM, welcome back to another episode of our Hyperco AMA. So the quick introduction about Hypercollective is that we are a collective of founders, builders, traders, and power users working together to contribute to its Hyperliquids ecosystem growth. We have done a couple of initiatives so far. Recently published out our ecosystem map, whereby pretty</div></div><div class="chunk" data-start="259.80"><div class="chunk-header"><span class="chunk-ts">4:19</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">much a comprehensive list of projects that are building on Hyper -EVM are already listed. And that complements our previous ecosystem directory. On top of that, we also have, we recently organized three events in three different countries. The... end of the Chinese New Year event hosted together with Nansen, another one in Hong Kong</div></div><div class="chunk" data-start="289.92"><div class="chunk-header"><span class="chunk-ts">4:49</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">consensus with our partners, and lastly, another of the Hypercollective gathers at ETH Denver. So that's our in real life events that we've hosted this year so far, with two that we helped last year as well. On top of those, we also... are the top mainnet validator outside of the foundation nodes, with around 40 million</div></div><div class="chunk" data-start="320.10"><div class="chunk-header"><span class="chunk-ts">5:20</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">hype staked with us thus far. So with that, we've secured multiple airdrops for our Hypercollective stakers, Cent, Time, Ruck, OmniX, and plenty more to come together with Nansen points. So on top of that, we at Hypercollective, we have also secured plenty of NFT whitelists for different stakers and community. Lichina</div></div><div class="chunk" data-start="351.52"><div class="chunk-header"><span class="chunk-ts">5:51</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and Hypers are a few of them. So we do have a lot more initiatives, but that's kind of the comprehensive, that's some of the more important ones. On the airdrop for Hyperco stakers, Neko will probably touch more on that as well, because they have something planned for... outstakers. So yeah, today's guest is Neko. We have Ali Rerut from Neko,</div></div><div class="chunk" data-start="381.86"><div class="chunk-header"><span class="chunk-ts">6:21</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">according to his Twitter alias. So yeah, Rerut, why don't you share with us more about what Neko is? Yeah, for sure. Just wanted to start off, thank you for giving me the platform to speak upon. And yeah, gNeko guys. Um, yeah, it's Ali Rerut. Ali, or Rerut, whichever is easier. Rerut is short for retarded, so you can call me retard as well. But yeah, Neko is a DeFi AI storm</div></div><div class="chunk" data-start="411.92"><div class="chunk-header"><span class="chunk-ts">6:51</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">on top of Hyperliquid or HyperEVM. And there are two core objectives. So to distribute Hyperliquid and HyperEVM products to a broader user base using agentic workflows, and to accelerate the development and capital efficiency of HyperEVM using AI agents, DeFi AI agents on the back end, different protocols such as Hyperswap, Kinswap. Felix, Hyperlend, etc. Nice. Why, why did you choose to build</div></div><div class="chunk" data-start="442.01"><div class="chunk-header"><span class="chunk-ts">7:22</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">on Hyperliquid? Yeah, I chose to build on top of Hyperliquid because two core reasons, or I guess three core reasons, right? The first one is obviously the community. I, after like the TGE for hype, I saw like the community was super ravenous and super cultish, and it only grew larger after the TGE as well. Like, you don't, you don't really see many protocols that TGE and actually grow and users. After the protocol, most people leave. So that was like a signal to me to like, look further into this. Another</div></div><div class="chunk" data-start="472.11"><div class="chunk-header"><span class="chunk-ts">7:52</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">thing is very egalitarian, pretty equal level playing field for any builder. If you have an idea, if, you know, you're hungry, and you're scrappy, and you are fast to execute Hyperliquid and HyperEVM is like the best place for you to build other ecosystems. I'm not going to name names specifically are a lot more insidery, and they try to king make certain plays. So I didn't really agree with that. Um, and then yeah, execution in the team, right? So like Jeff Julian, these guys are all about execution.</div></div><div class="chunk" data-start="502.53"><div class="chunk-header"><span class="chunk-ts">8:22</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">They built one of the best perp decks products and the space in 2023, 2024, and they decided to build a chain and they already shipped the chain. So yeah, those are a couple of reasons why we chose Hyperliquid. Yeah, I fully agree with you on the community point. Uh, hence, uh, Kirby, Noel and myself, the three of us started Hypercollective as a form of giving back as well. So, uh, one great point that you, uh, stated. Was that a lot of the other chains</div></div><div class="chunk" data-start="532.36"><div class="chunk-header"><span class="chunk-ts">8:52</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">were, a lot of their users are pretty mercenary. They are just there for airdrops and incentives. And then, uh, once that happens, they all flock, uh, elsewhere and it's just a constant hot ball of capital, I guess. Um, moving on to more, uh, necro focus, what are AI agents and also, uh, deaf AI, uh, short form for defy AI. Yeah, for sure. Um, there's a lot of definitions</div></div><div class="chunk" data-start="562.64"><div class="chunk-header"><span class="chunk-ts">9:22</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">of what an AI agent is. It could honestly be whatever you want to call it. Um, the most simple way I can define what an AI agent is, is it is a bot, um, like a script with agentic reasoning with tools, whether it's like smart contracts or calling off chain APIs, uh, for data feeds. Um, and the reason why it has reasoning capacity is because of like the base LLM API key that you use for their respective bots or agents. And in this case, and in terms of deaf AI or defy,</div></div><div class="chunk" data-start="593.10"><div class="chunk-header"><span class="chunk-ts">9:53</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">um, what this really is, is a lot of people are talking about like, you know, defy AI agents on the UX perspective of, you know, using natural language intents to essentially streamline, uh, on chain activity and better UX, which is correct. That's a fundamentally true thesis. I think agents are the next app layer. Um, but many teams are not looking at how defy AI agents can actually be used in the backend of these financial products to accelerate. The development and capital efficiency of these protocols, whether it's minting</div></div><div class="chunk" data-start="623.12"><div class="chunk-header"><span class="chunk-ts">10:23</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">more LSTs, over collateralized stable coins, making lending and borrowing markets more efficient by, you know, immediately claiming underwater loans and fulfilling those flash loan, uh, requests, uh, stuff like that. So you've built out both, uh, NECO and OMO. What is the relationship between both of them? Yeah, for sure. So 20 % of the revenue that NECO will be generating will be funneled back towards OMO DAO. Uh, OMO</div></div><div class="chunk" data-start="653.38"><div class="chunk-header"><span class="chunk-ts">10:53</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">is the parent company of NECO, essentially. Um, with OMO, we've been doing agents as a service. So working with a couple of different clients like Talus, uh, NIA 16Z partner, um, and a couple other teams that were, were in the works of developing an agent for them or in conversations of creating an agent for them. I can't say their names, uh, out of respect for them. Uh, and we just decided to do agents as a service for Jeff and Julian for Hyperloop and, and it's basically just our own for first, uh, proprietary product. Under the OMO brand. Got</div></div><div class="chunk" data-start="690.07"><div class="chunk-header"><span class="chunk-ts">11:30</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">it. So what is the product that you're excited about building out for NECO and how do you see, um, defining Hyper EVM? Yeah, there are two, there are two products I'm super excited for. So in terms of like the DeFi stuff, um, I'm really excited about like what Hyperland and Hyperdrive are doing in terms of tokenizing HLP, uh, I think a loop leverage, HLP vault, uh, managed by an agent to manage that healthcare. Uh, I think a loop leverage HLP vault, uh, managed by an agent to manage that healthcare. Uh, I</div></div><div class="chunk" data-start="726.49"><div class="chunk-header"><span class="chunk-ts">12:06</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">think a loop leverage HLP vault, uh, managed by an agent to manage that healthcare. And then finally one product that we're really excited about is one think is true. And it's like tentatively more of like a veterans and likeЫ like oder hyper -EVMs deploy and then dam in a different approach. It was a great story. Another one is the Relong Data Gap. If you think of poured, two finally, a scary street where you here are investigating these. Liquid currently is that it's still in a bit of its own echo chamber in terms of users and user adoption. So we're looking to streamline that and distribute</div></div><div class="chunk" data-start="756.65"><div class="chunk-header"><span class="chunk-ts">12:36</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">HyperLiquid on the social layer and streamline the on -ramp workflow. So users can basically just direct deposits straight into their margin account on HyperLiquid or into their HyperEVM account. Yeah, I think that's for this. We are extremely excited about HyperDrive and HyperLend and some of the other money markets who are tokenizing HLP.</div></div><div class="chunk" data-start="787.10"><div class="chunk-header"><span class="chunk-ts">13:07</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">That obviously unlocks a lot more potential and allows for a lot of capital to be extremely, to basically be a lot more capital efficient, given how minimal the drawdown of HLP is. You can't practically just loop it until a certain threshold. And that could all be automated by an AI agent, which I'm excited that Neko is building. So I think</div></div><div class="chunk" data-start="817.18"><div class="chunk-header"><span class="chunk-ts">13:37</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">with that, you guys already secured a ticker on HyperLiquid, and I believe that was through the initial, somewhat like a crowdfunding source from HyperPump. So do you want to share more about what is the Neko token and also what you take away from it? Sure. So the first last thing, I would really like you to highlight before we move to the Neko report is about Neko, what kind of utility can token holders expect? Yeah, no, for sure. Shout out to Loracle for building a great platform to crowdsource or crowdfund</div></div><div class="chunk" data-start="847.34"><div class="chunk-header"><span class="chunk-ts">14:07</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">HyperLiquid tickers. We bought the Neko ticker or we bonded at 12 MFDV in roughly like 20 minutes. And yeah, we bought the ticker for 429K, in terms of Neko utility, I guess I can leak this. We're going to be doing referral codes, but we're going to be doing over the next 10 days, program and basically if you want to get higher fee shares on your own referral codes like the base fee will basically be like five bips on all the products that we have whether it's perps swaps</div></div><div class="chunk" data-start="877.46"><div class="chunk-header"><span class="chunk-ts">14:37</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">launching tokens uh the structure vault products that we're going to be providing that are leveraging ai agents it's like four or five different streams of revenue that users will get through their own referral code and if you burn more necco token you'll essentially be able to get higher uh fee sharing from all the different revenue streams we have within the product what is the necco tokenomics yeah for sure so it's</div></div><div class="chunk" data-start="908.96"><div class="chunk-header"><span class="chunk-ts">15:08</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">a hundred percent float since it's a fair launch um after we sourced like 149k in liquidity in the first block of trading so that secured us like roughly like 60 to 70 percent and then once trading ended and we bonded we had like 83 .52 percent of the supply um we burned like seven percent of the supply already and i believe 15 percent of the supply was burned so we had like a hundred percent of the supply and we had like a hundred percent is an hyp2 so we have like roughly like 65 point um three two percent of the supply we're airdropping 33 of the supply to different communities</div></div><div class="chunk" data-start="939.24"><div class="chunk-header"><span class="chunk-ts">15:39</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">six like six point six seven percent to hyperco eleven percent to hypo uh three percent to capital etc you can look at the highlights page to see all the uh all the airdrop distribution on that front we'll be dropping a block on that pretty soon when we actually distribute the airdrop um and then yeah we'll probably have roughly like ten percent for the team um and then the rest will just go towards the treasury for marketing um yeah marketing uh ops uh those are probably the main two</div></div><div class="chunk" data-start="969.28"><div class="chunk-header"><span class="chunk-ts">16:09</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">things and then we are looking to bootstrap the agent wallet with four percent of the token supply as well so it can actually start trading with its own book too nice i'm pretty excited for that i think i just want to touch on a point that you mentioned earlier and i think we are all pretty happy and thankful that you are uh naco is kind enough to airdrop around 6 .7 of the market so that's that's pretty good i think that's pretty good that's pretty good next question is karen you mentioned tourism we saw that at the same time that we introduced совсем of uh 6 .7 of your token supply to our stickers uh i think looking</div></div><div class="chunk" data-start="1000.60"><div class="chunk-header"><span class="chunk-ts">16:40</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">at overall picture what is the reason behind allocating a total of uh 33 to airyy raining airdrops because that's that's one -third of the entire token supply and that's uh quite a hefty amount so yeah what's the reason behind it yeah for sure um there are two core reasons i would say um i would say for sure for all in the first off it's just to show community alignment i kind of see it as like a customer acquisition cost where like you know people fuck with us um and</div></div><div class="chunk" data-start="1030.98"><div class="chunk-header"><span class="chunk-ts">17:10</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">we give them an airdrop obviously like the neco token will be tradable though there'll be ways to earn the neco token through like our points program too um you know essentially just wanted to show like community alignment and showcase that like you know hyperluka did something right in terms of just having like quite a hefty uh distribution of of their token to like the community um another thing is that like yeah we just want to just kind of want to be chads right like everything that we do with neco is just kind of like a plus one for us because i've already uh</div></div><div class="chunk" data-start="1061.44"><div class="chunk-header"><span class="chunk-ts">17:41</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">raised for omo so like uh you know neco is more so just like a product that we want to gain like a lot of user traction on to showcase that we actually understand how to build agent products from like the user perspective because longer term we want to build out our own infrastructure so the main thing is like you know i see it as customer acquisition costs in turn as well as like being aligned with like the hl community and tandem to that you know just to show that like we're not we're not pussies yeah i</div></div><div class="chunk" data-start="1095.68"><div class="chunk-header"><span class="chunk-ts">18:15</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">think that's fair uh i'm so so in the earlier days uh such a large amount of airdrop percentage is actually uh pretty bad for the token because a lot of them after that just die off those uh recipients of the airdrop basically just sell off instantaneously uh i'm hoping it's different this time around because you guys are you guys are in a meme coin first of all and and</div></div><div class="chunk" data-start="1125.72"><div class="chunk-header"><span class="chunk-ts">18:45</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">i think def ai is definitely something that is very nascent as a vertical and can flourish i think it's somewhat just like intense repackaged so intense did have quite a bit of hype uh one or two years ago and and i think def ai whatever points that you mentioned earlier especially uh for hyperliquid native um the looping of hlp is definitely very attractive and i see you guys at the forefront of it automating these strategies</div></div><div class="chunk" data-start="1156.04"><div class="chunk-header"><span class="chunk-ts">19:16</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">so hopefully the the the large airdrop as a way of customer acquisition plays off i think with that also how do you think def ai uh would play out on hyper apart from you guys how do you see uh the incumbents from the other ecosystems joining and yeah how do you just see it happening yeah no for sure so</div></div><div class="chunk" data-start="1186.18"><div class="chunk-header"><span class="chunk-ts">19:46</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">in terms of defi ai the only defi ai project on hyperliquid right now is fly and that's kind of like a natural language uh interface for both like the hyperliquid api as well as kitten swap hyper swap and liquid launch um i think what they're doing is cool so they're probably looking to deploy on top of hyperavium as well um that's kind of like focused purely on like natural language as well um one reason</div></div><div class="chunk" data-start="1216.18"><div class="chunk-header"><span class="chunk-ts">20:16</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">why i think we're differentiated as a team in terms of defi ai is because as i mentioned earlier a lot of these teams are over indexing on like the ux perspective like the ux pattern of how to interact with these on -chain products which is fundamentally a correct thesis i think if like you're an ai agent builder that's quite consensus now to be like okay like agents are going to help like reduce the ux barrier and we're going to be doing that in echo as well but a lot of teams aren't thinking about how you can actually make a defi ecosystem more capital efficient using structured agentic workflows and this</div></div><div class="chunk" data-start="1246.26"><div class="chunk-header"><span class="chunk-ts">20:46</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">is what we're building right now got it fair i think perhaps just uh almost kind of like final question before we open up the floor what do you think makes a good um ai agent and also what is knuckles edge is it your proprietary data uh scraping of data all yeah yeah</div></div><div class="chunk" data-start="1276.88"><div class="chunk-header"><span class="chunk-ts">21:16</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">for sure there's a couple of things that makes a good agent product so data is obviously the foundation your own custom rag and cag pipelines will be quite critical in tandem to figuring out what is the best open source model for said use case whether it's deep c quen kimmy um open thinking i believe there's a bunch of open source models now uh llama of course in tandem to that having an s -tier uxy for the product interface</div></div><div class="chunk" data-start="1307.26"><div class="chunk-header"><span class="chunk-ts">21:47</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and cult community and outside like the technical stuff right i think our largest edge as a team i mean we're all like web3 ai native right like you know we have an entire team of engineers that have been doing quantum machine learning have done rest with the smart contracts etc but the there's no real moat in tech anymore in my opinion and i think the real moat is your community uh your product design um i think those are like really the two core</div></div><div class="chunk" data-start="1337.36"><div class="chunk-header"><span class="chunk-ts">22:17</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">things right because if you look at apple right they can ship the same phone over like seven years right but they'll still have like their cult fan base basically just buying every product that they'd use so outside of like our technical chops and like our experience with just like building out d5 stuff web3 models uh excuse me machine learning models tailored towards like web3 activity um it's just like the community building that we've done so far uh obviously shout out to the hype yo shout out to the hyper code guys shout out to the hyper look at you guys and i'll see you guys in the next video and i'll</div></div><div class="chunk" data-start="1390.46"><div class="chunk-header"><span class="chunk-ts">23:10</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">see you guys in the next video and i'll see you guys in the</div></div><div class="chunk" data-start="1421.91"><div class="chunk-header"><span class="chunk-ts">23:41</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">next video so it's nice to see that uh that's something that you guys focus on as well uh i don't actually have any other questions perhaps is there anything else that you want to share or anyone from the listening uh anyone listening in uh would like to ask uh neko yeah i'll share something</div></div><div class="chunk" data-start="1451.97"><div class="chunk-header"><span class="chunk-ts">24:11</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">real quick so we're gonna have our private beta for the application out pretty soon um i think i'm thinking like roughly like second or third year i'm gonna have a private beta for the application first week of march um we'll rate limited to like 100 people uh in the early days and then we'll slowly expand to ensure that the infrastructure can handle it and we're effectively like managing all the bugs that we may or may not get um so yeah you know uh we'll have more information on that pretty soon but yeah we'll be pretty excited to get the product into users hands really soon nice</div></div><div class="chunk" data-start="1486.72"><div class="chunk-header"><span class="chunk-ts">24:46</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">awesome uh we'll probably just give another minute to see if anyone uh listening in uh has any question all right</div></div><div class="chunk" data-start="1526.07"><div class="chunk-header"><span class="chunk-ts">25:26</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">uh hello oh i think hello dunka um i think you have a question oh yeah hey guys uh how's it going gineko sir so i i had a question um so i'm i'm also kind of a uh how do i put this lightly i'm also kind of a retard myself so i wanted to ask with with</div></div><div class="chunk" data-start="1556.44"><div class="chunk-header"><span class="chunk-ts">25:56</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">these like uh basically like with the ai agents we're talking about so i i am from my understanding you guys are doing like the infrastructure for it right i guess could you expand further upon the infrastructure because there's a lot that goes into like building ai agents and for uh okay uh so basically like people will be able to use your platform to deploy uh</div></div><div class="chunk" data-start="1586.80"><div class="chunk-header"><span class="chunk-ts">26:26</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">like agents on hyperliquid or like is that is that the way yeah no we're not really looking you know in the future we may allow users to deploy their own agents on top of hyperliquid but you know you look at vapor you look at uh waifu you look at virtuals etc i really don't think there's much moat and actually like being a launch pad for agents i think what people really want to see from the ai agent sector is actually agents uh fulfilling a business logic and generating like</div></div><div class="chunk" data-start="1616.86"><div class="chunk-header"><span class="chunk-ts">26:56</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">real revenue by solving a problem for the end user so what we're doing right now for the v1 is actually creating like structured agentic workflows where you know using privy server embedded wallets uh something that hyperliquid uses for like that they're really good ux is once you log into the application you can basically just deposit and interact with buttons uh but on the back end it's basically going to be agentic workflows executing this for you whether it's swapping uh and then using something like shogun uh</div></div><div class="chunk" data-start="1646.88"><div class="chunk-header"><span class="chunk-ts">27:26</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">which is an intense server protocol to either get the best out of the business or like the hyperliquid order book or the amm itself or like depositing into you know structure vault products where instead of it being like a human asset manager like gauntlet or mev capital it's basically going to be an architect agent right that has a deep reasoning model intended to its own proprietary data pipelines tailored to that respective product whether it's like you know loop type uh looped hlp um uni v3 position management of</div></div><div class="chunk" data-start="1676.94"><div class="chunk-header"><span class="chunk-ts">27:56</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">like rap state type l hype etc so like from the user's point of view it's going to be a really good platform for people to create their own agents because creating an agent uh is a lot more difficult than like creating like an agent that's productive and that generates like real value is a lot more difficult than said right so that's why you have like you know an overflow of like a bunch of eliza forks</div></div><div class="chunk" data-start="1707.32"><div class="chunk-header"><span class="chunk-ts">28:27</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">with just like a change and like the character file and it's just like a slop agent right what we're focused on is creating like tailored agent products to the end user that they can tap into that'll basically perform as an optimized user okay yeah that's that's a big relief thank you thank you because uh okay my assumption was uh wrong and that's that's way better because you guys are like actually gonna give us a product that we can use as a user and not just yeah yep awesome thank you all right</div></div><div class="chunk" data-start="1737.99"><div class="chunk-header"><span class="chunk-ts">28:57</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">uh we have another guy who requested daniel marvin i believe you are on i think he might have dropped off yes so um yeah so if anyone has any questions feel free to just request to speak all</div></div><div class="chunk" data-start="1774.15"><div class="chunk-header"><span class="chunk-ts">29:34</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">right buddy all right i think uh i don't think anyone else has</div></div><div class="chunk" data-start="1798.97"><div class="chunk-header"><span class="chunk-ts">29:58</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">any more questions uh i mean alternatively all of us are very active on ct so i'm very sure you can just uh hit wherever where that uh up in his dms or just tweet at him um and and ask any questions if you guys have uh yeah personally i think thank you neko for joining us in our spaces today and also be very kind uh</div></div><div class="chunk" data-start="1829.01"><div class="chunk-header"><span class="chunk-ts">30:29</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">airdrop to our stakers we are definitely looking uh forward to that yeah no thank you for the time um and appreciate everyone that came to attend the space feel free to drop the neko .hl account a follow turn on notice we're going to be dropping a lot more information fairly soon um we'll be turning on the agent fairly soon as well soon inshallah um and yeah yeah excited for you guys to join the journey thank you</div></div><div class="chunk" data-start="1859.97"><div class="chunk-header"><span class="chunk-ts">30:59</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">goodbye</div></div></div>
+
+<div class="footer">
+  <a href="../../index.html">hypefm</a> &nbsp;&middot;&nbsp;
+  <a href="https://x.com/i/spaces/1RDGlzXZyAqxL" target="_blank" rel="noopener">view on X</a>
+</div>
+
+</div>
+
+<script>
+  const audio = document.querySelector('audio');
+  function seekTo(t) {
+    if (!audio) return;
+    audio.currentTime = t;
+    audio.play();
+    audio.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-start]').forEach(el => {
+    el.addEventListener('click', () => {
+      const t = parseFloat(el.dataset.start);
+      if (!isNaN(t)) seekTo(t);
+    });
+  });
+  const toggle = document.getElementById('transcript-toggle');
+  const transcript = document.getElementById('transcript');
+  if (toggle && transcript) {
+    toggle.addEventListener('click', () => {
+      const visible = transcript.classList.toggle('visible');
+      toggle.textContent = visible ? '- hide full transcript' : '+ show full transcript';
+    });
+  }
+</script>
+</body>
+</html>

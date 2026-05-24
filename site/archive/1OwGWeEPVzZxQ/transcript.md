@@ -1,9 +1,9 @@
 # 45% win rate pair trading beats directional on Hyperliquid by multiples
 
-_Pair Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon._
+_Pear Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon._
 
 > 45% of pair traders are profitable versus 20% directional traders on Hyperliquid, multiples higher because users avoid liquidations with hedging.
-> — Huff, Pair Protocol
+> — Huff, Pear Protocol
 
 **Host:** @rekt_gang
 **Date:** 2025-12-02
@@ -14,12 +14,12 @@ _Pair Protocol's basket trading on Hyperliquid shows 45% user profitability vers
 ## Who's talking
 
 - **Zerk** (@rekt_gang) _host_
-- **Huff** — Pair Protocol _guest_
-- **CL** — Pair Protocol _guest_
+- **Huff** — Pear Protocol _guest_
+- **CL** — Pear Protocol _guest_
 
 ## Key moments
 
-- **[5:41]** Huff introduces Pair Protocol and pair trading concept
+- **[5:41]** Huff introduces Pear Protocol and pair trading concept
 - **[9:43]** 45% win rate revealed, multiples higher than directional trading
 - **[12:43]** CL demonstrates basket strategy with long/short baskets
 - **[15:45]** Technical breakdown: synchronized execution and tokenization of positions

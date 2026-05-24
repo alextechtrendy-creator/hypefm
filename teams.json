@@ -65,12 +65,6 @@
     "website": null,
     "description": null
   },
-  "Pair Protocol": {
-    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/pair-protocol.jpg",
-    "x_handle": null,
-    "website": null,
-    "description": null
-  },
   "Nest Wallet": {
     "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/nest-wallet.jpg",
     "x_handle": null,
@@ -176,6 +170,132 @@
   "Tings": {
     "logo": null,
     "x_handle": "tingsxyz",
+    "website": null,
+    "description": null
+  },
+  "HyperFlash": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HyperSwap": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Liquid Fi": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "PVP.trade": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Sentiment": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Squid": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Tiny Hypercats": {
+    "logo": null,
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Pear Protocol": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/pair-protocol.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Euler": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/euler.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "GlueX": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/gluex.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Jumper": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/jumper.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Omnix": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/omnix.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Neko": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/neko.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Sovrun": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/sovrun.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Fractality": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/fractality.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Timeswap": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/timeswap.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "SuperCexy": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/supercexy.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "USDH": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/usdh.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Hyperdrive": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hyperdrive.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HypurrCo": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypurrco.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Solv Protocol": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/solv.jpg",
+    "x_handle": null,
     "website": null,
     "description": null
   }

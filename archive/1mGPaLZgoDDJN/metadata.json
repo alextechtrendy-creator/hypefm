@@ -1,0 +1,116 @@
+{
+  "space_id": "1mGPaLZgoDDJN",
+  "title": "Hyperliquid Worldwide",
+  "state": "ended",
+  "created_at": "2026-03-05T12:53:57Z",
+  "started_at": "2026-03-13T15:00:20Z",
+  "ended_at": "2026-03-13T15:53:29Z",
+  "scheduled_start": "2026-03-13T15:00:00Z",
+  "lang": "zh",
+  "is_ticketed": false,
+  "participant_count": 333,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Hyperliquid France",
+      "handle": "HyperliquidFR",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "kirbycrypto",
+      "handle": "kirbyongeo",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Lekx💱",
+      "handle": "phardy_lekx",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Hyperliquid_IDN",
+      "handle": "Hyperliquid_IDN",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Hypurr",
+      "handle": "Hypurr",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "HypurrCollective.NL 🇳🇱 🐱",
+      "handle": "hypurr_nl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Chip.hl // Evgeny Yurchenko",
+      "handle": "chip1cr",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Hyperliquid Malaysia",
+      "handle": "Hyperliquid_MY",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1mGPaLZgoDDJN",
+  "summary_title": "Regional Hyperliquid communities organizing 15+ events across Asia and Europe",
+  "summary_description": "Malaysia, France, Netherlands, Indonesia leaders share event strategies, attendance wins, and how to onboard non-crypto locals.",
+  "topic_tags": [
+    "community",
+    "ecosystem",
+    "market-making"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 164,
+      "label": "Host introduces localized community strategy across regions"
+    },
+    {
+      "timestamp_seconds": 287,
+      "label": "Jojo describes Hyperliquid Malaysia: 4 events, high attendance despite market downturn"
+    },
+    {
+      "timestamp_seconds": 348,
+      "label": "Thomas pitches Hyperliquid France: builders-focused events and university workshops"
+    },
+    {
+      "timestamp_seconds": 502,
+      "label": "Netherlands organizing day event during Dutch Blockchain Week with major partners"
+    },
+    {
+      "timestamp_seconds": 657,
+      "label": "Brian discusses Hyperliquid Indonesia: 1+ year organizing, April Jakarta gathering planned"
+    },
+    {
+      "timestamp_seconds": 991,
+      "label": "Jojo reveals education bottleneck: only 1-2% of 200+ attendees tried Hyper EVM"
+    },
+    {
+      "timestamp_seconds": 1325,
+      "label": "Thomas notes Polymarket banned in France, making Hyperliquid prediction markets unique"
+    },
+    {
+      "timestamp_seconds": 2516,
+      "label": "Jeff from Hyperliquid team joins briefly to show support for community leaders"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 3190.8266875,
+  "capture_failure_reason": null
+}

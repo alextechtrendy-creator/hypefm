@@ -13,7 +13,7 @@ _New lending protocol enables collateralized perpetuals, 50-60% looping yields, 
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — RETGANG _host_
+- **Zerk** (@rekt_gang) _host_
 - **Ness** — HyperLend _guest_
 - **PBR** _guest_
 

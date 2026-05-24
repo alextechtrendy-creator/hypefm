@@ -1,0 +1,320 @@
+{
+  "space_id": "1YpKklmONyBGj",
+  "language": "en",
+  "duration_seconds": 1968.6826875,
+  "chunks": [
+    {
+      "start": 370.48,
+      "end": 400.48,
+      "speaker": "SPEAKER_00",
+      "text": "can you hear me hello hello yeah you're all good i think we can uh begin yeah sure sorry for being late but i don't know why my wife had decided to question as soon as it started here i am yeah okay i i think uh as a general start you can probably just describe more about um yourself your background and"
+    },
+    {
+      "start": 400.48,
+      "end": 430.5,
+      "speaker": "SPEAKER_00",
+      "text": "probably uh any information with regards to the management team before you dive into uh why you guys decided to build hyperland and what are you guys building sure man um so as many already probably know i'm benjamin i come from slovenia and like i do not have like a major experience in web 2 like i did some facebook and instagram marketing back in the day for my mom but that's it basically i have been in crypto for like five years now"
+    },
+    {
+      "start": 430.5,
+      "end": 460.62,
+      "speaker": "SPEAKER_00",
+      "text": "um have been actively online daily studying what's going on being a nerd on chain um so that's basically it um i think that like in the five years of being like constantly constantly online i have a deep understanding of like what a project should do and what they shouldn't do um so i would say that that is like my strong hand and i know how to handle a community and stuff like that but yeah"
+    },
+    {
+      "start": 460.62,
+      "end": 490.62,
+      "speaker": "SPEAKER_00",
+      "text": "on the other hand our co -founder fb slow is like a big tech strong guy so i'm very grateful to have him on our side because like the stuff and like unique ideas he comes up he's like very good to see because like i'm more on the business development side and he's on the tech side i think that is that okay yeah yeah i i think that's fine uh sorry i forgot to give an intro about uh hyper collective so i'll just do a quick one"
+    },
+    {
+      "start": 490.74,
+      "end": 521.02,
+      "speaker": "SPEAKER_00",
+      "text": "um yeah so basically hyper collective uh is a collective of uh builders founders and a few funds uh a few guys from funds uh market makers we basically try to get a community and um build up this uh community community growth and uh marketing efforts called hyperliquid uh so we are extremely focused on anything that is more on the community -led initiative so that's the whole point"
+    },
+    {
+      "start": 521.02,
+      "end": 551.2,
+      "speaker": "SPEAKER_00",
+      "text": "of uh us being in this uh ecosystem uh the founders of hyperliquid themselves are not marketers and believe in letting the product split for itself so us as uh users uh we love it and then we decided to be a somewhat like a spokesperson for them uh because we love the product and the team so uh yeah so uh today's ama is actually the second one that uh hyperco is hosting so we have um"
+    },
+    {
+      "start": 551.2,
+      "end": 583.0,
+      "speaker": "SPEAKER_00",
+      "text": "hyperland as as our guest uh uh hyperland basically uh as a new team that is building uh natively on hyper liquid so uh ness uh kind of gave an introduction about himself and uh his background and his cto as well so so i think uh moving on uh i guess the next question is probably what inspired uh you to build hyperland uh what"
+    },
+    {
+      "start": 583.0,
+      "end": 613.32,
+      "speaker": "SPEAKER_00",
+      "text": "is your mission and what you need to achieve here yeah that is a good question like what i think that inspired us the most is probably like how welcoming everyone was like how everyone was from like the day zero from like just the idea like not even the community but we also spoke with julian and the whole team before like publicly going with hyperland that we would want to build something like that and kind of ask for their like ask if they're there have like"
+    },
+    {
+      "start": 613.32,
+      "end": 643.32,
+      "speaker": "SPEAKER_00",
+      "text": "any intentions to build that because like we didn't want to build something that they're uh they will already provide themselves so like thank god they are only focusing on the decks and like we have a lot of opportunity here and like our mission and vision is probably like the true end game is like to be the lending protocol of hyper evm like the the go -to lending platform on hyper evm and like when people think of a learning protocol on if or like any other like"
+    },
+    {
+      "start": 643.32,
+      "end": 673.33,
+      "speaker": "SPEAKER_00",
+      "text": "network I think that they already think of like Aave or MakerDAO which are like one of the biggest giants of a lending infrastructure there is and like I think to achieve that conscience on Hyper -EVM is something that we would like to achieve so yeah yeah sounds good I think uh with what that you touch on how do you see HyperLend differentiating itself with"
+    },
+    {
+      "start": 673.33,
+      "end": 703.77,
+      "speaker": "SPEAKER_00",
+      "text": "the already established lending and borrowing protocols for example Aave and Compound right now probably you can just give a generic view and then eventually if let's say Aave and Compound decides to integrate Hyper -EVM I would assume like a lot of users would probably go with the de facto reliable lending and borrowing protocol in Aave so how do you see HyperLend standing out and what will um"
+    },
+    {
+      "start": 703.77,
+      "end": 733.89,
+      "speaker": "SPEAKER_00",
+      "text": "what's your strategy to make HyperLend stand out yeah um so like on the on the technical side there isn't much that we can do like especially on the like um lending and borrow system as like if you play around with that too much the risk factors begin to pop up and it's like more and more risky to play around but I think that like our like main like advantage over Aave or like these big giants is going to be like with us"
+    },
+    {
+      "start": 733.89,
+      "end": 764.03,
+      "speaker": "SPEAKER_00",
+      "text": "being directly marketed or like directly involved with the community as like I think that Aave and MakerDAO will not be doing any of that and with us being like smaller and like getting us to play around more with the isolated pools that we will have I think that we we will offer way more collateralized options on different coins such as PUR and HYPE uh which I think that Aave won't go that far I think that Aave won't go that down too because like they have a proper uh or like"
+    },
+    {
+      "start": 764.03,
+      "end": 794.17,
+      "speaker": "SPEAKER_00",
+      "text": "a bigger and like more systematical approach to everything as like they they manage 20 billion dollars of assets so I think that that will be our like biggest factor and like as Jeff says the devil is in the details and that is exactly that what we have been doing also at HyperLend just like we want to make the user experience for like everyone the best as possible and like before even beginning to develop the decentralized application itself like we gave it a like"
+    },
+    {
+      "start": 794.17,
+      "end": 824.34,
+      "speaker": "SPEAKER_00",
+      "text": "one month time spent on like the user interface the UX and just like trying to make the overall feeling of being on HyperLend good yeah I mean you guys are already on testnet I think what really struck me um to begin with was um before even testnet uh when you guys had your website I think it was really interactive and and it really kind"
+    },
+    {
+      "start": 824.34,
+      "end": 854.36,
+      "speaker": "SPEAKER_00",
+      "text": "of resonated with HyperLiquid uh everything seems very familiar uh that shade of green uh right now your testnet is pretty functional it's it's a pretty smooth experience as well so I'm definitely excited to see how um it works on a mainnet um I think another issue is probably like security how do you um maybe you can share a bit of the technical side or just in general like how do you plan to secure uh HyperLend uh in terms of like security and security and security and security like"
+    },
+    {
+      "start": 854.36,
+      "end": 884.4,
+      "speaker": "SPEAKER_00",
+      "text": "from hex and uh whatnot yeah like we at HyperLand prioritize security very much because like we know that as soon as like a hack or something like that happens um the protocol is over like we don't want to we don't want to risk anything like we already have a private auditor and I believe that next week yeah next week we will start a public uh Cantina competition and it will have like a 100 000 price pool so a lot of auditors"
+    },
+    {
+      "start": 884.4,
+      "end": 914.46,
+      "speaker": "SPEAKER_00",
+      "text": "and a lot of auditing will be done we will have like a full -on 360 audit done so like the front end and the back end will be checked on with like multiple hundreds of people so I think that that is our approach to that and like more on the scaling out the HyperLend as a business we're currently in talks with gauntlet and chain risks on possibly getting them internally on our side and helping us um build HyperLend"
+    },
+    {
+      "start": 914.46,
+      "end": 944.89,
+      "speaker": "SPEAKER_00",
+      "text": "on like the scaling side nice nice that's great uh I guess back to probably uh square one what what's the reason to build on HyperLiquid why not um other chains yeah I think that as I already stated like the community is like like like something I have never seen before in like the four years of"
+    },
+    {
+      "start": 944.89,
+      "end": 974.97,
+      "speaker": "SPEAKER_00",
+      "text": "uh being on chain being encrypted like even back in the NFTs day is when people were like cult -like um following a project and being involved but like the community of HyperLiquid just feels different because like everybody like connects you around with different people like tries to help uh as much as possible um but yeah and also like on the development side I think that what Jeff and Julian are doing in the whole team"
+    },
+    {
+      "start": 974.97,
+      "end": 1005.33,
+      "speaker": "SPEAKER_00",
+      "text": "like is insane because like I think that they stated somewhere that the EVM client itself will be able to reach up to 100 000 transactions per second or like even more which is like astonishing itself and I think that um that is like a good factor to take in if you want to um scale stuff largely in the long run yeah I think okay apart from like technical and infra"
+    },
+    {
+      "start": 1005.33,
+      "end": 1035.63,
+      "speaker": "SPEAKER_00",
+      "text": "I think what really uh struck me about HyperLiquid is community and I truly believe that uh community some outsiders call it like uh HyperLiquid it's uh at least community and offense or some one of them like an echo chamber they just joke each other off but I think a lot of this is also because they don't already have an allocation through like uh insider or what so a lot of these comments are actually because they"
+    },
+    {
+      "start": 1035.63,
+      "end": 1065.69,
+      "speaker": "SPEAKER_00",
+      "text": "didn't manage to get uh someone like an inside deal uh which kind of makes me here is extremely strong uh yes we may somewhat have a faster interest in terms of points but I think at the end of the day a lot of the power users are actually big fan of the products and we uh definitely are here to stay uh even post TG uh one year down even years down the road we can see like uh volume and open interest"
+    },
+    {
+      "start": 1065.69,
+      "end": 1096.05,
+      "speaker": "SPEAKER_00",
+      "text": "are on the rise consistently so so I think uh everyone just loves the product basically um so yeah like the overall experience on trading like on HyperLiquid feels good um so I think that is also a big factor and like the way they set up their point system like truly benefited the early believers in early users the most which is like also I think a very important factors to take in because"
+    },
+    {
+      "start": 1096.05,
+      "end": 1126.11,
+      "speaker": "SPEAKER_00",
+      "text": "like if you keep the retention of the early users um I think that they will grow and grow and like be a bigger supporter than anyone else that just started in HyperLiquid for example yeah and I think I mean uh HyperLiquid did that very first address with per already before uh hype that is probably gonna launch uh this month or next month Pearl was actually quite a handsome a drop for a lot of the early users uh quite a plentiful"
+    },
+    {
+      "start": 1126.11,
+      "end": 1156.15,
+      "speaker": "SPEAKER_00",
+      "text": "got uh I mean at least top percentages got six figures I think so uh his prayer job is sitting at seven figures already so um and and that's not even the main token that's kind of the meme mascot token uh and and it's still pretty much unpopped and not even widely discussed on um CT so so I think that's that's one of the reason why it's really under look and why a lot of people are still not paying"
+    },
+    {
+      "start": 1156.15,
+      "end": 1186.55,
+      "speaker": "SPEAKER_00",
+      "text": "attention to HyperLiquid because they obviously are not involved in any way or so um and and and I just find it appalling because uh obviously they know that HyperLiquid is a great product uh but but they just don't want to share it because yeah they're not um allocated via points so I think it's a lot of cope so uh their comments usually comes in the form of all the communities pretty"
+    },
+    {
+      "start": 1186.55,
+      "end": 1216.59,
+      "speaker": "SPEAKER_00",
+      "text": "much uh just jerking themselves off which I strongly disagree which uh is something that you mentioned earlier where I think community is a strong mode here and everyone is very willing to help each other or even right now as the founders are building actively uh some of the engineers are still very helpful in like the API um channel on Discord and even a few of the technical channels on Discord even node operators a lot of the validating um the testnet validators are very helpful with"
+    },
+    {
+      "start": 1216.59,
+      "end": 1246.63,
+      "speaker": "SPEAKER_00",
+      "text": "each other uh you can get support from one another and it's usually very cool so I think everyone's just very nice in general and very willing to help one another to basically push uh the entire project's growth together uh okay but but yeah enough of the hyper liquid shield I think uh back to hyperland what are the products that you think uh uh that you plan to go live on day one uh apart from like spot"
+    },
+    {
+      "start": 1246.63,
+      "end": 1277.17,
+      "speaker": "SPEAKER_00",
+      "text": "landing and borrowing is there anything uh more that you guys are looking to release yeah definitely like even this week uh on Friday we will be releasing like a cool and unique tool that I think that not a lot of like not a lot of lending protocols have which I think that they should have as like if you're managing your assets it's appropriate to have like um I I don't want to reveal too much um"
+    },
+    {
+      "start": 1277.17,
+      "end": 1307.53,
+      "speaker": "SPEAKER_00",
+      "text": "because like I don't think I'm allowed to but you will guys see on Friday but on like day one yeah I think that definitely we will try to enable collateralized um hype and per on day one we stated this before and we will try to make it work then of course the core pools and the isolated pools um but yeah what else like we have a lot of stuff on the horizon but I don't think I'm"
+    },
+    {
+      "start": 1307.53,
+      "end": 1337.75,
+      "speaker": "SPEAKER_00",
+      "text": "allowed to study them yet as like we are firm believers of like um to not talk about what we're going to be doing but just like push the code itself and like surprise everyone once it's live um but I think like if we enable like tokenized HOP volts then enable like kind of permission permissionless volts such as morpho has um I think that that will be something cool to play around with of"
+    },
+    {
+      "start": 1337.75,
+      "end": 1368.83,
+      "speaker": "SPEAKER_00",
+      "text": "course with the rice with like the right risk management and also maybe tokenizing the prepositions and maybe also tokenizing option positions and then playing around with Margin with Margin on hyper liquid and hyperland as itself um but yeah enough of that that talk um I will just let us continue to build the product and surprise everyone along the way yeah this"
+    },
+    {
+      "start": 1368.83,
+      "end": 1398.93,
+      "speaker": "SPEAKER_00",
+      "text": "this is great to hear I mean uh I think actually like a bit uh finance the one that we talked uh the one that we helped and our AMA with uh our inaugural AMA with last week um Kane himself is a part of the founding team he's on this spaces as well he mentioned something similar so so I think there's definitely more than one uh there's definitely space for more than one protocol like this uh in this kind of arena for this sort"
+    },
+    {
+      "start": 1398.93,
+      "end": 1429.05,
+      "speaker": "SPEAKER_00",
+      "text": "of things uh I think collateralizing per position is definitely interesting uh how do you guys how do you um foresee that bringing extra TVL and kick -starting the flywheel for hyperland yeah I think that if we like um enable a lot of like financial possibilities we will not just attract like market makers and like big on -chain people that want to park their stables and just"
+    },
+    {
+      "start": 1429.05,
+      "end": 1461.16,
+      "speaker": "SPEAKER_00",
+      "text": "like farm our points and just chill there but also enable a lot for the traders because like hyper liquid itself is like one of the biggest um decentralized exchanges that is built purely for like the user experience of a trader and like if we enable um like services for them I think that that will attract a lot of new users and potentially kickstart the TVL even more yeah awesome"
+    },
+    {
+      "start": 1461.16,
+      "end": 1492.88,
+      "speaker": "SPEAKER_00",
+      "text": "I think um perhaps uh there's nothing much else that I think um would be asking so if you have anything more to share I think uh please feel free to do so uh if not uh yeah the the public can just uh anyone of spaces can just feel free to request to speak if you have a question for uh Ness and the hyperland team yeah I"
+    },
+    {
+      "start": 1492.88,
+      "end": 1523.11,
+      "speaker": "SPEAKER_00",
+      "text": "don't have anything specifically to add but um I would love to answer some questions if anyone has them I think"
+    },
+    {
+      "start": 1523.11,
+      "end": 1561.93,
+      "speaker": "SPEAKER_00",
+      "text": "that um we we discussed everything so I don't think anyone has any questions uh I think there's a guy give me a second yep okay uh Steph I think you're on on you're on so um yeah feel free to speak okay anyways"
+    },
+    {
+      "start": 1561.93,
+      "end": 1594.28,
+      "speaker": "SPEAKER_00",
+      "text": "uh he oh yeah he's on he dropped off I think there's another guy hello I've"
+    },
+    {
+      "start": 1594.28,
+      "end": 1624.53,
+      "speaker": "SPEAKER_00",
+      "text": "gone through your website like I've gone through your website so so so the triplet is good so like I bought I I see no community like like there's no community yet um we we have we have like a private discord and like we had um set up um engaging like games on Twitter and like um we wanted to make the community experience better with like enabling one -to -one talks with the whole"
+    },
+    {
+      "start": 1624.53,
+      "end": 1654.73,
+      "speaker": "SPEAKER_00",
+      "text": "team so the community is not open to public yet as we're only on testnet and there isn't a lot of questions that are brought up yet but eventually we will open it we will open the um community account this could community soon so stay tuned for that okay okay like I'm just I'm just on iPad with um um it's my friend because your white北 울산 um it's my friend so he has me . um he he was the one that bothered"
+    },
+    {
+      "start": 1654.73,
+      "end": 1685.44,
+      "speaker": "SPEAKER_00",
+      "text": "me on iPad withG - so I'll be following like I'll be following up you guys um I'm noticing some few like any projects coming up on Harvard so me I'm just bullish on the hyper liquid projects even ipo ipo apple something like that you say ipo cool what's up man i can't hear me uh can you hear me yeah"
+    },
+    {
+      "start": 1685.44,
+      "end": 1715.76,
+      "speaker": "SPEAKER_00",
+      "text": "we can hear you okay like i said i think you should like i chose like you should also check the dm like i've sent you a dm okay i'm not okay so i had like another question please so like you know that we haven't met right i think um we'll probably just cut you off and move on to the next one uh sorry so uh yeah i think since you've asked something"
+    },
+    {
+      "start": 1715.76,
+      "end": 1746.15,
+      "speaker": "SPEAKER_00",
+      "text": "really okay uh i think there's another guy right uh krypton yeah i think you're on hey it's kryptonite good day i i was just just hopping in and i saw your life maybe you can ask answer my question about the hype token itself the native token but"
+    },
+    {
+      "start": 1746.15,
+      "end": 1776.19,
+      "speaker": "SPEAKER_00",
+      "text": "can you tell me uh how it will involved in your projects and in the chain because it's a gas fee chain um yeah as i stated like we will try to enable collateralized hype on day one and also we're working with like liquid sticking providers such as tenderhead um but yeah we will also try to play around a little bit with the looping and leveraging the collateralization so i think that those are"
+    },
+    {
+      "start": 1776.19,
+      "end": 1806.59,
+      "speaker": "SPEAKER_00",
+      "text": "like the two things that i can state publicly already uh all right feel free to dm us and we will leave you some clues of what we're up to so okay i will dm you and what can you tell me about staking program it's like api or are you getting a drop uh and more hype or um yeah like we we won't be having the staking for hype as they will be providing that themselves"
+    },
+    {
+      "start": 1807.21,
+      "end": 1845.42,
+      "speaker": "SPEAKER_00",
+      "text": "but we will have staking for our own token which will also be on on and off switch for like revenue stuff and also like uh there will be incentives and maybe perhaps some air jobs um and stuff like that but that is like down down on on the on the horizon once we have our own tge okay okay cool uh sounds good and looking forward to it thank you thank you man i appreciate it all right"
+    },
+    {
+      "start": 1845.42,
+      "end": 1887.02,
+      "speaker": "SPEAKER_00",
+      "text": "i think um there's no more um questions from the public because no one requested uh we can probably wrap it up uh wait give us a second yeah i"
+    },
+    {
+      "start": 1887.02,
+      "end": 1917.18,
+      "speaker": "SPEAKER_00",
+      "text": "think yeah there's no more questions from general property we can probably just uh wrap it up here um nes if you have anything more to add on uh prefix if you're free to add up to add on please use code one plus three to get more of those top tips and think you can find both our socials linked. So yeah, thanks everyone for hopping on today. To learn more about hyper land. I think they are pretty exciting given that they are the first native lending and borrowing protocol. So I'm excited to see what"
+    },
+    {
+      "start": 1917.18,
+      "end": 1947.3,
+      "speaker": "SPEAKER_00",
+      "text": "they are gonna achieve when hyper EVM mainnet goes live. Their website is very interactive. So if you have the chance to play out, go on to that, buy you and then try it out. No, I appreciate you having me and like, if anyone has any questions, just like DM me on my nest profile or just like DMS on hyperland. I would love to answer any questions or"
+    },
+    {
+      "start": 1947.3,
+      "end": 1964.1,
+      "speaker": "SPEAKER_00",
+      "text": "like, be transparent as possible. So feel free to reach out. Yep. Okay. Thank you so much, everyone for tuning in. Goodbye and see you. On the next hyper core EME. Yeah, bye guys."
+    }
+  ],
+  "speaker_map": {}
+}

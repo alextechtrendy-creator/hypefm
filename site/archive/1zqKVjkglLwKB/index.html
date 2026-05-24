@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Felix's native stablecoin FEUSD goes live on Hyperliquid, hits 10M cap in 48 hours - hypefm</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --bg-card: #ffffff;
+    --fg: #222;
+    --fg-muted: #777;
+    --fg-faint: #999;
+    --accent: #0d6856;
+    --accent-bg: rgba(13, 104, 86, 0.1);
+    --quote-bg: #043b30;
+    --quote-fg: #fafaf7;
+    --quote-accent: #97FCE4;
+    --border: #d4d2c5;
+    --border-light: #e5e5e0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    background: var(--bg); color: var(--fg);
+    margin: 0; line-height: 1.5; -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+  .back {
+    font-size: 11px; color: var(--fg-muted);
+    text-decoration: none; display: inline-block; margin-bottom: 1.25rem;
+  }
+  .back:hover { color: var(--accent); }
+  h1 {
+    font-size: 24px; font-weight: 500; line-height: 1.25;
+    margin: 0 0 0.5rem; letter-spacing: -0.01em;
+  }
+  .description {
+    font-size: 14px; color: #555;
+    margin: 0 0 1rem; line-height: 1.55;
+  }
+  .quote-card {
+    background: var(--quote-bg);
+    border-radius: 8px;
+    padding: 22px 24px;
+    margin: 0 0 1.25rem;
+  }
+  .quote-text {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--quote-fg);
+    line-height: 1.4;
+    margin: 0;
+    font-weight: 500;
+  }
+  .quote-byline {
+    margin: 14px 0 0; padding-top: 12px;
+    border-top: 1px solid rgba(151, 252, 228, 0.18);
+    display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap;
+    font-size: 12px; line-height: 1.4;
+  }
+  .quote-byline-name { color: var(--quote-fg); font-weight: 600; }
+  .quote-byline-role { color: rgba(151, 252, 228, 0.85); }
+  .quote-byline-sep { color: rgba(151, 252, 228, 0.4); }
+  .quote-byline-team {
+    display: inline-flex; align-items: center;
+    background: rgba(151, 252, 228, 0.12);
+    border: 1px solid rgba(151, 252, 228, 0.3);
+    color: var(--quote-accent); font-weight: 500;
+    padding: 2px 9px; border-radius: 12px;
+    text-decoration: none; font-size: 11px;
+    transition: background 0.1s;
+  }
+  .quote-byline-team:hover {
+    background: rgba(151, 252, 228, 0.22);
+    border-color: rgba(151, 252, 228, 0.5);
+  }
+  .meta { font-size: 11px; color: var(--fg-faint); margin: 0 0 1.25rem; }
+  .meta .tag { color: var(--accent); font-weight: 500; cursor: pointer; }
+  .meta .tag:hover { text-decoration: underline; }
+  audio { width: 100%; height: 42px; margin-bottom: 1.5rem; }
+  .audio-unavailable {
+    font-size: 12px; color: var(--fg-muted); font-style: italic;
+    padding: 0.7rem 0.9rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px;
+    margin-bottom: 1.5rem;
+  }
+  .section-label {
+    font-size: 11px; color: var(--fg-muted);
+    margin: 1.5rem 0 0.5rem; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .participants { display: flex; flex-direction: column; margin-bottom: 1.75rem; }
+  .participant {
+    display: flex; gap: 16px; padding: 10px 0;
+    border-top: 1px solid var(--border-light);
+    align-items: baseline;
+  }
+  .participant:first-of-type { border-top: 0; padding-top: 4px; }
+  .participant-name {
+    font-size: 13px; font-weight: 500; color: var(--fg);
+    min-width: 120px;
+  }
+  .participant-name a { color: var(--accent); text-decoration: none; }
+  .participant-name a:hover { text-decoration: underline; }
+  .participant-affiliation {
+    font-size: 12px; color: #666; flex: 1; line-height: 1.45;
+  }
+  .participant-role {
+    font-size: 10px; color: var(--accent); font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.05em;
+    background: var(--accent-bg); padding: 2px 7px; border-radius: 3px;
+  }
+  .moments { display: flex; flex-direction: column; gap: 2px; margin-bottom: 1.75rem; }
+  .moment {
+    display: flex; gap: 12px; align-items: baseline;
+    padding: 8px 10px; margin: 0 -10px;
+    border-radius: 4px; cursor: pointer;
+    transition: background 0.1s;
+  }
+  .moment:hover { background: white; }
+  .moment-ts {
+    font-size: 12px; color: var(--accent); font-weight: 500;
+    min-width: 52px; font-variant-numeric: tabular-nums;
+  }
+  .moment-label { font-size: 13px; margin: 0; line-height: 1.45; color: #444; }
+  .transcript-toggle {
+    border-top: 1px solid var(--border-light); padding: 1rem 0 0 0;
+    margin-top: 1.5rem;
+    font-size: 12px; color: var(--accent); cursor: pointer;
+    background: none; border-left: none; border-right: none; border-bottom: none;
+    font-family: inherit; font-weight: 500;
+  }
+  .transcript-toggle:hover { text-decoration: underline; }
+  #transcript { display: none; margin-top: 1rem; }
+  #transcript.visible { display: block; }
+  .chunk {
+    padding: 0.7rem 0.85rem; margin-bottom: 0.4rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px; cursor: pointer;
+    transition: border-color 0.1s;
+  }
+  .chunk:hover { border-color: var(--border); }
+  .chunk-header {
+    display: flex; gap: 0.6rem; font-size: 11px; margin-bottom: 0.25rem;
+    color: var(--fg-muted);
+  }
+  .chunk-ts { color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500; }
+  .chunk-speaker { font-weight: 500; }
+  .chunk-text { color: #333; font-size: 13px; line-height: 1.55; }
+  .footer {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border-light);
+    color: var(--fg-faint); font-size: 11px; text-align: center;
+  }
+  .footer a { color: var(--fg-muted); text-decoration: none; }
+  .footer a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    h1 { font-size: 20px; }
+    .quote-text { font-size: 15px; }
+    .quote-card { padding: 18px 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<a href="../../index.html" class="back">&larr; back to hypefm</a>
+
+<h1>Felix's native stablecoin FEUSD goes live on Hyperliquid, hits 10M cap in 48 hours</h1>
+<p class="description">CDP protocol launches FEUSD stablecoin backed by Hype collateral with unique redemption mechanics and unexpected early demand.</p>
+
+<p class="meta">@hypurr_co &middot; apr 10, 2025 &middot; 28:09 &middot; <a class="tag" href="../../index.html?tag=infrastructure">infrastructure</a>, <a class="tag" href="../../index.html?tag=ecosystem">ecosystem</a>, <a class="tag" href="../../index.html?tag=perps">perps</a></p>
+
+<audio controls preload="metadata" src="https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/1zqKVjkglLwKB/audio.m4a"></audio>
+
+<p class="section-label">who's talking</p><div class="participants"><div class="participant"><div class="participant-name"><a href="https://x.com/hypurr_co" target="_blank" rel="noopener">HypurrCollective.hl 🐱</a> <span style="color:#999;font-weight:400;">@hypurr_co</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">host</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/felixprotocol" target="_blank" rel="noopener">Felix</a> <span style="color:#999;font-weight:400;">@felixprotocol</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div></div>
+
+<p class="section-label">key moments</p><div class="moments"><div class="moment" data-start="448"><span class="moment-ts">7:28</span><p class="moment-label">Felix launches FEUSD stablecoin, live 48 hours</p></div><div class="moment" data-start="509"><span class="moment-ts">8:29</span><p class="moment-label">Charlie explains Felix: native money market for Hyperliquid power users</p></div><div class="moment" data-start="600"><span class="moment-ts">10:00</span><p class="moment-label">FEUSD mechanics: mint against collateral, earn yield in stability pool</p></div><div class="moment" data-start="814"><span class="moment-ts">13:34</span><p class="moment-label">5M cap filled in one hour, silently raised to 10M overnight</p></div><div class="moment" data-start="906"><span class="moment-ts">15:06</span><p class="moment-label">Cap increase announced for 8 PM CET same day</p></div><div class="moment" data-start="937"><span class="moment-ts">15:37</span><p class="moment-label">Redemption mechanism: any FEUSD redeemable for $1 collateral anytime</p></div><div class="moment" data-start="1088"><span class="moment-ts">18:08</span><p class="moment-label">Incentives program rolling out Friday, similar to Hyperliquid structure</p></div><div class="moment" data-start="1394"><span class="moment-ts">23:14</span><p class="moment-label">Integrations coming with PVP Trade and across Hyperliquid ecosystem</p></div></div>
+
+<button id="transcript-toggle" class="transcript-toggle">+ show full transcript</button><div id="transcript"><div class="chunk" data-start="77.10"><div class="chunk-header"><span class="chunk-ts">1:17</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">GM, GM. We'll just wait for the listeners to roll in and then get Felix on board soon. All right.</div></div><div class="chunk" data-start="295.59"><div class="chunk-header"><span class="chunk-ts">4:55</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">We probably can begin. Can you guys hear me fine? Yeah, we hear you well. Awesome. Yeah. Okay. So I think, yeah, welcome back to another episode of Hypercollective AMA. Hypercollective, for those who are unaware, is founded by three of us, Kirby,</div></div><div class="chunk" data-start="326.74"><div class="chunk-header"><span class="chunk-ts">5:26</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">Noel, and myself, Velocity. Pretty much did this with the mission to unite a different group of users, builders, traders, and also pretty much everyone that are excited about Hyperliquid. Our goal is really to help shape Hyperliquid. Hyperliquid's community by growing the ecosystem and also supporting projects building on top of HyperDM.</div></div><div class="chunk" data-start="358.28"><div class="chunk-header"><span class="chunk-ts">5:58</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">Our notable key initiatives are, I think, the first one being the largest validator on mainnet, together with Nansen, outside of the foundation nodes. So recently, governance decisions have come into the limelight more often. So we kind of want to be quick. We want to make sure that we have the community's voice in that matter. So if you are sticking with us, feel free to voice out any concerns in our Hyperco</div></div><div class="chunk" data-start="387.80"><div class="chunk-header"><span class="chunk-ts">6:27</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and Friends group chat. Another of our key initiatives is also in real life events. We've held around five to six so far, with the next one coming up at the start of next month, Token 2049 in Dubai. Yeah, Hyperco will be holding a conference. We'll be hosting an event on the 2nd of May there. So in real life, events are more to connect different, basically all power users</div></div><div class="chunk" data-start="418.00"><div class="chunk-header"><span class="chunk-ts">6:58</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and also external people who are keen on Hyperliquid, be it as a platform for trades or to build on top of it. So these in real life events is to help bridge that, to bring both parties closer. So another one of our key initiatives is we regularly create content in a form of weekly recaps, ecosystem</div></div><div class="chunk" data-start="448.02"><div class="chunk-header"><span class="chunk-ts">7:28</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">guides, project guides, and also AMAs like today, to shine more spotlight on the projects building on top of Hyperliquid. So today's AMA guest, we have Felix, I believe it's Aaron from Felix. Felix recently just went live, I believe it was two days ago. Exactly 48 hours for that matter. I think they recently, just last night, yesterday night, they</div></div><div class="chunk" data-start="478.28"><div class="chunk-header"><span class="chunk-ts">7:58</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">increased their cap as well, which was filled pretty fast. So perhaps later we'll go more in detail about that. But to begin, yeah, probably Aaron, do you want to share more about Hyperliquid? What Felix is? Yeah, what Felix is? For sure. And yeah, this is Charlie, by the way.</div></div><div class="chunk" data-start="509.14"><div class="chunk-header"><span class="chunk-ts">8:29</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">Oh, sorry. Yeah, no problem. Yeah. So Felix is basically building out native money market infrastructure for Hyperliquid, starting with FDUSD as a debt product, CDP stablecoin, which you mint against currently Hype Collateral. We'll also be going live with UPTC Collateral very soon. And then, you know, I plus these other majors to follow up. So, but that's kind of the basic, the basic piece. The Hyperliquid data team is building out the most</div></div><div class="chunk" data-start="538.84"><div class="chunk-header"><span class="chunk-ts">8:58</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">sound money market structure for Hyperliquid power users. All right. By the way, Charlie, you are a bit soft, so perhaps later you can speak closer to the mic. Yeah. So Felix is best known for your CDP. Being a CDP. A protocol. So do you want to share about what FDUSD</div></div><div class="chunk" data-start="569.24"><div class="chunk-header"><span class="chunk-ts">9:29</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">is and how it's centered to all the things happening on Felix? For sure. And by the way, do you hear me a bit better now? Slightly. You are a bit softer just now. Okay. All right. Hopefully it stays better. But yeah, really. So FDUSD is basically a native statement that you mint against collateral. So you deposit firmly by collateral. Like you mint FDUSD.</div></div><div class="chunk" data-start="600.10"><div class="chunk-header"><span class="chunk-ts">10:00</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">Then you can take that FDUSD and use it around the Hyper ABM ecosystem. Or use it to trade more. Basically, you know, bring it to the order book. Transfer. Transfer Hyper 4. Swap for USDC. And then trade it. And then, yes, like you said, the stability pool is a pretty well -known venue for people who are firmly deposited with FDUSD. And when you do that, you could borrow interest protocol fees. And then also liquidation and severance. Which have a pretty nice percentage. So that's kind of the overview on</div></div><div class="chunk" data-start="629.88"><div class="chunk-header"><span class="chunk-ts">10:29</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">FDUSD. That's helpful. Sorry. I think you're still a bit soft and choppy. I'm not sure if it's just me, though. Okay. Let me try a different microphone or something. Hey,</div></div><div class="chunk" data-start="661.64"><div class="chunk-header"><span class="chunk-ts">11:01</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">how is it now? Still the same? Or any better? Yeah. Now it's good. I think it might drop off as you go along. Because that was what happened just now. But yeah. I think we can just play along right now. Okay. Sounds good. Let me know if it cuts out. Yeah. Okay. So, I mean, you guys recently just went live. Right now, only hype is available as the collateral asset. Do</div></div><div class="chunk" data-start="692.72"><div class="chunk-header"><span class="chunk-ts">11:32</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">you guys have any plans to add more assets? And what are the timeline for that? Yes. So, we're probably integrating UBTC early next week. That's the plan. And then from there, hype LSTs to follow. And then likely other majors. UETH, USOIL. ETH is obviously live. But once SOIL is live, then we'll add those as well. But the collateral on the CDP side will</div></div><div class="chunk" data-start="722.78"><div class="chunk-header"><span class="chunk-ts">12:02</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">be very conservative. We also have a different sort of partnership coming where we will be able to do kind of more long tail collateral assets. Given that we'll be able to kind of isolate the markets. But just on the CDP side, it'll be hype, hype LSTs, and then majors. Bridge over from unit. Gotcha. So, with this, do you guys plan to collaborate with other... How do you guys plan to collaborate with other partner</div></div><div class="chunk" data-start="752.88"><div class="chunk-header"><span class="chunk-ts">12:32</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">protocols to enable FEUSD and also perhaps, for example, like HyperFi, they have their own native stablecoin as well. Will that be available? Will it be available on Felix and... Yeah. Yeah, it's a great question. So, I think as far as partner protocols go, we're pretty close with all the teams in the space and kind of working out different integrations with FEUSD currently. A lot of them that we're working closely with are the DEXAs specifically. So, Lemonar, HyperSwap, couldn't</div></div><div class="chunk" data-start="784.24"><div class="chunk-header"><span class="chunk-ts">13:04</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">swap those guys. So, doing a fair amount there. And like you said, with USDXL, I think there's a couple of pools that have been set up for FEUSD, USDXL. So, those are helpful as well. And I think probably FEUSD will be integrated on a few of those other markets directly soon. But yeah, currently just kind of scaling out that liquidity. And it was good to see the 10 mil cap get hit yesterday. So, we'll see what happens with the next cap raise. So, you guys initially went</div></div><div class="chunk" data-start="814.78"><div class="chunk-header"><span class="chunk-ts">13:34</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">live on Tuesday with 5 million, which filled up pretty fast within an hour. So, subsequently, I think it was pretty much a silent... increase, because I don't think you guys announced it, about the increase from 5 million to 10 million cap. What's the decision behind it? Do you guys expect such demand from the get -go? Yeah, I guess filling the 10 mil cap that quickly was pretty unprecedented, I'd say. I</div></div><div class="chunk" data-start="846.05"><div class="chunk-header"><span class="chunk-ts">14:06</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">cannot say I was expecting that. But yeah, really, we just sort of wanted to get out of this mindset of like, hey, you have to race to fill these caps and everything. It was just like, we just want the protocol to be live and sustainably up and let people come and use it, flow in and out. So, that was kind of the decision there with doing the raise without increase or without doing some big announcement. There might be announcements soon for future raises, but sort of just playing it by ear as we go. And the main thing is, obviously, the caps are, you know, they're fun and all for go -to -market, but they're mainly a</div></div><div class="chunk" data-start="876.05"><div class="chunk-header"><span class="chunk-ts">14:36</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">risk management tool. So, kind of ensuring that we scale in a sustainable way. So, that's really the main reason for them. So, yeah, that's kind of the main things that we're monitoring, if that's helpful. So, for those listening in, do you want to share a bit, perhaps drop a bit of hint of when you guys are looking to increase the cap and also how much are you looking to increase if you want to share? Yeah, for sure. So, I guess a bit</div></div><div class="chunk" data-start="906.13"><div class="chunk-header"><span class="chunk-ts">15:06</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">of alpha, but the cap will be increased today, I believe, at something like 8 p .m. CET, and it'll be to, I don't know the exact amount, but it'll be increased at 8 p .m. So, yeah, feel free to take a look. 8 p .m. CET. Perfect. So, I think for those listening in, they got a bit of that extra information and can be ready for that. Yeah. So, moving on more towards the mechanism of FEUSD.</div></div><div class="chunk" data-start="937.95"><div class="chunk-header"><span class="chunk-ts">15:37</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">How does FEUSD maintain? The $1 pack? Yeah. It's a great question. So, basically, FEUSD has a unique redemption mechanism, whereby basically at any time, any FEUSD holder can go redeem one FEUSD from $1 of collateral from the lowest interest rate positions on Felix. So, Felix is pretty interesting in that it allows you to come on the protocol and set your own interest rate. This allows you to get basically</div></div><div class="chunk" data-start="966.35"><div class="chunk-header"><span class="chunk-ts">16:06</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">the best bar rate across Hyper -EVM. With that being said. Yeah. So, if the users that are very risk on and say they want to set a rate of, you know, they want to borrow at a 1 % rate or a half a percent rate, if it's profitable, if basically the price of FEUSD drops to a level where it's profitable for a redeemer to go take one FEUSD and stop for $1 of collateral, then those users with the lowest rates are redeemed first. And basically what that looks like is that FEUSD is then burned, the collateral is taken, the debt is repaid until the price of FEUSD is restored to $1.</div></div><div class="chunk" data-start="997.11"><div class="chunk-header"><span class="chunk-ts">16:37</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">And so, FEUSD is not algorithmic. It's just purely over collateralized. So, kind of just dealing with sound collateral assets and the main risk amount of there is ensuring that we aren't onboarding collateral assets that are going to fail or, you know, see a huge massive dips that are unprecedented. So, that's kind of what we're looking at on that end. Yeah. I think FEUSD still isn't exactly very well up. I believe Max Feige from Hyperactive tweeted maybe earlier today</div></div><div class="chunk" data-start="1026.68"><div class="chunk-header"><span class="chunk-ts">17:06</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">or yesterday about how there's still somewhat like a huge premium. I think right now on Hypercore, FEUSD is currently valued at like $1, 1 cents or slightly above. I think we've seen it at one, at least I've seen it at $1, 2 or 3 cents. And I believe that's the price that Max transacted at. So, for those who wants to arbit, you definitely can be manually or through a bot. But</div></div><div class="chunk" data-start="1057.40"><div class="chunk-header"><span class="chunk-ts">17:37</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">yeah, that's somewhat like a premium. It's pretty much a risk -free trade right there between Hypercore and Hyper -EVM, which is kind of the whole thesis of Hyperliquid as well, because you have all these opportunities to up between the audiobook and the AMM, which makes it unique. So, for Felix, do you have any plans on early</div></div><div class="chunk" data-start="1088.16"><div class="chunk-header"><span class="chunk-ts">18:08</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">user incentivization? I know right now there's points program. Do you guys have any sort of timeline for that, if you could share? Yeah, for sure. So, the first batch of incentives will roll out Friday next week. So, just kind of keep an eye out for that if you're a user. And then, yeah, I would say the incentives program will be very closely, it'll function very similar to how Hyperliquid function to be set up in a very similar way. So,</div></div><div class="chunk" data-start="1118.98"><div class="chunk-header"><span class="chunk-ts">18:38</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">if you're familiar, I mean, I'm assuming all you guys are familiar with that. So, we'll just kind of keep that in mind. And yeah, I think the incentives will be great, but we'll just focus first and foremost on running profitable strategies to protocol if you choose to use it, as opposed to just purely farming. As you know, it's always best to just ensure that you have a sustainable strategy first. So, that's kind of my main thought. And if anyone needs help with that, feel free to reach out and we can help you find a suitable strategy. So,</div></div><div class="chunk" data-start="1152.06"><div class="chunk-header"><span class="chunk-ts">19:12</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">I believe the Felix token was secure on Hypercore, probably, I think, a few months ago. Which is a pretty long time and a lot of projects have done so, just waiting to launch. What can holders expect from the Felix token in terms of utility? Yeah, so there's not a ton of issue info on that end right yet. We've just been fully focused on the launch side of things. But obviously,</div></div><div class="chunk" data-start="1182.52"><div class="chunk-header"><span class="chunk-ts">19:42</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">you guys will be the first to know. I think the community will know very soon, kind of once if there's more info on that end. But yeah, I can definitely keep you updated on it. Just fully focused on the launch side right now and scaling up the product. Nice. Very tight -lipped. Any details on the tokenomics or anything you can share regarding the token? Not a ton, unfortunately. All right. It's all good. Perhaps,</div></div><div class="chunk" data-start="1212.86"><div class="chunk-header"><span class="chunk-ts">20:12</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">how do you see money markets on Hyper -EVM shaping up? I mean, Hyperland is live right now, HyperFi as well, both of which have done, I think, relatively well. Hyperland hit their cut pretty fast, similar to you guys. How do you see the competition and how do you see the whole money market scene? Yeah, I think it's a lot of people kind of serving this need. I think probably there</div></div><div class="chunk" data-start="1242.88"><div class="chunk-header"><span class="chunk-ts">20:42</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">are some interesting dynamics with Felix obviously being less directly on money, like a pure borrow -lend system and offering sort of a native stable that can be integrated with these other players. So I think hopefully you'll see some cool integrations with FUSD across these different players too, which would be mutually beneficial. So I think that's kind of our way of seeing it. But yeah, hopefully, probably over time, you'll kind of see different players sort of take different roles within the ecosystem. I think you're seeing kind of HyperDrive taking a slightly different role now and</div></div><div class="chunk" data-start="1272.90"><div class="chunk-header"><span class="chunk-ts">21:12</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">probably HyperLend soon as well, so they're not directing competition with HyperFi. So I think you'll probably see them all kind of take a different kind of path and see where kind of the dust is. But yeah, I think we'll see how it settles a bit, maybe three months' time, six months' time. But yeah, still very early right now. So we shall see. I think with that, do you guys have any thoughts on when Circle will be live on HyperEVM</div></div><div class="chunk" data-start="1303.95"><div class="chunk-header"><span class="chunk-ts">21:43</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and also perhaps like, how do you guys see that in terms of a competitor? How will you guys navigate that? Yeah. So we've been actually pushing the Circle team for some time to come deploy natively, given that that's sort of how a CDP stablecoin like FBUSD functions best, will be one that's paired with sort of a native stable like USDC. So we've been working with them for a while. Basically, it's just kind</div></div><div class="chunk" data-start="1333.98"><div class="chunk-header"><span class="chunk-ts">22:13</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">of a tough situation with sort of their typical deployment process. And obviously, I believe it is a bit of different processes all around. But yeah, I haven't heard an exact timeline from them. I think it is of interest. And I think it would be foolish for them not to consider it, given the demand. But yeah, I think sort of we'll see what happens. And obviously, there are other players looking to deploy native stable as well. And I think it'll be great to have competition on that end and sort of see who can offer the best product for HyperLiquid</div></div><div class="chunk" data-start="1364.18"><div class="chunk-header"><span class="chunk-ts">22:44</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">users so we don't just have kind of one dominant force. So we shall see on that end, though. But yeah, that's kind of where we've been looking at it. All right. Perhaps to wrap things up. What can the community expect of FEUSD integrations? Is there a lot more? Any of the perhaps your favorite most exciting news that's coming up regarding integrations</div></div><div class="chunk" data-start="1394.22"><div class="chunk-header"><span class="chunk-ts">23:14</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">that you can share off? Yeah, 100%. I'd say there's a few I'm very excited for. One is the one that we shared with the team at PVP Trade. So we should be doing some interesting stuff with them. If you guys are PVP users. So that'll be kind of in the works here soon. And then, yeah, a lot more coming down the road. I'd say, yeah, right now, just really focused on the current kind of core use cases of borrowing FEUSD to go trade more, borrowing</div></div><div class="chunk" data-start="1424.24"><div class="chunk-header"><span class="chunk-ts">23:44</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">FEUSD to earn yield on hype, deposit on disability pools, borrowing FEUSD in order to run an HLP carry trade, different things like that. But then, yeah, very soon there'll be integrations across all HyperLiquid apps. And then also on the HyperLiquid interfaces. So different kind of mobile interfaces and things like this. So it should be fun times ahead. But yeah, just keep an eye open and feel free to reach out any time with questions. I think I'm not sure if anyone has done it already,</div></div><div class="chunk" data-start="1454.42"><div class="chunk-header"><span class="chunk-ts">24:14</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">but the borrow rates as user can set their own interest rates on FEUSD. You can literally run the hype, the HLP carry trade, borrow FEUSD and then sort it back into USDC and deposit into HLP and basically earn the different trades. You can also deposit FEUSD back onto FedEx itself. The current display supply API, I think it's around 4%, but it's actually</div></div><div class="chunk" data-start="1484.46"><div class="chunk-header"><span class="chunk-ts">24:44</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">not accurate. You're getting a lot more than 4 % because traders, some of the traders collateral actually gets liquidated, which results back in your FEUSD being purchased for their hype. Which essentially means that you're getting discounted hype relative to the current market price. So I think Adir put out a tweet and some other guys as well, saying</div></div><div class="chunk" data-start="1514.84"><div class="chunk-header"><span class="chunk-ts">25:14</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">how they got, I'm not sure if they put out the exact APY number, but it's basically much more than what's reflected on the website itself. So you guys have done it. I heard it from Charlie earlier. The cap will likely be opened sometime later today, depending on your time zone. So if you guys haven't yet deposited onto FedEx</div></div><div class="chunk" data-start="1545.08"><div class="chunk-header"><span class="chunk-ts">25:45</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">and haven't yet minted FEUSD directly yet, probably a good time to just be stationed and locked in, ready to capitalize on the increase in cap. With that, I don't know. Exactly. If anything else, probably we'll open the floor to listeners and see if anyone has any questions. Thanks for all the great questions, Maggie. I very much appreciate it. And yeah, I would just echo what you said on the stability pool yield side. The</div></div><div class="chunk" data-start="1576.40"><div class="chunk-header"><span class="chunk-ts">26:16</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">majority of the yield for depositors right now is coming from those kind of the discounted hype collateral that you're earning. And so that has been something that, you know, it's tough to annualize that directly. So we're trying to figure out how do you show that on the yield side. But yeah, like you said, Adir put out a tweet. I think Gothic and a few others did some great tweets. And sort of their returns from the stability pools. But yeah, they seem to be great so far. So yeah, thanks for sharing that. All right. I think there's no one</div></div><div class="chunk" data-start="1606.68"><div class="chunk-header"><span class="chunk-ts">26:46</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">who raised their hands. But yeah, basically, it's really a lot of you that you're getting. So if you guys can get your hands on it, or even if you want to just get FEUSD, if you want to get FEUSD on the secondary market, right now it's trading at a slight premium on HyperCore. It's around $1 .01. Slightly above that. You can essentially purchase there and then deposit directly on Felix as well. The yield is actually pretty</div></div><div class="chunk" data-start="1636.90"><div class="chunk-header"><span class="chunk-ts">27:16</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">attractive. I'm essentially diluting my own. But yeah, who doesn't love a good protocol? So, yep. Thank you, Felix, for joining us today. And I think thank you, everyone, for listening in. I think for the few... For the guys that are... On here, you can expect Felix to increase their cap later today. So yeah, look forward to that and use</div></div><div class="chunk" data-start="1667.66"><div class="chunk-header"><span class="chunk-ts">27:47</span><span class="chunk-speaker">SPEAKER_00</span></div><div class="chunk-text">Felix. Thanks a ton, guys. And yeah, feel free to DM us or reach out with any questions or if we could help with anything. Always here to help. Thank you. Goodbye.</div></div></div>
+
+<div class="footer">
+  <a href="../../index.html">hypefm</a> &nbsp;&middot;&nbsp;
+  <a href="https://x.com/i/spaces/1zqKVjkglLwKB" target="_blank" rel="noopener">view on X</a>
+</div>
+
+</div>
+
+<script>
+  const audio = document.querySelector('audio');
+  function seekTo(t) {
+    if (!audio) return;
+    audio.currentTime = t;
+    audio.play();
+    audio.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-start]').forEach(el => {
+    el.addEventListener('click', () => {
+      const t = parseFloat(el.dataset.start);
+      if (!isNaN(t)) seekTo(t);
+    });
+  });
+  const toggle = document.getElementById('transcript-toggle');
+  const transcript = document.getElementById('transcript');
+  if (toggle && transcript) {
+    toggle.addEventListener('click', () => {
+      const visible = transcript.classList.toggle('visible');
+      toggle.textContent = visible ? '- hide full transcript' : '+ show full transcript';
+    });
+  }
+</script>
+</body>
+</html>

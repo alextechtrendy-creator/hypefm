@@ -1,0 +1,96 @@
+{
+  "space_id": "1vOxwrMZXDvJB",
+  "title": "HypurrCo AMA Series: Timeswap Labs & it’s upcoming Fjord Sale",
+  "state": "ended",
+  "created_at": "2025-01-10T12:02:36Z",
+  "started_at": "2025-01-14T14:00:53Z",
+  "ended_at": "2025-01-14T15:01:33Z",
+  "scheduled_start": "2025-01-14T14:00:00Z",
+  "lang": "zh",
+  "is_ticketed": false,
+  "participant_count": 416,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Ricsson Ngo ⏳ timelord.eth",
+      "handle": "TimelordEth",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "mimi",
+      "handle": "defi_mimi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Timeswap ⏳",
+      "handle": "TimeswapLabs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ameeth || Timeswap ⏳ It's $TIME",
+      "handle": "0x42069",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1vOxwrMZXDvJB",
+  "summary_title": "TimeSwap's oracle-less lending arrives on HyperEVM with 50% community token allocation",
+  "summary_description": "TimeSwap co-founders discuss their fixed-term lending protocol, $20M FDV token sale, and V3 roadmap.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 254,
+      "label": "Introduction to TimeSwap and upcoming token sale details"
+    },
+    {
+      "timestamp_seconds": 466,
+      "label": "Amit and Rickson introduce TimeSwap's oracle-less design and history"
+    },
+    {
+      "timestamp_seconds": 798,
+      "label": "How TimeSwap operates without oracles using AMM mechanics"
+    },
+    {
+      "timestamp_seconds": 1100,
+      "label": "Token sale announcement: $20M FDV, 10% community allocation, launching Friday"
+    },
+    {
+      "timestamp_seconds": 1554,
+      "label": "Token distribution: 50% community, 20% team, 15% investors, 15% treasury"
+    },
+    {
+      "timestamp_seconds": 1857,
+      "label": "TimeSwap V3 vision: unified liquidity for all fixed-term financial products"
+    },
+    {
+      "timestamp_seconds": 2039,
+      "label": "Rickson explains V3's three innovations: architecture, capital efficiency, and maturity pooling"
+    },
+    {
+      "timestamp_seconds": 2740,
+      "label": "Why HyperEVM matters: meritocratic ecosystem with strong builder community"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Timeswap",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3640.704,
+  "capture_failure_reason": null
+}

@@ -3,7 +3,7 @@
 _CDP stablecoin with revenue-sharing liquidations. Deposit FEUSD, earn yield plus hype collateral discounts._
 
 > The stability pool depositors get the first right to buy liquidated collateral and receive the 5% penalty clipped from the borrower.
-> — Aaron, Felix Protocol
+> — Aaron, Felix
 
 **Host:** @rekt_gang
 **Date:** 2025-04-07
@@ -13,8 +13,8 @@ _CDP stablecoin with revenue-sharing liquidations. Deposit FEUSD, earn yield plu
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — RecGang _host_
-- **Aaron** — Felix Protocol _guest_
+- **Zerk** (@rekt_gang) _host_
+- **Aaron** — Felix _guest_
 
 ## Key moments
 

@@ -167,7 +167,7 @@
 
 </div>
 
-<script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
 <script>
 (function() {
   const state = { spaces: [], index: null, activeHost: null, activeTag: null, activeTeam: null, query: '' };
@@ -264,20 +264,25 @@
       const q = state.query.trim();
       let results = [];
       try {
-        const terms = q.split(/\s+/).filter(Boolean);
-        const lunrQuery = terms.map(t => `${t} ${t}* ${t}~1`).join(' ');
-        results = state.index.search(lunrQuery);
-      }
-      catch (e) {
+        results = state.index.search(q);
+        // If AND match is too strict and finds nothing, loosen to OR
+        if (results.length === 0) {
+          results = state.index.search(q, { combineWith: 'OR' });
+        }
+      } catch (e) {
         const lq = q.toLowerCase();
         results = state.spaces
           .filter(s => (s.title || '').toLowerCase().includes(lq) || (s._transcript || '').toLowerCase().includes(lq))
-          .map(s => ({ ref: s.id }));
+          .map(s => ({ id: s.id }));
       }
-      const matchedIds = new Set(results.map(r => r.ref));
-      filtered = filtered.filter(s => matchedIds.has(s.id));
+      // MiniSearch returns results pre-sorted by relevance; preserve that order
+      const rank = new Map(results.map((r, i) => [r.id, i]));
+      filtered = filtered.filter(s => rank.has(s.id));
+      filtered.sort((a, b) => rank.get(a.id) - rank.get(b.id));
     }
-    filtered.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    if (!state.query) {
+      filtered.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    }
     els.count.textContent = filtered.length + ' space' + (filtered.length === 1 ? '' : 's');
     if (!filtered.length) {
       els.results.innerHTML = '<div class="empty">no spaces match your search.</div>';
@@ -308,12 +313,21 @@
           </div>`;
       } else {
         const hostName = s.host || '?';
-        const initial = hostName.slice(0, 1).toUpperCase();
-        teamStripHtml = `
-          <div class="entry-team-strip">
-            <div class="entry-team-logo">${esc(initial)}</div>
-            <p class="entry-team-name">@${esc(hostName)}</p>
-          </div>`;
+        const hostInfo = s.host_info;
+        if (hostInfo && hostInfo.logo) {
+          teamStripHtml = `
+            <div class="entry-team-strip">
+              <div class="entry-team-logo"><img src="${esc(hostInfo.logo)}" alt="${esc(hostInfo.display_name)}"></div>
+              <p class="entry-team-name">${esc(hostInfo.display_name)}</p>
+            </div>`;
+        } else {
+          const initial = hostName.slice(0, 1).toUpperCase();
+          teamStripHtml = `
+            <div class="entry-team-strip">
+              <div class="entry-team-logo">${esc(initial)}</div>
+              <p class="entry-team-name">@${esc(hostName)}</p>
+            </div>`;
+        }
       }
 
       const quoteHtml = s.quote ? `<p class="entry-quote">"${esc(s.quote)}"</p>` : '';
@@ -365,15 +379,25 @@
       });
     });
   }
-  function buildIndex() {
-    state.index = lunr(function() {
-      this.ref('id'); this.field('title', { boost: 3 });
-      this.field('description', { boost: 2 });
-      this.field('host', { boost: 2 }); this.field('transcript');
-      state.spaces.forEach(s => {
-        this.add({ id: s.id, title: s.title || '', description: s.description || '', host: s.host || '', transcript: s._transcript || '' });
-      });
+function buildIndex() {
+    state.index = new MiniSearch({
+      fields: ['title', 'description', 'host', 'transcript'],
+      storeFields: ['id'],
+      idField: 'id',
+      searchOptions: {
+        boost: { title: 4, description: 2, host: 3, transcript: 1 },
+        prefix: true,
+        fuzzy: 0.2,
+        combineWith: 'AND',
+      },
     });
+    state.index.addAll(state.spaces.map(s => ({
+      id: s.id,
+      title: s.title || '',
+      description: s.description || '',
+      host: s.host || '',
+      transcript: s._transcript || '',
+    })));
   }
   function renderAll() {
     renderActiveFilters();

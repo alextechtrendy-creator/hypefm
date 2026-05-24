@@ -1,0 +1,162 @@
+{
+  "space_id": "1YqJDZYVvjEKV",
+  "title": "HypurrCo AMAs: Hyperbeat, Hypio, HyperEVM predeposit programme.",
+  "state": "ended",
+  "created_at": "2025-03-07T03:25:56Z",
+  "started_at": "2025-03-11T14:02:18Z",
+  "ended_at": "2025-03-11T15:07:13Z",
+  "scheduled_start": "2025-03-11T14:00:00Z",
+  "lang": "other",
+  "is_ticketed": false,
+  "participant_count": 897,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Velocity.hl",
+      "handle": "0xVelocity88",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "800.HL",
+      "handle": "degennQuant",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Silhouette",
+      "handle": "silhouette_ex",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "ness.hl",
+      "handle": "0xNessus",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "hatashi",
+      "handle": "HatashiYamatomo",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "If Market",
+      "handle": "ifmarkets",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ameeth || Timeswap ⏳ It's $TIME",
+      "handle": "0x42069",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "HypurrFi",
+      "handle": "HypurrFi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Hyperbeat",
+      "handle": "hyperbeat",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Harmonix Finance",
+      "handle": "harmonixfi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Royco",
+      "handle": "roycoprotocol",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Resolv Labs",
+      "handle": "ResolvLabs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ryzed.hl",
+      "handle": "0xRyzed",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mizu",
+      "handle": "mizulabs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "anḍ̴͆͒ŷ̶͙̱̲",
+      "handle": "andyhyfi",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqJDZYVvjEKV",
+  "summary_title": "HyperBeat's pre-deposit vaults solve HyperEVM's cold-start liquidity problem",
+  "summary_description": "Community-run liquidity vaults bridge billions in capital to HyperEVM DeFi protocols through transparent, programmatic incentives.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 153,
+      "label": "HyperCollective intro: validator, community events, ecosystem support"
+    },
+    {
+      "timestamp_seconds": 254,
+      "label": "HyperBeat announces pre-deposit vaults launching with HyperEVM upgrade"
+    },
+    {
+      "timestamp_seconds": 366,
+      "label": "Problem: cold-start liquidity, opaque incentives, insider advantage in onboarding"
+    },
+    {
+      "timestamp_seconds": 427,
+      "label": "Solution: transparent, programmatic vault allocation via Royco and Layer Zero"
+    },
+    {
+      "timestamp_seconds": 518,
+      "label": "HyperLend on DeFi roadmap: AVAs, isolated pools, perpetual collateralization"
+    },
+    {
+      "timestamp_seconds": 668,
+      "label": "Royco enables smart-contract negotiation between vaults and protocols for incentives"
+    },
+    {
+      "timestamp_seconds": 2612,
+      "label": "Discussion: speculation on second Hyperliquid points season and HyperEVM incentives"
+    },
+    {
+      "timestamp_seconds": 3250,
+      "label": "800 on farming strategy: early HyperEVM participation yields rewards when market turns"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "HyperBeat",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3901.76,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,136 @@
+# AI agents automating HLP loops: Neko's DeFi infrastructure on Hyperliquid
+
+_How Neko is building backend DeFi AI agents to solve capital efficiency, not just UX—plus 33% airdrop strategy and private beta launch._
+
+**Host:** @hypurr_co
+**Date:** 2025-03-05
+**Duration:** 31:09
+**Tags:** ecosystem, infrastructure, vaults
+**Source:** https://x.com/i/spaces/1RDGlzXZyAqxL
+
+## Who's talking
+
+- **HypurrCollective.hl 🐱** (@hypurr_co) _host_
+- **rardedd** (@rardedd) _guest_
+- **neko.hl** (@neko_hl) _guest_
+- **Halodunka** (@Cryptohalo1) _guest_
+- **Danielmarvin(❖,❖)** (@Marvinsin1) _guest_
+
+## Key moments
+
+- **[6:21]** Neko introduced as DeFi AI storm for Hyperliquid and HyperEVM
+- **[7:22]** Three reasons to build on Hyperliquid: community, egalitarian environment, execution
+- **[9:22]** AI agents defined: bots with reasoning capacity, tools, and LLM APIs
+- **[10:23]** DeFi AI agents unlock backend capital efficiency beyond UX improvements
+- **[14:07]** Neko token bonded at 12M FDV in 20 minutes via HyperPump
+- **[15:08]** 100% fair launch float with 33% of supply airdropped to communities
+- **[24:11]** Private beta launching second or third week of March, rate-limited to 100 users
+- **[26:56]** V1 focuses on structured agentic workflows executing swaps and vault deposits automatically
+
+## Transcript
+
+**[3:49] SPEAKER_00:** GM, GM, welcome back to another episode of our Hyperco AMA. So the quick introduction about Hypercollective is that we are a collective of founders, builders, traders, and power users working together to contribute to its Hyperliquids ecosystem growth. We have done a couple of initiatives so far. Recently published out our ecosystem map, whereby pretty
+
+**[4:19] SPEAKER_00:** much a comprehensive list of projects that are building on Hyper -EVM are already listed. And that complements our previous ecosystem directory. On top of that, we also have, we recently organized three events in three different countries. The... end of the Chinese New Year event hosted together with Nansen, another one in Hong Kong
+
+**[4:49] SPEAKER_00:** consensus with our partners, and lastly, another of the Hypercollective gathers at ETH Denver. So that's our in real life events that we've hosted this year so far, with two that we helped last year as well. On top of those, we also... are the top mainnet validator outside of the foundation nodes, with around 40 million
+
+**[5:20] SPEAKER_00:** hype staked with us thus far. So with that, we've secured multiple airdrops for our Hypercollective stakers, Cent, Time, Ruck, OmniX, and plenty more to come together with Nansen points. So on top of that, we at Hypercollective, we have also secured plenty of NFT whitelists for different stakers and community. Lichina
+
+**[5:51] SPEAKER_00:** and Hypers are a few of them. So we do have a lot more initiatives, but that's kind of the comprehensive, that's some of the more important ones. On the airdrop for Hyperco stakers, Neko will probably touch more on that as well, because they have something planned for... outstakers. So yeah, today's guest is Neko. We have Ali Rerut from Neko,
+
+**[6:21] SPEAKER_00:** according to his Twitter alias. So yeah, Rerut, why don't you share with us more about what Neko is? Yeah, for sure. Just wanted to start off, thank you for giving me the platform to speak upon. And yeah, gNeko guys. Um, yeah, it's Ali Rerut. Ali, or Rerut, whichever is easier. Rerut is short for retarded, so you can call me retard as well. But yeah, Neko is a DeFi AI storm
+
+**[6:51] SPEAKER_00:** on top of Hyperliquid or HyperEVM. And there are two core objectives. So to distribute Hyperliquid and HyperEVM products to a broader user base using agentic workflows, and to accelerate the development and capital efficiency of HyperEVM using AI agents, DeFi AI agents on the back end, different protocols such as Hyperswap, Kinswap. Felix, Hyperlend, etc. Nice. Why, why did you choose to build
+
+**[7:22] SPEAKER_00:** on Hyperliquid? Yeah, I chose to build on top of Hyperliquid because two core reasons, or I guess three core reasons, right? The first one is obviously the community. I, after like the TGE for hype, I saw like the community was super ravenous and super cultish, and it only grew larger after the TGE as well. Like, you don't, you don't really see many protocols that TGE and actually grow and users. After the protocol, most people leave. So that was like a signal to me to like, look further into this. Another
+
+**[7:52] SPEAKER_00:** thing is very egalitarian, pretty equal level playing field for any builder. If you have an idea, if, you know, you're hungry, and you're scrappy, and you are fast to execute Hyperliquid and HyperEVM is like the best place for you to build other ecosystems. I'm not going to name names specifically are a lot more insidery, and they try to king make certain plays. So I didn't really agree with that. Um, and then yeah, execution in the team, right? So like Jeff Julian, these guys are all about execution.
+
+**[8:22] SPEAKER_00:** They built one of the best perp decks products and the space in 2023, 2024, and they decided to build a chain and they already shipped the chain. So yeah, those are a couple of reasons why we chose Hyperliquid. Yeah, I fully agree with you on the community point. Uh, hence, uh, Kirby, Noel and myself, the three of us started Hypercollective as a form of giving back as well. So, uh, one great point that you, uh, stated. Was that a lot of the other chains
+
+**[8:52] SPEAKER_00:** were, a lot of their users are pretty mercenary. They are just there for airdrops and incentives. And then, uh, once that happens, they all flock, uh, elsewhere and it's just a constant hot ball of capital, I guess. Um, moving on to more, uh, necro focus, what are AI agents and also, uh, deaf AI, uh, short form for defy AI. Yeah, for sure. Um, there's a lot of definitions
+
+**[9:22] SPEAKER_00:** of what an AI agent is. It could honestly be whatever you want to call it. Um, the most simple way I can define what an AI agent is, is it is a bot, um, like a script with agentic reasoning with tools, whether it's like smart contracts or calling off chain APIs, uh, for data feeds. Um, and the reason why it has reasoning capacity is because of like the base LLM API key that you use for their respective bots or agents. And in this case, and in terms of deaf AI or defy,
+
+**[9:53] SPEAKER_00:** um, what this really is, is a lot of people are talking about like, you know, defy AI agents on the UX perspective of, you know, using natural language intents to essentially streamline, uh, on chain activity and better UX, which is correct. That's a fundamentally true thesis. I think agents are the next app layer. Um, but many teams are not looking at how defy AI agents can actually be used in the backend of these financial products to accelerate. The development and capital efficiency of these protocols, whether it's minting
+
+**[10:23] SPEAKER_00:** more LSTs, over collateralized stable coins, making lending and borrowing markets more efficient by, you know, immediately claiming underwater loans and fulfilling those flash loan, uh, requests, uh, stuff like that. So you've built out both, uh, NECO and OMO. What is the relationship between both of them? Yeah, for sure. So 20 % of the revenue that NECO will be generating will be funneled back towards OMO DAO. Uh, OMO
+
+**[10:53] SPEAKER_00:** is the parent company of NECO, essentially. Um, with OMO, we've been doing agents as a service. So working with a couple of different clients like Talus, uh, NIA 16Z partner, um, and a couple other teams that were, were in the works of developing an agent for them or in conversations of creating an agent for them. I can't say their names, uh, out of respect for them. Uh, and we just decided to do agents as a service for Jeff and Julian for Hyperloop and, and it's basically just our own for first, uh, proprietary product. Under the OMO brand. Got
+
+**[11:30] SPEAKER_00:** it. So what is the product that you're excited about building out for NECO and how do you see, um, defining Hyper EVM? Yeah, there are two, there are two products I'm super excited for. So in terms of like the DeFi stuff, um, I'm really excited about like what Hyperland and Hyperdrive are doing in terms of tokenizing HLP, uh, I think a loop leverage, HLP vault, uh, managed by an agent to manage that healthcare. Uh, I think a loop leverage HLP vault, uh, managed by an agent to manage that healthcare. Uh, I
+
+**[12:06] SPEAKER_00:** think a loop leverage HLP vault, uh, managed by an agent to manage that healthcare. And then finally one product that we're really excited about is one think is true. And it's like tentatively more of like a veterans and likeЫ like oder hyper -EVMs deploy and then dam in a different approach. It was a great story. Another one is the Relong Data Gap. If you think of poured, two finally, a scary street where you here are investigating these. Liquid currently is that it's still in a bit of its own echo chamber in terms of users and user adoption. So we're looking to streamline that and distribute
+
+**[12:36] SPEAKER_00:** HyperLiquid on the social layer and streamline the on -ramp workflow. So users can basically just direct deposits straight into their margin account on HyperLiquid or into their HyperEVM account. Yeah, I think that's for this. We are extremely excited about HyperDrive and HyperLend and some of the other money markets who are tokenizing HLP.
+
+**[13:07] SPEAKER_00:** That obviously unlocks a lot more potential and allows for a lot of capital to be extremely, to basically be a lot more capital efficient, given how minimal the drawdown of HLP is. You can't practically just loop it until a certain threshold. And that could all be automated by an AI agent, which I'm excited that Neko is building. So I think
+
+**[13:37] SPEAKER_00:** with that, you guys already secured a ticker on HyperLiquid, and I believe that was through the initial, somewhat like a crowdfunding source from HyperPump. So do you want to share more about what is the Neko token and also what you take away from it? Sure. So the first last thing, I would really like you to highlight before we move to the Neko report is about Neko, what kind of utility can token holders expect? Yeah, no, for sure. Shout out to Loracle for building a great platform to crowdsource or crowdfund
+
+**[14:07] SPEAKER_00:** HyperLiquid tickers. We bought the Neko ticker or we bonded at 12 MFDV in roughly like 20 minutes. And yeah, we bought the ticker for 429K, in terms of Neko utility, I guess I can leak this. We're going to be doing referral codes, but we're going to be doing over the next 10 days, program and basically if you want to get higher fee shares on your own referral codes like the base fee will basically be like five bips on all the products that we have whether it's perps swaps
+
+**[14:37] SPEAKER_00:** launching tokens uh the structure vault products that we're going to be providing that are leveraging ai agents it's like four or five different streams of revenue that users will get through their own referral code and if you burn more necco token you'll essentially be able to get higher uh fee sharing from all the different revenue streams we have within the product what is the necco tokenomics yeah for sure so it's
+
+**[15:08] SPEAKER_00:** a hundred percent float since it's a fair launch um after we sourced like 149k in liquidity in the first block of trading so that secured us like roughly like 60 to 70 percent and then once trading ended and we bonded we had like 83 .52 percent of the supply um we burned like seven percent of the supply already and i believe 15 percent of the supply was burned so we had like a hundred percent of the supply and we had like a hundred percent is an hyp2 so we have like roughly like 65 point um three two percent of the supply we're airdropping 33 of the supply to different communities
+
+**[15:39] SPEAKER_00:** six like six point six seven percent to hyperco eleven percent to hypo uh three percent to capital etc you can look at the highlights page to see all the uh all the airdrop distribution on that front we'll be dropping a block on that pretty soon when we actually distribute the airdrop um and then yeah we'll probably have roughly like ten percent for the team um and then the rest will just go towards the treasury for marketing um yeah marketing uh ops uh those are probably the main two
+
+**[16:09] SPEAKER_00:** things and then we are looking to bootstrap the agent wallet with four percent of the token supply as well so it can actually start trading with its own book too nice i'm pretty excited for that i think i just want to touch on a point that you mentioned earlier and i think we are all pretty happy and thankful that you are uh naco is kind enough to airdrop around 6 .7 of the market so that's that's pretty good i think that's pretty good that's pretty good next question is karen you mentioned tourism we saw that at the same time that we introduced совсем of uh 6 .7 of your token supply to our stickers uh i think looking
+
+**[16:40] SPEAKER_00:** at overall picture what is the reason behind allocating a total of uh 33 to airyy raining airdrops because that's that's one -third of the entire token supply and that's uh quite a hefty amount so yeah what's the reason behind it yeah for sure um there are two core reasons i would say um i would say for sure for all in the first off it's just to show community alignment i kind of see it as like a customer acquisition cost where like you know people fuck with us um and
+
+**[17:10] SPEAKER_00:** we give them an airdrop obviously like the neco token will be tradable though there'll be ways to earn the neco token through like our points program too um you know essentially just wanted to show like community alignment and showcase that like you know hyperluka did something right in terms of just having like quite a hefty uh distribution of of their token to like the community um another thing is that like yeah we just want to just kind of want to be chads right like everything that we do with neco is just kind of like a plus one for us because i've already uh
+
+**[17:41] SPEAKER_00:** raised for omo so like uh you know neco is more so just like a product that we want to gain like a lot of user traction on to showcase that we actually understand how to build agent products from like the user perspective because longer term we want to build out our own infrastructure so the main thing is like you know i see it as customer acquisition costs in turn as well as like being aligned with like the hl community and tandem to that you know just to show that like we're not we're not pussies yeah i
+
+**[18:15] SPEAKER_00:** think that's fair uh i'm so so in the earlier days uh such a large amount of airdrop percentage is actually uh pretty bad for the token because a lot of them after that just die off those uh recipients of the airdrop basically just sell off instantaneously uh i'm hoping it's different this time around because you guys are you guys are in a meme coin first of all and and
+
+**[18:45] SPEAKER_00:** i think def ai is definitely something that is very nascent as a vertical and can flourish i think it's somewhat just like intense repackaged so intense did have quite a bit of hype uh one or two years ago and and i think def ai whatever points that you mentioned earlier especially uh for hyperliquid native um the looping of hlp is definitely very attractive and i see you guys at the forefront of it automating these strategies
+
+**[19:16] SPEAKER_00:** so hopefully the the the large airdrop as a way of customer acquisition plays off i think with that also how do you think def ai uh would play out on hyper apart from you guys how do you see uh the incumbents from the other ecosystems joining and yeah how do you just see it happening yeah no for sure so
+
+**[19:46] SPEAKER_00:** in terms of defi ai the only defi ai project on hyperliquid right now is fly and that's kind of like a natural language uh interface for both like the hyperliquid api as well as kitten swap hyper swap and liquid launch um i think what they're doing is cool so they're probably looking to deploy on top of hyperavium as well um that's kind of like focused purely on like natural language as well um one reason
+
+**[20:16] SPEAKER_00:** why i think we're differentiated as a team in terms of defi ai is because as i mentioned earlier a lot of these teams are over indexing on like the ux perspective like the ux pattern of how to interact with these on -chain products which is fundamentally a correct thesis i think if like you're an ai agent builder that's quite consensus now to be like okay like agents are going to help like reduce the ux barrier and we're going to be doing that in echo as well but a lot of teams aren't thinking about how you can actually make a defi ecosystem more capital efficient using structured agentic workflows and this
+
+**[20:46] SPEAKER_00:** is what we're building right now got it fair i think perhaps just uh almost kind of like final question before we open up the floor what do you think makes a good um ai agent and also what is knuckles edge is it your proprietary data uh scraping of data all yeah yeah
+
+**[21:16] SPEAKER_00:** for sure there's a couple of things that makes a good agent product so data is obviously the foundation your own custom rag and cag pipelines will be quite critical in tandem to figuring out what is the best open source model for said use case whether it's deep c quen kimmy um open thinking i believe there's a bunch of open source models now uh llama of course in tandem to that having an s -tier uxy for the product interface
+
+**[21:47] SPEAKER_00:** and cult community and outside like the technical stuff right i think our largest edge as a team i mean we're all like web3 ai native right like you know we have an entire team of engineers that have been doing quantum machine learning have done rest with the smart contracts etc but the there's no real moat in tech anymore in my opinion and i think the real moat is your community uh your product design um i think those are like really the two core
+
+**[22:17] SPEAKER_00:** things right because if you look at apple right they can ship the same phone over like seven years right but they'll still have like their cult fan base basically just buying every product that they'd use so outside of like our technical chops and like our experience with just like building out d5 stuff web3 models uh excuse me machine learning models tailored towards like web3 activity um it's just like the community building that we've done so far uh obviously shout out to the hype yo shout out to the hyper code guys shout out to the hyper look at you guys and i'll see you guys in the next video and i'll
+
+**[23:10] SPEAKER_00:** see you guys in the next video and i'll see you guys in the
+
+**[23:41] SPEAKER_00:** next video so it's nice to see that uh that's something that you guys focus on as well uh i don't actually have any other questions perhaps is there anything else that you want to share or anyone from the listening uh anyone listening in uh would like to ask uh neko yeah i'll share something
+
+**[24:11] SPEAKER_00:** real quick so we're gonna have our private beta for the application out pretty soon um i think i'm thinking like roughly like second or third year i'm gonna have a private beta for the application first week of march um we'll rate limited to like 100 people uh in the early days and then we'll slowly expand to ensure that the infrastructure can handle it and we're effectively like managing all the bugs that we may or may not get um so yeah you know uh we'll have more information on that pretty soon but yeah we'll be pretty excited to get the product into users hands really soon nice
+
+**[24:46] SPEAKER_00:** awesome uh we'll probably just give another minute to see if anyone uh listening in uh has any question all right
+
+**[25:26] SPEAKER_00:** uh hello oh i think hello dunka um i think you have a question oh yeah hey guys uh how's it going gineko sir so i i had a question um so i'm i'm also kind of a uh how do i put this lightly i'm also kind of a retard myself so i wanted to ask with with
+
+**[25:56] SPEAKER_00:** these like uh basically like with the ai agents we're talking about so i i am from my understanding you guys are doing like the infrastructure for it right i guess could you expand further upon the infrastructure because there's a lot that goes into like building ai agents and for uh okay uh so basically like people will be able to use your platform to deploy uh
+
+**[26:26] SPEAKER_00:** like agents on hyperliquid or like is that is that the way yeah no we're not really looking you know in the future we may allow users to deploy their own agents on top of hyperliquid but you know you look at vapor you look at uh waifu you look at virtuals etc i really don't think there's much moat and actually like being a launch pad for agents i think what people really want to see from the ai agent sector is actually agents uh fulfilling a business logic and generating like
+
+**[26:56] SPEAKER_00:** real revenue by solving a problem for the end user so what we're doing right now for the v1 is actually creating like structured agentic workflows where you know using privy server embedded wallets uh something that hyperliquid uses for like that they're really good ux is once you log into the application you can basically just deposit and interact with buttons uh but on the back end it's basically going to be agentic workflows executing this for you whether it's swapping uh and then using something like shogun uh
+
+**[27:26] SPEAKER_00:** which is an intense server protocol to either get the best out of the business or like the hyperliquid order book or the amm itself or like depositing into you know structure vault products where instead of it being like a human asset manager like gauntlet or mev capital it's basically going to be an architect agent right that has a deep reasoning model intended to its own proprietary data pipelines tailored to that respective product whether it's like you know loop type uh looped hlp um uni v3 position management of
+
+**[27:56] SPEAKER_00:** like rap state type l hype etc so like from the user's point of view it's going to be a really good platform for people to create their own agents because creating an agent uh is a lot more difficult than like creating like an agent that's productive and that generates like real value is a lot more difficult than said right so that's why you have like you know an overflow of like a bunch of eliza forks
+
+**[28:27] SPEAKER_00:** with just like a change and like the character file and it's just like a slop agent right what we're focused on is creating like tailored agent products to the end user that they can tap into that'll basically perform as an optimized user okay yeah that's that's a big relief thank you thank you because uh okay my assumption was uh wrong and that's that's way better because you guys are like actually gonna give us a product that we can use as a user and not just yeah yep awesome thank you all right
+
+**[28:57] SPEAKER_00:** uh we have another guy who requested daniel marvin i believe you are on i think he might have dropped off yes so um yeah so if anyone has any questions feel free to just request to speak all
+
+**[29:34] SPEAKER_00:** right buddy all right i think uh i don't think anyone else has
+
+**[29:58] SPEAKER_00:** any more questions uh i mean alternatively all of us are very active on ct so i'm very sure you can just uh hit wherever where that uh up in his dms or just tweet at him um and and ask any questions if you guys have uh yeah personally i think thank you neko for joining us in our spaces today and also be very kind uh
+
+**[30:29] SPEAKER_00:** airdrop to our stakers we are definitely looking uh forward to that yeah no thank you for the time um and appreciate everyone that came to attend the space feel free to drop the neko .hl account a follow turn on notice we're going to be dropping a lot more information fairly soon um we'll be turning on the agent fairly soon as well soon inshallah um and yeah yeah excited for you guys to join the journey thank you
+
+**[30:59] SPEAKER_00:** goodbye

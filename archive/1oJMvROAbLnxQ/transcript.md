@@ -25,7 +25,7 @@ _Paragon deploys crypto's most-charted but previously untradeable indices—BTC.
 - **[24:09]** 125-name basket methodology; Bitcoin dominance = BTC market cap / top 125 total
 - **[31:17]** Case study: BTC down 13%, Bitcoin dominance down <1%—removes single-name risk
 - **[43:23]** Paragon self-funded 500K HLP; retains control during zero-to-one stage
-- **[51:25]** Live on TreadFi, Pair Protocol, Based, BullPen, Silico; $5K cash prizes + points boost
+- **[51:25]** Live on TreadFi, Pear Protocol, Based, BullPen, Silico; $5K cash prizes + points boost
 
 ## Transcript
 

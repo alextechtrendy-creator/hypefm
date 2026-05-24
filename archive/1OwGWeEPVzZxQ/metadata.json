@@ -20,19 +20,19 @@
     {
       "name": "Huff",
       "handle": null,
-      "team": "Pair Protocol",
+      "team": "Pear Protocol",
       "role": "guest"
     },
     {
       "name": "CL",
       "handle": null,
-      "team": "Pair Protocol",
+      "team": "Pear Protocol",
       "role": "guest"
     }
   ],
   "space_url": "https://x.com/i/spaces/1OwGWeEPVzZxQ",
   "summary_title": "45% win rate pair trading beats directional on Hyperliquid by multiples",
-  "summary_description": "Pair Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon.",
+  "summary_description": "Pear Protocol's basket trading on Hyperliquid shows 45% user profitability versus 20% directional trading, with vaults and LLM launching soon.",
   "topic_tags": [
     "perps",
     "trading",
@@ -41,7 +41,7 @@
   "key_moments": [
     {
       "timestamp_seconds": 341,
-      "label": "Huff introduces Pair Protocol and pair trading concept"
+      "label": "Huff introduces Pear Protocol and pair trading concept"
     },
     {
       "timestamp_seconds": 583,
@@ -75,7 +75,7 @@
   "pull_quote": "45% of pair traders are profitable versus 20% directional traders on Hyperliquid, multiples higher because users avoid liquidations with hedging.",
   "quote_attribution": {
     "name": "Huff",
-    "team": "Pair Protocol",
+    "team": "Pear Protocol",
     "role": "founder"
   },
   "audio_captured": true,

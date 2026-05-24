@@ -1,0 +1,121 @@
+# Felix's native stablecoin FEUSD goes live on Hyperliquid, hits 10M cap in 48 hours
+
+_CDP protocol launches FEUSD stablecoin backed by Hype collateral with unique redemption mechanics and unexpected early demand._
+
+**Host:** @hypurr_co
+**Date:** 2025-04-10
+**Duration:** 28:09
+**Tags:** infrastructure, ecosystem, perps
+**Source:** https://x.com/i/spaces/1zqKVjkglLwKB
+
+## Who's talking
+
+- **HypurrCollective.hl 🐱** (@hypurr_co) _host_
+- **Felix** (@felixprotocol) _guest_
+
+## Key moments
+
+- **[7:28]** Felix launches FEUSD stablecoin, live 48 hours
+- **[8:29]** Charlie explains Felix: native money market for Hyperliquid power users
+- **[10:00]** FEUSD mechanics: mint against collateral, earn yield in stability pool
+- **[13:34]** 5M cap filled in one hour, silently raised to 10M overnight
+- **[15:06]** Cap increase announced for 8 PM CET same day
+- **[15:37]** Redemption mechanism: any FEUSD redeemable for $1 collateral anytime
+- **[18:08]** Incentives program rolling out Friday, similar to Hyperliquid structure
+- **[23:14]** Integrations coming with PVP Trade and across Hyperliquid ecosystem
+
+## Transcript
+
+**[1:17] SPEAKER_00:** GM, GM. We'll just wait for the listeners to roll in and then get Felix on board soon. All right.
+
+**[4:55] SPEAKER_00:** We probably can begin. Can you guys hear me fine? Yeah, we hear you well. Awesome. Yeah. Okay. So I think, yeah, welcome back to another episode of Hypercollective AMA. Hypercollective, for those who are unaware, is founded by three of us, Kirby,
+
+**[5:26] SPEAKER_00:** Noel, and myself, Velocity. Pretty much did this with the mission to unite a different group of users, builders, traders, and also pretty much everyone that are excited about Hyperliquid. Our goal is really to help shape Hyperliquid. Hyperliquid's community by growing the ecosystem and also supporting projects building on top of HyperDM.
+
+**[5:58] SPEAKER_00:** Our notable key initiatives are, I think, the first one being the largest validator on mainnet, together with Nansen, outside of the foundation nodes. So recently, governance decisions have come into the limelight more often. So we kind of want to be quick. We want to make sure that we have the community's voice in that matter. So if you are sticking with us, feel free to voice out any concerns in our Hyperco
+
+**[6:27] SPEAKER_00:** and Friends group chat. Another of our key initiatives is also in real life events. We've held around five to six so far, with the next one coming up at the start of next month, Token 2049 in Dubai. Yeah, Hyperco will be holding a conference. We'll be hosting an event on the 2nd of May there. So in real life, events are more to connect different, basically all power users
+
+**[6:58] SPEAKER_00:** and also external people who are keen on Hyperliquid, be it as a platform for trades or to build on top of it. So these in real life events is to help bridge that, to bring both parties closer. So another one of our key initiatives is we regularly create content in a form of weekly recaps, ecosystem
+
+**[7:28] SPEAKER_00:** guides, project guides, and also AMAs like today, to shine more spotlight on the projects building on top of Hyperliquid. So today's AMA guest, we have Felix, I believe it's Aaron from Felix. Felix recently just went live, I believe it was two days ago. Exactly 48 hours for that matter. I think they recently, just last night, yesterday night, they
+
+**[7:58] SPEAKER_00:** increased their cap as well, which was filled pretty fast. So perhaps later we'll go more in detail about that. But to begin, yeah, probably Aaron, do you want to share more about Hyperliquid? What Felix is? Yeah, what Felix is? For sure. And yeah, this is Charlie, by the way.
+
+**[8:29] SPEAKER_00:** Oh, sorry. Yeah, no problem. Yeah. So Felix is basically building out native money market infrastructure for Hyperliquid, starting with FDUSD as a debt product, CDP stablecoin, which you mint against currently Hype Collateral. We'll also be going live with UPTC Collateral very soon. And then, you know, I plus these other majors to follow up. So, but that's kind of the basic, the basic piece. The Hyperliquid data team is building out the most
+
+**[8:58] SPEAKER_00:** sound money market structure for Hyperliquid power users. All right. By the way, Charlie, you are a bit soft, so perhaps later you can speak closer to the mic. Yeah. So Felix is best known for your CDP. Being a CDP. A protocol. So do you want to share about what FDUSD
+
+**[9:29] SPEAKER_00:** is and how it's centered to all the things happening on Felix? For sure. And by the way, do you hear me a bit better now? Slightly. You are a bit softer just now. Okay. All right. Hopefully it stays better. But yeah, really. So FDUSD is basically a native statement that you mint against collateral. So you deposit firmly by collateral. Like you mint FDUSD.
+
+**[10:00] SPEAKER_00:** Then you can take that FDUSD and use it around the Hyper ABM ecosystem. Or use it to trade more. Basically, you know, bring it to the order book. Transfer. Transfer Hyper 4. Swap for USDC. And then trade it. And then, yes, like you said, the stability pool is a pretty well -known venue for people who are firmly deposited with FDUSD. And when you do that, you could borrow interest protocol fees. And then also liquidation and severance. Which have a pretty nice percentage. So that's kind of the overview on
+
+**[10:29] SPEAKER_00:** FDUSD. That's helpful. Sorry. I think you're still a bit soft and choppy. I'm not sure if it's just me, though. Okay. Let me try a different microphone or something. Hey,
+
+**[11:01] SPEAKER_00:** how is it now? Still the same? Or any better? Yeah. Now it's good. I think it might drop off as you go along. Because that was what happened just now. But yeah. I think we can just play along right now. Okay. Sounds good. Let me know if it cuts out. Yeah. Okay. So, I mean, you guys recently just went live. Right now, only hype is available as the collateral asset. Do
+
+**[11:32] SPEAKER_00:** you guys have any plans to add more assets? And what are the timeline for that? Yes. So, we're probably integrating UBTC early next week. That's the plan. And then from there, hype LSTs to follow. And then likely other majors. UETH, USOIL. ETH is obviously live. But once SOIL is live, then we'll add those as well. But the collateral on the CDP side will
+
+**[12:02] SPEAKER_00:** be very conservative. We also have a different sort of partnership coming where we will be able to do kind of more long tail collateral assets. Given that we'll be able to kind of isolate the markets. But just on the CDP side, it'll be hype, hype LSTs, and then majors. Bridge over from unit. Gotcha. So, with this, do you guys plan to collaborate with other... How do you guys plan to collaborate with other partner
+
+**[12:32] SPEAKER_00:** protocols to enable FEUSD and also perhaps, for example, like HyperFi, they have their own native stablecoin as well. Will that be available? Will it be available on Felix and... Yeah. Yeah, it's a great question. So, I think as far as partner protocols go, we're pretty close with all the teams in the space and kind of working out different integrations with FEUSD currently. A lot of them that we're working closely with are the DEXAs specifically. So, Lemonar, HyperSwap, couldn't
+
+**[13:04] SPEAKER_00:** swap those guys. So, doing a fair amount there. And like you said, with USDXL, I think there's a couple of pools that have been set up for FEUSD, USDXL. So, those are helpful as well. And I think probably FEUSD will be integrated on a few of those other markets directly soon. But yeah, currently just kind of scaling out that liquidity. And it was good to see the 10 mil cap get hit yesterday. So, we'll see what happens with the next cap raise. So, you guys initially went
+
+**[13:34] SPEAKER_00:** live on Tuesday with 5 million, which filled up pretty fast within an hour. So, subsequently, I think it was pretty much a silent... increase, because I don't think you guys announced it, about the increase from 5 million to 10 million cap. What's the decision behind it? Do you guys expect such demand from the get -go? Yeah, I guess filling the 10 mil cap that quickly was pretty unprecedented, I'd say. I
+
+**[14:06] SPEAKER_00:** cannot say I was expecting that. But yeah, really, we just sort of wanted to get out of this mindset of like, hey, you have to race to fill these caps and everything. It was just like, we just want the protocol to be live and sustainably up and let people come and use it, flow in and out. So, that was kind of the decision there with doing the raise without increase or without doing some big announcement. There might be announcements soon for future raises, but sort of just playing it by ear as we go. And the main thing is, obviously, the caps are, you know, they're fun and all for go -to -market, but they're mainly a
+
+**[14:36] SPEAKER_00:** risk management tool. So, kind of ensuring that we scale in a sustainable way. So, that's really the main reason for them. So, yeah, that's kind of the main things that we're monitoring, if that's helpful. So, for those listening in, do you want to share a bit, perhaps drop a bit of hint of when you guys are looking to increase the cap and also how much are you looking to increase if you want to share? Yeah, for sure. So, I guess a bit
+
+**[15:06] SPEAKER_00:** of alpha, but the cap will be increased today, I believe, at something like 8 p .m. CET, and it'll be to, I don't know the exact amount, but it'll be increased at 8 p .m. So, yeah, feel free to take a look. 8 p .m. CET. Perfect. So, I think for those listening in, they got a bit of that extra information and can be ready for that. Yeah. So, moving on more towards the mechanism of FEUSD.
+
+**[15:37] SPEAKER_00:** How does FEUSD maintain? The $1 pack? Yeah. It's a great question. So, basically, FEUSD has a unique redemption mechanism, whereby basically at any time, any FEUSD holder can go redeem one FEUSD from $1 of collateral from the lowest interest rate positions on Felix. So, Felix is pretty interesting in that it allows you to come on the protocol and set your own interest rate. This allows you to get basically
+
+**[16:06] SPEAKER_00:** the best bar rate across Hyper -EVM. With that being said. Yeah. So, if the users that are very risk on and say they want to set a rate of, you know, they want to borrow at a 1 % rate or a half a percent rate, if it's profitable, if basically the price of FEUSD drops to a level where it's profitable for a redeemer to go take one FEUSD and stop for $1 of collateral, then those users with the lowest rates are redeemed first. And basically what that looks like is that FEUSD is then burned, the collateral is taken, the debt is repaid until the price of FEUSD is restored to $1.
+
+**[16:37] SPEAKER_00:** And so, FEUSD is not algorithmic. It's just purely over collateralized. So, kind of just dealing with sound collateral assets and the main risk amount of there is ensuring that we aren't onboarding collateral assets that are going to fail or, you know, see a huge massive dips that are unprecedented. So, that's kind of what we're looking at on that end. Yeah. I think FEUSD still isn't exactly very well up. I believe Max Feige from Hyperactive tweeted maybe earlier today
+
+**[17:06] SPEAKER_00:** or yesterday about how there's still somewhat like a huge premium. I think right now on Hypercore, FEUSD is currently valued at like $1, 1 cents or slightly above. I think we've seen it at one, at least I've seen it at $1, 2 or 3 cents. And I believe that's the price that Max transacted at. So, for those who wants to arbit, you definitely can be manually or through a bot. But
+
+**[17:37] SPEAKER_00:** yeah, that's somewhat like a premium. It's pretty much a risk -free trade right there between Hypercore and Hyper -EVM, which is kind of the whole thesis of Hyperliquid as well, because you have all these opportunities to up between the audiobook and the AMM, which makes it unique. So, for Felix, do you have any plans on early
+
+**[18:08] SPEAKER_00:** user incentivization? I know right now there's points program. Do you guys have any sort of timeline for that, if you could share? Yeah, for sure. So, the first batch of incentives will roll out Friday next week. So, just kind of keep an eye out for that if you're a user. And then, yeah, I would say the incentives program will be very closely, it'll function very similar to how Hyperliquid function to be set up in a very similar way. So,
+
+**[18:38] SPEAKER_00:** if you're familiar, I mean, I'm assuming all you guys are familiar with that. So, we'll just kind of keep that in mind. And yeah, I think the incentives will be great, but we'll just focus first and foremost on running profitable strategies to protocol if you choose to use it, as opposed to just purely farming. As you know, it's always best to just ensure that you have a sustainable strategy first. So, that's kind of my main thought. And if anyone needs help with that, feel free to reach out and we can help you find a suitable strategy. So,
+
+**[19:12] SPEAKER_00:** I believe the Felix token was secure on Hypercore, probably, I think, a few months ago. Which is a pretty long time and a lot of projects have done so, just waiting to launch. What can holders expect from the Felix token in terms of utility? Yeah, so there's not a ton of issue info on that end right yet. We've just been fully focused on the launch side of things. But obviously,
+
+**[19:42] SPEAKER_00:** you guys will be the first to know. I think the community will know very soon, kind of once if there's more info on that end. But yeah, I can definitely keep you updated on it. Just fully focused on the launch side right now and scaling up the product. Nice. Very tight -lipped. Any details on the tokenomics or anything you can share regarding the token? Not a ton, unfortunately. All right. It's all good. Perhaps,
+
+**[20:12] SPEAKER_00:** how do you see money markets on Hyper -EVM shaping up? I mean, Hyperland is live right now, HyperFi as well, both of which have done, I think, relatively well. Hyperland hit their cut pretty fast, similar to you guys. How do you see the competition and how do you see the whole money market scene? Yeah, I think it's a lot of people kind of serving this need. I think probably there
+
+**[20:42] SPEAKER_00:** are some interesting dynamics with Felix obviously being less directly on money, like a pure borrow -lend system and offering sort of a native stable that can be integrated with these other players. So I think hopefully you'll see some cool integrations with FUSD across these different players too, which would be mutually beneficial. So I think that's kind of our way of seeing it. But yeah, hopefully, probably over time, you'll kind of see different players sort of take different roles within the ecosystem. I think you're seeing kind of HyperDrive taking a slightly different role now and
+
+**[21:12] SPEAKER_00:** probably HyperLend soon as well, so they're not directing competition with HyperFi. So I think you'll probably see them all kind of take a different kind of path and see where kind of the dust is. But yeah, I think we'll see how it settles a bit, maybe three months' time, six months' time. But yeah, still very early right now. So we shall see. I think with that, do you guys have any thoughts on when Circle will be live on HyperEVM
+
+**[21:43] SPEAKER_00:** and also perhaps like, how do you guys see that in terms of a competitor? How will you guys navigate that? Yeah. So we've been actually pushing the Circle team for some time to come deploy natively, given that that's sort of how a CDP stablecoin like FBUSD functions best, will be one that's paired with sort of a native stable like USDC. So we've been working with them for a while. Basically, it's just kind
+
+**[22:13] SPEAKER_00:** of a tough situation with sort of their typical deployment process. And obviously, I believe it is a bit of different processes all around. But yeah, I haven't heard an exact timeline from them. I think it is of interest. And I think it would be foolish for them not to consider it, given the demand. But yeah, I think sort of we'll see what happens. And obviously, there are other players looking to deploy native stable as well. And I think it'll be great to have competition on that end and sort of see who can offer the best product for HyperLiquid
+
+**[22:44] SPEAKER_00:** users so we don't just have kind of one dominant force. So we shall see on that end, though. But yeah, that's kind of where we've been looking at it. All right. Perhaps to wrap things up. What can the community expect of FEUSD integrations? Is there a lot more? Any of the perhaps your favorite most exciting news that's coming up regarding integrations
+
+**[23:14] SPEAKER_00:** that you can share off? Yeah, 100%. I'd say there's a few I'm very excited for. One is the one that we shared with the team at PVP Trade. So we should be doing some interesting stuff with them. If you guys are PVP users. So that'll be kind of in the works here soon. And then, yeah, a lot more coming down the road. I'd say, yeah, right now, just really focused on the current kind of core use cases of borrowing FEUSD to go trade more, borrowing
+
+**[23:44] SPEAKER_00:** FEUSD to earn yield on hype, deposit on disability pools, borrowing FEUSD in order to run an HLP carry trade, different things like that. But then, yeah, very soon there'll be integrations across all HyperLiquid apps. And then also on the HyperLiquid interfaces. So different kind of mobile interfaces and things like this. So it should be fun times ahead. But yeah, just keep an eye open and feel free to reach out any time with questions. I think I'm not sure if anyone has done it already,
+
+**[24:14] SPEAKER_00:** but the borrow rates as user can set their own interest rates on FEUSD. You can literally run the hype, the HLP carry trade, borrow FEUSD and then sort it back into USDC and deposit into HLP and basically earn the different trades. You can also deposit FEUSD back onto FedEx itself. The current display supply API, I think it's around 4%, but it's actually
+
+**[24:44] SPEAKER_00:** not accurate. You're getting a lot more than 4 % because traders, some of the traders collateral actually gets liquidated, which results back in your FEUSD being purchased for their hype. Which essentially means that you're getting discounted hype relative to the current market price. So I think Adir put out a tweet and some other guys as well, saying
+
+**[25:14] SPEAKER_00:** how they got, I'm not sure if they put out the exact APY number, but it's basically much more than what's reflected on the website itself. So you guys have done it. I heard it from Charlie earlier. The cap will likely be opened sometime later today, depending on your time zone. So if you guys haven't yet deposited onto FedEx
+
+**[25:45] SPEAKER_00:** and haven't yet minted FEUSD directly yet, probably a good time to just be stationed and locked in, ready to capitalize on the increase in cap. With that, I don't know. Exactly. If anything else, probably we'll open the floor to listeners and see if anyone has any questions. Thanks for all the great questions, Maggie. I very much appreciate it. And yeah, I would just echo what you said on the stability pool yield side. The
+
+**[26:16] SPEAKER_00:** majority of the yield for depositors right now is coming from those kind of the discounted hype collateral that you're earning. And so that has been something that, you know, it's tough to annualize that directly. So we're trying to figure out how do you show that on the yield side. But yeah, like you said, Adir put out a tweet. I think Gothic and a few others did some great tweets. And sort of their returns from the stability pools. But yeah, they seem to be great so far. So yeah, thanks for sharing that. All right. I think there's no one
+
+**[26:46] SPEAKER_00:** who raised their hands. But yeah, basically, it's really a lot of you that you're getting. So if you guys can get your hands on it, or even if you want to just get FEUSD, if you want to get FEUSD on the secondary market, right now it's trading at a slight premium on HyperCore. It's around $1 .01. Slightly above that. You can essentially purchase there and then deposit directly on Felix as well. The yield is actually pretty
+
+**[27:16] SPEAKER_00:** attractive. I'm essentially diluting my own. But yeah, who doesn't love a good protocol? So, yep. Thank you, Felix, for joining us today. And I think thank you, everyone, for listening in. I think for the few... For the guys that are... On here, you can expect Felix to increase their cap later today. So yeah, look forward to that and use
+
+**[27:47] SPEAKER_00:** Felix. Thanks a ton, guys. And yeah, feel free to DM us or reach out with any questions or if we could help with anything. Always here to help. Thank you. Goodbye.

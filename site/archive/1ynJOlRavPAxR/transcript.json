@@ -1,0 +1,494 @@
+{
+  "space_id": "1ynJOlRavPAxR",
+  "language": "en",
+  "duration_seconds": 2680.8746875,
+  "chunks": [
+    {
+      "start": 98.0,
+      "end": 242.37,
+      "speaker": "SPEAKER_00",
+      "text": "GM, GM, we will begin in a minute or two, just starting some technical stuff. Yeah, great. Alright,"
+    },
+    {
+      "start": 242.41,
+      "end": 272.81,
+      "speaker": "SPEAKER_00",
+      "text": "I think we are good to go since more people have joined in. So yeah, welcome back to another episode of our Hypercollective AMA. It's been a while since we actually did one. Last week, I hopped on a live stream with Mental explaining more about our collaboration with Mental and Hypercollective being a Mental Scout. So if you missed that one, you can check it out. But yeah, the"
+    },
+    {
+      "start": 272.81,
+      "end": 304.07,
+      "speaker": "SPEAKER_00",
+      "text": "AMA series is back on and hopefully we'll do it more often. So Hypercollective is a little introduction about Hypercollective is that it's founded by three of us, Kirby, Noel and myself. We started this with hopes to unite different sort of users, builders and traders that are excited about Hyperliquid. Over here, we strive to shape Hyperliquid's community through various"
+    },
+    {
+      "start": 304.07,
+      "end": 334.87,
+      "speaker": "SPEAKER_00",
+      "text": "different initiatives. I think firstly, being the most known and largest validator on mainnet together with Nansen. Currently have around... 40 million hypes taped with us, which is pretty significant. So thanks everyone that has contributed to that. Secondly, another form of our initiative is that we do weekly recaps, ecosystem guides and also project guides together"
+    },
+    {
+      "start": 334.87,
+      "end": 366.53,
+      "speaker": "SPEAKER_00",
+      "text": "with AMAs like today to shine spotlight on projects building on top of Hyperliquid. We also try to branch out to different locations. Localized communities so that different people of different speaking languages can gather together and speak in their native language to talk more about Hyperliquid outside of English, of course, with those localized communities, pretty much a lot of them have started"
+    },
+    {
+      "start": 366.53,
+      "end": 396.65,
+      "speaker": "SPEAKER_00",
+      "text": "to at least host one in person event, which is nice to see people gather together and basically just champion this whole event. We also try to branch out to different locations. So on the topic of events, we also do host a lot of in real life events, over hyper collective. Just yesterday, we hosted one in permissionless New York City. And while it was there and it had a very great turnout."
+    },
+    {
+      "start": 396.79,
+      "end": 427.39,
+      "speaker": "SPEAKER_00",
+      "text": "We will have another one fairly soon at CCC Queens. So if you're a builder, feel free to stay tuned to Hyperliquid. sign up and just ping us and we'll see if there are still slots for approval so another one of our key initiative is also having an ecosystem directory of projects building on top of hyper evn so bridges like jumper deep"
+    },
+    {
+      "start": 427.39,
+      "end": 457.41,
+      "speaker": "SPEAKER_00",
+      "text": "bridge and a couple of couple others are all on board so any sort of vertical if you are interested in our ecosystem directory is probably the best place for you to go and find that out yeah so today i think today we have a bridge with us right now we're going to have some questions for uh to talk more about the integration with hyperliquid so um"
+    },
+    {
+      "start": 457.41,
+      "end": 487.55,
+      "speaker": "SPEAKER_00",
+      "text": "zero x lute and 0x as requested from jumper are here with us so why don't both of you give a quick introduction about yourself and also what is uh jumper exchange yeah cool happy uh happy to kick things off um so a bit of context about me so i lead uh bd and partnerships at jumper So basically to flow into what is Jumper. So as you mentioned, we are a"
+    },
+    {
+      "start": 487.55,
+      "end": 517.79,
+      "speaker": "SPEAKER_00",
+      "text": "bridge and DEX aggregator. So basically we like to pride ourselves of being the leading liquidity hub within all of DeFi. We aggregate 52 chains now, which is quite an astonishing number of chains. 20 different bridges. We are able to connect these 52 chains via and then also 16 DEXs or DEX aggregators. So basically Jumper aims to allow users to have one central place where"
+    },
+    {
+      "start": 517.79,
+      "end": 547.91,
+      "speaker": "SPEAKER_00",
+      "text": "they can move their assets via the best, most optimal routes across these 52 chains. So it really doesn't matter what the leading bridge is to get to and from these ecosystems or what the leading DEX is or whatever the DEX aggregator is. Essentially, we aim to just be the one -stop shop to allow users to move their assets around and explore new ecosystems. So that's us at the moment. And yeah, moving forward, which I'm sure we can touch on a little bit"
+    },
+    {
+      "start": 547.91,
+      "end": 578.89,
+      "speaker": "SPEAKER_00",
+      "text": "later, there's some exciting things coming in the pipeline. So I can pass over to Az required if you are feeling okay, but he did mention to me earlier that he's feeling a bit under the weather. So if you don't want to jump on, I can do a quick intro for you. No, I can jump on. GM, GM, I'm the PM of expansion. Lifi and I'm the resident hyperliquid maxi Lifi and jumper. So"
+    },
+    {
+      "start": 578.89,
+      "end": 609.25,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, as, as lewd require, as, as lewd mentioned, I've got like quite a bad migraine right now. So I, I'll, I'll let him, I'll let him lead things, but the jumper nights don't take any days off. So and it's hyperliquid, so I wasn't going to miss it. That's right. No days off. Yeah. Awesome. Hopefully you get to, to, to, to, to, to, to, to, to, to, to, to, way. Well needed"
+    },
+    {
+      "start": 609.25,
+      "end": 639.37,
+      "speaker": "SPEAKER_00",
+      "text": "where's after this AMA, but thanks for jumping on probably for start. You mentioned like jumper aims to be the aggregator of bridges and you guys integrated 52 chains perhaps to dive just one step deeper. What can users do today on jumper? Yeah. So today essentially users can use jumper as their sort of gateway to any ecosystem. So for example, you can have asset, you can"
+    },
+    {
+      "start": 639.37,
+      "end": 670.27,
+      "speaker": "SPEAKER_00",
+      "text": "have any arbitrary asset on any of the 52 connected chains and you can choose to receive another arbitrary asset on another chain and essentially jumper will allow you to find the most optimal execution for you basically to fulfill that that one so for example you could have i don't know bearer on bearer chain as seeing as this is quite topical at the moment all the bearer chain builders pivoting and moving to hyperliquid but you could go from bearer chain to felix"
+    },
+    {
+      "start": 670.27,
+      "end": 700.69,
+      "speaker": "SPEAKER_00",
+      "text": "usd for example or i don't know hype on hyper hyper evm and we would find and basically give give the suggestion or the user multiple different options for the most efficient route to go and this includes native minting and burning of usdt zero of other ofts or any other cross -chain token standard um that may be used so basically if you're using jumper to get done from hyper evm um we"
+    },
+    {
+      "start": 700.69,
+      "end": 730.77,
+      "speaker": "SPEAKER_00",
+      "text": "offer the best routing with no fees um for bridging and then also on swap on top of hyper evm if you want to do same chain swaps you can also use jumper we have our lefi dex aggregator that is deployed we also will be um integrating native solutions as well so such as liquid swap will be coming soon and we'll just aggregate their aggregator and then we'll be able to do the same thing later as well so um our goal would be to be the most comprehensive um bridging and swapping solution uh"
+    },
+    {
+      "start": 730.77,
+      "end": 760.81,
+      "speaker": "SPEAKER_00",
+      "text": "for each chain that we're deployed on um so yeah at the moment that's essentially um what we can do we also offer hyper core uh bridging as well so um yeah happy to expand further on that if you want yeah no uh nice to hear that i mean i wasn't aware that you guys are actually in touch with um the good swap kind of expand and integrate them into jumper as well i'm not sure if that's uh that's been publicly announced or what but i mean"
+    },
+    {
+      "start": 760.81,
+      "end": 790.97,
+      "speaker": "SPEAKER_00",
+      "text": "liquid swap is one of my favorite and i believe a lot of users favorite aggregator on the hyper evm along with like uh gluex and and i think um laminar or uh no sorry valentist was the other one um that that has this aggregator sort of functions so it's definitely nice to see um as much as as many of them um integrated into jumper as possible so that um like users"
+    },
+    {
+      "start": 790.97,
+      "end": 821.53,
+      "speaker": "SPEAKER_00",
+      "text": "from other chains uh basically get the best quote uh when they swap over and bridge onto like the hyper core or hyper evm so i think um recently just at the start of the month jumper integrated hyperliquid so um how has the traction been since uh that integration uh could you share a bit more on like uh in"
+    },
+    {
+      "start": 821.53,
+      "end": 852.65,
+      "speaker": "SPEAKER_00",
+      "text": "terms of volume or like asset flows adoption or any sort of other useful metrics yeah the integration's been going um very well uh we have seen some uh like immediate traction i guess and volume um flowing into hyper evm so at the moment um we're seeing um some kind of uh some kind of uh It is ranked within the top six of our destination"
+    },
+    {
+      "start": 852.65,
+      "end": 883.31,
+      "speaker": "SPEAKER_00",
+      "text": "chains. And I think we've seen in the last seven days around $3 million of volume. So yeah, having it look like it is still gaining traction, I think that we're still sort of cementing our place in the ecosystem of trying to become the one -stop shop for users onboarding into Hyper -EVM. So that's another reason why we were very happy and excited to do this AMA with you today, just to spread the word, I guess, that users are able to onboard via Jumper."
+    },
+    {
+      "start": 884.45,
+      "end": 913.47,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah, I think that we're seeing some good traction. We're having some interesting conversations with the ecosystem protocols as well, and we'd like to do something there. So keep your eyes peeled for that, where we may be able to partner and add some activations or some new features to the ecosystem. or some sort of go -to -market activations with ecosystem protocols. Everyone seems super happy to work together and very collaborative, which is nice. A"
+    },
+    {
+      "start": 913.47,
+      "end": 944.13,
+      "speaker": "SPEAKER_00",
+      "text": "bit of a change from other ecosystems that potentially we've worked with in the past. So yeah, I expect the volumes to pick up significantly as Hyper -EVM scales further. In terms of Hyper -Core, I think, so it's actually a fun fact that Jumper is powered by LeFi, who has actually been powering the deposits, because it's into Hyper -Core since the very, very beginning. So the Hyper -Core bridge is actually powered from Arbitrum is powered by LeFi. So there has been a longstanding partnership there, and now it is available via"
+    },
+    {
+      "start": 944.13,
+      "end": 974.34,
+      "speaker": "SPEAKER_00",
+      "text": "Jumper from any other chain, and we can allow for direct deposits, which is quite nice. So I think at the moment, we're still trying to scale that as well, and obviously increase awareness of it. But yeah, both of the integrations we're very happy with so far, and we're seeing that the volumes scale nicely. I would ask the integration, with Hyper -Liquid actually compares to the other chains. Like for example, when you guys first integrated with Barra chain, did you see this"
+    },
+    {
+      "start": 974.34,
+      "end": 1005.58,
+      "speaker": "SPEAKER_00",
+      "text": "kind of flows or was it more stale as compared to Hyper -Liquid? So I'd say Barra chain is a bit of a unique case because they had the Boyko deposits. So there was obviously a huge influx of TVL and bridge volume initially. And then it was quite minimal, I would say, or it wasn't, it was sort of inorganic, I would say, maybe in the middle phase of the Boyko unlocks where there was certain increases sporadically"
+    },
+    {
+      "start": 1005.58,
+      "end": 1035.86,
+      "speaker": "SPEAKER_00",
+      "text": "within there. And then at the unlock period, we saw actually a lot of volume with users bridging out of Barra chain. And then since then it's been very dead. And I think like we obviously can see that, like they were seeing like less than 500K of volume per week going to Barra chain as a destination chain. I can try and find the stats for them as a source chain. I imagine that it would be much higher than that. So I think that, yeah, what do we see Barra chain there? Yeah,"
+    },
+    {
+      "start": 1035.92,
+      "end": 1066.02,
+      "speaker": "SPEAKER_00",
+      "text": "they're seeing around 2 million of outflows. So I think it's like very much the market sentiment as well. We can see that Hyper -EVM obviously is very talked about at the moment is very topical and there's a lot of interest around it and we will see the same reflected in our volume. So I think that it's very important for us to have a robust solution here because now that there is a lot of people looking to enter Hyper -EVM, they're familiar with Jumper as a user"
+    },
+    {
+      "start": 1066.02,
+      "end": 1096.04,
+      "speaker": "SPEAKER_00",
+      "text": "interface that they go to and just bridge to these new chains and explore them. I think it's super important for us to be able to be there and provide the service that people are expecting from us. But yeah, I think it's like exciting and the volumes are looking good. And we expect everything to sort of go up from here. Nice, yeah, I do think it's extremely early days on Hyper -EVM. The amount of active users are still, it is really"
+    },
+    {
+      "start": 1096.04,
+      "end": 1127.05,
+      "speaker": "SPEAKER_00",
+      "text": "my new compact to say the amount of traders on Hypercore. So I think there's a lot more potential for growth there. Perhaps just another question on the bridging part. Which chain do you see having the most outflows and then having the most outflows? How do you see those outflows into Hyperliquid? So it's been memed about a lot, but Hyperliquid's bridge chain, Arbitrum, is seeing the most outflows."
+    },
+    {
+      "start": 1127.61,
+      "end": 1157.13,
+      "speaker": "SPEAKER_00",
+      "text": "On top of that, I think like it's pretty clear that we're seeing users flow from Bearer chain towards Hyper -EVM as well. And then actually it's just quite difficult to see, I guess like a lot of chains such as Arbitrum, Optimism, Sonic, Polygon, Unichain, like these are all seeing outflows. And then you see like Ethereum base, Hyper -EVM are our top three for inflow chains over the last"
+    },
+    {
+      "start": 1157.13,
+      "end": 1188.69,
+      "speaker": "SPEAKER_00",
+      "text": "seven days. So I think that we can't say that all of the users say coming from Sonic or BSC or whatever that are outflows are going to Hyper -EVM. A lot are going back to mainnet as well, but there's a large amount, or I would say like the more degen chain experience, exploring users would be definitely bridging to Hyper -EVM. And we haven't seen that in the community as well. A lot of users are asking about it and speaking about Hyper -EVM now as well. Nice,"
+    },
+    {
+      "start": 1188.71,
+      "end": 1219.23,
+      "speaker": "SPEAKER_00",
+      "text": "that's great to hear. And what is the behavior of these users? Do they swap directly into Hyper on Hyper -EVM or do they swap directly into the shitcoin that they want on Hyper -EVM? So do they swap into Hyper -EVM first before they go about doing their activity or do they swap straight into the end state that they want from the"
+    },
+    {
+      "start": 1219.23,
+      "end": 1249.33,
+      "speaker": "SPEAKER_00",
+      "text": "action? Good question. I actually don't know, and I would have to find that out of like what the end state token is. I would say, and this is just from my personal experience moving in and out of Hyper -EVM as well, that we're seeing a lot of bridge volume in USDT zero. So this is sort of like a unique aspect that Jumper has is we can natively mint and burn USDT zero and then swap on the source and destination chain into"
+    },
+    {
+      "start": 1249.33,
+      "end": 1279.43,
+      "speaker": "SPEAKER_00",
+      "text": "the token that the user wants. So it actually turns out to be much, much more efficient than using any of the other competitors, I guess, that use an intent -based routing then there's like fees on top and there's like sort of price impact or whatever. Like there's losses on the execution, but with USDT zero, it makes it a very, very good asset to bridge in and out of Hyper -EVM. But yeah, look, I'm not exactly sure what the end state is."
+    },
+    {
+      "start": 1280.09,
+      "end": 1309.71,
+      "speaker": "SPEAKER_00",
+      "text": "I would say a lot of them are interacting with the protocols, depositing into the farm and trying to collect as many points as possible. So I would say that that's what the majority of the users are doing. And if that is the case, then I would say they're going in and out of hype or maybe in and out of, they're going in and out of USDT zero and then choosing which token from there or which pool to deposit into. Yep, that's insightful. In"
+    },
+    {
+      "start": 1309.71,
+      "end": 1339.81,
+      "speaker": "SPEAKER_00",
+      "text": "your opinion, what do you think sets Hyperliquid apart from other chains? I mean, the metrics pretty much speak for itself. What do you think see such strong flows into Hyperliquid? Yeah, so I don't want to say too much that will show, which ecosystem is, but the other large ecosystems that have been very hyped up as maybe step back. So as an interop"
+    },
+    {
+      "start": 1339.81,
+      "end": 1370.25,
+      "speaker": "SPEAKER_00",
+      "text": "protocol, we work with a lot of different ecosystems in like a close way. We need to work with them closely, but we don't really belong to that ecosystem in a way. Like we're not native builders, we are someone that connects them all together. So it's an interesting position where you kind of don't fit in to one specific ecosystem, but you have to work with them. So this actually allows us to see who's really great to work with, who's really open to collaboration, who is looking to like collectively grow the entire ecosystem. And"
+    },
+    {
+      "start": 1370.25,
+      "end": 1400.29,
+      "speaker": "SPEAKER_00",
+      "text": "then others that maybe are not so much like this, whether it's a little bit more of like a cabal feel or a bit like clicky or like a high school sort of group thing where you're not really included in the group and you're just there to serve a purpose, but then that's it. So I think that that's like a unique position that we, we have to fill in the market. And I think that one of the reasons that HyperLiquid has seen such good growth and such a strong narrative is they're not like that. It's"
+    },
+    {
+      "start": 1400.29,
+      "end": 1430.39,
+      "speaker": "SPEAKER_00",
+      "text": "very collaborative, even jumping on the AMA with you guys. I've known Kirby for quite some time and like there's just like good people within the ecosystem that are all working with each other. Like I've had a lot of calls with different dApps and everyone's super willing to work with everyone else and open to like, you know, what I'm doing. like collaboration and see what we can do together and and very um nice people i guess and that's like a super important thing so i think like if everyone's working together like that then the whole ecosystem"
+    },
+    {
+      "start": 1430.39,
+      "end": 1460.49,
+      "speaker": "SPEAKER_00",
+      "text": "should naturally flourish and work together as well so i think that this is something that's more of like a not not a tech level not a blockchain not a the airdrop was good and everyone got made rich this is more of like a fabric of the community and something that's a little bit harder that to form it's like a culture thing so yeah i think from from my perspective of working with the hyper liquid team and ecosystem and all of that lately this is one thing and i would also say another um thing that"
+    },
+    {
+      "start": 1460.49,
+      "end": 1491.03,
+      "speaker": "SPEAKER_00",
+      "text": "sets them apart is working with the actual core team of like of hyper liquid they um are very much like the community can sort themselves out like they don't pick winners they're not doing like these incentive programs it's very much like we'll build the ecosystem like the technology and then we just want like people to to form and like the best founders will come like there's no grants there's no hey here i deploy your app here and we'll give you five million dollars in tokens and it's like no extractive"
+    },
+    {
+      "start": 1491.03,
+      "end": 1521.36,
+      "speaker": "SPEAKER_00",
+      "text": "value like that so i think that that's also a positive as well is because they're so hands -off it just attracts people that are there for the right reason rather than um on the first flight to to uh to cash out their tokens that they just got um i i can also jump in here and like i think like summarize it like hyper liquid uh is essentially like anti -cabal technology um because what what what makes hyper liquid great is the"
+    },
+    {
+      "start": 1521.36,
+      "end": 1551.38,
+      "speaker": "SPEAKER_00",
+      "text": "technology but also the execution so like robert was saying like the the hyper liquid team are their commitment to like their no insiders policy is really something that like you just don't see in crypto like usually you know we would have like chain teams come reach out to us and you know sort of give us you know advanced warning of of things like okay we're going to launch on this day etc etc this is what's going to be available but hyper liquid have"
+    },
+    {
+      "start": 1551.38,
+      "end": 1581.58,
+      "speaker": "SPEAKER_00",
+      "text": "a really really strict policy of like okay you you will know about it when it's on mainnet or you'll know about it when it's on twitter and the sort of like a testament to how how like grassroots hyper liquid is is that the well i mean i i think like any hyper liquid builder would know that the hyper liquid docs aren't that great and sort of like the the"
+    },
+    {
+      "start": 1581.58,
+      "end": 1611.64,
+      "speaker": "SPEAKER_00",
+      "text": "dev x isn't isn't that great like usually teams would like try to make their dev x like as as good as possible to incentivize builders to come but hyper liquid is one of the few examples of the mentality of like you know that they've like built it and they will come actually working because what they've managed to do is that they've well one they've got a really good product which i'll get onto but they've with this like um you know anti -cabal like"
+    },
+    {
+      "start": 1611.64,
+      "end": 1641.64,
+      "speaker": "SPEAKER_00",
+      "text": "mentality it's almost like how like bitcoin you know doesn't have like any anyone sort of like pushing it but people see the value in it and a community forms around it and then that community sort of becomes like the dev rel like a couple of weeks ago i was at a hyperliquid uk event um organized by huff from pair protocol that was like completely like out of like his pocket nothing to do with um like the hyperliquid team and you know many people"
+    },
+    {
+      "start": 1641.64,
+      "end": 1671.72,
+      "speaker": "SPEAKER_00",
+      "text": "came and like no one no one's there no one has like any incentive to be there no one's like getting paid to to run this but you you just see like all these people are just there because they like hyperliquid and they they want to build on hyperliquid and i think like with with the current like hype around it no no pun intended yes some of it is you know people wanting to farm like the second season of the airdrop"
+    },
+    {
+      "start": 1671.72,
+      "end": 1702.26,
+      "speaker": "SPEAKER_00",
+      "text": "or they want to farm like all these tokenless protocols on hyper evm but i think that even even once that wears off um it won't you won't see sort of like a situation that you have with um with like many other chains where uh you know once once the farm ends like everyone and everyone harvests everyone just moves on to like the to the next field um because of the technology of hyperliquid"
+    },
+    {
+      "start": 1702.26,
+      "end": 1732.54,
+      "speaker": "SPEAKER_00",
+      "text": "like it really isn't you know both hyperliquid and hyper evm they're not you know sort of these like copy paste chains or like chains with with gimmicks um you know is hyperliquid centered around uh performance fully on chain order book decks and we see like now um like for example like monk from misari sort of been pushing this narrative of like the club wars and hyperliquid have like really like sparked that like now you see like lighter"
+    },
+    {
+      "start": 1732.54,
+      "end": 1762.84,
+      "speaker": "SPEAKER_00",
+      "text": "you see kuru you see gte like um i think like sonic also have like a like a club decks that they were trying to push this narrative around like the the the the the the the the the the around um around uh order book dexes has sort of been like built from the ground up by hyperliquid like i like back in 2023 i used to be involved with a fully on chain uh order book decks on arbitrum and back then it was like you go to someone you go to a crypto native you"
+    },
+    {
+      "start": 1762.84,
+      "end": 1793.02,
+      "speaker": "SPEAKER_00",
+      "text": "tell them yeah i'm you know i'm building this fully on chain uh order book decks and you know the questions you'd get is that well why does it need to be fully on chain like who cares uh and then you why can't i just use an amm like what's wrong with an amm and sort of like the space wasn't ready for it but the success of hyperliquid has shown everyone how order books can be uh you know pretty much superior in like nearly every way to amms um and the"
+    },
+    {
+      "start": 1793.02,
+      "end": 1823.42,
+      "speaker": "SPEAKER_00",
+      "text": "i i think like with hyper evm it's it's like genius in in the way that they they designed it because the issue is is that if you get like um a fully on chain order book you would have it on sort of like an app chain and we saw this with like cosmos like say did this initially before they pivoted away from it injective have um i think it's called helix and the the issue is is that you don't get the composability um"
+    },
+    {
+      "start": 1823.42,
+      "end": 1853.58,
+      "speaker": "SPEAKER_00",
+      "text": "with it being an app chain but with hyper evm and write pre -compiles this is why i've also been like saying for uh you know a while now like no one is like no one's pricing and write pre -compiles because essentially like the point of hyper evm is to have this like arbitrary logic layer to interact with the order book as if the order book is on a general purpose chain and i think like once we see"
+    },
+    {
+      "start": 1853.58,
+      "end": 1883.68,
+      "speaker": "SPEAKER_00",
+      "text": "like lending markets that liquidate collateral on on on hyper core spot or um you know like instead of using an amm they just execute on hyper liquid spot i think like the the possibilities are endless and like once ct wakes up to just how much more capital efficient it is i think like it'll be like a complete paradigm shift so yeah i mean in in in in"
+    },
+    {
+      "start": 1883.68,
+      "end": 1913.8,
+      "speaker": "SPEAKER_00",
+      "text": "short i think hyper liquids sets itself apart by you know this egalitarian mindset and also just genuinely having very innovative techniques maybe i'll just add on this as well so um i think that one thing i think that is interesting is like what actual people in the industry use so i wouldn't classify myself as someone that like goes to all the new ecosystems to farm and play the points meta or try and get that i'm happy to just farm"
+    },
+    {
+      "start": 1913.8,
+      "end": 1943.8,
+      "speaker": "SPEAKER_00",
+      "text": "where i feel safe and where i like to keep my funds um and that's like interesting um and i can say that i never received the the initial airdrops i wasn't made super wealthy with everyone that was that was uh trading on hypercore unfortunately um and i also faded it at four dollars when it sold off after the airdrop so down bad there but i would say over time i've bridged to hyper evm and then say wanted to purchase something or open a t -wap on hypercore and like the experience"
+    },
+    {
+      "start": 1943.8,
+      "end": 1973.92,
+      "speaker": "SPEAKER_00",
+      "text": "was seamless like going between the two and then you start to realize like wow this is actually feels like these two products are very very related like they're built to be side by side like this it was like instant you have the the funds in your spot account back into evm you're depositing into like super interesting protocols that have um a lot of tvl they feel safe it doesn't feel like grifty so i think like as someone that is not just going around trying everything just for the sake of it it almost became my home chain where i actually"
+    },
+    {
+      "start": 1973.92,
+      "end": 2004.0,
+      "speaker": "SPEAKER_00",
+      "text": "keep the majority of my money now so i think that that is like something that shows like why people like this is because um it has that feeling to it and there's novel apps and everything just works super well so yeah just wanted to add that as well that um from a personal perspective as well that it definitely feels like a fun place to be and reminds you of like the good old days of of d5 summer and um last cycle yeah i totally would agree with both of you i mean uh"
+    },
+    {
+      "start": 2004.0,
+      "end": 2034.22,
+      "speaker": "SPEAKER_00",
+      "text": "i'm very similar like you you um i i i don't you can't do much with the other apps you can it's it's like they're still all the same um but i think that like in e -commerce and all of this kind of uh um functions like setting up the app uh in order for the apps to work and to work on the app and to work on the app is kind of a relatively lower cost but um i think that it's not like the fiverr app where you can stock up on it like the cost -effectiveness of like the application directly on your phone and so yeah i think it's great if you're able to get to the point where it's you know it can be a bit more transparent and if there's a larger"
+    },
+    {
+      "start": 2034.22,
+      "end": 2064.42,
+      "speaker": "SPEAKER_00",
+      "text": "pipeline that's the kind of thing in these lending and AMM pools, which I think should really kick off another huge influx into the entire hyperliquid. So I think everyone's pretty excited to see that, which is nice to see, but I also want to touch on a point that you mentioned earlier, which is the developer experience. I mean, I think a lot of developers have feedback as"
+    },
+    {
+      "start": 2064.42,
+      "end": 2094.6,
+      "speaker": "SPEAKER_00",
+      "text": "well. It's something that probably the team can work on, but perhaps it's also something that makes them different, whereby no one has access to privileged information. Information is hard to get, but if you stick around long enough, be it on Discord, be it through chatters with different builders, you will figure out how to go about solving these different bottlenecks. So I think what we try to do over at Hypercoin"
+    },
+    {
+      "start": 2094.6,
+      "end": 2124.64,
+      "speaker": "SPEAKER_00",
+      "text": "is also to connect different builders so that everyone can have a conducive environment to build out of it. Perhaps to wrap things up, what's coming next and what can we expect from Jumper? Yes, we have some super exciting things coming over the next few months, hopefully less than a few months, the next few weeks. Yes. So"
+    },
+    {
+      "start": 2124.64,
+      "end": 2155.28,
+      "speaker": "SPEAKER_00",
+      "text": "the biggest one that we're going to be launching is Jumper Earn, which essentially, like we aggregate 52 chains and 20 bridges and 16 DEXs or whatever it is now, we will now start to aggregate yielding or yield opportunities or earning opportunities on -chain as well. And instead of just being something that you can see these opportunities and then navigate towards them, we're really going to be working on improving the UX around this and allowing for, you"
+    },
+    {
+      "start": 2155.28,
+      "end": 2185.64,
+      "speaker": "SPEAKER_00",
+      "text": "know, the same chain and cross -chain zaps directly into these pools. So for example, you could have a hyper -admit, like a Felix stability pool, for example, and a user could deposit from Solana holding whatever token they have on Solana, they could deposit directly into the hype stability pool and we would abstract away all of the bridging and swapping flow there and it would all be just done via the Jumper UI. And then, this is looking to be"
+    },
+    {
+      "start": 2185.64,
+      "end": 2216.66,
+      "speaker": "SPEAKER_00",
+      "text": "quite curated at first, so we can leverage our distribution that we have in the market and work with partners to basically provide exclusive yield opportunities to users that are onboarded via Jumper, which then will make it essentially the highest yielding opportunity that you can get. And then beyond this, we're looking to really have this as like a fully fledged DeFi app where you can control your leverage loop positions, control your health factor, basically"
+    },
+    {
+      "start": 2216.66,
+      "end": 2247.04,
+      "speaker": "SPEAKER_00",
+      "text": "deposit and farm any position in DeFi and really use it as sort of like an all encompassing app that you need it for without having to go to any other UIs. So this is something that we're working on at the moment. And then maybe something else that's a little bit smaller, but also just as exciting is we have our Jumper Loyalty Pass, which is our on -chain reputation point system. I think there's a few chads I see in here that are quite high up and very active. There's some nice perks coming for you"
+    },
+    {
+      "start": 2247.04,
+      "end": 2277.48,
+      "speaker": "SPEAKER_00",
+      "text": "top JLP holders. So if you think about airline miles that you get perks, if you fly a lot with a certain airline or partner airlines, this is what we really envision JLP being like. And we have a revamped profile page, which is if you go into the UI, you'll see your profile and it says your level. This is coming quite soon. And this will have exclusive benefits and perks to top JLP. Holders. So you can think as you go up the levels, you unlock special"
+    },
+    {
+      "start": 2277.48,
+      "end": 2307.62,
+      "speaker": "SPEAKER_00",
+      "text": "discounts or access to certain partners. So this could be partners that we have on board, could be Nansen or some other big brands within the industry. And you can receive like discounts on subscriptions, access to newsletters, discounts on some crypto accounting tax software. Like there's all sorts of things here that basically we're leveraging our network to bring, bring exclusive deals to our users that have shown their loyalty to jumper."
+    },
+    {
+      "start": 2307.74,
+      "end": 2338.06,
+      "speaker": "SPEAKER_00",
+      "text": "So these are a couple of things that are coming that we're quite excited about. And then yeah. Beyond that is just like the standard day to day, more chains, more bridges, more taxes. Yeah. That's, that's essentially over the next few months. Yep. And we'll be adding three new decks aggregators on hyper UVM. so one of one of which is um is liquid swap so those should be coming uh"
+    },
+    {
+      "start": 2338.06,
+      "end": 2368.08,
+      "speaker": "SPEAKER_00",
+      "text": "within the next two weeks and uh i'd say after that we're pretty close to consolidating um coverage of both hyperliquid so hyperliquid we've essentially already done it uh it's the only place you can go from bitcoin solana sui um and and obviously evm chains uh directly into usd usdc perps on on hyperliquid um and yeah we're as"
+    },
+    {
+      "start": 2368.08,
+      "end": 2398.32,
+      "speaker": "SPEAKER_00",
+      "text": "i said we're rapidly uh quite aggressively um expanding our coverage with more bridges more decks more decks aggregators on hyper evm um and yeah hopefully we'll we'll have other ecosystem bridges from other ecosystems uh directly into hyper evm as well awesome that's great to hear um yeah we'll probably open the floor up to uh any of the listeners"
+    },
+    {
+      "start": 2398.32,
+      "end": 2428.4,
+      "speaker": "SPEAKER_00",
+      "text": "for any question uh but i'll just ask something that one of them commented uh i know you touched on it earlier uh in the spaces but uh perhaps you have an extension to answer uh that question the question goes is leervay different from jumper uh are they two different companies or one is the extension of another yeah"
+    },
+    {
+      "start": 2428.4,
+      "end": 2458.46,
+      "speaker": "SPEAKER_00",
+      "text": "good question um so we are two separate companies but jumper was spun out of leafy so we work very closely together jumper exclusive leverages lefi for our bridging and swapping so as you see as required uh leads expose the Supreme at flush tok and so yes like you pm um for expansion on lefi um and then myself and a few of the others in the audience we we work on jumper but um essentially jumper was sort of created and the brain brainstormed and"
+    },
+    {
+      "start": 2458.46,
+      "end": 2488.7,
+      "speaker": "SPEAKER_00",
+      "text": "developed initially within lefi and then as it became its own uh beast and has its own roadmap and own direction we got our own team and now we've spun out into our own entity um and we'll go our own sort of path that we have and lefi will be going their own path that they have although um working very closely together and and like the tech obviously overlaps there so you can think about lefi as like the b2b um infrastructure provider that that sits underneath jumper"
+    },
+    {
+      "start": 2488.7,
+      "end": 2518.73,
+      "speaker": "SPEAKER_00",
+      "text": "and jumper is the b2c user facing ux layer i guess um that we'll be going our own way so yeah that's a good way i guess to think about the two yeah awesome um printz .hu also asked um is the jumper bridge to hyper uvm live yet uh if not any eta uh yeah i mean i can just take this one it's it's already live i think uh they have close to 20 if not probably"
+    },
+    {
+      "start": 2518.73,
+      "end": 2549.29,
+      "speaker": "SPEAKER_00",
+      "text": "30 assets on the hyper uvm that you can swap into if i remember correctly jumper is the only uh bridge that allows you to swap from any other chains directly into different assets on hyper uvm uh the other existing um bridges only allows you to swap into hype on hyper uvm uh before you um choose what to do with it but with uh jumper you basically can swap into different assets like hype per usdt0 um"
+    },
+    {
+      "start": 2549.29,
+      "end": 2579.31,
+      "speaker": "SPEAKER_00",
+      "text": "usde and a couple of uh min coins and and also some of the uh more used assets so yep hopefully that answers your question um maybe sorry just to add on that as well the assets that we have listed are not like an exhaustive list so if you do want to swap into something else just paste the contract address and it will automatically find it um and if you do if we if you do want"
+    },
+    {
+      "start": 2579.31,
+      "end": 2610.61,
+      "speaker": "SPEAKER_00",
+      "text": "us to list an asset there that isn't just ping myself or as required or anyone else from jumper um and we'll be sure to add the tokens into the token list to make it a bit easier so we are working on a way to make this a bit more seamless but for now you can either search by the the ca or you can either search by the the ca or um we can add them in yeah that's great to hear uh yeah so if anyone has any questions feel free to request to speak if not we will probably uh"
+    },
+    {
+      "start": 2610.61,
+      "end": 2640.95,
+      "speaker": "SPEAKER_00",
+      "text": "wrap up the spaces here i'll just give 10 or 20 seconds for anyone who wants to raise their hand and come on all right i think we probably can wrap it up uh here uh thanks"
+    },
+    {
+      "start": 2640.95,
+      "end": 2664.29,
+      "speaker": "SPEAKER_00",
+      "text": "to you and as requested for hopping on and of course if you guys haven't already used jumper uh they are one of the best bridge uh for you to bridge on to hyperliquid from any other chains uh pretty instantaneously so yeah thank you guys for coming on appreciate it thank you for having us goodbye"
+    }
+  ],
+  "speaker_map": {}
+}

@@ -1,0 +1,96 @@
+{
+  "space_id": "1RDGlzXZyAqxL",
+  "title": "HypurrCo AMAs: Neko - What are DeFAI swarms?",
+  "state": "ended",
+  "created_at": "2025-02-24T15:23:43Z",
+  "started_at": "2025-03-05T14:00:40Z",
+  "ended_at": "2025-03-05T14:31:56Z",
+  "scheduled_start": "2025-03-05T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 202,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "rardedd",
+      "handle": "rardedd",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "neko.hl",
+      "handle": "neko_hl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Halodunka",
+      "handle": "Cryptohalo1",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Danielmarvin(❖,❖)",
+      "handle": "Marvinsin1",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1RDGlzXZyAqxL",
+  "summary_title": "AI agents automating HLP loops: Neko's DeFi infrastructure on Hyperliquid",
+  "summary_description": "How Neko is building backend DeFi AI agents to solve capital efficiency, not just UX—plus 33% airdrop strategy and private beta launch.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "vaults"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 381,
+      "label": "Neko introduced as DeFi AI storm for Hyperliquid and HyperEVM"
+    },
+    {
+      "timestamp_seconds": 442,
+      "label": "Three reasons to build on Hyperliquid: community, egalitarian environment, execution"
+    },
+    {
+      "timestamp_seconds": 562,
+      "label": "AI agents defined: bots with reasoning capacity, tools, and LLM APIs"
+    },
+    {
+      "timestamp_seconds": 623,
+      "label": "DeFi AI agents unlock backend capital efficiency beyond UX improvements"
+    },
+    {
+      "timestamp_seconds": 847,
+      "label": "Neko token bonded at 12M FDV in 20 minutes via HyperPump"
+    },
+    {
+      "timestamp_seconds": 908,
+      "label": "100% fair launch float with 33% of supply airdropped to communities"
+    },
+    {
+      "timestamp_seconds": 1451,
+      "label": "Private beta launching second or third week of March, rate-limited to 100 users"
+    },
+    {
+      "timestamp_seconds": 1616,
+      "label": "V1 focuses on structured agentic workflows executing swaps and vault deposits automatically"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Neko",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1869.7386875,
+  "capture_failure_reason": null
+}

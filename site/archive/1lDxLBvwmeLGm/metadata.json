@@ -1,0 +1,96 @@
+{
+  "space_id": "1lDxLBvwmeLGm",
+  "title": "HypurrCo AMA: Latest developments with Hyperbeat & Dexari",
+  "state": "ended",
+  "created_at": "2025-08-13T05:31:55Z",
+  "started_at": "2025-08-20T14:00:23Z",
+  "ended_at": "2025-08-20T14:52:23Z",
+  "scheduled_start": "2025-08-20T14:00:45Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 197,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "𝑴𝒂𝒓𝒕𝒊𝒏𝒛.HL",
+      "handle": "onchain_martinz",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Zubby.hl",
+      "handle": "zubbee_X",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "800.HL",
+      "handle": "degennQuant",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Dexari",
+      "handle": "Dexari",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lDxLBvwmeLGm",
+  "summary_title": "Mobile-first perps and yield capture reshape Hyperliquid's UX",
+  "summary_description": "Dexari brings full-featured desktop trading to mobile; Hyperbeat tokenizes funding rates into LSTs and yield products.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 301,
+      "label": "Dexari: self-custody wallet with CEX-grade UX, powered by Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 393,
+      "label": "Hyperbeat: yield layer capturing funding rates, launching b-HYPE LST"
+    },
+    {
+      "timestamp_seconds": 514,
+      "label": "Dexari founders ex-Binance US, building decentralized alternative to CEX mobile apps"
+    },
+    {
+      "timestamp_seconds": 695,
+      "label": "Hyperbeat positions as 'Binance Earn' for Hyperliquid with on/off-ramp via HyperBeat Pay"
+    },
+    {
+      "timestamp_seconds": 1066,
+      "label": "Both teams prioritize organic growth and user feedback over paid marketing"
+    },
+    {
+      "timestamp_seconds": 1339,
+      "label": "b-HYPE integrates across vaults, collateral, and HIP3 market deployment"
+    },
+    {
+      "timestamp_seconds": 1551,
+      "label": "Dexari hit ~1B trading volume in first month; planning HyperEVM feature embedding"
+    },
+    {
+      "timestamp_seconds": 2368,
+      "label": "USDC launch on HyperEVM and HYPE-USDT on spot market unlock cross-chain liquidity"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Dexari",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3118.1866875,
+  "capture_failure_reason": null
+}

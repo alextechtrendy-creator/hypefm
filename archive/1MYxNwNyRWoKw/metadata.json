@@ -14,13 +14,13 @@
     {
       "name": "Zerk",
       "handle": "rekt_gang",
-      "team": "RecGang",
+      "team": null,
       "role": "host"
     },
     {
       "name": "Aaron",
       "handle": null,
-      "team": "Felix Protocol",
+      "team": "Felix",
       "role": "guest"
     }
   ],
@@ -69,7 +69,7 @@
   "pull_quote": "The stability pool depositors get the first right to buy liquidated collateral and receive the 5% penalty clipped from the borrower.",
   "quote_attribution": {
     "name": "Aaron",
-    "team": "Felix Protocol",
+    "team": "Felix",
     "role": "core contributor"
   },
   "audio_captured": true,

@@ -1,0 +1,686 @@
+{
+  "space_id": "1vOxwrMZXDvJB",
+  "language": "en",
+  "duration_seconds": 3640.704,
+  "chunks": [
+    {
+      "start": 92.91,
+      "end": 251.74,
+      "speaker": "SPEAKER_00",
+      "text": "gm gm i think we'll just wait a bit uh for the people to come in and then we'll start um in three more minutes gm gm"
+    },
+    {
+      "start": 254.65,
+      "end": 281.76,
+      "speaker": "SPEAKER_00",
+      "text": "gm i think um can probably start already all right uh yeah let's go all right welcome to another series of uh hyperco amas um series so today we have time swap uh uh we have time so as our guest and they are gonna talk more about what time swap is doing and also the upcoming fiat sale as well as a few"
+    },
+    {
+      "start": 281.76,
+      "end": 311.78,
+      "speaker": "SPEAKER_00",
+      "text": "other details so um hyperco is for those of you who don't know um already a collective of uh builders founders traders and power users who are all working together to contribute towards the hyperliquids ecosystem growth uh we have a few key initiatives so far the very i think um the very known well -known initiative is our ecosystem directory where a lot of uh people actually refer to and take reference"
+    },
+    {
+      "start": 311.78,
+      "end": 342.94,
+      "speaker": "SPEAKER_00",
+      "text": "from to um kind of familiarize themselves with the entire hyperliquid ecosystem especially for depths building on the hyper evm testnet currently so a lot of the projects will be live on day one once minute um uh once the once minute is live so our ecosystem directory houses um a lot of the projects there and if you are building on hyper evm we'll be uh very happy to talk to you and also list you on our directory for visibility uh"
+    },
+    {
+      "start": 342.94,
+      "end": 373.02,
+      "speaker": "SPEAKER_00",
+      "text": "we are also running the largest mean that validator outside of foundation notes so that's our uh another one of our key initiative so uh i think we are very fortunate to have so many people's trust and hype stick with us uh with the the collaboration uh between nansen hyper collective you can expect a lot more than just um decentralizing the network we have airdrops plan we have uh we want to be the voice of the community as well uh in time to"
+    },
+    {
+      "start": 373.02,
+      "end": 403.1,
+      "speaker": "SPEAKER_00",
+      "text": "come i think another famous uh and well -known initiative of ours is also weekly wrap -ups ecosystem guide projects and also ama uh for example the current one that we are doing we've done a few last year and also this year so today we have um a very special guest time swap so tell us more about time swap yep thanks uh thanks uh velocity uh i think before we get into"
+    },
+    {
+      "start": 403.1,
+      "end": 433.2,
+      "speaker": "SPEAKER_00",
+      "text": "introvert and ourselves i mean i'd like to like uh thank you guys for what you guys do for the whole uh hyperliquid ecosystem i think uh uh it's it's i think in line with the general ethos of the actual ecosystem that uh many community uh let's say self -organized community groups come forward and help each other uh with like little to no direction from the official team right so i think it's a very uh unique uh situation that"
+    },
+    {
+      "start": 433.2,
+      "end": 466.08,
+      "speaker": "SPEAKER_00",
+      "text": "we don't really see in other ecosystems and i think uh you guys have been uh there from the very start of the hyperliquid ecosystem uh so it's really amazing to see uh your growth and how you guys have helped uh all the projects and people coming to hyperliquid and obviously like uh congrats on the uh being the number one validator i think it's pretty special to get that for a completely community run let's say validator so overall i think kudos to you guys so"
+    },
+    {
+      "start": 466.08,
+      "end": 496.18,
+      "speaker": "SPEAKER_00",
+      "text": "yeah i think uh i'll get started my name is amit i'm one of the co -founders of time swap along with me i have rickson also i think he just went on stage rickson is the founder of time swap with me uh so i basically take care of everything on the ground and i'm also the founder of time swap the business side and rickson basically is the math wizard who basically has designed and architectured all the amms that we have shipped to the mainnet and also the upcoming time swap v3"
+    },
+    {
+      "start": 496.18,
+      "end": 526.32,
+      "speaker": "SPEAKER_00",
+      "text": "which we are very excited about so uh talking about time swap time swap is an oracle -less lending borrowing protocol uh to break it down i think most people are familiar with the existing money markets uh which require an oracle to say facilitate liquidations plus also to calculate the ltv uh when we started off time swap back in late 2020 it was right after the defy"
+    },
+    {
+      "start": 526.32,
+      "end": 556.4,
+      "speaker": "SPEAKER_00",
+      "text": "summer and obviously uniswap was all the craze and we were looking for interesting uh products to build and we realized the amm design is something unique and maybe we should give a shot at building an amm that actually facilitates lending borrowing that is really the initial thesis for us to start time swap uh we went through like 2021 mostly trying to figure out how to build this product because there was no real reference to it we i"
+    },
+    {
+      "start": 556.4,
+      "end": 586.5,
+      "speaker": "SPEAKER_00",
+      "text": "think went through six different designs before we finally uh logged in on a design like in like late 2021 and we shipped this uh to polygon mainnet in early 2022 so that was our first ever product uh it was live on polygon on i think february march 22. uh it basically uh met all the design principles that we were targeting which is being fully decentralized no oracles liquidation free uh but it"
+    },
+    {
+      "start": 586.5,
+      "end": 616.54,
+      "speaker": "SPEAKER_00",
+      "text": "was not the most capital efficient protocol and uh soon after that around mid 22 we decided okay we need to uh like build a much more efficient amm for this uh lending borrowing and essentially the current product that's live across 10 plus chains which is time swap v2 uh uh was launched in early 2023 and it's currently live across 10 plus chains we've done close to 150 million in total volume uh i mean we have 30 000 plus users peak tvl of"
+    },
+    {
+      "start": 616.54,
+      "end": 646.76,
+      "speaker": "SPEAKER_00",
+      "text": "15 mil overall this is our current flagship product and this is the product that will be first going live on hyper evm so we are quite excited quite excited to deploy on hyperium pretty soon uh but yeah overall we are an oraculous lending protocol we don't need oracles to function which basically means we can list any asset as collateral on time swap and not worry about let's say oracle manipulation hacks which is one of the major risks that prevents existing money"
+    },
+    {
+      "start": 646.76,
+      "end": 676.88,
+      "speaker": "SPEAKER_00",
+      "text": "markets from listing let's say mid to long -term assets so we basically can safely list any of these assets so over the last year and a half we've been like the first money market on many chains and also like the first to list many many different exotic long tail assets like we're the first to list the arbitrum token as collateral within few minutes of the token tge uh similar situations across multiple other chains so the tldrs we are a lending"
+    },
+    {
+      "start": 676.88,
+      "end": 707.0,
+      "speaker": "SPEAKER_00",
+      "text": "boring protocol that essentially works without an oracle it is much more similar to unisoc but it enables fixed term lending borrowing of basically any crypto assets so yeah that's that's basically an intro about myself and intro about uh time so i'm talking about myself personally i come from a trad5 plus fintech background prior to founding time so and uh yeah i think i've had the full stack experience starting in trad5 moving to fintech and then discovered crypto in early"
+    },
+    {
+      "start": 707.0,
+      "end": 737.32,
+      "speaker": "SPEAKER_00",
+      "text": "2017 uh lost all my money in the ico cycle then stuck around to learn what this tech is and luckily stumbled upon d5 during d5 summer and then basically ran into rickson at a hackathon uh via one of our common friends and essentially that's how we came together so excited to continue building within the hle question we can get uh more into like what you're building and why hyperliquid etc later but i think now i'll give maybe rickson"
+    },
+    {
+      "start": 737.32,
+      "end": 767.64,
+      "speaker": "SPEAKER_00",
+      "text": "an opportunity to uh introduce himself rickson do you want to come on stage hey guys uh i'm glad i'm glad to be here guys uh so my name's rickson uh you can just call me rick uh or sometimes in twitter it's time lord um my background is in mathematics and i've always been inspired by by the right we're talking about bitcoin ethereum"
+    },
+    {
+      "start": 767.64,
+      "end": 798.09,
+      "speaker": "SPEAKER_00",
+      "text": "and and based on those design principles my goal is to create a financial system that can really help uh help the decentralized ecosystem for humanity so yeah um glad to have you here nice thank you for the introduction um i think uh"
+    },
+    {
+      "start": 798.09,
+      "end": 828.55,
+      "speaker": "SPEAKER_00",
+      "text": "if i'm not mistaken timestop is likely the first oraculous uh lending empowering protocol and also time soba actually enables the creation of money markets for any erc20 tokens so perhaps do you guys want to um talk more about how does time swap operate without oracles and also how is time to different from adamant uh other money markets uh i'm not sure if you have any comments on the markets? Sure. I think the easiest way to understand how TimeSwap operates is with an example comparison of Uniswap."
+    },
+    {
+      "start": 828.75,
+      "end": 859.03,
+      "speaker": "SPEAKER_00",
+      "text": "So let's say you want to launch a new, let's say, market for trading on Uniswap, right? You simply create a pool, you add the two assets, and based on the balance of these two assets, that ratio becomes the initial price. And after that, as traders trade against this pool, when the balance changes, the price changes, right? So here there is no real oracle that the Uniswap AMM is using. Instead, it's the users expressing their belief on"
+    },
+    {
+      "start": 859.03,
+      "end": 889.15,
+      "speaker": "SPEAKER_00",
+      "text": "the token by trading against it, which changes the balance in the pool, which in turn changes the price, right? So there is no oracle in Uniswap. It's the users who act as the oracle. That is, let's say, when price changes on Binance, either a bot or a user comes and, let's say, arbitrages that on, let's say, Uniswap to change the price. So the price changes, and then the user has to be equal to, let's say, Binance. So a similar concept applies here, which is that when you want to create a new market on TimeSwap, let's say you want to borrow USDC against high price."
+    },
+    {
+      "start": 889.29,
+      "end": 919.35,
+      "speaker": "SPEAKER_00",
+      "text": "So we create a pool, put these two assets in. In TimeSwap, every pool has a maturity. So it's fixed term lending. So you lend or borrow for a certain duration, and hence the name TimeSwap. So you initiate the pool. You put the two assets, you select a duration, and let's say you enter two values for these two assets, right? So same as the way in which Uniswap, the AMM, calculates x by y, we"
+    },
+    {
+      "start": 919.35,
+      "end": 949.35,
+      "speaker": "SPEAKER_00",
+      "text": "have our own AMM, which is x plus y into z equals to k. It's a three -variable AMM that essentially enables us to calculate both the interest rate and the loan -to -value for, let's say, every lending or borrowing transaction. So no oracles needed in setting up for this. Very similar to Uniswap, when you set up the, let's say, pool with these two, let's say, parameters and assets and duration, it automatically calculates and tells you what is the current APR and what is"
+    },
+    {
+      "start": 949.35,
+      "end": 980.09,
+      "speaker": "SPEAKER_00",
+      "text": "the current LTV. And after that, as users trade against it, that changes the interest rate. And as the, let's say, market price changes for the specific asset, it also changes the LTV. So how does that happen? It is based on a user's interaction with the protocol. So we don't have to do that. We can directly pull the price from anywhere. It's based on users, let's say, own preference, just like the way they trade on Uniswap. When you lend or borrow against this pool on TimeSwap, it changes the interest"
+    },
+    {
+      "start": 980.09,
+      "end": 1010.35,
+      "speaker": "SPEAKER_00",
+      "text": "rate and the price changes based on, let's say, or the LTV is based on whatever is the market price, which we don't feed in, but it's already programmed into when you set up the pool. So a simple way to explain for, let's say, borrowers, let's say, like I said, there's a hype pool where you can borrow. You can borrow USDC and this pool, let's assume, is for one month. So the rules are that you borrow USDC and you have to repay this USDC before that one month maturity. Now, in case you don't repay before that"
+    },
+    {
+      "start": 1010.35,
+      "end": 1040.41,
+      "speaker": "SPEAKER_00",
+      "text": "one month maturity, you're essentially giving up that collateral you have deposited. So what happens if your default is that collateral you deposited goes to the lenders and you get to keep the USDC that you borrowed. So there are no active liquidations on TimeSwap because we don't use oracles. What that means is that users don't need to worry about, let's say, scam weeks, especially on long tail assets. There are a lot of scams, so you don't get liquidated in that when you're using TimeSwap. And you basically can like"
+    },
+    {
+      "start": 1040.41,
+      "end": 1070.49,
+      "speaker": "SPEAKER_00",
+      "text": "essentially what that means is you can use any asset as collateral. So the TLDR is that it is an AMM that facilitates lending, borrowing for a fixed duration. And there are no liquidations that are no oracles and borrowers basically have to repay the loan before the maturity. So there are no liquidations that are no oracles and borrowers basically have to repay the loan before the maturity. in case you don't repay that your collateral gets distributed to the lender so that's a quick tldr of like a time swap i hope that was uh clear yeah my thing i think that's very"
+    },
+    {
+      "start": 1070.49,
+      "end": 1100.69,
+      "speaker": "SPEAKER_00",
+      "text": "clear i think it's pretty innovative that you guys can do an oraculous um feature uh and and you guys do it by shifting like pricing and risk management process to the users uh directly themselves so this is something that uh uniswap and a lot of the other emms do not uh incorporate and i think that's something that it's pretty exciting to us as well hence why we decided to create curate um time swaps um fjord sale soon so perhaps we can talk more about"
+    },
+    {
+      "start": 1100.69,
+      "end": 1130.93,
+      "speaker": "SPEAKER_00",
+      "text": "uh the key details of the upcoming public sale do you want to share more about the dates um why are you guys doing it pricing uh valuation so on and so forth yeah for sure so uh so to uh dive into the sale i think uh quick tldr is we are doing a whitelisted community round uh specifically focused on our existing users plus any of our prior partners so we obviously"
+    },
+    {
+      "start": 1130.93,
+      "end": 1161.11,
+      "speaker": "SPEAKER_00",
+      "text": "been across multiple chains we've had like a 80 plus partner projects who have used uh our protocol in the past so these communities plus communities on uh like hyperliquid uh is uh mainly the focus of the sale so the sale is that 20 million dollars are fully diluted there is no vesting for the sale the total tokens available during the sale process is up to 10 percent of the token supply which is 1 .75"
+    },
+    {
+      "start": 1161.11,
+      "end": 1191.21,
+      "speaker": "SPEAKER_00",
+      "text": "billion so total 175 million tokens are available for sale on the sale which is starting on friday the 17th which is this friday on fjord foundry so it's a community whitelisted sale at a significant discount to a last vc race so we initially had raised in 2021 a small pre -seed round from like multi -coin mechanism defines and few other prominent angels and"
+    },
+    {
+      "start": 1191.21,
+      "end": 1221.33,
+      "speaker": "SPEAKER_00",
+      "text": "then in late 22 or early 2023 we raised another vc round at like 40 million ftb so this current round is at a significant discount to a last vc race so we initially had raised in 2021 a small pre -seed round a direct 50 discount to that round uh primarily because i think uh what you've seen within the hyperliquid ecosystem and i think the hype team has uh set the standards really high that if you reward your earliest users your existing users then they will uh literally like go to death for you"
+    },
+    {
+      "start": 1221.33,
+      "end": 1251.69,
+      "speaker": "SPEAKER_00",
+      "text": "i think you can see that on twitter all day right so i think it was very important for us to recognize that uh we wouldn't be here without our earliest users many of them who have been with us i think for three years since we've been around for a while and it's like an opportunity for us to help them also get a share of the let's say growth and success of the protocol so uh yeah i think the big deal here it's this friday it's a community whitelisted sale for our existing users some partner communities and also basically anybody"
+    },
+    {
+      "start": 1251.69,
+      "end": 1281.81,
+      "speaker": "SPEAKER_00",
+      "text": "within the hyperliquid ecosystem like whichever communities we are happy to offer a white list for the same the sale is going live on friday that's why i always say i'm going live today and i don't need this sale i'm going live on time. and uh like the information is all available on our twitter page if you go to like the pin tweet you'll get the tokenomics and the full sale details so excited excited to bring uh time to the market uh pretty soon yeah nice i i think you guys secured uh the time picker very early as well so congrats"
+    },
+    {
+      "start": 1281.81,
+      "end": 1312.37,
+      "speaker": "SPEAKER_00",
+      "text": "on that given how expensive it goes out right now yeah we got we got i think uh i think uh it's i think it's very interesting because i think only folks who are early and using hyperliquid uh would have actually i think understood the value with it i think it was uh i think it was quite clear to us once these spot markets went live that this can be a serious venue for trading and i think the auction model basically ensures it's completely fair and transparent right so i think uh this also"
+    },
+    {
+      "start": 1312.37,
+      "end": 1342.63,
+      "speaker": "SPEAKER_00",
+      "text": "goes back to something that uh like uh we have been uh trying for a while i think uh initially when we started our uh like like uh pre -mine which is basically we've done a bit of uh pre -mining of our tokens for users uh in advance right they started like late 2023 and initially we were planning to like get the token out around uh like q1 q2 2024 uh and we obviously were speaking to like a lot of exchanges uh trying"
+    },
+    {
+      "start": 1342.63,
+      "end": 1373.29,
+      "speaker": "SPEAKER_00",
+      "text": "to get uh like listing uh but really based on like most of my interaction with exchanges i would say uh it was not the most ideal experience uh it really seems that there is not a clear transparent of air process and there is quite a bit of let's say uh i mean i mean i don't want to take name but it's not the most ideal transparent process so we obviously were looking for a venue to like list"
+    },
+    {
+      "start": 1373.29,
+      "end": 1403.51,
+      "speaker": "SPEAKER_00",
+      "text": "time and i think when the spot markets went live on hl uh we were like okay we are definitely going to be listing on hyperliquid whether it's going to be rtg or later we were not sure but yeah we were quite sure that this will be a pretty uh prominent venue for trading uh on chain going forward i think the the order books plus the gasless trading the ux extras like so smooth so i think as a trader myself i've been trading since like on hl since"
+    },
+    {
+      "start": 1403.51,
+      "end": 1433.64,
+      "speaker": "SPEAKER_00",
+      "text": "i think october 23 so i've been trading was actively trading for like six eight months before we decided to buy the ticker also so it was kind of a no -brainer for us and uh luckily it worked out for us yeah i agree i mean in sexes a lot of things is actually just caught on off a lot of information is privileged uh retail don't have access to it even these things uh it's very apparent that a lot of listing uh a lot of tokens actually give up"
+    },
+    {
+      "start": 1433.64,
+      "end": 1463.94,
+      "speaker": "SPEAKER_00",
+      "text": "a huge percentage of supply um to list tokens uh we all know certain sectors demand that uh if not you have to have connections but uh hyperliquid just have the ferro system whereby it's just an auction mechanism whereby anyone can bid a ticker like if any one of us have uh the money to buy an auction we can as well and just grab any random ticker so i think it's very fair and transparent and that's something that we all really like to see so"
+    },
+    {
+      "start": 1463.94,
+      "end": 1494.1,
+      "speaker": "SPEAKER_00",
+      "text": "um i think apart from that uh do you want to touch on also what's the difference between the whitelist and the public grounds that you mentioned earlier so you also mentioned that uh whitelist is usually for um your early users and also ideally hyperliquid uh users so perhaps what are the key differences um between the whitelist and public grounds and how can users guarantee themselves a spot in the whitelist room in terms of the terms"
+    },
+    {
+      "start": 1494.1,
+      "end": 1524.2,
+      "speaker": "SPEAKER_00",
+      "text": "of the round uh there isn't any difference between let's say the uh the whitelist and the public round the terms in terms of valuation all the other terms remain same the only difference is that the whitelist is like a uh privileged access to our believers and earliest users so there isn't much difference between both the rounds other than one being an early access where uh your wall it has let's say at least uh some priority access"
+    },
+    {
+      "start": 1524.2,
+      "end": 1554.68,
+      "speaker": "SPEAKER_00",
+      "text": "to let's say get the sale which we believe uh those users deserve for like like taking a chance on the product and helping us with uh feedback and helping us build the product so it's kind of a fair launch for our existing users so that they also get some part in the success hopefully going forward nice uh perhaps you can share a bit more i mean i know it might be a little"
+    },
+    {
+      "start": 1554.68,
+      "end": 1585.18,
+      "speaker": "SPEAKER_00",
+      "text": "bit heavy for you and people with limited access to the traditional token but uh perhaps do you want to share more about like time tokens distribution the security supply plan utilities for your token as well yeah i think uh in terms of distribution of the token uh we've allocated 50 percent plus i think around roughly 50 percent to the community uh this is about 15 percent that uh was sold to our investors via saft and the pre -cedent seed round uh this let's say investors has"
+    },
+    {
+      "start": 1585.18,
+      "end": 1615.68,
+      "speaker": "SPEAKER_00",
+      "text": "a two -year vesting with a six -month cliff so the first unlock for the investors in all rounds comes after six months after tg for the team the distribution is like 20 percent of the tokens and this is vested over three years with one year cliff so the team gets access to the tokens only one year after the tg there's a 15 percent that reserve for the treasury which is predominantly going to be used one for let's say uh providing"
+    },
+    {
+      "start": 1615.68,
+      "end": 1645.96,
+      "speaker": "SPEAKER_00",
+      "text": "liquidity for the happy liquid token so either by hip2 liquidity or even by working with some market makers and uh also for let's say any sort of ecosystem growth bug bounties as we build times of v3 going forward uh also for like any sort of audits and other let's say uh unforeseen expenses so this this 15 is treasury that is primarily for market making and future growth growth ecosystem of the project uh within the 50 of"
+    },
+    {
+      "start": 1645.96,
+      "end": 1676.4,
+      "speaker": "SPEAKER_00",
+      "text": "the community 10 is allocated to this discounted community round uh and then there is a 10 retroactive airdrop for our existing users out of which like 3 .5 approximately percent was the pre -mine and the balance is uh let's say an airdrop uh for different categories uh of our existing uh like existing users so the balance 30 is for future future ecosystem growth"
+    },
+    {
+      "start": 1676.4,
+      "end": 1706.6,
+      "speaker": "SPEAKER_00",
+      "text": "predominantly for let's say when hyper evm goes live to uh let's say as rewards for our partners within the hyper ebm ecosystem and also like other ecosystems that we plan to deploy so this community allocation is uh has a 10 max unlock per year which can be changed through governance uh but yeah broadly speaking the top level high level uh distribution is that uh 20 percent to tn 15 to investors uh both of these have vesting of"
+    },
+    {
+      "start": 1706.6,
+      "end": 1736.7,
+      "speaker": "SPEAKER_00",
+      "text": "like 36 and 24 months with a cliff of 12 months and six months uh 15 is treasury for any protocol expenses and let's say uh market making of the token uh of the 50 community 10 for airdrop 10 for community sale and the balances for future ecosystem rewards uh etc so that's broadly the distribution in terms of utility i think uh broadly we are looking at two three avenues one is obviously"
+    },
+    {
+      "start": 1736.7,
+      "end": 1766.72,
+      "speaker": "SPEAKER_00",
+      "text": "governance which can only go live after hyper evm is live since contracts are required for governance same thing goes with let's say any sort of fee distribution or protocol fee distribution to the users currently we have honestly not really planned out exactly what will the mechanics but we are currently having to work on that right now so the issue of token value and the status quo three is that a portion of the fees should be used to buy back the token and maybe"
+    },
+    {
+      "start": 1766.72,
+      "end": 1796.8,
+      "speaker": "SPEAKER_00",
+      "text": "in the future we'll also explore potentially uh redirecting fees to stakers as well so there is obviously a lot of different interesting designs for like token value accrual but yeah i think for us primary focus is to get the product scaled to a stage where the fees are meaningful then we can start the buyback so i would say currently a major focus is let's say 30 % is the fee and the tokens are available in the market launching in times of v2 on hyper evm and also getting the times of v3 out asap"
+    },
+    {
+      "start": 1796.8,
+      "end": 1826.84,
+      "speaker": "SPEAKER_00",
+      "text": "which we believe is like the end game for basically capturing the time value of any asset so yeah i think i think i'll pause here if that's clear or else we can dive deep into it yeah but i think that's clear and i think if anyone needs more information they can definitely uh read up on docs later uh i think it's it might be a bit a lot to digest also but i think i think the key point is so you guys allocating 50 community which i think it's uh it's uh pretty good sum"
+    },
+    {
+      "start": 1826.84,
+      "end": 1857.34,
+      "speaker": "SPEAKER_00",
+      "text": "and and pretty uh full a reflection of um what hyperliquid goes after as well which is focused on early users and communities so i think on hyper evm and uh mainnet launching you mentioned uh time soaps uh v3 as well so perhaps you could share a bit more about um the upcoming v3 um what's the easy definition definition"
+    },
+    {
+      "start": 1857.34,
+      "end": 1887.86,
+      "speaker": "SPEAKER_00",
+      "text": "of it and also when is it launching is it dependent on the hyper evm mainnet and and basic details yeah i think i'll give a short brief introduction uh conceptually on what v3 is and then i'll let maybe rickson explain exactly uh maybe slightly in depth uh not sure if everybody will be able to understand the details but i think i'll let rickson explain in detail but i think uh to begin with uh times of v3 is like a progression for us from v2 which"
+    },
+    {
+      "start": 1887.86,
+      "end": 1918.14,
+      "speaker": "SPEAKER_00",
+      "text": "is currently the product that's uh live across many chains uh again i'll use the uniswap uh comparison here so when uniswap went from like v2 to v3 we had the concentrated liquidity uh innovation and then now with uniswap v4 coming you have hooks right and hooks basically enable uh composability and strategies that previously was not possible or required a significant amount of work so these two key innovations plus i'm"
+    },
+    {
+      "start": 1918.14,
+      "end": 1948.7,
+      "speaker": "SPEAKER_00",
+      "text": "not sure if you guys are aware so trader joe also had an amm called amm book which introduced some innovations to like even the bin system which uniswap had designed so yeah like like trader joe designed something that is very close to like an order book itself so times for v3 basically combined all these three uh unique features from uniswap v3 v4 and like trader joe's amm at the base of it to build uh an amm that will be the most capital efficient uh"
+    },
+    {
+      "start": 1948.7,
+      "end": 1979.04,
+      "speaker": "SPEAKER_00",
+      "text": "let's say protocol for building products that have some time component attached to it so think of any financial product that has a duration attached to it let's say some maturity uh that financial product can be built on top of times of v3 so this could be lending borrowing this could be let's say yield trading this could be options so any sort of financial product that has a time component attached to it you can build that using times of v3 and whatever product"
+    },
+    {
+      "start": 1979.04,
+      "end": 2009.04,
+      "speaker": "SPEAKER_00",
+      "text": "you build all of them will use a unified liquidity at the base of it so whether it's an option protocol or a lending borrowing protocol or a yield trading protocol all of this will use a single liquidity at the base of it and which makes it like i would say multiple times x is more efficient than our current one i think uh i think rickson will share more in terms of numbers but it's like i think thousand x uh more efficient than our existing system so broadly speaking"
+    },
+    {
+      "start": 2009.04,
+      "end": 2039.18,
+      "speaker": "SPEAKER_00",
+      "text": "it's a significant jump in terms of uh product innovation uh it's also the result of our compounded learnings from last three to four years i think rickson can share more on this a lot of our learnings while we built v1 v2 and and resourced. All of that is like combined into this one protocol. So we are calling it the end game of capturing time value for basically any crypto asset. So it can basically build"
+    },
+    {
+      "start": 2039.18,
+      "end": 2069.84,
+      "speaker": "SPEAKER_00",
+      "text": "any sort of financial product with a time component attached to it. So I think I'll let Rickson also maybe dive into this a little deeper. Rickson, you want to go? So there's three components, three improvements that is the key focus of V3 from V2. The first one is, as Amit described, the architecture. If you think about it, there are different kinds of lending and borrowing out there, right? Different forms of time value, right?"
+    },
+    {
+      "start": 2070.36,
+      "end": 2100.54,
+      "speaker": "SPEAKER_00",
+      "text": "Times of V2, the kind of lending borrowing is like collateralized style lending borrowing without any oracles. But if you think about it, there's many other kinds of financial products that are out there. So if you think about it, there's many products out there that don't describe themselves as lending and borrowing, but actually is in some way, right? If you look at yield trading, for example, right? In yield trading, you're simply borrowing the yield token for a set duration. You cannot sell that yield token, but"
+    },
+    {
+      "start": 2100.54,
+      "end": 2131.22,
+      "speaker": "SPEAKER_00",
+      "text": "any yield it generates goes to you, right? So that's an example. Yield trading is actually in some way a lending borrowing mechanism as well. We also have options. Futures. And if you think about any kind of, for example, real world assets wherein you want to rent it for a month, for two months, right? For example, rental agreements, right? So times of V3, the goal here is to generalize all this behavior."
+    },
+    {
+      "start": 2131.76,
+      "end": 2161.36,
+      "speaker": "SPEAKER_00",
+      "text": "We're talking about fixed term behaviors, right? We're in just like fixed durations. And we are accumulating all of that into one single protocol such that anyone could build any kind of fixed term market easily. So that's the first case. So essentially, times of V3 is not just a collateralized lending protocol anymore, right? It's fundamentally a fixed term market protocol for any kind of time value"
+    },
+    {
+      "start": 2161.36,
+      "end": 2191.54,
+      "speaker": "SPEAKER_00",
+      "text": "you can ever imagine. And that's quite exciting. That is quite an exciting, as you can see, right? For example, fixed term market in traditional finance, it's very big, right? We're talking about bonds, options, futures, yield swap, huge, humongous market. I think one reason, so we are, so the goal"
+    },
+    {
+      "start": 2191.54,
+      "end": 2221.82,
+      "speaker": "SPEAKER_00",
+      "text": "of V3 is to become the catalyst for a new market for the DeFi ecosystem. You could see that there's already some fixed term markets popping out there, then and there. Like, for example, times of V3. V3 is a fixed term market. We also have, for example, Pendel, which is a yield trading fixed term market as well. We have Hyperdrive and many, many more, right? So yeah, that's the first component that we're working very hard on. Second one is"
+    },
+    {
+      "start": 2221.82,
+      "end": 2252.1,
+      "speaker": "SPEAKER_00",
+      "text": "due to the capital inefficiency of V2. It's similar to the story of Uniswap V2, right? Where it's not capital efficient enough, right? So we build V3, given the knowledge that we've learned from Uniswap V3 and V4, what we've learned from Trader Joe, what's going to happen here is instead"
+    },
+    {
+      "start": 2252.1,
+      "end": 2284.6,
+      "speaker": "SPEAKER_00",
+      "text": "of having the interest rate to be on a curve, it's going to be concentrated into one single price point. So what it ends up with is a capital efficiency at the same level as order books. And order books, by definition, has the maximal capital efficiency as defined from Uniswap. So"
+    },
+    {
+      "start": 2284.6,
+      "end": 2314.66,
+      "speaker": "SPEAKER_00",
+      "text": "with this, I can proudly say, based on the design and the research, that Uniswap V3 is expected to have the maximally capital -efficient protocol for lending and borrowing. And not only that, another additional problem that many AMMs face is toxic flows. The fact is, pretty much all"
+    },
+    {
+      "start": 2314.66,
+      "end": 2344.72,
+      "speaker": "SPEAKER_00",
+      "text": "AMMs, all the liquidity providers, all the market makers who wants to join into a pool has to follow one global fee that they all must follow. This means that LP doesn't have the ability to adapt. They don't have the ability to adapt, and they don't have the ability to charge higher or charge lower. Imagine if you join into a market where you're selling bananas, and then you're only selling"
+    },
+    {
+      "start": 2344.72,
+      "end": 2375.66,
+      "speaker": "SPEAKER_00",
+      "text": "at one price. You cannot increase. You cannot decrease the price. You cannot decrease the price. And that's the fundamental problem with toxic flows, right? LPs cannot adapt to the market, and therefore, LPs have a harder time to gain profitability because of that. Sometimes they do, sometimes they don't, but it's hard to adapt. It's hard to change. That's the issue. So in times of V3, LPs now have choices of different fees that they can choose for, all within one single pool, right?"
+    },
+    {
+      "start": 2375.74,
+      "end": 2405.76,
+      "speaker": "SPEAKER_00",
+      "text": "Right. So. So in many AMMs right now, if you want to deploy your liquidity pool, but with a different fee, you have to deploy another pool. But that leads to liquidity fragmentation, which is also another set of problems, right? But in times of V3, you have choices of fees that you can charge as a market maker, as the liquidity provider. And because you have the choices, you have the choice of charging higher"
+    },
+    {
+      "start": 2405.76,
+      "end": 2436.72,
+      "speaker": "SPEAKER_00",
+      "text": "or lower. You now have the ability to adapt to the market changes and be able to hopefully gain better profitability out of that. The third component, which is, in my opinion, the most exciting part, the most exciting design, because this has never existed before, is the current issue with many fixed -term protocols, right? It's the fact that it's the issue of liquidity fragmentation. In"
+    },
+    {
+      "start": 2436.72,
+      "end": 2467.04,
+      "speaker": "SPEAKER_00",
+      "text": "terms of maturity. So in fixed -term markets, if you want to deploy, let's say, a one -month maturity pool, two -month maturity pool, three -month maturity pool, each of this pool, you have to add liquidity for it. So if you want to deploy six different maturities, you have to deploy six times the liquidity. That's very expensive. It's the reason why, if you look at, let's say, Pendle. Or if you look at our... If you look at our current"
+    },
+    {
+      "start": 2467.04,
+      "end": 2497.35,
+      "speaker": "SPEAKER_00",
+      "text": "protocol in V2, you can only see one maturity market only, at most two maturities. And the main reason for that is just the liquidity cost of deploying multiple maturities becomes intractably expensive. So given... And it's also the reason why perpetual protocols right now is winning. Why? Because there's no liquidity fragmentation"
+    },
+    {
+      "start": 2497.35,
+      "end": 2528.37,
+      "speaker": "SPEAKER_00",
+      "text": "there, right? All liquidity goes into one single pool for the perpetual behavior that it has. Wherein the fixed -term market have that issue of liquidity fragmentation. What I'm proud to share about V3 is we have figured out a way such that in one single pool, there are multiple maturities built into it. Meaning, we can have multiple maturity... Lending,"
+    },
+    {
+      "start": 2528.39,
+      "end": 2558.38,
+      "speaker": "SPEAKER_00",
+      "text": "borrowing, all into one single pool, wherein there's no liquidity fragmentation. So what does it mean then? First, it means now that as an LP, or as a liquidity provider, you now have more choices of maturity to which you want to add liquidity. And therefore, you have more maturities that you can also provide to the users. So any"
+    },
+    {
+      "start": 2558.38,
+      "end": 2588.5,
+      "speaker": "SPEAKER_00",
+      "text": "traders or lenders... Lenders or borrowers who wants to lend and borrow will now have more flexibility to which duration they want to lend and borrow from. So instead of having, let's say, for example, in Pendle, like a one -year pool, in times of V3, you should expect monthly pool for 12 months. So it means that instead of just yield trading only for one year, you"
+    },
+    {
+      "start": 2588.5,
+      "end": 2619.4,
+      "speaker": "SPEAKER_00",
+      "text": "now have more choices. Whether, okay. I want to gain the yield for only one month instead of one year. I have the choice. If I want to yield trade for six months, I also have the choice. This gives you guys the ability to have more precise yield strategies that is impossible before because of the cost it will generate in current protocols. And"
+    },
+    {
+      "start": 2619.4,
+      "end": 2649.45,
+      "speaker": "SPEAKER_00",
+      "text": "that's very exciting. Okay. Now, suddenly, we can now deploy weekly pools easily without any capital inefficiency problems that will surface with current protocols, right? Weekly pools, monthly pools, monthly periodicity pools. All right. So, yes, that's the three components of V3. Hopefully, I'm not going too long here. Thank"
+    },
+    {
+      "start": 2649.45,
+      "end": 2679.87,
+      "speaker": "SPEAKER_00",
+      "text": "you. Thank you, Amit and Rickson for the very comprehensive... Overview. I think it's very technical and pretty much covers everything. Yeah, I think we are also going to launch a blog maybe later tonight or tomorrow, which will basically explain most of the things that Rickson just mentioned. But I think the main takeaway is that it is, I mean, based on our understanding of"
+    },
+    {
+      "start": 2679.87,
+      "end": 2709.93,
+      "speaker": "SPEAKER_00",
+      "text": "the overall design, it is probably the most capital efficient. So, yeah, we are quite, quite excited to bring this to the market and, like, onto Hyper -EVM pretty soon. So, I think, yeah, I think we, like, around June 2024, we completed the mechanism design and we've been, like, testing it on, like, scenarios and the early results are very encouraging."
+    },
+    {
+      "start": 2710.09,
+      "end": 2740.24,
+      "speaker": "SPEAKER_00",
+      "text": "So, yeah, quite excited. Hopefully, in Q2, we'll be able to get this into mainnet. So, post -DG, that's going to be our primary, like, goal is to get V3 out as soon as possible. Nice. Thank you for the comprehensive overview. I think perhaps on more of the direction of time, what do you think is the significance of being native to the entire Hyperliquid"
+    },
+    {
+      "start": 2740.24,
+      "end": 2770.5,
+      "speaker": "SPEAKER_00",
+      "text": "ecosystem? I think the main... Main... Main reason, I would say there are two, three different reasons. I think one which I think I had mentioned on a tweet earlier today to, like, Jeff's tweet is that I think there is, like, a fair, like, fair market to projects that want to build something and compete. I think it's probably the most meritocratic ecosystem that we've"
+    },
+    {
+      "start": 2770.5,
+      "end": 2801.22,
+      "speaker": "SPEAKER_00",
+      "text": "been part of. We've been on, like, 10 plus teams. And it's really quite evident based on what happens. In the ecosystem, group projects or group chats, et cetera, it's very focused on building. Like, if you go to the chats, you'll see everyone's asking some technical question and how to do this, how to fetch that. So, it's a very product -focused ecosystem, which we really love. I think the community is also very welcoming. I think, obviously, you guys are leaders"
+    },
+    {
+      "start": 2801.22,
+      "end": 2831.38,
+      "speaker": "SPEAKER_00",
+      "text": "of the ecosystem like that. There are many other, like, communities as well. I was honestly quite surprised because today morning... When we sent out the tweet saying that we're offering whitelist to, like, hyperliquid ecosystem communities. There's so many communities that I've never heard before, but they just sprung out of nowhere. And these are, like, pretty decent -sized communities within HL. So, I think there are a lot of builders with energy to actually build products that are actually useful"
+    },
+    {
+      "start": 2831.38,
+      "end": 2861.38,
+      "speaker": "SPEAKER_00",
+      "text": "to the users. And, obviously, the hyperliquid decks is the center point of this entire ecosystem. The economy built using the hyperliquid, right? So, we honestly are quite excited. We have a lot of ideas to build. I think the perp funding rates is something that we really want to figure out how to enable, let's say, trading of the funding rates. I think it's probably one of the biggest untapped markets out there. It's obviously, like,"
+    },
+    {
+      "start": 2861.4,
+      "end": 2891.72,
+      "speaker": "SPEAKER_00",
+      "text": "tokenization of HLP, which I think is another interesting, let's say, flywheel that can be... unlocked then obviously there are uh the liquid staked versions of hype and obviously i think spot btc eat soul are all coming uh coming soon so i think uh this lot of lot of uh interesting problems to solve and at the base of it is like a money making machine which is the perp dex right so it's kind of similar to like how binance"
+    },
+    {
+      "start": 2891.72,
+      "end": 2921.9,
+      "speaker": "SPEAKER_00",
+      "text": "is there the binance perps and everything else revolves around that so it's kind of interesting here we have the per product which is like the money printing businesses and then now you're building interesting financial products of that on top of it and a lot of i think unsolved problems so quite excited to build and continue building in the ecosystem i would say thank you for that um i think it's nice to see collaboration"
+    },
+    {
+      "start": 2922.44,
+      "end": 2952.06,
+      "speaker": "SPEAKER_00",
+      "text": "uh between partners so do you guys have any uh questions or comments or questions or comments or questions or questions or questions or questions collaborations upcoming between partner protocols and also what can users expect from them yeah i think uh uh on let's say hyper evm obviously we're going to be live on day zero uh obviously there are a lot of lst projects that are getting deployed for hype so most of these lsts will be usable as a collateral on time swap to let's"
+    },
+    {
+      "start": 2952.06,
+      "end": 2982.42,
+      "speaker": "SPEAKER_00",
+      "text": "say borrow stables uh you'll also have all the hl native assets so once hyper evm comes live uh you can one -to -one bridge basically any hl native assets so think about uh per or h fun or farm and all the other meme coins so all of these can be used as a collateral on time swap or even you can uh set up lending markets for users to lend and earn a yield also so basically any of the assets that is live on"
+    },
+    {
+      "start": 2982.42,
+      "end": 3012.67,
+      "speaker": "SPEAKER_00",
+      "text": "the hl l1 can now basically be used to be used to be used to be used to be used to be used to be used to be used to be used to be used uh on time swap on the hyper evm so this also applies to like even uh spot btc eth and other spot assets that are coming to hyper liquid so uh so yeah to answer your question yeah pretty much any asset that is on the hl l1 will be able to support that from uh day zero and how has the traction been so far and how do you project once time swap launch on hyper evm especially"
+    },
+    {
+      "start": 3012.67,
+      "end": 3042.7,
+      "speaker": "SPEAKER_00",
+      "text": "given next question sorry uh sorry i think you were breaking off in the middle yeah uh sorry we're going for the next question yep yep so uh as in yeah so the next question is more of uh how is the time sort of um traction been so far and how um how do you project it uh once hyper evm is uh hyper evm in that is life"
+    },
+    {
+      "start": 3043.28,
+      "end": 3072.92,
+      "speaker": "SPEAKER_00",
+      "text": "especially given how hyped um hyper evm is uh the community is super psyched to try all the depths on it especially the borrowing and lending protocols yeah how do you see yeah yeah i think uh i think when we look at our history like uh i think i'd shared some stats earlier so we uh are live on like uh 10 plus chains and we've done close to 150 mil in volume uh over the last i think 12 15 months uh during this period we had like"
+    },
+    {
+      "start": 3072.92,
+      "end": 3102.94,
+      "speaker": "SPEAKER_00",
+      "text": "pre -mine of the tokens but over this 15 months uh only about three percent has been farmed so there is still a huge amount of uh tokens left that uh we'll be utilizing to grow the uh the protocol on hyper evm both v2 and v3 uh i think uh mostly we're going to be focusing on let's say uh the initial days is probably i think there's going to be a lot of demand for i guess lsts because of hype has uh so much demand uh"
+    },
+    {
+      "start": 3102.94,
+      "end": 3133.26,
+      "speaker": "SPEAKER_00",
+      "text": "we'll also be looking uh at i guess hlp which i think uh is a very uh like like interesting unique assets that native to hl right so uh currently i think are one of the i think i'd like to probably address this also this is one of the most common questions that we've been getting is like why is our tvl so low i think this is a question i wanted to answer also so uh if you look at the trajectory of our like volume plus tvl we started off the pre -mine in october"
+    },
+    {
+      "start": 3133.26,
+      "end": 3163.3,
+      "speaker": "SPEAKER_00",
+      "text": "2023 uh this is the start of like the bull market when i think bdc was 25 000 and bdc like 70k uh obviously market was very bullish uh we also received like grants from the arbitrum stip program we received like a 400k arbit arb tokens we also received grants from optimism grants council from polygon mantle so all of these uh were available to our users over the last 15 months so we used uh like three percent of our token plus the balance grants to"
+    },
+    {
+      "start": 3163.3,
+      "end": 3193.76,
+      "speaker": "SPEAKER_00",
+      "text": "like uh grow the protocol so with this uh small amount of let's say uh token emissions we were still able to get like peak tvl of 15 mil and like volume of like 150 mil so i think we are quite confident uh now that our token is going to be live it's going to be native to hl uh we'll be able to grow at a much faster pace plus i think the the ecosystem also uh quite nascent with a lot of new assets coming into the market so we're"
+    },
+    {
+      "start": 3193.76,
+      "end": 3224.23,
+      "speaker": "SPEAKER_00",
+      "text": "quite confident we'll be able to like beat almost all of our historical numbers uh we're quite confident that we're going to be able to like beat within the first uh couple of months of hyper evm goes live so i would say we're quite quite quite bullish on the hyper evm going live nice okay i think to perhaps just wrap it up i think everyone is pretty excited for hyper evm how do you see the community uh shaping the future of uh for"
+    },
+    {
+      "start": 3224.23,
+      "end": 3254.25,
+      "speaker": "SPEAKER_00",
+      "text": "both hyper evm and also time swap uh i think uh the best examples uh is probably like i mentioned earlier right the community is self -organizes and builds tooling and solutions for the ecosystem i've not seen this much of uh community self organization across any other ecosystems i think one of the examples i think i don't know if he's here shuri is i think most hl ecosystem builders will know shuri so shuri is obviously uh been helping us uh quite"
+    },
+    {
+      "start": 3254.25,
+      "end": 3284.31,
+      "speaker": "SPEAKER_00",
+      "text": "a bit uh voluntarily across uh like any sort of problems that we have faced on hl and similarly there are other like uh ecosystem builders who've been helping us so that like completely voluntary because they're all quite excited about uh products coming into the ecosystem so uh i would say the the the builder energy and the overall ecosystem vibes is probably top notch and i expect that to continue into the foreseeable future given that uh"
+    },
+    {
+      "start": 3284.31,
+      "end": 3314.36,
+      "speaker": "SPEAKER_00",
+      "text": "there's still a huge chunk of hype uh that is reserved for the community uh going forward so yeah i think very excited to like bring all these uh solutions to the market yep i think at hyperco um we are extremely excited i think the whole reason why we built hyperco is also given how community -centric"
+    },
+    {
+      "start": 3314.36,
+      "end": 3344.58,
+      "speaker": "SPEAKER_00",
+      "text": "and focused hyperliquid is uh so so i think that's the whole reason why we decided found hyperco startup hyperco and also gather different groups of different demographics of users to to come together and support the entire growth of this uh very uh democratic uh ecosystem yep i think i think also like i've uh i guess i forgot to mention obviously you guys have been helping us uh all"
+    },
+    {
+      "start": 3344.58,
+      "end": 3374.72,
+      "speaker": "SPEAKER_00",
+      "text": "the way uh from the beginning i think uh kirby was also one of the co -founders i see him in the audience uh kirby had organized a meetup for like hyperliquid uh community back in i think september 2023 in singapore during token and uh that's when the first time i'd met like the hyperliquid team uh thanks to kirby for putting us in touch and that's basically when i first uh like decided to try out the product so you guys have been uh in the trenches"
+    },
+    {
+      "start": 3374.72,
+      "end": 3404.98,
+      "speaker": "SPEAKER_00",
+      "text": "from the beginning and obviously you've helped us uh curate our launch and also introduce us to so many uh so many partners and obviously uh the top validator on on hl also so we also i think as uh i think we've not announced it but i'm happy to announce that we'll also be uh doing some sort of airdrop to the hyperco stakers as part of the uh maybe on tg or immediately after that we haven't decided but definitely these takers are like the most important for the network security"
+    },
+    {
+      "start": 3404.98,
+      "end": 3436.34,
+      "speaker": "SPEAKER_00",
+      "text": "and you guys uh have been helping us so we'll also be uh doing an airdrop hopefully to the hyperco stakers uh based on some historical snapshot i guess so very excited to uh reward the the hyperco ecosystem and the community i as well and obviously all the stakers i think from a couple of days will also be i think uh auto white listed for the sale so we're excited to really go deeper in terms of our partnership with you guys and the rest of the hle costume yep"
+    },
+    {
+      "start": 3436.34,
+      "end": 3466.64,
+      "speaker": "SPEAKER_00",
+      "text": "uh thank you i'm even time so but i think we really very appreciate the airdrop because it uh it really aligns uh stakers and also long -term uh vision of hyperliquid and also what we are doing here over at hyperco and time so uh we believe in win -win partnerships and i think uh those who stay tight definitely see that kind of um vision so i think uh we have we do have some other uh airdrop lineup but i think we really"
+    },
+    {
+      "start": 3466.64,
+      "end": 3496.74,
+      "speaker": "SPEAKER_00",
+      "text": "do appreciate time so um participation in this uh entire project of uh hyperliquid and ours as well uh i think that's a very comprehensive uh ama uh if anyone has any extra questions please feel free to just uh raise your hand and uh ask i see our dear friend uh rugman also"
+    },
+    {
+      "start": 3496.74,
+      "end": 3536.85,
+      "speaker": "SPEAKER_00",
+      "text": "in the audience has also been very supportive uh yeah i think uh we are also going to reach out to the rug community for white listing we'll connect with you separately yeah if you have if anybody in the audience has any questions feel free to raise hands or uh separately you can uh tag me on twitter or discord and or telegram and answer any questions any time uh yeah"
+    },
+    {
+      "start": 3536.85,
+      "end": 3567.95,
+      "speaker": "SPEAKER_00",
+      "text": "but i think no one else has pretty has any questions i think um it's you guys can reach army on twitter or if not we also actually created a topic on hypercos group chat that anyone can just uh hyperco and friends group chat that anyone can just ask any questions that's related to time swap especially if you are keen to learn more about uh the sale the upcoming uh the upcoming public round sale on um Fiat Foundry, which HyperCollective is curating."
+    },
+    {
+      "start": 3568.21,
+      "end": 3599.07,
+      "speaker": "SPEAKER_00",
+      "text": "So as mentioned, the sale will happen this Friday, 17th of January. So if you have any questions on tokenomics, the sale, or anything TimeSwap related, you can utilize the topic chat in HyperConference to ask more. I think apart from that, yep. Thank you to everyone for listening and also TimeSwap, Amir, Frickson, and Mimi for your time today. I think we will end AMA"
+    },
+    {
+      "start": 3599.07,
+      "end": 3629.21,
+      "speaker": "SPEAKER_00",
+      "text": "spaces right here. Awesome. Thank you so much for hosting this and excited to bring TimeSwap to HyperEVM and Time to HyperLiquidSpot and also continue engaging with the wider HyperLiquid ecosystem and fulfill the vision that Jeff has laid out for all of us. So yeah, HyperLiquid. All right. Thank you. See you guys again. Thank you so much. Bye. Have a good day. Thank you. Bye -bye."
+    },
+    {
+      "start": 3629.51,
+      "end": 3629.87,
+      "speaker": "SPEAKER_00",
+      "text": "Bye."
+    }
+  ],
+  "speaker_map": {}
+}

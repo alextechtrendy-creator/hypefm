@@ -1,7 +1,6 @@
 {
-  "_comment": "Add the X handles (without @) of every account that hosts Hyperliquid Spaces. The discover command will scan their last ~3200 tweets for Space links.",
-  "hosts": [
-    "HyperliquidX",
-    "chameleon_jeff"
-  ]
+  "hypurr_co": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypurrco.jpg",
+    "display_name": "HypurrCo"
+  }
 }

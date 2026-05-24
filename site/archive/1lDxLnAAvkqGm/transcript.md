@@ -3,7 +3,7 @@
 _Jeff, Fig, and Zuli discuss Hyperliquid's L1, Squid's cross-chain integration, and the liquidator vault strategy._
 
 > If you want to be certain on the price, you can be uncertain on execution
-> — Jeff, Hyperliquid
+> — Jeff
 
 **Host:** @rekt_gang
 **Date:** 2023-03-31
@@ -14,10 +14,10 @@ _Jeff, Fig, and Zuli discuss Hyperliquid's L1, Squid's cross-chain integration, 
 ## Who's talking
 
 - **rekt_gang** (@rekt_gang) _host_
-- **Jeff** — Hyperliquid _guest_
+- **Jeff** _guest_
 - **Fig** — Squid _guest_
 - **Zuli** _guest_
-- **Finn** — Terra Spaces _guest_
+- **Finn** _guest_
 - **PBR** _guest_
 
 ## Key moments

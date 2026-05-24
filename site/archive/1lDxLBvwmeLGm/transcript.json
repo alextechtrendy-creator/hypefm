@@ -1,0 +1,590 @@
+{
+  "space_id": "1lDxLBvwmeLGm",
+  "language": "en",
+  "duration_seconds": 3118.1866875,
+  "chunks": [
+    {
+      "start": 101.87,
+      "end": 181.13,
+      "speaker": "SPEAKER_00",
+      "text": "GM, GM, just getting the speakers on and just letting the audience roll in a bit before we begin. Just checking if my mic is all good. GM, yep, I can hear you. Perfect. I can hear you as well. Alright, both of you are good as well. Perhaps let's just wait another minute before we begin officially. Right,"
+    },
+    {
+      "start": 181.25,
+      "end": 211.55,
+      "speaker": "SPEAKER_00",
+      "text": "I think let's just go ahead. Welcome back to another episode of our Hypercollective AME. Today is a little bit special. We have two projects on board on this AME with us, Hyperbit and Dexary. So a quick introduction about Hypercollective. For those of you who are unfamiliar, it's founded by three of us, Kirby, Noel and myself, Velocity. We started"
+    },
+    {
+      "start": 211.55,
+      "end": 241.57,
+      "speaker": "SPEAKER_00",
+      "text": "this to kind of unite different demographics of users within the Hyperliquid ecosystem. Everyone that are excited and passionate about pushing this ecosystem to the maximum. We have done this through various key initiatives. We are the largest validator on Mainnet in collaboration with Nansen outside of the foundation notes. We regularly create content in the form of"
+    },
+    {
+      "start": 241.57,
+      "end": 271.71,
+      "speaker": "SPEAKER_00",
+      "text": "weekly recaps, ecosystem guides, research pieces, and recently have pushed out for a fair bit of money. amount in collaboration with Uncoil Hype. So if you guys haven't checked it out yet, feel free to check it. We also do AMAs to spotlight projects. So something like today's one with both HyperBait and Dexari. We also do a lot of in real life events to connect different builders and"
+    },
+    {
+      "start": 271.71,
+      "end": 301.77,
+      "speaker": "SPEAKER_00",
+      "text": "traders so that builders know what traders and users in the ecosystem want and can build exactly for them. We have an ecosystem directory of projects. So for anyone who are new to HyperEVM, feel free to check it out and play around with it to find your favorite apps. So today we have HyperBait and Dexari who will share more about what they are building and what's"
+    },
+    {
+      "start": 301.77,
+      "end": 331.87,
+      "speaker": "SPEAKER_00",
+      "text": "next for them. So for those who are unfamiliar with HyperBait and Dexari, you guys just give us a quick overview of what it is and an introduction about yourself. Perhaps Chuck from Dexari can go ahead. Yeah, and thanks for having us on and thanks for everything you and the HyperCode team do for the HyperLakefoot ecosystem. It's all very great and really excited to be here. So yeah, I'm Chuck, one of the co -founders"
+    },
+    {
+      "start": 331.87,
+      "end": 362.09,
+      "speaker": "SPEAKER_00",
+      "text": "of Dexari here. Dexari is a mobile app, which is currently available on both iOS and Android. So native app, not a progressive web app. And our goal is to create a wallet experience that doesn't feel like a wallet experience of the past. So something that is more user -friendly and feels more like the best in class centralized exchange user experience or the best in class fintech app experience"
+    },
+    {
+      "start": 362.09,
+      "end": 393.33,
+      "speaker": "SPEAKER_00",
+      "text": "out there, but with everything built from self -custody and built on chain. And very importantly for this group here, HyperLakefoot is the ecosystem we are building in. Our trading is powered by HyperLakefoot. So when you're trading on Dexari, you're trading on HyperLakefoot. And yeah, we're focused on trading for now, but we're expanding from there very rapidly such that you can do all the great use cases on the HyperEVM as well directly within our app. So"
+    },
+    {
+      "start": 393.33,
+      "end": 423.74,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, that's a bit about what Dexari is. Happy to get into more details as we go through. Nice. Next up, we have Eihandra from HyperBeat. Eihandra is one of the co -founders. So yeah, please give a quick introduction about HyperBeat and also yourself. Yeah, cool. Thanks so much for hosting this guys. So yeah, HyperBeat, we've been here since the start. We are building conceptually."
+    },
+    {
+      "start": 423.78,
+      "end": 454.12,
+      "speaker": "SPEAKER_00",
+      "text": "How you can think about it is the yield layer for HyperLakefoot. As you guys know, we've got this incredible exchange uh which is hyper core and it's powered by these things we called perpetuals and um what makes it work is this thing called funding rates and so what hyper beat basically does is we capture those funder funding rates generate yields for you on various different assets we tokenize that we're the first team to do that and then we essentially distribute that um"
+    },
+    {
+      "start": 454.12,
+      "end": 484.3,
+      "speaker": "SPEAKER_00",
+      "text": "as uh you know as vaults and and tokens that people can use throughout d5 um so it makes it really easy for you to earn yield and to take part in what's happening on hyperliquid secondly we also have b -hype our lst which will be launching very soon um and furthermore we have like a bunch of different products like master swap like hyperfolio and our goal is that you can come to hyperbeat in you don't really have to go anywhere"
+    },
+    {
+      "start": 484.3,
+      "end": 514.45,
+      "speaker": "SPEAKER_00",
+      "text": "anywhere else you can do what you need to do um and soon you'll also be able to off -board from hyperliquid in one click so um yeah thanks for hosting this and thanks for having us here awesome so perhaps just to start um what's the underlying vision of both your projects uh trip you want to go first yeah happy to so the vision for xre uh comes"
+    },
+    {
+      "start": 514.45,
+      "end": 544.63,
+      "speaker": "SPEAKER_00",
+      "text": "directly from my experience and in my co -founding or zach's experience prior to doing this we were both at binance us and so we saw sort of like the good and bad of what a centralized exchange uh can be and what a mobile app should look like so you know on the good end of things a centralized exchange you know in in the past has done the best job i think of making crypto approachable and kind of abstracting away the complexities of on -chain things that for the most part um"
+    },
+    {
+      "start": 544.63,
+      "end": 574.67,
+      "speaker": "SPEAKER_00",
+      "text": "are not necessary for a user to care about that's the positive but on the flip side the negative is all of the things that all of us know centralized exchanges don't do well like they control your assets they can freeze your accounts when hacks happen they're an enormous honey pot of your assets all in one place they can be slow to list assets you know all of the things that are our issues are things that we experience firsthand um and unfortunately for most of crypto's existence this has"
+    },
+    {
+      "start": 574.67,
+      "end": 604.75,
+      "speaker": "SPEAKER_00",
+      "text": "been a limitation technically so there haven't been good enough tech solutions out there to create as performance a platform or as easy to use a platform as a centralized exchange but with things like account abstraction and you know seedless wallets and very very importantly hyper liquid it's actually possible to do everything that a centralized exchange can do but uh do it from self"
+    },
+    {
+      "start": 604.75,
+      "end": 634.93,
+      "speaker": "SPEAKER_00",
+      "text": "-custody and i think we're at a recently become possible enabled by the things i mentioned and so our vision is to you know take what's now possible and make it a reality um at least on mobile uh we think that there's a huge opportunity here to create a app that is better in every single way than the binance mobile app or the coinbase mobile app um and you know being able to deliver all the best that crypto has to offer with lower fees with just"
+    },
+    {
+      "start": 634.93,
+      "end": 665.68,
+      "speaker": "SPEAKER_00",
+      "text": "as fast execution all of the above uh from mobile so we want to you know bring the world of crypto on chain um such that it's not the case that you know people's first entry point into crypto uh is coinbase and binance because we don't think that the future of crypto belongs uh in centralized exchanges we think it should all be decentralized nice we agree with you there i mean we all know how decentralized uh"
+    },
+    {
+      "start": 665.68,
+      "end": 695.78,
+      "speaker": "SPEAKER_00",
+      "text": "protocols are so much important after the collapse of ftx i mean you guys came from a centralized exchange you guys know how opaque uh the systems are so it's definitely nice to hear that you guys are on the other uh and off the spectrum right now and pushing for something that you guys love so for 800 what's your underlying vision for hyperbit yeah we want to make yield for a user"
+    },
+    {
+      "start": 695.78,
+      "end": 726.12,
+      "speaker": "SPEAKER_00",
+      "text": "as easy as possible um so every major exchange globally has their own division um finance own coinbase earn fibered earn okay x earn and um it is a very important part of an exchange because it keeps users on the exchange and as we know like hyperliquid on hypercore has these different vaults but they are like the wild west so it's not really advisable to deposit in there except for hlp"
+    },
+    {
+      "start": 726.12,
+      "end": 756.4,
+      "speaker": "SPEAKER_00",
+      "text": "and so what hyperbeat does as i mentioned earlier is you can think of us as playing a finance earn role for hyperliquid and then secondly uh we also want to be the native off -ramp for hyperliquid um via hyperbeat pay so in between earning money and leveraging it and doing a bunch of different things um at some point right you make money to spend it and so we want to be that player for"
+    },
+    {
+      "start": 756.4,
+      "end": 794.16,
+      "speaker": "SPEAKER_00",
+      "text": "the hyperliquid ecosystem because we believe it is important right we've seen example the coinbase card we've seen by bit pay binance pay before it got shut down but these are important user experiences that that need to be built to support hyperliquid because you know the core team's not going to build that they're just going to focus on right the exchange and making it as good as possible and so we can step in and help with the"
+    },
+    {
+      "start": 796.34,
+      "end": 825.0,
+      "speaker": "SPEAKER_00",
+      "text": "my tweets r are moving deposit from the us bank account into our hyperbeat vault um directly you can connect your revolute account and deposit directly"
+    },
+    {
+      "start": 825.0,
+      "end": 855.35,
+      "speaker": "SPEAKER_00",
+      "text": "and we're working to make that like go both ways right so that you can do it like you can bring money on but you can also off -ramp directly from hyperliquid so yeah we we're trying to do that perfect yeah i mean i think you guys uh have touched on a bit about how you have positioned yourself uniquely in this current landscape whereby you don't just uh"
+    },
+    {
+      "start": 855.35,
+      "end": 885.75,
+      "speaker": "SPEAKER_00",
+      "text": "you aren't just uh you bearing vault uh you don't just help users get the most out of their bucks but then you guys also have this on and off -ramp service for um your users to tap on which is uh definitely very cool and exciting uh but i think i'll throw the ball back to dexari how do you guys differentiate yourself from competitors uh since there's a lot of current front ends that offer both spot and trading uh"
+    },
+    {
+      "start": 885.75,
+      "end": 916.21,
+      "speaker": "SPEAKER_00",
+      "text": "do you guys have any unique features that you'd like to highlight here yeah and i'll start off by saying you know it is great to see lots of you know mobile apps uh emerging in the space and and making it easier for hyperliquid to get out to more users um so you know obviously phantom is the biggest name that's kind of come out and integrated and there's a bunch of others as well i think the thing that makes our uh hyperliquid integration relatively"
+    },
+    {
+      "start": 916.21,
+      "end": 946.35,
+      "speaker": "SPEAKER_00",
+      "text": "unique right now is we don't create uh i would say a simplified um or it's not not simply it is simplified but it's not a reduced version of hyperliquid you get the full feature set that you get on desktop uh so we don't you know remove any of the order types uh you can do all of the complex uh advanced order types that you want so you can do all of the things that you can do in the trading ui we've we've built feature"
+    },
+    {
+      "start": 946.35,
+      "end": 976.41,
+      "speaker": "SPEAKER_00",
+      "text": "parity for indexari so lots of advanced strategies we have advanced charting so you can do analytics within the app and all of this is possible to do seamlessly connecting to your existing hyperliquid wallet so you can you know if you want to trade on desktop you can do it on desktop and then if you're on the go and you want to trade from that same wallet index r you can do it on dexari and so you can do it on desktop and then if you're on the go and you want to trade from that same wallet in um that is there's one uh very important aspect is that we want to create the full non -watered down version of a"
+    },
+    {
+      "start": 976.41,
+      "end": 1006.45,
+      "speaker": "SPEAKER_00",
+      "text": "hyperliquid for our users we also have done a lot of work to make sure it's really easy to get from various different chains uh into hyperliquid so uh right now we have ethereum arbitrarism optimism base bnb chain polygon and and very soon hyper evm as well uh with very recent updates we're going to be able to call it into perps and spot so you can get from assets on lots of different chains quickly into hyperliquid in one click um"
+    },
+    {
+      "start": 1006.45,
+      "end": 1036.54,
+      "speaker": "SPEAKER_00",
+      "text": "which is enabled by our one balance integration so uh those are the some of the main things that come to mind but like i said it is great to see other apps out there too because uh you know we want to grow the space in hyperliquid as much as possible yep absolutely agree and i think what's uh important right here is also uh you guys there might be a lot of similar apps but uh you might target different regions and"
+    },
+    {
+      "start": 1036.54,
+      "end": 1066.9,
+      "speaker": "SPEAKER_00",
+      "text": "also different um countries due to regulations uh and different kind of jurisdiction rules so so i think it's important that um we have all these different front ends that um target different uh demographic of users um so for both of you guys how do you guys plan or track new users and capital what kind of growth campaigns do you guys have planned uh perhaps 800"
+    },
+    {
+      "start": 1066.9,
+      "end": 1097.04,
+      "speaker": "SPEAKER_00",
+      "text": "do you want to go first yeah our focus is just on building stuff that people want that's always the best strategy we don't have any paid marketing um we believe in the same like ethos is what the hyperliquid core team has so any growth we have is completely organic we don't do private deals um like we just build stuff that people want and if if you"
+    },
+    {
+      "start": 1097.04,
+      "end": 1127.06,
+      "speaker": "SPEAKER_00",
+      "text": "don't if you don't have users on that product then it tells us that it sucks so then we know okay we need to make this thing better or maybe it's just not the right fit so um that's like generally our approach and we always just try and be helpful to new teams we uh try and post like a lot of educational things and just generally be helpful to anyone that's coming into the eco and we found that that creates growth and organic growth"
+    },
+    {
+      "start": 1127.06,
+      "end": 1157.64,
+      "speaker": "SPEAKER_00",
+      "text": "because like even if you spend money on buying growth it's not organic so it's like is it growth if it's not organic is i think the way to think about it um yeah that's that's how we look at it yeah no i really like that uh that answer and i think it's it's been our attitude as well to make sure that uh we're sort of product centric because without a great product uh any"
+    },
+    {
+      "start": 1157.64,
+      "end": 1187.78,
+      "speaker": "SPEAKER_00",
+      "text": "growth is is going to be fleeting um so we've been focusing on on the product very much as well and you know like like 800 said it's it's kind of taking after the hyperliquid team in that regard because they built a great product it was going to be worth using no matter what uh you know growth uh initiatives that they put out there uh you know that said we have we have a handful of sort of initiatives upcoming that we're hoping really you know expands uh the user base and and make sure that it's"
+    },
+    {
+      "start": 1187.78,
+      "end": 1217.92,
+      "speaker": "SPEAKER_00",
+      "text": "you know gets our name out there uh we have you know recently launched our referral program a few weeks ago and we launched on the app store so that's something that you know is a really great way to to share dexair with your friends and and get you know rewarded for doing so and so we encourage you to take a look at that there's already users that have earned thousands of dollars of referrals um uh which is is a you know great for them um and we're we're excited to bring on more users uh we also last week launched our points program"
+    },
+    {
+      "start": 1217.92,
+      "end": 1248.2,
+      "speaker": "SPEAKER_00",
+      "text": "so points are going to be distributed weekly um based on your activity within the platform so uh excited to see that that grow and expands um we're also going to be uh you know as part of the season one of our points uh having a you know trading contest to sort of make it fun and engaging and you know make it uh such that you can compete with your um you know more people uh and you know you can see that uh we're going to be there will be prizes associated with that totaling over a hundred thousand dollars um you know across the the season so uh you"
+    },
+    {
+      "start": 1248.2,
+      "end": 1278.59,
+      "speaker": "SPEAKER_00",
+      "text": "know really excited to get more more users involved get more users exposed to hyper liquid and really you know you know also get your feedback and how to improve the product because we're just getting started here i see it i mean points program is definitely a classic and it's nice to see the community being extremely hyped up about uh these kind of incentives and and the referral programs and any sort of trading competitions so"
+    },
+    {
+      "start": 1278.59,
+      "end": 1309.17,
+      "speaker": "SPEAKER_00",
+      "text": "uh for hyperpit you guys recently released uh your pre -deposit liquid staking uh token which is be hype uh that was fully filled in like the first two to three weeks of release which you guys have accrued more than 100 million total value locked already uh i believe just last week you have also announced a raise in cap uh by another million hype so i mean right now we have a few um we"
+    },
+    {
+      "start": 1309.17,
+      "end": 1339.41,
+      "speaker": "SPEAKER_00",
+      "text": "have like uh kinetics k -hype which is extremely hyped and i think just yesterday or two days ago valentis uh announced announced that they have acquired stick type so do you want to share on why and how should users utilize b -hype and how b -hype is different from uh the other two known rst yeah sure so um maybe i'll start with it in"
+    },
+    {
+      "start": 1339.41,
+      "end": 1370.07,
+      "speaker": "SPEAKER_00",
+      "text": "terms of like the hyperbeat ecosystem and then expand from there so you know on hyperbeat for example on hp usdt we are running a bunch of different um strategies right like delta neutral trades and supplying into different markets and um you know on many of these legs you can on the spotlight hold uh let's say hype and then short the perp but on that spotlight we can also mint b -hype right and"
+    },
+    {
+      "start": 1370.07,
+      "end": 1400.45,
+      "speaker": "SPEAKER_00",
+      "text": "so as we scale our other products they actually work together where if you're holding spot hype you might as well hold the lst as well and so then you're earning the 2 .2 percent but it's also more capital efficient um so that's just one example of how it relates another example is you can use b -hype as collateral on hyperbeat pay um for those of you that don't know but you can actually take out credit on hyperbeat pay so let's say you've got like a million dollars of hype you"
+    },
+    {
+      "start": 1400.45,
+      "end": 1430.59,
+      "speaker": "SPEAKER_00",
+      "text": "can borrow from or borrow against that hype on hyperbeat pay so when you're actually spending in real life you're not selling your hype you're just borrowing against it and b -hype will be a white listed asset to do that um it is already and it will be part of etherfi's card um and on you know on the etherfi card you can do the same thing and borrow against it so it is intrinsically tied into the whole hyperbeat platform and the hyperbeat ecosystem"
+    },
+    {
+      "start": 1430.59,
+      "end": 1461.13,
+      "speaker": "SPEAKER_00",
+      "text": "and um it has and creates more efficiencies than i'd say any of the other lsts because of that um secondly on the hip3 side as you guys know you can deploy hip3 markets by taking um you know a certain amount of hype within the lst and provisioning that to deploy new markets but if you guys saw what we're doing with ventures and what we'll be doing with other hip3 players we basically come alongside an exchange and"
+    },
+    {
+      "start": 1461.13,
+      "end": 1491.23,
+      "speaker": "SPEAKER_00",
+      "text": "say hey guys um we know that your main problems are number one liquidity and number two actually sourcing the hype and so what we actually do for example in the ventures case is we would come alongside them and source liquidity by um into vlp from the open market and that solves a major problem because they'd have to pay for that and we just we just get it by by virtue of being big in the hyper"
+    },
+    {
+      "start": 1491.23,
+      "end": 1521.59,
+      "speaker": "SPEAKER_00",
+      "text": "liquid eco and then at the same time we can provision the hype um you know to ventures or to any other hip3 player that we end up partnering with and so what we end up doing is we solve the liquidity problem you solve the deployment problem and then there's further efficiencies on for example providing a staking code once that's live to reduce trading fees and in in general it makes b hype a lot more efficient um we're able to direct fees from our"
+    },
+    {
+      "start": 1521.59,
+      "end": 1551.73,
+      "speaker": "SPEAKER_00",
+      "text": "whole platform to be hype to make it the highest yielding lst and i'd say finally as far as we're aware we're the only lst that actually distributes the hype um fairly and equally amongst all the validators in the active set outside of the foundation nodes so um yeah hope that provides some context yep i think that's pretty clear i mean it's exciting to see what you guys are doing with behind and also"
+    },
+    {
+      "start": 1551.73,
+      "end": 1582.03,
+      "speaker": "SPEAKER_00",
+      "text": "kinetics fan around hit three with their launch so uh i i guess there's really a lot more products that can be built on top of uh the existing and it's nice to see uh what you guys are doing over here how many how much more can be done uh in the future so for texari i think uh you guys are nearing almost a billion dollars in trading volume um just"
+    },
+    {
+      "start": 1582.03,
+      "end": 1612.09,
+      "speaker": "SPEAKER_00",
+      "text": "a month or two after your launch so what's next on uh what's next on the horizon and what features can your users look forward to yeah no we've been really uh happy with our growth since our launch um you know a billion dollars of volume is is we got there faster than i expected us to and i think that just is a testament to you know how much our users have been sharing us around um which is great to see um really"
+    },
+    {
+      "start": 1612.09,
+      "end": 1642.29,
+      "speaker": "SPEAKER_00",
+      "text": "happy with that but uh at the end of the day it's just a number and we're really focused on like the longer term vision not necessarily any immediate you know temporary milestones uh and that's partially because we are going to be expanding beyond just trading like trading is currently the main feature with indexr we've been very focused on uh so far but i mentioned earlier we're about to launch hyper evm uh into our wallet which is a big uh sort of enabler for future use"
+    },
+    {
+      "start": 1642.29,
+      "end": 1672.45,
+      "speaker": "SPEAKER_00",
+      "text": "cases that we want to build into our app so you know the hyperb team for example has built a lot of great use cases uh on the hyper evm and so you know whether it's the lst or the you know tokenized hlp or whatever else uh we're gonna enable our users to interact with those directly from within our wallet um for the you know the best of the best hyper evm use cases we want those to be embedded within the dexari app and so what i'm really excited to see is once we start launching those embedded"
+    },
+    {
+      "start": 1672.45,
+      "end": 1702.47,
+      "speaker": "SPEAKER_00",
+      "text": "uh features within our wallet um you know how much more usage uh on the hyper evm continues to come over to dexari uh and and how easily users will be able to then migrate between hyper core for trading and then the hyper evm for these use cases uh from the dexari app because i think that's one of the great innovations the hyper liquid team has built is how easy it can be to kind of move between these these two parts of the ecosystem um such that you can do your"
+    },
+    {
+      "start": 1702.47,
+      "end": 1732.57,
+      "speaker": "SPEAKER_00",
+      "text": "trading in one spot and do your uh all the other you know great use cases in somewhere else but have it feel like it's all one ecosystem uh and and we want to enable all of that from dexari yep that's definitely nice here abstracting away the complexities of uh each user having to figure out protocols on hyper evm like um having having to bridge their hype over and then getting"
+    },
+    {
+      "start": 1732.57,
+      "end": 1763.19,
+      "speaker": "SPEAKER_00",
+      "text": "the most out of it uh it's nice to see that you guys are all integrating all of that and making it as simple as possible for users in one app so that they don't even have to leave dexari for that matter so both of you and both projects have definitely achieved a lot of success in such a short amount of time so what do you guys feel are the key factors behind so far as a community is"
+    },
+    {
+      "start": 1763.19,
+      "end": 1793.32,
+      "speaker": "SPEAKER_00",
+      "text": "it is it just you guys have done really well in terms of marketing or targeting users outside of hyperliquid to come on board yeah so what do you guys think are the key factors behind your success so far uh perhaps hyperbit can go first yeah sure um i think for us being early helps of course um but but again just focusing"
+    },
+    {
+      "start": 1793.32,
+      "end": 1823.46,
+      "speaker": "SPEAKER_00",
+      "text": "on what the users want and being proactive on twitter and discord and listening to what people want because you know the reality is you're not you're not building for yourself right like um users use a product because they enjoy it and they find value in it so um you know whenever you stray away from what the end user wants just making sure that that person is not like you know sort of becoming opinionated and not not listening right to what other people want um so i think"
+    },
+    {
+      "start": 1823.46,
+      "end": 1853.78,
+      "speaker": "SPEAKER_00",
+      "text": "like that's a north star and we find that like that's how we get more and more people to join i mean like hyperphilia across 10 000 active monthly active users um a few days ago and it's just because people wanted to track their portfolio and there was no clean way to do it high portfolio growth still continued right um which is sort of testament to the fact that people wanted to see their points in"
+    },
+    {
+      "start": 1853.78,
+      "end": 1884.0,
+      "speaker": "SPEAKER_00",
+      "text": "their portfolio and that's something we listened to and you know like i love dbank the bank's great but it's just an example to say that that was a requested feature and by building it it helped the product to grow and it helped it to get more adoption um yeah and i'd say like for any builder out there i would i would really just say like put your feet on the ground boots on the ground and get involved with the people that are using your product because that's"
+    },
+    {
+      "start": 1884.0,
+      "end": 1914.08,
+      "speaker": "SPEAKER_00",
+      "text": "that's always going to be the guiding line yeah definitely i was gonna say a lot of the same things there we uh we've been you know very grateful for all the feedback we get from our users um you know we launched our first you know beta or alpha version like in january i think of this year and we were slowly trickling it out to more and more users um making sure that with every user we got we also got a lot of feedback from them and that they"
+    },
+    {
+      "start": 1914.08,
+      "end": 1944.14,
+      "speaker": "SPEAKER_00",
+      "text": "told us what they wanted because we needed to refine this this over time to get it to a place where it's good enough for for really you know everyone to take a look at and something that we're proud of and something that we think creates the best mobile experience for hyperliquid and that wouldn't have been possible without the the feedback from our users so we've been very appreciative for the users so far uh and you know continue to ask them to provide feedback with us going forward and i think another big piece of success of"
+    },
+    {
+      "start": 1944.14,
+      "end": 1974.28,
+      "speaker": "SPEAKER_00",
+      "text": "you know i think both these teams is and others in the hyperliquid space is that the hyperliquid team themselves have sort of like set the stage for us all uh it's it's a unique ecosystem within crypto where the the playing field really does feel level and it feels like it's most likely that the best you know builders out there that are building the right products are going to win and that's not the case because you know there's you know behind the scenes deals or under the table things and i"
+    },
+    {
+      "start": 1974.28,
+      "end": 2004.66,
+      "speaker": "SPEAKER_00",
+      "text": "don't need to go into detail on all the things that you know we're having working at a centralized exchange you can see behind the scenes but in an ecosystem like hyper liquid where the low like like i said it's a level playing field the best projects will win out um in the long run um and it's it's a really great place to be building so uh yeah there's a lot of great builders already and then there will be more to enter and it'll just continue to grow the space to make the space So yeah, I think it's really just a great time"
+    },
+    {
+      "start": 2004.66,
+      "end": 2035.64,
+      "speaker": "SPEAKER_00",
+      "text": "to be building in Hyperloop in my opinion Yep, totally agree with you both that the community is a huge piece of this And your users kind of make up what the app becomes And I think that's pretty prevalent throughout the top few projects on Hyper -EDM Whereby you guys really build for the end user You guys are really on the ground listening to what users feedback Listening to"
+    },
+    {
+      "start": 2035.64,
+      "end": 2065.76,
+      "speaker": "SPEAKER_00",
+      "text": "what they want from your product And bidding towards their suggestions So that's something definitely very nice to see And you don't really get much of that in other ecosystem, honestly We don't have that easy access to the founders Exactly Exactly but on hyper liquid even reaching the official teams or other projects building on hyper abm that's readily available and your feedback will"
+    },
+    {
+      "start": 2065.76,
+      "end": 2096.79,
+      "speaker": "SPEAKER_00",
+      "text": "always be heard so it's pretty nice to see both of you guys thriving so far and and what makes up the entire ecosystem uh so successful so on this side of things um hyper big you guys also recently concluded uh your fundraising round which you have announced um you've you've done around with us on echo as well uh how do you guys plan to allocate a capital and what do you guys uh yeah"
+    },
+    {
+      "start": 2096.79,
+      "end": 2126.86,
+      "speaker": "SPEAKER_00",
+      "text": "how do you guys plan to allocate a capital and what do you plan to do with that money right now yeah sure so um you know as as you guys know we were self -funded uh up until like 300 and i think 30 million dollars in tbls so the funding round was not necessarily there for us because we were like struggling to make money um hyper beat is quite profitable as a protocol and you know the vision is to use"
+    },
+    {
+      "start": 2126.86,
+      "end": 2156.98,
+      "speaker": "SPEAKER_00",
+      "text": "that to buy back the token in the future and um you know the raise was part of like a bigger vision of us realizing that like hey there is still so much to build on hyper liquid and um like the vision is so big that we we need to bring on the right team members right then we need to bring on the right people for us to get there and for us to scale to that point um we still believe that a team should not be bigger than the hyperliquid core"
+    },
+    {
+      "start": 2156.98,
+      "end": 2187.06,
+      "speaker": "SPEAKER_00",
+      "text": "team so if they are 11 people we should not be more than 11 people and we should we should aim to hire the right people i guess to to build what we need to so um yeah in terms of what we're using it for it's just for more hiring um but yes we we do not plan to burn it all um in the sense of like just like spend in a bad way but um we will be accumulating hype with a portion of that"
+    },
+    {
+      "start": 2187.06,
+      "end": 2217.24,
+      "speaker": "SPEAKER_00",
+      "text": "and um yeah just just setting us ourselves up so that we can keep scaling and growing hyperliquid nice great to hear i think the hyperliquid official team definitely set a high benchmark for everyone to follow so it's nice to see uh we're striving for that sort of standards as well um so i believe that sorry you guys raised uh three or four months"
+    },
+    {
+      "start": 2217.24,
+      "end": 2247.68,
+      "speaker": "SPEAKER_00",
+      "text": "ago it's a bit of a long time in crypto so uh memory might be a bit blur but i think it was lemniscap who led the round and perhaps one or two more off the top of my head i can't remember exactly but uh do you want to share a bit on how the capital has been allocated thus uh have in store for the next few months to the next year yeah uh yeah the the round was uh"
+    },
+    {
+      "start": 2247.68,
+      "end": 2277.7,
+      "speaker": "SPEAKER_00",
+      "text": "our seed round led by uh prelude and lemniscap as the two um bc's but we also had a a good chunk of that allocated to sort of angel investors and hyperliquid whales uh in this space so we wanted to make sure we got a community aspect of it as well uh and you know our focus since the has been um you know scaling up the team a little bit but like 800 said it's it's not like we need an enormous team if you're if you look at you know hyperlocal they've been able to achieve so we're trying"
+    },
+    {
+      "start": 2277.7,
+      "end": 2307.92,
+      "speaker": "SPEAKER_00",
+      "text": "to you know replicate that to an extent but um we expanded beyond the founders and the initial core team there with a couple additional hires but really the goal here is to enable us to launch features uh faster and and run things in parallel such that we don't have to you know launch features one by one but rather just you know multiple features running in parallel and so that becomes increasingly relevant now that we are approaching the launch of hyper evm and that unlocks a lot more really"
+    },
+    {
+      "start": 2307.92,
+      "end": 2338.0,
+      "speaker": "SPEAKER_00",
+      "text": "exciting features that we can add within the app because you know as i mentioned earlier there's lots of great hyper evm projects out there and we want to make sure that you know as use cases get proven out and users really want you know lsts or you know vaults or you know other things um on the hyper evm that we could quickly launch them uh into dexra uh directly so uh that's the main use of of what we're using the funds for but you know similar to put 800 said it's not that we like necessarily needed"
+    },
+    {
+      "start": 2338.0,
+      "end": 2368.71,
+      "speaker": "SPEAKER_00",
+      "text": "the money we're also starting to take in money since our launch a month ago but um it's really just to make sure that we can you know grow grow dexra's platform as fast as we can yep great to hear um perhaps to just uh close things off yeah i think i would say that um like a lot of the aspects of hyper evm are you guys are you both most excited about it what do you guys believe could serve as the catalyst"
+    },
+    {
+      "start": 2368.71,
+      "end": 2398.81,
+      "speaker": "SPEAKER_00",
+      "text": "for the next huge influx of user activity um 800 do you want to go first yeah i think the launch of usdc is going to be big um you know we've all been waiting waiting on this for a while and um it's been announced and now we are Um, when it finally gets deployed, um, you know, I do think that it's going to bring in a lot of users. Um, it's going"
+    },
+    {
+      "start": 2398.81,
+      "end": 2429.69,
+      "speaker": "SPEAKER_00",
+      "text": "to bring an unlock a lot of the stables that are still in us to see on hyper core. And I'm hoping that at the same time, the hyper liquid team, you know, makes that, uh, you know, makes it a bit more obvious to users on how you can like transfer from hyper core to hyper EVM, um, and somehow, you know, help helps to guide users on the, on that journey. Um, because I think once that happens, we'll see a lot of liquidity grow on,"
+    },
+    {
+      "start": 2429.69,
+      "end": 2459.71,
+      "speaker": "SPEAKER_00",
+      "text": "uh, on hyper EVM. And I think when there's more stable core liquidity, that will have like a knock on effect to try and get more hype to move from hyper core to hyper EVM. Cause we still have like a very small portion, um, of the total circuit. Letting hype supply, uh, that's actually on hyper EVM. So, um, I do think that like once USDC is there, it, it is going to start by creating juicy yields and that can entice more hype"
+    },
+    {
+      "start": 2459.71,
+      "end": 2489.82,
+      "speaker": "SPEAKER_00",
+      "text": "to, to move over. Um, so yeah, I think that's like one immediate thing that, uh, is going to, going to actually move the needle. Yeah. I think, uh, I was going to mention the interaction also between hyper core and hyper EVM. Which is such a big part of what we're building towards at Dexari. I think, yeah, the USDC launch on hyper EVM is huge. Um, but then at the same time, there's also the recent announcement on hyper core"
+    },
+    {
+      "start": 2489.82,
+      "end": 2519.82,
+      "speaker": "SPEAKER_00",
+      "text": "of, you know, there's now hype USDT as a pair on the spot market, which is huge as well. And I, I expect that to expand, uh, both with more USDT pairs, but also, um, you know, if more quoted, uh, or more assets can be quoted in other stable coins too. Um, all of this. You know, paired with the USDC being at the hyper EVM, we'll just increase the ability and ease of transition between hyper core and hyper EVM, uh, and you know, that"
+    },
+    {
+      "start": 2519.82,
+      "end": 2550.36,
+      "speaker": "SPEAKER_00",
+      "text": "interaction back and forth, making it super easy and seamless, uh, we'll just continue to make this way, way better of an ecosystem because, um, right now, or at least to date, it's not been the easiest thing to do. Um, as, as 800 pointed out, it's, it's, it's probably limited how much hype is really gone to the hyper EVM versus stay on hyper core, but that, um, will no longer be a barrier going forward. Um, and then on top of that, things like, you know, increasing the, the listings, um,"
+    },
+    {
+      "start": 2550.84,
+      "end": 2580.74,
+      "speaker": "SPEAKER_00",
+      "text": "with HIP threes launch and I'm sure future HIP through, uh, HIPs that the team will launch just continuing to grow and grow and grow, um, uh, the pairs on hyper core, the markets that can be traded and also how that can then interact with the hyper EVM, all of that's, you know, very, very important. Very exciting to me and the Dexara team. Cool. Yeah. Uh, I mean, yeah, I think everyone is extremely excited and"
+    },
+    {
+      "start": 2580.74,
+      "end": 2611.42,
+      "speaker": "SPEAKER_00",
+      "text": "also perhaps finally a bit of relief that USDC is finally coming on board on hyper EVM. Yes. Took them ages. Uh, not sure what's holding them back, but, but it's definitely nice to see them announcing it two or three weeks ago, uh, and, and showing their intentions. Uh, for hype. Uh, I think that's definitely going to be a game changer in due time. Uh, I think the 24 hours volume is still pretty, uh, little"
+    },
+    {
+      "start": 2611.42,
+      "end": 2641.7,
+      "speaker": "SPEAKER_00",
+      "text": "so far. Uh, it's, it's kind of not meaningful compared to, um, even the, even like per token against USDC. Uh, but, but I think that will eventually pick up and definitely excited to see more, um, assets quarter in USDT eventually. Which I think that will allow a lot more, uh, capital influx into HyperCore and Hyper EVM. I think that's pretty much,"
+    },
+    {
+      "start": 2641.76,
+      "end": 2681.45,
+      "speaker": "SPEAKER_00",
+      "text": "uh, the end of our AMA. I'll just open a floor to users. Um, if they have any questions for Dexari and Hyperbit, if you want to learn more about the products or, uh, any specific question, um, please feel free to raise your hands. Come on"
+    },
+    {
+      "start": 2681.45,
+      "end": 2711.67,
+      "speaker": "SPEAKER_00",
+      "text": "guys. Ask a question. I think you guys did an extremely good job in explaining everything. No one is raising their hand. Okay. Maybe I have a question for the community. What is one thing you guys want to see built that has not been built yet? Okay. Uh, someone requested to speak. I'm not sure if"
+    },
+    {
+      "start": 2711.67,
+      "end": 2742.75,
+      "speaker": "SPEAKER_00",
+      "text": "he's going to answer the question or ask you guys a question, but I'll just put him on stage. Uh, Martin, you're on, I believe. Okay. Uh,"
+    },
+    {
+      "start": 2743.11,
+      "end": 2772.84,
+      "speaker": "SPEAKER_00",
+      "text": "perhaps he booted himself out. Uh, oh, I think he's back on, uh, Martin I, I think you, yep. Um, yeah. Um, am I audible? Yep. You are. Okay. Um, GM guys. Um, okay. Um, I'll just get right into it. Um, this is my first time hearing about Dexari"
+    },
+    {
+      "start": 2772.84,
+      "end": 2803.16,
+      "speaker": "SPEAKER_00",
+      "text": "and HyperCore. And, you know, 800 and Xari has done a good job in explaining what it's all about. And, you know, it's quite a beautiful thing to look at. So I just got one question, just one. And it stems from where he said, oh, they're going to, you know, be putting out educational content because, you know, don't want to like get people on board. So how can"
+    },
+    {
+      "start": 2803.16,
+      "end": 2833.18,
+      "speaker": "SPEAKER_00",
+      "text": "I get educational resources to, you know, better use Xari? Do you have them on YouTube or on your community? How can I get the educational resources or how can people get it? Yeah, sure. There you go. Yeah, I'll quickly. So. Xari, you can download from either"
+    },
+    {
+      "start": 2833.18,
+      "end": 2863.44,
+      "speaker": "SPEAKER_00",
+      "text": "the App Store or Play Store. And when you do on board, there is a bit of a like guide and how to get started. There's like, you know, five steps that are shown on the home page right as you log in. So that's one place. We also have a docs page on our website where you can kind of read about more details about how things work. We also have lots of posts on our X page. Including some videos on how things work. So those are the places I'd"
+    },
+    {
+      "start": 2863.44,
+      "end": 2894.63,
+      "speaker": "SPEAKER_00",
+      "text": "direct you to first. Oh, and also we have a discord page where people ask questions and there's a community that can help you with anything you have questions about. And we'll continue to grow and expand what we're posting educational content wise, because it's very important to make sure that folks are not confused as they get on board. But we try to make it as simple as possible. And sorry for cutting you off 800. No, all good. Okay, okay. Okay, thanks a lot. That kind of sums it up because, yeah."
+    },
+    {
+      "start": 2896.85,
+      "end": 2925.05,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, okay. I want to say something else, but I promise you just only one question. But thanks a lot because I'm definitely going to be, I think I give you, okay, I'm giving you guys a follow and I'm going to, you know, download the app and check it out. Because I'm also like a very, very proactive hyper liquid maxi. You know, I'm definitely going. I'm definitely going to check it out and probably write a few traits about, you know, you"
+    },
+    {
+      "start": 2925.05,
+      "end": 2955.11,
+      "speaker": "SPEAKER_00",
+      "text": "guys and, you know, but thanks a lot. Thanks a lot for answering my question. That's all. All right. Thank you, Martin. I think that can be sort of, that's sort of what HyperCode does as well. We recently put up a few research pieces on HyperEVM protocols. So, and that's sorry. And HyperBit is. That's me like a bit of the how to use the protocols."
+    },
+    {
+      "start": 2955.99,
+      "end": 2985.56,
+      "speaker": "SPEAKER_00",
+      "text": "That's our 101 HyperBit 101 will definitely be work on in the coming weeks and we'll publish that hopefully helping more users to be more familiar with the front ends or different sort of protocols on HyperEVM. Zuby up next. I presume you have a question. Hello, guys. Jam. Okay. I'll try to join the space late."
+    },
+    {
+      "start": 2986.54,
+      "end": 3017.92,
+      "speaker": "SPEAKER_00",
+      "text": "So I only have one question to ask. It takes our team. It's a question the community members are always asking. And I want to know how often the point system will be updated. That's all I want to know. The points. So we launched the season one of points last week. Points will be distributed once a week. I believe on Wednesday. So. That should happen today. Yeah,"
+    },
+    {
+      "start": 3018.0,
+      "end": 3056.8,
+      "speaker": "SPEAKER_00",
+      "text": "that's the quick answer there. All right. Thank you very much. I didn't agree. Job. I'll probably just open the floor up for another 1020 seconds. If anyone else has a question, please feel free to request to speak. All right."
+    },
+    {
+      "start": 3056.82,
+      "end": 3087.18,
+      "speaker": "SPEAKER_00",
+      "text": "I think that probably is it. You can conclude that you and me here. Thank you both. Thanks. Sorry. And I have a bit for coming on board today for those of you who are looking for a mobile front end. And I think this was a bit of an experience. I feel free to check out XRE for those of you who wants to make who wants to get the most out of your assets. Feel free to check out hyperbit. They have a variety of folks catered to you generation and making the most out of your assets."
+    },
+    {
+      "start": 3088.5,
+      "end": 3110.64,
+      "speaker": "SPEAKER_00",
+      "text": "So, yeah. Thank you both. Thanks a lot for having me on. It's great to be on and share the stage with such a great team. And Hyperbeat. So. Thanks a lot. Bye. cool same same for you and uh thanks hypercurve for arranging this thank you goodbye just guys"
+    }
+  ],
+  "speaker_map": {}
+}

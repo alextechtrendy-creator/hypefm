@@ -10,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 ARCHIVE = ROOT / "archive"
 TEAMS_FILE = ROOT / "teams.json"
+HOSTS_FILE = ROOT / "hosts.json"
 SITE = ROOT / "site"
 SITE_ARCHIVE = SITE / "archive"
 SPACES_JSON = SITE / "spaces.json"
@@ -23,7 +24,14 @@ def load_teams() -> dict:
     except Exception as e:
         print(f"warn: could not parse teams.json: {e}")
         return {}
-
+def load_hosts() -> dict:
+    if not HOSTS_FILE.exists():
+        return {}
+    try:
+        return json.loads(HOSTS_FILE.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"warn: could not parse hosts.json: {e}")
+        return {}
 
 def main():
     if not ARCHIVE.exists():
@@ -31,6 +39,7 @@ def main():
         sys.exit(1)
 
     teams = load_teams()
+    hosts = load_hosts()
     entry_dirs = sorted([d for d in ARCHIVE.iterdir() if d.is_dir()])
     print(f"Scanning {len(entry_dirs)} archive entries...")
 
@@ -76,6 +85,12 @@ def main():
                     "website": None,
                     "description": None,
                 }
+        host_info = None
+        host_name = meta.get("host_username")
+        if host_name:
+            h = hosts.get(host_name)
+            if h and h.get("logo"):
+                host_info = {"logo": h.get("logo"), "display_name": h.get("display_name") or host_name}
 
         spaces.append({
             "id": meta.get("space_id"),
@@ -90,6 +105,7 @@ def main():
             "quote": meta.get("pull_quote"),
             "quote_attribution": meta.get("quote_attribution"),
             "team_info": team_info,
+            "host_info": host_info,
             "participants": meta.get("participants", []),
             "_transcript": transcript_text,
         })

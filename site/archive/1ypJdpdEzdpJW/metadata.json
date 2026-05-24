@@ -1,0 +1,84 @@
+{
+  "space_id": "1ypJdpdEzdpJW",
+  "title": "HypurrCo AMA Series: Solv Protocol & Upcoming TGE",
+  "state": "ended",
+  "created_at": "2025-01-11T08:41:21Z",
+  "started_at": "2025-01-16T14:02:04Z",
+  "ended_at": "2025-01-16T14:38:41Z",
+  "scheduled_start": "2025-01-16T14:00:00Z",
+  "lang": "pt",
+  "is_ticketed": false,
+  "participant_count": 568,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Solv Protocol",
+      "handle": "SolvProtocol",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Catherine Chan",
+      "handle": "catwychan",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ypJdpdEzdpJW",
+  "summary_title": "Solv Protocol brings Bitcoin yield to Hyperliquid, Binance launch tomorrow",
+  "summary_description": "On-chain Bitcoin reserve with 2.5B TVL launches dual listing. How Solve abstracts staking complexity for conservative Bitcoin holders.",
+  "topic_tags": [
+    "ecosystem",
+    "listings",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 211,
+      "label": "Solve launching on Binance and Hyperliquid this week"
+    },
+    {
+      "timestamp_seconds": 363,
+      "label": "Catherine introduces Solve: on-chain Bitcoin reserve with 1,000 BTC"
+    },
+    {
+      "timestamp_seconds": 423,
+      "label": "Solve live on 16+ chains, Bear Chain vault hit 100M TVL in 3 days"
+    },
+    {
+      "timestamp_seconds": 574,
+      "label": "Solve's mission: risk-adjusted Bitcoin denominated returns for holders"
+    },
+    {
+      "timestamp_seconds": 1149,
+      "label": "Solve BTC solves liquidity fragmentation across wrapped Bitcoin variants"
+    },
+    {
+      "timestamp_seconds": 1481,
+      "label": "Season One points program complete, Season Two live, airdrop checks today"
+    },
+    {
+      "timestamp_seconds": 1603,
+      "label": "Four token functions: governance, staking, fee discounts, Bitcoin reserve offering"
+    },
+    {
+      "timestamp_seconds": 1727,
+      "label": "Binance listing tomorrow 6pm Singapore time, Hyperliquid 30min-1hr delay"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Solv Protocol",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2190.7413125,
+  "capture_failure_reason": null
+}

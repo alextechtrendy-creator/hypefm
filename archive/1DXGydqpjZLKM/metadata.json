@@ -1,0 +1,78 @@
+{
+  "space_id": "1DXGydqpjZLKM",
+  "title": "HypurrCo AMAs: Fractality prev. Y2K Finance and their Fjord Raise",
+  "state": "ended",
+  "created_at": "2025-01-28T10:15:08Z",
+  "started_at": "2025-02-04T14:00:31Z",
+  "ended_at": "2025-02-04T14:34:09Z",
+  "scheduled_start": "2025-02-04T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 178,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Crypwalk",
+      "handle": "Crypwalk_240",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DXGydqpjZLKM",
+  "summary_title": "Y2K's $7M rebrand to Fractality: market-neutral yield on Hyperliquid EVM",
+  "summary_description": "Insurance protocol pivots to tokenized yield strategy; $1M community raise on Feb 8.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "funding"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 267,
+      "label": "Hypercollective intro: validators, directory, EVM testnet, IRL events"
+    },
+    {
+      "timestamp_seconds": 390,
+      "label": "Fractality guest intro: lending protocol with composite yield strategies"
+    },
+    {
+      "timestamp_seconds": 533,
+      "label": "Market-neutral yield via basis trading and DEX liquidity provisioning"
+    },
+    {
+      "timestamp_seconds": 594,
+      "label": "Y2K history: $100M volume in stablecoin insurance, pivot rationale"
+    },
+    {
+      "timestamp_seconds": 804,
+      "label": "Rebrand drivers: vertical saturation, degen branding, institutional focus"
+    },
+    {
+      "timestamp_seconds": 1077,
+      "label": "Dynamic algorithm reduces drawdown risk to 2% while capturing yield upside"
+    },
+    {
+      "timestamp_seconds": 1319,
+      "label": "Jarvis AI agent: natural language interface for cross-chain yield aggregation"
+    },
+    {
+      "timestamp_seconds": 1562,
+      "label": "$1M raise at $7M FDV, 14.5% token supply; liquidity focus"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Fractality",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2007.2533125,
+  "capture_failure_reason": null
+}

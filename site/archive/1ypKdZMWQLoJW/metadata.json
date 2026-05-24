@@ -1,0 +1,102 @@
+{
+  "space_id": "1ypKdZMWQLoJW",
+  "title": "HypurrCo AMAs: Hyperlend - What’s Coming?",
+  "state": "ended",
+  "created_at": "2025-04-04T12:13:15Z",
+  "started_at": "2025-04-15T14:00:44Z",
+  "ended_at": "2025-04-15T14:43:08Z",
+  "scheduled_start": "2025-04-15T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 275,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "rootio.hl",
+      "handle": "cryptobuddy777",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Sukuna.hype",
+      "handle": "0xRyomenSukuna",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "kirbycrypto",
+      "handle": "kirbyongeo",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "EzPairs",
+      "handle": "EzPairs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "HyperLend",
+      "handle": "hyperlendx",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ypKdZMWQLoJW",
+  "summary_title": "HyperLend brings Aave's battle-tested lending to Hyperliquid EVM",
+  "summary_description": "Money market fork licensed by Aave, audited three times, enabling looping strategies and perpetual positions as collateral.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "vaults"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 171,
+      "label": "Hyper Collective intro: validators, events, content"
+    },
+    {
+      "timestamp_seconds": 292,
+      "label": "Ness introduces HyperLend: Aave fork on Hyperliquid EVM mainnet"
+    },
+    {
+      "timestamp_seconds": 413,
+      "label": "HyperLend vision: banking infrastructure for Hyperliquid EVM"
+    },
+    {
+      "timestamp_seconds": 686,
+      "label": "Current collateral: staked Hype, Hype, units BTC; planning USDC, USDT, kHype"
+    },
+    {
+      "timestamp_seconds": 777,
+      "label": "Looping strategy: 40% APY on staked Hype via borrow-swap loop"
+    },
+    {
+      "timestamp_seconds": 1049,
+      "label": "Roadmap: liquid perpetual positions and liquid HLP vault"
+    },
+    {
+      "timestamp_seconds": 1414,
+      "label": "Points program mirrors Hyperliquid: early TVL deposits rewarded more"
+    },
+    {
+      "timestamp_seconds": 1506,
+      "label": "Competitive edge: officially Aave-licensed, three audits, MakerDAO risk team"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "HyperLend",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2538.5813125,
+  "capture_failure_reason": null
+}

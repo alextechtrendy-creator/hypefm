@@ -1,0 +1,90 @@
+{
+  "space_id": "1ynJOlRavPAxR",
+  "title": "HypurrCo AMAs: Bridging with Jumper Exchange",
+  "state": "ended",
+  "created_at": "2025-06-18T00:37:17Z",
+  "started_at": "2025-06-24T12:01:06Z",
+  "ended_at": "2025-06-24T12:45:45Z",
+  "scheduled_start": "2025-06-24T12:00:52Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 143,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "as required.",
+      "handle": "0xasrequired",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Jumper",
+      "handle": "jumperapp",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Robert ⟠ | Polaris",
+      "handle": "0xluude",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ynJOlRavPAxR",
+  "summary_title": "Jumper brings 52 chains to Hyperliquid: $3M volume in first week",
+  "summary_description": "Bridge and DEX aggregator Jumper integrated Hyperliquid, already ranking top 6 destination with strong cross-chain inflows.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "execution"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 457,
+      "label": "Jumper introduction: 52 chains, 20 bridges, 16 DEX aggregators"
+    },
+    {
+      "timestamp_seconds": 821,
+      "label": "$3M volume in seven days, ranked top 6 destination chain"
+    },
+    {
+      "timestamp_seconds": 1035,
+      "label": "Arbitrum seeing most outflows; Bearer chain pivoting to Hyper-EVM"
+    },
+    {
+      "timestamp_seconds": 1219,
+      "label": "USDT Zero native minting makes bridging more efficient than competitors"
+    },
+    {
+      "timestamp_seconds": 1400,
+      "label": "Hyperliquid's anti-cabal culture and no-insiders policy set it apart"
+    },
+    {
+      "timestamp_seconds": 1611,
+      "label": "Community-driven dev rel: Pear Protocol hosted Hyperliquid UK event unpaid"
+    },
+    {
+      "timestamp_seconds": 2124,
+      "label": "Jumper Earn launching: cross-chain yield zaps directly into pools"
+    },
+    {
+      "timestamp_seconds": 2247,
+      "label": "Jumper Loyalty Pass reputation system with exclusive partner perks"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Jumper",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2680.8746875,
+  "capture_failure_reason": null
+}

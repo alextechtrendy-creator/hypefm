@@ -1,0 +1,139 @@
+# Y2K's $7M rebrand to Fractality: market-neutral yield on Hyperliquid EVM
+
+_Insurance protocol pivots to tokenized yield strategy; $1M community raise on Feb 8._
+
+**Host:** @hypurr_co
+**Date:** 2025-02-04
+**Duration:** 33:27
+**Tags:** vaults, ecosystem, funding
+**Source:** https://x.com/i/spaces/1DXGydqpjZLKM
+
+## Who's talking
+
+- **HypurrCollective.hl 🐱** (@hypurr_co) _host_
+- **Crypwalk** (@Crypwalk_240) _guest_
+
+## Key moments
+
+- **[4:27]** Hypercollective intro: validators, directory, EVM testnet, IRL events
+- **[6:30]** Fractality guest intro: lending protocol with composite yield strategies
+- **[8:53]** Market-neutral yield via basis trading and DEX liquidity provisioning
+- **[9:54]** Y2K history: $100M volume in stablecoin insurance, pivot rationale
+- **[13:24]** Rebrand drivers: vertical saturation, degen branding, institutional focus
+- **[17:57]** Dynamic algorithm reduces drawdown risk to 2% while capturing yield upside
+- **[21:59]** Jarvis AI agent: natural language interface for cross-chain yield aggregation
+- **[26:02]** $1M raise at $7M FDV, 14.5% token supply; liquidity focus
+
+## Transcript
+
+**[0:52] SPEAKER_00:** GM, GM, we'll just wait a while more. Usually we'll start five minutes after our scheduled time. So yeah, we'll just wait a little longer and let more people join. All right,
+
+**[4:27] SPEAKER_00:** GM, welcome back to another episode of Hyperco AMA. For those who are still unfamiliar with Hypercollective, basically we are a collective of founders, builders, traders and power users who all work together hand in hand to contribute towards Hyperliquid's ecosystem growth and projects. So I think a few notable initiatives that we have done. So for us, number one
+
+**[4:58] SPEAKER_00:** is our mainnet validator set that is currently the leading stake validator in collaboration with Nansen. With that, we've also secured multiple airdrops from different project teams for our stakers. So the other initiatives that we have is also our ecosystem directory, which has a list of projects that are building on the Hyperco. We have a hyper EVM testnet currently
+
+**[5:28] SPEAKER_00:** and will be live on the hyper EVM mainnet very soon. I think another very prevalent initiative is also in real life community events that we are hosting. We have hosted two in real life events last year at DEF CON and Token 2049, and we are going to be hosting a few more in the span of the next four to six weeks -ish. The very first one will be in Singapore
+
+**[5:58] SPEAKER_00:** and then at Consensus Hong Kong and then at EVE Denver. We have a lot more initiatives that we're doing and we have done. I think most people refer to our weekly wrap -ups as well for all things happening within the Hyperliquid ecosystem. We have ecosystem guides, project guides, AMAs like this with projects to kind of shine more spotlight on projects
+
+**[6:30] SPEAKER_00:** that are building on Hyper -EVM. So these are a few of our main hyper -collective initiatives and what we do over here. So today we have Fractality, a lending protocol that allows users to earn you through their various strategies. We have... We have CryptoWalk with us. So why don't you share more about Fractality and also yourself. Thanks
+
+**[7:01] SPEAKER_00:** for having me, first of all. And thanks everybody for showing up. I'm Crypt. I've been working in DeFi since about 2021. I was originally... Sorry, Crypt.
+
+**[8:24] SPEAKER_00:** You're actually a bit muffled and soft on my end. I'm not sure if that's the case for everyone else. I think you might be a bit far away from your mic. Sorry, is this better? Yep. This is better. Are you able to hear me from here? Yep, this is good. Yeah, so I was saying with Fractality, we offer market neutral yield
+
+**[8:53] SPEAKER_00:** through a composite strategy that we run from basic trading on perpetual exchanges to protecting the market -neutral market. and liquidity on decentralized exchanges like uniswap as well as um you know providing liquidity and composite pools like hlp jlp and glp and we return this yield to the user in our receipt token which is fr usdt and we've been live on arbitrum since about september in our beta phase and we'll be live on hyperliquid
+
+**[9:23] SPEAKER_00:** evm uh when the chain launches on day one nice i i think uh some might not know about how y2k has evolved into a fractality so could you share a bit more about uh maybe a quick brief history of y2k and what's the reason behind um y2k's uh rebrand into fractality absolutely uh yeah so you know y2k was originally uh a
+
+**[9:54] SPEAKER_00:** protocol on arbitrum we launched two years ago and what we did was we offered insurance on stablecoin db pegs and that product was a really good product in you know like the pico bear market uh especially around the time that ftx collapsed we saw a lot of volume we did about a hundred hundred million dollars of worth of volume in those vaults um and you know those big events like uh you know the svb uh bank collapse and then also the ftx class were you know big days for us as
+
+**[10:24] SPEAKER_00:** well uh and you know that was in the period where there was a little bit more uncertainty around stablecoin db coins and uh you know also there was more appetite for these kind of hedge products in the bear market uh but you know what we started to realize around a year ago was that uh the market had evolved and you know essentially the stable coins that were able to survive you know were able to put in measures and uh that allowed people to have more
+
+**[10:54] SPEAKER_00:** trust in those stable coins and the market sentiment in general was a lot more bullish and uh you know that meant there was a glass ceiling on that insurance vertical where you know there was less you know demand for uh essentially insurance on the downside of stable coins uh so you know we on our end you know started thinking about you know how sustainable the vertical would be uh but luckily enough on the team we had a bunch of quants that you know originally their function
+
+**[11:24] SPEAKER_00:** for our team was to come up with strike prices for the stablecoin insurance product but they also managed our treasury and our treasury management strategy included a lot of the things that we do now with fatality like basis trading uh at that point it was on sexes um as well and some decentralized exchanges as well as well as um lping on uni v3 within um you know within a couple of ranges um and providing liquidity on you know pretty much other platforms where we're
+
+**[11:54] SPEAKER_00:** able to create a back -end system that allows us to have access to good yield opportunities and be able to get uh delta neutral exposure so that we were able to grow the treasury um and you know still kind of put a downside or you know eliminate the risk of losing our principal in general so we thought this product was something that we can tokenize and offer to the barter ecosystem uh you know from our personal experience we understand how the more difficult it is to actually go out
+
+**[12:24] SPEAKER_00:** there and have the infrastructure to manage a portfolio of these kind of yield strategies on your payroll and um and we know that uh you know there's a lot of work that goes into creating the data infrastructure to you know be able to keep track of all the positions and then the management as well of kind of moving funds from one place to another and then the you know technical aspect of making sure that you have algorithms that allow you to keep that delta neutral exposure so that you know when things turn volatile you're able to you
+
+**[12:54] SPEAKER_00:** know limit the downside or eliminate it completely right so um basically we decided that that was going to be a much more sustainable product for us to move forward with, considering the kind of market environment we're in. And we decided to completely rebrand around last summer, and completely went from Y2K to Fractality and focus our business activities on around offering this tokenized product to the ecosystem. And we had been on hyperliquid, you know, we're
+
+**[13:24] SPEAKER_00:** a fan of the DEX, the PERP, the PERP DEX, UX was probably the best in the game, and we were really bullish on the team. And we thought that, you know, we're going to build on a chain and move on from arbitrum, you know, hyperliquid probably would be the chain to bet on, right, considering the talent of the team and the strength of the community as well. And again, the product itself was, has been, in my opinion, one of the best products
+
+**[13:54] SPEAKER_00:** in DeFi over the last year or so. So we decided to, you know, buy, participate in the token auction around July, to buy a token for a ticker for our FRCT token, which would be the new token for Fractality. And since then, we've been working towards getting ready for the hyper EVM launch, and also migrating our token from arbitrum to the hyperliquid spot order book. Nice.
+
+**[14:26] SPEAKER_00:** I think that's a very comprehensive overview. Why did this happen? Well, first of all, you know, I think it was a decision to switch from a stablecoin pack insurance protocol, which you guys were extremely good at into a lending protocol. I mean, you didn't mention about market conditions, but is there any reason why you do not want to continue using Y2K's brand on hyper EVM? Yeah, so I mean, there's two questions there, right? Number one was just the vertical of options and, you
+
+**[14:56] SPEAKER_00:** know, stablecoin insurance, right? So, and some of that business vertical itself, right? You know, we were essentially the only protocol offering that service. And, you know, when you're in a vertical where you don't get a lot of competition, that's, you know, usually a bare signal about that vertical in general, as well as the kind of mechanism that we use to deliver those insurance policies was essentially an option style, you know, asset, and we hadn't seen a lot of good performance from options platforms in general. So a couple
+
+**[15:26] SPEAKER_00:** of things put together, you know, it's forced us to think about our product. You know, objectively, right, and make tough decisions about, you know, moving forward, you know, how we wanted to, what kind of product we want to deliver to the market moving forward, and what would allow us to grow more sustainably. And it's another brand, right? As well, you know, we love Y2K, I think, you know, a lot of people on the team, we felt like a big strength of ours outside just the product itself. And the innovative idea of offering insurance with stablecoins was just the branding. We always got a lot of compliments on
+
+**[15:56] SPEAKER_00:** it. But it was, you know, to be honest, you know, super degen, right? Smiley face with a blood splatter on it. And we felt that, you know, this product that we would offer going forward, you know, we'd try to cater to a much broader audience, as well as, you know, cater to new interest into the market, which we felt like some would be, you know, there are still kind of just a retail type crowd that, you know, would be coming in, because obviously, Bitcoin is 100k, and there's more budget micro crypto. But we've also, you know, from our circles, and what we've seen,
+
+**[16:27] SPEAKER_00:** there's also a bigger institutional presence, right? You know, frankly speaking, right, having a protocol where the face of the protocol is a smiley face with a blood splatter on it, isn't the most bullish thing in that kind of environment, right? So those things on the business and the branding side is why we pivoted the business operations and the brand to Fractality, which you see right now. So moving forward, Fractality as a lending protocol, how do you aim to deliver
+
+**[16:56] SPEAKER_00:** high yield with low risk and cost? Oh, as I said before, right? So what we do is we run a market neutral strategy, right? And a big leg of the strategy is the basis trade. Once we're natively on hyper EVM, a lot of that would be using hype for the basis trade right now. We do it with ETH and Bitcoin and then as well as deploying capital on protocols, number
+
+**[17:27] SPEAKER_00:** one, which we feel the contracts are safe and makes sense for people that deposit to our protocol so that we don't expose them to, you know. And it's also been an amount of smart contract risk as well as, you know, those protocols on that same matrix being able to offer security and a good amount of yield, right? Which makes sense into, which makes sense to allow people to deposit into FIUCT as well, right? So our costs on the back end, we have a dynamic algorithm which balances both flexing
+
+**[17:57] SPEAKER_00:** strategies out and eliminates, reduces the drawdown risk to 2 % on the principal. Right. So in most situations, and in our experience, mostly eliminates that, right, where users can just have as much upside exposure to the yield from these kind of strategies and platforms while, you know, kind of reducing the drawdown risk, right? And, you know, mostly eliminating it in most market conditions, right? So those
+
+**[18:28] SPEAKER_00:** yield opportunities would be chain agnostic, whether it's Solana, BearChain, you know. Obviously, you know, things popping up on HYPR, right, we'll be able to kind of give users one -click exposure to all those yield opportunities in one single asset, right? And right now, USDT is the only collateral form that we offer, but the V2 of our contracts will be offering, you know, multi -collateral vault where you just can earn, you know, turn your F tokens from HYPE to Bitcoin to SOL and ETH,
+
+**[18:58] SPEAKER_00:** right, and turn those into F tokens and still have access to all those yield opportunities. Nice. So. F token is actually a receipt of deposits, which you mentioned earlier, and they are actually liquid and yield -bearing vaults, so do you want to share how the process of how does a user mint it and then subsequently use it across DeFi protocols? Yeah, absolutely.
+
+**[19:29] SPEAKER_00:** So right now in our beta, it's pretty simple, right? Users, you know, on the arbitrage from beta version, you swap USDT into FR -USDT. And that pretty much, you know, mints FR -USDT for you, right? And you'd have access to the yield the minute that you mint your FR -USDT. And then if you were to want to swap back into USDT right now in the beta version of the product, it is a 24 -hour cool -down period to swap back into USDT
+
+**[19:59] SPEAKER_00:** and essentially redeem from the vault, right? You know, once we're fully live in production, you know, one of the biggest two of the biggest um initiatives that we'll have from hyper uvm will be to quickly create a multi collateral vault that allows much more collateral assets to deposit uh we still wanted to combine them into one asset instead of having disparate um assets you know we think that's much better for capital efficiency as well as um you know having a facility where you
+
+**[20:29] SPEAKER_00:** just can uh instantly redeem right instead of having to wait the 24 hours but currently you know in the beta product and a 24 -hour um kind of withdrawal window as well we're working with um a lot of money markets to allow users to be able to compile the yields um and also borrow against it right so you know you can think about it as being able to do looping strategies with frct um you know by going and borrowing against it from uh the
+
+**[20:59] SPEAKER_00:** main markets that we partnered with um some of which that we're working with on hyper liquid natively itself um and then or just being able to borrow against the fyct and get the arb on you know whatever the borrower you're paying and the yield that you're getting natively on fyct and for a lot of those integrations we have you know partners you know will be coming out publicly with those in the next couple of weeks but we have agreements on you know co -incentivizing the vault uh with them as well right so that offers
+
+**[21:29] SPEAKER_00:** users the ability to be more capital capital efficient with their deposits into our native vaults apart from these um fr uh f tokens do you have uh other products uh in the pipeline outside of fr usdt yeah um the other big initiative that we're pushing is uh jarvis and jarvis um you know there's a lot of craze of ai agents around
+
+**[21:59] SPEAKER_00:** and what we want to offer is an autonomous on -chain um explorer right where essentially users can go natively into a mobile app that we create the poc of it will be just um a telegram um a telegram bot but you know we're working to again um you know once we're live on hyper evm and we're able to focus our development efforts on getting it into its own standalone app and that allows users to um use natural language in some cases or
+
+**[22:30] SPEAKER_00:** just you know by themselves uh with buttons that are pretty easy to use flow to different protocols um having and we abstract away all the bridging and swapping that happens right so natively going to fatality you know whether you're coming from seoul you're coming from eath um you're coming from whatever chain into hybrid evm we'll be able to get you there um without you having to go on you know different tabs and bridge and things like that and what we want to do with
+
+**[23:00] SPEAKER_00:** jarvis is we want to integrate into other protocols as well we've already been talking protocols in terms of getting them integrated into this infrastructure where users can use uh natural language and you get to their platform whether it's bear or hyper evm using natural language and again we take care of you know the abstraction of the on -chain operations on the back end and then we also you know if you think about the ecosystem right now i started defy lama it's really you know hard to have one place where you have access to a bunch of the yield
+
+**[23:30] SPEAKER_00:** opportunities and as i've spoken to about before part of the difficult you know part of building something out where you're able to have access to a bunch of your ops is the back -end data infrastructure, right? So, we also want Jarvis to be able to a single place where users have access to, you know, the best of opportunities on different platforms and different chains, right, where you can actually have access to your opportunities in pools on base, for example, and then, you know, have the execution to get there through this
+
+**[24:01] SPEAKER_00:** mobile app, right? So, it's a pretty ambitious product, but the POC of that with the natural language bot will be coming out, you know, by the end of this month, we hope, right? And users will get a feel of just the ability to do multi -hopping transactions without having to click through your metamask or your ledger, which we think is going to be, you know, 10x improvement on the UX for, you know, operating in a space at the moment. And, you know, our plan is to turn this into another revenue stream for FRCT holders, right? And, you know, once
+
+**[24:31] SPEAKER_00:** we're able to charge transaction fees on that infrastructure, right, kind of relay those back into buying back the token as well. Awesome. Yeah, I think a lot of focus right now has also been how projects have been able to buy back their own token, Hyperliquid, and then Jupyter followed suit. I think with all your upcoming products, it's also pretty exciting that
+
+**[25:01] SPEAKER_00:** you are going to be doing a community round very soon, which Hypercollective will actually be curating. So, the token sale will actually happen on Fiat Foundry, on the 8th of February, which is four days from now. So, this is more, yeah, why don't you share more details about the upcoming public sale in terms of the pricing and also why
+
+**[25:32] SPEAKER_00:** is there a need for this race? Yeah, absolutely, right. So, in terms of the need in general, right, obviously we have a pretty ambitious pipeline, which we're going to be doing for the next five years, which requires, you know, development resources. But the main goal of the token raise is to make sure we bolster liquidity for FR -UCT, which we feel like is the main key for the adoption of the protocol, right? So, a lot of the proceeds of the fund, of the token sale will go back into, you know, some of it will go into the HIB2,
+
+**[26:02] SPEAKER_00:** some of it will be going to, you know, work with Market Maker to make sure that there is good liquidity for FR -UCT, right? So, that users are able to move up a lot faster on these Instagrams, right? So, we're going to be doing some of these integrations that allows you to get more capital efficiency out of the deposits into fatality, right? And then, yeah, some of it will go into development for Jarvis and also, you know, adding more features and making the product itself more robust moving forward. In terms of the pricing details for the round, right, and,
+
+**[26:33] SPEAKER_00:** you know, exactly how much we're looking to raise, we're looking to raise a million dollars at 7 million FDV, which is, you know, roughly around 14 .5 % or 15 % of our token supply being sold in the community round. Yeah. So, what's the RFR -UCT token distribution going to be like? Yeah. So, we'd have the
+
+**[27:03] SPEAKER_00:** same exact tokenomics as we have for Y2K, right? So, first of all, the max supply will stay the same as we stated before throughout this whole rebranding is that we're going to have the same amount of token supply as we have for Y2K, right? There will be a one -to -one migration for existing users of the Y2K token, and there'll be no dilution into FRCT as well. And, you know, what we had in terms of the 35 % in terms of liquidity mining that we had
+
+**[27:33] SPEAKER_00:** from the Y2K, they stayed exactly the same. The 10 % investor allocation that we had in our docs, we actually only sold 5 % in a private round, right? So, you know, that, itself, increased the token to the next level with the help of ERCS. So, by that, you know, we're going to have all these tokens in oneそして depicting what's which of 5 % is what is being allocated towards this community round to help get the token distributed into more hands, right? There was a 50 % allocation to, the Y2K team at that point. And again, a lot of those 1 made to have been vested. And
+
+**[28:04] SPEAKER_00:** that would stay the same rate. It wouldn't increase on going into FRCT. our usct um on money markets as well and we also had a 10 allocation towards new order which was the um the incubator where we essentially created y2k and that allocation they're not sending them
+
+**[28:34] SPEAKER_00:** has been going down to 2 .5 percent um so you know the extra eight percent again some of that will be used um to get the community access to frct early right and then you know whatever tokens are left over will be going back to the liquidity mining budget okay for in terms of the liquidity mining is is there like an end date on that uh end date yeah in
+
+**[29:04] SPEAKER_00:** terms of like incentives and you i assume you will be uh distributing the frct token as a form of rewards uh how long do you see the incentive program running for yeah um so in terms of uh we wouldn't want to be you know we're pretty confident our ability to generate you know stable yield from the frct product so we wouldn't want to be using um frct to incentivize uh direct deposits in the
+
+**[29:34] SPEAKER_00:** vaults um you know once we're live on hybrid evm right um it'll be you know most likely set aside for individual um integrations with partners um and you know we'll actually be putting up a government's proposal to get that approved by the community right um you know the budget that'll be used um for those integrations once we have you know firm commits from the partners as well and we understand exactly how much we need we need to set aside um you know for those integrations so you know long answer there is there is no set
+
+**[30:05] SPEAKER_00:** kind of the mission schedule in terms of dripping frct into um you know the main vault um it's more dependent on kind of keeping a budget aside to you know get integration for fict on different platforms and you know it's on a case by case basis um that we'll understand what's going to happen and what's going to happen and what the budget is needed for to the integrations and then we'll also have you know all those will be kind of going to a governance process when we think about actually meeting those tokens yep
+
+**[30:36] SPEAKER_00:** okay yeah i think to to perhaps clear tops if anyone has this also uh fractality actually previously launched the frank ticker as well uh the ticker that is fr ac so that was supposed to be a test launch which um uh that uh mishaps happen and uh so so they report that the ticker frct so that will be the official ticker uh moving forward for fractality uh
+
+**[31:06] SPEAKER_00:** i think yeah uh yeah so we burned everything that we had of the frac token um we're yeah fully just have four ct at this point just want to clarify yep uh yeah so i think that's uh pretty clear in terms of fractalities uh token as well as uh the fiat race that they are doing um uh later this week uh i think right now we'll probably just open the floor uh to listeners
+
+**[31:36] SPEAKER_00:** and see uh if they have any other questions all right
+
+**[32:20] SPEAKER_00:** i think um there isn't anyone that raised that request to speak so i think that will probably conclude our spaces today uh crypt do you have anything you want to add um for the rest of our audience here uh no just that you know these details on the token um you know we'll be receiving uh releasing documents documentation on distribution and um yeah like the details that are raised um for
+
+**[32:50] SPEAKER_00:** anybody that missed it you know later on today as well um and yeah if you know if there's any questions uh that you know pop up anyone's head after this uh we you know we're always welcome to join our discord we're we're happy to answer your questions there as well yep all right thank you um for being our guest today and i hope to see all of you on um on fiat bidding fatalities token soon thanks a lot goodbye

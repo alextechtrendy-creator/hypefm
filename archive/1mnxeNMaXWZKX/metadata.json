@@ -1,0 +1,84 @@
+{
+  "space_id": "1mnxeNMaXWZKX",
+  "title": "HypurrCo AMAs: CEX experience on a DEX?",
+  "state": "ended",
+  "created_at": "2025-08-27T15:02:39Z",
+  "started_at": "2025-09-04T14:00:39Z",
+  "ended_at": "2025-09-04T14:46:05Z",
+  "scheduled_start": "2025-09-04T14:00:58Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 162,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "chroma",
+      "handle": "chromatique",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Chris Ling | NLH",
+      "handle": "chrisling_dev",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1mnxeNMaXWZKX",
+  "summary_title": "SuperSexy brings centralized exchange UX to Hyperliquid, $750M volume in one month",
+  "summary_description": "Chris from SuperSexy explains building on-chain finance on Hyperliquid with familiar CEX experience, competitive 6bp fees, and Turnkey self-custody.",
+  "topic_tags": [
+    "infrastructure",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 356,
+      "label": "Hyperco intro: 1.5B AUM validator, content, IRL events"
+    },
+    {
+      "timestamp_seconds": 507,
+      "label": "Chris background: 6-7 years DeFi, MEV, Talisman wallet, Hyperliquid interview 2023"
+    },
+    {
+      "timestamp_seconds": 690,
+      "label": "SuperSexy motivation: nobody actually doing on-chain finance despite Hyperliquid hype"
+    },
+    {
+      "timestamp_seconds": 782,
+      "label": "SuperSexy builds CEX-like frontend on Hyperliquid with HyperLend integration"
+    },
+    {
+      "timestamp_seconds": 1269,
+      "label": "Fee structure: 6bp all-in, competitive with Binance 5.5bp, invite codes lower rates"
+    },
+    {
+      "timestamp_seconds": 1450,
+      "label": "$750M volume, top 5 ARPU, power users, no active marketing yet"
+    },
+    {
+      "timestamp_seconds": 1756,
+      "label": "New feature tonight: chase limit orders, feature parity with CEX priority"
+    },
+    {
+      "timestamp_seconds": 2064,
+      "label": "Security: Turnkey enterprise self-custody, audits in progress, in-app education"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "SuperCexy",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2718.72,
+  "capture_failure_reason": null
+}

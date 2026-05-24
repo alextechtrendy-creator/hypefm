@@ -13,7 +13,7 @@ _Cypher launches on Hyperliquid with instant card loading from perps and spot ba
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — RecGang _host_
+- **Zerk** (@rekt_gang) _host_
 - **Cube** — Cypher _guest_
 - **PBR** _guest_
 

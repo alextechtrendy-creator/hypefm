@@ -1,0 +1,78 @@
+{
+  "space_id": "1zqKVjkglLwKB",
+  "title": "HypurrCo AMAs: Felix Protocol launch!",
+  "state": "ended",
+  "created_at": "2025-04-04T12:14:10Z",
+  "started_at": "2025-04-10T13:59:48Z",
+  "ended_at": "2025-04-10T14:28:00Z",
+  "scheduled_start": "2025-04-10T14:00:00Z",
+  "lang": "zh",
+  "is_ticketed": false,
+  "participant_count": 249,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Felix",
+      "handle": "felixprotocol",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1zqKVjkglLwKB",
+  "summary_title": "Felix's native stablecoin FEUSD goes live on Hyperliquid, hits 10M cap in 48 hours",
+  "summary_description": "CDP protocol launches FEUSD stablecoin backed by Hype collateral with unique redemption mechanics and unexpected early demand.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "perps"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 448,
+      "label": "Felix launches FEUSD stablecoin, live 48 hours"
+    },
+    {
+      "timestamp_seconds": 509,
+      "label": "Charlie explains Felix: native money market for Hyperliquid power users"
+    },
+    {
+      "timestamp_seconds": 600,
+      "label": "FEUSD mechanics: mint against collateral, earn yield in stability pool"
+    },
+    {
+      "timestamp_seconds": 814,
+      "label": "5M cap filled in one hour, silently raised to 10M overnight"
+    },
+    {
+      "timestamp_seconds": 906,
+      "label": "Cap increase announced for 8 PM CET same day"
+    },
+    {
+      "timestamp_seconds": 937,
+      "label": "Redemption mechanism: any FEUSD redeemable for $1 collateral anytime"
+    },
+    {
+      "timestamp_seconds": 1088,
+      "label": "Incentives program rolling out Friday, similar to Hyperliquid structure"
+    },
+    {
+      "timestamp_seconds": 1394,
+      "label": "Integrations coming with PVP Trade and across Hyperliquid ecosystem"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Felix",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1689.6426875,
+  "capture_failure_reason": null
+}

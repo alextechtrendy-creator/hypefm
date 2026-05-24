@@ -1,0 +1,84 @@
+{
+  "space_id": "1dRJZamjQLVGB",
+  "title": "HypurrCo AMA with HypurrFi",
+  "state": "ended",
+  "created_at": "2025-12-17T01:41:38Z",
+  "started_at": "2025-12-17T14:00:26Z",
+  "ended_at": "2025-12-17T14:56:41Z",
+  "scheduled_start": "2025-12-17T14:00:00Z",
+  "lang": "zh",
+  "is_ticketed": false,
+  "participant_count": 147,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "anḍ̴͆͒ŷ̶͙̱̲",
+      "handle": "andyhyfi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "androolloyd.hl",
+      "handle": "androolloyd",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1dRJZamjQLVGB",
+  "summary_title": "Euler on Hyperliquid: flexible lending, Pokemon indexes, and trading terminals",
+  "summary_description": "HyperFi brings Euler's modular lending stack to Hyperliquid, enabling complex assets, earn vaults, and a Visa card that lets you borrow against your positions in real time.",
+  "topic_tags": [
+    "infrastructure",
+    "perps",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 201,
+      "label": "HyperFi announces Euler integration with upcoming card, HIP3 markets"
+    },
+    {
+      "timestamp_seconds": 322,
+      "label": "Andrew explains: lending is a commodity, HyperFi is a financial platform for traders"
+    },
+    {
+      "timestamp_seconds": 413,
+      "label": "Converting on-chain positions into a battery to run your life"
+    },
+    {
+      "timestamp_seconds": 686,
+      "label": "Euler enables non-pooled assets like RWAs, complex structured products"
+    },
+    {
+      "timestamp_seconds": 1110,
+      "label": "Isolated vs. Euler markets: capital efficiency and horizontal mobility"
+    },
+    {
+      "timestamp_seconds": 1597,
+      "label": "Earn vaults launch with HYPE, USDC, USDT, USDH; Clearstar as curator"
+    },
+    {
+      "timestamp_seconds": 2321,
+      "label": "HyperFi card: borrow against yield positions, spend on-chain instantly"
+    },
+    {
+      "timestamp_seconds": 2793,
+      "label": "HIP3 markets and Pokemon index: financializing collectibles, targeting traders"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Euler",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3384.1706875,
+  "capture_failure_reason": null
+}

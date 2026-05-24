@@ -1,0 +1,165 @@
+# GlueX Terminal: unified DeFi portfolio view with risk, yield, and execution
+
+_Felix from GlueX reveals their terminal product—aggregating all DeFi positions, liquidation risk, and APY in one dashboard launching December._
+
+**Host:** @hypurr_co
+**Date:** 2025-11-10
+**Duration:** 36:37
+**Tags:** ecosystem, infrastructure, execution
+**Source:** https://x.com/i/spaces/1mnxeNWrnBEKX
+
+## Who's talking
+
+- **HypurrCollective.hl 🐱** (@hypurr_co) _host_
+- **GlueX Terminal** (@GluexTerminal) _host_
+- **GlueX Protocol** (@GluexProtocol) _guest_
+- **Filius** (@FiliusJff) _guest_
+
+## Key moments
+
+- **[3:08]** HyperCollective introduces itself as ecosystem validator and content creator
+- **[4:39]** Felix shares GlueX's origin: three years building intent solvers for Curve
+- **[7:10]** Pivot moment: recognizing fragmentation across L2s motivated building aggregation
+- **[11:42]** Two-million gas limit and vault tokens require HyperLiquid-specific optimization
+- **[15:52]** GlueX Terminal revealed: unified semantic layer for all DeFi protocols
+- **[20:55]** Terminal combines portfolio overview, risk analytics, and direct execution
+- **[24:58]** Recent $19B liquidation and protocol exploits prove portfolio risk visibility crucial
+- **[31:04]** Beta access rolling out this week, public December launch targeted
+
+## Transcript
+
+**[1:46] SPEAKER_00:** hello everyone we'll start in a minute or two hey everyone all right
+
+**[2:37] SPEAKER_00:** i think we can just begin uh it's been a long time since hyperco actually did an ama i think the previous one was about three months back before the korean blockchain weekend open 2049 since then uh uh i mean we've held a lot of events and it got pretty busy uh last week we did a community session with ledger so if you missed it uh i'm going to listen in uh
+
+**[3:08] SPEAKER_00:** hyper collective for those of you who don't know uh we we are the ecosystem collective we've done uh multiple different initiatives in the hyperliquid ecosystem we run the largest validator outside of the foundation nodes we do a lot of content creation for more weekly recaps uh research reports and amas like today uh we also help a lot of projects building on hyper evm with product feedback uh
+
+**[3:38] SPEAKER_00:** testing uh any sort of uh and any sort of help that uh they could require as long as uh it's not too extreme that includes fundraising as well uh not exhaustive this but uh we try to do anything that's non -technical in this space so today we are joined by felix from gluex felix is the ceo of gluex and and today we'll be sharing more
+
+**[4:08] SPEAKER_00:** and today he will be sharing more about the newest product uh which is the gluex terminal so uh felix why don't you share a brief introduction about your background and past experiences in the industry so far everyone well first of all thank you very much for having me here and uh i hope that it becomes an interesting ama so um yeah i mean well uh really appreciate the space um we've
+
+**[4:39] SPEAKER_00:** been in touch with hyperco for a while so really really um very cool to be now chatting with you guys um so yeah i mean since since i think it has been maybe five months since we came in touch so yeah really cool to be to be here um yeah i mean with regards to uh my background or the background of the team we we started uh building 45 about three years ago um we
+
+**[5:10] SPEAKER_00:** actually started uh building on the intense space so for those that do not know or maybe miss that about maybe about three years two years ago um intense became very popular uh through through casa uh being uh i'll say normally the way i described if i end the way that that uh users may request um um let's say a browser or a
+
+**[5:40] SPEAKER_00:** dex aggregator or or some agent that form or sort of system of optimization system like what a dex aggregator will do uh to operate on their behalf would be you have intense uh which just allow you to sign a uh some some um um some such on chain which would basically have your requirements i want to sell this token for that token and i will have at least uh this this amount of value coming back to me which is basically a limit order um
+
+**[6:10] SPEAKER_00:** and you can just sign that inventory or somebody's gonna execute on your help and then on the other way uh on the other hand if you would uh not sign a limit order but you simply execute yourself like you do pretty much everyone does uh through your wallet um directly execute it and that will be uh you know you're gonna be able to execute it and that's gonna be uh the non -intent based execution that um most people will also know so we we started building on intense space as a solver back then about three years ago for castle and then um that just
+
+**[6:40] SPEAKER_00:** simply grew uh to the point where um yeah we we built uh um optimization uh algorithms to aggregate liquidity mostly in domain and then we just we and i think about the time we L2s popping up everywhere. So basically DeFi continued fragmenting where it went beyond Mainnet and maybe Solana
+
+**[7:10] SPEAKER_00:** at the time and then suddenly dozens of L2s and so we just saw how everything was just growing in every direction and so we realized okay this needs we need to have a there is something something important here to do to address this and so yeah that's basically what where we started and a little bit of the
+
+**[7:40] SPEAKER_00:** background on yeah how everything went back then. Nice to hear so it's kind of you guys were getting intense and then you decided to pivot into aggregating some of that was that the main reason that personally motivated you to build Truex? Yeah so basically yeah the way that happened so we like as we we saw the this
+
+**[8:11] SPEAKER_00:** space evolving into multiple multiple L2s a lot of different protocols we we've been doing we did a lot of work integrating well every single time a new a new text pops up or a new protocol comes in and integrating them so we we noticed you know if we there is the need to to simplify the user experience which is ultimately what we really are trying to achieve and we need
+
+**[8:41] SPEAKER_00:** to do that across chains so now we we see this this need happening over and over again and so that's that's really what ultimately motivated us to build BlueX as as a way uh in which we can just simplify not i mean either to the end user so um through through subs or uh the u .s possible execution that we can offer or um just simply even if
+
+**[9:11] SPEAKER_00:** it is getting the best possible data uh in front of the user um apis or whatever other type of information um tbls or or anything that may be useful for the user to to have more informed decisions or uh then go all the way to the execution side where um they just have you basically need to engage with one single um party or uh or in the case of developers with one single set of apis
+
+**[9:41] SPEAKER_00:** and then they could just do everything they would like to do on on a single chain uh on uh or or any chain for that matter so that's really what uh ultimately what we were doing anyways on on the intent space uh we just saw uh which well um if we if we're already doing this why not just um really formalize it into into a protocol that we can then actually replicate that anywhere
+
+**[10:12] SPEAKER_00:** in any ecosystem and and um yeah that's how gluex came to be now is this an interesting backstory and i i believe a lot of the builders on hybrid vm or uh ecosystem have actually uh just built out what they've been doing for a few for a few um for quite a while already so so like a lot of teams they were building they were doing their own delta neutral they decided to open
+
+**[10:42] SPEAKER_00:** source it and shatter you with everyone else and yourself you you're doing it tense and decided that that's a cat for aggregating of quotes from different ecosystems and then you decide to glue it so i think that's that's a pretty interesting story uh do you want to share more about the inspiration behind gluex how the name came about yeah so um i think here was very very simple that day uh we're we're
+
+**[11:12] SPEAKER_00:** thinking okay i mean all of this is we see that um device very fragmented so let's just we need to have somewhere something that just can glue it all and that's pretty much it it's supposed to be simple and um uh there's a word for it glue comes in and then dx where it's just representing uh gluing anything that that just comes uh comes through um yeah that's that's pretty much nice so how does gluex actually build
+
+**[11:42] SPEAKER_00:** upon and integrate the existing infrastructure of hyperliquid so on 2x we've been focused a lot on hyperliquid last month and uh it's very interesting i mean it really is a different um ecosystem ultimately so first of all we you have the um the the two million gas limit so you you have two types of logs which is not something you would encounter on the other chains other tools or or or the l1 so
+
+**[12:12] SPEAKER_00:** um that to start over there i think that will be the first hyperlink specific uh let's say configuration that we had to to make sure that we could really address properly so as to you could effectively let's say um or at least for the optimization or the routing service that that gluex is uh providing um you could create very complex routes that just simply cannot execute
+
+**[12:43] SPEAKER_00:** because they the gas limit is on being higher than the two million gas and it happens uh especially with um the dexes new new new dex's like balance every three where you will have some of the tokens being vault tokens, usually consume a lot of gas. So yeah, that's one of the items that I'll say have been a focus on really how we support
+
+**[13:13] SPEAKER_00:** the HyperLiquid ecosystem more precisely than others. If you have, obviously, and the core of HyperLiquid is a large, I will say we have a HyperCore and HyperCore, the verbs or the book, much more that is coming up in the core. So for us, what we have done on that end is, and obviously I
+
+**[13:43] SPEAKER_00:** think that in the way that makes more sense for us is so far has been, well, aggregating liquidity that is on the HyperCore. So we have quite some projects on that end where at least we are trying to embed the liquidity on the HyperCore and offering it to use PABM as well. So if you were, you would just aggregate liquidity on both ends. It's just,
+
+**[14:13] SPEAKER_00:** it's not atomic, so it's not straightforward. But yeah, we definitely have been working on that too. And then obviously just, I guess, HyperCore, HyperCore and let's say the protocols or the app, I won't call it apps, but the verbs or everything that you can do on HyperCore, that's ultimately one of, if we see
+
+**[14:43] SPEAKER_00:** them comparable to the other protocols that we also see and we see users wanting to engage with through some, the easiest possible user, interface while also engaging with other If you would like to engage with anything that's on HyperVM. Or at the same time doing, engaging with HyperCore
+
+**[15:23] SPEAKER_00:** to hyperliquid users. So yeah, I think that's something that we definitely will continue working on. I think with the new projects that we're working on, that's going to be definitely much more clear once you see what we have been working on. Yeah, so I'll leave that for later, but later in this space to mention. But yeah, definitely we have been doing a lot of
+
+**[15:52] SPEAKER_00:** work within hyperliquid. Yeah, so you've given a little teaser already. What's this product that you guys are going to release soon? So it's the GlueX Terminal, but there hasn't been much information. Do you want to share it firsthand on this basis? Yeah, definitely. So ultimately, I think what... What I've seen is a lot, of course, with GlueX is we have
+
+**[16:23] SPEAKER_00:** been thought of as a text aggregator, which obviously makes a lot of sense. I mean, right now, the way in which we engage with users or users engage with us or even protocols or teams engage with GlueX is through our text aggregator API or router API. But GlueX itself, we see ourselves as a system. So we have a lot, of course, a lot of Well, if... It's just a bit of a fancy term, but semantic layer. It's
+
+**[16:53] SPEAKER_00:** just a way to... Let's say let's take all of the API, or... Yeah, all of the API, which is a bunch of different terms, or different protocols that don't really speak the same language. So just put them all into one single language, and then make it easier to... Well, given that, I think, a lot of the time, if we, for instance, we are using that, we would be able to do this in our calls, all now speak the same language you can now it's way easier engage with all of them at the same time and so that is what grex
+
+**[17:23] SPEAKER_00:** protocol effectively is and what we did first after we built the qx protocol uh was to then say okay now we have this unified language now we can actually what let's just what can we do first with this with this semantic layer that we have with the glue x protocol and we built um and we used to accept to build the uh grex router or grex x aggregator um which is as a dexter error that you have different dexes but you want to use them in one single
+
+**[17:53] SPEAKER_00:** in one single way which is i just want to optimally find the best possible combination of the liquidity here um and that becomes much easier once you all of the dexes speak the same language you're asking you ask them for the same uh when you're requesting for information from each of them um you can make the same request as opposed to doing a different request for each of them and so yeah i think i i i hope that explains a little bit more of really what gluex protocol is uh effectively
+
+**[18:23] SPEAKER_00:** and so we if we bring this um a bit further so and we think about um how then gluex standardizes right we we stand up grex protocol standardizes uh data standardize information um and creates this um standardized way to to engage with d5 not only with x's but also with volts or or any other protocol that that offers an investment opportunity like a yield um and
+
+**[18:53] SPEAKER_00:** and then through that also allowed allows us to to express um all of those opportunities that you have been invested in into like as well standardized positions in your portfolio that is that is glue x that that is that semantic layer that unify understanding of of basically all the different types of protocols and also what the user actions have been and so if we what we then um the the end goal then from the
+
+**[19:24] SPEAKER_00:** beginning what has been to create this very seamless user experience to engage with everything um in d5 and and that's where uh the igloo external comes in then so basically finally uh creating this terminal where you could engage with anything any protocol uh in d5 uh or and let's say hyper dvm uh through this one single terminal and you will be able to to see um any
+
+**[19:54] SPEAKER_00:** uh information that you need to have from any protocol uh whether it's uh let's say if it's an investment opportunity if it's the apy ctvl or the rewards apo apys everything from that single unified access and not only that but also given that we now also understand all of the positions of the user um not only from a um uh let's say from a wallet point of view which is a wallet will be only um let's
+
+**[20:25] SPEAKER_00:** say showing you your positions but we also understand what the value of the positions are or uh what the expected yield of each of these positions are or even the the risk right the um if we understand liquidations if you understand liquidations from all the different lending protocols and how the user is creating all these different pieces of the portfolio then we can we can go one step further and create what we uh what we let's say the performance or risk analytics of a portfolio and that
+
+**[20:55] SPEAKER_00:** is um whatever portfolio may come up with uh if you have um what we will say the assets of the portfolio just your investments but also the liabilities if you have debt or even take a step into hypercore and you have perps and then really combine all that into one single overview because now as a cluex and that's through that semantic layer you are understanding everything and so you can now provide a really um complete comprehensive view of a portfolio of the user um
+
+**[21:25] SPEAKER_00:** and not only for obviously we go beyond just providing overview because that that's actually where the routing side and the execution uh capabilities that we've been building for the months comes into play and comes really handy is that it's not only an overview and a view into probably what I would deem the most complex view of a portfolio that we have seen across DeFi so far, but also enabling the execution on
+
+**[21:57] SPEAKER_00:** the spot for the user. So that, again, can be any DeFi protocol, but also any other, any type of, let's say, DeFi in this case, perhaps it will be through Hypercore and Hyperliquid. So that, yeah, that's pretty much a little bit of what's coming up. Yeah, I don't know if that was clear. Yeah, I
+
+**[22:27] SPEAKER_00:** think that was very comprehensive. So perhaps amidst all these different functions that Gluex terminal will have, what will actually set you guys apart from your competitors? Yes, I think for now, I think the most interesting part will be the element to really, the ability to really cover all of DeFi. The
+
+**[22:58] SPEAKER_00:** Gluex terminal could be compared to a, let's say, if you really just focus on looking at capturing the metaverse of DeFi, it could be compared to a, let's say, if you really just focus on looking at capturing the metaverse of DeFi, it could be compared to a, let's say, if you really just focus on looking at capturing the assets of the user. There are some wallet trackers out there, but these wallet trackers either don't have, just don't tend to have all the assets that you have on your portfolio, or just don't give you any information about the APY, so the performance you can expect from the portfolio, and even less the case would
+
+**[23:28] SPEAKER_00:** indicate anything related to the risk that you are exposed to through your portfolio, because it's just complicated to have a complete overview on, go beyond the tokens overview that you have, and actually build a performance overview and the risk overview. There is important, you need, there needs to be information related to what your, yeah, obviously your lending positions are, or whatever other position, or your perps, or your leverage, or anything
+
+**[23:58] SPEAKER_00:** that is, as well as any debt positions you may have, so definitely, I mean, up until this point, we haven't ever, we haven't ever seen anything that would be able to put it all together in this very comprehensive view of the health of the user, so yeah, that's, and that's the reason why we're building it. I think we, within the team, we have a couple of financial engineers
+
+**[24:28] SPEAKER_00:** that we've built into Atmai before, and we definitely haven't seen a comprehensive tool that will be able to give you a very good performance overview, and a risk overview of what your positions are, and also not only doing that, but maybe even advise you on, or help you understand what the risk is that you are being exposed to. I think the
+
+**[24:58] SPEAKER_00:** events of the last two weeks, or three, or the last month, have been really spot -on on what we are trying, on why also having a proper risk, or a proper understanding of a portfolio, is crucial. I mean, we saw 19 billion being liquidated a few weeks ago, and we just saw about two weeks ago, a protocol, or I don't know, let's say, a curator rock
+
+**[25:29] SPEAKER_00:** -balling a lot of value from users. I think what we really are aiming for here is, I think, simplifying user experience, but also being as good as can be at abstract, at processing information on behalf of the user, and helping really expose it in the best possible way, so the users can be exposed to, like, can really fully understand the risk of a portfolio. Not only, I mean, going beyond leverage,
+
+**[26:00] SPEAKER_00:** but also understand, like, understanding what, how for, how the yield is being generated, the yield that they are being exposed to, and really try and address, or, like, mitigate, or help the user understand all those risks that they get into, or, and that are part of a portfolio. I think this is, obviously, we can be speaking from a retail point of view, but also from an institutional point of view, I think, ultimately, what we
+
+**[26:30] SPEAKER_00:** hope will be, the Gluexterminal is a institutional portfolio manager, or something that can really help. We could just go and pitch to very big new users of DeFi, so in the same quality that we, we just take that as a goal. If we can build something that will be interesting for these very big users
+
+**[27:00] SPEAKER_00:** or institutions, and make it available to everybody, that's, obviously, amazing. It's just bringing, like, finally putting all of DeFi in, kind of, the silver platter to, to any, for anybody to use. And, yeah, that's pretty much what we, we really haven't seen. So, like I said, a really complete understanding of any portfolio you could build DeFi in
+
+**[27:31] SPEAKER_00:** whatever complexity that, that you may want to build it. And, and with clear overviews of, of the performance that you, that you can expect, and the, and the risk, of course, that's attached to that. So, if we, again, if you, if you were looping, what is your liquidation price, or, and, and what is the value at risk of your portfolio, and, and what is the yield that you can expect, and maybe even take step forward as to say, hey, you're not, you're actually taking way too much risk for the,
+
+**[28:01] SPEAKER_00:** for the, for the return that you're going to get here, while you, while you have an alternative over, over there, where, which you might get the same amount of yield, which significantly lower risk. I think these are the type of, also, the added value that the terminal should bring as we continue developing it. Yeah. Nice. Yeah, this is pretty exciting to hear. So, we've chatted a lot about
+
+**[28:31] SPEAKER_00:** the GlueX terminal. You know, your flagship product, which is the DEX aggregator, do you, what are the plans centered around that? Is it still going to be operational, or? Yeah. Yeah. So, the, the DEX aggregator itself is kind of, it's a crucial part of the terminal. Definitely, the, because the terminal itself is going to, like I said, it's not only a data dashboard, it's,
+
+**[29:01] SPEAKER_00:** it's going to have, directly embedded execution, so the user can do anything, like manage the portfolio in whatever way they, they want, through this terminal. And that's where the GlueX router, GlueX DEX aggregator really becomes key. So, definitely going to, it's, it's, it's crucial part of the terminal, or the, or the whole GlueX vision here. And so, we're definitely going to keep on adding liquidity, in,
+
+**[29:32] SPEAKER_00:** in, in, in HypeTVM, obviously making sure that, that we have everything covered, that, that the, the user keeps getting the best possible prices, and that we keep on indexing any other type of protocol that becomes interesting, whether, because, just to point out, GlueX router is not only aggregating DEXs, it also aggregates any other protocols. So, it's Morpho, or HyperFi, you can always have through GlueX router, to any hyper, hyper token, or a Hyper
+
+**[30:02] SPEAKER_00:** -B token, or whatever it is, or Pendle, even. So, we recently announced PT, PT swaps, so, or, or YT swaps. So, the GlueX router, for that matter, is, is quite crucial, so we, that, we can offer that user the best possible experience, or whenever you want to make a swap from any, any of the, any of the positions that you have open in your portfolio, or the position, or, or just simply this port, or, or the cache that you hold, and so you can, you
+
+**[30:34] SPEAKER_00:** can easily move around, and create positions, or, or offline positions. Yeah, the, definitely key, key part of, of GlueX, and it's definitely gonna, we, we obviously gonna keep on building on top of it. Awesome. So, what can we expect from GlueX in the upcoming months? Yeah, so, I, I think, probably the most interesting one for us, in a while, as to, is
+
+**[31:04] SPEAKER_00:** my idea of, of it, and, and, and also, like, my ones, like, my first experience, launching, so you're gonna see GlueX terminal coming up, uh, and, uh, hopefully, um, yeah, you, you, a lot of the Hyper -VM ecosystem can get, uh, access to it, so, we're gonna be, uh, spinning out, uh, wireless access to, to the terminal. Um, and, yeah, we, we, uh, we're gonna get the initial initial feedback as to what users see being useful there and what users want to see. So we're
+
+**[31:34] SPEAKER_00:** going to keep on working on it. So ideally by December, we have an amazing B1 product release that we can then just let everyone get access to and enjoy, and then obviously build from there. However, this for us, our vision of how we see DeFi, let's say our
+
+**[32:04] SPEAKER_00:** end vision of how we see DeFi should be, so I think Linux terminal is going to be a big part of our development time for the next month. Whether it's adding more protocols or just development. Solving for it so that we can give more data, more complex analytics, and better user portfolios. That's what we're going to keep on working on for the next months. Nice.
+
+**[32:36] SPEAKER_00:** So December should be when everyone is looking forward to... That's when GlueX Terminal will go live and everyone can access it and use it. Yes. That's the goal to target. And ideally... Yeah. Within this week, we get our first set of beta testers and the whitelist testers. And then yeah, definitely in December, we
+
+**[33:07] SPEAKER_00:** will be aiming for a release. Awesome. Okay. Before we open up the floor to the audience, you mentioned whitelist testers this week or next. So is there any way... Maybe the community or anyone can get access to this version before the terminal goes public? I think we will be sharing information about this, if not mistaken, this week. So we're
+
+**[33:37] SPEAKER_00:** probably going to just stay tuned to the GlueX Terminal text profile. There will be... There's a whitelist to which you can register yourself. We will then slowly just whitelist users, whoever registers. So I think it should be relatively simple. So just stay tuned to... Just keep an eye
+
+**[34:07] SPEAKER_00:** on the X profile and we'll see, depending on the demand, how it goes, what the amount of whitelist users we can get. Obviously, we will be working with the Hyper -VM ecosystem, different teams that have been working with us to make sure that their users can make use
+
+**[34:38] SPEAKER_00:** of the terminal as soon as possible. So we might come with some interesting collaborations. You will hear about those too. And yeah. I mean, just stay tuned on what's coming. Sick. So right now, I'll just open the floor to the audience. If anyone has any questions regarding GlueX, be it the aggregator, terminal, or any sort of their future plans, feel free to raise your hand and
+
+**[35:09] SPEAKER_00:** you can come up as a speaker. All right. I
+
+**[35:39] SPEAKER_00:** don't think anyone has any questions. So before we end this space, do remember to follow us. Follow GlueX. Both their accounts, the terminal account is the newer one, which they will release more information in the next few days. So if you'd like to try out, do follow them, keep your notifications on and see how you can get whitelisted. If not, the public
+
+**[36:09] SPEAKER_00:** version should go live fairly soon, hopefully by the end of the year. So thank you everyone for joining us. Thank you, Felix and GlueX. So that will be all for today. Goodbye.

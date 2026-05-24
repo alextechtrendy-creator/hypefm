@@ -1,0 +1,590 @@
+{
+  "space_id": "1YqxooPozvgxv",
+  "language": "en",
+  "duration_seconds": 3078.016,
+  "chunks": [
+    {
+      "start": 153.07,
+      "end": 183.27,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. All right. I think we probably can just go ahead. All right. Welcome back to another episode of our Hypercollective EMA. Hypercollective is founded by the three of us, Kirby, Nual, and myself, Velocity. We basically started this with the mission to unite users, builders, traders, and all those"
+    },
+    {
+      "start": 183.27,
+      "end": 213.35,
+      "speaker": "SPEAKER_00",
+      "text": "that are excited about Hyperliquid. Over here at Hypercollective, our goal is to help shape Hyperliquid's community by growing and nurturing the ecosystem. We have done this through some of our key initiatives, the very first one being that we are the largest validator on mainnet in collaboration with Nansen. We currently have almost 40 million hikes taken with us. We hope to become the voice of community through governance decisions"
+    },
+    {
+      "start": 213.35,
+      "end": 244.24,
+      "speaker": "SPEAKER_00",
+      "text": "in the future. Another of our key initiatives that we've done is also regularly create content in the form of weekly recaps, ecosystem guides, project guides, EMAs, and more to shine a spotlight on projects building on top of Hyperliquid. We also do host real -life events. We've helped five so far to connect builders, traders, funds, and pretty much any key... personnel together."
+    },
+    {
+      "start": 244.58,
+      "end": 274.42,
+      "speaker": "SPEAKER_00",
+      "text": "So these events are actually aimed at understanding the ecosystem players better and to foster stronger connection internally and externally. Lastly, we do have an ecosystem directory of projects building on Hyper -EVM testnet mainnet that users can familiarize themselves with. As the mainnet is hitting up, I think we see a lot of these projects that are already live and are going live. Today, we are excited to be joined by Kinetic. One of the projects that will be launching the"
+    },
+    {
+      "start": 274.42,
+      "end": 305.22,
+      "speaker": "SPEAKER_00",
+      "text": "mainnet fairly soon. Kinetic is a liquid staining protocol. Omnia and Magnus are the co -founders of Kinetic. Why don't you guys share more on what Kinetic is and do a quick introduction about yourselves as well? Yeah, sure. I guess you could say, you know, you kind of covered it at the very high level. It came out. It came out. Yeah, indeed, it came out. Kinetic"
+    },
+    {
+      "start": 305.22,
+      "end": 335.24,
+      "speaker": "SPEAKER_00",
+      "text": "is a liquid staining protocol built for hyperliquid and only hyperliquid that is. So we consider it a native liquid staining protocol in hyperliquid, particularly because, you know, this is where the roots are and where they'll always be. So it definitely rises and falls on the success of hyperliquid. And, you know, that's what makes us, I guess you could say, ecosystem aligned. And yeah. You guys may have all seen it by now, but"
+    },
+    {
+      "start": 335.24,
+      "end": 365.32,
+      "speaker": "SPEAKER_00",
+      "text": "heavily K -Hype coded, you know, as we sign all tweets off with. But nonetheless, you know, that's Kinetic at a very high level. I'll pass it off to Magnus. But yeah, that's us. Yeah, I guess a bit of background on me. Former redacted cartel now known as Denaro. There was a period in which we were basically doing a bit of, NFT halfracing, or other meme"
+    },
+    {
+      "start": 365.32,
+      "end": 395.58,
+      "speaker": "SPEAKER_00",
+      "text": "coins and stuff. And then we came across hyperliquid when they started to want to effectively build out the whole ecosystem. We saw the vision, decided to jump along with it. We kind of talked to ourselves, like with everyone that's in the team, we kind of thought, you know, what can we do to kind of, you know, partake in something with the most type ofcing value value as well as like what would be the most heavily integrated and"
+    },
+    {
+      "start": 395.58,
+      "end": 425.67,
+      "speaker": "SPEAKER_00",
+      "text": "we thought you know why don't we do lsts so um yeah that's more or less me in a nutshell and why we decided to um yeah start tackling this huge challenge with uh wanting to be the go -to solution for hyperliquid as an lst nice uh perhaps for start could you guys uh just for for those who aren't unaware uh sharing more about could you guys share more about liquid staking and"
+    },
+    {
+      "start": 425.67,
+      "end": 455.95,
+      "speaker": "SPEAKER_00",
+      "text": "also what are its benefits yep there's uh you know obviously there's a range of benefits but i guess the the very high level as to what liquid staking does for a general ecosystem and why it is more capital efficient at times and you know the goal of an lst especially the native one should be to make it more compelling of an offering than just chilling in the native token um or at least by itself right all naked um"
+    },
+    {
+      "start": 455.95,
+      "end": 485.95,
+      "speaker": "SPEAKER_00",
+      "text": "you know is overall around what magnus touched on which is basically just deep deep integrations um effectively it is the best possible crossroads between having liquidity and securing the network so you know what everybody has been most excited about at least you know with regards to proof of stake blockchains has always been around the lines of um you know network emissions uh or you know what"
+    },
+    {
+      "start": 485.95,
+      "end": 516.11,
+      "speaker": "SPEAKER_00",
+      "text": "some would consider rewards more simply for securing the network but at the cost of your token liquidity um and what this ultimately means is a high level is that your tokens are typically locked while being staked to validators and why this is the case usually is because uh in the network there's a utility -based network that can be secured for the top this effectively increases the economic value required to attack the network so you know it's a fair trade -off i guess you could say but it's no longer something that people have to compromise for"
+    },
+    {
+      "start": 516.11,
+      "end": 546.27,
+      "speaker": "SPEAKER_00",
+      "text": "in terms of lack of liquidity while maintaining the same level of network security if not more because the the more people you get to liquid stake stake effectively this kind of compounds the security right because the tokens are being staked on the back end it's not like they're being held and not used to actually secure the network um so yeah I hope that helps as like a general liquid staking primer obviously there's a lot to be said as to what could be done in DeFi uh especially in hyper liquid DeFi with regards to k -hype and how that's"
+    },
+    {
+      "start": 546.27,
+      "end": 576.28,
+      "speaker": "SPEAKER_00",
+      "text": "going to change the landscape very very soon here um but yeah I hope that that helps yeah I think that's helpful so how do you see kinetic being uh hyperliquid aligned yeah good question I mean the very short and simple answer is the fact that kinetic is purpose built for hyperliquid so kinetic will not exist on any other chain you know not a monad a movement"
+    },
+    {
+      "start": 576.28,
+      "end": 606.64,
+      "speaker": "SPEAKER_00",
+      "text": "um you know or any other ecosystem that may pop up and grab attention for a few seconds um so um yeah in a lot of ways uh it is very much an all -in bet on the ecosystem and as Magnus has been had mentioned when we came across hyperliquid in May of 2023 um actually April is when we found out about it but you know we had actually started trading a couple of weeks after hearing Jeff on I think it was his first first podcast um yeah but"
+    },
+    {
+      "start": 606.64,
+      "end": 637.72,
+      "speaker": "SPEAKER_00",
+      "text": "it was a podcast yeah yeah it was like a quant podcast called flirting with models super good and Magnus had shared it with me and he's like yo I got I've got this queued up I want to take a listen and uh we had pretty much listened to it on the same day and kind of arrived at the same conclusion like that it sounded really epic and obviously Jeff's background was really stacked but nonetheless Magnus was like a really really heavy uh gmx user so um the hlp offering was really really compelling not anymore yeah"
+    },
+    {
+      "start": 637.72,
+      "end": 667.98,
+      "speaker": "SPEAKER_00",
+      "text": "it was was for sure past tense but yeah the uh the hlp offering um a couple weeks later uh since we listened to it end of April and uh May is when hlp went live it was obviously very very compelling um so coming up on two years ago now um so yeah it's just been really crazy to see the I I know yeah wild so it's been really good to see like the meteoric rise um and obviously it's been helpful like as both of us had joined during closed Alpha I"
+    },
+    {
+      "start": 667.98,
+      "end": 697.98,
+      "speaker": "SPEAKER_00",
+      "text": "mean I guess I don't know that's that sounds as hyper liquid aligned as you could be there's a lot of teams uh to hyper liquid and I'm sure have come for opportunistic purposes and that's okay I mean every ecosystem has that but um you know we've gravitated a lot towards like hyper liquid native teams and even teams that are coming from uh you know external to hyper liquid I guess you could say uh that are very quickly kind of diverting many many resources if not all of them to hyper liquid development because they understand what's happening here um"
+    },
+    {
+      "start": 697.98,
+      "end": 728.56,
+      "speaker": "SPEAKER_00",
+      "text": "hopefully that helps communicate that obviously like kinetic is as hyper liquid aligned as can be and native to um and on top of that uh how we see you know the landscape shaping up actually there's a another point I um I thought to raise in terms of the alignment as well like we're designing kinetic in such a way that um we want to be able to include any validator set so um you know we don't discriminate on like"
+    },
+    {
+      "start": 728.56,
+      "end": 758.78,
+      "speaker": "SPEAKER_00",
+      "text": "who is actually included in the pool um naturally as we roll this out it's going to start from a very small validator set but everything is going to be based on performance so with much of how the hyper liquid ethos is it's very much a meritocratic type of approach and uh we feel that that's probably the best way to go about things you know there's no preferential treatment and um yeah we we we hold that in a very high regard in"
+    },
+    {
+      "start": 758.78,
+      "end": 788.97,
+      "speaker": "SPEAKER_00",
+      "text": "how we approach things um you know from the top down in the sense of like you know hyper liquid kind of shape that culture and we want to adopt that as well so yeah yeah I think this uh definitely great answers I think based on um what you've mentioned uh why don't you share more about kinetic stick cup and also the autonomous validator scoring uh if"
+    },
+    {
+      "start": 788.97,
+      "end": 819.03,
+      "speaker": "SPEAKER_00",
+      "text": "you could give more in detail because I think right now you guys uh have the website live it's on testnet but uh there aren't a lot of talks on how uh the scoring system works and could you possibly shed more like on it light on it yeah yeah so on launch uh thinkable will definitely be beefier in terms of documentation as well so it's it's still very high level of course and even now like what we will say is still very high level"
+    },
+    {
+      "start": 819.03,
+      "end": 849.03,
+      "speaker": "SPEAKER_00",
+      "text": "as the formula is not going to be revealed in terms of how validators will effectively be scored this is of course just to maintain a very very even playing field um and what's interesting about state cup is that um and and I guess you could say in combination with you know the state cup principle what's available right now in terms of data about hyper liquid validators is also very sparse so it really just comes down to overall performance right uh performance and uptime are basically like kind"
+    },
+    {
+      "start": 849.03,
+      "end": 879.43,
+      "speaker": "SPEAKER_00",
+      "text": "of the the great uh equalizers here so as long as you are a performance validator you really shouldn't have any issues um yeah yeah like the odr is just don't be you know yeah exactly exactly yeah yeah it's it's um it's definitely been turned into uh you know instead of you know who you know and how you kind of go about your business it's about just a general skill issue right like yeah that's"
+    },
+    {
+      "start": 879.43,
+      "end": 909.73,
+      "speaker": "SPEAKER_00",
+      "text": "basically the very very high level in terms of how state cup works um but I guess maybe some further insight as to like what it will look like in practice on mainnet once the connect does go live on on day one um there will likely be a capped amount of validators so it will just stick to the most performance and the high the ones that have the highest uptime and share stake between them all um and then as Magnus had mentioned um the validator set can change completely at any time right so if for whatever reason steak hub detects"
+    },
+    {
+      "start": 909.73,
+      "end": 939.85,
+      "speaker": "SPEAKER_00",
+      "text": "that you know there's been a change in how validator scoring uh has been handled because that's you know in -house it's it's basically uh a score that's computed for each and every single validator based off of these metrics that we're listening to um you know literally the next quote -unquote cycle could basically be consistent of completely different set of validators right or they could be the same as long as the ones that are in the set are you know they remain the most active and the most keep performing exactly"
+    },
+    {
+      "start": 939.85,
+      "end": 971.91,
+      "speaker": "SPEAKER_00",
+      "text": "yeah so I hope that helps again at a high level there's there's not really much beyond that but the point being that um yeah Magnus made a good point with regards to the the hyperliquid nativity given the fact that um how we go about validator selection is very very I guess you could say in line or kind of similar to the pattern matching that people can do with regards to the hyperliquid team's approach uh in general so yeah that is I would say that's it I haven't really left anything outside of that I think"
+    },
+    {
+      "start": 971.91,
+      "end": 1002.22,
+      "speaker": "SPEAKER_00",
+      "text": "there's a lot of excitement around when kinetic is going live as well uh when can we expect that to happen yeah right good great question man pre -compiles is definitely needed first by the way so if they could go live in the next couple weeks here that'd be fantastic uh obviously the team shipping rate and speed is is of no question so not really concerned about that uh the biggest thing on our side has basically been finalizing our last audits so"
+    },
+    {
+      "start": 1002.22,
+      "end": 1032.98,
+      "speaker": "SPEAKER_00",
+      "text": "we expect uh kinetic to be the most audited protocol once time for launch on hyper EVM at the time so um you know we're not around at all in terms of uh security so pretty much just doing the most in terms of uh audits for for kinetic so we'll have four audits all will be published and available to read at the time of launch so there won't be any questions as to how how we're taking smart contract security and"
+    },
+    {
+      "start": 1032.98,
+      "end": 1063.62,
+      "speaker": "SPEAKER_00",
+      "text": "yeah we treat they club the same in the sense that um you know how the stake is managed is just as important as how the tokens are managed in the like in terms of the contract security right so yeah I hope this will definitely help inspire some more confidence as well um you know obviously the hyper VM ecosystem is is definitely early so people have been very horny to say the least to use their hype but you know we definitely want to give them a proper home to do that and this will involve uh you"
+    },
+    {
+      "start": 1063.62,
+      "end": 1093.7,
+      "speaker": "SPEAKER_00",
+      "text": "could say as many possible defy applications uh on top in terms of integrations um which will be extremely important given the fact that you know hype bridged over we you know well I won't even call it bridged but just transfer it over to hyper EVM has been on the on the up so yeah it's very very exciting because obviously the appetite has been uh palpable to say the least so yeah you have any points on that as well Magnus I think that's well I guess"
+    },
+    {
+      "start": 1093.7,
+      "end": 1123.92,
+      "speaker": "SPEAKER_00",
+      "text": "um just to kind of let people know where we're currently at too um you know as Chris said like will we release all the reports and such and everything as well but we're currently through our third audit right now and um yeah things are looking pretty good so we're we're feeling good and um yeah we're getting there guys so yeah just stay tuned all the typical stuff and we'll post and give you guys early warning um when things are ready to go live most"
+    },
+    {
+      "start": 1123.92,
+      "end": 1154.18,
+      "speaker": "SPEAKER_00",
+      "text": "aggressively is probably within the next few weeks here probably mid to I guess latest uh late March but sorry late April that is but um yeah I would love if it was tomorrow but yeah but uh but yeah that's about it yeah I I definitely agree with you I think a lot of users definitely have a high propensity uh in terms of using the hype we've seen it with uh"
+    },
+    {
+      "start": 1154.18,
+      "end": 1184.56,
+      "speaker": "SPEAKER_00",
+      "text": "money markets like hyperland that recently launched and have their cap hit in less than an hour or I think loop type as well with the other uh liquid form of hype uh I think the deposit cat was maxed out within a few hours or within an hour itself and they are launching their face to uh tomorrow so we do see a lot of excitement around users utilizing their"
+    },
+    {
+      "start": 1184.56,
+      "end": 1214.56,
+      "speaker": "SPEAKER_00",
+      "text": "type and uh you guys are definitely one of the more hacked well uh so i think in terms of that at least in crypto a lot of us always talk about uh incentivization uh what can we expect from kinetics in terms of uh early user incentivization any sort of points program or what do you guys have up your sleeves yeah good question as always that is the golden ticket from"
+    },
+    {
+      "start": 1214.56,
+      "end": 1244.86,
+      "speaker": "SPEAKER_00",
+      "text": "a basically a questionable perspective so i can't say that we have not been asked that so um yeah i guess um yeah definitely a cliffhanger for sure but you know on day one people will be able to see like what is available for um you know for kinetic usage yeah yeah exactly it will not like just to be very very clear um since magnus and i have basically been on hyper really good for quite some time and have you know been able to i"
+    },
+    {
+      "start": 1244.86,
+      "end": 1275.1,
+      "speaker": "SPEAKER_00",
+      "text": "guess you could say bear through the year not just the bear but also through the uh you know the teams kind of roll out as to how points uh worked on their end uh there's obviously been a lot of inspiration as to how they've gone about it um you know we when we were first on hyper good it was five months prior to points even being announced right in october of 2023 so yeah like it's uh you know let's just say it's been a very exciting time just kind of seeing how to best combine our"
+    },
+    {
+      "start": 1275.1,
+      "end": 1305.12,
+      "speaker": "SPEAKER_00",
+      "text": "experience in the past which was obviously very different market timing uh with you know what's transpired over the last three four months post hype tge of course post user explosion so now it's it's the time of hybrid vm and this obviously has to be paired with something that is sustainable uh not something that is just extractive so that's something that we really take to heart and want to make sure that that's uh that that shows through right when"
+    },
+    {
+      "start": 1305.12,
+      "end": 1335.64,
+      "speaker": "SPEAKER_00",
+      "text": "the time does come for you know kinetic and k -hype to go live the most important part has been the general support from ecosystem -wide projects so this involves money markets like Felix hyperdrive hyperland hyperfi um you name it um amms like curve laminar kitten swap hyper swap Etc and you know other apps that people are extremely extremely excited to use that have billions"
+    },
+    {
+      "start": 1335.64,
+      "end": 1366.24,
+      "speaker": "SPEAKER_00",
+      "text": "in TVO it's like a hypervm as they're waiting for kinetic to go out to go live so yeah um it's gonna be very fun to say the least in terms of what transpires in the very very short time to follow the k -hype launch um yeah I don't know I don't think that there's much else to say beyond that but but yeah there's obviously no clear answer there but nonetheless the point being that uh yeah it like I guess to"
+    },
+    {
+      "start": 1366.24,
+      "end": 1396.48,
+      "speaker": "SPEAKER_00",
+      "text": "to end it all it's kind of level there okay I might jump back in um marketing honestly off there there's an absolutely zero points program in the world that would be worth uh an unsuccessful lst so for us the i guess you could say um we would prefer the successfully deep integration of k -hype throughout everywhere and the kind of proliferation omnipresence of this lst uh for hype that is designed for hyperlinked only right um then we would to kind of just have i guess you could say uh the"
+    },
+    {
+      "start": 1396.48,
+      "end": 1426.56,
+      "speaker": "SPEAKER_00",
+      "text": "vanity of you know people raving about a points program for a short period of time that's that's our internal dialogue about that so it'd be fun well said bro well said yeah i think beyond just um uh having k -hype utilizable uh throughout uh majority of the protocols on hyper evm uh do you guys have exact plans on the future and also what"
+    },
+    {
+      "start": 1426.56,
+      "end": 1457.6,
+      "speaker": "SPEAKER_00",
+      "text": "uh long -term milestones of kinetic that uh you you set for yourself for k -hype and also uh for the state cut launch yes they come as mentioned will be live day one so um it won't be like a structured rollout or like gradual it will basically be live and it's through his form uh and kind of fully functional with what we have like with the integration that we have available on day one um but"
+    },
+    {
+      "start": 1457.6,
+      "end": 1487.8,
+      "speaker": "SPEAKER_00",
+      "text": "with regards to you know what success looks like for k -hype it's obviously as mentioned previously like the the successful integration but um i don't want to say specific numbers but the point being that for us success doesn't look like you know being uh you know utilized just for the sake of you know being able to be utilized right like success looks like um massive retail adoption unquestionable institutional adoption and utilization most importantly and so far"
+    },
+    {
+      "start": 1487.8,
+      "end": 1518.6,
+      "speaker": "SPEAKER_00",
+      "text": "those two metrics have been very very i mean we've been very very satisfied with how the interest has already developed so far for that it's definitely beyond our initial expectations so some of the other bigger initiatives which um i would presume are okay to talk about anyway is adoption from a custodial perspective there are several you know, large, large custodians with multiple billions of dollars in assets under custody that"
+    },
+    {
+      "start": 1518.6,
+      "end": 1548.9,
+      "speaker": "SPEAKER_00",
+      "text": "are now seriously taking a look at hyperliquid and internally planning to support Hyper -EVM, at least at the onset, and eventually HyperCore as well. And, you know, through these conversations, we've been enlightened by how people view hyperliquid on the outside. And, you know, for us at Kinetic, I guess you could say one of the other metrics of success outside of what is obvious, right, like retail and institutional adoption, given there are institutions on"
+    },
+    {
+      "start": 1548.9,
+      "end": 1578.98,
+      "speaker": "SPEAKER_00",
+      "text": "hyperliquid already, which is great, but self -custodying at the moment since until Fireblocks went live, which is great. And now, you know, more will start to make moves is really just acting as a bridge between other ecosystems and hyperliquid. Without that, I don't know. I don't think that, you know, it could be successful. So if, you know, we essentially need to be an extremely robust and secure option for people to actually even consider moving over, you know, their assets to."
+    },
+    {
+      "start": 1579.08,
+      "end": 1609.52,
+      "speaker": "SPEAKER_00",
+      "text": "So, I mean, you're not holding hype on other ecosystems, right? Like you need to hold hype on hyperliquid. And so the first thing is being compelling of an offer for people to actually move from, you know, whatever other ecosystem they're on, whether it's Ethereum, Solana, Avalanche, even, or, you know, Sonic, and basically get, I don't know how weak is. Yeah. Yeah, definitely that, like whatever it may be, right? Getting them to move from whatever asset is that they hold into hype, first of all. So, you know, Kinetic is effectively just a distribution mechanism"
+    },
+    {
+      "start": 1609.52,
+      "end": 1639.9,
+      "speaker": "SPEAKER_00",
+      "text": "at the end of the day, at a high level, at a philosophical level, I guess you could say. And that kind of precedes what then follows, which is obviously, you know, being able to get buy -in from all of the various user types. So, you know, there's a lot of types that are on hyperliquid at the moment. So, I hope that helps in terms of just like a, like what success looks like for us and like what, at least what it starts to look like. So, so far we've been very happy with the interest, but obviously the job's not necessarily"
+    },
+    {
+      "start": 1639.9,
+      "end": 1669.94,
+      "speaker": "SPEAKER_00",
+      "text": "even started, to be honest. So, yeah. Yeah. And I think that's obviously very helpful. Coming back to the product itself, I think, well, how do you guys think about MEV on hyperliquid? Yeah. And how do you guys plan to tackle it? Well, this is a pretty cool one. I'm real good. It's literally like Magnus and I talk about this really often because, like we've seen a couple of mentions of it"
+    },
+    {
+      "start": 1669.94,
+      "end": 1700.18,
+      "speaker": "SPEAKER_00",
+      "text": "on hyperliquid as a whole. And like, while it's a nice buzzword, the reality is it's literally not possible. For now, for now, by the way. Yeah, exactly. For now. It is literally not yet possible, no matter how you slice it. And for those that aren't aware as to why on Hypercore, it's basically completely mitigated by how orders are basically structured in terms of cancellations having priority. And then on the EVM that changes things, of course, but with the introduction of a mempool"
+    },
+    {
+      "start": 1700.18,
+      "end": 1730.18,
+      "speaker": "SPEAKER_00",
+      "text": "and the way transactions are ordered. So the main part as to like why that's not even possible. And we spoke about this with Hypeio last week actually was because the consensus mechanism hyper BFT is not yet open source. And the execution client is subsequently not yet open source. So until those things are possible, MEV is a pipe dream. A good one that is, but nonetheless, something that the team is already prepared for. We"
+    },
+    {
+      "start": 1730.18,
+      "end": 1760.44,
+      "speaker": "SPEAKER_00",
+      "text": "have quite a bit of experience that's actually on the team already, as well as one of our engineers is literally nothing but a full time MEV, I guess you could say searcher. So brings the expertize to Kinetic and is excited about hyperliquid and funny enough uh had been working across various other ecosystems before pretty much dropping everything um in terms of interests elsewhere because of what's exciting about hyperliquid and because of you know kinetics position there"
+    },
+    {
+      "start": 1760.44,
+      "end": 1790.64,
+      "speaker": "SPEAKER_00",
+      "text": "so uh yeah it's uh i hope that helps contextually um and yeah until we can until everyone kind of like has the opportunity to kind of look under the hood um it's kind of just very conceptual right now you know um and like we continue to try to you know dive into any tidbits of code or whatever um but up until like until we can you know have that opportunity"
+    },
+    {
+      "start": 1790.64,
+      "end": 1820.7,
+      "speaker": "SPEAKER_00",
+      "text": "to you know look under the hood um it's purely just um theoretical right now so yeah but we're very much excited for it and we're very much uh prepping to be you know hitting the ground running when the time does come it will be very exciting because k -hype is positioned to capture all of the yield that does come in from from uh mev so yeah there's no need to speak as to like what it is that we've prepared for that because when the time does come then you"
+    },
+    {
+      "start": 1820.7,
+      "end": 1850.72,
+      "speaker": "SPEAKER_00",
+      "text": "know we can we can talk about that but nonetheless the point being that um that is absolutely top of mind because even if we were to talk about it now it'll probably look totally different down the line so yeah yeah over the last two years on hyperliquid you know magnus and i have talked about a lot of things that end up looking very different in production so yeah yeah i think it's for given how uh hyper vfd is still an entire black box right now"
+    },
+    {
+      "start": 1850.72,
+      "end": 1882.08,
+      "speaker": "SPEAKER_00",
+      "text": "like you mentioned a lot of things have changed it uh not just six months like even if you look at the past month uh given how fast the industry moves and also how fast the team ships uh we do see a lot of plans changing and and founders being on the ball to kind of iterate their products uh with this how do you think uh no what what do you think sets uh kinetic apart from the other lst providers yeah"
+    },
+    {
+      "start": 1882.08,
+      "end": 1912.26,
+      "speaker": "SPEAKER_00",
+      "text": "great question objective ones that we can of course happily discuss because it all comes down to that objectivity right Like we can definitely say, you know, we can definitely cheerlead ourselves and suck ourselves off here. Well, that would be fun. You know, it would definitely not do our users any good. So to talk about the objective differences, you know, the design is probably first and foremost. Kinetic is a constant supplied reward"
+    },
+    {
+      "start": 1912.26,
+      "end": 1942.5,
+      "speaker": "SPEAKER_00",
+      "text": "accrual LST, K -Hype that is, to be specific. What that ultimately means is that you're not actually holding any sort of rebasing token. There's no need to wrap it because it effectively comes, quote unquote, wrapped. And this is really helpful because there are no extra steps between what a user needs to do to actually mint the LST and actually go and use it in DeFi. So that is extremely helpful from a, as you could say, from two fronts. It's more composable. Sorry."
+    },
+    {
+      "start": 1942.74,
+      "end": 1972.84,
+      "speaker": "SPEAKER_00",
+      "text": "Extremely composable out the gate. And then on top of that. But like the accounting side from the, I guess you could say like a money market perspective or even like AMMs too. There's no complex accounting that needs to be done in order to kind of account for your balance as a user. So there is a technical reason as to why the design is superior. So there's that. The other part of that too is what Magnus mentioned earlier as well, which is StakeHub being completely meritocratic in terms of how validators"
+    },
+    {
+      "start": 1972.84,
+      "end": 2002.98,
+      "speaker": "SPEAKER_00",
+      "text": "are selected. So we are. We are aware of kind of kickbacks that exist right now, whether it's in LSTs or just general validator kind of operations, you know, people, obviously this is a game that's played across tons of other ecosystems. So how something like that works is, you know, you'll direct a certain amount of stake to a validator and they'll have a posted or public commission of, say, 2 % or 5 % or 10%, whatever the hell it is. And in agreement, especially imagine with Kinetic, right? Like if we hold,"
+    },
+    {
+      "start": 2003.08,
+      "end": 2033.44,
+      "speaker": "SPEAKER_00",
+      "text": "you know, millions of hype. Okay. Or eventually one day, you know, billions of dollars worth of hype, it would be very compelling to a validator to basically make some sort of deal where they say, hey, you know, you stake X, Y, Z amount of hype with us and we're going to kick you back X amount of fees. And this is probably a really attractive, you know, revenue schema for any LST provider, right? So this may exist in many forms across many other ecosystems and maybe even on hyperliquids. So the point being that what"
+    },
+    {
+      "start": 2033.44,
+      "end": 2063.48,
+      "speaker": "SPEAKER_00",
+      "text": "we've opted for is. Complete removal of the human component with regards to the validator selection. All that will exist is the input in terms of how we've basically structured the algorithm to actually score these validators. And this will be public. So as you mentioned already, on testnet, we had posted these scores. It's being reworked right now. So the scores are not accurate. Once there is a mainnet endpoint and once we're actually live and able to, you know, to kind of ingest all this data about mainnet"
+    },
+    {
+      "start": 2063.48,
+      "end": 2093.5,
+      "speaker": "SPEAKER_00",
+      "text": "validators, which we expect to be done by the end of the year. By day one, you know, we'll be able to have accurate scores posted and the capped amount of validators will be filled by whoever those validators end up being. We literally, that's the funny part is that we literally don't know. Um, so yeah, I would say that that's a pretty objective difference and, you know, the other ones are more speculative, but nonetheless objective. Um, K -Hype is very interesting because there's a lot of really cool stuff that you'll be able to do"
+    },
+    {
+      "start": 2093.5,
+      "end": 2123.54,
+      "speaker": "SPEAKER_00",
+      "text": "with it. Given the fact that we're going to be. Leveraging hyper core, uh, for, uh, liquidity as well as obviously on the EVM side. Um, this really, really cool stuff has mentioned that you can, that can be done. So yield trading is going to exist on, on a platform that will, you know, support K -Hype markets, um, on hyper EVM, which should be very interesting. Uh, the amount of carry trades that can be conducted, whether it's a basis trade or leverage looping, uh, are going to be super robust, very, very liquid and allow money markets to"
+    },
+    {
+      "start": 2123.54,
+      "end": 2153.96,
+      "speaker": "SPEAKER_00",
+      "text": "basically be in paradise. Because they'll be able to liquidate K -Hype really, really easily if needed. Um, and yeah, like all of this just points back to what we had discussed before, which is success looks like nobody needing to leave K -Hype. So I hope that helps, but yeah, Magnus, if I missed anything, feel free. Hyperliquid bro, hyperliquid. Hyperliquid. Nice. Nice. Yeah, I think that's, that's fair. Um,"
+    },
+    {
+      "start": 2153.96,
+      "end": 2184.16,
+      "speaker": "SPEAKER_00",
+      "text": "uh, you guys actually. Explain it well, what sets you guys apart and the differences between the, uh, liquid staking providers. Uh, I think perhaps just, uh, one last thing to touch on, which is your token. So, uh, what is the kinetic token and, uh, what utility can token holders expect eventually when you guys launch it? Yeah, that's, that's definitely like, it will be as,"
+    },
+    {
+      "start": 2184.36,
+      "end": 2214.58,
+      "speaker": "SPEAKER_00",
+      "text": "uh, let's just say. Cloudy as the K points question for sure. Uh, people have noticed that the K and TQ token was purchased right after the K hype, uh, token was purchased in October. So it's yeah, it's literally going on almost half a year since, uh, both of those stickers were purchased back to back. Um, but yeah, the, the point being that, that that's kind of the beautiful part about hyperliquid is that everything being on, on chain means that you really cannot hide or kind of, uh,"
+    },
+    {
+      "start": 2214.7,
+      "end": 2244.62,
+      "speaker": "SPEAKER_00",
+      "text": "trick anybody into, uh, you know, like, for example, like we see this a lot with meme coins, obviously, and other ecosystems where like various meme contracts will be deployed, but like whoever the team is, we'll basically just select one to run with, but it doesn't really exist on hyperliquid, particularly on hyper core where you have to purchase the tickers, right? Uh, and if, even if you were trying to financially game that, I mean, it would be very fucking expensive for zero reason. Um, so yeah, um, that's about"
+    },
+    {
+      "start": 2244.62,
+      "end": 2274.78,
+      "speaker": "SPEAKER_00",
+      "text": "as far as we can go with that. Actually, I might jump in actually with, um, like without saying too much more as well. Um, I guess like for us, we've discussed at length about what the token will offer, uh, what functionality features, you know, whatever, uh, all of that. Um, but like as a baseline, like we're still yet to see what hype is going to offer for us. And that technically is something that is a key"
+    },
+    {
+      "start": 2274.78,
+      "end": 2304.96,
+      "speaker": "SPEAKER_00",
+      "text": "driver to what evolves for the KNTU token itself. So like, I just feel it's not very honest to kind of drop all the different points or promises and all that type of thing. And I hate to do this to you guys, but yeah, that's more or less why just to give you guys a little bit more justification. As to, you know, why we can't just outright be like, yeah, we're going to offer X, Y, and Z. So yeah. Sorry to go to Hayden Adams. Yeah. Yeah. We're sorry. Extract on this one. Yeah,"
+    },
+    {
+      "start": 2304.96,
+      "end": 2335.3,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, yeah, exactly. So sorry. We can't answer directly, but yeah, that's a sufficient. Um, yeah. Yeah. I think that's entirely fine. Uh, I don't really have any more questions off, uh, the top of my head right now. So is there anything that you guys want to share? More about genetic, uh, or even, uh, what do you think of the reason, uh, the announcement that they made earlier today about linking Hypercore and Hyper -EVM, the, probably"
+    },
+    {
+      "start": 2335.3,
+      "end": 2366.38,
+      "speaker": "SPEAKER_00",
+      "text": "the next step for the team is pre -compiles, and I believe it should be live within the next 30 days or so, which means that you guys have a plethora of other depths can go live. Exactly. Yeah, that's right. Yeah. Um, in terms of, I guess you could say closing thoughts, um. Um, expect, uh, a really straightforward update as to how, uh, you know, when kinetic will go live effectively, we're going to be giving an eight day notice. Um,"
+    },
+    {
+      "start": 2366.38,
+      "end": 2396.44,
+      "speaker": "SPEAKER_00",
+      "text": "so obviously it's the easiest if, if you really have like time zone concerns and whatnot, the easiest thing would obviously be to turn on like post notifications for kinetic. Um, not going to sign this off like a fucking YouTube video and be like, whatever, like you could follow if you want or not. That's totally fine. But, but. You follow Hypercollective though, you know? So, yeah. Yeah, exactly. Exactly. Yeah. So, um, you know, why, like why eight days over seven days? Well, it's an extra 24 hours for everybody, uh, around the"
+    },
+    {
+      "start": 2396.44,
+      "end": 2426.78,
+      "speaker": "SPEAKER_00",
+      "text": "globe to basically get their stake ready. Uh, if they do care to partake in day one and if not, and you want to do it on day 30, like that's totally fine. But, um, yeah, that's pretty much it. I would say on my end, but yeah, Magnus, anything. Yeah, I guess, um, yeah, we plan to have it. In such a way that pretty much everyone will have open access to this. Uh, we want to try and keep it fair and, and everything as well. Um, you know, stress testing and everything is, um, obviously understandable for, um, you"
+    },
+    {
+      "start": 2426.78,
+      "end": 2457.66,
+      "speaker": "SPEAKER_00",
+      "text": "know, all manner of protocols as well. Um, no critiques on that front. Um, but you know, we want to try and offer this to everyone and everyone and, uh, you know, your best friends, dogs, cats, parrot type thing. So, um, yeah, just stay tuned for all the announcements and such and. As a hyperliquid rolls out more, um, you know, functions and features, precompiles, all that type of thing, just know that we're pretty close behind as well. So, um, yeah, appreciate you guys having us on hyperliquid,"
+    },
+    {
+      "start": 2457.7,
+      "end": 2488.38,
+      "speaker": "SPEAKER_00",
+      "text": "hyperliquid. Hi, um, I'll probably open up the floor, uh, to the listeners. Not sure if anyone has any questions, uh, please feel free to just raise your hand and request to speak. But I think. Uh, um, yeah, Magnus definitely covered a lot of this, uh, spaces and pretty comprehensive with what they can share. So yeah, pretty excited for the"
+    },
+    {
+      "start": 2488.38,
+      "end": 2518.49,
+      "speaker": "SPEAKER_00",
+      "text": "next month. Yeah. April should be fun for sure. Let's just give perhaps a minute to see if anyone has any questions. Yeah, sure. Um, I mean, it could be around integrations as well, like types of trades that we see possible platforms. That may support day one, um, bridges, et cetera. I mean, anything really feel free to ask. There's no such thing as a stupid question. So maybe a"
+    },
+    {
+      "start": 2518.49,
+      "end": 2548.85,
+      "speaker": "SPEAKER_00",
+      "text": "few that I usually ask only when it comes from me, uh, do you guys have any partnerships already secured, um, with the different, uh, depths in the ecosystem? Like where we'll create the life and usable day one. Yeah. So we'll, we'll announce official. Yeah. So we'll announce official partnerships, uh, and like integrations, but some, uh, have committed that won't even be announced. I mean, at least like on, on our end. So, um, I"
+    },
+    {
+      "start": 2548.85,
+      "end": 2579.19,
+      "speaker": "SPEAKER_00",
+      "text": "guess the ones that are the most exciting, of course, in terms of the ones that, you know, this is obviously an announcement of an announcement here, but, um, fuck like his Royal Highness. Yeah. Yeah. A couple, a couple people are actually on the space right now, but, um, Felix hyperland will support hyperdrive will support. We're very excited about that. Um, on the AMM side, you know, curve laminar, um, kitten swap, hyper swap, um, we're"
+    },
+    {
+      "start": 2579.19,
+      "end": 2609.21,
+      "speaker": "SPEAKER_00",
+      "text": "working very, very closely actually with beta labs. So one of the homies from beta was actually on here, uh, a few minutes ago, but yeah, if, if anybody's not familiar with beta, they've got, you know, over 3 billion in TVL and we'll basically be offering, uh, something that we announced on the IPO space last week. Um, K hype will have. Effectively on the kinetic front end, natively, uh, people will be able to kind of one click, uh, deposit their, their K hype into a vault that's automatically managed for them"
+    },
+    {
+      "start": 2609.21,
+      "end": 2639.21,
+      "speaker": "SPEAKER_00",
+      "text": "and will allocate to the various protocols that support, uh, K hype. And this requires vetting on both the kinetic front and the beta front. So, um, it won't be every single protocol that supports that will be allocated to, but the more secure, the better, the better relationship, uh, that they kind of, I guess you could say set up for. For K hype, whether it's, uh, rates or anything like that, the better. Um, and it's a very powerful tool because of the capital injection that does"
+    },
+    {
+      "start": 2639.21,
+      "end": 2669.69,
+      "speaker": "SPEAKER_00",
+      "text": "get, uh, effectively seeded into, you know, several protocols. Um, so it kind of solves this cold start problem as well. On top of the fact that, you know, there's going to be many, many guides on like quote unquote, uh, hyper EVM farms and like guides to do this and that and the other. Um, this kind of solves that because, you know, people don't need to basically rely on, you know, whatever somebody goes and, you know, tweets about with their referral link at the end. And, uh, it"
+    },
+    {
+      "start": 2669.69,
+      "end": 2699.83,
+      "speaker": "SPEAKER_00",
+      "text": "could just basically like fill in the vault and it takes care of all that for them. So lovely, uh, nature of autonomy kind of helps us with that. And more importantly, the K hype stakers. So the optionality for us is everything. And, uh, this kind of goes back to the very, very beginning of. The call, uh, where you had asked the question around, like, you know, why we've done this, um, it, we pretty much had a pact where this, the kinetic would not have been created"
+    },
+    {
+      "start": 2699.83,
+      "end": 2729.83,
+      "speaker": "SPEAKER_00",
+      "text": "if there was, uh, you know, if there was no path to making it like really, really vital for the ecosystem in terms of its status as a true money Lego for hype. And yeah, like if that wasn't the case, then kinetic wouldn't exist. So, uh, it's yeah, it's really. Uh, been enlightening to see how, uh, the integrations I've stacked up to make that vision possible and yeah, I'll leave off there in terms of, you know, what, something like that"
+    },
+    {
+      "start": 2729.83,
+      "end": 2760.41,
+      "speaker": "SPEAKER_00",
+      "text": "would look like just integration wise, but yeah, if you have anything as well, Magnus, yeah, I guess, um, yeah, like quality of life stuff, like, uh, in terms of like, uh, convenience and everything, like we're talking with a bunch of different bridges to kind of have that, uh, like one click, uh, bridging experience, you know, straight into K hype. Um, cause you know. I've had discussions with people that are, you know, have been wanting to explore hyperliquid more and, uh, not everyone crypto native, of course. Um, you know, there was a few friction points to them kind of onboarding"
+    },
+    {
+      "start": 2760.41,
+      "end": 2790.57,
+      "speaker": "SPEAKER_00",
+      "text": "into hyperliquid and, you know, all that type of stuff. So, you know, we're thinking about those types of conveniences as well, just to kind of make that, uh, process a lot smoother too. So, um, yeah, I mean, even if you guys had any feedback or thoughts and stuff like that, we're going to be open accessing like some of our socials and everything in due time. Um, and, um, yeah, we'll be able to like, have more open dialogues as well. So, uh, yeah, I hope that answered everything. Perfect."
+    },
+    {
+      "start": 2790.87,
+      "end": 2822.43,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, yeah, we have someone on board now. Hyper monkey. I think they have a question. Okay. Mel. Yeah. Uh, the hyper core team is helping to provide the liquidity to hyper avium. Uh, something. Like that happening, uh, to provide more liquidity. In what sense to be specifically. I mean, if you have like a further context regarding providing liquidity. No,"
+    },
+    {
+      "start": 2822.53,
+      "end": 2852.65,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of liquidity is taking pools are coming. No, uh, uh, people to engage more, uh, need more liquidity. No. Uh, yeah, yeah, for sure. Um, I guess you could say. He's providing any liquidity to help. The project's in hyper avium. Yeah. So as, as just mentioned, uh, one of our partners, Veda helps that actually. So basically if a protocol is considered vetted and safe enough for"
+    },
+    {
+      "start": 2852.65,
+      "end": 2882.87,
+      "speaker": "SPEAKER_00",
+      "text": "deposits, uh, K hype deposits, that is, uh, you know, they will effectively be able to allocate K hyper accordingly on behalf of users and, uh, effectively get them boosted yield on top of the staking reward. So, uh, whether this is collecting interest rates or. Collecting swap fees from providing liquidity on several AMMs, uh, it'll be. Backed in terms of what it can offer, uh, and all most importantly, without needing to leave the platform. So all in one place. Yeah."
+    },
+    {
+      "start": 2882.95,
+      "end": 2913.12,
+      "speaker": "SPEAKER_00",
+      "text": "I hope that answers the question. All right. Uh, there's another guy, uh, the candle on, uh, I think. Hi, thanks guys. Thanks for having me. Can you hear me? Yeah, man. All right. I was just, uh, I'm curious about this. I'm fairly new to this, uh, hyper liquid chain. Good friend of mine just referred to me, like probably not too long ago, weeks ago. And I'm getting super bullish, keeping"
+    },
+    {
+      "start": 2913.12,
+      "end": 2943.44,
+      "speaker": "SPEAKER_00",
+      "text": "up with everyone. I see that there's already an OG team. You guys have been around for a year for a part two, you mentioned 2023. Um, I'm trying to understand this whole thing. Like I see that also people are into like with the, um, uh, the, uh, which we call the, uh, uh, people are started, started getting to hyper liquid because of like the, uh, uh, which was, uh, uh, the trading, the cost. Yeah. Yeah. Um, but anyways, uh, yeah, that probably, yeah, that's why I try and remember. Exactly."
+    },
+    {
+      "start": 2944.58,
+      "end": 2973.58,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly. Um, but I, I'm, I'm, I'm seeing what you mentioned about LST and I'm trying to like, trying to translate that to like an, like an LA five version of this thing, because it's, I'm understanding it's kind of like LSD, right. Is it, is it basically liquid staking derivatives, but just, yeah, that's right. Exactly. Exactly. Liquid staking derivative, liquid staking token. Yeah, exactly. I guess the, this is the most simple thing, like likeness. For other projects that are out there is like LIDO or even like go on Solana. Uh, I would, I would"
+    },
+    {
+      "start": 2973.58,
+      "end": 3003.58,
+      "speaker": "SPEAKER_00",
+      "text": "probably say with the most similar to JITO on Solana. Um, yeah, yeah, yeah. So I hope that helps. Yeah, that, yeah, that's, that's the thing. Cause sometimes when I'm right now, my goal is to try to bring people to hyper liquid and sometimes I get the challenge of, uh, I get the challenge of people saying like, well, uh, you know, there does it already, you know, so I'm trying to like build something like right now. Yeah. Like bring people here. And also the challenge is bridging. Bridging to, to, to the, to the whole thing. And"
+    },
+    {
+      "start": 3003.58,
+      "end": 3034.54,
+      "speaker": "SPEAKER_00",
+      "text": "we're still young. I understand that. And, um, yeah, I just, I just wanted to say that what you guys shared so far, I don't know, I feel like I'm excited for, for where we have to come for hyper. Look, I understand we're about 400, only thousand people right now in the chain itself. Yeah, probably a little bit more now. Yeah. So we're still growing. I just, uh, yeah. So I just wanted to just try, I was just trying to basically just get a bigger, like a. Simple version, which you guys said that, that perfect, that actually is perfect. Thank you for that. No worries, man. No worries. Yeah."
+    },
+    {
+      "start": 3034.6,
+      "end": 3064.58,
+      "speaker": "SPEAKER_00",
+      "text": "Glad that helps, man. Yeah. Thanks for what you're doing too, dude. Appreciate it. Uh, yeah, I think no further questions. Um, thank you Omnia and Magnus for the spaces today. I think it's a very, uh, comprehensive one and we are all pretty much excited to see kinetic go live soon. Uh, fairly soon. Oh, man. So are we, all right. Yeah. Thanks for having us on man. Appreciate the time and, uh, coordinating,"
+    },
+    {
+      "start": 3064.82,
+      "end": 3076.6,
+      "speaker": "SPEAKER_00",
+      "text": "you know, everyone together to, uh, hear more about the project. Hyperliquid hyperliquid. Thank you. I love it. Peace."
+    }
+  ],
+  "speaker_map": {}
+}

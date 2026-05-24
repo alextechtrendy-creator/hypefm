@@ -3,7 +3,7 @@
 _RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies on Hyperliquid using natural language prompts._
 
 > 52% directional accuracy is already beating 80% of traders who actually lose money most of the time
-> — Mike, Alora Labs
+> — Mike, RoboNet
 
 **Host:** @rekt_gang
 **Date:** 2026-04-15
@@ -13,7 +13,7 @@ _RoboNet lets anyone build, backtest, and deploy algorithmic trading strategies 
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — Rekt Gang _host_
+- **Zerk** (@rekt_gang) _host_
 - **Augustus** — RoboNet _guest_
 - **Mike** — Alora Labs _guest_
 

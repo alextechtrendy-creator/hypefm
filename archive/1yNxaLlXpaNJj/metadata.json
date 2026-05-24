@@ -1,0 +1,96 @@
+{
+  "space_id": "1yNxaLlXpaNJj",
+  "title": "HypurrCo AMAs: StakedHYPE, Valantis Labs and stHYPE’s AMM",
+  "state": "ended",
+  "created_at": "2025-04-01T10:45:23Z",
+  "started_at": "2025-04-07T14:00:24Z",
+  "ended_at": "2025-04-07T14:40:46Z",
+  "scheduled_start": "2025-04-07T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 185,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Addison",
+      "handle": "0xaddi",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ali",
+      "handle": "0xaioli",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Valantis Labs",
+      "handle": "ValantisLabs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "DevenMat 🍓",
+      "handle": "DevenMat",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1yNxaLlXpaNJj",
+  "summary_title": "Liquid staking dominates Hyperliquid: 30% staked in four weeks, ST Hype AMM launches",
+  "summary_description": "Thunder Head and Volantis discuss why liquid staking will be bigger on Hyperliquid than Ethereum, and how their new AMM cuts arbitrage.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "L1"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 209,
+      "label": "Hyper Collective intro: largest validator outside foundation"
+    },
+    {
+      "timestamp_seconds": 330,
+      "label": "Volantis and Thunder Head introduce ST Hype liquid staking"
+    },
+    {
+      "timestamp_seconds": 481,
+      "label": "4.2 million Hype staked, available across all lending markets"
+    },
+    {
+      "timestamp_seconds": 543,
+      "label": "Liquid staking solves capital efficiency, unlock delays, manual rebalancing"
+    },
+    {
+      "timestamp_seconds": 967,
+      "label": "Sovereign pool mechanism: dynamic fees, native protocol integration"
+    },
+    {
+      "timestamp_seconds": 1180,
+      "label": "Edison: community codes and AMM mechanism differentiate ST Hype from competitors"
+    },
+    {
+      "timestamp_seconds": 1422,
+      "label": "Prediction: 30-50% of Hyperliquid supply liquid staked within six months"
+    },
+    {
+      "timestamp_seconds": 1822,
+      "label": "Future: LP token as collateral, hybrid AMMs between Hypercore and EVM"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Valantis",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2419.3066875,
+  "capture_failure_reason": null
+}

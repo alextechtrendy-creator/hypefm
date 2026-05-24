@@ -1,0 +1,84 @@
+{
+  "space_id": "1oKMvRYEQYnGQ",
+  "title": "HypurrCo AMAs: Trade Benchmarks with Paragon",
+  "state": "ended",
+  "created_at": "2026-04-12T05:43:59Z",
+  "started_at": "2026-04-16T15:00:25Z",
+  "ended_at": "2026-04-16T15:33:08Z",
+  "scheduled_start": "2026-04-16T15:00:46Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 109,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Paragon",
+      "handle": "tradeparagon",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Taha",
+      "handle": "tahathinks",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1oKMvRYEQYnGQ",
+  "summary_title": "Trading Bitcoin dominance and market structure ideas on Hyperliquid",
+  "summary_description": "Paragon makes abstract crypto ideas tradeable: Bitcoin dominance, Total2, Others as single instruments via HIP3.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 152,
+      "label": "Introduce Taha, founder of Paragon"
+    },
+    {
+      "timestamp_seconds": 334,
+      "label": "Paragon makes buy/sell buttons for front-of-mind ideas real"
+    },
+    {
+      "timestamp_seconds": 486,
+      "label": "Standardization and exact exposure versus synthetic replication"
+    },
+    {
+      "timestamp_seconds": 606,
+      "label": "Oracle design: hard to manipulate due to concentration"
+    },
+    {
+      "timestamp_seconds": 938,
+      "label": "Current liquidity: 1M depth within 100bps for Bitcoin dominance"
+    },
+    {
+      "timestamp_seconds": 1240,
+      "label": "Arbitrage opportunities and low-latency trading games emerge"
+    },
+    {
+      "timestamp_seconds": 1331,
+      "label": "Why Hyperliquid: perps represent unique opportunity for index products"
+    },
+    {
+      "timestamp_seconds": 1607,
+      "label": "Future expansion: crypto indices first, then commodities under consideration"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Paragon",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1959.744,
+  "capture_failure_reason": null
+}

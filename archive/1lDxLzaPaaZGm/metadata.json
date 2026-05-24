@@ -1,0 +1,47 @@
+{
+  "space_id": "1lDxLzaPaaZGm",
+  "title": "HypurrCo AMAs: OmniX’s HyperEVM Gacha",
+  "state": "ended",
+  "created_at": "2025-06-02T13:35:43Z",
+  "started_at": "2025-06-05T14:01:11Z",
+  "ended_at": "2025-06-05T14:37:12Z",
+  "scheduled_start": "2025-06-05T14:00:00Z",
+  "lang": "zh",
+  "is_ticketed": false,
+  "participant_count": 83,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "OmniX",
+      "handle": "OmniX_NFT",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Boobavelli 可雪",
+      "handle": "0xBoobavelli",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lDxLzaPaaZGm",
+  "summary_title": null,
+  "summary_description": null,
+  "topic_tags": [],
+  "key_moments": [],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Omnix",
+    "role": null
+  },
+  "audio_captured": false,
+  "audio_duration_seconds": null,
+  "capture_failure_reason": "yt-dlp failed: : No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n"
+}

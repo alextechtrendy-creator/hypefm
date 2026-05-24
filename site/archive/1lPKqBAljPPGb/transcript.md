@@ -3,7 +3,7 @@
 _Hyperliquid founder explains why they chose to build their own L1 instead of using existing infrastructure for decentralized perpetuals._
 
 > The entire order book actually runs on chain. There's no one computer that if shut down, the whole thing stops.
-> — Jeff, Hyperliquid
+> — Jeff
 
 **Host:** @rekt_gang
 **Date:** 2023-01-06
@@ -14,8 +14,8 @@ _Hyperliquid founder explains why they chose to build their own L1 instead of us
 ## Who's talking
 
 - **Circa** (@rekt_gang) _host_
-- **Jeff** — Hyperliquid _guest_
-- **Xuli** — rekt_gang _guest_
+- **Jeff** _guest_
+- **Xuli** _guest_
 
 ## Key moments
 

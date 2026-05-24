@@ -13,7 +13,7 @@ _Bernie's new gambling app lets you deposit 0.1 HYPE to win big, with 7% of winn
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — Rekt Gang _host_
+- **Zerk** (@rekt_gang) _host_
 - **Bernie** _guest_
 
 ## Key moments

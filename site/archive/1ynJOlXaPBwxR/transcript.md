@@ -13,7 +13,7 @@ _Sentiment brings leveraged lending and coin margin to Hyperliquid's L1, enablin
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — RecGang _host_
+- **Zerk** (@rekt_gang) _host_
 - **Zerx Snarks** — Sentiment _guest_
 
 ## Key moments

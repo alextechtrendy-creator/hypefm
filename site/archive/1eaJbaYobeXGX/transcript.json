@@ -1,0 +1,560 @@
+{
+  "space_id": "1eaJbaYobeXGX",
+  "language": "en",
+  "duration_seconds": 3088.6826875,
+  "chunks": [
+    {
+      "start": 304.4,
+      "end": 334.4,
+      "speaker": "SPEAKER_00",
+      "text": "Alright, I think we can begin. So I think first of all, most of you guys know what hypercollectives do, but I'll just give a quick introduction before we touch on the main topics of today's agenda. So basically, hypercollective is a collective of ecosystem builders, founders,"
+    },
+    {
+      "start": 334.7,
+      "end": 364.72,
+      "speaker": "SPEAKER_00",
+      "text": "funds, and also a group of us, which basically started this initiative. So our mission is very clear, which is basically to kind of push the marketing and community efforts within the hyperliquid ecosystem. So yeah, basically, that's the quick TLDR. So we have a few offerings that we will be working on in future. One of the most anticipated one is being a validator on hyperliquid"
+    },
+    {
+      "start": 364.72,
+      "end": 395.16,
+      "speaker": "SPEAKER_00",
+      "text": "mainnet itself. We have a few other product offerings that are in the works as well, which are all driven by community initiatives and efforts. Our website is live. We have a lot of ecosystem projects that are already on there. So if you'd like to find out more. More about it, you can always look deeper into it on our website. So today we have a very special guest, Ambit. So"
+    },
+    {
+      "start": 395.16,
+      "end": 426.32,
+      "speaker": "SPEAKER_00",
+      "text": "today's AMA is more to understand what Ambit do and how they are setting themselves up to deploy on hyperliquid via another brand name. So I'll let them touch more on that. So I think. Yeah, please give a quick introduction about yourself, your background, any information that you guys like to share. Yeah,"
+    },
+    {
+      "start": 426.34,
+      "end": 456.68,
+      "speaker": "SPEAKER_00",
+      "text": "sure. Thanks for having us. I'll go first. So my name is Cain. I'm one of the co -founders of AMBIT Labs. My background is traditional computer science. So I graduated back in the late 90s. Been an engineer now for over 25 years. Spent a lot of time working in traditional mining, oil and gas, gold mining. Uh, then spent. Spent a huge chunk of time working in web two development, but then sort of during COVID in 2020, uh, started having a lot of free time. Started looking through a lot of GitHub repositories"
+    },
+    {
+      "start": 456.68,
+      "end": 487.5,
+      "speaker": "SPEAKER_00",
+      "text": "on, um, some of these default protocols and what they were building. And the more I started to look, the more it started to make sense. And that was really the light bulb moment for me that, you know, we could build a permissionless financial system without any intermediaries. Um, and that was really what sort of sparked my interest to get involved. In, in crypto full -time as a builder. Um, so I then applied for a job at Terra, working at Terra protocol, Terra money back in the day and"
+    },
+    {
+      "start": 487.5,
+      "end": 518.12,
+      "speaker": "SPEAKER_00",
+      "text": "building anchor protocols. And that's where Matt and I first met. So I think I'll hand over to Matt. Yeah. Um, yeah, so immediately prior to AMBIT, uh, like Cain said, uh, we, we built anchor, uh, savings protocol on Terra as two of the founding. Members, uh, at anchor, I was GM responsible for building the team, getting the project to a place where it could spin off into something self -sustaining and cross chain. Uh,"
+    },
+    {
+      "start": 518.22,
+      "end": 548.18,
+      "speaker": "SPEAKER_00",
+      "text": "ultimately we didn't get there obviously with the Terra collapse, but we got to anchor to a place where I think it was the third largest DeFi protocol in crypto after curve and Ave. Uh, so there was a lot of, of good that, that came out of that as well, which we can talk about in a little bit. Um, we learned a lot of stuff at anchor. The good and the bad, but, um, it's, it's certainly a unique experience, uh, and, and differentiated in that way. Uh, before that I was at Microsoft for five years after selling a cybersecurity"
+    },
+    {
+      "start": 548.18,
+      "end": 578.34,
+      "speaker": "SPEAKER_00",
+      "text": "company to them in 2017. My background is, uh, is wall street in, in Silicon valley, uh, MNA investment banking at Morgan Stanley for a few years, followed by, um, employee one or co -founder roles at a few Bay area startups. In the security and cloud infrastructure spaces. Um, so got into a crypto kind of full time, um, right at the very beginning of COVID. Um, and, uh, have been in it full time"
+    },
+    {
+      "start": 578.34,
+      "end": 608.44,
+      "speaker": "SPEAKER_00",
+      "text": "ever since. Nice. Awesome. Thanks for the quick introduction. I think, uh, I mean, uh, it's nice to know some of that. Pro I think now, um, the question is what is embedded and what are you guys looking to build, um, on hyperliquid? Uh, especially given that. you guys built up Anchor Protocol and that was quite famously known before the whole collapse. So yeah,"
+    },
+    {
+      "start": 608.5,
+      "end": 638.54,
+      "speaker": "SPEAKER_00",
+      "text": "what is Ambit and your mission basically? Yeah, for sure. You can think of Ambit really as a cross -chain project that builds DeFi primitives for DeFi yield and provides a simple hub for users to access those yields. So we basically allow unlimited leverage opportunities for users no matter what their sophistication level is. So our big push at the moment"
+    },
+    {
+      "start": 638.54,
+      "end": 668.66,
+      "speaker": "SPEAKER_00",
+      "text": "is HyperDrive. That's what we call it. It's a vertically integrated spot lending protocol on HyperLiquid, native to HyperLiquid, that first tokenizes their HLP vaults but then basically tokenizes everything on the chain that produces yield over time. So HyperDrive is going to feature its own liquid staking token that works seamlessly within the protocol. It's got the tokenized HLP vaults, like I said. It's going to have a basis"
+    },
+    {
+      "start": 668.66,
+      "end": 699.84,
+      "speaker": "SPEAKER_00",
+      "text": "trade, all sorts of really interesting things, one -click basis trade, where essentially HyperDrive becomes this one -stop shop on HyperLiquid for all things DeFi, really, as they associate with spot lending. We did quite a bit of research around this, talking to huge traders on HyperLiquid, figuring out where the gaps were. We started talking to the HyperLiquid team itself, the founders. And so we're not working in the dark here. We"
+    },
+    {
+      "start": 699.84,
+      "end": 729.9,
+      "speaker": "SPEAKER_00",
+      "text": "identified a big opportunity. The thing that was recurring over and over again was we wish there was a spot lending protocol that just worked. And so we had Ambit Finance already launched and good to go as part of a seed round we did a year and a half ago with Binance Labs. So we stood up from scratch Ambit Finance, which is a portfolio management tool on BNB chain, which is not a very active chain and we don't spend any time there. But we had the architecture, the framework already"
+    },
+    {
+      "start": 729.9,
+      "end": 760.22,
+      "speaker": "SPEAKER_00",
+      "text": "built to do this cool stuff. So we, in a sense, got lucky. We have assets in place, a team in place that knew how to do this from anchor days. And it just set up perfectly and coincided perfectly with HyperLiquid mainnet next month or December. So a little bit of an unfair advantage there in the sense that the due diligence we were doing in the space with the traders and the founders of HyperLiquid kind of coincided perfectly with what we had built and what our vision"
+    },
+    {
+      "start": 760.22,
+      "end": 790.6,
+      "speaker": "SPEAKER_00",
+      "text": "was. Cain stumbled on this tokenizing HLP vaults several months ago and found that that dovetailed really nicely into it. I think LST is kind of table stakes. Liquid staking is kind of table stakes in itself, not too differentiated. But within the context of a hyperdrive, very, very interesting. And sorry, Cain, I'm kind of rambling here. Feel free to get into more detail. Or if you want to change topics, whatever you want to do. Yeah,"
+    },
+    {
+      "start": 790.66,
+      "end": 820.6,
+      "speaker": "SPEAKER_00",
+      "text": "I guess just to touch you on that. So it's all part of the broader question of why HyperLiquid. And for us, we're all about yield, providing yield to users. And when you're building on an EVM chain that has access to native perps and spot liquidity, there's a lot of possibilities that can be done to generate yield for users. And a lot of those ideas, probably people haven't thought of yet. And they'll come out as we get more users into the ecosystem. So for us, it was really a no brainer. It was a really easy"
+    },
+    {
+      "start": 820.6,
+      "end": 850.6,
+      "speaker": "SPEAKER_00",
+      "text": "choice for us to look into the HyperLiquid ecosystem. But really, I think what sort of piqued our interest maybe six months ago when we sort of first heard about the EVM launching, we were using the HLP vault because neither Matt or I are very good traders. We don't trade, but we were just sitting in our stables in HLP. And when we heard about the EVM chain, we initially just thought, one of the things that we want to do as a lending protocol is allow users to borrow against yield -bearing collateral."
+    },
+    {
+      "start": 851.68,
+      "end": 880.66,
+      "speaker": "SPEAKER_00",
+      "text": "I think the first incarnation of lending markets back in DeFi summer, they were just lending against plain spot assets. Whereas now, there's a lot more of an appetite for users to lend against yield -bearing collateral. And we sort of looked at HyperLiquid and the HyperLiquidity vault and thought, well, if we can tokenize that, allow users to borrow against that, and then lever into that and get leverage exposure on that as an asset, that would be a great place for us to start. And that's really what started us"
+    },
+    {
+      "start": 880.66,
+      "end": 910.9,
+      "speaker": "SPEAKER_00",
+      "text": "digging through the ecosystem, talking, got in touch with the team, had some really good conversations with the team about how we can build this. We did some prototypes, worked out, you know, what the pain points were going to be, where it would and wouldn't work, what primitives we needed to work. And when you get access to the team, and the team are just very responsive, you can see that what they're building, they're really listening to feedback for"
+    },
+    {
+      "start": 910.9,
+      "end": 941.08,
+      "speaker": "SPEAKER_00",
+      "text": "builders on the ecosystem. That's very rare for any ecosystem or any chain to actually have founders that are actively engaging and listening to feedback. So that was really what. Sort of, you know, made us go, yep, let's go all in on Hyperliquid and build this product. Awesome. That's exciting to hear. I think I pretty much echo your views on how the founding team and the rest of the team members and"
+    },
+    {
+      "start": 941.08,
+      "end": 971.6,
+      "speaker": "SPEAKER_00",
+      "text": "some of the engineers are very proactive and engaging on Discord. I think that definitely helps in building a community and also welcoming builders, which is the main core focus right now, as they've kind of bootstrapped traders, into their native flagship perp decks. So right now it's more of just welcoming builders to build on top of the layer one, who have existing depths that can actually compete with the prominent chains and"
+    },
+    {
+      "start": 971.6,
+      "end": 1001.86,
+      "speaker": "SPEAKER_00",
+      "text": "dominant one currently. So I do agree that Jeff and the other team members are actually super helpful in that aspect. So I think something that you point, you touched on just now earlier about tokenizing, I think that's obviously very interesting. And we all know how capital efficiency is kind of important and being able to tokenize it and then allowing users to borrow against it. I think it unlocks"
+    },
+    {
+      "start": 1001.86,
+      "end": 1033.04,
+      "speaker": "SPEAKER_00",
+      "text": "more of that. I think a good example is like, I mean like currently a few perp decks like Drift and even Able actually have an automatic yield for your stables that you're trading on. So on Hyperliquid, you don't. So for example, if someone deposits into HLP, they can't exactly utilize that capital there. It's already earning yield. So they can't use that as collateral for trading basically. So having"
+    },
+    {
+      "start": 1033.04,
+      "end": 1063.5,
+      "speaker": "SPEAKER_00",
+      "text": "that tokenized, having that receipt version obviously allows you to kind of loop it again and use it as a collateral for trading. So that definitely opens up a lot more, capital in the ecosystem. I think with regards to this, how do you guys plan to handle the liquidation mechanism? Yeah, so that's a good question. So there's a few things we can do on that. Obviously because it's USDC backed and we leaned at USDC,"
+    },
+    {
+      "start": 1063.56,
+      "end": 1094.36,
+      "speaker": "SPEAKER_00",
+      "text": "there's some advantages there at a technical level, but also within our protocol, we have protocol on liquidation. So we do a few things around liquidation, which means we can hold certain positions open. We don't have to liquidate them atomically. And in the HLP case, that will be one of those scenarios where we can actually wait for the redemption period to withdraw. And for those that use the hyperliquidity vault, you'll know that there's a four day withdrawal period after a deposit. We've"
+    },
+    {
+      "start": 1094.36,
+      "end": 1124.86,
+      "speaker": "SPEAKER_00",
+      "text": "got a solution around that so that we won't actually have to wait four days. So we'll be actually able to redeem. We're thinking we should be able to redeem a lot of positions within four hours to eight hours. And obviously our liquidate will be the highest priority for redemptions above users that wanted to redeem that position. So that's a big bonus there in terms of how we can effectively liquidate that. And also part of Ambit Finance, our lending protocol, early next year we'll be rolling out what"
+    },
+    {
+      "start": 1124.86,
+      "end": 1160.58,
+      "speaker": "SPEAKER_00",
+      "text": "we call Guardian, which is an extension, another module within the lending protocol. And that actually allows users to bid on discounted liquidity. So instead of having to liquidate an asset and sell it on the spot market or unwind it, users can actually bid and say, I'll be prepared to buy someone's discounted HLP at a 10 % discount. So the first stop for liquidation actually is recycling liquidity within the protocol, as opposed to sending it elsewhere to liquidate it. That's"
+    },
+    {
+      "start": 1160.58,
+      "end": 1190.82,
+      "speaker": "SPEAKER_00",
+      "text": "awesome. Does Matt has anything to add on to that? No, I think that's a good summary of liquidation. I think Anchor was very novel. In the way that it handled liquidation and it did that scale. So we've learned quite a bit there as well as bonding assets on the collateral side, working with liquid staking. Anchor was really a pioneer in both of those areas. And so, you know, Cain and the guys, myself also have, have quite a bit of experience"
+    },
+    {
+      "start": 1190.82,
+      "end": 1221.16,
+      "speaker": "SPEAKER_00",
+      "text": "with that. You know, what can, what can, what can go wrong? And we've tested a ton of different scenarios around this, but yeah, I think Cain did a good job describing it. Great. I think I want to touch a bit on the liquid staking portion. There's currently a few product protocols that pretty much announced that they are offering liquid, they are building up liquid staking protocols. So Thunderhead and Kinetic, two of the notable names that have officially"
+    },
+    {
+      "start": 1221.16,
+      "end": 1252.1,
+      "speaker": "SPEAKER_00",
+      "text": "announced it. How do you guys plan to differentiate from the existing solutions and in future even more of the other liquid staking competitors? Yeah, it's a good question because I think liquid staking these days is just a primitive that people expect on chain. And they're relatively simple to build these days. It's not like Lido's Staked ETH, which is really quite complicated just because of the security risks around that. Liquid"
+    },
+    {
+      "start": 1252.1,
+      "end": 1282.1,
+      "speaker": "SPEAKER_00",
+      "text": "staking on most chains is a lot easier. So it's almost commoditized service these days. So it is very hard to build a differentiation within the liquid staking token itself. Where you can build the differentiation around liquid staking is the utility behind liquid staking in the ecosystem and how you actually build that in. And because we have the lending protocol and the liquid staking natively existing within the scope of that lending protocol, there's a lot of advantages we"
+    },
+    {
+      "start": 1282.1,
+      "end": 1312.56,
+      "speaker": "SPEAKER_00",
+      "text": "can do with lending against that and how we liquidate that. And we've got some ideas on how we can liquidate that more efficiently than other assets. Therefore, we can give out, at a higher efficiency, high loan to value ratio and borrowing capacity against that as an asset. And I think that's where we'll probably differentiate the ability for users to actually be more efficient with the capital with regards to a liquid staking token. Yeah. If you think of hyperdrive as being this kind of premier spot lending market,"
+    },
+    {
+      "start": 1313.72,
+      "end": 1342.8,
+      "speaker": "SPEAKER_00",
+      "text": "as you know, lending markets are married very well with liquid staking. Again, going back to anchor, we used Lido a lot, to bond Luna and use that as collateral within anchor, which was itself a money market slash lending protocol. Yeah. LSTs, you know, liquid staking derivatives, liquid staking tokens in my mind are a bit commoditized. There's not a huge differentiation between them, but I do think that"
+    },
+    {
+      "start": 1342.8,
+      "end": 1373.48,
+      "speaker": "SPEAKER_00",
+      "text": "if you can make it work in concert with something bigger, like this, like hyperdrive itself as this kind of word or organism, and have it build seamlessly within it and have all sorts of cool abilities to use it in different capacities on hyperdrive in a native way. I think that's where it kind of becomes differentiated, just like super ease of use and then extra utility within hyperdrive. I think if we had just built a bit hype, a hype,"
+    },
+    {
+      "start": 1373.84,
+      "end": 1403.54,
+      "speaker": "SPEAKER_00",
+      "text": "I think you're, you know, you're kind of going up against a crowded market, a super smart teams who are putting these things in their special. Sauce on them. And it kind of becomes a marketing game. I think for us because it's, you know, just a component kind of a table stake within hyperdrive itself. I think that's how we're going to kind of push it. Market go to market with it. You know, I, you know, on its surface, you know, as a core kind"
+    },
+    {
+      "start": 1403.54,
+      "end": 1433.86,
+      "speaker": "SPEAKER_00",
+      "text": "of primitive by sitting by itself, I don't think quite frankly, it is like incredibly differentiated, but I think in the context of hyperdrive, it becomes very interesting. It's something we had to build. Yeah. And there's a few things that we can do behind the scenes as well to actually make it more efficient. So it depends on your jurisdiction, your tax jurisdiction. But in a lot of cases, a lot of countries will text you when you, when that asset swaps. So if you, if you have hype for an airdrop and you stake that, that will be considered a taxable event in most countries."
+    },
+    {
+      "start": 1434.86,
+      "end": 1466.43,
+      "speaker": "SPEAKER_00",
+      "text": "What's not considered a taxable event in a lot of countries is if you deposited the hype into a lending protocol and behind the scenes that lending protocol managed to vault, which then went and staked it. So the users were still getting the yield paid out to reduce the cost of their loans. But technically when they deposit and withdraw, they're just using depositing, withdrawing, playing high. Then in a lot of cases, it might not be considered taxable events. So that's one of the things we're looking at building in as well. Awesome."
+    },
+    {
+      "start": 1466.57,
+      "end": 1496.49,
+      "speaker": "SPEAKER_00",
+      "text": "That's a very comprehensive answer. And I think you, you said the reaction is pretty clear on how you, how you would identify yourself apart from your competitors. I think probably to somewhat almost wrap this up, I think more of a general industrial overview question is what trends do you anticipate for DeFi within hyperliquid? Do you see a lot of lending and"
+    },
+    {
+      "start": 1496.49,
+      "end": 1526.97,
+      "speaker": "SPEAKER_00",
+      "text": "protocols deploying on it? A lot of you trading protocols deploying on it just to make, um, just to build out this DeFi primitive and making capital more efficient because I mean the base of the traders, the base of the users are traders right now and there's definitely I think quite a huge incentive to eventually collateralize their loans collateralized their dollars and then bring out that extra leverage to"
+    },
+    {
+      "start": 1526.97,
+      "end": 1557.13,
+      "speaker": "SPEAKER_00",
+      "text": "kind of make the money more capital efficient and at the same time take on more trades. So how do you see that? Um, how do you see that planning out 40 for DeFi on hyperliquid? Yeah, that's, that's, that's a good question because I think one of the advantages and one of the things that we're so bullish on with hyperliquid is that I think no one really knows what some of these trends might be because there's such a unique differentiator between hyperliquid and other EVM chains. When you have access to the purpose and spots of liquidity, there's a lot of things you can do. And I think people"
+    },
+    {
+      "start": 1557.13,
+      "end": 1587.89,
+      "speaker": "SPEAKER_00",
+      "text": "probably haven't thought about a lot of the possibilities yet. So a lot of those trends may still be evolving. but we talk about traders and having the ability, we're definitely going to be helping traders because, you know, if you want to have Bitcoin, you want to borrow against your Bitcoin to then use that to trade, then that's the kind of things that will later sport. We've got some native integrations within our app that later transfer straight into your purpose account when you borrow. Um, but also whilst"
+    },
+    {
+      "start": 1587.89,
+      "end": 1617.91,
+      "speaker": "SPEAKER_00",
+      "text": "we, whilst hyperliquid is very much focused around traders at the moment, the EVM train, gives a whole new avenue to drawing customers. And, you know, like the traders in crypto are still only a small percentage compared to people just seeking yield. Um, and I think that's where there's going to be a lot of explosion on the EVM side is that the traders will be trading. Um, and that the traders trading will also offer potential yield opportunities that, you know, people looking to just deploy into yield farms or some sort of new strategy"
+    },
+    {
+      "start": 1617.91,
+      "end": 1648.13,
+      "speaker": "SPEAKER_00",
+      "text": "with USDC or other, um, assets. That's really, that's where they'll come to the EVM chain. So I think it's sort of, is this real flywheel effect of liquidity that, um, not many other chains have a chance to achieve. Yeah, it's funny, you know, hyperliquid, you know, there's obviously regulatory oversight of, of all these new chains and what they can do themselves and what they shouldn't be doing. You know, yield bearing stable coins is, is probably,"
+    },
+    {
+      "start": 1648.21,
+      "end": 1678.27,
+      "speaker": "SPEAKER_00",
+      "text": "uh, an area that gets kind of touchy for someone like hyperliquid and maybe a third party. Has to go to develop that, um, keep USDC in hyperliquid. Uh, we've got in that USD, which is, which is, you know, a yield bearing stable coin primitive. It's really a managed vault, uh, backed by USDC that ingests, uh, third party protocols in an exchange kind of bootstraps liquidity and distribution for those protocols. So these would be the early hyperliquid protocols. So like we've got that aspect"
+    },
+    {
+      "start": 1678.27,
+      "end": 1708.59,
+      "speaker": "SPEAKER_00",
+      "text": "as well and hopefully it becomes a trading pair over time. But, uh, introducing, introducing core primitives like that are going to be probably happening on something like hyperliquid. Uh, and we're like, like I said before, we're kind of well positioned because we had a lot of this stuff built already before we even contemplated hyperliquid. So I think you yield bearing stable coin is something that becomes a thing and hopefully a USD, which is and that USD becomes a thing in a trading pair and something that, you know, other protocols, early"
+    },
+    {
+      "start": 1708.59,
+      "end": 1738.71,
+      "speaker": "SPEAKER_00",
+      "text": "stage protocols on hyperliquid can kind of tap into for liquidity and distribution. We think that, um, well, AUSD is really all about yield diversification and, and, you know, that's important when you talk about hyperliquid because HLP vault becomes another source of yield for AUSD. Um, just like current sources like Omdo, SDIS, USDE other first party lending app, uh, Ambit finance that we built already. Uh, so, um, it becomes something really interesting as well. And"
+    },
+    {
+      "start": 1738.71,
+      "end": 1769.03,
+      "speaker": "SPEAKER_00",
+      "text": "maybe, you know, I don't want to speak for Jeff and those guys with hyperliquid, but, you know, maybe that is something that, you know, we kind of can, can take on, um, as, as we, as we kind of grow, uh, and we get that thing out there and proliferate and that that's, that could be a really cool part of our story. And then like Cain talked about like one click carry trades. It's really interesting. Like Shoku put out something on CT a couple of days ago, or maybe it was last night. I can't tell. And just asking people, traders, users, uh, founders,"
+    },
+    {
+      "start": 1769.05,
+      "end": 1799.05,
+      "speaker": "SPEAKER_00",
+      "text": "whatever, what, what they want to, what, what should be built on hyperliquid next. And all these kinds of responses rolled in like mobile UX and one click carry trades. And a lot of these things we had, you know, have built or are building. And so it really is this evolution. It's really, really cool to see this stuff kind of go. And one of the reasons we picked hyperliquid was like, this was where the smart traders were going and it's all about driving yield and we're all about driving yield. So it was like a perfect marriage for us and just made sense given the assets"
+    },
+    {
+      "start": 1799.05,
+      "end": 1829.05,
+      "speaker": "SPEAKER_00",
+      "text": "we have. But, um, like, like this, one of the reasons this is so cool is this is evolving so quickly and we expect tons of smart teams to enter the space that we're going to be really complimentary with. We're going to be, we're going to be, you know, competitive with some of them. And, you know, I think that's, that's great and healthy and great for the ecosystem. Um, and Jeff and those guys certainly want that. But, um, you know, it's one of those things, if there's a surface area and you're competitive on, you know, 80 % of it and you're complimentary on 20 % of"
+    },
+    {
+      "start": 1829.05,
+      "end": 1859.43,
+      "speaker": "SPEAKER_00",
+      "text": "it, you know, we're going to go work, we're going to work on that 20%, uh, the complimentary piece, uh, cause you know, we want to expand this pie and get more and more smart traders there. So it creates this, you get the nice funding rates and you get a real flywheel effect with us and some of these other projects, you know, we, we want everybody to kind of rise up around this thing and you know, if other projects are successful, we're successful and vice versa. But, um, yeah, we got a lot of things in the offing here that we think address where DeFi is going, uh, on hyperliquids. Um,"
+    },
+    {
+      "start": 1860.19,
+      "end": 1889.53,
+      "speaker": "SPEAKER_00",
+      "text": "and then, you know, like Cain said, there's going to be a bunch of stuff that we haven't even thought of that, you know, become very apparent in, you know, six, 12 months. And, you know, hopefully we've got the flexible architecture built where we can just, you know, go pounce on those opportunities, uh, without getting too distracted and trying to, you know, be everything to everyone. I think, you know, if you, if you have this one stop shop kind of, you know, mentality, I think that's really good. And you build in, you know, kind of network effects and cool internal flywheels, but you can also"
+    },
+    {
+      "start": 1889.53,
+      "end": 1920.08,
+      "speaker": "SPEAKER_00",
+      "text": "get distracted. With a bunch of stuff, that's really not going anywhere. So we gotta be pick and choose, you know, we gotta be in constant dialogue with hyperlink, but itself, you know, if someone else is better equipped to build something, go partner it out instead of building it. Um, you know, we're a small team, six people. So we gotta be, we gotta be on our game in terms of like what we're going to build versus third party. Yep. Yep. Thank you for, for the comprehensive fund. So I think, um, I"
+    },
+    {
+      "start": 1920.08,
+      "end": 1950.15,
+      "speaker": "SPEAKER_00",
+      "text": "think this, uh, entire space, Steve, a very clear view of what ended is building. If there's any additional points that you like to add that you think you haven't covered, uh, please feel free to do so. If not, we'll probably open the floor to the general public for questions. Yeah, I think I'll just quickly touch on one thing about the half liquid ecosystem itself. So obviously"
+    },
+    {
+      "start": 1950.15,
+      "end": 1980.25,
+      "speaker": "SPEAKER_00",
+      "text": "Matt and I came from the terror ecosystem, um, many years ago. And I think terror, one of the reasons terror was so successful was because it had such an active, vibrant community. A lot of things are run by community members, not so much the team itself. Um, and we've both spoken about this before that, you know, hyperliquids, the first ecosystem we've seen since then, that's actually showing signs of replicating that same, uh, vibrant community. Um, it's very, very community focused. It's not VC focused."
+    },
+    {
+      "start": 1980.77,
+      "end": 2010.59,
+      "speaker": "SPEAKER_00",
+      "text": "Um, and I think that's, uh, it's really something that, uh, I think it's going to take off over the next 12 to 18 months as well. Yeah, it's funny. You kind of go where the smart people are going. Uh, like I said earlier, the smart traders, the people who are using this in a daily capacity who really understand stuff, uh, seem to all have built hyperliquid into their day. It's in some form or fashion. And so, you know, if you're following where the talent goes, that's usually a pretty good barometer."
+    },
+    {
+      "start": 2010.67,
+      "end": 2040.71,
+      "speaker": "SPEAKER_00",
+      "text": "And that's something we, we try to kind of do. Uh, so if you look at that trend of where these, uh, smart, really enthusiastic people are going, you know, combined with what we've got built already combined with, you know, our expertise, uh, it makes a ton of sense. Yeah. Community, you know, you got to build the nuts and bolts like, you know, Jeff and, and Julian, all those guys have, uh, to, to attract the people. So it's got to start there. It's got to start on the product. Um, but the word of mouth and the, the community that grows up around it really"
+    },
+    {
+      "start": 2040.71,
+      "end": 2070.93,
+      "speaker": "SPEAKER_00",
+      "text": "becomes a big moat. Uh, one of the big moats for Tara, as Kane said, was the lunatics themselves. It's the most rabid community, probably in the history of crypto. Um, it's kind of like the chain, like, uh, guys in the very beginning, just kind of a mafia. Uh, I, I see that building here as well. Um, and that's, that's really exciting. You know, you, you touch some of these other chains that are big and have been around a while and they just haven't caught the lightning in a bottle. Like I think hyperliquid is, um, and, and hyperliquid is, you know, for us, we're"
+    },
+    {
+      "start": 2070.93,
+      "end": 2101.23,
+      "speaker": "SPEAKER_00",
+      "text": "well versed in it and everybody on this space is, you know, it makes a lot of sense and it's very obvious. Uh, but you know, it's, it's not something you see all over CT all day, every day. Um, and so, uh, you know, we, we think we're positioned really well to be kind of a foundational piece here in terms of, you know, native defy yields and, and being a hub for, for people, um, then being responsive. Um, and so, yeah, we're, we're, we're, we're super excited to, to get this going. And, um, you know, we encourage people"
+    },
+    {
+      "start": 2101.23,
+      "end": 2132.24,
+      "speaker": "SPEAKER_00",
+      "text": "to play around with it and test that, et cetera. So yeah, we, yeah, okay. Kate and I can point you to all those links as well after this call, or we can do it at the end or whatever. Yep. Uh, yeah, I think I would just touch quickly. I think community is a strong mode. Uh, and what we've seen on hyperliquid, I think it's extremely organic. Uh, everyone, most of the people at least here love the product and we've seen how, uh, despite like the points program, um, uh,"
+    },
+    {
+      "start": 2132.32,
+      "end": 2162.34,
+      "speaker": "SPEAKER_00",
+      "text": "pretty much ended already with, we haven't seen a significant and drastic, uh, fall in terms of volume, open interest or users for that matter. So, uh, liquidations are very good, um, metric, uh, for per Texas as well. And liquidations haven't actually, uh, fall short. So, uh, it's, it's hot. It's harder to gain liquidation metric because that actually means that you're putting money and it's honestly baseless for protocols to do that. If"
+    },
+    {
+      "start": 2162.34,
+      "end": 2192.44,
+      "speaker": "SPEAKER_00",
+      "text": "they already have this incentive, caught the points program. So there's no reason to, to kind of just burn cash and then give up more of that tokens eventually as well. So, so all those metrics haven't actually fall off for hyperliquid. So I think the community community built here is really, um, I think we're all organic. Uh, we obviously somewhat have a vested interest, but I think it's, it really points down to the core of, we love the product and we really, uh, one more"
+    },
+    {
+      "start": 2192.44,
+      "end": 2222.77,
+      "speaker": "SPEAKER_00",
+      "text": "people to know more about it. Uh, so someone, someone actually requested a prosper. I think he might have a question, so I'll let him on. Okay. No, I think it might be a misclick. So, uh, yeah, I think that's, wait. Yep. Uh, prosper."
+    },
+    {
+      "start": 2222.87,
+      "end": 2253.31,
+      "speaker": "SPEAKER_00",
+      "text": "I think you're a speaker now. I think if you have a question you can ask. Okay. Okay. Um, Jim, Jim, everyone. Um, thank you so much. Um, hi, pop here. And, um, thank you so much. The speakers on, thank you so much. You listening now. I'm so glad to be among the space. I'm so honored to be among, um, great people like this today. And, um, I just have some few observation, although I, I definitely just came to the ecosystem today. I probably quit ecosystem. So, um,"
+    },
+    {
+      "start": 2253.45,
+      "end": 2283.31,
+      "speaker": "SPEAKER_00",
+      "text": "I'm trying to like, um, get familiar with what they do at all. And then I'm also on command. Uh, it is actually user friendly, you know, um, you know, I'm a content writer, you know, so that is why I kind of like, you know, find it out. Is that the way they do their things? You know, the way it is actually being explained, it is more like what our ecosystem, you know, if you are going to their dogs, you don't really understand what they are trying to like, you know, talk to their users about, but, you know, coming to this system, the chains that are building upon what they actually solving, the"
+    },
+    {
+      "start": 2283.31,
+      "end": 2313.47,
+      "speaker": "SPEAKER_00",
+      "text": "solution they are providing is just top notch, you know, and as we got, what we are talking about, the, um, I'm beyond, um, so sorry if I didn't get a question, right. I'm trying to like, I said, uh, assess your website, but it's not going through. I'm trying to like stick, get, uh, I want to like get to know more about your website, but it's not going to. So I don't know if you guys can like make adjustments as a God. Uh, so that's why I try to take this because we'll please. Thank you so much. Wait, sorry for the website. Is it hyper cool"
+    },
+    {
+      "start": 2313.47,
+      "end": 2343.84,
+      "speaker": "SPEAKER_00",
+      "text": "or, and it's a website. Um, yeah, the ambient ambient and yeah. And bits, I am BIT, not ambient ambient is actually another product with ambience, another, another protocol, ambient finance. Yeah. Yeah. I'm trying to ask the website, but it's not going through. So I just want to like get to know more about the project more because I, I am actually a content writer and I'm also a committee manager. I work for it from like"
+    },
+    {
+      "start": 2343.84,
+      "end": 2374.38,
+      "speaker": "SPEAKER_00",
+      "text": "that. So I want to like get to know more about it and know how we could contribute, you know, to foster more growth of the ecosystem. Uh, thank you so much. No worries. We'll, we'll double check everything's working, but it should be, and then we'll make sure all the links are posted after this. Yeah. It's ambit dot finance. I just hit it. It's working for me on ambit. I find it's not ambit. That finance is working on my side as well. So I'm not sure if ambit actually restricts"
+    },
+    {
+      "start": 2374.38,
+      "end": 2404.68,
+      "speaker": "SPEAKER_00",
+      "text": "certain jurisdictions or countries geographically. So, um, yeah, but I don't think it has never not worked for me. So, uh, yeah. Okay. I think is my next board. I'm still trying to assess it, but it's still not going to, well, I'm going to drop this concern if you do a minute. Yep. So, um, yeah. Uh, any more questions"
+    },
+    {
+      "start": 2404.68,
+      "end": 2434.96,
+      "speaker": "SPEAKER_00",
+      "text": "for anyone else? Yeah. While we're waiting for people, I also wanted to point out, I don't think we touched on that, you know, this is, you know, this is built for retail. This is built for, you know, institutions. It's built for people of all sophistication levels. Uh, and you're also gonna be able to borrow against hyperliquids, uh, spot assets, like per age fund, et cetera, things, coming down the pipeline there. Uh, so it's not just these yield bearing products and native yield, like"
+    },
+    {
+      "start": 2434.96,
+      "end": 2465.23,
+      "speaker": "SPEAKER_00",
+      "text": "tokenized HLP vaults. It's, it's also basic stuff around spot as the assets that are unique to hyperliquids. So wanted to touch on that too. Um, yeah. And we will at a very, at a very base level, that's where you're gonna be able to touch. Yeah. And we're looking to work with a couple of providers to have a Bitcoin representation and an ETH representation as collateral as well. So they should hopefully be coming on board soon. Yeah. Nice. Yeah. That's exciting"
+    },
+    {
+      "start": 2465.23,
+      "end": 2495.75,
+      "speaker": "SPEAKER_00",
+      "text": "to hear. I, I think definitely should cover pretty much the entire of the spot, equal, um, assets rather than just perhaps like the top five or top 10, but I think that also comes with comes with risk for the longer tail asset, the less liquid one, especially for those that are currently under the hyperliquidity, um, range. I'm not sure if you guys want to touch more on that. It's like, uh, in terms of mechanism and, and how would you guys actually, uh, handle those kinds of collateral in"
+    },
+    {
+      "start": 2495.75,
+      "end": 2525.77,
+      "speaker": "SPEAKER_00",
+      "text": "terms of those assets that are, uh, pretty much trading under hyperliquidity and, and those smaller market caps one. Yeah. So there's a couple of things. There's something we've got in the pipeline, um, which will be coming in early next year, early to mid next year, which will allow us to, um, list a lot more long tail assets with a bit more security. Um, but I can't go into that just too much your share because we haven't finalized the details on that. Um, but there is also a lot of backtesting we need to do."
+    },
+    {
+      "start": 2525.85,
+      "end": 2555.85,
+      "speaker": "SPEAKER_00",
+      "text": "So something like per is okay because there's a fair bit of liquidity on the spot side. Um, but it really just will work into what are the risk factors that we apply to that? You know, what's the liquidation discount, what's the LTV that we can put against that. Um, but so there's a lot of backtesting we will need to do to work out, you know, as we list these new assets, what are the, you know, what are the safe parameters to use? Um, and there's a lot of things, um, like one of the things we spoke about before, which is guardian, which allows users to bid on discounted collateral"
+    },
+    {
+      "start": 2555.85,
+      "end": 2585.93,
+      "speaker": "SPEAKER_00",
+      "text": "in the case of per someone might want to bid on per at a 20 % discount, in which case that feeds into the risk profile that we can do. So if we've got a lot of bids on, on those kinds of assets, then we can safely increase certain, certain risk factors as well. But, um, a lot of that will just depend on the asset as, as, as it's as itself. Yep. I, I think that's a good start of since, um, there's a lot of things, uh, that asked, you know, finalized it and,"
+    },
+    {
+      "start": 2585.95,
+      "end": 2616.79,
+      "speaker": "SPEAKER_00",
+      "text": "and we might see a huge influx of capital lifting the entire spot, um, market cap as well. I think, um, I don't think that are in more questions, so we can probably wrap this up. So, um, yeah, thank you, Cain and Matt for today's, uh, AMA. I think it's a very comprehensive overview of what NBIT is bringing over to hyperliquid. So they will be, uh, under the brand of hyperdrive, um, uh,"
+    },
+    {
+      "start": 2618.15,
+      "end": 2647.25,
+      "speaker": "SPEAKER_00",
+      "text": "uh, so that hyperdrive will be a protocol that's deployed on, um, hyperliquid. Yeah. And I'll just quickly, can I just quickly touch on that? Cause I think, I guess we probably just to clear up confusion. So AMBIT finance is what we deployed on BNB chain initially. Um, and the hyperdrive effectively is the same set of contracts, uh, lending from the lending side of things as AMBIT finance. We've had three audits done on that already. The reason we sort of changed the name, was because we're actually building quite"
+    },
+    {
+      "start": 2647.25,
+      "end": 2677.26,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of additional stuff, specific to the hyperliquid ecosystem, such as vault tokenization and liquid staking along with the lending protocol. And there'll be, there's a, there's a bit more work on the front end for the lending protocol to integrate natively within the hyperliquid decks. Um, so we just decided that we'll rebrand effectively. It's a white, it's a white label to ourselves, but the, the, the smart contracts, the lending side of things are the same that we've deployed previously. Yep. Yeah. The smart"
+    },
+    {
+      "start": 2677.26,
+      "end": 2707.28,
+      "speaker": "SPEAKER_00",
+      "text": "contract platform, you know, access to on -chain perps and spot liquidity, uh, really allows for like infinite possibilities here. This is, this is literally just the beginning. Um, if we do this in six months, it's going to be, uh, you know, even more exciting. So there's, there's just lots of cool stuff we can do. And yeah, it's a lot of, it's very capital efficient, you know, borrowing against tokenized yields, uh, improves capital efficiency. So, uh, again, this kind of is constantly getting better over time. Um, the reason we started on BNB chain, by the way, is because we"
+    },
+    {
+      "start": 2707.28,
+      "end": 2737.28,
+      "speaker": "SPEAKER_00",
+      "text": "took seed financing from finance labs. And the stipulation of the contract there was to start on BNB chain. Uh, so, you know, when, in the aftermath of, of Terra, uh, you know, the, the people over at finance, we're pretty eager to go talk to the top teams from Terra to bring them over the BNB ecosystem. Uh, that's why we started there. We don't really spend any time there. We test some features, but in terms of driving TVL, marketing interest, new features, everything, everything, we're focused. And right now it"
+    },
+    {
+      "start": 2737.28,
+      "end": 2767.44,
+      "speaker": "SPEAKER_00",
+      "text": "is hyperliquid. So this isn't kind of some mishmash thing. It started over there for a reason and it had to start over there. But, um, this, this is a hyperliquid story, certainly for the next kind of six to 12 months. Uh, but it's multi -chain, you know, we're, it's not, we're not talking to, you know, Barra and Monad and, you know, Sonic and those guys. Um, but we really want to prove this, build out a huge differentiated, cool solution here, um, before we kind of start spreading ourselves a little bit. But you know, the cross"
+    },
+    {
+      "start": 2767.44,
+      "end": 2798.06,
+      "speaker": "SPEAKER_00",
+      "text": "chain things does become really interesting. If you can take, you know, hyperdrive capabilities and have different cross collateral and all that kind of fun stuff and be able to work cross chain, it does become extremely interesting. Uh, but again, we're, we're building, you know, hyperliquid pretty exclusively here for at least the next six months. Yeah. And with just on the cross chain thing with our tokenized vaults and also our LST, we are using, um, layer zero. So we've got quite a lot of experience using layer zero, the OFT, standard there. So, you"
+    },
+    {
+      "start": 2798.06,
+      "end": 2828.58,
+      "speaker": "SPEAKER_00",
+      "text": "know, we see a world where eventually a user sitting on base will be able to mint a position in HLP from base and use it on a money market sitting on base as collateral. So that's the ideal end goal there. Yeah. Probably last thing. Yeah. Sorry, kind of a last thing is, you know, we're, you know, we're looking for great, you know, EVM people, uh, especially on the technical side, developer side. Uh, we always need good people. And then if we can kind of marry that with hyperdrive, I'm"
+    },
+    {
+      "start": 2828.58,
+      "end": 2858.76,
+      "speaker": "SPEAKER_00",
+      "text": "not a hyperliquid, sorry, passion, you know, like people who use it and not like if you're super interested in active on hyperliquid, you know, and you've got, you know, developer expertise, uh, we are, we are hiring. So I want to talk to good folks, uh, who know both and, you know, just want to leave you with that. That's great. So, yeah, if you guys know of anyone, uh, feel free to recommend it to, uh, Kane and Matt as well. I think they"
+    },
+    {
+      "start": 2858.76,
+      "end": 2889.88,
+      "speaker": "SPEAKER_00",
+      "text": "are a beauty. Uh, something that is definitely exciting. The all in one, um, defied platform for hyperliquid. So, yeah, I think overall it's a great AMA. You covered a lot. Um, so feel free to listen back to it, um, if you need it. So, uh, apart from this, I think, uh, there's nothing else on my end. So, uh, thank you everyone for joining, uh, the session today. And thank you. And that for coming on. No"
+    },
+    {
+      "start": 2889.88,
+      "end": 2926.53,
+      "speaker": "SPEAKER_00",
+      "text": "worries. Thanks for hosting. Yeah. Thank you. Thanks for having me. Uh, sorry. Uh, PBR actually requested. So I think, uh, can we just do one more question? Oh yeah. All right. Uh, PBR, I think you're on, um,"
+    },
+    {
+      "start": 2926.55,
+      "end": 2956.72,
+      "speaker": "SPEAKER_00",
+      "text": "PBR. Yeah. Yeah. Kind of, uh, muted. Hey, good morning. Good morning. Can you guys hear me? Yeah. Yep. All right on. I thought you were closing a space. I was like, um, I'm missing my spot, but that's okay. Um, I had a question talking about your liquidation engine. That reminds me, you know, it's reminiscent of Orca and Kujira. I know you guys talk about Tara a lot. So is that the same concept? Is that what we're looking at here? Yeah. Yeah. It's the same idea. Yeah. So"
+    },
+    {
+      "start": 2956.72,
+      "end": 2986.8,
+      "speaker": "SPEAKER_00",
+      "text": "anchor actually actually, anchor actually pioneered the idea of a bid system for collateral. And then Orca built a protocol around that, um, as a way to externalize that process. So yeah, we've got the same idea. It works really well, but we're sort of doing a few different things. So anchor only relied on the bidding system. Uh, which was, which was fine, but you, you got to the point where sometimes you could have a risk where the discount was really quite large. Um, so we're sort of got this hybrid"
+    },
+    {
+      "start": 2986.8,
+      "end": 3019.53,
+      "speaker": "SPEAKER_00",
+      "text": "system where the bids will be the first, first priority. So the bids will be the first priority, but we also had the ability to liquidate on spot, um, and also liquidate across chains. So we're talking with a few different cross chain, swapping protocols at the moment. So, you know, for us to be able to liquidate, you know, an ETH derivative on from hyperliquid and then liquidated on Arbitrum, that kind of thing. So we can get a better liquidation profile and effectively better end result for the users. Awesome."
+    },
+    {
+      "start": 3019.61,
+      "end": 3049.55,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, no, I'm definitely looking forward to that. I remember those days. I remember plenty of people getting filled during that DPEG, but people were getting so excited. I was like, I was like, there's nothing to be excited about. We're all going to nothing, man. They had a hell of a journey too in the, in a normal operation. If you, if you exclude a DPEG, then there's always people willing to take assets at a discount. So that's why the bidding system works really well. It's proven out and it should absorb a fair chunk of the liquidity on liquidation when it's up"
+    },
+    {
+      "start": 3049.55,
+      "end": 3080.3,
+      "speaker": "SPEAKER_00",
+      "text": "and running. Yeah. No, thanks. Appreciate it. And I'm looking forward to it. Yeah. Thank you. All right. Uh, thank you PBR for the question. I think, uh, yup, we'll probably wrap it up now. So thank you everyone for joining again. Uh, thank you, Kane and Matt, uh, for sharing what Ambit and hyperdrive is about. So, yeah, thanks for hosting. Nice. Thanks for hosting. All"
+    },
+    {
+      "start": 3080.3,
+      "end": 3084.08,
+      "speaker": "SPEAKER_00",
+      "text": "right. Thank you. Goodbye, everyone. Bye guys. Bye everyone."
+    }
+  ],
+  "speaker_map": {}
+}

@@ -13,8 +13,8 @@ _Jelly crash, delisting decision, and why PVP.trade is building the social layer
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — rekt_gang _host_
-- **PBR** — rekt_gang _guest_
+- **Zerk** (@rekt_gang) _host_
+- **PBR** _guest_
 - **Noms** — PVP.trade _guest_
 - **Guffix** _guest_
 - **Hatashi** — HyperBeat _guest_

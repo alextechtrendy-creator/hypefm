@@ -1,0 +1,90 @@
+{
+  "space_id": "1YqxooPozvgxv",
+  "title": "HypurrCo AMAs: Kinetiq, kHYPE, and how their LST would work",
+  "state": "ended",
+  "created_at": "2025-03-16T15:26:58Z",
+  "started_at": "2025-03-25T14:00:29Z",
+  "ended_at": "2025-03-25T14:51:59Z",
+  "scheduled_start": "2025-03-25T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 334,
+  "host_username": "hypurr_co",
+  "participants": [
+    {
+      "name": "HypurrCollective.hl 🐱",
+      "handle": "hypurr_co",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Omnia.hl π",
+      "handle": "0xOmnia",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "The_Chameleon",
+      "handle": "chameleonhype",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Magnus.hype",
+      "handle": "0xmagnus",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqxooPozvgxv",
+  "summary_title": "Kinetic's native LST for Hyperliquid: StakeHub's meritocratic validator selection",
+  "summary_description": "Omnia and Magnus discuss Kinetic, a liquid staking protocol built exclusively for Hyperliquid, launching mainnet in late April with four audits completed.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 183,
+      "label": "Hypercollective's role: largest validator, content, real-life events"
+    },
+    {
+      "timestamp_seconds": 305,
+      "label": "Kinetic introduced as native liquid staking protocol for Hyperliquid only"
+    },
+    {
+      "timestamp_seconds": 425,
+      "label": "Liquid staking explained: capital efficiency, network security without token lockup"
+    },
+    {
+      "timestamp_seconds": 576,
+      "label": "Kinetic founders heard Jeff on Flirting with Models podcast, became HLP believers"
+    },
+    {
+      "timestamp_seconds": 728,
+      "label": "StakeHub: meritocratic validator selection based on performance and uptime alone"
+    },
+    {
+      "timestamp_seconds": 971,
+      "label": "Kinetic launching late April with four completed audits, pre-compiles required first"
+    },
+    {
+      "timestamp_seconds": 1457,
+      "label": "Success metrics: retail adoption, institutional adoption, custodial support"
+    },
+    {
+      "timestamp_seconds": 1912,
+      "label": "K-Hype design: constant supply reward accrual, no rebasing, fully composable"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Kinetiq",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3078.016,
+  "capture_failure_reason": null
+}

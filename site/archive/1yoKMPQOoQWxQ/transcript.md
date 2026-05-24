@@ -13,7 +13,7 @@ _Rune from Sky discusses tokenized agents, risk frameworks, and why decentralize
 
 ## Who's talking
 
-- **Zerk** (@rekt_gang) — RecGang _host_
+- **Zerk** (@rekt_gang) _host_
 - **Rune** — Sky _guest_
 - **PVR** _guest_
 
