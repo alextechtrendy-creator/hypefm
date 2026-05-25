@@ -1,4 +1,4 @@
-# Hyperland brings Aave's battle-tested lending to Hyperliquid EVM
+# HyperLend brings Aave's battle-tested lending to Hyperliquid EVM
 
 _Money market fork licensed by Aave, audited three times, enabling looping strategies and perpetual positions as collateral._
 
@@ -20,8 +20,8 @@ _Money market fork licensed by Aave, audited three times, enabling looping strat
 ## Key moments
 
 - **[2:51]** Hyper Collective intro: validators, events, content
-- **[4:52]** Ness introduces Hyperland: Aave fork on Hyperliquid EVM mainnet
-- **[6:53]** Hyperland vision: banking infrastructure for Hyperliquid EVM
+- **[4:52]** Ness introduces HyperLend: Aave fork on Hyperliquid EVM mainnet
+- **[6:53]** HyperLend vision: banking infrastructure for Hyperliquid EVM
 - **[11:26]** Current collateral: staked Hype, Hype, units BTC; planning USDC, USDT, kHype
 - **[12:57]** Looping strategy: 40% APY on staked Hype via borrow-swap loop
 - **[17:29]** Roadmap: liquid perpetual positions and liquid HLP vault

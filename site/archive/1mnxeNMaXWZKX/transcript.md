@@ -19,7 +19,7 @@ _Chris from SuperSexy explains building on-chain finance on Hyperliquid with fam
 - **[5:56]** Hyperco intro: 1.5B AUM validator, content, IRL events
 - **[8:27]** Chris background: 6-7 years DeFi, MEV, Talisman wallet, Hyperliquid interview 2023
 - **[11:30]** SuperSexy motivation: nobody actually doing on-chain finance despite Hyperliquid hype
-- **[13:02]** SuperSexy builds CEX-like frontend on Hyperliquid with Hyperland integration
+- **[13:02]** SuperSexy builds CEX-like frontend on Hyperliquid with HyperLend integration
 - **[21:09]** Fee structure: 6bp all-in, competitive with Binance 5.5bp, invite codes lower rates
 - **[24:10]** $750M volume, top 5 ARPU, power users, no active marketing yet
 - **[29:16]** New feature tonight: chase limit orders, feature parity with CEX priority

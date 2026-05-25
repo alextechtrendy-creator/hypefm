@@ -1,4 +1,4 @@
-# Solve Finance brings Bitcoin yield to Hyperliquid, Binance launch tomorrow
+# Solv Protocol brings Bitcoin yield to Hyperliquid, Binance launch tomorrow
 
 _On-chain Bitcoin reserve with 2.5B TVL launches dual listing. How Solve abstracts staking complexity for conservative Bitcoin holders._
 

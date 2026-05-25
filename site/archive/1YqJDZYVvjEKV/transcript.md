@@ -33,7 +33,7 @@ _Community-run liquidity vaults bridge billions in capital to HyperEVM DeFi prot
 - **[4:14]** HyperBeat announces pre-deposit vaults launching with HyperEVM upgrade
 - **[6:06]** Problem: cold-start liquidity, opaque incentives, insider advantage in onboarding
 - **[7:07]** Solution: transparent, programmatic vault allocation via Royco and Layer Zero
-- **[8:38]** Hyperland on DeFi roadmap: AVAs, isolated pools, perpetual collateralization
+- **[8:38]** HyperLend on DeFi roadmap: AVAs, isolated pools, perpetual collateralization
 - **[11:08]** Royco enables smart-contract negotiation between vaults and protocols for incentives
 - **[43:32]** Discussion: speculation on second Hyperliquid points season and HyperEVM incentives
 - **[54:10]** 800 on farming strategy: early HyperEVM participation yields rewards when market turns
