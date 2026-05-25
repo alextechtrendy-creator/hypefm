@@ -1,0 +1,88 @@
+{
+  "space_id": "1nAJEEXRYWnJL",
+  "title": "Hypurr Hour - USDH Special",
+  "state": "ended",
+  "created_at": "2025-09-06T02:59:16Z",
+  "started_at": "2025-09-10T14:00:15Z",
+  "ended_at": "2025-09-10T15:42:25Z",
+  "scheduled_start": "2025-09-10T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 283,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Rekt Pedro",
+      "handle": "pedro_north",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Luke Cannon",
+      "handle": "lukecannon727",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1nAJEEXRYWnJL",
+  "summary_title": "USDH ticker auction: governance drama, alignment tests, and stable coin wars",
+  "summary_description": "Hyperliquid's stablecoin naming vote forces major players to show their hand and choose between hyperliquid and existing businesses.",
+  "topic_tags": [
+    "governance",
+    "tokenomics",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 566,
+      "label": "USDH announcement catches everyone off guard, becomes unexpected focus"
+    },
+    {
+      "timestamp_seconds": 868,
+      "label": "Core question emerges: is USDH just a ticker or does it confer real advantages?"
+    },
+    {
+      "timestamp_seconds": 1022,
+      "label": "Realization that USDH vote forces major teams to publicly commit to hyperliquid"
+    },
+    {
+      "timestamp_seconds": 1476,
+      "label": "80% fee reduction on stable tokens signals real ecosystem support, not just optics"
+    },
+    {
+      "timestamp_seconds": 2142,
+      "label": "Top applicants identified: native markets, paxos, agora, athena, sky, frax"
+    },
+    {
+      "timestamp_seconds": 2354,
+      "label": "Validator voting mechanics explained: 144M HLP stake, kinetic abstaining, foundation waiting"
+    },
+    {
+      "timestamp_seconds": 4266,
+      "label": "Luke explains alignment thesis: hyperliquid-first teams vs those with other businesses"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 6129.6,
+  "capture_failure_reason": null
+}

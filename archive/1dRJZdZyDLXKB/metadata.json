@@ -1,0 +1,117 @@
+{
+  "space_id": "1dRJZdZyDLXKB",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-12-20T15:23:42Z",
+  "started_at": "2024-12-20T18:01:34Z",
+  "ended_at": "2024-12-20T19:39:15Z",
+  "scheduled_start": "2024-12-20T18:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 488,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Debola",
+      "handle": "nosinglefuck",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "fei",
+      "handle": "infomeh",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Hyperliquid Hub",
+      "handle": "Hyperliquid_Hub",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Pasteke.hl🌱☢️",
+      "handle": "0xPasteke",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Derteil",
+      "handle": "derteil00",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Rekt Pedro",
+      "handle": "pedro_north",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Gink5814.eth",
+      "handle": "Gink5814",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1dRJZdZyDLXKB",
+  "summary_title": "Million-dollar auctions, assistance fund buybacks, and Hyperliquid's reflexive flywheel",
+  "summary_description": "Post-TGE breakdown: auction prices, token mechanics, and what's actually driving the hype.",
+  "topic_tags": [
+    "HLP",
+    "tokenomics",
+    "ecosystem",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 330,
+      "label": "Six-figure auction prediction validated; million-dollar auctions achieved"
+    },
+    {
+      "timestamp_seconds": 391,
+      "label": "HYPE price action exceeded expectations, ranging 5-10 to 20+ dollars"
+    },
+    {
+      "timestamp_seconds": 572,
+      "label": "Assurance fund mechanism discovered post-TGE; automated fee buybacks confirmed"
+    },
+    {
+      "timestamp_seconds": 1179,
+      "label": "Assistance fund burning 1 million HYPE per day; only need 100M to reach $50"
+    },
+    {
+      "timestamp_seconds": 1361,
+      "label": "FTX FTT peak (28B FDV) used as price target; HYPE upside to 160-183 calculated"
+    },
+    {
+      "timestamp_seconds": 2330,
+      "label": "Farm token auction escalation: 160K to 250K to 500K to 1M in successive projects"
+    },
+    {
+      "timestamp_seconds": 2726,
+      "label": "EVM staking and liquid staking primitives will unlock DeFi money-printing mechanics"
+    },
+    {
+      "timestamp_seconds": 3856,
+      "label": "AI16Z launches agent launchpad (Vapor) on Hyperliquid; KuCoin listing Age Fund rumored"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 5859.6693125,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,92 @@
+{
+  "space_id": "1MYGNlbybkPxw",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-08-26T16:08:27Z",
+  "started_at": "2025-08-28T20:00:09Z",
+  "ended_at": "2025-08-28T21:01:40Z",
+  "scheduled_start": "2025-08-28T20:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 111,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "zenyaga",
+      "handle": "silkroading",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "thority",
+      "handle": "AuthorityNull",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Rekt",
+      "handle": "C0deCanvas",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1MYGNlbybkPxw",
+  "summary_title": "Pre-market chaos: Why HLP is shrinking and HYP3 might launch in three months",
+  "summary_description": "Hyperliquid ecosystem drama, oracle risks, and the slow obsolescence of protocol-owned liquidity.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 402,
+      "label": "Pre-market trading drama and discord chaos explained"
+    },
+    {
+      "timestamp_seconds": 523,
+      "label": "Definition of market manipulation: inorganic price action debate"
+    },
+    {
+      "timestamp_seconds": 644,
+      "label": "Assistance fund should NOT reimburse users, sets dangerous precedent"
+    },
+    {
+      "timestamp_seconds": 1069,
+      "label": "HLP reducing fees to 1%, becoming obsolete as external market makers grow"
+    },
+    {
+      "timestamp_seconds": 1250,
+      "label": "Liminal vaults and delta-neutral strategies replacing HLP alternatives"
+    },
+    {
+      "timestamp_seconds": 2704,
+      "label": "HYP3 permissionless perps estimated within three months"
+    },
+    {
+      "timestamp_seconds": 2885,
+      "label": "Rabby wallet integrating perps via Hyperliquid builder codes"
+    },
+    {
+      "timestamp_seconds": 3191,
+      "label": "Multiple front ends competing—no single winner expected"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 3690.56,
+  "capture_failure_reason": null
+}

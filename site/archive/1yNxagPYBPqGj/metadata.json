@@ -1,0 +1,74 @@
+{
+  "space_id": "1yNxagPYBPqGj",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-10-24T23:35:02Z",
+  "started_at": "2024-10-25T16:00:03Z",
+  "ended_at": "2024-10-25T16:59:17Z",
+  "scheduled_start": "2024-10-25T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 150,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1yNxagPYBPqGj",
+  "summary_title": "Spot market revival, TGE clarity, and the EVM co-location edge",
+  "summary_description": "Friday vibes on Hyperliquid ecosystem as spot rebounds, tokenomics loom, and builders weigh EVM benefits.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 163,
+      "label": "Spot market has risen from the ashes after points season drought"
+    },
+    {
+      "timestamp_seconds": 315,
+      "label": "Stars aligning for HLP TGE as Bitcoin edges 70k and Microsoft votes on allocation"
+    },
+    {
+      "timestamp_seconds": 465,
+      "label": "November 11th claim deadline but actual TGE timing still unknown"
+    },
+    {
+      "timestamp_seconds": 556,
+      "label": "Testnet validator set grows to 28, gossip protocol jailing issues resolved"
+    },
+    {
+      "timestamp_seconds": 1170,
+      "label": "Peak spot volume hit millions daily on PER and HFUN before farming cliff"
+    },
+    {
+      "timestamp_seconds": 1412,
+      "label": "Cat Ball and Skipso leading spot recovery as animal spirits return"
+    },
+    {
+      "timestamp_seconds": 1595,
+      "label": "TGE announcement sparks front-running: front-runners front-running the front-runners"
+    },
+    {
+      "timestamp_seconds": 3170,
+      "label": "EVM co-location thesis: atomic composability with L1 perps without bridging overhead"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 3559.5306875,
+  "capture_failure_reason": null
+}

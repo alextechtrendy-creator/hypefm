@@ -1,0 +1,1220 @@
+{
+  "space_id": "1vAGROEYDNjJl",
+  "language": "en",
+  "duration_seconds": 6370.24,
+  "chunks": [
+    {
+      "start": 217.33,
+      "end": 248.56,
+      "speaker": "SPEAKER_00",
+      "text": "All right, all right. Good morning, good morning, afternoon, evening, any of the above. Hello, hello. What's going on? Man, I seen we had an announcement today. That's progress. That's progress. Let's go! I"
+    },
+    {
+      "start": 248.56,
+      "end": 279.14,
+      "speaker": "SPEAKER_00",
+      "text": "don't know. Let's go! Man, I don't even get excited about point talk anymore. Well, it was a bit surprising because I think we already discussed about the October points, but no one expected some November points. So it's still a surprise to me. Yeah, I mean, we kind of touched on it the last space. It's, you know, they were taking a look at things and realized that, you"
+    },
+    {
+      "start": 279.14,
+      "end": 309.14,
+      "speaker": "SPEAKER_00",
+      "text": "know, they want more decentralization. So why not bring on some new faces, new wallets? New people, it's a good thing, good thing all around, you know, I don't care. Give them all out. Yeah, I agree. I think we'll break down exactly what was said just so everyone's on, you know, like we, if anyone didn't read the announcement and like specifically what we're talking about. Yep. All right, let's see. It is"
+    },
+    {
+      "start": 309.14,
+      "end": 339.36,
+      "speaker": "SPEAKER_00",
+      "text": "what, May points, October points, and the new newly announced early November points. All right, which technically, okay, so the season two ended October 2nd, right? Yes. I believe it was like, okay, so if they were adding another month, when"
+    },
+    {
+      "start": 339.36,
+      "end": 369.42,
+      "speaker": "SPEAKER_00",
+      "text": "we said that season 2 .5 was October, technically there was a couple days that would have spilled over into November. So it's also unclear. I mean, if you say early November, are they just doing that to be complete because it's like extra one month or, you know, are they like, question is, are they still counting today? Right? I mean, it's not early November, but. I think they are counting more than just the first few days of November because I remember reports of people seeing new wallets being eligible. So"
+    },
+    {
+      "start": 369.42,
+      "end": 399.58,
+      "speaker": "SPEAKER_00",
+      "text": "wallets that only traded in November, they became eligible. Well, that was October. I saw that about October. That was the hidden, that's when we confirmed that there was a season 2 .5, which was October. But you're saying even new wallets in November for the first time, people have seen? I think so. Yes. There were two waves. Yes. So there were two waves. There's one in October of the new wallets becoming eligible and then a second one in November. Correct. There"
+    },
+    {
+      "start": 399.58,
+      "end": 429.94,
+      "speaker": "SPEAKER_00",
+      "text": "was an oracle, I think, twinging about it and I think it's not just about the second of November. I think it's also probably until the claim dates. Yeah. But I believe there might be some differences between October points and November points because obviously there will be some more points diluting the total points for October. But maybe for November, it could be less and it could be some redistribution of the unclaimed points. So"
+    },
+    {
+      "start": 429.94,
+      "end": 460.06,
+      "speaker": "SPEAKER_00",
+      "text": "I still think that there is indeed some dilution, but it might not be as important as the May point. I think May point was. Yeah. But I think October points is actually about 2 ,000 per week. So I think maybe it could be half less this time. That's a good question, too. I wanted to ask that. We don't know for sure if this is net inflationary above the 51 million points we're always working off of or there's a scenario where October November points are simply a"
+    },
+    {
+      "start": 460.06,
+      "end": 490.08,
+      "speaker": "SPEAKER_00",
+      "text": "redistribution of points that weren't claimed. I mean, I've seen that talked about. I know what you guys think. I think I saw somewhere. someone already speculating over October points and if it was based on May points same distribution I think it was something close to 59 millions points I still believe that even if there's like 59 millions points or something else they just"
+    },
+    {
+      "start": 490.08,
+      "end": 520.26,
+      "speaker": "SPEAKER_00",
+      "text": "have to play on the total supply to which 51 % or whatever the target they want because let's not forget that for per it was I think a hundred no 1 billion for the supply and they burned 40 % of it so leading to a circulating supply of 600 ,000 per in circulation so they could also play on burning or whatever for the total supply and total airdrop allocation"
+    },
+    {
+      "start": 520.26,
+      "end": 550.79,
+      "speaker": "SPEAKER_00",
+      "text": "for fully diluted value yeah I mean I guess yeah I mean I guess regardless if it is inflationary for existing point holders I mean I think the point is it seems to be rather minimal like 10 to 15 % inflation if these are new points if they are simply reallocating points that weren't claimed because I mean in my mind I would say it's very realistic that easily"
+    },
+    {
+      "start": 550.79,
+      "end": 580.89,
+      "speaker": "SPEAKER_00",
+      "text": "10 % of all points may not have been claimed for people that just forgot like think about people use hyper liquid last year and just just walked away and did other stuff I keep seeing people that sorry I keep seeing people who didn't claim and I'm in a bunch of group chats where people I was I was shocked that there's I mean I said this in the last hyper hour but basically there's I was just shocked at the amount of people who didn't claim out of their laziness because they didn't want to set"
+    },
+    {
+      "start": 580.89,
+      "end": 610.93,
+      "speaker": "SPEAKER_00",
+      "text": "up a set up the claim or they just didn't think it'd be worth anything I'm yeah but that these people are also most likely to have very little points yes it was a controlling one of them one of them had 4 ,500 points less last space I was I was telling the story my friend had to beg this guy to claim his 4 ,500 points so like this actually speaks to a much larger"
+    },
+    {
+      "start": 610.93,
+      "end": 641.11,
+      "speaker": "SPEAKER_00",
+      "text": "dynamic of what hyperliquid is versus your traditional farming so when people compare hyperliquids to lasers or other kind being like a factories Armenian . hyperliquid to your typical farming protocols like blast or you know eigen layer like anything where clearly the net users were there to farm the points i think the fact that there could be so many users of hyperliquid that weren't even intending to claim their points speaks to the organic"
+    },
+    {
+      "start": 641.11,
+      "end": 671.43,
+      "speaker": "SPEAKER_00",
+      "text": "use of hyperliquid as a platform like they don't claim their points because they never meant to use hyperliquid to farm it for points they used it because they fucking wanted to use the platform as the best trading experience on chain so like to me that's so bullish because it just validates that there's a large cohort of users that simply have used the platform because they like using the platform and they're like oh i got points like are those even worth anything that's like definitely a big distinction as to why like the theory that post tge you know the"
+    },
+    {
+      "start": 671.43,
+      "end": 701.89,
+      "speaker": "SPEAKER_00",
+      "text": "tbl and the volume is going to fall off a cliff like no we're seeing like organic use of hyperliquid as the best trading experience on chain so like to me that's so bullish use case and anecdotally people that were early traders that didn't even realize that there were points to claim look i said this in the last phase i'm just going to repeat a lot of things uh hyperliquid has six percent of the open interest in volume with uh sixty percent of the markets that binance does so binance has over 350 markets or instruments hyperliquid has like 200 244 i think or"
+    },
+    {
+      "start": 701.89,
+      "end": 731.95,
+      "speaker": "SPEAKER_00",
+      "text": "or maybe less and it's doing six percent of the open interest in volume and it's doing six percent of the open interest in volume of binance bnb is like 98 billion uh ftv hyperliquids valued at like two two to four billion you have uh all of the like like mogi was saying all the allocation is for people who obviously there's people who farmed it but all the allocation is going to users of the protocol they didn't take vc money it's self -funded by jeff he's he was number one market maker on binance"
+    },
+    {
+      "start": 731.95,
+      "end": 762.75,
+      "speaker": "SPEAKER_00",
+      "text": "you you have people that passion that are passionate about the mission and they're passionate about the mission uh after the points eligibility ended we're seeing higher usage of hyperliquid than ever even though right now the activity now does not count towards points i think that we're in the best market conditions possible for for this tge and there's a reason why there's hundreds of millions of dollars being being bridged to hyperliquid for this for this token bro stop i cannot get any more bullish i'm"
+    },
+    {
+      "start": 762.75,
+      "end": 792.81,
+      "speaker": "SPEAKER_00",
+      "text": "just gonna keep raiding i'm gonna keep it i think that's a good stopping point for this space uh faye you pretty much just nailed it and and that's that's all anybody needs to know it's the truth though i mean i will say though i'm like yeah i'm like oh like there's that cool tool that someone created for um checking your may volume yeah may and october volume i think oh dude i'm hoping i'm like shit so i didn't go hard on perps in may i"
+    },
+    {
+      "start": 792.81,
+      "end": 823.01,
+      "speaker": "SPEAKER_00",
+      "text": "really picked up in purpose like afterwards but i have to say i'm not sure if i'm going to be able to do that in the future it's a bad spot but my volume was i actually did a decent amount of volume in april and then in june but may for spot tokens i was just holding but i was like holding a shit ton of h fun and like never sold my purse so i'm hoping may is like also rewarding just people that were early to spot and holding it because with how large the weekly points are going to be like oh crap dude people are getting you know they're doing 2 million a week and i'm curious if it's going to lean"
+    },
+    {
+      "start": 823.01,
+      "end": 853.17,
+      "speaker": "SPEAKER_00",
+      "text": "more towards um the purpose trend or not i don't know if it's going to lean more towards um the purpose trend or not um the purpose trend or not i don't know if it's going to lean more towards uh the purpose trend or not operators that were complaining they got diluted in season uh season two or you know what it's going to look like yeah i uh just for information for anyone hearing about it i just shared the link uh in the comments if i don't know if pbr or mogi can pin it uh some cap link to check your volume in may and october and i believe they might update it for november also you have tokens"
+    },
+    {
+      "start": 853.17,
+      "end": 883.79,
+      "speaker": "SPEAKER_00",
+      "text": "you have you have tokens like eigen uh eigen grass um zk all these tokens that a lot of it's distributed to the team a lot of it's distributed to like a governance um governance foundation a lot of it's uh distributed to kol's kol's investors and you're just not going to see that on the hyperliquid tge like if 40 of it gets distributed that 40 is all that's going to be on the market there's going to be um i"
+    },
+    {
+      "start": 883.79,
+      "end": 914.09,
+      "speaker": "SPEAKER_00",
+      "text": "mean i don't know how they're doing the liquidity pools but um but there's i mean grass is nobody used grass except for people who farmed it and it's at three billion fdv you have sweet with with less usage than hyperliquid sitting at like 20 25 bill um and and also if you have hyperliquid doing six percent of binance's open interest in volume there's just no way that this that this doesn't go higher"
+    },
+    {
+      "start": 914.09,
+      "end": 944.16,
+      "speaker": "SPEAKER_00",
+      "text": "um I don't think it's going to go higher than four billion now you guys see the uh you know the magic eden um tokenomics announcement and they're like oh over like 50 percent is going to go to the community but in reality it was like 12 12 and a half percent for i guess the points farmers so far and then the remaining is like you know future emissions that i'm sure will span multiple years so it's a little disingenuous when you see kind of like these announcements"
+    },
+    {
+      "start": 944.16,
+      "end": 974.16,
+      "speaker": "SPEAKER_00",
+      "text": "of a large distribution to the community but it's like you know the community between whoever started using the platform and then like in perpetuity for all time like eventually it'll all go to the community or it'll go to the community but that's where i mean obviously the biggest question is when we see the tokenomics how large um you know truly goes to the points holders and there's some pretty ambitious numbers you know how large and i think others are still thinking maybe it's you"
+    },
+    {
+      "start": 974.16,
+      "end": 1004.72,
+      "speaker": "SPEAKER_00",
+      "text": "know i think i think it's mostly except at this point that it is for sure you know double digit allocation to points holders no one would think it's less than ten percent um but you know is it actually 30 40 50 i've seen some people go even higher than that i'm still more at the camp of like 50 seems like pretty old you know number that the team would go after but obviously we don't know until we actually see tokenomics that are truly published at"
+    },
+    {
+      "start": 1004.72,
+      "end": 1034.86,
+      "speaker": "SPEAKER_00",
+      "text": "the end of the day that this is not like other airdrops because you don't have people getting allocations the only people getting allocations are the other people who use the platform and the more that someone uses the platform the more they're going to want to hold i know that one of the top 10 holders uh i was i was in a chat uh they otc'd like 600 000 points across different wallets and they're like all they have left is i think they have like 15 000 points left but they're they're holding"
+    },
+    {
+      "start": 1034.86,
+      "end": 1065.12,
+      "speaker": "SPEAKER_00",
+      "text": "on to it because they wish they didn't sell so early um i don't i don't remember the person's name i think um so that interview that jeff did with um the most recent one on shift happens which kind of got like you know initially when i came out because it was it was dragged out for so long um"
+    },
+    {
+      "start": 1065.12,
+      "end": 1095.54,
+      "speaker": "SPEAKER_00",
+      "text": "it kind of got on a bit of like oh that was it like where's the alpha which again i never really thought there'd be any alpha in that podcast um but i was thinking more of it and like there is this one exchange um where i think they're talking about like what drives you and then like i think jeff's talking basically you know paraphrasing here you know he did some traveling and you know he wasn't like good at traveling and it's difficult and at the end of the day uh like you need to be motivated by something and for jeff it sounded like solving"
+    },
+    {
+      "start": 1095.54,
+      "end": 1125.8,
+      "speaker": "SPEAKER_00",
+      "text": "really hard problems and um like continuing to work right like he doesn't outright say it and that's the thing that you know the team seems pretty humble but like jeff has money like i don't think he launched this project because he needs more money and i think you effectively was like it's about solving really hard problems and like challenging yourself right and enduring that pain of having to consistently every single day just chip away at hard problems and you"
+    },
+    {
+      "start": 1125.8,
+      "end": 1155.92,
+      "speaker": "SPEAKER_00",
+      "text": "do that just to like provide satisfaction and like you know uh i don't know i mean something to to wake up every morning and do right because when you have a certain amount of money you just like get bored you know unless you're got like start a family and you travel the world or whatever you're going to do but for him it's like building this project and so i think point is it speaks to like an underlying reason why they don't need vc money they don't need like to"
+    },
+    {
+      "start": 1155.92,
+      "end": 1187.16,
+      "speaker": "SPEAKER_00",
+      "text": "cash out by having some massive allocation to the team like and i think a lot of us have been here for a while like we yeah you become jaded of like it's always about the money it's always about the money it's always about the money it's always about the money like there's never a team that can be like this genuous or or this like high integrity like no there's like always a catch right like what's their angle like surely they can't actually give this much value back to the community and until we actually see it again yeah we won't know for sure um but like"
+    },
+    {
+      "start": 1187.16,
+      "end": 1217.28,
+      "speaker": "SPEAKER_00",
+      "text": "my my thesis is kind of like that simple like he's the real deal they truly want to add the value back to the community um and so yeah this being just another typical airdrop meta um and uh farming where you know users get dumped on by insiders or whatever like we know that's not gonna happen but i know i'm just very bullish i think a lot of us are and we're already seeing the metrics speak for themselves like the sticky"
+    },
+    {
+      "start": 1217.28,
+      "end": 1247.42,
+      "speaker": "SPEAKER_00",
+      "text": "liquidity yeah the um okay so like the counter argument would be well sure but just as we thought there have been continued points so like the team didn't outright announce it but everyone inferred that there were going to be continued points they've effectively confirmed that today because they said there will be points for october november um but at the same time look at the usdc inflows right so we saw like a hockey stick in the flow of usdc in the spot over the last week i don't have the number in front of me but it was like we're seeing"
+    },
+    {
+      "start": 1247.42,
+      "end": 1277.6,
+      "speaker": "SPEAKER_00",
+      "text": "clips of like five ten million dollars roll on so we're up to like i think 80 million plus of spot like non hip two yes um it's not 80 million um it will be less because on the dashboard it only counts the total including per so it might be something like 60 million or less that is non that's non -hip to usdc um i think luis can confirm but i think it also includes"
+    },
+    {
+      "start": 1277.6,
+      "end": 1308.76,
+      "speaker": "SPEAKER_00",
+      "text": "the other usdc valuation including power h fund and other sports yeah because he's got it with or without but um we're seeing like hands are being shown right clearly there's a lot of uh dry powder that's moving getting ready to bid hype i mean look anecdotally just the conversations that i have personally with other ogs in the community and um their conversations and you know it seems like there's a lot of bid that"
+    },
+    {
+      "start": 1308.76,
+      "end": 1338.76,
+      "speaker": "SPEAKER_00",
+      "text": "is looking to come by hype the the usdc on hyper liquid bridge sorry click accidental keep going you gotta gate keep this gotta gate keep this um no no the the usdc there's a billion dollars of usdc on the hyper liquid bridge and um yeah on your point earlier about jeff they don't need money like he was a top market maker on"
+    },
+    {
+      "start": 1338.76,
+      "end": 1369.17,
+      "speaker": "SPEAKER_00",
+      "text": "binance i think his goal he's not going to be finished until hyperliquids incorporated in like the bloomberg terminal like it's it's not about this airdrop for sure yeah i mean i think they like when we talk about them gaining market share like it's not about getting uh dex market share it's not about taking over sex market share like i i think you're right like i mean their time horizon is probably very long right years out of you"
+    },
+    {
+      "start": 1369.17,
+      "end": 1399.29,
+      "speaker": "SPEAKER_00",
+      "text": "know first like is the uh the grim reaper mean would have meme would have like first one is like take dominate all dex market share secondly like take significantly significant sex market share and then like not just crypto like trading of assets period you know on chain or whatever um because you know if like i had jeff on stage here right now the first question i asked is like"
+    },
+    {
+      "start": 1399.29,
+      "end": 1429.46,
+      "speaker": "SPEAKER_00",
+      "text": "zooming out like when you say you want it to be where all of finance happens like unpack that for me in literal terms like what what truly do you mean by that right how is your vision because that's a pretty crazy statement my name is jeff hey sam yeah it's only a challenge yeah i want to touch on something samurai um that i had been thinking of last space we had when you were talking about um"
+    },
+    {
+      "start": 1429.46,
+      "end": 1459.66,
+      "speaker": "SPEAKER_00",
+      "text": "the stake you know the validators getting fees and so there's a couple points like you know masari did their deep dive on valuation for hype there was the asx asxn there's another one that just went i didn't read it um but i think like it seems all these valuation models are pretty much assuming that some amount of fees like trading fees do"
+    },
+    {
+      "start": 1459.66,
+      "end": 1490.92,
+      "speaker": "SPEAKER_00",
+      "text": "go to stakers right because i mean these reports are doing uh valuation models that are using um trading fee like you know a multiple of that for underlying highенно i know i've read the report. Yeah, I've read the Masari report. Yeah. We have to see the tokenomics. So the thing I'm most excited for and I'm most looking forward to is tokenomics. And I just also wanted to point out that right now there is a type of trader who is a pseudo -intellectual person who invests"
+    },
+    {
+      "start": 1490.92,
+      "end": 1521.81,
+      "speaker": "SPEAKER_00",
+      "text": "based on fundamental analysis mostly who does not really have anything to buy. So the meta right now is either meme coins or VC coins. It's extremely rare to have an actual technology token that has some kind of use and actually innovates that does not have VCs behind it. I think in this aspect hyperliquid will be one of a kind, truly. And"
+    },
+    {
+      "start": 1521.81,
+      "end": 1551.99,
+      "speaker": "SPEAKER_00",
+      "text": "especially in this environment where you have plenty of people getting rich of Bitcoin or meme coins these people will be looking for things to bid. Yeah. The only other point I was going to make on HLP was so what was it? DYDX did their post yesterday about their V4 and their Megavolt, whatever. And they showed the P &L like 200 ,000 and Steven replied, well, hold on. This doesn't seem to add up because"
+    },
+    {
+      "start": 1551.99,
+      "end": 1582.31,
+      "speaker": "SPEAKER_00",
+      "text": "like if I look at your positions it doesn't seem like the P &L adds up to like 200 ,000. And then I think they said because some of that P &L was also inclusive of fees. The thing about HLP right like if they direct trading fees to stakers like HLP in theory is still profitable market -making algorithm. Like it's not like HLP is, the"
+    },
+    {
+      "start": 1582.31,
+      "end": 1612.39,
+      "speaker": "SPEAKER_00",
+      "text": "only source of revenue is from fees. Like in theory, it's making money from making a market, right. And they know that they're, they're using their, yes from the funding fees yeah i mean they're and from the funding fees but they're using their proprietary algo i mean like they basically took their algo and did like a public service and said hey like you guys get exposure to this so even if they direct some of those fees um towards hype stakers it's not like hlp goes to zero in theory and that's the one thing like we don't know"
+    },
+    {
+      "start": 1612.39,
+      "end": 1643.19,
+      "speaker": "SPEAKER_00",
+      "text": "what that breakout is of um how much is from native fees of the platform versus how much is from just like p l like raw p l of market making but another point to make that's like hlp in theory could still survive just on the true market making p l alone but honestly yeah it's possible yeah i just want to say before i let you that i don't want to see uh hype"
+    },
+    {
+      "start": 1643.19,
+      "end": 1673.31,
+      "speaker": "SPEAKER_00",
+      "text": "get revenue from fees because it's in our best interest to have the fees as low as possible so if hype revenue is based on fees then it creates an incentive misalignment because the team should aim to have the fees as low as possible and if they drive the fees as low as possible that means hype might not get revenue yeah if it's based on the fees so me personally i i would not like to have revenue driven by fees but we'll"
+    },
+    {
+      "start": 1673.31,
+      "end": 1703.43,
+      "speaker": "SPEAKER_00",
+      "text": "see i think there will still be revenue and i can recall if it was a a xsn or misery but one of them in their report said that they estimated the revenue share coming from hyperliquid evm and what could be built i think to 200 million per year and i disagree with you because if you retire if you remove the fees to hype token it's just a"
+    },
+    {
+      "start": 1703.43,
+      "end": 1733.85,
+      "speaker": "SPEAKER_00",
+      "text": "governance token and no one like governance talking to it so i still believe that there will be fees for the nodes uh and it's just coherent coherent uh with what they have done currently with the beta dangers i i think i've got an opinion about this i i think so currently hlp in addition to its pnl is getting one trading fees two spot deploying fees like every time someone pays for an auction that goes to the hlp so"
+    },
+    {
+      "start": 1733.85,
+      "end": 1765.09,
+      "speaker": "SPEAKER_00",
+      "text": "what i think is like my scenario in my head is hlp will continue receiving trading fees uh perhaps only perpetual fees that's also possible like they will split spots these up but i think so definitely the spot deploying fees they're gonna first change it to hype token and then therefore that is implicitly like gonna be fees in for hype because uh i presume that's just gonna be burnt when you pay hype token for your spot tickers so i think that's how they're gonna do it and then and"
+    },
+    {
+      "start": 1765.09,
+      "end": 1795.72,
+      "speaker": "SPEAKER_00",
+      "text": "then that like go against what's currently going on right now like you know this hlb will still get perpetual fees at the very least as well as spot fees probably and then you've got a token still getting out again burnt from the auctions instead of instead of just to address what you said i wanted to point out that fees don't have to be the only mechanism that gives value to hype it could also be that the supply is deflationary"
+    },
+    {
+      "start": 1795.72,
+      "end": 1825.72,
+      "speaker": "SPEAKER_00",
+      "text": "so if we saw a burden mechanism as you know similar to poor maybe that would be a way to drive the value of the token and not have it be just a valueless governance token without a fees yeah yeah i mean like at the end of the day the mechanism like the value of a token goes up when people are buying it it's it's net buys and burns are just like a countermeasure to potentially maybe reduce like"
+    },
+    {
+      "start": 1825.72,
+      "end": 1855.84,
+      "speaker": "SPEAKER_00",
+      "text": "eventual sell pressure but um yeah i mean the the auction could be material i if it was denominated in hype actually in quick math i think sherry correct me is the number uh is like 280 it's like every 31 hours so what was the number is that like 280 auctions per year is the cap somewhere around this oh i haven't checked that but it is once every 31 hours but yeah so the docs do the docs have always said that you know the eventual plan is to denominate this and so you can make an argument that"
+    },
+    {
+      "start": 1855.84,
+      "end": 1886.62,
+      "speaker": "SPEAKER_00",
+      "text": "like you know if we got we saw the highest auction ever was what like 30 grand almost 40 grand i think um it's come off a bit it went to freaking almost zero then it bounced back and now they're doing like 10 to 15 000 for an auction i do think like seeing an auction get you know high five figures or even maybe ping six figures for an auction is possible and under that logic you could say that you know maybe that equates to 20 to 30 million a year of"
+    },
+    {
+      "start": 1886.62,
+      "end": 1917.08,
+      "speaker": "SPEAKER_00",
+      "text": "um of hype buy pressure if you know truly you had to buy it it's three million it's three million a year at the current rate at least let's just say yeah yeah well only 10 i'm saying like if we got to like a hundred thousand dollars an auction type of deal like in this i mean i'd like to believe that like hey that's that's the theory of like if it's the equivalent of like replacing the virus i don't think so it's just it's just well if the chain goes to 10 billion uh 10 10"
+    },
+    {
+      "start": 1917.08,
+      "end": 1947.1,
+      "speaker": "SPEAKER_00",
+      "text": "billion fdv then what's what why wouldn't launching a coin token go to up yeah i mean look this is but it's like 100k every 31 hours it's the it's the analog i think it's the bull case that if hyper liquid truly is becoming the on -chain binance 100 000 every 31 hours is still actually a drop in the bucket for my understanding a standard binance listing fee you're right pump fund makes more than a hundred thousand dollars a"
+    },
+    {
+      "start": 1947.1,
+      "end": 1977.21,
+      "speaker": "SPEAKER_00",
+      "text": "day sure but like what kind of project uh well you know you've got to have someone actually buying these not just meme points right like well look at hyper pump hyper pump's been able to easily generate a hyper pump has gotten uh what 30 40 50 000 i mean i forgot the highest one i'm not as in the hyper pump trenches as some people but we've gotten like 50 grand on hyper pump right for crowdsourcing but that that's that's that's it is it is a bit"
+    },
+    {
+      "start": 1977.21,
+      "end": 2007.25,
+      "speaker": "SPEAKER_00",
+      "text": "different when you're you're crowdfunding an auction like versus one person paying 400k like you're gonna pay yeah i can understand like for these teams if you're if you're an existing protocol that's raising 10 million 20 million pre -seed and you're raising a million bucks i mean you're gonna spend 100 grand for auction you're gonna spend 150 grand for security audit and you're gonna spend the rest to like keep your team like to be able to work for 12 to"
+    },
+    {
+      "start": 2007.25,
+      "end": 2037.59,
+      "speaker": "SPEAKER_00",
+      "text": "18 month runway i mean it's it's optimistic but it's it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a feasible outcome i think it depends very much on what the l1 like long term like end goal like what the l1 order book has to offer because in the end you could always you know i'm pretty sure we'll be free on the evm because you're just literally writing a contract right like deploying an ev token on even will be free the question is what you get out of like deploying the l1 which is hyper liquids order books and then the question is like you know is"
+    },
+    {
+      "start": 2037.59,
+      "end": 2067.7,
+      "speaker": "SPEAKER_00",
+      "text": "it really worth 100k the evm transition i mean that becomes a really interesting thing as well as where evm is where you can have your traditional amms and then graduating from the evm to the proper hip one hip two order book you know again depends on how high these auctions are going to get um but that's what's kind of a new like dynamic that doesn't exist elsewhere we got max up here we got his pfp"
+    },
+    {
+      "start": 2067.7,
+      "end": 2097.86,
+      "speaker": "SPEAKER_00",
+      "text": "but uh real quick uh max has been waiting just for a second and he's og i want to just let him get in for a second then we'll go to um matt get in on what well you're up here on the stage and you got your your pfp is like hold up let me cook so i didn't know if you had anything to say max no i mean i'm just excited that we're finally getting points tallies uh done next week um i i would say i i"
+    },
+    {
+      "start": 2097.86,
+      "end": 2128.08,
+      "speaker": "SPEAKER_00",
+      "text": "agree with you mogi on the whole uh you know trend toward higher listing fees uh for tokens going forward you know every 31 hours this is probably a pretty rapid cadence but you know i think you can get to a low six -figure sum on regularly uh if teams were willing to pay five to ten million dollars for binance listings right i don't think it's a stretch to think that the average could come in an order of magnitude"
+    },
+    {
+      "start": 2128.08,
+      "end": 2158.24,
+      "speaker": "SPEAKER_00",
+      "text": "below that um especially if it's you know a crazier year that we're headed into so i don't know i didn't yeah but so with evm i mean why pay it for hyper liquid to launch a token when you can you know put your token out on ethereum and then bring it across and just use the decks well well you won't you won't have access to the l your"
+    },
+    {
+      "start": 2158.24,
+      "end": 2188.34,
+      "speaker": "SPEAKER_00",
+      "text": "token won't be on the order book the spot order book of hyper liquid you would be on the l1 itself right i would say you know liquidity very much begets liquidity right like there are projects that you know aren't moving mountains but they get listed on binance and then you just get plugged into all the market makers that are punting back and forth there all the whales that are punting back and forth there and now something like ando is worth"
+    },
+    {
+      "start": 2188.34,
+      "end": 2218.4,
+      "speaker": "SPEAKER_00",
+      "text": "fucking billions when you know no normal comp would put it there i think so if they introduced l1 spot vaults that yeah it's more incentives for them to do it yeah i would just say right like at this point uh you know even in the months leading up to tge like i've come across a lot of you know kind of surprising participants in the hl order books"
+    },
+    {
+      "start": 2218.4,
+      "end": 2248.44,
+      "speaker": "SPEAKER_00",
+      "text": "in terms of like even some tradfi market makers leading crypto market makers right and so for a project right if they can pay a hundred grand to get listed and then all of a sudden their order book is covered by you know these these firms funds entities whatever that just managed to breathe life and liquidity into a token i think there's a huge value prop in that and and you see that i think with binance right it's just alts"
+    },
+    {
+      "start": 2248.44,
+      "end": 2278.46,
+      "speaker": "SPEAKER_00",
+      "text": "that would otherwise be dead keep trading for months years after they were last relevant uh just because uh there's like this natural momentum that exists when all the liquidity is pulled in the same place so i i know if there's a more quantitative way of putting that but um at least from what we've seen from existing centralized exchanges like there's definitely um you know just like this momentum that that comes from being"
+    },
+    {
+      "start": 2278.46,
+      "end": 2309.19,
+      "speaker": "SPEAKER_00",
+      "text": "in a highly liquid venue like we hope the hyper liquid order books to be well i'm maddie uh xbt hopping here sorry i knew wanted to uh chime in yeah don't worry about it can you guys hear me yeah we got you perfect yeah i was gonna ask like what's what what does it like even add to go on auction right and get it get on to hyper liquid right compared to being on the l1 like you're obviously gonna be in the spot order books but they"
+    },
+    {
+      "start": 2309.19,
+      "end": 2340.07,
+      "speaker": "SPEAKER_00",
+      "text": "aren't very liquid right now like most tokens are very illiquid actually in the spot order book so what would actually change that well that that that is down to the deployer on how they want to set their prams actually yeah i think that's a good point i think that's a good point like you know they could make it very thick if they wanted to yeah i see okay that's more of a yeah yeah i see a lot of people just yapping about like yo we're gonna go to like 100k auctions and i'm quite pessimistic usually and i'm very buddhist and hyperliquid um but like"
+    },
+    {
+      "start": 2340.07,
+      "end": 2371.25,
+      "speaker": "SPEAKER_00",
+      "text": "if it doesn't add enough obviously like those auctions won't sell for these crazy numbers i think and then the real question comes of course like um hlp2 hlp1 i mean like how much is it actually going to generate right default for people if you have less revenue coming in from the the auctions and there's less revenue from fees because that might be deferred to the hype token like how much revenue right like what's the apr what that's all going to be i don't know so no that's"
+    },
+    {
+      "start": 2371.25,
+      "end": 2402.15,
+      "speaker": "SPEAKER_00",
+      "text": "a good question i mean we touched on this a little bit on our last space um so i think first things first like the perps uh l1 is clearly the majority of fee generation right now right um yeah but hyperliquid would probably themselves think it was a failure if the spot um ecosystem and their evm did not succeed right as it stands right now no the current like state of spot volume is"
+    },
+    {
+      "start": 2402.89,
+      "end": 2432.35,
+      "speaker": "SPEAKER_00",
+      "text": "infinitesimal to what the vision would be on how large it grows i think there's two things that are um spot back right now one would be hype as an underlying token hasn't launched and so the majority of volume is really happening around per obviously dominates every single day and even that is is literally wouldn't even be what probably the top 100 of like a typical spl token on solana you"
+    },
+    {
+      "start": 2432.35,
+      "end": 2462.53,
+      "speaker": "SPEAKER_00",
+      "text": "know it's doing like on a good day it's doing four or five million i think um it's there's been days where it's been like less than a million dollars of volume um i think when hype launches right hype is a hip one token it will only trade for now on the hip two hyper liquid native spot order book i we will i mean let's just make like i'll put bold guesses we'll see i mean in the first week of launch i"
+    },
+    {
+      "start": 2462.53,
+      "end": 2492.69,
+      "speaker": "SPEAKER_00",
+      "text": "bet we're seeing definitely i think we're seeing over 50 million dollar daily volume maybe we're hitting 100 million volume. Hard to say for sure, but we will instantly see a re -rating of spot just due to hype alone. And I think that, you know, the tide lifts all boats. I think that will start to inject more liquidity and activity overall on spot. The"
+    },
+    {
+      "start": 2492.69,
+      "end": 2522.93,
+      "speaker": "SPEAKER_00",
+      "text": "second part is the EVM. Once the EVM goes live and you have an entire suite of smart contract architecture that can exist with lending, leverage. I mean, look, we're fucking degens. The second we can start levering up our hype and per and longer tail assets, like isolated markets. Yeah. Like we're going to fricking like lever them up on the EVM, you know, and start punting more on spot. So I think those two"
+    },
+    {
+      "start": 2522.93,
+      "end": 2553.33,
+      "speaker": "SPEAKER_00",
+      "text": "things happening, like I'm reserving any meaningful conclusions until I see hype. And I see EVM architecture and basically like the suite of products that EVM is going to enable to unlock more activity on the spot order books. At that point, we'll get a better sense. And then we'll see in theory, pretty quickly, things like wrapped Ethereum, Solana, Bitcoin, like you're going to see major assets trading"
+    },
+    {
+      "start": 2553.33,
+      "end": 2583.41,
+      "speaker": "SPEAKER_00",
+      "text": "on HIP2. Like that's not an if, that's just, it's going to be an arbitrage. You're going to see, yeah, you're going to see like, you're going to see liquid staked implementations. We already know that there's a ST hype, there's K hype, there's multiple variants of liquid staked hype. They're going to be on the order books. I have a theory that we're not going to have USDC as the only base pair. You're going to see in theory, a lot of these markets denominated in hype. I very much hope that"
+    },
+    {
+      "start": 2583.41,
+      "end": 2619.13,
+      "speaker": "SPEAKER_00",
+      "text": "would happen because that alone is going to drive more volume because you're going to have arbitrage. When you have arbitrage, multiple denominations and you have to arb against each other. So there's a lot of stuff that just like can't even happen yet until hype is live and EVM is live. And then we're going to get a better sense of like how live is the ecosystem. But you raise a good point. Like as of right now, it's, it's trivial in the scale of like Ethereum, Solana and other L2s. I think, I think you guys are speaking very conservatively, but just to add another point,"
+    },
+    {
+      "start": 2619.55,
+      "end": 2649.49,
+      "speaker": "SPEAKER_00",
+      "text": "I aint got the见 andANK in the data sheet in 2019. There was a lot of bulls about nous a couple W and A's. It's really just broad, just enough to put a spot on a lot of dealers to spaced it all out. So I think like if it's just like chopping things back to the 0 .5 to 0 .4 bit of the last inch. That's not a good numbers scale, but it's not a negative point. VL right now and UCC on hyperliquid"
+    },
+    {
+      "start": 2649.49,
+      "end": 2679.82,
+      "speaker": "SPEAKER_00",
+      "text": "so it'll definitely go above grass just a reminder grass grass the airdrop did 600 million dollars daily volume in one of the first wow so this is raise your targets bullish so what do you guys I guess by that logic then do you think you know what would argue like why can they just ask a question to marks yeah"
+    },
+    {
+      "start": 2679.82,
+      "end": 2709.9,
+      "speaker": "SPEAKER_00",
+      "text": "go ahead marks I wanted to ask how are you planning to play the next few weeks what are you up to are you cautiously waiting patiently waiting or in the trenches what have you been up to what's gonna happen in the next few weeks I'm just gonna keep doing the same stupid strategy that I've done for five months which is old I don't know I I just don't think I have any edge and trading"
+    },
+    {
+      "start": 2709.9,
+      "end": 2740.0,
+      "speaker": "SPEAKER_00",
+      "text": "in and out of stuff and the wealth effect has not hit yet right so are you asking about like buying hype at TGE or or something around it yeah I'm asking about hype TGA and I'm also asking about your spot strategy have you been accumulating some super early meme coins or just holding the majors maybe the strict list I know you have a major catapult position what else yeah no I mean I'm just holding most of"
+    },
+    {
+      "start": 2740.0,
+      "end": 2770.08,
+      "speaker": "SPEAKER_00",
+      "text": "the um i i would say that the the the one thing i would maybe take a stand on right would be that compared to the meme coin markets on solana uh because we are limited in the amount of order books that can be deployed you know in a given year i do think that there is a higher likelihood of um incumbent memes keeping on to their titles so to speak"
+    },
+    {
+      "start": 2770.08,
+      "end": 2800.1,
+      "speaker": "SPEAKER_00",
+      "text": "right like kind of like how pepe and mog on eath you know seem a bit more or are less like dilution resistant uh or sorry more dilution resistant than maybe some of the leading memes on solana right where you see something like whiff i think kind of struggle at the moment right it didn't pop on its coinbase listing like people were expecting and so on um just because it's a lot harder right uh on hyper liquid right our whatever our version of pump fun looks"
+    },
+    {
+      "start": 2800.1,
+      "end": 2830.7,
+      "speaker": "SPEAKER_00",
+      "text": "like and you know maybe it's still hyper liquid but it's still hyper liquid and it's still hyper liquid and it's still hyper pump uh even after the evm um there's only 270 promotions a year and you got to split that 270 with real projects as well um so i do think the existing strict meme tokens um or at least a handful of them you know will continue to be relevant um especially when you consider that i do think evm defy uh is a lot more accessible than solana vm defy obviously"
+    },
+    {
+      "start": 2830.7,
+      "end": 2861.3,
+      "speaker": "SPEAKER_00",
+      "text": "camino has scaled over there quite a bit now i think they're finally a billion dollar protocol but i would guess that um the defy that exists on hyper liquid because it's evm based um will just be more readily used by player uh by market participants here in our eco all this is to say like i think you'll be able to borrow against incumbent meme coins pretty easily and that should help their longevity as well um"
+    },
+    {
+      "start": 2861.76,
+      "end": 2891.32,
+      "speaker": "SPEAKER_00",
+      "text": "so yeah i mean i have some spare cash that i'd like to deploy at hype tge if it's you know sub four billion doll i think that's probably my line in the sand for where it's really a screaming buy um but aside from that i you know i think i'm looking to spend most of 2025 just holding a lot of these positions until the rest of the market kind of wakes wakes up to what we're all seeing right like i i personally"
+    },
+    {
+      "start": 2891.32,
+      "end": 2921.52,
+      "speaker": "SPEAKER_00",
+      "text": "expect to see a lot of these positions in the next couple of years i think a lot of inflow from spot bridging right like you know bitcoin soul and eth coming from tier two tier three exchanges from those networks themselves people trading it on our order books as a result and i think a lot of mania follows at some point because of just how the on -chain metrics wind up looking um with that you know phenomenon underway so i personally am not a very active trader like"
+    },
+    {
+      "start": 2921.52,
+      "end": 2951.57,
+      "speaker": "SPEAKER_00",
+      "text": "i'm not a very active trader i'm not a very active trader i'm not a very active trader i'm just not my edge so i think at some point in the next 12 months there will be some mania and you know early buyers sell to later buyers but um yeah i'm not trying to be cute with it aside from just getting in position now thanks that's really informative just look at our pfps man that"
+    },
+    {
+      "start": 2951.57,
+      "end": 2982.02,
+      "speaker": "SPEAKER_00",
+      "text": "answers your question oh by the way um if you've ever used a vpn to access hyper liquid you're not going to be able to get your hype i don't know if you guys saw that i haven't seen it my twitter my twitter's broken who's this speaking max that was max yes no i'm just i'm just trolling that was not max it was but i'm just trolling i"
+    },
+    {
+      "start": 2982.02,
+      "end": 3012.12,
+      "speaker": "SPEAKER_00",
+      "text": "sound like an american but i'm not so yeah everybody everybody you just heard the sound of multiple burgers jumping out a window man yeah yeah i was never worried guys i was never scared hope you hope you caught that dip you guys i have no idea so where do you guys think um all right so if we go back on the timing here we we got an announcement you know the typical weekly or bi -weekly announcement at the very end which is their little subtle oh"
+    },
+    {
+      "start": 3012.12,
+      "end": 3042.24,
+      "speaker": "SPEAKER_00",
+      "text": "and by the way we'll you know give the points for october may october november um next week all right so next week um you know the uh the claim window that was extended to the end of the week um and then we got an announcement that was extended to twice or thrice i don't know is officially ended they've now said they are going to give the points we'll know the points uh next week when do you guys actually think tg they still aren't making any claims on when tg actually happens or any tokenomics so we could get our points"
+    },
+    {
+      "start": 3042.24,
+      "end": 3072.26,
+      "speaker": "SPEAKER_00",
+      "text": "next week and it's still like you know no no what are you guys thinking i was gonna ask that you know around about the same question i mean do you think the team has a date in mind like now like set or do you 100k bitcoin do you think yeah hey that could happen any day uh but if they have a date or if they are just you know when they're ready it's ready you know i don't know i think when it's ready it's ready i don't think i think i think a set"
+    },
+    {
+      "start": 3072.26,
+      "end": 3103.14,
+      "speaker": "SPEAKER_00",
+      "text": "date yeah i think it's i think it's a technical milestone not a calendar date um feels like it would have to be i think it's a technical milestone not a calendar date um feels like it would have to be asking for months right it's like is this all at once uh you know you could launch the token and not have to launch the evm yet you could launch the token not have the validators go live i mean i i think it's like all at once i think it's like token because evm's"
+    },
+    {
+      "start": 3103.14,
+      "end": 3133.24,
+      "speaker": "SPEAKER_00",
+      "text": "live and they start opening up validation um so people can stake uh their hype to the validators so to me it's like they're just continuing to stress tech and they're just continuing to stress tech and they're just um they want to be obviously double triple quadruple sure that like from a technical standpoint the system is is ready to go and can see a production environment so um i mean look they they're not enjoying all of the like you"
+    },
+    {
+      "start": 3133.24,
+      "end": 3163.32,
+      "speaker": "SPEAKER_00",
+      "text": "know the complaining in the in the general chat and discord server like all the anticipation like i don't think they're trying to time it at all for any market conditions they obviously need to be very sure that once this thing gets going there's no uh attack vectors or any like major production implications so um that's my own guess and i still think it's this year it's probably not next week so it's you know the uh the polymarket enjoyers can probably"
+    },
+    {
+      "start": 3163.32,
+      "end": 3193.5,
+      "speaker": "SPEAKER_00",
+      "text": "start punting on the december bet but um yeah probably imminent but maybe in the next two to three weeks yeah i mean speaking of people that annoy people in discord we got dirtio up here i know he's on quite a ban at the moment yeah gm gm from jail guys yeah i've been banned recently but not for complaining but just for memeing quite a lot to keep the vibes so um yeah i bet that spamming was just too annoying for some people and get banned but um what i wanted to say"
+    },
+    {
+      "start": 3193.5,
+      "end": 3223.64,
+      "speaker": "SPEAKER_00",
+      "text": "here is that i disagree with you mogi and i don't think they're testing anything um and i really think that they planned each date like literally before because we have a lot of people that are like oh my god i don't know what to do with this i had this coin telegraph uh article previously i don't know if you remember yeah yeah but let him finish let him finish but coin telegraph is actually legit dog shit but continue yeah um he wrote in there that hyperliquid will announce when the tge will be on 29th of november right and we are all like laughing on"
+    },
+    {
+      "start": 3223.64,
+      "end": 3253.86,
+      "speaker": "SPEAKER_00",
+      "text": "this but um the truth is that they today announced that they're gonna give us a may points october points and early november points next week and i don't know what's going to happen on friday right so i guess with these points we'll also receive the tge uh announcement and if it will be in the same day then it's basically what was written in the coin telegraph right so my guess is that they spoke to coin telegraph we were laughing we were laughing at the ai generated the entire document"
+    },
+    {
+      "start": 3253.86,
+      "end": 3283.94,
+      "speaker": "SPEAKER_00",
+      "text": "which is a generated like had 10 i didn't even read it wrong fact did they reference where the 29th i didn't even read the article where did they make any reference to where the 29th came from it wasn't even it wasn't even the 29th of november that was like the worst of it i don't think like there are other points which are just off and wrong and so like if they happen to be right coincidentally i mean like yeah it could have been a coincidence right but what if it wasn't what if they gave them information and they just didn't keep it confidential for a while so um this is just this is just my test now clearly that"
+    },
+    {
+      "start": 3283.94,
+      "end": 3314.0,
+      "speaker": "SPEAKER_00",
+      "text": "is not the case like that just you you say you say confidently like i don't see how it's not right well look at this if it came to light the hyperliquid had leaked their release dates to coin telegraph i will in 4k full stock hitler all of my hype like they will not really like of all the insiders of all the whales of all the ogs of all the like the the builders like the"
+    },
+    {
+      "start": 3314.0,
+      "end": 3344.18,
+      "speaker": "SPEAKER_00",
+      "text": "ecosystem partners that they could talk if they're talking to coin telegraph like that is a 0 .0001 chance but you know like yeah that's just that's just one of the theories that um we had on my discord recently uh and i think it's aligned with all of the people did before right because i guess after the season one everything they did was planned and was planned like pretty well uh so yeah but we can still guessing right let's wait for the tge let's see um how it works"
+    },
+    {
+      "start": 3344.18,
+      "end": 3374.48,
+      "speaker": "SPEAKER_00",
+      "text": "like these days so far have not surprised me at all by the way like i you know my i've given my expectations in this space before i think it was and it's pretty much aligned with what i've like you know expected from team i'm not like some people who expected the 14th of november to be tge like you know sure now friday 13th so sure you're you're a dev you're a builder you know coming from a technical standpoint where do you lean do you think this is them fine"
+    },
+    {
+      "start": 3374.48,
+      "end": 3404.98,
+      "speaker": "SPEAKER_00",
+      "text": "tuning or do you think they've got everything buttoned up and they're just waiting on a like predetermined date i think it just takes like not even that it just takes like compile data and just you know you're a team of whatever it is let's say 10 for example i don't know how many i i'm assuming like you know five core people who like deal with this kind of stuff like you know you know they've got to like find time to and everything like it everything just takes time if you're like in one one of the you know in a team and this is just the kind of expectation i"
+    },
+    {
+      "start": 3404.98,
+      "end": 3435.22,
+      "speaker": "SPEAKER_00",
+      "text": "would have to just deal with the aftermath of everyone accepting terms and then dealing with distribution and everything like that and then dealing with unclaimed and stuff like that basically what was probably unplanned was like you know the number of unclaimed wallets but yeah so might be slight delay from that but otherwise yeah i think feels on track to me overall a big picture -wise so i'm expecting tge possibly early december now at this rate but"
+    },
+    {
+      "start": 3435.22,
+      "end": 3465.4,
+      "speaker": "SPEAKER_00",
+      "text": "yeah i'm not sure one of the more boring things to kind of add on to that too is you know we joke about it but if we assume that they have taken like a very clean room procedure with how they've set up the foundation then it is an independent team that presumably is taking some info from hyperliquid labs right especially around points but i think you know it can very much be the case"
+    },
+    {
+      "start": 3465.4,
+      "end": 3495.64,
+      "speaker": "SPEAKER_00",
+      "text": "that the foundation team just works at a different speed and was triple checking things and all that kind of stuff too so um you know i don't think there has to be a ton of conspiracy to kind of justify slower timelines than maybe what we were hoping for no max i got a theory multi -party computation they're sharding the tge date so jeff knows the day aliens knows the month and julian knows the time but none of them actually"
+    },
+    {
+      "start": 3495.64,
+      "end": 3525.76,
+      "speaker": "SPEAKER_00",
+      "text": "know the exact time stamp of when tg and they plug it into their npc algo and it's going to spit out dude that's the only way to seal all the leads wall faces what what time of day do you guys think it'll launch um let's say eastern standard time what was that what was that 3 29 p .m eastern yeah it was very early in the morning very annoying by the way"
+    },
+    {
+      "start": 3525.76,
+      "end": 3555.9,
+      "speaker": "SPEAKER_00",
+      "text": "honestly i still i lean towards it's um i kind of lean towards it's a stealthy way to do it i think it's a stealthy way to do it i think it's a stealthy way to do it it's a stealthy way to do it i think it's a stealthy way to do it i think it's a stealthy way to do it drop in the sense that you you wake up or whatever time of day it is for you you open it up and you're like oh shit like my hype is there like i don't there's a very real possibility just that they just go and like they shows up and the hip two is on a delay and like the hip two isn't even live for like a"
+    },
+    {
+      "start": 3555.9,
+      "end": 3586.0,
+      "speaker": "SPEAKER_00",
+      "text": "couple hours after the hips the hypes in your balance right sure i i agree it's possible for the token airdrop to genesis to occur before but i think trading has to be a lot of time to do it it's possible for the token airdrop to genesis to occur before but i think trading has to be a lot of time to do it fixed time basically announced in advance it goes back to this well it goes back to the sniper theory right it's like the whole like how are they layering well no it's telling i think snipers are less of a problem than people starting to like you know why are you like stealth launching this you know like inside what about inside the info"
+    },
+    {
+      "start": 3586.0,
+      "end": 3617.81,
+      "speaker": "SPEAKER_00",
+      "text": "leaks and so on like you know these are very real accusations that aren't easy to defend against if you stealth launch and it's so i think like most of the time it's like you know like you know like you know like you know like you know like most projects don't do this it's fair surely yeah because they don't want to as far as you have a an announced time stamp so then everyone's on the same footing i buy that um right so it's like a you know yeah if i was jeff and team i would just do what cz did and buy the ico like snipe to launch myself max pain"
+    },
+    {
+      "start": 3617.81,
+      "end": 3648.0,
+      "speaker": "SPEAKER_00",
+      "text": "max pain is hype launches on pump fun and they just bridge it over to hyperliquid yeah that would be i have a question to you guys by the way um i don't remember how was it with per but do you think they will release the tokenomics before the tge or they will just launch a token at the same time just release the tokenomics about because that would say a little bit at least about the order and i think that's what people are really looking for"
+    },
+    {
+      "start": 3648.0,
+      "end": 3678.32,
+      "speaker": "SPEAKER_00",
+      "text": "at the moment to just sneak peek the tokenomics i kind of remember it being announced in advance for per i'm pretty sure some things were not known in advance though for example the marketing market cap of per was not known uh but i don't think they'll do that with hype is just what i think with regards to the inside info on whatever like yeah"
+    },
+    {
+      "start": 3678.32,
+      "end": 3708.53,
+      "speaker": "SPEAKER_00",
+      "text": "they'll probably have everything public yeah i'd like to think i mean we're talking about two different beasts here uh one's a meme and and one's um you know the the l1 token i would think that we'll see a lot more information come out before tge that's just my my uh my assumption i mean i was originally thinking info comes up comes out one week before but maybe that's"
+    },
+    {
+      "start": 3708.53,
+      "end": 3738.54,
+      "speaker": "SPEAKER_00",
+      "text": "a bit long now but yeah i think i was thinking like one to two maybe the day before 24 hours um maybe even i was not yeah i mean maybe honestly even less maybe pretty close uh to the same time because you're not really here to let the whole i mean sure that information comes out to let everyone know but you're here to cater to the users and"
+    },
+    {
+      "start": 3738.54,
+      "end": 3768.8,
+      "speaker": "SPEAKER_00",
+      "text": "the people that are here already we're not gonna wait for other people to bridge their money and to to be ready for the token to launch so i could see it you know a bang bang scenario it comes out and then an hour later we're getting tge why not why not i mean i just don't think so i think you would like it just doesn't work out for me i don't think so i think this doesn't feel as proper as you know announcing it in advance and then yeah oh what's plastique down stumbling that's"
+    },
+    {
+      "start": 3768.8,
+      "end": 3798.82,
+      "speaker": "SPEAKER_00",
+      "text": "what i was gonna say it's just unfair with as much money that we've seen come to a spot on usdc seems like there's still a massive wave that has yet to bridge over and maybe they're waiting for the tokenomics and an official tge date before they tie up the capital and move it over yep uh that's what i mean like i'm like my my like why not let them let them because it's unfair because why would you launch something during the night you"
+    },
+    {
+      "start": 3798.82,
+      "end": 3828.96,
+      "speaker": "SPEAKER_00",
+      "text": "give the tokenomics one hour before the launch and so just the only people that ain't slept will be able to snipe or to buy that's unfair so i think it will be something like the announcement uh next week uh then um one week prior to tge there will be the tokenomics because since there will be the tokenomics we will know more about the tokenomics and we will know more about it and you can arbitrage um how much you're willing to bet on hype uh and it will bring more"
+    },
+    {
+      "start": 3828.96,
+      "end": 3859.0,
+      "speaker": "SPEAKER_00",
+      "text": "liquidity uh it will be it will let some people to organize their liquidity on their side to bridge it over and don't forget that some people are just lazy to to bridge funds to hyperliquid because they have to use a hyperliquid bridge called arbitrum and a lot of people never use arbitrum or maybe they have funds on solana but they don't know how to bridge it over arbitrum so i think there will be yeah it'll look better for visuals"
+    },
+    {
+      "start": 3859.0,
+      "end": 3892.18,
+      "speaker": "SPEAKER_00",
+      "text": "if you announce in advance like it won't look like this is just an inside job set up by this group of people on hyperliquid you know that kind of thing like you're letting in then everyone in like and i don't think it's a bad thing for us either like you know if you've got points you're already in and then if you really want to snipe it well we're all familiar with like the tech we've got to snipe whereas people who have just bridged and probably aren't so we we have an advantage either way you know talking about"
+    },
+    {
+      "start": 3892.18,
+      "end": 3922.32,
+      "speaker": "SPEAKER_00",
+      "text": "snipe shuri how is the wash sniper that's all uh it performed well with what something just launched not that long ago up i think maybe i mean yeah it's all right um much better than i thought actually but that's that's really because of laura i think laura's sniper just didn't trigger for the two launches like we sniped so it's kind of like we didn't even get to go to the launch site so it's kind of like we didn't even get to go to the launch site to compete kind of thing so but yeah i i'm i'm pretty sure laura has now fixed up whatever"
+    },
+    {
+      "start": 3922.32,
+      "end": 3952.34,
+      "speaker": "SPEAKER_00",
+      "text": "was up and then we might be able to see a comparison in the future because everyone seems to be obsessed with the comparison with the two whereas i'm kind of like you know why not use both it doesn't have to doesn't have to be better than anything else it just has to get in get a good entry but yeah so it's it's gone all right just uh gonna have to put out some updates slowly over the next few days before hype but yeah don't really have much else"
+    },
+    {
+      "start": 3952.34,
+      "end": 3983.23,
+      "speaker": "SPEAKER_00",
+      "text": "what if hype launches tomorrow will you be ready probably i'm not even sure laura will be ready though so but no i i'm not sure if i'll be ready unless if i mean like you know if they give information one hour in advance yeah maybe maybe i'll be around to see it but yeah uh not very ready at all but uh i got a question i want to play i want to go around for everyone on the stage and speaker i'm curious to get like a temperature check we're gonna go tge i"
+    },
+    {
+      "start": 3983.23,
+      "end": 4013.76,
+      "speaker": "SPEAKER_00",
+      "text": "wanted you to tell me three numbers and i'll start but um starting price bottom wick we'll do like market cap so starting market cap bottom wick and closing market cap 24 hours later i'll start opens at 500 million market cap bottom wick 350 24 hours later you guys"
+    },
+    {
+      "start": 4013.76,
+      "end": 4043.86,
+      "speaker": "SPEAKER_00",
+      "text": "have any open positions right now bro if it opens at 500 mil i'm gonna sell my kidney it's it's like a good thing that's that's a theory no but that's a theory that like they're trying to like have it be super low but i'll i'll sell my kidney with you i'm gonna sell my body to buy more give us your guess i hit it i think one one billion minimum launching price then a week maybe two"
+    },
+    {
+      "start": 4043.86,
+      "end": 4074.2,
+      "speaker": "SPEAKER_00",
+      "text": "five hundred meal and then up only to a hundred bill uh my shot is also one billion supply uh three billion uh market cap uh and starting price probably three dollars you gave it as like market supplies and market caps and and uh i'm like i just want to know like market"
+    },
+    {
+      "start": 4074.2,
+      "end": 4104.32,
+      "speaker": "SPEAKER_00",
+      "text": "cap like liquid but yeah like i'm of the camp that no fully diluted value i don't know if yeah that they look it's gonna end in the billions within 24 hours or within an hour but um i think they might start at low i'm i originally thought like 800 and others were telling me like oh no i think it could go like they might start it at 200 million just like seed it super low and be very conservative i don't know we'll see what what do you think will be there go ahead oh yeah so i originally thought i i"
+    },
+    {
+      "start": 4104.32,
+      "end": 4138.88,
+      "speaker": "SPEAKER_00",
+      "text": "actually originally thought a month ago like 100 million uh start but i don't know i think like two million two billion starts is uh makes sense now because pre -markets exist elsewhere uh evo in particular so like i think two billion start is possible uh i don't think we'll go below the start whatever we whatever we start i don't think we'll see a price but we'll see a wick go below it it'll be above it uh so yeah yeah it's up only we said yeah"
+    },
+    {
+      "start": 4138.88,
+      "end": 4169.6,
+      "speaker": "SPEAKER_00",
+      "text": "i don't have a good starting price i was the one in the camp of 200 million but a lot a lot has changed um well maybe a lot hasn't changed but okay you know it's just um a lot of hype everywhere man um and you know maybe i'm being siloed a bit but i have no idea but i think it is i think we're up only i think uh bottom wick is launch i see a gremlin in the audience if gremlin is a is a hyper liquid maxi um"
+    },
+    {
+      "start": 4169.6,
+      "end": 4199.62,
+      "speaker": "SPEAKER_00",
+      "text": "would love to see a gremlin a gremlin backed coin on hyper liquid chain guys don't know who grappling is a super sick artist but sorry i interrupted you shuri i didn't say anything wait what oh i was just saying the price of btc is probably the big thing that's changed over"
+    },
+    {
+      "start": 4199.62,
+      "end": 4230.08,
+      "speaker": "SPEAKER_00",
+      "text": "the last two months so i got a question um have any of you guys messed around with any of the products on testnet and find anything that you have enjoyed yet so far i have been doing a lot of testing on it as well and and i think that's why i think it's great and um let's see i've been farming uh not farming i've been providing liquidity on hyperswap on testnet and um it's a it's like a uniswap fork um is it fully evm like"
+    },
+    {
+      "start": 4230.08,
+      "end": 4261.29,
+      "speaker": "SPEAKER_00",
+      "text": "the entire thing is just it's it's basically a uni swap fork for the spot tokens right but i don't i mean obviously it does that uni v3 or because they haven't launched v4 yet right it's still just v3 is all that's out there isn't v4 already out is v4 out with the hooks and all that shit I don't know yeah"
+    },
+    {
+      "start": 4261.29,
+      "end": 4291.44,
+      "speaker": "SPEAKER_00",
+      "text": "yeah hooks is out I think but at least in hackathons they're getting people to build with hooks so I presume it's like out right yeah but is the hyper swap is that just a v2 pool or is it concentrated liquidity I think it's pools I know the founders so maybe I can ask them I"
+    },
+    {
+      "start": 4291.44,
+      "end": 4322.02,
+      "speaker": "SPEAKER_00",
+      "text": "didn't dig much more into it I only tried hyperland and felix so far wait wait wait I just got a dm from someone who's listening to the space said they're getting pilled by a friend so they thought they'd swing by so I just want to give the quick elevator pitch hyperliquid is doing 6 % of the open interest and volume of binance binance is $85 billion FDV hyperliquid is being priced at 2 billion FDV on pre"
+    },
+    {
+      "start": 4322.02,
+      "end": 4352.56,
+      "speaker": "SPEAKER_00",
+      "text": "-markets and it has 60 % of the markets that binance does you have a fully decentralized 24 7 market that lives on chain has on chain order books you can see the liquidity it's not going to blow up like FTX I mean I don't think I need to explain that part to you but basically it's undervalued it's under -farmed it's and people are under allocated you have almost 60 % of the entire Arbitrum chain it"
+    },
+    {
+      "start": 4352.56,
+      "end": 4382.64,
+      "speaker": "SPEAKER_00",
+      "text": "makes up 60 % of the Arbitrum chain and it's about to leave Arbitrum it's undervalued there's no KOL allocations VCs can't get enough of it they denied a hundred million dollars to buy 10 % of it last year they're not in it for the money previous top market maker on binance his mission is not to make money off this his mission is to destroy destroy binance and so uh yeah that's why we're here eight hundred dollars a point is the floor um if you if you"
+    },
+    {
+      "start": 4382.64,
+      "end": 4412.74,
+      "speaker": "SPEAKER_00",
+      "text": "claim if you claim your points and you sell them on day one you should you should be ashamed deactivate because you're going to want to deactivate later um hyper liquid i mean there's just we're not stopping until it's integrated into the bloomberg terminal the stock market is going to 22 hour days next it's going to be seven days a week 24 7 and they're going to need a framework to to uh tokenize these stocks and hyper liquid is a good start hey i just recorded that and"
+    },
+    {
+      "start": 4412.74,
+      "end": 4443.3,
+      "speaker": "SPEAKER_00",
+      "text": "we will start running that uh you know as a commercial break every like every five minutes or so during our space is going forward i think that was well done well done back to regular schedule program programming programming see i can't even i i'm so hyper liquid my brain can't even put words together anymore i'm just in the order books like i can't do it i can't speak all i know how to say is is open interest and long"
+    },
+    {
+      "start": 4443.3,
+      "end": 4473.38,
+      "speaker": "SPEAKER_00",
+      "text": "short pvp trade yeah i was gonna say i was gonna say go ahead i know what you're going for hosting yeah i'm hosting a space on friday and pbr is going to help me out we're actually going to host it um under the the pvp .trade account and we're going to interview faye are you guys can you guys hear mogi i can't hear him he's quiet yeah we can we can hear him we can hear him uh faye couldn't"
+    },
+    {
+      "start": 4473.38,
+      "end": 4503.43,
+      "speaker": "SPEAKER_00",
+      "text": "hear you he's talking about the space on friday do a lap real quick yeah i would just say yeah we're gonna do another space for uh pvp .trade we're gonna have faye on there and talk about his like trading journey and then also like his bull case for hyper liquid specifically as a trader and uh because he's he's in the pvp trenches but he's usually at the top of the leaderboard so it's going to be fun times to get more like into like"
+    },
+    {
+      "start": 4503.43,
+      "end": 4533.63,
+      "speaker": "SPEAKER_00",
+      "text": "specifically like the trader um aspect of using hyper liquid and then um pvp as a platform for that and builder codes and how that ties in so anyways we're gonna do another one of those uh first one actually on friday and pbr told me he'd help me so i'm not alone in the end zone awesome looking forward to it yeah uh faye when when are you putting a vault up like that's what i need i don't need to necessarily"
+    },
+    {
+      "start": 4533.63,
+      "end": 4565.65,
+      "speaker": "SPEAKER_00",
+      "text": "learn so much from you just give me a spot to to earn from you if should i should i make a vault i guess i should wait for the space let's let's see how the space goes and then whip that thing out man okay all right let's do it well that's the thing i'm only trading on pvp so we gotta get them to make vaults but i'll uh i'll spin one up i'm pretty sure they support vaults here uh i don't think they do yet not"
+    },
+    {
+      "start": 4565.65,
+      "end": 4596.04,
+      "speaker": "SPEAKER_00",
+      "text": "not not to create your own vault through pvp okay what about the nfts can we talk about the nft acceptance i went back pbr again and listened to that very first space the hyper liquid ever did uh january 2020 with um wrecked gang pbr"
+    },
+    {
+      "start": 4596.04,
+      "end": 4626.12,
+      "speaker": "SPEAKER_00",
+      "text": "that was the first ever space that jeff did julian wasn't even on the fucking team yet he was part of wreck gang he wasn't even on hyper liquid team yet he was helping them i guess as like a a contributor or something right yeah dude back then he would answer my dms now i just get the silent treatment from him but go ahead keep going yeah so you were i think you were the first it was you and like a few other guys that at the very end like the two so jeff did this whole spiel like i highly recommend i'll post it i'll find it but"
+    },
+    {
+      "start": 4626.12,
+      "end": 4656.3,
+      "speaker": "SPEAKER_00",
+      "text": "like honestly there's so many nuggets if you go back there on that first space they actually said they were they were gonna do a generalized um blockchain it was like oh we're just doing we're perps like we're not trying to do like you know smart contracts and all that stuff um which just goes to show and he's spoken publicly about how they you know why they pivoted and realized like the um the scope could be so much larger but point is here's the here's the alpha at the end of"
+    },
+    {
+      "start": 4656.3,
+      "end": 4686.48,
+      "speaker": "SPEAKER_00",
+      "text": "the space and there's a q a and julian was actually asked one of the first questions right because he was like co -hosting or whatever he wasn't on the team yet he was helping them he's like hey like would you do i think julian was the one that asked the question if i remember pbr um he said hey would you incorporate nfts because gmx has their nfts and like you know to integrate nfts for like trading institutions incentives or blah blah blah and so there's two pieces of alpha there so one the fucking person that asked the question is now on the team so like"
+    },
+    {
+      "start": 4686.48,
+      "end": 4716.7,
+      "speaker": "SPEAKER_00",
+      "text": "the person that thought that there could be a use case for having nfts is now on the team so like make of that what you will secondly jeff kind of at first was like kind of laughed it off like well like i don't really like thought about nfts but like yeah they're cool and like you know who knows like yeah there could be like things to do with that down the road so it's kind of more of like i don't know like you never know i haven't really thought about it but like you could see that being interesting what i'm trying to make is i don't know why people are mid -curving that like thinking denying the fucking nft acceptance and"
+    },
+    {
+      "start": 4716.7,
+      "end": 4746.84,
+      "speaker": "SPEAKER_00",
+      "text": "like you're gonna get less points that to me is just like so insane i don't know i'm like it's so simple like of course i fucking i i don't think anyone like many people actually did do that is there was some though i think maybe crypto condom was trolling there's definitely some style maybe crypto condom was trolling but their post was like they actually had a post about why they thought like denying nft made sense and like i don't know i followed them for a long time at least like you know most of these guys are just wanting to yeah it probably is pvp but"
+    },
+    {
+      "start": 4746.84,
+      "end": 4778.0,
+      "speaker": "SPEAKER_00",
+      "text": "like i don't know man there's there's people that i actually thought that accepting the pvp or the the nft was like going to reduce their allocation yeah it's fucking crazy anyways that's my like that's my whole thing on an nft i mean the nfts is they're they're i think great and a great advertising tool um you know i think now you can just scroll through the the people in this you know space you know you see miladies and uh crypto punks and stuff like that and people"
+    },
+    {
+      "start": 4778.0,
+      "end": 4808.2,
+      "speaker": "SPEAKER_00",
+      "text": "for some reason well not for some reason for many reasons you hold different people at different um standards i guess uh when you look at these things so it's i don't know i think they're fun and it's it's uh i don't know you know it's something but you do what you hold people up you hold people different standards because of um yeah it could be i do i do at times i mean you got to look deeper but i i uh yeah i do"
+    },
+    {
+      "start": 4808.2,
+      "end": 4838.3,
+      "speaker": "SPEAKER_00",
+      "text": "i mean look at mine my daughter drew that and i think you guys should all hold me up there high because uh you know i get a 11 year old's artwork i think the cat ball pfps going around are pretty swag it's i oh shit we got shuri's bulled up on cat like let's go you gotta hand it to him the art style and everything it's just very cool oh yeah guys coming back to the speculation on dates i"
+    },
+    {
+      "start": 4838.3,
+      "end": 4868.76,
+      "speaker": "SPEAKER_00",
+      "text": "wanted to point out that if the tge was so far out we would see another point season and that does not seem to be the case the points are over so i think the tge is close no we talked about it already we said that there will be no more points and airdrop but then could be some incentive with hype instead i mean anything can happen yeah the point is like look just yeah"
+    },
+    {
+      "start": 4868.76,
+      "end": 4898.84,
+      "speaker": "SPEAKER_00",
+      "text": "like i think the question becomes like just because tg happens there absolutely could still be uh emissions hype emissions and incentive programs to continue to use the platform right so i would not be surprised if you know they have an allocation you know whatever it is 30 40 50 percent to current points holders you know whatever the amount is to the team and then there's going to be in theory some non -zero balance that would go towards i mean"
+    },
+    {
+      "start": 4898.84,
+      "end": 4929.34,
+      "speaker": "SPEAKER_00",
+      "text": "at the very least you have to imagine there would be emissions for stakers for like validators for block rewards we don't know for sure but it would make sense that there would be some amount of hype that goes to block emissions um still remains to be seen and there could be continued incentives for platform use i don't know if that's going to happen because again the usage is so organic that they don't need to provide like hype stimmy checks for people to use the platform um but it's possible that there could still be post tg emissions so"
+    },
+    {
+      "start": 4929.34,
+      "end": 4959.65,
+      "speaker": "SPEAKER_00",
+      "text": "it's like not points but it's yeah you're earning to use it i don't i don't think they will because it's like they've already got product market fit if anything you can make the argument that spot ecosystem is still like fledgling and maybe needs a little extra boost but you know who knows uh just a quick question moggy um how much do you think you're going to be able to get out of the market if you think there will be how much supply for the nfc i mean the number we think is between 5 000 to"
+    },
+    {
+      "start": 4959.65,
+      "end": 4989.99,
+      "speaker": "SPEAKER_00",
+      "text": "6 000 because the the cutoff that i had heard before was around 5 to 6 000 rank was where people were getting eligible um to accept the nft to claim the nft um but then yeah there's like a decent amount of people it seems like they're out of the market i don't think they're going to be able to actually like at least their screenshots and again it could be psyop but it seems like there's a non -zero amount of people that are actually declining the nft so it feels like a 5 000 collection"
+    },
+    {
+      "start": 4989.99,
+      "end": 5020.09,
+      "speaker": "SPEAKER_00",
+      "text": "but um i think some people got added to the first window they could not accept it and then once they extended um it seems like some people were able to accept the nft that weren't previously um but yeah it feels like an order magnitude of five to six thousand what do you guys think about the volatility and the liquidity"
+    },
+    {
+      "start": 5020.09,
+      "end": 5050.14,
+      "speaker": "SPEAKER_00",
+      "text": "of hype uh after launch like my take on it is it will actually be fairly thin possibly yeah i mean it um again it goes back to the the economics around staking and so if there is healthy yield to stake your hype to a validator in theory that becomes a token sink obviously"
+    },
+    {
+      "start": 5050.14,
+      "end": 5081.04,
+      "speaker": "SPEAKER_00",
+      "text": "for circulating um and the question is who wants to have their their hype be resting orders there's the question around hip2 right is there indeed going to be hip2 for hype you certainly would assume so i think that almost certainly will yeah but the question becomes how thick is the hip2 liquidity and then you know regular just market makers um that are uh putting"
+    },
+    {
+      "start": 5081.04,
+      "end": 5111.4,
+      "speaker": "SPEAKER_00",
+      "text": "up orders for for hype so it's a good question again yeah what i wanted to bring up is like there is no uh there's no decentralized protocol for people to put down liquidity is there they won't be i mean laura no laura will probably have his because he's i mean i mean decentralized like yeah like you don't technically centralize right and anyone can just write their own bots along with it so it's more like a bunch of. yeah sure but like in the end it's it's"
+    },
+    {
+      "start": 5111.4,
+      "end": 5141.7,
+      "speaker": "SPEAKER_00",
+      "text": "different from having a decentralized like a properly decentralized pool yeah i think well so like i'm kind of wondering well that's a ball yeah this will be surely be different from tokens yeah i think the evm i mean like that would definitely be a use case that we would probably see pretty quickly on evm is um yeah decentralized um the problem there would be so like the algo for the market making for it to be like trustless and"
+    },
+    {
+      "start": 5141.7,
+      "end": 5171.76,
+      "speaker": "SPEAKER_00",
+      "text": "decentralized then the code would have to be on the evm like in the contract um in theory versus like hlp you don't actually know their market making yeah sure i mean like sure i mean i mean a dumb amm pool is like you know fine yeah i mean like someone i think to spin up an amm that just like spreads it across the entire book in theory yeah you could you could see that pretty soon someone like that's why we need the evm integration so"
+    },
+    {
+      "start": 5171.76,
+      "end": 5202.14,
+      "speaker": "SPEAKER_00",
+      "text": "that it allows those contracts to um transfer between evm to yeah i'm wondering like before we get there though like you know we i think the book liquidity could be quite thin then if you compare it to other recent token just other token and that's the bull argument for why the the bid will be so great i'm not i'm not sure if it's all up there honestly like let me for market makers to build inventory i mean like i'm saying like my argument would be that if there are truly market makers that want to be able to quote hype"
+    },
+    {
+      "start": 5202.14,
+      "end": 5232.92,
+      "speaker": "SPEAKER_00",
+      "text": "they need to accumulate inventory if they didn't already farm points and so that's basically one you know tail wind is these market makers you know uh want massive exposure so they can quote it and the only way for them to get inventory because pretty confident that hyperliquid is not like doing market making deals um yeah they would have had to be on here already i mean yeah also or"
+    },
+    {
+      "start": 5232.92,
+      "end": 5263.03,
+      "speaker": "SPEAKER_00",
+      "text": "they have to buy it at lunch i mean if you if for a comparison but not like not a real comparison i mean like how how well is per doing like in terms of extra liquidity like i don't feel like it's that much outside of like hiv too it's obviously tokens but still it's not like somewhat yeah i read somewhere so you could do like like a"
+    },
+    {
+      "start": 5263.03,
+      "end": 5293.33,
+      "speaker": "SPEAKER_00",
+      "text": "hundred thousand two hundred thousand dollar sell at least of per was like less than five percent move maybe i don't know yeah but that's inherent because of hiv too not because of people putting stuff up i think well we don't know i mean we don't know exactly how much of that depth is hip two versus rest like passive resting order i mean if you'd be the 100k orders are hip too and then everything else is not but"
+    },
+    {
+      "start": 5293.33,
+      "end": 5324.11,
+      "speaker": "SPEAKER_00",
+      "text": "like there isn't really that much as far as I can see I mean that's the question too right like you want thin liquidity for the price to go up and you want it to be thick as fuck for the price to go down so I guess we'll see right how that plays out I'm just thinking when do you guys think perps are for hyper what do you guys think about pip what do you guys think about sylvie oh"
+    },
+    {
+      "start": 5324.11,
+      "end": 5354.15,
+      "speaker": "SPEAKER_00",
+      "text": "guys come on did anyone try to wait wait wait one thing pastique hasn't launched his own coin or hyperliquid yet and I think this is like quite bad of him like you know can someone hyperliquid to me well I discussed with Luis recently and we talked about a lot of subjects and I know that I'm involved in some token but I will not say more we talked with Luis"
+    },
+    {
+      "start": 5354.15,
+      "end": 5384.33,
+      "speaker": "SPEAKER_00",
+      "text": "about the hyperliquidity indeed because we talked about the tokenomics and we all agreed with Luis and Fouboto that hyperliquidity just sucks it's very bad because the higher you go in price and the thicker liquidity you will need to make the price go up so we agreed on something like less than 10 % for the tokenomics of hype and"
+    },
+    {
+      "start": 5384.33,
+      "end": 5414.63,
+      "speaker": "SPEAKER_00",
+      "text": "I believe it could be even less maybe 3 % to 10 % simply because it's too annoying to trade with such a thick liquidity and you asked for will the volume be high during the first days and the volatility I believe it will be I believe that there are many reasons just like new year's day and new year's day there will be news events from the team that could bring the price go up"
+    },
+    {
+      "start": 5414.63,
+      "end": 5445.05,
+      "speaker": "SPEAKER_00",
+      "text": "just up there's no bad news that could bring hype go down it will only be some people saying oh I did a times 2 I did a times 3 I'm going to jit and I'm talking from a jitter so you have the point of view of a jit and it's reasonably think it will go up for many reasons there's too many news that will come you must get inside the mind of a jit to understand a jit so"
+    },
+    {
+      "start": 5445.05,
+      "end": 5476.88,
+      "speaker": "SPEAKER_00",
+      "text": "continue for a second correct so what will happen whatever the price will start people will start to bid because they don't understand whatever is going on they're just going to bid to all in they see oh my god there's such millions USDC are ready to bid I'm going to bid then a whale is going to buy after me so I can take profit for 20 % of my portfolio that's amazing that's"
+    },
+    {
+      "start": 5476.88,
+      "end": 5507.76,
+      "speaker": "SPEAKER_00",
+      "text": "going to happen it's just going to happen and you just have to wait like 2 weeks for the b -weekly recap API news announcements and people will just start to bid I'm not going to say all the news that could happen but just think about the nodes reward or the nodes minimum stake required to run a validator node that's some news that will create a lot of market buys because let's say you"
+    },
+    {
+      "start": 5507.76,
+      "end": 5537.96,
+      "speaker": "SPEAKER_00",
+      "text": "need I'm just giving random numbers let's say you need 1 million hype to become a validator a whale will just bid market buy some hype and become a validator and that brings the price go up so a jit will always activate the notifications he will wait for the announcement he sees whatever announcement he sees hype in it BAM I front run the order book and I'm buying wait Pistecchio I"
+    },
+    {
+      "start": 5537.96,
+      "end": 5568.18,
+      "speaker": "SPEAKER_00",
+      "text": "think you just came up everyone is just going to bid you just came up with a fucking billion dollar idea JAS Jitting as a service where the jits allocate to your service and your service listens to the news triggers and then it jits on the announcement so good on you man that's already happening because with hyperscan we're always watching the TWAPs and I think there's many people always watching it on H1 Telegram"
+    },
+    {
+      "start": 5568.18,
+      "end": 5598.64,
+      "speaker": "SPEAKER_00",
+      "text": "just yesterday we talked about the rug TWAP and it was pretty funny because there was also hidden TWAP so as when I said to my jit friends that someone was hidden selling TWAP rug that everyone instantly sold and we went from 23 cents to 70 cents how much TWAP have you seen? it's very expensive how much are you seeing where those are spoof TWAPs versus actual and where the TWAPs themselves are generating flow"
+    },
+    {
+      "start": 5598.64,
+      "end": 5628.82,
+      "speaker": "SPEAKER_00",
+      "text": "it seems like you're observing that yep there's too many and it's really easy to check about it you just have to look at the trades going on on your dashboard and you can see that the TWAP that is being shown on hyperscan indeed buys so you will not see that he sells to himself but you will always also see some other trades"
+    },
+    {
+      "start": 5628.82,
+      "end": 5659.3,
+      "speaker": "SPEAKER_00",
+      "text": "going on the other side like half the size or at another rhythm and I think it happens a bit more than one time on two for the big TWAPs but anyway let's return on the hype volatility events it's just up and down it's only guys believe it's there's no going down there's no reason to going down there's no dip there's nothing to"
+    },
+    {
+      "start": 5659.3,
+      "end": 5689.64,
+      "speaker": "SPEAKER_00",
+      "text": "catch just look at the price bitcoin is at 94 ,000 the second is just like trying to just get that doge is literally going to ten dollars like why would you like look at it it's at 40 cents doge is literally going to ten dollars if all of us buy ten dollars of doge right now it's literally going to the moon yeah I think I should be less bullish because I would love someone to fud about a hype"
+    },
+    {
+      "start": 5689.64,
+      "end": 5719.72,
+      "speaker": "SPEAKER_00",
+      "text": "because it will allow me to buy at a cheap price so please say yeah hyperliquid is a shit product no one is going to look it's quite easy to come up with some fud so a fud example would be that there's going to be a lot of selling pressure from the people who have a lot of points so imagine someone lost a lot of money on perps and now they will try to you know fud it get back in the game in order to do that they might immediately dump yes an mtd is going to sell so I got a question I got a question actually Mike I got a question"
+    },
+    {
+      "start": 5719.72,
+      "end": 5750.14,
+      "speaker": "SPEAKER_00",
+      "text": "for you guys I was just talking in dms and I was talking about hyperliquid and I made the statement that it's been such a long time since I've come across like a project that is so polished from the start you know everything's been enjoyable with it you know whether you're a good trader or not that doesn't matter you know but just the fact that how everything has worked so well what's the last project that you've come across that"
+    },
+    {
+      "start": 5750.14,
+      "end": 5780.26,
+      "speaker": "SPEAKER_00",
+      "text": "has given you that same feeling like I'm sitting here as you guys are yapping about nothing trying to think of it and I honestly cannot come up with something that I found as enjoyable as everything that hyperliquid has launched you can think about a few minutes because right like I'm stumped man and you know I mean it's just been so smooth yeah I"
+    },
+    {
+      "start": 5780.26,
+      "end": 5810.42,
+      "speaker": "SPEAKER_00",
+      "text": "think it's it's probably it's definitely not apples to apples comparison but I guess like as a reference point maybe when you know we got Uniswap for the first time or we got Aave for this time like it opened up a new primitive of like oh wow I can start doing these types of things again it's not quite the same because like obviously perps already existed but in terms of like the bullishness overall"
+    },
+    {
+      "start": 5810.42,
+      "end": 5841.06,
+      "speaker": "SPEAKER_00",
+      "text": "like this entire new kind of range of opportunity and things to do that's the closest thing I could think of in terms of like the actual product itself being so smooth I'd have to think you know I have one I think during the 2020 bull run there was FTX because you could collateralize whatever shit coins whatever ETF or anything and"
+    },
+    {
+      "start": 5841.06,
+      "end": 5871.08,
+      "speaker": "SPEAKER_00",
+      "text": "it's just going up and you could imagine use the collateral as a margin and you gained as a margin and it was crazy to use and I think FTX hasn't had many fees it was one of the lowest so it's all it's a sex but it's something comparable I think as a product I like the Uniswap comparison a lot because Uni was announced on airdrop also and I just want to remind everyone that you needed a 20x after it was airdropped I"
+    },
+    {
+      "start": 5880.13,
+      "end": 5901.23,
+      "speaker": "SPEAKER_00",
+      "text": "want to touch on one other thing like when Pistecke was talking about like kind of mechanical reasons why people would be acquiring hype you know for example of saying minimums for like validators or whatever I think the governance aspect I mean look governance typically is a meme and all that shit but I"
+    },
+    {
+      "start": 5901.23,
+      "end": 5931.49,
+      "speaker": "SPEAKER_00",
+      "text": "believe Steven actually was my rugger Steven did a post where he looked at the website code and actually I think on the code shows that the minimum to post a governance proposal was 10 million hype I think and then to vote I think it's just like one hype state type or something wait a minute a million that sounds like a one piece of fly I believe it was 10 ,000 10 ,000 was it 10 ,000 to"
+    },
+    {
+      "start": 5931.49,
+      "end": 5961.77,
+      "speaker": "SPEAKER_00",
+      "text": "do a proposal I believe so yeah sorry my still sounds like one piece of fly to me you know but wait wait to do a what to do a what yeah to put a proposal up I guess regardless what I'll say is if they are truly decentralizing the entire protocol and what that means is assets to open up markets on margin requirements crossmart like all this different stuff if and when they go there I think this"
+    },
+    {
+      "start": 5961.77,
+      "end": 5992.86,
+      "speaker": "SPEAKER_00",
+      "text": "could be one of the first times truly that the governance isn't simply a meme but you actually have a major incentive to want to contribute to like what is being voted on if that makes sense yeah for sure I mean well for reference like you're going to want to protect yourself you want to protect the chain you want to protect its holders so I mean governments can and should play a role for"
+    },
+    {
+      "start": 5992.86,
+      "end": 6023.55,
+      "speaker": "SPEAKER_00",
+      "text": "full decentralization yes it will I also talked about the subject with Luis and he I think I don't know if it was full bottle saying about it but just comparing with Jupiter on Selena people just voting for the proposals were getting airdrops so the governance I think yeah I wanted to yeah I wanted to mention that yeah yeah yeah yeah because also remember yeah sorry I remember"
+    },
+    {
+      "start": 6023.55,
+      "end": 6053.75,
+      "speaker": "SPEAKER_00",
+      "text": "that there's also this mechanism to being able to airdrop some tokens to hype one token so I think there will also be something related to the proposals which will allow you to get to be eligible to some airdrops so government is a big part of the system yeah but you know we don't always have to do things just because we're looking for handouts man like we want to do things to make things better or to keep things"
+    },
+    {
+      "start": 6053.75,
+      "end": 6089.13,
+      "speaker": "SPEAKER_00",
+      "text": "better yeah but you can be lazy so it's something to consider if we continue all to be lazy then we just accept the world that we live in and I'm not one of them I mean just look at the current validators there's almost like half of them being jailed and it's pretty sad because it's a closed thing and there's half of them not being able to unjail it I'm just looking at reality yeah"
+    },
+    {
+      "start": 6089.13,
+      "end": 6119.16,
+      "speaker": "SPEAKER_00",
+      "text": "I wanted to ask so like Jupiter is one of the like like what I feel is one of the comparable at least in terms of governance like how are they doing in terms of well just governance like is it all right kind of thing is like I've no idea what it's like I think their governance is great yeah the governance on Jupiter is great but the main issue is that their tokenomics is shit because it's VC backed and there will be a lot"
+    },
+    {
+      "start": 6119.16,
+      "end": 6149.2,
+      "speaker": "SPEAKER_00",
+      "text": "of unlock so it will dilute the governance and it just sucks man yeah but no it's good to hear that then like you know that's a baseline yep yep all right I'm running out of time here if anybody's got anything else you guys want to touch on anything else yeah I wanted to ask"
+    },
+    {
+      "start": 6149.2,
+      "end": 6179.78,
+      "speaker": "SPEAKER_00",
+      "text": "Shuri about the development with his sniper bot how's it going and I think you've had some success recently with the app launch at least I've seen some success stories yeah I think it's going to be good for us earlier, but you might have missed it. How's it going? And my question is, will I be able to snipe hype with it as well? I can't guarantee anything, but I will to the best of my ability let people snipe hype with it. That's kind of one of the main objectives of the"
+    },
+    {
+      "start": 6179.78,
+      "end": 6210.12,
+      "speaker": "SPEAKER_00",
+      "text": "sniper existing. Obviously, it'll still have usage after, but still, hype is the main thing for snipe, clearly. At least it is for me. Wasn't there some discussion about But yeah, I think it's going all right, but I could do with more general user feedback and stuff like that. Currently, I think there are I feel like to me there are only like five active users, but maybe there are more that just don't chat in the chat, so I don't know. I wouldn't know, because it's completely front"
+    },
+    {
+      "start": 6210.12,
+      "end": 6240.4,
+      "speaker": "SPEAKER_00",
+      "text": "-end. There's no back -end. So yeah, I don't have any statistics or anything like that. Go ahead, Faye. I don't care what your friends say. I don't care what your mom says. I don't care what your boss says. Put everything down right now and focus 24 hours of your day looking at Hyperliquid. The next six to 12 months could change your life. The Hyperliquid TGE is"
+    },
+    {
+      "start": 6240.4,
+      "end": 6270.52,
+      "speaker": "SPEAKER_00",
+      "text": "the greatest wealth creation event since the Ethereum ICO, since the Bitcoin white paper. It's a transformation of the financial markets. We're here right now. We're lucky to be early to this world -changing event. And you're telling me you're going to fade? You're telling me it's going to launch at $500 million? You're telling me there's going to be $50 million of daily volume? No. Higher. Higher. You can't spell Hyperliquid without higher."
+    },
+    {
+      "start": 6271.46,
+      "end": 6301.98,
+      "speaker": "SPEAKER_00",
+      "text": "Higher. Higher. Hyperliquid. Raise your targets. Man discovers fire. Man invents wheel. Man discovers Hyperliquid TGE. No, it's very simple. Exactly what you're saying. You discover the wheel. You discover fire. You discover coal. You discover oil. You discover electricity. You discover computers. You discover the"
+    },
+    {
+      "start": 6301.98,
+      "end": 6332.12,
+      "speaker": "SPEAKER_00",
+      "text": "cell phone. You discover the cryptocurrency and now Hyperliquid. Jeff, save us. Bulled up. Very bulled up. Why didn't you say this? By the way. And yes, I do weddings. I do weddings. All right, people."
+    },
+    {
+      "start": 6332.2,
+      "end": 6360.16,
+      "speaker": "SPEAKER_00",
+      "text": "Bring us home, man. Our yapping is going next month. I was about to cut him off anyway. I appreciate everybody coming out. Another great space. Be on the lookout for Mogi's space on Friday, I believe. Should be a good one. Faye will be there and he will show us the way. And yeah. We'll have another Hyper Hour next week. Appreciate everybody. Talk to yous later. Thanks for hosting."
+    }
+  ],
+  "speaker_map": {}
+}

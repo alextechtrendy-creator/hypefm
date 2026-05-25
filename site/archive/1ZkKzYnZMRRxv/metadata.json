@@ -1,0 +1,80 @@
+{
+  "space_id": "1ZkKzYnZMRRxv",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-04-30T23:05:36Z",
+  "started_at": "2025-05-01T18:01:00Z",
+  "ended_at": "2025-05-01T19:05:14Z",
+  "scheduled_start": "2025-05-01T18:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 98,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ZkKzYnZMRRxv",
+  "summary_title": "HIP3 unlocks permissionless perps, liquid staking protocols, and massive new fee verticals",
+  "summary_description": "Mogi breaks down how HIP3 transforms perp listings, enables staking protocols to launch markets, and creates new revenue flows for HyperLiquid.",
+  "topic_tags": [
+    "perps",
+    "governance",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 330,
+      "label": "HIP3 announcement: permissionless perp creation with major caveats"
+    },
+    {
+      "timestamp_seconds": 421,
+      "label": "1 million HIP stake requirement and auction mechanism in HIP, not USDC"
+    },
+    {
+      "timestamp_seconds": 603,
+      "label": "HyperLiquid Foundation remains curator of major perps, HIP3 enables niche markets"
+    },
+    {
+      "timestamp_seconds": 909,
+      "label": "Liquid staking protocols like Kinetic become obvious beneficiaries with low cost of capital"
+    },
+    {
+      "timestamp_seconds": 1062,
+      "label": "Deployers control fees, earn 50% fee share from their perp market"
+    },
+    {
+      "timestamp_seconds": 1458,
+      "label": "HIP3 opens new vertical for decentralization and value accrual to HIP token"
+    },
+    {
+      "timestamp_seconds": 2215,
+      "label": "Twitter account compromise and monthly close above $20 despite sub-$10 dip"
+    },
+    {
+      "timestamp_seconds": 3367,
+      "label": "Pump Fun and other protocols could acquire HIP to launch permissionless perps"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 3841.1306875,
+  "capture_failure_reason": null
+}

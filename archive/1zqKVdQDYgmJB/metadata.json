@@ -1,0 +1,135 @@
+{
+  "space_id": "1zqKVdQDYgmJB",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-08-13T12:17:04Z",
+  "started_at": "2025-08-15T20:01:18Z",
+  "ended_at": "2025-08-15T21:54:30Z",
+  "scheduled_start": "2025-08-15T20:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 1361,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Nach | Future KOL Arc",
+      "handle": "Nach_211",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Chef Goose",
+      "handle": "chefgoose",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Cole Kennelly",
+      "handle": "ColeGotTweets",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Dr Rafa",
+      "handle": "brave_raf",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Guthix 🫵",
+      "handle": "GuthixHL",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Charlie.hl",
+      "handle": "0xBroze",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Omnia.hl π",
+      "handle": "0xOmnia",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ruto",
+      "handle": "GianTheRios",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Crypto Cobra",
+      "handle": "CryptaCobra",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1zqKVdQDYgmJB",
+  "summary_title": "Kinetic's fastest-growing LST, Hyperliquid's 30B daily volume, and builder code's billion-dollar potential",
+  "summary_description": "Community builders discuss Kinetic's explosive adoption, Hyperliquid-EVM unlocks, and how third-party interfaces are reshaping crypto.",
+  "topic_tags": [
+    "ecosystem",
+    "vaults",
+    "infrastructure",
+    "market-making"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 315,
+      "label": "Hyperliquid riding wave despite being only green on screen"
+    },
+    {
+      "timestamp_seconds": 437,
+      "label": "Kinetic LST launches flawlessly in July after year of integration work"
+    },
+    {
+      "timestamp_seconds": 652,
+      "label": "Kinetic fastest-growing LST ever in any ecosystem after 31 days"
+    },
+    {
+      "timestamp_seconds": 1050,
+      "label": "Anchorage bank integration marks institutional progress below the radar"
+    },
+    {
+      "timestamp_seconds": 1292,
+      "label": "Felix expanding to tail markets including potential vK hype perpetuals"
+    },
+    {
+      "timestamp_seconds": 2328,
+      "label": "Based app does 1.6B volume in 30 days, Phantom taps untapped user bases"
+    },
+    {
+      "timestamp_seconds": 3024,
+      "label": "Hyperliquid ecosystem stands out for pure Darwinism, no shadowy foundation coordination"
+    },
+    {
+      "timestamp_seconds": 3900,
+      "label": "Builder code businesses now generating billion-dollar volumes from pure frontend work"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 6792.6826875,
+  "capture_failure_reason": null
+}

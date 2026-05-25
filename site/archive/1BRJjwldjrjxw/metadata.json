@@ -1,0 +1,67 @@
+{
+  "space_id": "1BRJjwldjrjxw",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-09-12T15:36:14Z",
+  "started_at": "2024-09-12T16:30:23Z",
+  "ended_at": "2024-09-12T17:58:01Z",
+  "scheduled_start": "2024-09-12T16:30:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 4389,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "as1_hunter",
+      "handle": "as1_hunter",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Omnia.hl π",
+      "handle": "0xOmnia",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "VivanLive",
+      "handle": "VivanLive",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "jeff.hl",
+      "handle": "chameleon_jeff",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1BRJjwldjrjxw",
+  "summary_title": null,
+  "summary_description": null,
+  "topic_tags": [],
+  "key_moments": [],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": false,
+  "audio_duration_seconds": null,
+  "capture_failure_reason": "yt-dlp failed: 4TYUll5_g/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/audio-space/playlist_16720580187203719774.m3u8?type=replay: Connection reset by peer\n\n\nERROR: ffmpeg exited with code 1\n"
+}

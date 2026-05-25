@@ -1,0 +1,99 @@
+{
+  "space_id": "1djxXrpnBkoGZ",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-12-04T20:55:36Z",
+  "started_at": "2024-12-04T23:00:58Z",
+  "ended_at": "2024-12-05T00:19:09Z",
+  "scheduled_start": "2024-12-04T23:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 116,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Bitcoinyouth",
+      "handle": "0xblastard",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "mfpurrs",
+      "handle": "mfpurrs",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "American Hearts",
+      "handle": "DragYourShadow",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "mynameJEFF",
+      "handle": "mrsavaxobi",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1djxXrpnBkoGZ",
+  "summary_title": "Flawless TGE execution, spot market euphoria, and the conviction tax in Hyperliquid",
+  "summary_description": "Community reflects on the smoothest token launch ever, why people faded the airdrop, and what comes next for staking and EVM.",
+  "topic_tags": [
+    "HLP",
+    "perps",
+    "governance",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 385,
+      "label": "PBR participated in TGE with one eye open after drinking"
+    },
+    {
+      "timestamp_seconds": 566,
+      "label": "TGE execution was flawless—no platform hiccups despite massive volume"
+    },
+    {
+      "timestamp_seconds": 627,
+      "label": "Hyper Pump auctions scaled from 30-40 to 100k+, demand wild"
+    },
+    {
+      "timestamp_seconds": 749,
+      "label": "Proposal: move Hyper Pump pools to hype denomination for compounding"
+    },
+    {
+      "timestamp_seconds": 1052,
+      "label": "Some people declined NFT airdrops thinking it was a trick"
+    },
+    {
+      "timestamp_seconds": 1083,
+      "label": "Key edge: believing Jeff and team were actually high-integrity and altruistic"
+    },
+    {
+      "timestamp_seconds": 1750,
+      "label": "TGE deadline drama: people missed sign-off despite a month to accept terms"
+    },
+    {
+      "timestamp_seconds": 2146,
+      "label": "Guest credits Hyper Hour spaces for pushing him all-in before TGE"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 4689.6,
+  "capture_failure_reason": null
+}

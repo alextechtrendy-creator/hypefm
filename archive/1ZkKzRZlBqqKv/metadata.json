@@ -1,0 +1,128 @@
+{
+  "space_id": "1ZkKzRZlBqqKv",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-01-31T15:18:16Z",
+  "started_at": "2025-01-31T19:00:37Z",
+  "ended_at": "2025-01-31T21:11:31Z",
+  "scheduled_start": "2025-01-31T19:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 905,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Crypster",
+      "handle": "CrypsterTrades",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "HL Eco",
+      "handle": "hl_eco",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Aaron Xie",
+      "handle": "arnx813_",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Sydney Tammy",
+      "handle": "_SydneyTammy_",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "WizLiz",
+      "handle": "WizLiz800",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "xulian.hl",
+      "handle": "xulian_hl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Vault Overflow | $VAULT on HL",
+      "handle": "vault_on_hl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Michael Angelo",
+      "handle": "flyingelectric1",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1ZkKzRZlBqqKv",
+  "summary_title": "Hyperliquid drama, EVM gas limits, and Bitcoin spot trading live",
+  "summary_description": "Community tensions, technical EVM tradeoffs, and uBTC launching reshape Hyperliquid's ecosystem",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 195,
+      "label": "Opening remarks on recent Hyperliquid community drama"
+    },
+    {
+      "timestamp_seconds": 648,
+      "label": "uBTC (Unit Bitcoin) order book goes live on mainnet"
+    },
+    {
+      "timestamp_seconds": 708,
+      "label": "Discussion of spot Bitcoin trading and reducing vendor lock-in on USDC"
+    },
+    {
+      "timestamp_seconds": 1191,
+      "label": "Hyperliquid liquidity now optional for spot deployers; fee structure changes"
+    },
+    {
+      "timestamp_seconds": 1706,
+      "label": "EVM testnet dual block system: 2-second fast blocks vs 1-minute slow blocks"
+    },
+    {
+      "timestamp_seconds": 2008,
+      "label": "Aaron raises gas limit concerns: only 5 swaps per block on 2-second blocks"
+    },
+    {
+      "timestamp_seconds": 3175,
+      "label": "Silhouette dark pool privacy solution for Hyperliquid trades"
+    },
+    {
+      "timestamp_seconds": 3629,
+      "label": "Trump listing shows Hyperliquid's speed advantage over centralized exchanges"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 7855.2533125,
+  "capture_failure_reason": null
+}

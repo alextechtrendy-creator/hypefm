@@ -1,0 +1,86 @@
+{
+  "space_id": "1YpJklVEENwxj",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-11-28T16:26:47Z",
+  "started_at": "2024-11-28T16:26:48Z",
+  "ended_at": "2024-11-28T17:13:00Z",
+  "scheduled_start": null,
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 257,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Derteil",
+      "handle": "derteil00",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Samurai Takedown",
+      "handle": "SamuraiTakedown",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YpJklVEENwxj",
+  "summary_title": "HLP tokenomics: 31% to points holders, empty order book theory, and the wealth transfer to come",
+  "summary_description": "Mogi and PBR break down HLP allocation, TGE mechanics, and what happens when genesis goes live in hours.",
+  "topic_tags": [
+    "tokenomics",
+    "governance",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 130,
+      "label": "Points redistribution: May underperformed, October-November favored new entrants"
+    },
+    {
+      "timestamp_seconds": 283,
+      "label": "Best strategy in hindsight: all-in perps, zero trading, hold everything"
+    },
+    {
+      "timestamp_seconds": 768,
+      "label": "31% to points holders announced; bear case 10%, bull case 50-60%"
+    },
+    {
+      "timestamp_seconds": 858,
+      "label": "Day-one circulating supply: 69% to users when team and foundation locked"
+    },
+    {
+      "timestamp_seconds": 889,
+      "label": "HLP allocation 0.012%; empty order book theory confirmed"
+    },
+    {
+      "timestamp_seconds": 950,
+      "label": "Genesis at 07:30 UTC Nov 29; unclear if HLP goes live instantly or delayed"
+    },
+    {
+      "timestamp_seconds": 1011,
+      "label": "One billion supply; potential $100M+ resting buy-side liquidity at launch"
+    },
+    {
+      "timestamp_seconds": 2138,
+      "label": "30% emissions distribution still unclear: staking rewards vs. future incentives to governance"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 2769.6,
+  "capture_failure_reason": null
+}

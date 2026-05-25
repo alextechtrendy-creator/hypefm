@@ -291,7 +291,10 @@
     els.results.innerHTML = filtered.map(s => {
       const sn = state.query ? snippet(s._transcript, state.query) : null;
       const metaParts = [];
-      if (s.host) metaParts.push('@' + esc(s.host));
+      if (s.host) {
+        const hostLabel = (s.host_info && s.host_info.display_name) ? s.host_info.display_name : '@' + s.host;
+        metaParts.push(esc(hostLabel));
+      }
       if (s.date) metaParts.push(esc(fmtDate(s.date)));
       if (s.duration) metaParts.push(esc(fmtDuration(s.duration)));
       if (s.tags && s.tags.length) {
@@ -359,6 +362,10 @@
   }
   function renderFilters() {
     const hosts = Array.from(new Set(state.spaces.map(s => s.host).filter(Boolean))).sort();
+    const hostDisplay = {};
+    state.spaces.forEach(s => {
+      if (s.host && s.host_info && s.host_info.display_name) hostDisplay[s.host] = s.host_info.display_name;
+    });
     const tagsSet = new Set();
     state.spaces.forEach(s => (s.tags || []).forEach(t => tagsSet.add(t)));
     const tags = Array.from(tagsSet).sort();
@@ -367,7 +374,7 @@
     }
     const sep = '<span class="chip-sep">·</span>';
     let html = chipBtn('all hosts', !state.activeHost, 'data-host=""');
-    hosts.forEach(h => { html += sep + chipBtn('@' + h, state.activeHost === h, 'data-host="' + esc(h) + '"'); });
+    hosts.forEach(h => { const label = hostDisplay[h] || '@' + h; html += sep + chipBtn(label, state.activeHost === h, 'data-host="' + esc(h) + '"'); });
     html += '<br>' + chipBtn('all topics', !state.activeTag, 'data-tag=""');
     tags.forEach(t => { html += sep + chipBtn(t, state.activeTag === t, 'data-tag="' + esc(t) + '"'); });
     els.filters.innerHTML = html;

@@ -2,5 +2,13 @@
   "hypurr_co": {
     "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypurrco.jpg",
     "display_name": "HypurrCo"
+  },
+  "rekt_gang": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/rektgang.png",
+    "display_name": "Rekt Gang"
+  },
+  "pbr713": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypurr-hour.png",
+    "display_name": "Hypurr Hour"
   }
 }

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hypurr Hour - hypefm</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #0a1612;
+    --bg-card: #14241f;
+    --fg: #fafaf7;
+    --fg-muted: rgba(250,250,247,0.65);
+    --fg-faint: rgba(250,250,247,0.5);
+    --accent: #97FCE4;
+    --accent-bg: rgba(151, 252, 228, 0.12);
+    --quote-bg: #1c2e28;
+    --quote-fg: #fafaf7;
+    --quote-accent: #97FCE4;
+    --border: #2a3d36;
+    --border-light: #2a3d36;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+    background: var(--bg); color: var(--fg);
+    margin: 0; line-height: 1.5; -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+  .back {
+    font-size: 11px; color: var(--fg-muted);
+    text-decoration: none; display: inline-block; margin-bottom: 1.25rem;
+  }
+  .back:hover { color: var(--accent); }
+  h1 {
+    font-size: 24px; font-weight: 500; line-height: 1.25;
+    margin: 0 0 0.5rem; letter-spacing: -0.01em;
+  }
+  .description {
+    font-size: 14px; color: #555;
+    margin: 0 0 1rem; line-height: 1.55;
+  }
+  .quote-card {
+    background: var(--quote-bg);
+    border-radius: 8px;
+    padding: 22px 24px;
+    margin: 0 0 1.25rem;
+  }
+  .quote-text {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--quote-fg);
+    line-height: 1.4;
+    margin: 0;
+    font-weight: 500;
+  }
+  .quote-byline {
+    margin: 14px 0 0; padding-top: 12px;
+    border-top: 1px solid rgba(151, 252, 228, 0.18);
+    display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap;
+    font-size: 12px; line-height: 1.4;
+  }
+  .quote-byline-name { color: var(--quote-fg); font-weight: 600; }
+  .quote-byline-role { color: rgba(151, 252, 228, 0.85); }
+  .quote-byline-sep { color: rgba(151, 252, 228, 0.4); }
+  .quote-byline-team {
+    display: inline-flex; align-items: center;
+    background: rgba(151, 252, 228, 0.12);
+    border: 1px solid rgba(151, 252, 228, 0.3);
+    color: var(--quote-accent); font-weight: 500;
+    padding: 2px 9px; border-radius: 12px;
+    text-decoration: none; font-size: 11px;
+    transition: background 0.1s;
+  }
+  .quote-byline-team:hover {
+    background: rgba(151, 252, 228, 0.22);
+    border-color: rgba(151, 252, 228, 0.5);
+  }
+  .meta { font-size: 11px; color: var(--fg-faint); margin: 0 0 1.25rem; }
+  .meta .tag { color: var(--accent); font-weight: 500; cursor: pointer; }
+  .meta .tag:hover { text-decoration: underline; }
+  audio { width: 100%; height: 42px; margin-bottom: 1.5rem; }
+  .audio-unavailable {
+    font-size: 12px; color: var(--fg-muted); font-style: italic;
+    padding: 0.7rem 0.9rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px;
+    margin-bottom: 1.5rem;
+  }
+  .section-label {
+    font-size: 11px; color: var(--fg-muted);
+    margin: 1.5rem 0 0.5rem; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .participants { display: flex; flex-direction: column; margin-bottom: 1.75rem; }
+  .participant {
+    display: flex; gap: 16px; padding: 10px 0;
+    border-top: 1px solid var(--border-light);
+    align-items: baseline;
+  }
+  .participant:first-of-type { border-top: 0; padding-top: 4px; }
+  .participant-name {
+    font-size: 13px; font-weight: 500; color: var(--fg);
+    min-width: 120px;
+  }
+  .participant-name a { color: var(--accent); text-decoration: none; }
+  .participant-name a:hover { text-decoration: underline; }
+  .participant-affiliation {
+    font-size: 12px; color: #666; flex: 1; line-height: 1.45;
+  }
+  .participant-role {
+    font-size: 10px; color: var(--accent); font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.05em;
+    background: var(--accent-bg); padding: 2px 7px; border-radius: 3px;
+  }
+  .moments { display: flex; flex-direction: column; gap: 2px; margin-bottom: 1.75rem; }
+  .moment {
+    display: flex; gap: 12px; align-items: baseline;
+    padding: 8px 10px; margin: 0 -10px;
+    border-radius: 4px; cursor: pointer;
+    transition: background 0.1s;
+  }
+  .moment:hover { background: white; }
+  .moment-ts {
+    font-size: 12px; color: var(--accent); font-weight: 500;
+    min-width: 52px; font-variant-numeric: tabular-nums;
+  }
+  .moment-label { font-size: 13px; margin: 0; line-height: 1.45; color: #444; }
+  .transcript-toggle {
+    border-top: 1px solid var(--border-light); padding: 1rem 0 0 0;
+    margin-top: 1.5rem;
+    font-size: 12px; color: var(--accent); cursor: pointer;
+    background: none; border-left: none; border-right: none; border-bottom: none;
+    font-family: inherit; font-weight: 500;
+  }
+  .transcript-toggle:hover { text-decoration: underline; }
+  #transcript { display: none; margin-top: 1rem; }
+  #transcript.visible { display: block; }
+  .chunk {
+    padding: 0.7rem 0.85rem; margin-bottom: 0.4rem; background: white;
+    border: 1px solid var(--border-light); border-radius: 6px; cursor: pointer;
+    transition: border-color 0.1s;
+  }
+  .chunk:hover { border-color: var(--border); }
+  .chunk-header {
+    display: flex; gap: 0.6rem; font-size: 11px; margin-bottom: 0.25rem;
+    color: var(--fg-muted);
+  }
+  .chunk-ts { color: var(--accent); font-variant-numeric: tabular-nums; font-weight: 500; }
+  .chunk-speaker { font-weight: 500; }
+  .chunk-text { color: #333; font-size: 13px; line-height: 1.55; }
+  .footer {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--border-light);
+    color: var(--fg-faint); font-size: 11px; text-align: center;
+  }
+  .footer a { color: var(--fg-muted); text-decoration: none; }
+  .footer a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    h1 { font-size: 20px; }
+    .quote-text { font-size: 15px; }
+    .quote-card { padding: 18px 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<a href="../../index.html" class="back">&larr; back to hypefm</a>
+
+<h1>Hypurr Hour</h1>
+
+
+<p class="meta">@pbr713 &middot; sep 12, 2024</p>
+
+<div class="audio-unavailable">yt-dlp failed: 4TYUll5_g/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/audio-space/playlist_16720580187203719774.m3u8?type=replay: Connection reset by peer
+
+
+ERROR: ffmpeg exited with code 1
+</div>
+
+<p class="section-label">who's talking</p><div class="participants"><div class="participant"><div class="participant-name"><a href="https://x.com/pbr713" target="_blank" rel="noopener">Pbr713</a> <span style="color:#999;font-weight:400;">@pbr713</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">host</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/as1_hunter" target="_blank" rel="noopener">as1_hunter</a> <span style="color:#999;font-weight:400;">@as1_hunter</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/mogie__" target="_blank" rel="noopener">Mogie</a> <span style="color:#999;font-weight:400;">@mogie__</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/0xOmnia" target="_blank" rel="noopener">Omnia.hl π</a> <span style="color:#999;font-weight:400;">@0xOmnia</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/fiege_max" target="_blank" rel="noopener">max.hl</a> <span style="color:#999;font-weight:400;">@fiege_max</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/VivanLive" target="_blank" rel="noopener">VivanLive</a> <span style="color:#999;font-weight:400;">@VivanLive</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div><div class="participant"><div class="participant-name"><a href="https://x.com/chameleon_jeff" target="_blank" rel="noopener">jeff.hl</a> <span style="color:#999;font-weight:400;">@chameleon_jeff</span></div><div class="participant-affiliation">&mdash;</div><span class="participant-role">guest</span></div></div>
+
+
+
+
+
+<div class="footer">
+  <a href="../../index.html">hypefm</a> &nbsp;&middot;&nbsp;
+  <a href="https://x.com/i/spaces/1BRJjwldjrjxw" target="_blank" rel="noopener">view on X</a>
+</div>
+
+</div>
+
+<script>
+  const audio = document.querySelector('audio');
+  function seekTo(t) {
+    if (!audio) return;
+    audio.currentTime = t;
+    audio.play();
+    audio.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.querySelectorAll('[data-start]').forEach(el => {
+    el.addEventListener('click', () => {
+      const t = parseFloat(el.dataset.start);
+      if (!isNaN(t)) seekTo(t);
+    });
+  });
+  const toggle = document.getElementById('transcript-toggle');
+  const transcript = document.getElementById('transcript');
+  if (toggle && transcript) {
+    toggle.addEventListener('click', () => {
+      const visible = transcript.classList.toggle('visible');
+      toggle.textContent = visible ? '- hide full transcript' : '+ show full transcript';
+    });
+  }
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+</body>
+</html>

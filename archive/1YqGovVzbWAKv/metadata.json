@@ -1,0 +1,98 @@
+{
+  "space_id": "1YqGovVzbWAKv",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-10-08T13:05:58Z",
+  "started_at": "2024-10-08T16:20:29Z",
+  "ended_at": "2024-10-08T18:13:41Z",
+  "scheduled_start": "2024-10-08T16:20:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 302,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "krish",
+      "handle": "0xkrishb",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Pasteke.hl🌱☢️",
+      "handle": "0xPasteke",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Punnett Capital",
+      "handle": "punnettcap",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "🔮(𝕏ᵀ𝕏) - loracle.hl",
+      "handle": "loraclexyz",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqGovVzbWAKv",
+  "summary_title": "Bridge halt, spot dusting exploit, and EVM timeline speculation",
+  "summary_description": "Security pause worked as designed, token dust hunting discussed, and when decentralization actually launches.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 582,
+      "label": "Bridge halted Sunday night due to Arbitrum indexing false positive"
+    },
+    {
+      "timestamp_seconds": 703,
+      "label": "Automated lockdown prevented potential fund drainage; security feature working"
+    },
+    {
+      "timestamp_seconds": 1460,
+      "label": "Spot dust conversion mandatory; enables price manipulation via liquidation hunting"
+    },
+    {
+      "timestamp_seconds": 1581,
+      "label": "5% of FUN token supply dusted in coordinated attack; deployer raised concerns"
+    },
+    {
+      "timestamp_seconds": 1917,
+      "label": "Team aware of dusting vulnerability for three months; now making it optional"
+    },
+    {
+      "timestamp_seconds": 2434,
+      "label": "Jeff mentioned decentralization by end of year; interpreted as TGE plus validators"
+    },
+    {
+      "timestamp_seconds": 2859,
+      "label": "Speculation: TGE November, validators December, EVM before year-end"
+    },
+    {
+      "timestamp_seconds": 3527,
+      "label": "Token launch likely under $1B FDV; no VC funding means price discovery in open market"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 6792.64,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,205 @@
+# HLP tokenomics: 31% to points holders, empty order book theory, and the wealth transfer to come
+
+_Mogi and PBR break down HLP allocation, TGE mechanics, and what happens when genesis goes live in hours._
+
+**Host:** @pbr713
+**Date:** 2024-11-28
+**Duration:** 46:09
+**Tags:** tokenomics, governance, community
+**Source:** https://x.com/i/spaces/1YpJklVEENwxj
+
+## Who's talking
+
+- **Pbr713** (@pbr713) _host_
+- **Derteil** (@derteil00) _guest_
+- **Mogie** (@mogie__) _guest_
+- **Samurai Takedown** (@SamuraiTakedown) _guest_
+
+## Key moments
+
+- **[2:10]** Points redistribution: May underperformed, October-November favored new entrants
+- **[4:43]** Best strategy in hindsight: all-in perps, zero trading, hold everything
+- **[12:48]** 31% to points holders announced; bear case 10%, bull case 50-60%
+- **[14:18]** Day-one circulating supply: 69% to users when team and foundation locked
+- **[14:49]** HLP allocation 0.012%; empty order book theory confirmed
+- **[15:50]** Genesis at 07:30 UTC Nov 29; unclear if HLP goes live instantly or delayed
+- **[16:51]** One billion supply; potential $100M+ resting buy-side liquidity at launch
+- **[35:38]** 30% emissions distribution still unclear: staking rewards vs. future incentives to governance
+
+## Transcript
+
+**[1:38] SPEAKER_00:** GM, GM, Mogi, you there, sir? What's going on, dude? Man, what a day we got coming. Wait, is there something happening later? What's that? I said, is there something happening later? There is certainly something happening later. So what do you think, man? What do you think? Yeah, pretty crazy. A lot to digest. Jess, so I guess since the last time we spoke, when
+
+**[2:10] SPEAKER_00:** is it, before they announced the TGE date and info, first we got, oh, first we got the points redistribution. So let's talk about that for a second. So we got May and October, November points, which I'm pretty, I got, I got like, I got much lower than I would have expected for, my activity. Like, for example, like May was almost nothing. And granted, I did very little spot,
+
+**[2:42] SPEAKER_00:** but I held, you know, a huge amount of my each fund and all my per, I never sold in May. So I thought just the holder, like boost, would kick in. But I got very little in May. October, November did okay, but it still would have been like the equivalent of my worst week. In season two, if you take like the sum total. So I know it seems like some people did really well. Some late,
+
+**[3:13] SPEAKER_00:** entrance did very well in October, November. Like I think they really were favoring purpose activity to try to like maybe compensate for the purpose traders. I feel like they really got diluted out in season two. Seen multiple people that got like 50, 80 ,000 points in Jess, October, November. So, you know is what it is. I fell down on my relative ranking, a
+
+**[3:42] SPEAKER_00:** decent clip. At the end of the day, you know, I'm still very happy for where I'm at on a relative basis. A lot of people I talked to, a lot of people I talked to kind of had that same, same, same thing happened to them from May. They, they seem to, you know, dropped in rank and whatever, and I'm fine with it. But I think, you know, their, their main goal was to bring more holders, more people to drop to better decentralization, decentralization,
+
+**[4:12] SPEAKER_00:** all that stuff. So it is what it is. You know what I mean? I'm not going to complain. I'm not going to add anything about it. I mean, we thought like, yeah, I mean like, I think like obviously depending on what user cohort you fall under, you know, there's the newcomers, I think did well. I think like maybe a lot of the physics that we talked about and that I'm pretty interested in is actuallypta and for October may just had to have been mostly, you know, acknowledging the perpetrators. I think like the
+
+**[4:43] SPEAKER_00:** biggest conclusion I will make though of the entirety of now that points are officially done. At least pre TGE points I should say, because I mean like, they alluded to the fact that there will be future, If I could go back in a time machine, probably would have just full ported per and held every
+
+**[5:13] SPEAKER_00:** single token and not touched it at all, would have outperformed most other strategies. Unless you're normally a purpose trader, because the problem there is you're going to eat P &L loss if you're just trying to farm just to get volume. So I think if you had a fixed amount of money, let's make it simple, you had $10 ,000 to spend for all the way back in when season two was announced, and you're like, okay, $10 ,000 to maximize points,
+
+**[5:44] SPEAKER_00:** what can I do? Kind of feels like just pushing all that in the per and literally not doing anything the entire time might have outperformed any other strategy. You can make the argument, but that dollar cost averaging, that $10 ,000. And the per across entirety to show incremental buys along the way, but I don't know, I mean, per definitely got a massive boost. I think that people that expected per to get a separate allocation is just a joke. It's
+
+**[6:13] SPEAKER_00:** why we saw per absolutely nuke last night. I'm not going to like, you know, dox the people here, but it's out there in the public. It's pretty obvious. Some of the major whales that absolutely just dumped their per holdings last night. Yeah. Cause they were expecting per to actually potentially get a separate allocation, but per got a massive, like the, all the anecdotal evidence from people I talked to that had wallets that literally did nothing, but held per got a massive boost. So I think, you know, per
+
+**[6:43] SPEAKER_00:** definitely now enters the next chapter, which is, it can stand on its own merits as a proper meme coin is no longer a farming token. It had effectively utility to be a farming token. So yeah. I mean, overall though, I think it was a really good points program in the sense that no one knew how to game it precisely. They said, what was it? A hundred wallet, a hundred entities that controlled, was
+
+**[7:14] SPEAKER_00:** it 20 ,000 wallets or a hundred thousand wallets that for the civil filtering they detected? Yeah, I think it was, I think it was 20 ,000. It was a lot. It was a hundred. Yeah. Controlling 20 ,000 wallets. Yeah. It got flagged for civil, interestingly enough, they didn't zero balance them. It says they, they factored them down from a scale to 2 % to 20%. So they still got something, but clearly, you know, heavily, heavily nerfed. So I think we just start there with like,
+
+**[7:44] SPEAKER_00:** you know, looking back on the points program, I think it was a really effective one. Any points program in which you don't know how to farm it is good to my mind because it shouldn't be about farming. It should be about organic usage. Right. I think the best thing about it was it showed people the different, um, aspects of hyperliquid, you know, from the spot tokens to the perps and, and how to effectively, I mean, sure. You're going to have negative P and L here and there are positive, you know, and learning experiences along the way, but
+
+**[8:14] SPEAKER_00:** it definitely showcased the platform itself. Um, and, and, you know, and got people used to it and used it and people stayed, I mean, we can see when, when points ended, people stayed, you know, going back to May even, absolutely. I mean, so here's what I'll say. And, um, it's funny. Last night, like in one of my chats, I mean, I was putting like just a lot of questions when we got to economics and like observations and I got, you know,
+
+**[8:45] SPEAKER_00:** others were like, are you euphoric? Obviously. Cause look, I mean, in the next, um, 14 hours, 13, 13 hours, basically, uh, no 15, I can't do math right now. Um, yeah. Yeah. There's going to be a very, very significant increase for many, many people's portfolios when this TG happens. Um, so obviously a lot of euphoria and a lot of like, I think stress just being relieved that we know that the moment is here. Um, I was peppering with
+
+**[9:15] SPEAKER_00:** like all these questions and like, okay, you know, like there's still so many questions that haven't been answered yet about specifics, but, um, I would say the one counterpoint that people can say as well. Well, we did still get points in October, November and sure it was a retroactive announcement, but for all, sorry, it's a lot of where I'm walking for all intents and purposes, like everyone expected there to be continued points.
+
+**[9:46] SPEAKER_00:** So by that logic, they could argue, all right, well now let's see how well we truly get TVL and for once, I fully expect that TVL and volume will actually explode. I mean, TVL will explode. When we get hype, um, by definition, that's going to be like value that gets obviously like turned on. And then there's some other stuff. I think it's going to happen soon. Um, but that would be an argument, right? That we, we got the retroactive points. See,
+
+**[10:15] SPEAKER_00:** it was all still subsidized activity. And now let's see if the chain can continue to maintain activity since the point season is over. Yeah. Yeah, for sure. Uh, you know, I think my biggest concern right now is can Arbitrum keep up? I mean, I don't know. And then if they don't keep up, you know, with the inflows or outflows, you know, it's going to be, uh, I know. I know. And that's going to be the beauty of
+
+**[10:45] SPEAKER_00:** it all, man. I suspect in the very not distant future, it will no longer just be Arbitrum. Uh, as the on ramping, um, well, let's all, let's, let's talk about obviously tokenomics. Um, I'd say, you know, once we got the points, most people thought, uh, there's, there's no i mean most people but a lot of people i talked to like okay we're gonna get the standard two weeks of no info you know because every major milestone has been kind of like um
+
+**[11:16] SPEAKER_00:** spread out and then instead we got the shock and awe which is like immediately because what was it two days later one day later is when we got the yeah i was not expecting this quick a turnaround i know that it extended the eligibility to sign the terms and conditions again which again i'm fine with you know the team i still feel is always trying to uh look at the platform you know the bigger picture and users bigger picture so i was fine with that i was not expecting yeah tge to uh to
+
+**[11:47] SPEAKER_00:** happen this quick well okay okay can we address the elephant in the room how the fuck was the coin telegraph like that is complete coincidence like by the way because i actually never saw the article myself but apparently there was a coin telegraph article you that said tge is going to be november 29th and sure enough tge is in fact november 29th it is complete like coincidence obviously like i still firmly believe there's no way the coin telegraph had like inside information
+
+**[12:17] SPEAKER_00:** or anything like that but it's almost to the point where i'm surprised like the team didn't like just put it off a day or something so it didn't i think land i think chat gpt knew that article reads like chat bt gpt wrote it yeah i think you know ai is definitely getting smarter and it knew before jeff and team knew it ran all the permutations and the outcome put it at the highest probability to be november 29th yeah so
+
+**[12:48] SPEAKER_00:** uh all right so tokenomics um a lot to unpack i'd say the top line numbers of course are 31 percent two points holders um let's say look i mean that is a very very generous healthy number i think that's probably about in line i would say that's about the median um of what the expectation range was the absolute bear case was like 10 to points holders
+
+**[13:18] SPEAKER_00:** the uber bullish case was like 50 to 60 at first glance at 31 if you were thinking and i was in the camp of like 51 51 percent um at first glance like oh 30 you know it's 31 it's a little bit lower but some good points are that it effectively represents 51 of circulating initially so you got to understand you know with the amount that's going to the foundations the team that's locked up um
+
+**[13:48] SPEAKER_00:** the emissions the 30 for additional emissions which we have no insight into that time horizon that 38 is likely spread across years many many years so if you look at it in terms of how many supply points holders are controlling uh for the foreseeable you know near near term it is a uh very large amount of kind of what will be circulating i mean effectively day one it's like all of circulation because the team's invested for a year
+
+**[14:18] SPEAKER_00:** foundation's not going to do anything without tokens immediately these future ambitions i don't think are going to turn on immediately sure i mean 69 is going to users uh you know when you put the 38 and the 31 together i mean yeah for sure and now let's talk about hip2 so effectively the open order book theory there's like the empty order book theory was correct in my mind it's like point zero one
+
+**[14:49] SPEAKER_00:** two percent yeah going to hip2 so that's basically in my mind again that's spread across you know a range it's not like that's all placed right at the initial opening price so in my mind that effectively is an empty order book and what we mean by that is the when this thing goes live um it's gonna get crazy like i we're gonna see some wild wild wits um and
+
+**[15:20] SPEAKER_00:** we don't actually know like again there's a lot of details that weren't actually revealed so it says genesis occurs at uh zero seven thirty utc time um on the 29th so the first question is like what exactly happens at zero seven thirty i would imagine that is when they initiate the actual transfer of the token into all of the wallets
+
+**[15:50] SPEAKER_00:** first question is does hip2 go live like instantaneously or is there a delay i believe people said that per there was a bit of a delay between receiving your per and the per order book going live so that's my first question it's like the actual mechanics of how quickly does hip2 get turned on right and then uh the supply so as soon as hip2 goes live i think
+
+**[16:20] SPEAKER_00:** we will see um i mean i i think we'll see 50 50 million at least of resting buy side liquidity placed on order book like very quickly um okay it'll it'll look someone has to screenshot i i would not be surprised if we see some absolutely ridiculous order book that looks like a hundred million of resting buy side liquidity you know from whatever the price would be like um so what is the top it's one billion supply
+
+**[16:51] SPEAKER_00:** so one dollar would be one billion ftb so i guess we could see something like you know from 10 cents up to a dollar of hype which is going to be so weird by the way we have to get our brains rewired to talk about hyper price not points price um you'll see some crazy amount of resting buy side liquidity and then like literally the sell side has to come from airdrop recipients that are just dumping that are genius and so like this will be the
+
+**[17:22] SPEAKER_00:** like great wealth transfer that will be studied at harvard business school the absolute jeez they're just market selling their airdrop into all this rusty demand i don't know where they're going to start the price i don't know how low it went but this chart is going to be pretty hilarious based on like the liquidity yeah i keep thinking about like in the nft world you know after a minute everybody's like hold the floor at whatever 10 whatever you want to call or one eat hold
+
+**[17:52] SPEAKER_00:** the floor one eat everybody everybody you know starts undercutting each other and whatever i it is going to be fun to watch uh i think i might stack my monitors on top of this um i am not going to listen to the 나머 인타읏이 top of each other and stretch the screen across it and watch it up and down. But I mean, this is truly something where the community itself is able to make the price. There's going to be sellers, you know, there are, you know, I don't know. It's going to be, it's going to be exciting. Market
+
+**[18:24] SPEAKER_00:** makers need to acquire inventory. I mean, I would imagine there's going to be probably a ton of OTC transaction. So you'll probably see some of these whales. And when I say whale, I'm talking like people that have, you know, 50, 100 ,000 points plus. I guess that's a good data point. So NMTD has been very transparent with his points holdings.
+
+**[18:55] SPEAKER_00:** He publicly has been sharing how much he had along the way. So he yesterday showed his screenshot. He is number five. I think it was rank five at 190 ,000 points. Now, granted, it's just an individual wallet. We know many people have multiple wallets. So if you look at like, you know, the rank in terms of a single user, that rank will be a little bit different. But just from a pure single wallet balance to give people a perspective of the scale. So, yeah, like
+
+**[19:24] SPEAKER_00:** top, I think top 10 is probably. Somewhere north of 150, I would guess. I think top, you know, 200 is probably north of like 30 ,000 points. But we may see some of these massive point holders simply distribute to market makers or whatever OTC or liquid funds. But it'll be interesting, you know, how much of this is done off book versus
+
+**[19:55] SPEAKER_00:** in the order books itself. And, yeah, I mean, we don't know the price, the starting price. I would say in my mind, just judging by some of the characteristics of the tokenomics, I'm now starting to skew more towards the price starting higher than we would have thought. Like what I mean by that is, you know, the points are 30 percent, 31 percent, the team,
+
+**[20:25] SPEAKER_00:** you know, the team. And for contributors is what, 20, was it 21, 24 percent or something, which is pretty standard, you know, by most design metrics. And again, a one year vest over or a one year clip over like a four year vest. So pretty, pretty standard. But, yeah, I think some of the theories of like, oh, they're going to start the price at like 100 million or, you know, 500 million. I don't know. I probably
+
+**[20:55] SPEAKER_00:** lean more towards. In the 800 to a billion is like the starting price, because there are some characteristics that aren't like so outside the range of like prior, you know, initial launches. So we'll see. I mean, at the end of the day, it doesn't really matter because, I mean, I think the price is going to land to its natural state very quickly and then have a state of progression. But it'll be interesting. Yeah, it'll be very
+
+**[21:25] SPEAKER_00:** interesting to watch in the next. You know, half day. Yeah, for sure. You set in some buy orders or what's your plan of attack? Moog, you got any? Have you thought of it yet? Yeah. So I have. I mean, yes. And there's some dry powder that's already freed up. I it's funny. I actually went really, really big on Cerebro, the Solana I took in. I.
+
+**[21:56] SPEAKER_00:** Like before it pumped and so I have a very healthy bag of that. The plan was just always to like full stack that entire thing, sell it and go into hype. I'm not so sure now, like how much of that I want to peel off. I look, I know that I'm not going to be everything I do would be would be manual. I'm not going to have any like automated opportunities. So. It's
+
+**[22:26] SPEAKER_00:** like whatever. Fireworks are going to happen in the first few minutes. Like it's just, I mean, less like you get lucky and you can manually like catch a wick or something. I'm probably going to have some amount that I just like really try to buy. Yeah. Right around like the initial launch. And then I don't know. I mean, yeah, it's hard to say, I guess the first day, like see if I can, you know, is this just going to be like a vertical line up or are we going to see a little bit of like, you know, up and down? Um,
+
+**[22:57] SPEAKER_00:** we are in a bit of an echo bubble because a lot of these spaces are for us that are like super long -term aligned. Um, and so we can't possibly fathom the, like, why would anyone want to sell so early, but clearly there's going to be a lot of farmers that are looking to just offload. So there could be some good dips. I think for me, it's like, I have an amount of dry powder and I'll just like try to, you know, find some, some spots that look good. Um, but, uh, it's also, I mean, like we're
+
+**[23:26] SPEAKER_00:** coming into a significant amount of points too. So I've done decent, I've done decent on points, but I think that's the beauty of being in this space, you know, in the hyperliquid ecosystem for so long now, I'm not worried about any of the top point holders, just market dumping and taking their profits and running, you know, everybody that's at the top, I believe is here. Yeah. Long -term they've used the platform to use the platform, not to farm it or
+
+**[23:56] SPEAKER_00:** anything like that. Um, I have no problems with people, you know, of course, taking profits and paying themselves first. It's always a good idea, but I don't like, it's going to be all the, all the people that complain about whales selling. And that's, you know, no offense to anybody, but that's why some people stay where they're at and you stay in that same, same lane, man. Um, yeah. Here's your chance not to stay in that lane for anybody listening, if that makes any sense at all.
+
+**[24:31] SPEAKER_00:** Yeah. I mean, like me personally, I would like the, the numbers of which I'd even like begin to start thinking about unloading some line personally are, um, like not in the vicinity of anywhere we will be in the near future. I don't think unless we just go vertical. So for me, like at least the easy part of the question is when do I want to buy? Some, there is no part of my brain that's
+
+**[24:56] SPEAKER_00:** starting to think about when would I be selling some, um, that's just me personally, that is completely my own, no strategy. Um, and, uh, you know, that like every person is going to have their own exit or, or how they want to accumulate more or whatever. Um, my like view is like, I, this is my coin for the cycle, like, or this is the ecosystem for the cycle or cycles to be plural. Actually. Um, so mine is like a longer
+
+**[25:27] SPEAKER_00:** term vision and honestly, probably it's more a talk about how does, how am I acquiring and stacking my hype along with like, you know, stacking stack and stacking Bitcoin or whatever. Um, I think my denominator may be in units of hype and like, I'm thinking about how that portfolio looks like. Um, but for others, yeah, it's going to be about like, when are they trying to take their profits? And, um, I think definitely. For people who like, if this
+
+**[25:57] SPEAKER_00:** amount of, of value is representing like the majority of your portfolio or significant amount, then absolutely realizing some gains, um, is important. Right. No one likes round tripping. Um, but yeah, it'll be exciting. Let's get to anyone else. Want to come on stage? We got Sam. I was just going to say that, you know, this is a quick space today. Anybody that wants to, uh, throw anything out there, got something to say about the tokenomics and whatnot. Let's get a, let's get. Hit it up and get it going real quick. Cause, um, yeah.
+
+**[26:41] SPEAKER_00:** I haven't been looking at the timeline a whole lot. Like what's the general, uh, are you seeing a lot of bull posting or flood posting or anything on, uh, now that like, I haven't had much of an opportunity to really get into what everybody's saying. Um, a lot of people talking about how,
+
+**[26:57] SPEAKER_00:** you know, one point turned into five point, whatever hype tokens, which I think is pretty interesting. Um, yeah, I just, I haven't had time to digest it. Yet. What's going on? Samurai. Jimmy. Oh, no, not much. I'm hyped. I've barely slept last night and I don't think I'll get much sleep tonight. So just, uh, massively,
+
+**[27:28] SPEAKER_00:** massively excited. I'm trying to take my mind off as much as possible and not to overthink it, but I just cannot stop myself. Yeah. Now's the time to take those naps and we got whatever it is, a couple of what? 15 hours, something like that. Um, I'm definitely going to run a little watch party, curious to see the weeks. I think we'll see a lot of volatility. Definitely. There's a people ready to unload their USDC. Um,
+
+**[27:58] SPEAKER_00:** but on the other hand, this is such an insane wealth generation event. Um, I think we're going to see a lot of people selling as well. Yeah, for sure. And honestly, honestly, I think selling is the way you round trip. So Mogi said people are scared of round tripping. I agree. And if you're scared of scared of round tripping, you're just going to hold, um, cause once you sell the, my question is what you're going to do next. And
+
+**[28:28] SPEAKER_00:** I know most of you are just going to gamble it and, uh, in the end lose most of it. That's what I always say. If you don't have somewhere better to be, to put in that money to work, there's really, I mean, unless you lost hope in whatever it is that you're invested in, if you don't have a better spot to put that money, what's the point of moving that? Yeah. I recommend. I recommend to always think of the opportunity cost. Yeah.
+
+**[29:00] SPEAKER_00:** GM, GM guys. Uh, I just hopped on quickly to ask Mogi if he's selling all his hype, because on the last Twitter spaces, he said that if it launches at 29th, as Cointelegraph predicted, he's going to sell his tokens. Did he say that? Yeah, I believe so. But wait, wait a second. Cointelegraph did not predict a launch on the 29th.
+
+**[29:30] SPEAKER_00:** But they said there will be more details announced on the 29th. So technically, actually, it's not. Yeah. What's up with you? What, uh, what's your plan? Um, all good. Yeah. I'm here currently in Thailand with few other guys who have like a lot of points. Uh, you can imagine that all of our discussion recently was mostly about what to do with the high pride, how to play it. Right. Um,
+
+**[30:00] SPEAKER_00:** and yeah. I guess most of us, um, within most of us, there is a consensus of like holding for first few days, uh, depending on the valuation, of course, if we go to like 10, 20 billion, then I guess I personally even sell a bit. But, um, the consensus is that in my opinion, the price action will be pretty similar to Tia's. Um, and I don't know if you remember that Tia had like, uh, accumulation zone for first, like five, six days. And then after that, it went up
+
+**[30:31] SPEAKER_00:** like. Crazy. So, uh, I guess I will hold and many people we speak to who had like a lot of points, um, are planning to hold as well, but yeah, it all depends on the price action. I don't know. What are your predictions guys for like starting market caps, starting FDV, uh, I guess we'll go like around the pre -market. So around three billion, but I'm super curious to see it tomorrow. It seems mogi's having a technical difficulties. He can't
+
+**[31:01] SPEAKER_00:** speak. Did you guys see the announcement from Laura? Cool. That he. Built a sweeper for the H1 bot. So if your wallet is compromised and you're scared that you're not going to have enough time to claim your airdrop, you can use the H1 bot and automatically claim the airdrop for, um, I think 5 % fee. It's
+
+**[31:33] SPEAKER_00:** quite expensive, but at the same time, it's an interesting piece of tech. I think, especially since I might have certain wallet, I did see that you have a compromised wallet somewhere. Sorry, but you should ask, do you have like compromised wallet or, uh, yeah, I have a wallet that I used a long, long time ago and, uh, it's been in shady places, you know, the dark side of defy and I'm afraid it might not be the
+
+**[32:03] SPEAKER_00:** most secured seed phrase I have. I had similar case with like blue, uh, bluer farming and blast airdrop that, um, I was like completely hacked in January this year. And they received a huge blast airdrop right now. It's not that huge because the price went down by a lot, but I couldn't take it. So the sweeper is definitely something nice. I
+
+**[32:35] SPEAKER_00:** wanted to ask if he's got anything similar. Cause I know he is also a massive cook. Yeah. I thought sure. He would hop on here. I didn't see him join. Uh, let's see. I'll bother him a bit in the discord. Yeah. I mean, I don't want to have a real long space today anyway. Uh,
+
+**[33:06] SPEAKER_00:** we all know. Need to rest. We got only a set amount of hours before, uh, it's go time. And you know, it's going to grab our attention for quite some time. I think after that, um, but yeah, I mean, just looking at the tokenomics, I think they're extremely fair from the team. Uh, very generous. Right. Honestly, what I would recommend is you to everyone to take their mind off as much as possible. Cause I suspect that immediately after launch,
+
+**[33:36] SPEAKER_00:** we will not have many functionalities. Um, I also, I guess the statement won't be there. Um, governance voting is also unlikely to be there. Um, I think the best choice is just to sit on your hands and let Jeff cook. I'm back. I got, I got a rug. I got a phone call again. Wait. I need to respond to dirt tails, accusations. Okay. He is correct. I
+
+**[34:06] SPEAKER_00:** would like to roll back the tape. i believe what i said was if it was ever proven that they had inside information uh yes that's what i and i don't know if you cut it the start of our space i actually acknowledged it's like what the hell yeah the coin telegraph said it was on the 29th and it is in fact going to be on the 29th uh it was definitely definitely coincidental in my mind if there ever was a leak that happened that's what i said that
+
+**[34:36] SPEAKER_00:** was confirmed i would be full stack full stack of my time so uh i think my hype is still safe for now but yes it is very uh it is kind of a little ironic that you know yeah i was just joking you know no no it's all good yeah i mean it's a uh yeah i mean i think most of us are excited that it is in fact happening because um it was uh looking like you know these are gonna be a few weeks between every major announcement
+
+**[35:07] SPEAKER_00:** or milestones now we're looking at december and um what i guess we we will say though is that this is just the first step of the tokens going live we didn't receive any updates that i've seen about validators on mainnet opening up and like when does staking actually begin and then of course evm is still the major uh piece that has to drop so plenty of that still has to happen and i was saying the beginning um as with anything a lot of questions still remain um
+
+**[35:38] SPEAKER_00:** that truly like like samurai like what you're talking about i was going back and forth with people last night um we still don't know like is staking your hype gonna get fees is it gonna get block commissions the way they worded it 38 percent in my mind is blocking emissions it says blocky missions or sorry it says admissions and community rewards i think is how it's worded so
+
+**[36:08] SPEAKER_00:** of that 30 percent the question becomes well how much is for staking emissions block rewards and how much is for like future point seasons yeah i think it's the biggest question right now like um when the evm is coming live because i guess it will go right after the token or a month later you know because the team loves to like extend times um so yeah i received this question like 20 times today is
+
+**[36:39] SPEAKER_00:** the evm going live with the token and it's not Nobody knows the answer, really. I think governance, this will be one example where if it's left to governance to decide the distribution of that 30 % in terms of, again, like new hype that gets rewarded to validators versus how much hype is going to be used for future incentives. Like the governance aspect is
+
+**[37:09] SPEAKER_00:** going to be quite meaningful as opposed to the traditional like governance is a meme. I mean, let's be real. Like, I mean, Arbitrum had some major governance with like short -term emissions program and long -term incentive programs. But I don't know. It still seems like it was controlled by some of the major projects that got like a massive airdrop. Like, like. The Treasurer on Arbitrum had a massive airdrop. And so they already controlled like a
+
+**[37:40] SPEAKER_00:** large portion of the vote. Whereas here, you know, again, all of the, all of the supply that's eligible for voting, if there's truly governance to make some of these decisions is going to the hands of like users. And of course there'll be, you know, delegation and consolidation. But some of these decisions are going to have major impacts on the ecosystem for sure. So it'll be interesting to see how that plays out. Yeah, for sure. I mean, we got a lot, a lot still,
+
+**[38:10] SPEAKER_00:** um, a lot of questions still that need to be answered and a lot of things moving forward, uh, you know, EVMs, the decentralization of validators and, and all that stuff. I don't know. I don't know how much I really want governance to play a role in deciding, you know, spending, not spending because it is, it can be manipulated and you have to kiss people's ass to get things to pass or, or you don't, I don't know. Dude, PBR. This will be the future space, hyper hour, hyper,
+
+**[38:40] SPEAKER_00:** it'll be hyper governance hour and people will just come on stage and you'll be like, just the ring. What, what, what does I want? And they're basically like, you know, getting on bend a knee and like asking for, uh, your vote or the, you know, community's vote since, Hey, you, you control the, the, uh, the mic, you control the, uh, the narrative, right? So, yeah, I've been down this road before. It doesn't always go that easy, but
+
+**[39:11] SPEAKER_00:** I just think that like, put it this way, the big question I had is, okay, if there's not block emissions and there's not fee sharing, like there has to be something that is accruing value to owning hype, right? Like there has to be some reason to stake your hype because in theory, you know, you're again, staking is securing the chain. And for all proof of stake, there is a compensation aspect. Yes,
+
+**[39:42] SPEAKER_00:** there will be gas, but again, EVM, we don't even know the details about EVM. We don't know how much gas, like in theory, if the answer is simply, oh, it's just going to be all the beds, like all the value will flow to validators and that's the reward. Um, okay. That definitely is a potential outcome, but I was saying this last, you know, yesterday, some people like that's going to put a lot more pressure that EVM. Really has to outperform because it's competing with Solana and other
+
+**[40:12] SPEAKER_00:** L ones. If we're, if we're pulling away the value from the perp side, right. And it's simply, no, all the activity on the EVM equates to gas equates to med equates to value to the validators. Um, that's how hype in addition to the governance aspect has value. Um, we, we just got to the plan. I know I'm going like way down. This is where I was saying, like last night, like people are like euphoric. Okay. I'm already like diving immediately back into like the fundamentals and someone's like quickest way to out yourself as
+
+**[40:43] SPEAKER_00:** a boomer, just like number go up. That's why it has value. Like, I, I love it all. Like I'm stoked, obviously. Like, I think it's more, cause this is like what third or so cycle that these types of things, like I'm pretty more like reserved. Like I don't have the euphoria of like, holy shit, like here it is. I mean, I feel that, but I'm more kind of thinking about again, long -term, like I'm here for the years aspect and like where this thing's going. So. So yeah, exciting. Like a lot of, a lot of stuff to unpack still many more hyper hour spaces to be had
+
+**[41:13] SPEAKER_00:** as all of this unfolds and we can, uh, you know, see where the overall system is going. Yeah, for sure. And I was thinking about a space tomorrow, but I'm not really interested in the space tomorrow. Let people do what they want to do. I don't want to, I don't want to steer any space, steer anyone from our yacht caviar and sipping. Yeah. I'm pairing on and say, right. It's like, wait, our next space, the flex will be like, is
+
+**[41:43] SPEAKER_00:** this the highest per capital wealth on a space on any other, like, you know, concurrent space? Like, you know, all, all the people that are listening here clearly are points holders and soon to be hype owners. It's like, when I make it, I'll never tell you, but there will be signs. Like we need, we need to figure out what our signs are. Yeah. But no, I mean, you're right. Like, we're going to have some really good spaces in the future. Um, you know, helping, helping
+
+**[42:14] SPEAKER_00:** the community, which we are the holders, you know, sculpt how we want hyper liquid to be. And we've been empowered by the team to do that, to do such things. So, you know, I think it's, it's exciting, man. I think we got a lot, a lot common. Yeah. No, I mean, like, yeah, I think what I'm most excited about is, you know, TGE. Is here, um, now is where, like all of the grand visions we have is, is truly going
+
+**[42:44] SPEAKER_00:** to be put to the test, right? With, uh, decentralizing post TGE volume and activity, EVM, all that stuff. Like make no mistake. I have a very, very strong belief that this will meet and exceed like our expectations, but this is where the like cope, you know, non. Points holders or whatever, just think this is just another airdrop fractal are going to start dunking and, um, and I don't think it's going to be, you know, a straight line. I think
+
+**[43:14] SPEAKER_00:** it's going to be up and down along the way. But for me, like what's most exciting is now the next three, six, nine months of where this thing is going to go. And like the true explosion, um, that's the space I'm, I'm looking forward to the space in nine months from now, when we look back and shit gets real. And. And there's, there's metrics that like, I think we're talking about that are just laughable. If we said like, if we said them out loud right now, people would like, you're obviously just a fricking
+
+**[43:45] SPEAKER_00:** hope. Like you're just huffing, huffing them. Like you're out of your mind. So, yeah, this is the first step, but I'm really excited in the next, you know, two to three quarters where we're at. Yeah. Or where it's not just bull posting, you know, rocket signs and all that nonsense. It's where, you know, actual, you know, projects are launching. And, and cool, innovative shit for us to do is happening. That's where it's exciting. I'm excited to see people drop off of my timeline that are sold and, and
+
+**[44:15] SPEAKER_00:** have no more interest in their, in their bull post. I, you know, I'm excited for some of that stuff. Um, now, I mean, we got an exciting future and I think the tokenomics are great from what we see so far and, you know, it's going to be a good time. A hundred percent. All right. Well, let's try to, uh, do another space post TGE. Um, yeah, I'm thinking next week sometime. Let, let the dust settle. Let's watch it. Let's have some fun.
+
+**[44:45] SPEAKER_00:** And, um, yeah. Yeah. You're like, sorry, I can't hear you in the background. That's my money printer. Uh, let me turn that down a little bit. No. Um, but yeah, guys, I think, uh, for people that are going to be actively trading or participating in the launch later today. Uh, you know, best of luck, try to have a plan and that's, you know, the thing, like you have a plan, but like when the check goes down, like it's, it's always like, it's
+
+**[45:15] SPEAKER_00:** unpredictable. So, you know, I was like your stack that you're not going to touch, have your stack that maybe you're trying to take a little bit of profits with, and then maybe have a stack that's just like pure DJ and like, you just want to be in the order book. Cause it's fine. You're just putting your top blasting. You're like buying like wicks. You're doing another, you know? You're just trying to like have fun. Like maybe you just break it up in a different little bucket so that you're not getting too stressed or whatever, but yeah. Um, best of luck to everyone. Like this has been a huge moment in
+
+**[45:45] SPEAKER_00:** the making and very exciting. So appreciate you spinning this up real quick to PBR. Yeah, man, as always appreciate you coming on and, uh, thanks Samurai detail and yeah, let's catch everybody next week sometime. All right. Thanks for coming out. Thank you guys. Bye.

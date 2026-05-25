@@ -1,0 +1,98 @@
+{
+  "space_id": "1LyxBXkDlyrGN",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-10-08T03:45:01Z",
+  "started_at": "2025-10-10T15:01:25Z",
+  "ended_at": "2025-10-10T16:19:02Z",
+  "scheduled_start": "2025-10-10T15:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 114,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "HyHome.hl🐈🏠",
+      "handle": "Hypl_Home",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "freddie",
+      "handle": "freddiequell33",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "wayne_kombat (disruption arc)",
+      "handle": "0x26_dev",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "DownBad 🥷🏽",
+      "handle": "CookedByCrypto",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1LyxBXkDlyrGN",
+  "summary_title": "Team unlock drama, HIP3 launch requirements, and the USDC bridge problem",
+  "summary_description": "Mogi and PBR dig into token unlocks, Ventuals' LST design, HyperNFTs, and why moving USDC from Arbitrum to HyperEVM is technically thorny.",
+  "topic_tags": [
+    "tokenomics",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 297,
+      "label": "Jeff's Singapore keynote moment"
+    },
+    {
+      "timestamp_seconds": 450,
+      "label": "No secret alpha at conferences, but drama with Hyperliquid lead"
+    },
+    {
+      "timestamp_seconds": 814,
+      "label": "HyperLiquid changed the game; ecosystem airdrops follow the model"
+    },
+    {
+      "timestamp_seconds": 1086,
+      "label": "Lighter's TGE in December; mercenary volume expected post-airdrop"
+    },
+    {
+      "timestamp_seconds": 1451,
+      "label": "Ventuals and multi-collateral strategy via HIP3 exchanges"
+    },
+    {
+      "timestamp_seconds": 2121,
+      "label": "HyperNFTs dropped unexpectedly; 900-1600 HYPE price range"
+    },
+    {
+      "timestamp_seconds": 2794,
+      "label": "Team unlock: hundreds of millions at mark-to-market, but likely managed strategically"
+    },
+    {
+      "timestamp_seconds": 3522,
+      "label": "USDC on HyperEVM blocked by bridge architecture complexity"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 4660.224,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,74 @@
+{
+  "space_id": "1lPJqvBDPeAxb",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2026-01-23T16:54:26Z",
+  "started_at": "2026-01-23T17:31:17Z",
+  "ended_at": "2026-01-23T18:47:16Z",
+  "scheduled_start": "2026-01-23T17:30:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 40,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1lPJqvBDPeAxb",
+  "summary_title": "Hyperliquid ecosystem winners, Trove's collapse, and why distribution matters",
+  "summary_description": "MLM's early calls, Kinetic's 20-cent breakout, and the case for whale selloffs as healthy market function.",
+  "topic_tags": [
+    "ecosystem",
+    "trading",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 168,
+      "label": "Trove collapse: red flags and single Chinese whale loan"
+    },
+    {
+      "timestamp_seconds": 381,
+      "label": "Early Hyperliquid builders: Kinetic, Volantis, and ecosystem projects"
+    },
+    {
+      "timestamp_seconds": 1016,
+      "label": "Kinetic breaks 20 cents amid equity perps momentum"
+    },
+    {
+      "timestamp_seconds": 1108,
+      "label": "Pendle integration strategy for KGQ point farming"
+    },
+    {
+      "timestamp_seconds": 2511,
+      "label": "Hyperliquid foundation donates to MLM and security researchers"
+    },
+    {
+      "timestamp_seconds": 2663,
+      "label": "Quantify dashboard tracks team vesting and whale wallet clusters"
+    },
+    {
+      "timestamp_seconds": 3090,
+      "label": "Team selling as healthy distribution, not capitulation"
+    },
+    {
+      "timestamp_seconds": 4034,
+      "label": "ICE 24/7 equity trading expands perp form factor beyond crypto"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 4561.3226875,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,87 @@
+{
+  "space_id": "1YqxovXbjmyJv",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-10-02T13:55:43Z",
+  "started_at": "2024-10-02T15:30:22Z",
+  "ended_at": "2024-10-02T16:45:06Z",
+  "scheduled_start": "2024-10-02T15:30:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 531,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "ReplyGuy",
+      "handle": "vipmetaverse",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1YqxovXbjmyJv",
+  "summary_title": "Builder codes, testnet validators, and spot token opportunities post-points season",
+  "summary_description": "Hyperliquid ecosystem deep dive: decentralization strategy, EVM testnet progress, tokenomics debate, and why spot tokens matter long-term.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "tokenomics",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 206,
+      "label": "Points season officially over; discussion of metric shift to points per capita"
+    },
+    {
+      "timestamp_seconds": 329,
+      "label": "Builder codes introduction: ref links or decentralization strategy?"
+    },
+    {
+      "timestamp_seconds": 421,
+      "label": "Builder codes as first step toward multiple compliant interfaces sharing liquidity"
+    },
+    {
+      "timestamp_seconds": 575,
+      "label": "Testnet validator progress: 23 validators, smart contract deployment live"
+    },
+    {
+      "timestamp_seconds": 1149,
+      "label": "Tokenomics debate: fixed supply, emissions, and block rewards necessity"
+    },
+    {
+      "timestamp_seconds": 1604,
+      "label": "EVM ecosystem growth required for spot tokens and builder incentives"
+    },
+    {
+      "timestamp_seconds": 2365,
+      "label": "Hyperliquid revenue model: $10M monthly vs Binance $17B annually"
+    },
+    {
+      "timestamp_seconds": 3339,
+      "label": "Social trading layer: PVP and HyperFun cabal extending perps and spot ecosystem"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 4489.8986875,
+  "capture_failure_reason": null
+}

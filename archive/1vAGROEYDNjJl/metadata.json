@@ -1,0 +1,110 @@
+{
+  "space_id": "1vAGROEYDNjJl",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2024-11-20T14:03:15Z",
+  "started_at": "2024-11-20T19:00:05Z",
+  "ended_at": "2024-11-20T20:46:11Z",
+  "scheduled_start": "2024-11-20T19:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 966,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Samurai Takedown",
+      "handle": "SamuraiTakedown",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "fei",
+      "handle": "infomeh",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Pasteke.hl🌱☢️",
+      "handle": "0xPasteke",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Matti (Variational arc)",
+      "handle": "Mattixbt",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "max.hl",
+      "handle": "fiege_max",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Derteil",
+      "handle": "derteil00",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1vAGROEYDNjJl",
+  "summary_title": "November points surprise, organic users who never claimed, and the HLP tokenomics puzzle",
+  "summary_description": "Points inflation debate, comparison to Blast/EigenLayer, and what staking revenue actually means for HLP.",
+  "topic_tags": [
+    "HLP",
+    "tokenomics",
+    "governance"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 248,
+      "label": "November points announced—season 2.5 surprise"
+    },
+    {
+      "timestamp_seconds": 610,
+      "label": "Organic Hyperliquid users never intended to farm points"
+    },
+    {
+      "timestamp_seconds": 701,
+      "label": "Six percent of Binance OI with 60 percent fewer markets"
+    },
+    {
+      "timestamp_seconds": 1217,
+      "label": "USDC inflows spike; 80+ million non-HLP liquidity bridged"
+    },
+    {
+      "timestamp_seconds": 1459,
+      "label": "HLP revenue models: fees to stakers versus pure market-making P&L"
+    },
+    {
+      "timestamp_seconds": 1795,
+      "label": "Deflationary supply and auction burning as alternative value mechanisms"
+    },
+    {
+      "timestamp_seconds": 2430,
+      "label": "Hype launch will instantly re-rate spot; EVM unlocks leverage and lending"
+    },
+    {
+      "timestamp_seconds": 3012,
+      "label": "Points reveal next week, tokenomics and TGE date still unknown"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 6370.24,
+  "capture_failure_reason": null
+}

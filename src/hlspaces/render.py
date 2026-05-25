@@ -90,18 +90,18 @@ _HTML_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root {{
-    --bg: #fafaf7;
-    --bg-card: #ffffff;
-    --fg: #222;
-    --fg-muted: #777;
-    --fg-faint: #999;
-    --accent: #0d6856;
-    --accent-bg: rgba(13, 104, 86, 0.1);
-    --quote-bg: #043b30;
+    --bg: #0a1612;
+    --bg-card: #14241f;
+    --fg: #fafaf7;
+    --fg-muted: rgba(250,250,247,0.65);
+    --fg-faint: rgba(250,250,247,0.5);
+    --accent: #97FCE4;
+    --accent-bg: rgba(151, 252, 228, 0.12);
+    --quote-bg: #1c2e28;
     --quote-fg: #fafaf7;
     --quote-accent: #97FCE4;
-    --border: #d4d2c5;
-    --border-light: #e5e5e0;
+    --border: #2a3d36;
+    --border-light: #2a3d36;
   }}
   * {{ box-sizing: border-box; }}
   body {{

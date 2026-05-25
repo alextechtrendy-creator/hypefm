@@ -1,0 +1,87 @@
+{
+  "space_id": "1jMKgkbZkdlKL",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2025-02-18T15:53:38Z",
+  "started_at": "2025-02-18T23:31:24Z",
+  "ended_at": "2025-02-19T01:11:17Z",
+  "scheduled_start": "2025-02-18T23:30:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 203,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Moneyline",
+      "handle": "andyborewall",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Aaron Xie",
+      "handle": "arnx813_",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1jMKgkbZkdlKL",
+  "summary_title": "Hyperliquid EVM goes live, precompiles delayed, Felix lending protocol incoming",
+  "summary_description": "Aaron from Felix breaks down the stealth EVM launch, missing features, and the lending infrastructure coming to Hyperliquid.",
+  "topic_tags": [
+    "infrastructure",
+    "L1",
+    "ecosystem",
+    "perps"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 255,
+      "label": "EVM announced mid-night, caught builders off-guard with stealth launch"
+    },
+    {
+      "timestamp_seconds": 407,
+      "label": "Only HYPE transfers between L1 and EVM; general-purpose smart contracts live"
+    },
+    {
+      "timestamp_seconds": 560,
+      "label": "Precompiles not yet live, blocking oracle access and L1-EVM compatibility"
+    },
+    {
+      "timestamp_seconds": 802,
+      "label": "Aaron woken at 6am by Charlie: EVM is live, now scrambling to ship Felix"
+    },
+    {
+      "timestamp_seconds": 1013,
+      "label": "Price oracles, safe multisig, and native USDC missing from day-one EVM"
+    },
+    {
+      "timestamp_seconds": 2132,
+      "label": "Felix: borrow stables against HYPE to trade perps, spot, or earn carry trade yield"
+    },
+    {
+      "timestamp_seconds": 2803,
+      "label": "Tsunami of pent-up liquidity waiting for lending markets to unlock leverage"
+    },
+    {
+      "timestamp_seconds": 3074,
+      "label": "Precompiles expected within a week; full EVM feature rollout expected in two weeks"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 5991.68,
+  "capture_failure_reason": null
+}

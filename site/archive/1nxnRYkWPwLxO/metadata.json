@@ -1,0 +1,80 @@
+{
+  "space_id": "1nxnRYkWPwLxO",
+  "title": "Hypurr Hour",
+  "state": "ended",
+  "created_at": "2026-05-15T01:51:18Z",
+  "started_at": "2026-05-15T02:00:19Z",
+  "ended_at": "2026-05-15T04:25:23Z",
+  "scheduled_start": "2026-05-15T02:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 72,
+  "host_username": "pbr713",
+  "participants": [
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Mogie",
+      "handle": "mogie__",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "hyunsu.hl",
+      "handle": "hyunsujung_",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1nxnRYkWPwLxO",
+  "summary_title": "From $38.3 bottom to Coinbase USDC deal: How one trader caught the inflection",
+  "summary_description": "Trader capitulates at the exact bottom minutes before Coinbase-Circle USDC announcement, realizing 25% revenue lift for Hyperliquid.",
+  "topic_tags": [
+    "perps",
+    "funding",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 328,
+      "label": "Trader describes getting annihilated on HYPE long over three days"
+    },
+    {
+      "timestamp_seconds": 480,
+      "label": "Built multiple seven-figure notional position through martingaling down from 43"
+    },
+    {
+      "timestamp_seconds": 602,
+      "label": "Set stop loss at 38, then canceled it fearing market manipulation"
+    },
+    {
+      "timestamp_seconds": 662,
+      "label": "Capitulated at 33, then flipped short on Bitcoin at 79.2 level"
+    },
+    {
+      "timestamp_seconds": 723,
+      "label": "Woke early, discovered 19-minute-old Coinbase-USDC announcement on X"
+    },
+    {
+      "timestamp_seconds": 814,
+      "label": "Recognized USDC, Coinbase, yield accrue instantly—closed short and bought back at 40.2"
+    },
+    {
+      "timestamp_seconds": 1116,
+      "label": "25% notional increase in HYPE run-rate revenue from USDC yield flowing to protocol"
+    },
+    {
+      "timestamp_seconds": 1268,
+      "label": "Speculates Coinbase will launch builder code frontend and potentially deeper integration"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": null,
+  "audio_captured": true,
+  "audio_duration_seconds": 8700.1173125,
+  "capture_failure_reason": null
+}

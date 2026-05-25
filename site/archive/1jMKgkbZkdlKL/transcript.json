@@ -1,0 +1,1160 @@
+{
+  "space_id": "1jMKgkbZkdlKL",
+  "language": "en",
+  "duration_seconds": 5991.68,
+  "chunks": [
+    {
+      "start": 164.82,
+      "end": 195.11,
+      "speaker": "SPEAKER_00",
+      "text": "EBR, what's up? Yeah. Oh, yo, what's going on? You can hear me, right? Yeah. All right, I got booted once right at the start. Just another hyper hour with nothing but the haunting silence of the stage. Yeah, I get music. I don't know what to tell you. I mean, it's not that exciting of music, but it's music nonetheless. Nevertheless, you never hear any"
+    },
+    {
+      "start": 195.11,
+      "end": 225.14,
+      "speaker": "SPEAKER_00",
+      "text": "music when you start one of these spaces. I mean, I don't know. I must have it on a private. Oh, well, whatever, whatever. How are you doing? Doing well, doing well. Can't complain. No, I mean, it's a crazy price action today. I mean, that's across the board, so it's understandable, I guess. Yeah. I mean, yeah. Where are we? Back to 24 hand? We might try"
+    },
+    {
+      "start": 225.14,
+      "end": 255.2,
+      "speaker": "SPEAKER_00",
+      "text": "to recover that. Yeah, something like that. Who cares, honestly? Yeah. I think it was like, so like my take was that there was just no gold. There was no gold. No, it was like robotic, like new sellers, right? Like literally, like as soon as the EVM was going to be announced, they were planning to sell the news. I think some people just want to sell the news for the sake of selling. And if you look at"
+    },
+    {
+      "start": 255.2,
+      "end": 285.36,
+      "speaker": "SPEAKER_00",
+      "text": "the range, though, I mean, there's this range that it's just been, like for range traders, they're just printing money on this. I think it's like 22 to 28, really, for the last like. Yeah, they call it the Caprio range. Yeah. It's been wildly consistent. So. Yeah, we got EVM in the middle of the, well, middle of my night. I just put my head down and my phone starts going. Off and I'm like, what's"
+    },
+    {
+      "start": 285.36,
+      "end": 315.48,
+      "speaker": "SPEAKER_00",
+      "text": "going on? Well, that was the end of that. It just got up and had to see what was going on. Pretty exciting. Um, you know, I love reading people's, um, takes on it and complaints, mostly complaints. You know, you get the normal people that are all foreign, bullish and nonsense and whatnot. But I love the people that complain about stuff. Like it's like, they're new to hyperliquid and haven't realized how just about every. Everything they've rolled out has"
+    },
+    {
+      "start": 315.48,
+      "end": 346.22,
+      "speaker": "SPEAKER_00",
+      "text": "rolled out. I mean, it's been the same every time. I mean, it's just when they want to, they do, and when a piece is ready, they do. And they put it out there and then more and more and more and more, and it's just, it's their method, you know? Yeah. I saw, um, you know, a post on kind of like the sequential, I mean, like I think some are calling it kind of like a beta testing and production or whatever. Um. I"
+    },
+    {
+      "start": 346.22,
+      "end": 377.4,
+      "speaker": "SPEAKER_00",
+      "text": "think, well, let's like, take a step back. Let's, let's kind of like lay the foundation of, of what we know is live right now, which you can't, can't do. And then would be a good segue to get Aaron here from, uh, Felix to give the perspective of a builder. And, uh, I'm anxiously awaiting to be able to just, uh, eight, a lot of my, uh, collateral into Felix. Um, but yeah, so they launched the EVM, um, what, uh. Like"
+    },
+    {
+      "start": 377.4,
+      "end": 407.72,
+      "speaker": "SPEAKER_00",
+      "text": "less than 12 and 12, a little over 12 hours ago, almost, um, less than a day. And so we know that EVM has, you know, general purpose, smart contracts. The one caveat so far is that you cannot have any, the only asset that can transfer between the L one and the EVM and Aaron, if I misspeak anything, feel free to correct me, um, is hype so you can transfer. Yeah. So you can transfer your hype from the L one to"
+    },
+    {
+      "start": 407.72,
+      "end": 437.86,
+      "speaker": "SPEAKER_00",
+      "text": "the EVM by sending your hype to the system contract that hype then basically, uh, appears, uh, on your EVM balance. And then from there, um, so far we've seen already a bunch of, uh, you know, uh, ERC 20 launch platforms. So we've got hyper swap, we've got, um, we've got some that I haven't heard of before, but like hyper swap, there's the chip swap we've got curve already has an implementation. Last I checked though. So curve doesn't, no, one's actually deployed a pool yet on"
+    },
+    {
+      "start": 437.86,
+      "end": 468.56,
+      "speaker": "SPEAKER_00",
+      "text": "curve, but obviously curve is probably the most, you know, like widely known, not hyperliquid native. Um, yeah, so there's a handful of ERC twenties deck screener has already, um, integrated. So now on the hyper EVM, you can see all these ERC twenties trading on deck screen, which is pretty cool. Cause in the first few hours, like it was very difficult to even navigate, like what's happening. Um, so you have the hyperliquid L one with. Obviously all of the, um, you know, spot order book tokens,"
+    },
+    {
+      "start": 468.64,
+      "end": 498.92,
+      "speaker": "SPEAKER_00",
+      "text": "and now the EVM, which is a completely separate page of ERC twenties, which are now permissionless last I checked, you know, it was still very small. The top one, um, was like, uh, H doge. And there's also like HPA similar to kind of what I've seen in like, you know, the hyper pump fun trenches of just like nothing personally stood out as like a kind of unique meme per se. Um, but the top ones were doing, I think like 300, $400 ,000 of"
+    },
+    {
+      "start": 498.92,
+      "end": 530.0,
+      "speaker": "SPEAKER_00",
+      "text": "volume. I mean, the target cap on them, uh, I think was still less than a million dollars. Right. So, um, you know, potentially like normally I'd say that there's some edge here to just get in super early on some of these and just punt on them. It's not clear to me that that's going to be the best risk reward here because the spot market overall has been very weak. Obviously crypto overall has been very weak. Everyone's kind of got PTSD. Um, you know, Solana and the whole, uh, Libra situation, Bitcoin"
+    },
+    {
+      "start": 530.0,
+      "end": 560.4,
+      "speaker": "SPEAKER_00",
+      "text": "looks wobbly. So like, I don't know, they're just like blindly punting, you know, a few grand into all these like ERC 20 pools and like assuming that you're going to get a 10 X is a given. Um, but I mean, obviously the next one would be the lending, which, uh, Aaron will talk about with what Felix has, but lending and collateralizing your hype is going to be a big thing. Um, I. Think I saw that state type is ST hype has went live"
+    },
+    {
+      "start": 560.4,
+      "end": 591.22,
+      "speaker": "SPEAKER_00",
+      "text": "with their contracts. Um, you know, full disclosure, I am, uh, more biased towards kinetic and K hype for their liquid staking when that goes live very soon. Uh, they're working their audits right now. Um, so yeah, stuff's happening, but you currently cannot have a smart contract call the L one. So you can't, you know, go live with, you know, a Delta neutral smart contract. That's. It's like, uh, executing perp trades or spot token trades. It's kind of like the EVM is completely sandboxed."
+    },
+    {
+      "start": 591.22,
+      "end": 621.3,
+      "speaker": "SPEAKER_00",
+      "text": "The only thing that can cross between the EVM and the L one, um, is hype itself as I understand it. And so I think that, you know, I think the criticism has kind of just been like, this is not feature complete, obviously for the builders, they're still kind of scrambling to get their arms around. Um, you know, I think the configuration is a little different with the two block architecture. They've got the small blocks and the big blocks on the EVM. So the big blocks are for deploying like more like contracts and the small blocks are for transactions. I think I saw"
+    },
+    {
+      "start": 621.3,
+      "end": 651.36,
+      "speaker": "SPEAKER_00",
+      "text": "a post where right now the blocks are only averaging like, you know, two to four transactions per block. And, uh, it's every two seconds is a new block on the EVM. And there's this whole kind of like interleaving of like the EVM blocks with the, uh, the regular L one per blocks. And so I think like, um, I think it's a gentle introduction of the EVM. I'm all for like, I don't think it has to be some crazy shock and awe, like the full feature set"
+    },
+    {
+      "start": 651.36,
+      "end": 681.58,
+      "speaker": "SPEAKER_00",
+      "text": "of the EVM is live in one shot. I actually like that they're slowly introducing, you know, um, more features and like kind of the robustness of the EVM, um, obviously it was a stealth launch, but like you said, everything that they've done has been somewhat abrupt. I guess when they did the TGE, they did announce it was like a stealth launch. It was a stealth announcement of the announcement, right? PBR, because they announced TGE like 40 hours, like"
+    },
+    {
+      "start": 681.58,
+      "end": 711.76,
+      "speaker": "SPEAKER_00",
+      "text": "the official time, I think was rather kind of like somewhat abrupt. Um, but yeah, I mean, I've been exploring stuff. I, you move some hype over. Um, I haven't actually like punted on any ERC 20s yet, but mostly I'm just observing what's going on. And kind of like, I think in this instance, like I said, I'm being a little bit more like risk averse. It's not just like blindly aping stuff because, you know, market conditions overall, but there's definitely a lot happening and it's fun to be exploring"
+    },
+    {
+      "start": 711.76,
+      "end": 741.84,
+      "speaker": "SPEAKER_00",
+      "text": "again. Yeah, for sure. I'm spending my time I'm watching the builders channel. I'm reading, you know, what people are talking about, what they're dealing with, going back and forth. And, and how their team and themselves are actually reacting and handling this, um, what their add into the. Bring in, you know, bring a bag ofоїwlooking. it to the table not so much just gimme gimme gimme but working the problem you know the same way that the"
+    },
+    {
+      "start": 741.84,
+      "end": 771.9,
+      "speaker": "SPEAKER_00",
+      "text": "jeff and team do um you know i think it's it's um healthy if i know it's not you know we're not breaking any land speed records or anything like that but so what um we don't need we're not here to be a flash in the pan or anything like that and it hasn't been that way since the beginning i don't know i feel like hyper liquid's been around forever now but i feel you know we're still relatively young but um no it's good i"
+    },
+    {
+      "start": 771.9,
+      "end": 802.76,
+      "speaker": "SPEAKER_00",
+      "text": "mean that's what i've been doing i've been just watching them reading and paying attention to the different teams and different projects and you know there's so much that's going to be happening it's exciting um but yeah i haven't even messed with any of the tokens i launched over there remember they can pull liquidity at any time they can all that nonsense that you see on uh many other chains will come here you know so but aaron what do you think how's it uh how's it been going for you guys since uh yeah i mean it's"
+    },
+    {
+      "start": 802.76,
+      "end": 832.94,
+      "speaker": "SPEAKER_00",
+      "text": "been a been a crazy day so i guess like for context um we did not know about today being the launch it was honestly like like you guys said like it was a stealth launch and they didn't really give from my understanding any of the builders a heads up so um so i'm on east coast time in the u .s and so pretty sure midnight went live around i want to say like 12 1 or 2 but um like like i live with charlie right and um it's like 6 a .m and he just wakes me up he's like dude it's"
+    },
+    {
+      "start": 832.94,
+      "end": 863.08,
+      "speaker": "SPEAKER_00",
+      "text": "live and i i think i think i remember saying like three times it's like there's no way it's live right now because i just totally did not expect this um but then yeah i guess we just got up and it was like all right i guess it's time to get to work um and so i guess i have some ideas like or thoughts off rip so one is i think like one interesting thing to say is the hyper liquid team is taking a bit of a different approach with developing a chain like typically if you see how these kind of other l1s or l2s develop it's it's much more like the software development life"
+    },
+    {
+      "start": 863.08,
+      "end": 893.3,
+      "speaker": "SPEAKER_00",
+      "text": "cycle of hardware which is longer like uh longer development timelines longer kind of sprints um you kind of more kind of stabilize things whereas um they're treating it much more like weekly bi -weekly sprints shipping quick quick iterations you know i don't really know if there's the right answer but it's obviously stylistically a different approach um and they're obviously doing it in a guarded way and so i guess that's pretty interesting um in terms of like specifically what we see on the evm features like"
+    },
+    {
+      "start": 893.3,
+      "end": 923.52,
+      "speaker": "SPEAKER_00",
+      "text": "mogi you basically hit it all um i think right now it's like super limited um there's not much a lot you can do and in terms of what's most interesting to us is if there is more compatibility between the evm and the l1 order books um in terms of the use cases that we're looking to support whether users want to you know borrow against their assets and then deposit into hlp to run a carry trade or if they want to borrow against their assets and then they want to go trade more to do coin margin i think all these things are not possible until"
+    },
+    {
+      "start": 923.52,
+      "end": 953.54,
+      "speaker": "SPEAKER_00",
+      "text": "you have um compatibility between like the pre -compiles between in the the transfers between evm and l1 so that's like one thing the second thing is you need but but you can do everything just to interrupt real quick on the evm right now you have full use of the evm state machine right like all functionality okay so there's no restriction on any of the general purpose evm logic that's"
+    },
+    {
+      "start": 953.54,
+      "end": 983.68,
+      "speaker": "SPEAKER_00",
+      "text": "all live but obviously to what extent you can leverage that against the l1 that's where we still obviously have to get things connected yeah exactly like from a utility standpoint the evm works from the standpoint of what we think users want the most what we think they get utility the value prop that's where there's still some things remaining to be kind of seen outside of 100 that's like that's the main thesis too by the way it's like if it was just the same like if if hyperlink was just its own evm that had like no connectivity back"
+    },
+    {
+      "start": 983.68,
+      "end": 1013.68,
+      "speaker": "SPEAKER_00",
+      "text": "to the l1 i i would be like okay there's no it's it's kind of like the bear case against you know everything it's like the l2s and monad and and bear chains like you're just creating another farming ecosystem where people can swap lend like do all this stuff great yeah but like why is that differential versus is the connectivity back to the l1 so sorry go ahead yeah for sure no that's like that highlights it very well and i guess i can talk a little bit about the kind of different components that i think are missing until you know we feel comfortable deploying"
+    },
+    {
+      "start": 1013.68,
+      "end": 1043.86,
+      "speaker": "SPEAKER_00",
+      "text": "like our money market product to hyper evm so one is you need a good price oracle um and the way the price oracles are set up right now for the hype price feed is the pre -compiles and if you've seen the tweet the pre -compiles is not live and so um that's like an actually like i guess the area that people don't understand is like the pre -compiles actually support the price feeds that we need um and we have talked with redstone and pith and i was actually trying to dig in to understand like they're like hey we're going to be live soon and i was trying to understand like how are you guys getting these price feeds"
+    },
+    {
+      "start": 1043.86,
+      "end": 1074.18,
+      "speaker": "SPEAKER_00",
+      "text": "if the pre -compiles isn't live um and the only other alternative would be to either use price feeds from like gate which is a centralized exchange or if you're directly using the api endpoint from hyperliquid but i'm honestly just not sure if that's the right kind of setup we want so i guess that's like an area i have to look into but tldr price feeds are not ready in terms of the pre -compiles which is the primary source for a high price as well as other spot order book prices any reason number two any reason why you think that they held back the pre -compiles because right"
+    },
+    {
+      "start": 1074.18,
+      "end": 1104.22,
+      "speaker": "SPEAKER_00",
+      "text": "it's on test net everything is up and running and functioning and nobody's really had issues correct yeah i'd assume it's just part of their guarded like i don't want to speak for the team i don't i'm not inside and know kind of their calculus but i mean i'm assuming they're just kind of releasing easier features there's this kind of evm sandbox i think the pre -compiles is a little bit more probably complex and so they're just kind of taking it iteratively rather than going all at once but i honestly"
+    },
+    {
+      "start": 1104.22,
+      "end": 1134.62,
+      "speaker": "SPEAKER_00",
+      "text": "don't know so i don't want to speak for them right on can we can we uh real quick just unpack a little bit further like why the pre -compiles and having the canonical like the chain itself is emitting the price like the the state and what and as opposed to traditional like if you're an arbitral trump and you're leveraging redstone or so my understanding is there's"
+    },
+    {
+      "start": 1134.62,
+      "end": 1164.82,
+      "speaker": "SPEAKER_00",
+      "text": "multiple ways one could do like an attack on an oracle and like there's a laundry list of default by actually manipulating but with pre -compiles like that is the base state data like that is the price that is the mark that like is on the perp deck so you can't manipulate it like you are actually getting the same price that is causing you know um someone's like position to get closed"
+    },
+    {
+      "start": 1164.82,
+      "end": 1194.9,
+      "speaker": "SPEAKER_00",
+      "text": "or whatever i think that's pretty powerful right whereas you aren't relying aside from the overhead too like you as a builder you have to pay for chain link or redstone or whatever um like that was also a big kind of idea i had of like why this is so powerful is that the state data is available to the builder like you know fundamentally yeah and so the way that it works is like the price oracle is enshrined and like what that means is validators like part of their job is to provide the price data and so that's not"
+    },
+    {
+      "start": 1194.9,
+      "end": 1224.94,
+      "speaker": "SPEAKER_00",
+      "text": "really a thing for other chains and so they basically have this like enshrined price feed feature um which takes data from the spot order book i will caveat with one thing which is you can still manipulate prices from the spa order book um if you have like it's all just about um the cost benefit analysis but But if you have a lot of money, you can just tank the price because fundamentally, like, like the price is just a reflection of like, yeah, yeah, just, yeah, just just like someone can manipulate a new swap. I guess what"
+    },
+    {
+      "start": 1224.94,
+      "end": 1255.36,
+      "speaker": "SPEAKER_00",
+      "text": "I was thinking would be, so let's say you're using, you know, a third party Oracle. Okay, so outside of like, fundamentally manipulating the underlying pool that they are reading by, like, you know, hitting it with a flash loan or whatever, they're also trying to query from like sex prices, they're looking at finance by like all the major liquidity, let's say for an asset that's trading on a sex, in theory, could someone like, somehow DDoS"
+    },
+    {
+      "start": 1255.36,
+      "end": 1285.74,
+      "speaker": "SPEAKER_00",
+      "text": "it to where they basically drop that, that price input from that sex to where like, they don't integrate it into the asset. to their Oracle price. And that would be another, like, attack vector for someone that's trying to like slightly adjust the Oracle price. Yeah, so I think there's a difference between, like, let's say majors, like, obviously, Bitcoin is a major on spot right now. But what I mean is like, Bitcoin ETH Sol, which is used to power the perps is, um, that's also provided by the validators. And that, from"
+    },
+    {
+      "start": 1285.74,
+      "end": 1315.88,
+      "speaker": "SPEAKER_00",
+      "text": "my understanding is they take a median price approach. So they take prices from different centralized exchanges, and they kind of weigh it. And then there's price fees from the native spot order book, which is providing prices for hype, which is like always available because it is on chain. Um, so like, the way they get the price fees is different for the native spot assets. Whereas for like the majors and the kind of perp assets that they need to power. They take this kind of median weighted approach. Um, I think because they take a median weighted approach, it is much harder"
+    },
+    {
+      "start": 1315.88,
+      "end": 1346.32,
+      "speaker": "SPEAKER_00",
+      "text": "to kind of manipulate and mess up the price. And then for the spot order book, obviously, like, you're depending on the fact that the price circle is very reliable because it's kind of enshrined on the l1 and so obviously like that's something we want to dig into is the uptime of the price feeds once they get released on mainnet with the precompiles like it's super important for a DeFi application like our money markets that you you basically need 100 uptime for the price feeds it's like very bad um for the price feeds to go down and so like that's"
+    },
+    {
+      "start": 1346.32,
+      "end": 1376.32,
+      "speaker": "SPEAKER_00",
+      "text": "something we'd want to measure and make sure like is good before we feel super confident and so um but yeah does that kind of answer your question yeah for sure i mean i think um you know i don't want to turn this into a massive like oracle deep dive but i think that there are advantages of how like the enshrined um oracle like basically in my mind it does eliminate some attack vectors of someone trying to you know go after what the oracle"
+    },
+    {
+      "start": 1376.32,
+      "end": 1406.42,
+      "speaker": "SPEAKER_00",
+      "text": "price is right um nothing's going to stop someone from saying hey i'm just going to like market buy a hundred thousand dollars worth of cat ball and the spot order book is gonna be like wow the price just like shot up really quickly and then i had like some loan against it like that that actually is the real price for the moment that's happening is it the proper fair price like no it was like a manipulated like attack but like that is the price and that is what the oracle is going to display um so anyways but yeah what do you guys also see in terms of"
+    },
+    {
+      "start": 1406.42,
+      "end": 1437.2,
+      "speaker": "SPEAKER_00",
+      "text": "um what do you think in your mind is the timeline for when we get uh like the pre -compiles actually flipped on yeah understand these fast sprints and whatnot yeah so i guess i'll add one more thing on the price manipulation which is um i also think the fact that hyperliquid has a really powerful spot order book and the price is getting derived from there um not only does it have deeper liquidity which is always makes it more expensive to manipulate the price which is very good but i also think like on"
+    },
+    {
+      "start": 1437.2,
+      "end": 1467.42,
+      "speaker": "SPEAKER_00",
+      "text": "an amm it's much more deterministic um to manipulate because you know the what the liquidity is right now so you can easily simulate okay if i like take out this much liquidity or add this much liquidity the price will change this much and then this is how i can manipulate the money market whereas with the spot order book it's less deterministic because there's all these kind of very latent actors like the market maker and they're all adjusting and so you're not able to like really react and kind of determinist deterministically predict like how the price gets manipulated as much and so i think that's like one aspect"
+    },
+    {
+      "start": 1467.42,
+      "end": 1498.08,
+      "speaker": "SPEAKER_00",
+      "text": "that it's a little bit like theoretical but that i do like about um the spot order book but anyway so in terms of like other points that are missing as well as the pre -compiles i'm like the pre -compiles works very well so on the test net we actually have um like on the felix thing which we haven't rolled out on the test net like we do have the ability for users to kind of borrow against their assets swap into usdc and then kind of um push it onto the order book all in kind of like an atomic transaction um so that is like functional and just kind of you know allow for this coin margin experience but"
+    },
+    {
+      "start": 1498.08,
+      "end": 1528.08,
+      "speaker": "SPEAKER_00",
+      "text": "i um like i honestly just couldn't tell you in terms of the pre -compiles because like it does seem ready on the test net but maybe there's certain pieces that i'm not aware of that they feel like they want to see but i guess like that's also a good kind of caveat towards like these other components that i feel like the hyper liquid team is probably thinking about so i'll just talk about that so like the other thing is we need safe multi -sig um a lot of defi daps um you're gonna have like admin privileges it just generally like kind of you you want to multi -state"
+    },
+    {
+      "start": 1528.08,
+      "end": 1558.22,
+      "speaker": "SPEAKER_00",
+      "text": "kind of structure where um it basically kind of minimizes the risk of some sort of operational security failure where one wallet gets hacked and then that kind of is the point of failure for these d5 protocols where there's like certain admin privileges so safe multi -sig is super important um number two is and actually this is probably like the biggest area that i've been thinking about is there's not a good usdc solution so right now the usdc that you use on the perps or the order books um that's like that is kind of usdc that you can use to trade but there"
+    },
+    {
+      "start": 1558.22,
+      "end": 1588.38,
+      "speaker": "SPEAKER_00",
+      "text": "is no evm usdc right now and you can't there is no composite like transfers of the order book usdc to evm um usdc and that i i think is actually like quite limiting towards the whole like amm infrastructure as well as being able to borrow assets because you need a way to kind of price all these things and basically like these other bridges they can launch like usdc .layer0 usdc .warmhole usdc .hyperlane but that's not the same usdc as the order"
+    },
+    {
+      "start": 1588.38,
+      "end": 1618.54,
+      "speaker": "SPEAKER_00",
+      "text": "book usdc and it's just a different standard so there's not really that like um yeah just like two different usdcs and disjointed environments and that's like something that i'm trying to better understand like how we actually get there and if you need some sort of kind of like circle integration to um to kind of make that happen and so that's like the other thing is like there's not a good evm usd solution so um i think that's coming by the way i saw a couple points on that i think that we do see uh native"
+    },
+    {
+      "start": 1618.54,
+      "end": 1648.66,
+      "speaker": "SPEAKER_00",
+      "text": "usdc like mint redeem be a circle on hyperliquid i'm gonna throw out there i think we see that inside of the next one or two months um for what it's worth my own like you know theory secondly i i agree with you on the you know the lack of usdc that was one of my first questions earlier today was hey like wait so we can only transfer hype we can't transfer now here's what my i was talking to some guys about this and they're like dude that's you're"
+    },
+    {
+      "start": 1648.66,
+      "end": 1679.36,
+      "speaker": "SPEAKER_00",
+      "text": "just like you know like conspiracy theory uh i don't like i don't think you're reading too much into it but i was like this is actually very bullish because look we want like we being djens or whatever you know hype maxis we want hype denominations on the l1 as well because what we know is going to happen is if you start to denominate pairs let's say on the spot order book with hype you get a couple things one i think that adds more of a um you know a sink"
+    },
+    {
+      "start": 1679.36,
+      "end": 1709.54,
+      "speaker": "SPEAKER_00",
+      "text": "a token sink for hype and you have stickiness because people are holding hype you know as the base pair for these trades they're denominating their portfolio more in hype than usdc and so in addition to like you know staking your hype so people are just need to accumulate hype so they can you know do all their trading secondly it's going to obviously amplify overall volume and therefore fees because if you have an asset let's call it per denominated in both usdc and hype you will have to have arbitragers that are closing"
+    },
+    {
+      "start": 1709.54,
+      "end": 1739.62,
+      "speaker": "SPEAKER_00",
+      "text": "that you know obviously you have the two like um base assets so you're gonna get more volume you're gonna get more headline number you get more fees but they haven't done that and we have no insight into if and when the team intends to turn on um hype it in the docs it does say that like usdc is the um like the base asset or whatever and there's the ability to like pair your your l your hip one against like another base asset but for now it's"
+    },
+    {
+      "start": 1739.62,
+      "end": 1769.7,
+      "speaker": "SPEAKER_00",
+      "text": "just all you yeah so my theory was like oh they did this purposely the reason they only originally allowed hype to be transferred from the l1 to the evm is because by definition that forces all these erc20s to be paired against hype like obviously an erc20 could be paired against another erc20 but you're just pairing like vapor against vapor like you it's there's no there's no base value that came from anywhere since all these erc20s aside from i guess you can make the argument like some of these"
+    },
+    {
+      "start": 1769.7,
+      "end": 1799.74,
+      "speaker": "SPEAKER_00",
+      "text": "projects in arbitrum that are migrating um you can make an argument like no well people bought that token on arbitrum with e through usdc and then this project spins up a mint contract that then releases the erc20s and then you can make an argument like no well people bought the erc20 on the evm and so like that token has underlying value aside from a brand new meme coin it's like like it's just going from zero to whatever i thought that they were using this like the hyperlink team was using this to their"
+    },
+    {
+      "start": 1799.74,
+      "end": 1829.78,
+      "speaker": "SPEAKER_00",
+      "text": "advantage to like test out how much interest there is on denominating all these amms against hype is the base pair but that might just well you you actually see this a little bit in ethereum world which is there are actually like a lot of amm pairs that are used a little bit as like a currency like on these amms and just ethereum in general and so i do that's how it used to start right like it used to only be ethan then usdc became more popular but like and for the longest time it was only just yeah exactly okay"
+    },
+    {
+      "start": 1829.78,
+      "end": 1859.84,
+      "speaker": "SPEAKER_00",
+      "text": "but then let me add one one last thing in terms of like what i think is missing i'm sure there's a lot of other things it's still like super hard to like onboard like one is just like what do i even do like obviously evm is live but it's like what do i actually do like what can i do so i think obviously that needs obviously only been like 16 hours or whatever but that's like unclear for new users but two is like the bigger thing is and you and this kind of touches on mogi what you're saying aaron but aaron that's on you what we can do like right isn't that you you're supposed to be the one giving us stuff"
+    },
+    {
+      "start": 1859.84,
+      "end": 1889.92,
+      "speaker": "SPEAKER_00",
+      "text": "to do yeah yeah no i agree which is like that is our job i'm talking about like today like what what can i do and we can talk about that but um specifically in terms of what i was trying to say is right like for the spot market which mogi you were saying is compressed um it's just it's still very hard to bring in capital to hyperliquid right like really the only way to onboard into hyperliquid is to use the arbitrum bridge which is already like an l2 and then you have to bring it to the spot order book and you still can't bring most assets outside"
+    },
+    {
+      "start": 1889.92,
+      "end": 1920.1,
+      "speaker": "SPEAKER_00",
+      "text": "of hype to the evm and so for a lot of users it's like they they're more accustomed to bridging from ethereum and bridging straight to an evm like directly so it's like how do i actually buy hype or how do i bring stable coins to the evm um those kind of capital inroads are not really available right now and so i think that's like an area of development over the next two to three months um that would kind of really elevate hyperliquid as a whole and just kind of allow more capital to flow in and for like more kind of just more liquidity into the ecosystem and"
+    },
+    {
+      "start": 1920.1,
+      "end": 1950.4,
+      "speaker": "SPEAKER_00",
+      "text": "so that's the last thing and then i don't know i don't know about that though i mean bitcoin now we can bring on and off and arguably bitcoin is traded just about everywhere just about you can pair it just about with anything on just about any exchange i mean arguably that's the easiest yeah it may not be the fastest but i mean anybody should be able to get bitcoin and and send it yeah for sure i think bitcoin like"
+    },
+    {
+      "start": 1950.4,
+      "end": 1980.64,
+      "speaker": "SPEAKER_00",
+      "text": "the unit team has done a great job i think um i think a lot of users want stable coins from like what we've talked about in terms of like doing stuff on the evm so i don't necessarily think it's like one there's one solution just like you want inroads from the bitcoin network you want usdc inroads from ethereum network and to go onto the evm and so like as more of these bridges open up it just kind of creates a much easier flow from which whichever kind of origin point people want to come into um but yeah i guess that's kind of my take and happy to talk about on the topic"
+    },
+    {
+      "start": 1980.64,
+      "end": 2010.86,
+      "speaker": "SPEAKER_00",
+      "text": "yeah well i want you to show more about felix on uh and so i've uh i've done some of my i've tested a little bit i i need to reread your docs cover to cover again but i'm going to use this as an opportunity to go to uh you know like office hours with you being the professor here so let's like for people listening in the audience they're like what the is felix i've never heard of it so let's like at a super like layman's term level walk through"
+    },
+    {
+      "start": 2010.86,
+      "end": 2041.12,
+      "speaker": "SPEAKER_00",
+      "text": "um i'll just give a couple bullet points of my general understanding as of right now and then you'll obviously correct and fill in the gaps but so felix is a collateralized debt position uh stablecoin right yep so i put up collateral you guys are obviously initially going to support the majors such as hype and state type um uh and you know obviously as liquidity allows other you know assets"
+    },
+    {
+      "start": 2041.12,
+      "end": 2071.14,
+      "speaker": "SPEAKER_00",
+      "text": "on the on the risk curve but let's just say for simple simplicity you know height right so user comes in they have hype i have a i have a thousand dollars worth of hype i go to felix and i deposit my hype and i'm effectively minting the felix uh stablecoin that is over collateralized and that is uh fe usd right yes and then so i've got fe usd now with any new stablecoin the whole point is like cool but like what can i do with that there needs to"
+    },
+    {
+      "start": 2071.14,
+      "end": 2101.44,
+      "speaker": "SPEAKER_00",
+      "text": "be an entire economic ecosystem of like fe usd i need to be able to trade fe usd so you guys will have in theory or others will stand up let's say an fe uh order book where in theory usd is at parity and the reason why like you know it's it's backed by um these these depositions in theory it should hold parity because it's it's collateralized um we may see people spin"
+    },
+    {
+      "start": 2101.44,
+      "end": 2132.06,
+      "speaker": "SPEAKER_00",
+      "text": "up a m m pools on the eem um that are denominated in fe usd we may see you know on the spot order book you're trading still against usdc so you have to confer f usd against usdc but then you're still trading against usd using capital셨어요 might not cut them 100 % starts to open up all these different like mechanisms by which you can take your hype get fe usd and then execute a trade and that's when we get into the leverage and the looping and all that fun stuff that like the d5d gems like what we like to do um at the broadest level i i have that about right yeah"
+    },
+    {
+      "start": 2132.06,
+      "end": 2162.1,
+      "speaker": "SPEAKER_00",
+      "text": "that's absolutely correct and so i'd say fundamentally like we talk with a lot of users every day um and one of the biggest kind of pain points is i'm sitting on this hype i'm bullish on it i don't want to sell and you know i want to hold on hype long term especially for a lot of these kind of power users um but they want to put their hype to work and they want to find a way to kind of unlock more capital against their hype and so like fundamentally like felix is a venue for you to borrow against your hype and what that means is you can deposit hype as collateral and then you can borrow stable coins against it"
+    },
+    {
+      "start": 2162.1,
+      "end": 2192.22,
+      "speaker": "SPEAKER_00",
+      "text": "um in our case it's fe usd um there will be integrations across the spot order booking curve and the number one use case or i'd say the top three use cases are the top three use cases are the top three use cases are the top three that we hear is um one i want to trade more perps so i want to borrow against my hype i want to take my stables um grab usdc and then i want to go add to my perps margin two is i want to trade more of the spot order book um so it's same kind of use case with perps but instead of the perps you go to the spot order book and i think one kind of synergy that we see is um with what shoku is doing with all"
+    },
+    {
+      "start": 2192.22,
+      "end": 2222.26,
+      "speaker": "SPEAKER_00",
+      "text": "these new spot at least spot majors um there's much more asset diversity in the spot ecosystem and there's much more interesting things that you can trade on so that's kind of like the coin margin experience um and then i would say the third thing is that users kind of also want to leverage loop so i think particularly in the case of st hyper k hype users want to loop on these assets um and so they're going to deposit k hyper hype um sorry k hyper st hype borrow against it swap it into k hype and then loop into it a bunch and what that effectively gives them"
+    },
+    {
+      "start": 2222.26,
+      "end": 2252.46,
+      "speaker": "SPEAKER_00",
+      "text": "is a leveraged exposure um to these kind of underlying assets which one they want to get the yield on and two is they you know they think there's going to be some sort of farming yield opportunity and they want to get leverage exposure to that so i'd say those are three things that we hear a lot of demand on um i guess the fourth thing is which i think is very underrated is the carry trade so you you deposit hype as collateral you borrow stables and then you take your stables and then you go and deposit that into a higher interest earning opportunity like either"
+    },
+    {
+      "start": 2252.46,
+      "end": 2282.56,
+      "speaker": "SPEAKER_00",
+      "text": "hlp or something like athena or resolve which we know are both interested in coming to hyperliquid like the way athena works is you get the perp funding rate um and so if the perp funding rate is like 15 at the time during a very bullish market and you can borrow on felix for seven percent or six percent there's an interest rate arbitrage that you can get and for a lot of kind of more kind of people who just want to earn yield like this is kind of a great strategy that they want to deploy and so i suppose yeah those"
+    },
+    {
+      "start": 2282.56,
+      "end": 2312.6,
+      "speaker": "SPEAKER_00",
+      "text": "are four use cases that um we hear a lot from users and i think as more of the ecosystem matures there's kind of more kind of strategies that we can run and so obviously with we we know shocking what the unit team is building and so as spot majors come in like bitcoin is an asset that a lot of people want and so it's also a great collateral asset that people can borrow against i think um athena's susde is another example of a great collateral asset they're coming to hyperliquid it's a great asset where you can earn yield and then you can borrow"
+    },
+    {
+      "start": 2312.6,
+      "end": 2342.92,
+      "speaker": "SPEAKER_00",
+      "text": "against it too such that you know you're earning yield on your collateral and then you can go do other things with it um so yeah i would say kind of the core use cases that we're that we're really trying to focus on especially in the first few months um how about number six i would like to be able to buy cheap hype as these guys get liquidated yeah that's that's what i'm looking for that's what i i told you guys in our chat that's what i'm interested in yeah"
+    },
+    {
+      "start": 2342.92,
+      "end": 2373.02,
+      "speaker": "SPEAKER_00",
+      "text": "and so that's the other use case for i guess the more let's say like the less non -degens which is the other side of the felix which is people who want to lend out their stables they can grab fe usd they can deposit it into the stability pools and you earn yield um you earn stable coin yield on this through the borrower interest as well as you get liquidation proceeds so whenever a user gets liquidated you get that at discount and then you can go take discounted hype um and then you can obviously keep it or you go sell it and you basically get this like"
+    },
+    {
+      "start": 2373.02,
+      "end": 2403.24,
+      "speaker": "SPEAKER_00",
+      "text": "this massive kind of reward and so i would say on the stablecoin farming side of things can you can we walk through that more i was going to ask you to walk a little bit more deeper into your guys's mechanics of so you mean as you like this is different than obviously the compound structure where you have people that are bringing you know the usdc um uh for the borrowers to get and then kind of like uh fluctuating like um borrow price with what with the cdp"
+    },
+    {
+      "start": 2403.24,
+      "end": 2433.94,
+      "speaker": "SPEAKER_00",
+      "text": "model yeah so i put up my hype i meant the fe usd and i'm like i'm a marketer in this market so i would assume that's the same as the cdp model i'm pretty sure if i was running a similar market as the cda i would learn the same stuff but maybe i wouldn't really have any risk of being busted if that's what i was going to do but i think the cds is"
+    },
+    {
+      "start": 2433.94,
+      "end": 2466.76,
+      "speaker": "SPEAKER_00",
+      "text": "definitely my favorite type of marketer so right so if that's my favorite You never restrict redemptions of F -E -U -S -D. I had used a lot on Polygon back in the day, my MAI, my finance, and it was a CDP model. But they had capped pools, and if you"
+    },
+    {
+      "start": 2466.76,
+      "end": 2496.78,
+      "speaker": "SPEAKER_00",
+      "text": "had bought that stablecoin off the market, you weren't necessarily guaranteed to be able to redeem it. Whereas here, because it was a fixed rate, it was literally zero interest rate, and then they just charged a redemption fee for the borrower. So you guys are saying the lowest interest rate is the first one that's getting bumped out if someone wants to redeem. And basically, that's when your position is forced to be closed. Yeah, like a part of your position based on how much F -E"
+    },
+    {
+      "start": 2496.78,
+      "end": 2527.92,
+      "speaker": "SPEAKER_00",
+      "text": "-U -S -D you've redeemed. Got it. And I think the permissionless redemption is, at least in our view, necessary. So that if you have some sort of admin that is turning on redemptions and turning it off, it just introduces a risk vector where there is some sort of contagion. Whereas if it's purely market -driven, anyone can come and just kind of redeem and kind of make sure the system remains. And so, but yeah, and then so do you want me to talk a little bit about how the stability pools work and how the liquidation? Yeah."
+    },
+    {
+      "start": 2528.12,
+      "end": 2557.92,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So let's say you have $20 ,000 of hype, and then you borrow $10 ,000 or $10 ,000 F -E -U -S -D. And then let's say the price of hype drops to some number, and then it goes down, your collateral value goes to $15 ,000. And let's say that's kind of your liquidation threshold. You get liquidated, and the way that it works is your position needs to get closed, right? So you have $15 ,000 of hype, and you have $10"
+    },
+    {
+      "start": 2557.92,
+      "end": 2587.94,
+      "speaker": "SPEAKER_00",
+      "text": ",000 borrowed in F -E -U -S -D. There needs to be some way to close that debt position of $10 ,000. So you grab the $10 ,000 F -E -U -S -D from the stability pool, and you close the debt, and then you grab the collateral, and then you get it at a discount. And then the stability pool is compensated in the hype at a discount of the collateral. Okay. Okay. So you're getting, let's say, if you have $10 ,000 F -E -U -S -D closed, you get 5 % more than $10 ,000 of the underlying"
+    },
+    {
+      "start": 2587.94,
+      "end": 2618.32,
+      "speaker": "SPEAKER_00",
+      "text": "hype collateral, and then that basically compensates the stability pool holders for the liquidation. Does that make sense? Yeah, I think so. And the stability pool depositors are depositing F -E -U -S -D because they are basically closing the loan on behalf of the borrower. Yeah, they're earning interest and earning liquidation proceeds. Now, the person that's getting liquidated, they are getting the value of their collateral back net,"
+    },
+    {
+      "start": 2618.38,
+      "end": 2648.84,
+      "speaker": "SPEAKER_00",
+      "text": "the 5 % liquidation fee. Exactly. And they still hold on to their F -E -U -S -D. They just get their F -E -U -S -D borrow position closed. And so it's not like being liquidated means you lose a lot of money. It just needs to be a system to close your debt. And the loan values are fixed. So the interest rate is usually refined, but the LTV is fixed based on, obviously, the liquidity. So you're saying that the LTV is going to be in depth of the collateral? Yes, exactly. But I mean, the way that our system is able to work, as well as what you see with Aave, is you"
+    },
+    {
+      "start": 2648.84,
+      "end": 2678.96,
+      "speaker": "SPEAKER_00",
+      "text": "can change the LTV if, you know, hype becomes a better asset. And so we're going to be very conservative at first. But over time, we do want to lift up the LTV so that users can get more capital efficiency on their hype. But it's just like we want to take a measured kind of slow approach rather than, you know, doing the off -rate. So day one, it's what, 0 .5? TBD, TBD, TBD. We'll release more information once we are ready to. There's an army of people that are looking to"
+    },
+    {
+      "start": 2678.96,
+      "end": 2709.62,
+      "speaker": "SPEAKER_00",
+      "text": "do the, well, this might be a bad joke, but the Mitch trade. Like there's in some jurisdictions, the amount of like cap gains one would pay, it's almost better to just take out a massive loan and walk away and get it and let it get liquidated. But it obviously depends on the LTV and obviously, you know, all that. But you can make argument like some jurisdictions, you're paying 50 % if you want to like, you know, completely like liquidate your asset, you"
+    },
+    {
+      "start": 2709.62,
+      "end": 2739.72,
+      "speaker": "SPEAKER_00",
+      "text": "know. So, well, that's interesting. I mean, obviously, I'm very excited for you guys. I haven't been using lending markets for a while now. I was heavily using them on Arbitrum and others back in the day. But, yeah, I mean, I think there's a lot of us that believe that the next massive. Like liquidity that we will see is when borrow lend gets flipped on because, yeah, I mean, people have a lot of hype in theory"
+    },
+    {
+      "start": 2739.72,
+      "end": 2770.04,
+      "speaker": "SPEAKER_00",
+      "text": "and they may want to leverage against that. So, you know, I know that the spot market's been pretty dead, but my view is once we truly get like these proper lending markets like, you know, Felix live, there will be kind of more action again. And then, you know, the backdrop. So the overall market, it's kind of a hard time, like across all the chains. But, you know, I think the ranging nature of hype has still been pretty good overall. Yeah, totally."
+    },
+    {
+      "start": 2770.18,
+      "end": 2800.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think I think once you can unlock more value against your hype, which is all this just like pent up demand in this unlock kind of value that people want to put to work. I think like the EVM, the AMM ecosystems, they're going to kind of take off, I think, obviously spot market, the PERT market, more people in HLP. I just think like all across the board just unlocks this new liquidity that gets injected into, yeah, like all these different venues. And so definitely like a must need as hybrid EVM matures."
+    },
+    {
+      "start": 2803.08,
+      "end": 2830.64,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I mean, we just need the market to the market to give us some play money right now. It's taking everybody's play money. So things tend to slow down when that happens. Yeah, yeah, definitely. Yeah, I guess we'll see. Well, we definitely appreciate you. You know, you coming on and giving more of a technical. I know we probably"
+    },
+    {
+      "start": 2830.64,
+      "end": 2860.68,
+      "speaker": "SPEAKER_00",
+      "text": "got a little more technical than some people were like, you know, expecting. But I always like to geek out on kind of like the underlying stuff that's happening, especially from a builder's perspective, like, you know, you and Charlie. And so sounds like you guys are waiting for, you know, more of the features of the EVM to be rolled out. Obviously, you know, you'll probably be buttoning up the protocol audits and whatnot. But yeah, I think there's a tsunami of liquidity that's looking to get"
+    },
+    {
+      "start": 2860.68,
+      "end": 2890.72,
+      "speaker": "SPEAKER_00",
+      "text": "deployed when protocols like Felix and others are fully ready to go live. Yeah, definitely. And I guess I'll just say one last thing is just obviously appreciate both of you guys having me on. And I think it's like it might be confusing. It's such a new ecosystem. And so Charlie and I, like, we're both always available. You can DM us on Twitter, Telegram, Discord or whatever. And so, like, if either you guys or anyone who's listening, like, just wants to jam on ideas, has questions. We're always available. And so, yeah, like, don't hesitate to reach out"
+    },
+    {
+      "start": 2890.72,
+      "end": 2922.1,
+      "speaker": "SPEAKER_00",
+      "text": "to us. And we're obviously here to, like, help build up the ecosystem. And so, yeah, just want to let you guys know that. How many users? I think that you guys have probably reached out to you're probably one of the highest number of individual, you know, reaching out to individual users. Just for my anecdotal. Like, you guys are talking to, like, hundreds. I think. Like, hundreds of individual Hyperliquid users was, like, kind of what I was thinking"
+    },
+    {
+      "start": 2922.1,
+      "end": 2952.18,
+      "speaker": "SPEAKER_00",
+      "text": "from what I, like, how many, like, I know we've DM 'ed and, like, you guys are very on top of, like, which is great, right? You're really trying to have that, like, personal touch of talking with people in the trenches directly. Like, how do they kind of use, you know, lending and whatnot. But do I have that right? You guys are, like, reaching out to a ton of active users, right? Yeah, yeah. We have a lot of, I mean, we've been doing that since maybe, like, October or maybe a little earlier last year. Just, like, a lot of Telegram chats. Just because, like, I mean, one, we want to feel like we're actually, like, we're actually"
+    },
+    {
+      "start": 2952.18,
+      "end": 2982.82,
+      "speaker": "SPEAKER_00",
+      "text": "building for, like, real people and, like, really understanding, like, your guys' pain points. What are you guys looking for? What does the ecosystem need to go? And then I think the last thing is there's going to be a lot of projects in, like, HyperEVM and the whole ecosystem. And I think it can be, there will definitely be some scams and there will definitely be sketchy stuff. It's just kind of the nature of these permissionless systems. And so I think we just want to make sure that, like, guys feel like they can. They can talk to us. We can help inform them, help them navigate and just kind of answer any questions that they might have and just"
+    },
+    {
+      "start": 2982.82,
+      "end": 3013.96,
+      "speaker": "SPEAKER_00",
+      "text": "kind of play that role. And so, but, yeah, you're spot on there. I mean, you want to build something that people want to use. And the only way to ensure that that happens is to listen to what people are looking for. You know, I think it's a great approach. And I think it's part of the reason why the HyperLiquid team releases things the way they do. They want to hear what the builders have to say and they want to hear what the end users have to say, you know. And build the best product that everybody wants"
+    },
+    {
+      "start": 3013.96,
+      "end": 3044.1,
+      "speaker": "SPEAKER_00",
+      "text": "to see and you guys want to see and make it all succeed, you know. It's good. We got anyone in the, down in the audience who wants to come up, talk, questions on EVM, theories, or again, you know, we've got, well, we have Aaron here, someone with a very technical lens. If you have any direct questions, I mean, we're kind of just freestyling. Yeah, I will say the last, our last space, I felt that EVM was coming within two weeks or so. And I think we"
+    },
+    {
+      "start": 3044.1,
+      "end": 3074.6,
+      "speaker": "SPEAKER_00",
+      "text": "were three weeks out from our last space. So, I was pretty close. I was pretty close. I think I was, yeah, I was like being more bearish, right? Wasn't I saying like more like March or so? I mean, we're almost in March as well. It's close. We were all close. Yeah. I do think, yeah, so it would be interesting, in my mind, when do they flip on the pre -compiles, the ability for the EVM to interact with the L1? Within"
+    },
+    {
+      "start": 3074.6,
+      "end": 3105.0,
+      "speaker": "SPEAKER_00",
+      "text": "a week. Within a week. So, you think it's that quick? Okay. So, you think it's like really quick? I think this weekend, we'll see it. I just, I have the feeling, you know, especially since it's been working, was working on testnet, I think they are just moving it slow. And that's their style. And a few days is slow for them. So, when will we get our, you know, the hyper NFTs? The opt -in NFTs? From TGE? What's"
+    },
+    {
+      "start": 3105.0,
+      "end": 3135.36,
+      "speaker": "SPEAKER_00",
+      "text": "your theory there? I don't think they're in a rush there. I think it will rely on, you know, them pushing the pre -compiles and all that stuff out, you know. And then, I don't know. I also have a feeling that we will see like Magic Eden or, I don't know about OpenSea anymore, but I have a feeling we'll see Magic Eden live for Hyper EVM. Relatively. Relatively. Relatively. At the same time. When the hyper NFTs"
+    },
+    {
+      "start": 3135.36,
+      "end": 3165.54,
+      "speaker": "SPEAKER_00",
+      "text": "drop, same time. Yeah. One who, I mean, hypios have just been absolutely ripping. So, I think they're going to be migrating probably pretty quickly, I would guess. But to that point, like, yeah, it will be interesting to think for NFT projects of, you know, they could migrate now, but then is there a trading venue, right? That's kind of like... The balance"
+    },
+    {
+      "start": 3165.54,
+      "end": 3196.2,
+      "speaker": "SPEAKER_00",
+      "text": "they're going to have to play. So, until there's an obvious trading venue, they may want to stay on, like, in hypios case space, for example. Yeah, it's basically just OTC type stuff. I know there was a few things that have been deployed, projects that have been deployed on mainnet. I think I saw a lot of people running into issues with the block sizes. Yeah, somewhere in there where they have to, they need to use the bigger blocks rather than the little blocks. Or something. All"
+    },
+    {
+      "start": 3196.2,
+      "end": 3226.2,
+      "speaker": "SPEAKER_00",
+      "text": "over my pay grade type stuff. Oh, yeah. Aaron, thanks for coming up to me, man. Appreciate it. So, pre -compiles, interoperability between EVM and L1, you're thinking within a week. I think I'll take the over still. But, I mean, I don't think it's going to be weeks and weeks. But, you know, maybe in the next two weeks,"
+    },
+    {
+      "start": 3226.22,
+      "end": 3256.22,
+      "speaker": "SPEAKER_00",
+      "text": "I'll say, is when we see kind of like more of the... These futures fully go live. Yeah, but what makes you feel it's going to be two weeks? I mean, why can't it be tomorrow? So, I think that the one thing... Yeah, because I think that they're probably wanting to slowly roll out and see the performance of the L1, right? Like, that's kind of like, I imagine one of the big elephants in the room was, hey, when you flip on the EVM and it's fully permissionless, anyone can launch a"
+    },
+    {
+      "start": 3256.22,
+      "end": 3286.4,
+      "speaker": "SPEAKER_00",
+      "text": "token, all these contracts. Does that truly, like, bog down the L1? And, yeah, like, I think the L1 always has a priority. But, I don't know. That's where, like, are they going to observe, hey, is there any degradation on the L1 and, like, the perps trading, right? Like, I think that's been a lot of stuff over the last few months we've been thinking about is, hey, EVM goes live. But then, like, all of a sudden, you know, it's got to tap into the same,"
+    },
+    {
+      "start": 3286.4,
+      "end": 3316.44,
+      "speaker": "SPEAKER_00",
+      "text": "you know, consensus. As the L1, I know, like, with these blocks and you're going to have, you know, every handful of L1 blocks, you're going to have one EVM block. But, I don't know. That's why I figure maybe they want to observe a little bit, maybe a week or two, just to see, like, how they're slowly integrating before they just kind of open up the fire hose and allow the EVM to just, like, machine gun all these L1 calls. But, I don't know. I mean, from what"
+    },
+    {
+      "start": 3316.44,
+      "end": 3346.54,
+      "speaker": "SPEAKER_00",
+      "text": "we've seen, I would... I would not be shocked if, yeah, we wake up tomorrow and all of a sudden there's a full feature set. But I feel like maybe it's, like, a slow introduction. Yeah. I mean, I think it's possible. I'm reading through the announcement again to see if there was any hints or anything in it. But, no. You know, they just talk about, you know, these features are implemented on testnet that may not release are staggered to minimal disruption to existing L1 users. Yeah. I mean, you"
+    },
+    {
+      "start": 3346.54,
+      "end": 3377.02,
+      "speaker": "SPEAKER_00",
+      "text": "let it run 24 hours. You see it's not doing nothing bad. Throw the next batch out there. Let it run another 24 hours. Next batch, you know? So, what do you think about sex listings? This is another topic that I've heard some people kind of speculate on. Firstly, Binance, like, I think previously on one of our spaces way back when, right, I was definitely like, oh, yeah, Binance will for sure do it. I'm going to flip my tune for now where, like, I don't think Binance has any..."
+    },
+    {
+      "start": 3377.96,
+      "end": 3407.12,
+      "speaker": "SPEAKER_00",
+      "text": "Immediate plans. Like, I think they will just try to ignore as long as they can. I mean, there's some conspiracy theories. I've also heard about, like, Binance, like, actively, like, trying to lobby against Hyperliquid, you know, and, like, Washington or whatever. Like, that's one of people's, like, doom and gloom is that, like, you know, perps goes legal in U .S. for U .S. customers. But, like... But... Or, like, there's"
+    },
+    {
+      "start": 3407.12,
+      "end": 3437.64,
+      "speaker": "SPEAKER_00",
+      "text": "winners. There's losers that are picked. Like, Robinhood, you know, gets it. But then they're an American company. And so, like, a non -American company is not going to be able to have, like, perps or whatever. Yeah, it's almost like when gambling was starting to be legalized across the states and you had to have certain licenses. And it was, you know, basically who paid who. And they gave it out to those people. Like, I think that there could be winners. I mean, look, we've seen it. It's fucking crime season is here and alive and well. Like, and so... What"
+    },
+    {
+      "start": 3437.64,
+      "end": 3467.64,
+      "speaker": "SPEAKER_00",
+      "text": "we, you know, love about Hyperliquid is, like, there are no sweetheart deals. There's no inside deals. They don't pay, like, anyone for anything. They don't pay for, like, an integration with, like, you know, EtherScan to, like, spin up on a new chain. Like, no. It's got to be, like, that's why we've got HyperScan and, like, and Parsec, you know, Parsec spun up an Explorer. But, like, there's no, like, inside dealings. And, like, I would obviously imagine that comes to lobbying. Like, Hyperliquid. Hyperliquid"
+    },
+    {
+      "start": 3467.64,
+      "end": 3497.74,
+      "speaker": "SPEAKER_00",
+      "text": "isn't going to try to get into that game. But at the same time, if all of a sudden, like, you know, there's politicking around perps in the U .S. and, you know, other jurisdictions, like, that's where things get, you know, a little weird. Yeah. I think it's pretty crazy with Binance. Like, you're right. I remember when, whatever that tweet was, like, don't trade the hype, trade on knowledge, whatever, whatever, whatever it said. Yeah. Was that a pun? Yeah. I remember seeing... I remember seeing it and"
+    },
+    {
+      "start": 3497.74,
+      "end": 3528.66,
+      "speaker": "SPEAKER_00",
+      "text": "starting to see people, you know, replying to it. And I was like, I don't know. I don't believe it. But then the more you see it and the more you read it, there's definitely a jab. You know what I mean? And that's good for sure. I mean, that shows that Hyperliquid's here and it's getting noticed. And especially from someone of that magnitude is pretty wild. But, yeah, I mean, I feel that definitely was a jab at Hyperliquid. Maybe"
+    },
+    {
+      "start": 3528.66,
+      "end": 3559.44,
+      "speaker": "SPEAKER_00",
+      "text": "not, but... And if it wasn't, somebody should have said, hey, that sounds like a jab at Hyperliquid. Are you sure? That's, you know, are you trying to do that? No, I mean, it's obvious that CZ and Binance is, you know, well aware of Hyperliquid. And, like, it is becoming a growing threat to their business as it starts to eat away market share. It's funny, too. Have you been seeing, like, these tweets about all these, like, Hyperliquid killers? There's, like... There's, like, the ZK Hyperliquid."
+    },
+    {
+      "start": 3560.84,
+      "end": 3589.62,
+      "speaker": "SPEAKER_00",
+      "text": "There's, like, the American Hyperliquid that some guys, some ex, like, I think, Citadel or Jump Traders are, like, being funded to do. So, I was going to post on this, but I'm, like, I'm kind of lazy with, like, posting now. And, like, I think it's too late in the game to harvest any yaps. But in my mind, it's, like, look, it's not even just the tech, right? Like, the thing about Jeff and the team is that they have, they've curated and, like, nurtured... You know, a year to two years"
+    },
+    {
+      "start": 3589.62,
+      "end": 3619.96,
+      "speaker": "SPEAKER_00",
+      "text": "for some of the users of just, like, goodwill and, like, proving, you know, every step with shipping the product, the airdrop and whatnot. Like, you can't just say, oh, I have, like, tech that is, you know, equal to or marginally better. Which, by the way, like, I also am not concerned about that. I think that, you know, like, we've seen with how quick and, like, adaptable the Hyperliquid team is. I think they could, if there was, like, a consensus"
+    },
+    {
+      "start": 3619.96,
+      "end": 3650.12,
+      "speaker": "SPEAKER_00",
+      "text": "mechanism that was a material improvement, there was some, like, major breakthrough, I also think that would be on the table for them to potentially upgrade as well. But aside from that, like, we are at, like, the level of performance of Hyperliquid, and this goes back to, like, okay, having to watch the EVM. But as of right now, and Jeff has, like, talked about this on interviews, like, for a retail user, the latency on the app, like, is... It's indistinguishable from a sex. Like, it is"
+    },
+    {
+      "start": 3650.12,
+      "end": 3680.4,
+      "speaker": "SPEAKER_00",
+      "text": "an order of magnitude slower, I think, because we're talking, like, when you click the button to execute the trade, I believe it is, like, and he said this, like, it is an order of magnitude slower than a sex. But, like, at the scale at which you're not even already noticing it. If we're talking about API, like, you know, Hyperliquid traders that, like, firing off the API, maybe there's something different, you know, to have a different discussion. So, if you have some, like, ZK, you know, based... Perp decks, and you're talking about speed and throughput,"
+    },
+    {
+      "start": 3680.62,
+      "end": 3710.62,
+      "speaker": "SPEAKER_00",
+      "text": "like, okay, so, for your average retail manual trader, how much of an edge is that? Like, is there a differentiating product? There's some other stuff when you talk about, like, compute and then, like, you know, cross -margining and, like, really getting to the level where you can have, you know, all these different assets as margin. Right now, you can only use USDC. But I think that they're going to eventually have other... Assets as margin. But I know that's where, like, computation becomes really"
+    },
+    {
+      "start": 3710.62,
+      "end": 3741.14,
+      "speaker": "SPEAKER_00",
+      "text": "relevant. Like, okay, you've got your Bitcoin, you know, you've got your native token, you've got Sol, ETH, you know, you've got maybe even shitcoins. And, like, you're able to use all of that as collateral. And so, there's, like, a conversation there about some of these, like, you know, the ZK system, like, being able to, like, process a shit ton of transactions. But aside from all that, there's still, like, the integrity and, like, the proven... I don't know, like, kind of reputation of"
+    },
+    {
+      "start": 3741.14,
+      "end": 3771.22,
+      "speaker": "SPEAKER_00",
+      "text": "the team and the protocol. And, like, you start to see all these other perp taxes that are going to try to pop up. And it's, like, you know, have they been through kind of, like, the trenches with the users over the last two years? And there's something, like, about the HyperLiquid team that I think is sticky there. So, I don't know. That's kind of, like, my... It's not just the tech. It's, like, you know, with... I mean, look at, like, this whole FUD with Meteora and Jupyter. It's, like... Look, I haven't done enough, like, research on if"
+    },
+    {
+      "start": 3771.22,
+      "end": 3801.34,
+      "speaker": "SPEAKER_00",
+      "text": "there were inside dealings. But if, like, you even have to, like, pause and think, like, if the DEX founding team was somehow, like, doing inside dealings with token launches. Like, that's already a bit of a red flag to even, like, put that out there as a possibility. And I would hope most of the, like, users of HyperLiquid that have been around have seen, like... That wouldn't even really be a credible, like, conversation. So, hey, do you think, like, Jeff"
+    },
+    {
+      "start": 3801.34,
+      "end": 3831.34,
+      "speaker": "SPEAKER_00",
+      "text": "is tipping off, you know, XYZ when they're going to list a new perp or something like that, right? I mean, so... Yeah. That goes a long way. Yeah. Like, if... Just in these other spaces or, like, these other... Like, Solana. I don't like Solana at all. I don't really do much of anything there. But, you know, you join one of their spaces and it's all the same just, like, I don't know, inflated bullshit hype. Like, across the board, like, the way everybody conducts themselves and whatever. Like,"
+    },
+    {
+      "start": 3831.34,
+      "end": 3861.62,
+      "speaker": "SPEAKER_00",
+      "text": "you know, we just had Aaron up here for Felix. And it wasn't just, like, yo, we're going there and this and it's going to be huge and people are flocking in. Like, it's just the way everybody conducts themselves here is so much different than the way the rest of the... Not all the space, but a huge majority of the spaces. So, you know, you're right. It goes back to... And all that stuff. And I still, you know, I'm actively looking for new projects"
+    },
+    {
+      "start": 3861.62,
+      "end": 3891.9,
+      "speaker": "SPEAKER_00",
+      "text": "all the time and reading different things and whatever. And it's so hard to think of putting money anywhere else. And, like, I know that's not the smartest thing in the world besides, you know, the normal majors that I hold and DCA and all that stuff. But it's so hard to look for other projects because of what we've found here and the way everyone's conducted themselves. The team. The community. The community for the most part. You know, it's just... It's weird. It's weird to look anywhere else. So,"
+    },
+    {
+      "start": 3891.92,
+      "end": 3922.0,
+      "speaker": "SPEAKER_00",
+      "text": "I just hope more quality keeps coming in here. And, you know, EVM is going to provide that, hopefully. And we'll see all kinds of cool shit, man. I'm hoping. Yeah. I mean, you know, people got to be careful out there with EVM, too. Because even as I was thinking about, like, some of these new, you know, protocols and pronouns that I haven't interacted before. You know. You know. Like, right now, it's, like, the social trust of, like, do you know the team? Like, who are these, you"
+    },
+    {
+      "start": 3922.0,
+      "end": 3952.1,
+      "speaker": "SPEAKER_00",
+      "text": "know, who's behind this platform? Like, I'm connecting my wallet. It's still very, like, early days. So, like, Rabi. I use Rabi Wallet, for example. Like, it can't decompile, like, the underlying code. So, it can't give you a preview of your transaction, for example. Whereas, if you're on Ethereum or Arbitrum or something else, like, you can see, like, this many tokens are leaving your wallet. This is what's entering your wallet. So, you are running a bit blind right now on the EVM. So, like, when you're just, like, connecting"
+    },
+    {
+      "start": 3952.1,
+      "end": 3983.14,
+      "speaker": "SPEAKER_00",
+      "text": "to some new XYZ swap on Hyperliquid and you're, like, oh, cool, I'm going to, like, swap to buy this token. And, you know, you've got, like, hype in your wallet, you might want to just think about, okay, you know, do I know exactly, like, what is about to happen when I hit, like, submit on this transaction? Yeah, for sure. For sure. I mean, that's why I read the Builder's Channel all the time and I pay attention to who's there. Who's saying what and who's doing what and, you know, I don't need to rush into anything. Jeff has already given us that luxury to where we don't have to rush anymore."
+    },
+    {
+      "start": 3983.34,
+      "end": 4013.38,
+      "speaker": "SPEAKER_00",
+      "text": "We don't have to be the first. But, go ahead, sorry, keep going. 100%. No, I was just saying, you know, but then you've just got to fight the degen spirit, you know? Yeah. What's been good for me is, like, to, like, it's just, like, super micro trading on some stuff. And so, it helps, like, kind of keep the blood flowing when you just, it's hard. Like, that is. You know, it's cliché. People say, like, the hardest thing is just sit on your hand. And for the most part, that's all I've done with hype. Like, literally, I"
+    },
+    {
+      "start": 4013.38,
+      "end": 4043.48,
+      "speaker": "SPEAKER_00",
+      "text": "have not sold any of my airdrop because I bought some, like, literally within the first five minutes. I wish I would have shipped more. Sidebar, I don't know if I ever told you this. So, I had a non -zero amount. I had a material amount of. Cerebro on Solana, right? And as we all know, like, the AI kind of tokens have kind of shit the bed. So, I got"
+    },
+    {
+      "start": 4043.48,
+      "end": 4073.78,
+      "speaker": "SPEAKER_00",
+      "text": "in, like, I had, like, a big position that was, like, less than even where it is now with the nuke. But long story short, the night of TGE, I was debating, like, full stacking my Cerebro, which was, like, you know, healthily in profit for a nice amount. And then just going all of it into. Into hype, right? So, I obviously had the airdrop and then I was just going to, like, full port into the TGE on the market as well. And I"
+    },
+    {
+      "start": 4073.78,
+      "end": 4104.22,
+      "speaker": "SPEAKER_00",
+      "text": "convinced myself not to because I was, like, oh, I want to have, like, a hedge where, like, you know, I still have exposure to the AI meta and, like, I'm not just, like, fully, you know, because my portfolio is going to become so heavy on hype now with airdrop. And so, I convinced myself not to. I did buy, like, on the market. With some other just, like, dry powder. But I look back and it's, like, oh. And this was at $3. So, like, my buy was at $3. Because I was literally watching the order book at launch. Like, the"
+    },
+    {
+      "start": 4104.22,
+      "end": 4134.54,
+      "speaker": "SPEAKER_00",
+      "text": "moment in time where I just saw, like, you know, there's a window there for a few minutes where it was just, like, bouncing at, like, $2 .90 to, like, $3. And, you know, it slowly went. But I think we ripped, you know, within the first few hours from $3 to $5 to, like, you know, then we're ripping past, like, $8 or whatever. But I look back and, like, holy shit. Like, if I had just, like, pulled the trigger and rode. Rotated all of it into hype at $3. But, you know, you can never, you know, second guess. But the point is I've mostly just been sitting on my hands with hype. And"
+    },
+    {
+      "start": 4134.54,
+      "end": 4164.58,
+      "speaker": "SPEAKER_00",
+      "text": "then, like, a small little, like, active trading one just to kind of, like, not stay bored. And then, of course, in the trenches and the spot tokens. I've mostly been sitting on those recently. Because, you know, I don't need to sell when the whole market's down. But I was doing the, like, taking some profit, what was it, a couple months ago when everything was ripping. I was, like, you know. Doing some risk management and gently taking some profits. But it's hard to just sit there and not do anything, right? Because, you know, we're all trying to, like, always"
+    },
+    {
+      "start": 4164.58,
+      "end": 4194.8,
+      "speaker": "SPEAKER_00",
+      "text": "click buttons. But right now, I mean, yeah, you know, comfy in spot. I think that, like, both, you know, call ourselves, like, hyperliquid maxis, long -term, you know, zooming out. And the active traders. We can both be right, right? I mean, you see people posting on the timeline calling for hype back down to $15. Like, we're in some. We're in some crazy, like, bear pennant, like, bear flack. Like, could hype, like, go into the teens again? Sure. I mean, who knows? Obviously,"
+    },
+    {
+      "start": 4194.9,
+      "end": 4225.04,
+      "speaker": "SPEAKER_00",
+      "text": "like, especially if the overall market, like, shit the bed and Bitcoin nukes back down to, like, an 80 or a 70 handle. Of course. Obviously, hype's, like, not going to be immune to that. But am I happy to, like, just be, like, the bag holder, diamond hand, like, whatever you want to call it? Like, yeah, I don't really care. I mean, I will hold it for, you know, the long horizon because if you zoom out of, like, where the fundamentals are going, you know, that's kind of, like, basically, like,"
+    },
+    {
+      "start": 4225.12,
+      "end": 4255.14,
+      "speaker": "SPEAKER_00",
+      "text": "I guess the difference between conviction and Moonboy and Copium, whatever, like, you know, there's a spectrum there. But on the fundamental, just the volume that it's doing, the value accrual back on the buybacks, you know, again, like, that's fine. Like, the news traders want to just, like. Like, sell the news with, you know, BTC, spot BTC going live, what was it, last week, and now EVM, at least the first iteration of the EVM going live. But you look at, like,"
+    },
+    {
+      "start": 4255.14,
+      "end": 4285.26,
+      "speaker": "SPEAKER_00",
+      "text": "the quality relative to the rest of the alts and, I mean, look at hype relative to ETH and SOL and Bitcoin even on those pairings. Who's at Stowe does a lot of good, like, snapshots of those. Like, the strength is obvious. So, yeah. Like, in my mental model, I have numbers. I have numbers that are, like, much, much lower on hype that I'm, like, mentally prepared for it to go to. Obviously, like, I'm not saying I hope it goes there or why I want it to go there, but, like, I'm mentally prepared for, like, much lower levels. And"
+    },
+    {
+      "start": 4285.26,
+      "end": 4315.32,
+      "speaker": "SPEAKER_00",
+      "text": "it's like, okay, at the end of the day, I'm just going to sit on my hands and, like, do nothing. And I still believe that I'll probably outperform in, like, the do nothing scenario, just, like, not taking a trade. Yeah. I mean, I did it. I do that same thing, mentally prepare myself. I was thinking about it the other day. Would I be happy if it went all the way back down? I mean, not would I be happy, but could I live with myself if it went all the way back down to the airdrop dollar amount? Would I be okay? And I'd still be okay. Like, yeah."
+    },
+    {
+      "start": 4316.3,
+      "end": 4346.64,
+      "speaker": "SPEAKER_00",
+      "text": "Like, it's a far ways down from where we're at, but it is what it is. I would just. Yeah, I mean, it's absolutely, like, each person dependent. Like, so, like, I do respect the whole, like, if you make life -changing money. Um, change your life, right? And so, absolutely, like, taking profit, especially for someone, um, that's maybe younger, doesn't have a full -time job. Like, quite"
+    },
+    {
+      "start": 4346.64,
+      "end": 4376.66,
+      "speaker": "SPEAKER_00",
+      "text": "literally, if I cashed out all my hype right this moment, like, will it, quote, change my life immediately? Like, no, like, I, I won't, like, do, I won't, like, there's not something I'm going to buy. There's not, like, some housing that, like, I already, you know, like, and you and. And I are both a bit older. And so, like, you know, I, I don't rely on my hype airdrop to, like, quote, change my life. So I'm personally, like, willing to ride the volatility because I can mark down in my"
+    },
+    {
+      "start": 4376.66,
+      "end": 4406.92,
+      "speaker": "SPEAKER_00",
+      "text": "head, like, the value of it. And I, that's not like, that's going to be fun or enjoyable and I want to, right? Like, hell no, I don't want to, but, um, but for those that are like, holy crap, like I made life -changing money on this airdrop or, or whatever, um, or maybe they just bought it early. Maybe they're just like a swing trader. And they just like apes like super early on. Um, yeah, they're going to do that. But, um, I'm like with you and others, it's like, you think about it's all relative trade. Like, is there another asset? Like, would I rather"
+    },
+    {
+      "start": 4406.92,
+      "end": 4437.08,
+      "speaker": "SPEAKER_00",
+      "text": "be holding it coin right now? Um, personally, no. Like, okay. Would I rather just be completely stabled up and trying to like, wait for the entire market to nuke and then like, okay, I'm going to buy soul sub a hundred dollars and eat, you know, so a sub like $1 ,500 or something like that. Yeah. Like I still, no, I'd rather just run with, and the last point I'll make is the absolute, like worst max pain would be stabling up out of like hype, let's say like"
+    },
+    {
+      "start": 4437.08,
+      "end": 4467.2,
+      "speaker": "SPEAKER_00",
+      "text": "the majority or significant amount. And then sitting on like the sidelines for it to like make its next parabola up and be like, like, cause I was trying to like get cute and time the market. Yeah. I think like, oh shit. I think that would kill me more for sure. A hundred percent back down. Yeah. I think that would kill me more for sure. We've dedicated like, you know, obviously the time we've dedicated gaining edge. Um, I was listening to a space with like a well -known trader. He had like, um, a couple of like a week"
+    },
+    {
+      "start": 4467.2,
+      "end": 4497.38,
+      "speaker": "SPEAKER_00",
+      "text": "or so ago. And there was someone who was talking about hype and his kind of like this trader's perspective. He, and he's like an active trader and he's very profitable, but he's active. Like we not usually like holding risk on his book. And he was kind of like, yeah. I mean, like, could it go up? Sure. Like, of course it could, like, could go down. It's like, it's not for me. Cause like, I don't have like a view on that or like edge. And it's like, and for a normal person, like you gotta ask yourself, like, do you think you have edge, like holding this asset versus the"
+    },
+    {
+      "start": 4497.38,
+      "end": 4527.96,
+      "speaker": "SPEAKER_00",
+      "text": "normal, like marginal buyer? Um, I think personally, like for, for those of us that have been deeply into the hyper liquid ecosystem and know like the microstructure of. The builders, the developments, like things that are happening, like, yeah, I do think we have edge. Cause I think we have like our finger on the pulse of when things are gonna happen. Sentiment, like major developments are like stupid"
+    },
+    {
+      "start": 4527.96,
+      "end": 4558.2,
+      "speaker": "SPEAKER_00",
+      "text": "shit. Like the people that were plugged into Solana, like that's when, like when Solana like nuked, right. And people full ported, I think one of the heuristics they used was like people that knew that like, there was a ton of developers still. Actively building on the SVM. And they're like, I don't care that sold nuked down to sub $20. There's still a shit ton of people building. And at the end of the day, if you have an active, like developer ecosystem and theory, they're building apps and products that people want to use. And if people are using it, then they're gonna like"
+    },
+    {
+      "start": 4558.2,
+      "end": 4588.54,
+      "speaker": "SPEAKER_00",
+      "text": "allocate, you know, value and capital. So I think if you're active in, in hype, you know, the hyper liquid ecosystem and you know, the like, Hey, we got like, you know, Aaron and, you know, from Felix and like actively building and like, you just like, yeah. Are paying attention to what's going on. You know, that there is bullish divergence where like price is going to be reflective of the marginal buyer and the marginal, marginal seller. But like, if you're zooming out for weeks and months or whatever, is it reflective of,"
+    },
+    {
+      "start": 4588.62,
+      "end": 4618.6,
+      "speaker": "SPEAKER_00",
+      "text": "you still have an army of projects, builders, ecosystem, you know, ecosystem, like participants that are putting in like equity, like time equity and financial equity into the ecosystem. Then you do have. Like continuing to hold the asset and, you know, having the long -term conviction. So that's kind of like my personal take on like why one would be any smarter than another. Just like say, oh, I want to hold this because I, I'm like bullish. Like why? Cause you're bullish. Cause people like are bull posting on the timeline."
+    },
+    {
+      "start": 4618.8,
+      "end": 4649.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like that is not a reason to, there are a lot of like KOLs, if you will, that are very vocal about pipe. And that is truly organic because like hyper liquid has literally zero marketing budget and zero. Like deals with KOLs, but that shouldn't be someone's like only reason, like just because, you know, your favorite KOL is still bull posting, like, you know, get inside, like the trenches, pay attention, get into like the discord, get into the telegram chats, like, you know, listen on spaces and then you'll see like, Hey, if"
+    },
+    {
+      "start": 4649.0,
+      "end": 4679.16,
+      "speaker": "SPEAKER_00",
+      "text": "there's still activity and then you can pay attention to that and not just like worry about what the one hour charts doing. Yeah. Yeah. I mean, the fact that the staking rewards has a source button that you can click and, and sort it, I think gives us an edge. I mean, cause that just means that there's going to be rewards coming from other places yet that we don't even know. I mean, we still don't even know what the insurance assurance fund is going to be used for. Um, there was still tokens set aside for community, um,"
+    },
+    {
+      "start": 4679.46,
+      "end": 4710.5,
+      "speaker": "SPEAKER_00",
+      "text": "whatever initiatives or whatever the wording was. Do you, do you think there is the secret airdrop for perps spot? And now that UVM is live. Do you think there will be incentivized, um, even if they don't call it points? Cause I think technically the team is on record in the discord saying points are over, but do you think there will be hype emissions or, um, usage of, uh, I think, yeah,"
+    },
+    {
+      "start": 4710.72,
+      "end": 4740.66,
+      "speaker": "SPEAKER_00",
+      "text": "yes. I think that there is going to be some retroactive retroactive rewards for staking. I just, I feel it. Um, and then as far as. Usage of the VM side, I don't know, um, it's hard to say because I know I've seen a few different projects, protocols coming out that are with their own point system or whatever. And I don't know how much farming can you do farming on top of farming on top of farming? I don't know. I"
+    },
+    {
+      "start": 4740.66,
+      "end": 4771.36,
+      "speaker": "SPEAKER_00",
+      "text": "don't know. The grants are pretty low and I actually like that. Um, that the grant is, uh, um, like that, that a very small. Yeah, ecosystem grants, but I mean, if you think about it, like, yes, you want builders to come and you want to reward them, but you don't need to make them rich to start. Like you want to fund them. You want to give them money to pay their bills, to pay their rent, to pay their electric,"
+    },
+    {
+      "start": 4771.54,
+      "end": 4801.62,
+      "speaker": "SPEAKER_00",
+      "text": "to buy themselves food and whatnot, so they can stay home and work and build the projects. And then they reap the rewards of what they built and whatever down the line. Like, that's how. It should be done. It's merit based. Well, I mean, I think that's a builder codes unlock. I think that by having builder codes and if you're building on the EVM in like, it goes back to what we were talking about with, with Aaron, um, in theory, is there like,"
+    },
+    {
+      "start": 4801.7,
+      "end": 4831.7,
+      "speaker": "SPEAKER_00",
+      "text": "if I'm just, if I have a project and it is completely like, um, isolated from having to make any interaction with. The hyperliquid L one with the order book for purpose or spot, is there like a super compelling argument on why I should launch on a hyperliquid versus Ethereum, arbitrage, Monad, bear chain, et cetera, et cetera, et cetera. Um, I mean, maybe like if you, if that's obviously where the mind shares and the activity is sure. Um, but that's obviously"
+    },
+    {
+      "start": 4831.7,
+      "end": 4861.96,
+      "speaker": "SPEAKER_00",
+      "text": "a much like flimsier argument to make, as opposed to if you're a builder and you want to tap into trading, that's ultimately happening on. The spot or purpose order book, like now you have, um, a huge, you know, kind of like, uh, economic, like universe to tap into with all the trading that's happening on, on purpose and spot. Like, like we're talking about, you know, Athena, like can just natively execute"
+    },
+    {
+      "start": 4861.96,
+      "end": 4892.16,
+      "speaker": "SPEAKER_00",
+      "text": "on hyperliquid order book and then the EVM for, you know, their, their contracts. But point is the builder codes, which allows. Any protocol that's routing order flow through the order books. That's how that they can recoup, you know, like value aside from, yeah, they have their native token and they like make money that way. Cause their native token goes up in value. But I think that that's a differentiating factor versus a traditional"
+    },
+    {
+      "start": 4892.16,
+      "end": 4922.24,
+      "speaker": "SPEAKER_00",
+      "text": "like EVM based chain where they're like, oh, well, how are we going to incentivize builders? We need to give them some of our native token. Like the gas token in the form of a, of a grant to, to lure them into building on our chain. I think what's interesting about hyperliquid is like the way we lure builders is that we tell them, look, you can take, you know, bips of fees for every trade that you can get routed through your protocol that goes"
+    },
+    {
+      "start": 4922.24,
+      "end": 4952.42,
+      "speaker": "SPEAKER_00",
+      "text": "to the order book. Like you can get a fee off of that and it's merit based. Like if you've got a killer app or project that gets a lot of orders. And it doesn't have to just be for traders, like there's all this, like these use cases, there's ways to gamify and like do things where the users are, you know, interacting with your, your project and your project is under the hood, routing trades to the order book and then taking a fee through the builder codes. Like, I think that's a way that hyperliquid really attracts new builders, but of course we"
+    },
+    {
+      "start": 4952.42,
+      "end": 4982.46,
+      "speaker": "SPEAKER_00",
+      "text": "got to get this full feature set, you know, the tooling, there's some things that are different, right. With the two, the, the two block, um, small blocks and big blocks that like, I think. Builders have to get kind of more accustomed to, so it's not going to be like a straight line. Like, you know, they're given a silver platter, like here you are, everything's like ready for you day one. But I also liked it. Hyperliquid is like, look, I mean, we want all the builders here, but like, yeah, you're going to have to build along with us. Some of this stuff, like we're inventing novel tech as we go."
+    },
+    {
+      "start": 4982.54,
+      "end": 5012.46,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. I don't know how much you've like explored Cosmos ecosystem, the different L ones there and whatnot, but you know, most of those chains, they give out grants, you know, like candy, um, they pay their friends and then their friends get paid on every single chain. I mean, they just port their, the same thing over to the next chain, get another grant, next chain, get another grant. And then they pretty much just let the other ones just, you know, once they've built it, made it, they'll give it a few"
+    },
+    {
+      "start": 5012.46,
+      "end": 5042.62,
+      "speaker": "SPEAKER_00",
+      "text": "months of, uh, support or whatever you want to call it. But you know, it just kind of falls to the wayside, but yet it doesn't really matter. Yeah. Cause they already made their money, uh, they're set, they're good and it's unimportant to them. At least here, the way that they're doing it, it incentivizes the developers to continue, you know, continue building, continue expanding, continue its success to, to line their pockets in a way. Um, so,"
+    },
+    {
+      "start": 5042.64,
+      "end": 5072.68,
+      "speaker": "SPEAKER_00",
+      "text": "you know, it's. Yeah. I mean, I didn't, I never used Cosmos, um, very heavily. I mean, but I did, I was very active with the. Arbitrum short -term incentive program. What was that back in like late 23 or early 24, 23 already. Jesus, I think it was 23. Yeah. So, so I was very active, um, on farming and then like also, um, kind of like, you know, advocating for certain projects to like get the"
+    },
+    {
+      "start": 5072.68,
+      "end": 5102.68,
+      "speaker": "SPEAKER_00",
+      "text": "votes. Cause you had to, you know, get the governance vote and whatnot. Um, it was a whole deal. And so, but like probably a similar thing. You'd see. Like this massive wave of mercenary, you know, capital and, and builders coming along because they want to get their STEMI check and it was great, but like, is it, um, you know, uh, is it like lasting, right. Um, uh, once like you, you can see the TVL, it was like crazy. Like some of these, cause"
+    },
+    {
+      "start": 5102.68,
+      "end": 5132.92,
+      "speaker": "SPEAKER_00",
+      "text": "I, I would try some of this on Dune, um, like to the day, the second, the short -term incentive program ended. Like the TVL. Would just be fucking God's like parties over lights are on, like it's a ghost town. Right. It was kind of crazy. So I do think that, um, in theory, if hyperliquid is going to have a very, very light touch on any, um, grants of like hype. And it's more about like, no, like the way you get paid is building protocols that"
+    },
+    {
+      "start": 5132.92,
+      "end": 5163.06,
+      "speaker": "SPEAKER_00",
+      "text": "people want to use. And again, you can tap into our, you know, fee model, which is like on -chain. This is all freetask. That's obviously going to be much more, um, kind of like, uh, sustainable. So you know, we gotta see. And, um, this is day one of EVM still. So it's like we do these spaces. How long are we doing these spaces now? It's been like nine months or a year. I can't remember the first one. Um, I don't"
+    },
+    {
+      "start": 5163.06,
+      "end": 5193.5,
+      "speaker": "SPEAKER_00",
+      "text": "know. I'd have to look Good amount of time though. Like nine months. But like we started this fucking about half a month ago, uh, Dean was like 10 months. early days of like points yeah speculation so it'll be really interesting you know we zoom out and we do one of these spaces and we're like all the shit we were talking about day one of evm and like oh you know like pre -compiles weren't even live yet and it's cool to see right yeah i mean we've been pretty i think we've been pretty spot on in"
+    },
+    {
+      "start": 5193.5,
+      "end": 5224.36,
+      "speaker": "SPEAKER_00",
+      "text": "our guesstimating work you know and what we're we're thinking and seeing and whatnot i don't feel like we've been too far off um that's because the team has a good mind and i feel we both have decent minds for the eight people listening in the audience we're trying to tell you there's actionable alpha um in these spaces you know you you could make uh you know retire your bloodline all of"
+    },
+    {
+      "start": 5224.36,
+      "end": 5254.74,
+      "speaker": "SPEAKER_00",
+      "text": "the alpha that we are just you know we're have our crystal ball but hey talking about retiring my bloodline what's going on with tilt a lot man yeah i'm a holder there let's what's the deal with this launch is it coming absolutely yeah i mean so obviously like i am uh you know on the tilt advisory board um we got a pretty base crew so like for those that don't know um tilt is a currently in"
+    },
+    {
+      "start": 5254.74,
+      "end": 5285.64,
+      "speaker": "SPEAKER_00",
+      "text": "its current well i hate to say just like sniping but it is a trading layer on top of hyper pump fun right so it's meant for the hyper pump trenches um idea being it's an extension an extension you have on while you're in hyper pump and you're going to be able to automatically buy new hyper pump launches so you can call it sniping because like it'll literally detect the second a new launch goes live and just like auto buy and you can even have like a limit um"
+    },
+    {
+      "start": 5286.72,
+      "end": 5315.72,
+      "speaker": "SPEAKER_00",
+      "text": "and you can just trade obviously hyper pump normally but that's not kind of what brought me to them early on like when i did a little bit more like background vetting on steady the dev um he's pretty goaded he's actually deployed multiple contracts on the hyper evm testnet in fact evm is like probably more of his wheelhouse but he's a full stack dev um and it's done a bunch of apps so i knew that like tilt basically had a lot of different directions it could go in and so yeah right now it's focusing"
+    },
+    {
+      "start": 5315.72,
+      "end": 5346.8,
+      "speaker": "SPEAKER_00",
+      "text": "on being like a trading layer on top of um hyper pump but now that evm is fully live like there's a lot of different directions i think you can go uh we bonded last week so tilt officially won the uh one of the hip auctions so the ticker tilt um will soon be live to your question when my again as an advisor my advisement was no need to rush into it spot market's dead um it's like"
+    },
+    {
+      "start": 5346.8,
+      "end": 5376.82,
+      "speaker": "SPEAKER_00",
+      "text": "wait until there's more activity on on spot before going live um but now that we're seeing the evm go live and you know there's gonna be more kind of like hopefully um i don't know momentum and activity um i think soon would make sense but there's a lot of tickers that you know they secure the ticker they don't go live um and really like working i mean even today like talking to study about"
+    },
+    {
+      "start": 5376.82,
+      "end": 5407.06,
+      "speaker": "SPEAKER_00",
+      "text": "like how to start integrating the real goal is to integrate a little bit deeper directly with h fun um and lorical and do some interesting things um obviously i don't want to speak out of turn on like some of the ideas but you know i was like put this way i was a day one user of h fun like i i've said this publicly before i literally bought h fun at 12 cents i sniped h fun with the h fun sniper um i was you know a day one user of a lot of these early things and so when i and i"
+    },
+    {
+      "start": 5407.06,
+      "end": 5437.24,
+      "speaker": "SPEAKER_00",
+      "text": "still hold my h fund i mean obviously i've sold of course but i still you know hold a very healthy amount um and so a lot of these projects are just like i like to talk to the team like we talk to aaron and like get to know them and see like what they're about and then if i think the team is credible and like i'm zooming out some of it's like i don't even know about the product you're building right now but like what like i could see the directions you're going long term and that's kind of my thesis with tilt i think that you know there's and projects"
+    },
+    {
+      "start": 5437.24,
+      "end": 5468.32,
+      "speaker": "SPEAKER_00",
+      "text": "that could go a lot of different directions in hyperliquid overall and so um we know that there's a lot of interest trading some of these pre -market tokens even though that like is obviously waned recently um there's going to be peaks and valleys with like the pre -launch market and hyper pump um but i think tilt is the best product to like interact with the hyper pump trenches and now that evm is live i think we're going to see some interesting stuff that tilt may may"
+    },
+    {
+      "start": 5468.32,
+      "end": 5498.36,
+      "speaker": "SPEAKER_00",
+      "text": "tap into and uh yeah tilt ticker i think soon pbr um but you know it kind of there's a bit of timing of like you know there's two products there's like the actual product and there's like the token as a separate product and there's you know yeah like strategy around like when to throw it out there but you know be mindful too and transparent like when someone buys a pre -launch token once that bonds and wins the auction the user is going to cannot trade it on the"
+    },
+    {
+      "start": 5498.36,
+      "end": 5528.86,
+      "speaker": "SPEAKER_00",
+      "text": "hyper pump bonding curve anymore until it goes live that's the mechanics that how laura set it up and yeah so obviously mindful that some people like hey like you know like i can't trade anymore so when do we go live on uh on hip too yeah i mean i full ported into it so i need some money okay so funny enough again transparently i'm an advisor like i bought everything off the curve myself and i'm actually you know underwater a bit because i was like full porting not full porting but i was like obviously you know punting um"
+    },
+    {
+      "start": 5528.86,
+      "end": 5560.1,
+      "speaker": "SPEAKER_00",
+      "text": "it had a pretty big rip when like a lot of spot was going off and then um the pump trenches kind of fell off a bit and like dip back down and then it had another rally so i have been exit liquidity for many others i'm happy to say that you know i'm not using i i'm like verify verifiably like other people's el so uh you know full disclosure i'm back holding but yeah i think i think i bought around like 40 cents or something okay dude my basis is like well"
+    },
+    {
+      "start": 5560.1,
+      "end": 5592.98,
+      "speaker": "SPEAKER_00",
+      "text": "above that brother well above that yeah or fish what's going on you came up yeah have you guys seen these fish rising to the surface the or fish and the angler fish amazing dollar angler fish dollar or fish is this the new meta fish doom fish spelling the end of time rising to the surface with a new video i haven't seen it never before seen angler fish on tiktok it's a big thing i have not seen it no well you"
+    },
+    {
+      "start": 5592.98,
+      "end": 5622.99,
+      "speaker": "SPEAKER_00",
+      "text": "can check out my pin tweet but yeah this angler fish is this bony fish from the deep it's never been seen on video but now they saw it they got video of it rising up a week ago this is a tiktok thing and then we got or fish also nice i'll check it out all right what are you aping on nothing what are you aping on yeah what's hot on the solana trenches i've been out the game i saw these fish this isn't"
+    },
+    {
+      "start": 5622.99,
+      "end": 5653.41,
+      "speaker": "SPEAKER_00",
+      "text": "a solana space what kind of space is it i don't know man all right mogi let's wrap it up what do you think you don't know what kind of space it is you guys talking about dollars from from wharton grad to shilling or fish on a hyper liquid yeah of like 10 people i did yeah i did see that angler fish though that's pretty wild i uh brother"
+    },
+    {
+      "start": 5653.41,
+      "end": 5683.97,
+      "speaker": "SPEAKER_00",
+      "text": "if you're a grad if you if your parents knew that you really got your mba from wharton and you're shilling fucking or fish on a hyper liquid space of 10 people money well i don't know that's not like that may not be the bottom but the fucking bottom is not very far away man but all right yeah maybe we should call it i don't know it's been uh you know a good little session um i think uh yeah"
+    },
+    {
+      "start": 5683.97,
+      "end": 5714.09,
+      "speaker": "SPEAKER_00",
+      "text": "like the thesis remains unchained right like um yeah i actually i'll take the view that i like that i think the evm rollout has been maybe more subdued right in terms of like what people can do obviously like price action activity um you know it almost i almost you know kind of safe keeps users as well you know today they learn today they learn how to send"
+    },
+    {
+      "start": 5714.09,
+      "end": 5744.31,
+      "speaker": "SPEAKER_00",
+      "text": "money over to the evm side and send it back and send it over you know they get that down i i like that i like that i like that i like that i like that i like that i like that i like that yeah yeah and like i like the hyper liquid having the chip in the shoulder like mentality like the small like it was getting a little wild when i mean look the timeline is still very bullish hyper liquid but there was a while there where it's like so consensus on hyper liquid that is it got fucked like we were here since the beginning right"
+    },
+    {
+      "start": 5744.31,
+      "end": 5774.51,
+      "speaker": "SPEAKER_00",
+      "text": "when you know it wasn't even very obvious like what hyper liquid was right um so i guess the point is you know we've had some fud you know like things have gone quieter in the spot market um again hype the token has been fucking holding up amazing like the range ranging is winning right now like if you pair it against other you know majors like the 22 to 28 range is like that's winning in this market but yes i'm fine with it like"
+    },
+    {
+      "start": 5774.51,
+      "end": 5805.21,
+      "speaker": "SPEAKER_00",
+      "text": "being a little bit quieter a little bit more subdued um before you know the next rally the next parabola and the kind of like no pun intended hype wave hits us yeah i mean even slowing it down it slows down just the scam deployers that come in you know the the projects that drain you you know because they don't want to sit around and wait if they can't do it on the scamming last thing like on the scamming we even talked about so did anyone post what like jeff"
+    },
+    {
+      "start": 5805.21,
+      "end": 5835.65,
+      "speaker": "SPEAKER_00",
+      "text": "and the team are so based they did not list libra perp correct now yeah no so like they're fucking like what i don't know what algo and what vetting they have but like look i mean sure they listed melania but like the tokens that they're and they listed like jelly but like maybe some that are fringe but like not outright rugs i mean it gets dependent on someone's perspective um i think like some of them are flops but still the fact that they did not list libra you"
+    },
+    {
+      "start": 5835.65,
+      "end": 5865.69,
+      "speaker": "SPEAKER_00",
+      "text": "know bullish they probably had their finger on like the trigger maybe like kind of monitoring like is this real is this not like how like you know valid is it but um i don't know i thought that was yeah i don't know how they do it i don't know how they do it i mean i think um could have been listed uh way earlier but it's listed now and that's fine um i don't know that's the rwa token that's like apparently like ripped like a thousand x and it's like some big saudi rwa token right yeah the what"
+    },
+    {
+      "start": 5865.69,
+      "end": 5896.09,
+      "speaker": "SPEAKER_00",
+      "text": "is that manta yeah is that but that's the ticker right the tickers alone yeah yeah yeah yep yep yeah yeah yeah i don't know too much about it i think i have some somewhere or i'm getting dropped somewhere sometime i think i don't know it doesn't matter it is what it is but another good space man uh enjoyed it thoroughly aaron thanks to he's gone but that was great for him to come on give us a different point of view you're saying we are we gonna get dixari"
+    },
+    {
+      "start": 5896.09,
+      "end": 5926.27,
+      "speaker": "SPEAKER_00",
+      "text": "on next week no yeah i was talking to him at eath denver is next week so one of them's not gonna be there they're gonna be pretty busy and they are heads down they're ready you know they want to launch as well um but we'll get some other teams yeah we can get i'm sure we can get um like i probably could get the farm keeper on with the farm i could get probably we can get hypeo back on here maybe yeah we can get omni on"
+    },
+    {
+      "start": 5926.27,
+      "end": 5957.05,
+      "speaker": "SPEAKER_00",
+      "text": "here we'll be good oh for sure yeah i mean he's been i talked to him a lot he's been doing a lot of them a lot but like yeah they're definitely heads down with um kinetic getting uh maybe ness with uh hyperland would be a good one yep yeah so i mean cool like now that evm is live and these protocols are actually able to go live um it would be really cool to turn these spaces into more of like the qa with actual teams and like getting to know more about the products because you know for the longest time obviously like"
+    },
+    {
+      "start": 5957.05,
+      "end": 5986.75,
+      "speaker": "SPEAKER_00",
+      "text": "it was just test that type stuff yeah i mean our takes on things as well but you're right i mean let's get some people in here and uh i mean that's what we want to do we want to learn these products and uh protocols they got coming out and ways that we can work in right ways that we can make money or lose money generational uh yeah so all right dude until we talk again yeah man much appreciated and uh talk soon all right thanks everybody"
+    }
+  ],
+  "speaker_map": {}
+}

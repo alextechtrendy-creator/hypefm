@@ -1,0 +1,722 @@
+{
+  "space_id": "1ZkKzYnZMRRxv",
+  "language": "en",
+  "duration_seconds": 3841.1306875,
+  "chunks": [
+    {
+      "start": 239.63,
+      "end": 270.11,
+      "speaker": "SPEAKER_00",
+      "text": "All right. Good morning. Good morning. Big crowd today. Big, big, big crowd. Huge. We already got a request, though. Do we start? Do we? Oh, I got a beat after me. Hyper. That's cool. I just missed it. How you doing, Mogi? Good, man. How are you doing? Good,"
+    },
+    {
+      "start": 270.13,
+      "end": 300.22,
+      "speaker": "SPEAKER_00",
+      "text": "good. I can't complain. It's nice weather. It's nice weather. Market's greenish. What else is there? Spring is sprung. Yeah, man. No idea. No idea. Is it this month, maybe? I don't know. It"
+    },
+    {
+      "start": 300.22,
+      "end": 330.49,
+      "speaker": "SPEAKER_00",
+      "text": "could be. It could be next month. I have no idea, man. I don't think it's a priority, honestly. Yeah, I'm waiting for too long weather for Hyper and NFT. Yeah. I don't know what to tell you there. We'll get them when we get them. Yeah. What's going on on the Hyper Liquid right now? What's the trending, brother? Well, they just had an announcement today"
+    },
+    {
+      "start": 330.49,
+      "end": 360.65,
+      "speaker": "SPEAKER_00",
+      "text": "for HIP3. I'm going to need Mogi to break it down for me. Yeah. Mogi, you're up for the task. Yeah. I see everybody's excited about it. Yeah. Sorry, I am doing my normal driving situation and my signal hopefully doesn't cut out."
+    },
+    {
+      "start": 360.71,
+      "end": 390.69,
+      "speaker": "SPEAKER_00",
+      "text": "Let me know. Yeah, no worries. Should be good. So, yeah, HIP3. It's kind of exciting, man. I don't know. Another HIP. It's been a while since... Because HIP1 and HIP2 happened at the same time, basically, like when they created Spot, right? Right. And that was... Shit, that was May of 24, about when Spot went live,"
+    },
+    {
+      "start": 390.79,
+      "end": 421.09,
+      "speaker": "SPEAKER_00",
+      "text": "right? The HIP actually probably was April, like when they first announced this whole concept. I feel like per drop was a year. I saw somebody posting about it. It's been a year since that was dropped. Okay. So, you know, it was somewhere in there. Yeah. So, HIP3 is going to effectively make it permissionless for perps to be created with"
+    },
+    {
+      "start": 421.09,
+      "end": 451.15,
+      "speaker": "SPEAKER_00",
+      "text": "some major caveats, which I think are good, too, because when I first was reading through the announcement, I was like, what? Like, thinking through, like, practically how this would work, but effectively, you're going to need a very, very large amount of HIP to be able to deploy a perp market, a million stake type, which obviously is, you know, tens of millions of dollars currently. And"
+    },
+    {
+      "start": 451.15,
+      "end": 481.29,
+      "speaker": "SPEAKER_00",
+      "text": "then there's also an auction, just like there is for Spot tokens. The wrinkle here is that the Spot... Sorry, that the auction price is in HIP, not USDC. So, that'll be a... Yeah. Yeah. Yeah. Another token sink for HIP, right? Where you've got to spend... I mean, it'll be really interesting to see. So, I'll just jump to the punchline. Yeah. This is going to be... Like, just give me an example. Because, like, right now, I'm just picturing somebody creates a token"
+    },
+    {
+      "start": 481.29,
+      "end": 511.53,
+      "speaker": "SPEAKER_00",
+      "text": "and they're like, oh, well, I want to be able to, you know, leverage trade it. So, they're going to go and go around and do this? Or is this, like, something where HyperLiquid's used in the back end? Or, like, it's already perp decks used in the back end of someone else? Is that... Which one is it? Well, I mean... So, the answer is... Yes, HyperLiquid is used in the back end. I mean, the way they're framing it is they really are,"
+    },
+    {
+      "start": 511.71,
+      "end": 542.96,
+      "speaker": "SPEAKER_00",
+      "text": "I think, looking for this to be a way to just simply utilize the technical stack for HyperCore order books. Right. So, the obvious question comes along of... I think you're cut now. So, check, check. Yeah, I got you. I think there's a lot of questions that come about. One of the first questions, of course, is going to become, okay, well, does this mean that HyperLiquid,"
+    },
+    {
+      "start": 543.02,
+      "end": 573.1,
+      "speaker": "SPEAKER_00",
+      "text": "the... Let's just call it... Okay. Let's say HyperLiquid Labs. Because, obviously, things start to get, like, really kind of, like, confusing all the different entities. Or, really, I mean, they probably would prefer it's not HyperLiquid Labs. Okay. To be clear, I bet, you know. Yeah. If they were listening anonymously, it's HyperLiquid Foundation. So, who lists a spot... I'm sorry, a perp market right now? Let's use an example of one. They... Well, it's one they listed recently. They did..."
+    },
+    {
+      "start": 573.72,
+      "end": 603.5,
+      "speaker": "SPEAKER_00",
+      "text": "Ironically, they listed Hyper because it's, like, HyperLane. It's, like, how confusing is that going to be? But there is Hyper... Hyper... For HyperLane, which just recently added, I think, Zora. They added a Zora perp. So, let's take an example of Zora, right? Zora has got a lot of attention because they are doing this thing on base where they're tokenizing content. Top of mind. And the game for perps, obviously, is to capture volume. Like,"
+    },
+    {
+      "start": 603.5,
+      "end": 634.12,
+      "speaker": "SPEAKER_00",
+      "text": "as a perps protocol, you make money by listing assets that are high in demand, i .e. generating a lot of trading volume. That trading volume generates fees. The fees go back to buying, in this case, hype and redistributing that value back to the community. So, HyperLiquid Foundation is"
+    },
+    {
+      "start": 634.12,
+      "end": 664.62,
+      "speaker": "SPEAKER_00",
+      "text": "currently the sole curator of all perp markets. And that's not going to go away, in my mind. And, like, all the big... Major perps that you can think of that should be listed, I think that HyperLiquid Foundation will continue to be the curator and listing source of those big ones. For smaller, more niche perps,"
+    },
+    {
+      "start": 664.74,
+      "end": 694.62,
+      "speaker": "SPEAKER_00",
+      "text": "what HIP3 is doing, in my mind, is opening up a way for those to also be added without relying on HyperLiquid Foundation. I didn't... Because, right now, it's very much like they say, hey, if there's, like, you know, a less obvious token that's in demand that you want listed, you know, go to the Discord and by community... Like, it's always by community request. Now, that's not going to go away. Like, there will still be community requests that, like, lead HyperLiquid Foundation to list"
+    },
+    {
+      "start": 694.62,
+      "end": 724.78,
+      "speaker": "SPEAKER_00",
+      "text": "new markets. But let's use, actually, here, very much, like, the most, like, obvious one case in point. MOG. MOG token has been, like, wildly... Yeah. ...wildly requested to be added. Now, my understanding is the reason it hasn't been added is because it actually is... There's some technical pain in the ass stuff, because the units of MOG are, like... Isn't it... I don't know if it's the decimals. I don't even own MOG. But it's, like... It's a million -something. It's, like... Basically, it doesn't"
+    },
+    {
+      "start": 724.78,
+      "end": 755.02,
+      "speaker": "SPEAKER_00",
+      "text": "conform to the normal, like, I think, token denominations. And so, it's a pain in the ass. So, like, with Pepe, it's, like, KPepe, which means, like, each... Yeah. ...unit of the asset is, like, 1 ,000 Pepe, because, obviously, these are, like... We're talking, like, you know, very small, like, when you buy Pepe, you're buying, like... What is it? Billions of Pepe, normally, for just, like, you know, $1 ,000 or whatever it is, because how they, like, set the supply, right? I"
+    },
+    {
+      "start": 755.02,
+      "end": 785.64,
+      "speaker": "SPEAKER_00",
+      "text": "think MOG is even weirder. It's, like... It'd have to be, like, MMOG. It'd be, like, millions of MOG units. So, it's a pain in the ass. Point is... HIP3 creates a way for non -hyper -liquid foundation users or entities to create purpose markets, right, and free up, you know, hyper -liquid"
+    },
+    {
+      "start": 785.64,
+      "end": 815.7,
+      "speaker": "SPEAKER_00",
+      "text": "labs and foundation from being the sole kind of final voice on what markets exist. So, now... Yeah. So, with that come, kind of, all these caveats of, like... So, the first thing you would ask is, you know, when I was reading the announcement in real time, it's, like, a lot of questions flooded. You're, like, well, hold up, hold up. Like, these markets have to be stable. They are going to be super fringe. They could be subject to exploit. Is HLP going to be market -making these? Like... Yeah. Like, what if someone"
+    },
+    {
+      "start": 815.7,
+      "end": 845.8,
+      "speaker": "SPEAKER_00",
+      "text": "just... Yeah. And so, I think the answer is, like, no. I'm almost... I'm probably very confident that HLP intends to... Not at all. Yeah. ...to, like, or very, very lightly quote these new permissionless HIP3 purpose markets. Because obviously someone could just, like, spin up some shitty, like, coin that they control the majority of, completely inflate or deflate the price, have HLP market make it"
+    },
+    {
+      "start": 845.8,
+      "end": 877.58,
+      "speaker": "SPEAKER_00",
+      "text": "and just eat, like... That's not going to happen, right? Yeah. We've learned, like, you know... But, I mean, you do see in there that, you know, they have to have the, what, 1 million hype staked. So, then... Yeah. So, that's the first... And then, yeah, if there's some kind of malicious happenings with it, I guess it's the... Slash it. Yeah. It falls down to the validators. They can vote to slash it. And so, a million hype is... I don't know. Carry the two. It's a good amount of money. So, I guess you're kind of protecting yourself there, but, like, I just... I"
+    },
+    {
+      "start": 877.58,
+      "end": 909.2,
+      "speaker": "SPEAKER_00",
+      "text": "don't know. Yeah. Like, I don't get it. You're not excited about this. I don't... I don't get it. Like, I don't... Just a token, one listing, you know, to pay all that and to list your token to be traded with some leverage, like, I don't get it. So, you don't get it from the who is going to... Benefit. ...do this, or... Right. ...you don't get it from the Hyperliquid's perspective? Right. Like, I can understand Hyperliquid wanting to provide that service, I guess, but I don't see who is going to do it. I"
+    },
+    {
+      "start": 909.2,
+      "end": 939.38,
+      "speaker": "SPEAKER_00",
+      "text": "think it's going to be... So... So... So, the short and most obvious end state of all this is that it becomes a commoditized service. So, it's going to be, like, it's going to be aggregating state type, like, no, no one is paying $30 million, like, no one's buying $30 million worth of height to get their token listed as a part market. Right. Like, point blank. That's not happening."
+    },
+    {
+      "start": 939.38,
+      "end": 970.98,
+      "speaker": "SPEAKER_00",
+      "text": "Like, that does not happen. You would... You could do that. I mean, I think it does cost a few million or whatever to get a finance, but those are for spot listings, I believe. So, point is, yeah, obviously, that makes no sense. No one's paying that much money just to get a purse. What absolutely I think we will see is liquid staking, unlocking... Like, maybe I would say this is huge for Kinetic. Like, projects like Kinetic, this is absolutely massive. I mean, I'm already, you know, like, talking to... Yeah. Yeah."
+    },
+    {
+      "start": 970.98,
+      "end": 1001.1,
+      "speaker": "SPEAKER_00",
+      "text": "Like, people involved in that project about, like, you know, there's just, like, some ideas of, like, what would that even look like? But you can imagine liquid staking. So let me give, like, a practical example. Users are already staking their height to, in this case, in this example, Kinetic, and they get the liquid K -Hype receipt token. Same thing with all these other, you know, liquid staking protocols. Right. Yeah. So, what"
+    },
+    {
+      "start": 1001.1,
+      "end": 1031.42,
+      "speaker": "SPEAKER_00",
+      "text": "isn't clear is the one million that has to be staked, is that for an EOA or can that be for a smart contract? So this entire thing has to assume smart contract, because if it was really an EOA, there was way too much trust assumptions that people would, like, effectively lend their hype out to an EOA to do this on their behalf. Like, it has to all be permissionless and, like, trustless. So imagine the one million staked hype requirement can be done through the contract. Okay. So now, in"
+    },
+    {
+      "start": 1031.42,
+      "end": 1062.18,
+      "speaker": "SPEAKER_00",
+      "text": "this example, Kinetic has a million hype in its contract that people staked for their K -Hype receipt token. And because of that, they control a large enough stake that they could launch groups. Because they have well over a million, like, let's make no mistake, like, on day one, Kinetic's going to have millions of hype staked. Right. Like, immediately. Right. Right. But"
+    },
+    {
+      "start": 1062.18,
+      "end": 1092.38,
+      "speaker": "SPEAKER_00",
+      "text": "I see what you're saying. Yeah. I mean, they'll definitely - Go ahead. Yeah. So now, it's a purpose listing, purpose creation as a service. So now, okay, now, and what's also huge about this is that the deployer determines the fees on that market and gets 50 % fee share. Right. So you've effectively opened up another vertical. Yeah. So you've opened up another vertical of fees for liquid staked"
+    },
+    {
+      "start": 1092.38,
+      "end": 1122.92,
+      "speaker": "SPEAKER_00",
+      "text": "users in addition to the other verticals of Mev and your base deal. So if you think about how does liquid staking services, like, what's the business model? You get users to stake with you so that you give them, obviously, one, like, a liquid stake token that, in theory, they can spend and do things with, as opposed to just, like, when you stake it on your own. It's, like, locked and there's nothing you can do with that capital. And"
+    },
+    {
+      "start": 1122.92,
+      "end": 1153.2,
+      "speaker": "SPEAKER_00",
+      "text": "in theory, like, if you're really good at business development, your liquid staked token can be used in lending markets and DeFi and all this other stuff. Otherwise, it's meaningless if, like, no one's using your liquid stake token. If there's nothing you can do with it, then having a liquid token in your wallet versus having just staked directly to the protocol, it makes no difference. Right? Like, the whole concept is you have to have something you can do with this liquid token receipt. Okay. Secondly, you know,"
+    },
+    {
+      "start": 1153.2,
+      "end": 1183.46,
+      "speaker": "SPEAKER_00",
+      "text": "for that service, generally, the staking service is taking a small cut. So, you know, if you're getting 2 % yield staking to Hyperliquid yourself, usually the going rate is the staking service is going to take, I don't know, anywhere between, I think it can be, like, 5 % to 20%. So let's imagine it's 10%. So instead of you getting 2 % a year, you know, you're getting 1 .8 % a year, and then 0 .2 % goes to the staking service, right? Right. But"
+    },
+    {
+      "start": 1183.46,
+      "end": 1213.56,
+      "speaker": "SPEAKER_00",
+      "text": "there's additional verticals that these staking protocols unlock. One of them is MEV. So because these staking services often are running validators themselves, they are getting MEV fees. Because basically, you know, MEV... MEV pays an increased gas fee to the node operators to get the transactions, you know, ordered in a block that they want."
+    },
+    {
+      "start": 1213.72,
+      "end": 1244.02,
+      "speaker": "SPEAKER_00",
+      "text": "Right. And liquid staking services, operating nodes, collect that MEV fee, and then pass that back to the users. So that's already a differential where if you're just staking on your own, you wouldn't have access to any of that MEV revenue. And now if we take this a step further with HIP -3, it's going to be a little bit more complicated. But if it becomes possible for liquid staking services to take their HIP and list perps, because they control"
+    },
+    {
+      "start": 1244.02,
+      "end": 1275.18,
+      "speaker": "SPEAKER_00",
+      "text": "1 million, more than 1 million staked HIP, there is a huge source of additional revenue that that protocol can pass back to the individual users that are staking it by, you know, it's crowdfunding, it helps listings. Yeah. Yeah. I had a question you may not know yet or not, or I'm not sure, but so say, you know, they meet the requirements to be able to list the perp, like, does that... That's multiple? Like,"
+    },
+    {
+      "start": 1275.18,
+      "end": 1307.88,
+      "speaker": "SPEAKER_00",
+      "text": "they can, you know, say they want to do ABC... My understanding is the way it's worded... Yeah, my understanding is the way it's worded is if you have 1 million, you can participate as a perp deployer. It's not 1 million per perp market. Per listing. Per listing. Yeah. Yeah. Because the point of the 1 million is the slashing. It's that if you list, if you create a perp that is deemed by the validators to be obviously, you"
+    },
+    {
+      "start": 1307.88,
+      "end": 1338.14,
+      "speaker": "SPEAKER_00",
+      "text": "know, extractive and basically a rug or whatever, however you want to, I mean, there's multiple ways it could end up that way, but you got to put skin in the game. Yeah. Yeah. If you're listing some scam market and you run up the Oracle price and make a shit ton of money on the perp market, like, if you have $30 million of hype staked that can be slashed, it's going to really, like,"
+    },
+    {
+      "start": 1338.14,
+      "end": 1368.22,
+      "speaker": "SPEAKER_00",
+      "text": "make the scenarios in which it would be profitable to run that, you know, that playbook pretty small. Yeah. Yeah. Yeah. What I'm picturing right now is a third party company coming in and buying up enough and whatever to do this and then bring in like the stock exchange, bring in, bring in like Tesla and Microsoft. Right. For sure. No, I mean like this is where it comes down to again, like the obvious entities that would do this would be a liquid staking"
+    },
+    {
+      "start": 1368.22,
+      "end": 1398.38,
+      "speaker": "SPEAKER_00",
+      "text": "protocol. Why? Because they already control enough stake type as the user. So basically they have a low cost of capital. Yeah. That is. And I didn't even, I didn't even think of that, but that is huge for these liquid stakers. Now the other one would be someone like unit. Why? Obviously unit is, um, listing spot tokens, but for unit to start listing perps, same thing, like they need"
+    },
+    {
+      "start": 1398.38,
+      "end": 1428.42,
+      "speaker": "SPEAKER_00",
+      "text": "to control over a million hype. Um, they may not want to underwrite. Yeah. That risk that, I mean, cause again, like to have a million hype, you are underwriting inventory risk. Like you're exposed to the price fluctuations of 1 million units of, um, yeah, of hype. So being a UBTC holder, I don't think I would enjoy that, um, risk side of it for them. Well,"
+    },
+    {
+      "start": 1428.5,
+      "end": 1458.7,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, again, it depends on like, where's the, where's the risk allocated. It's not like, right. Yeah. Yeah. It should introduce no risk to the underlying UBTC holders. It's just more of like, if you're saying like the future governance token or whatever, but like all these things have to be figured out. And again, maybe it's both of them. The answer is, you know, in this example, pure example of speculation, kinetic is sourcing the inventory of hype unit is managing"
+    },
+    {
+      "start": 1458.7,
+      "end": 1489.04,
+      "speaker": "SPEAKER_00",
+      "text": "the listing of the purpose. There's still like a lot of stuff that's happening. You have to figure out the risk parameters. The leverage ratios and all this stuff. But the point is at the end of the day, at a high level, hip three opens up a completely new vertical share crowd sourcing hype enables the listing of new perps. The listing of new perps generates revenue because the trading fees on that perp"
+    },
+    {
+      "start": 1489.04,
+      "end": 1519.08,
+      "speaker": "SPEAKER_00",
+      "text": "market go back to whoever deploys it. Yeah. And if you deployed it by crowdfunding hype from users, obviously your users are going to be expecting to take a cut of those fees. So this is huge for the concept of like decentralizing hyperliquid, the protocol, this is huge for underwriting yet another component of value accrual to hype the token, because"
+    },
+    {
+      "start": 1519.08,
+      "end": 1549.18,
+      "speaker": "SPEAKER_00",
+      "text": "right now hype, if I'm a hype holder. Yeah. I'm making money because of the buybacks that hyperliquid foundation is conducting when they list their markets and they have, and now there's a whole other cohort of markets that could exist that require hype to be secured. So it's like supply squeeze hype to be spent for the auction, which is in theory"
+    },
+    {
+      "start": 1549.18,
+      "end": 1579.22,
+      "speaker": "SPEAKER_00",
+      "text": "like a token sink. Yeah. But it actually leads to a lot of HIP HOLDers both. Yeah. Iya. Yeah. Yeah. Okay. how it just expands that's how i try and you know i try and think about it like from there like you know the 3d chess or whatever you"
+    },
+    {
+      "start": 1579.22,
+      "end": 1610.1,
+      "speaker": "SPEAKER_00",
+      "text": "want to call it like they're thinking much bigger picture like sure you know the announcement today it's great and everything and everybody you know buy some whatever whatever but like it's so much bigger than that uh like down the road as things develop in this continue to develop in this space and yeah i think that like when you see these types of things it's um anyone like people that are trading uh you"
+    },
+    {
+      "start": 1610.1,
+      "end": 1640.22,
+      "speaker": "SPEAKER_00",
+      "text": "it's it's hard to have any singular announcement by hyperliquid have something that would be like meaningfully changing the price immediately and sustained like outside of what i mean by that is like if jeff is like well the the hyperliquid team um agreed we're just gonna like burn you know 90 of our team supply and actually we're not gonna have uh hype"
+    },
+    {
+      "start": 1640.22,
+      "end": 1670.84,
+      "speaker": "SPEAKER_00",
+      "text": "tokens like that would obviously like immediately re -rate hype yeah you would have you would remove a massive source of potential future you know supply overhang yeah they're gonna burn the assistance fund yeah so there's a few things that were like hockey stick immediately and when i say hockey stick and then also you know140 Lily and um you know we"
+    },
+    {
+      "start": 1670.84,
+      "end": 1701.06,
+      "speaker": "SPEAKER_00",
+      "text": "have the thing called the Moore scheme which is like a store where you know you can buy one more thing and just sell it if you want but most of the time it's going to be like the like the product's going to be like the market price but then we have all of the these things we're gonna have to fight and who cares if like you know you have the car in this box on the floor just don't leave it like you can just leave it like the market price of this thing um i mean this thing may be a bit biased but you know like because of the like the vip of this thing in the would be like uh you know everything's basically a transaction but the more you can buy it the more you can sell it the more you can buy it and so everyone's gonna have right now i know where we are because we're on the next into the ground to support a building that's going to live for like a hundred years is like a stupid analogy yeah like those types of things the edge"
+    },
+    {
+      "start": 1701.06,
+      "end": 1731.42,
+      "speaker": "SPEAKER_00",
+      "text": "is holy shit like my view over the next 6 12 36 months on how hype can grow and like actually accrue value like the trajectory is going up yeah and so at that point you're like oh crap like now i'm doing like like it just helps you you know okay i'm gonna do more dollar cost averaging or whatever and like i can have a longer term view um but it shouldn't be like oh crap like hip three now it's like full port everything this"
+    },
+    {
+      "start": 1731.42,
+      "end": 1761.46,
+      "speaker": "SPEAKER_00",
+      "text": "moment into hype like i don't think anyone needs to do that because it's not like oh it's gonna rip like look outside of that hype even before hip three like i've been kind of like doing some like bull posting just on the charts like the price action itself has been looking really really strong yeah yeah i mean i see i stopped trading it because i'm not good enough to oh yeah i don't have to trade at all i don't want to miss i don't i just post i just post chart i don't to be clear i do not actively trade hype spot or purpose i i"
+    },
+    {
+      "start": 1761.46,
+      "end": 1792.18,
+      "speaker": "SPEAKER_00",
+      "text": "really just actively trade like bitcoin purpose or whatever but yeah i just like to bull i just post uh hype chart porn because obviously as a bag holder it's it's fun but i'm not like day trading my fucking hype yeah no no way yeah i did a little a while ago but anymore i stopped especially when we were down around that ten dollar range it's like all right i'm done like i don't care if it goes another two bucks down or whatever like i'm not i'm not messing anymore i'm not missing when it finally decides to go and uh so"
+    },
+    {
+      "start": 1792.18,
+      "end": 1822.26,
+      "speaker": "SPEAKER_00",
+      "text": "one day it will uh when people realize what they could actually do here you know some company sees it and they're like oh all right we got to start accumulating and then it's just it's just gonna go or they're gonna come in and buy it lump sum you know i mean there's like you um i just invited wrecking see if he wants to come up so not just you and me yapping but um you saw the tether uh or i guess it's what is it ust zero it's like tethers like extension of yeah yeah"
+    },
+    {
+      "start": 1822.26,
+      "end": 1852.6,
+      "speaker": "SPEAKER_00",
+      "text": "and they're so they bought usto ticker on spot and then i was hearing that athena's stablecoin is launching um diaper liquid uh i think that's gonna be the next big you know unlock too is a lot of these you know other stable coins coming so people can just more and more flow all right um of just like people getting their stables on because that's the one thing the one thing that's like really a fucking pain right now is that usdc"
+    },
+    {
+      "start": 1852.6,
+      "end": 1883.12,
+      "speaker": "SPEAKER_00",
+      "text": "isn't on hyper uvm and so um you know obviously i'm a big user of felix but like you have to take your fd usd move it over to hypercore swap that into usdc and then utilize that usdc as your collateral i think obviously getting other forms of collateral on hypercore for perks is going to be big that comes with like obviously that's to be done very delicately"
+    },
+    {
+      "start": 1883.12,
+      "end": 1913.16,
+      "speaker": "SPEAKER_00",
+      "text": "of like okay the collateral they unlock aside from just usdc has to be of value and and stable and like when you start doing all this margining logic of you don't want to say oh we're gonna like allow all these like like per as collateral for your perks position like that's how things blow up quickly um but i really would be stoked to start to see other forms of collateral that are deemed you know within the risk parameters because it really helps just like make things uh that much more"
+    },
+    {
+      "start": 1913.16,
+      "end": 1943.54,
+      "speaker": "SPEAKER_00",
+      "text": "friendly from a user to like going and like hyper uvm once once right pre -compiles go live there will be a lot of stuff where like all these different hops can be extracted away and you kind of just like basically be doing a bunch of different things moving your value back and forth between different assets while still executing perps um but you know you still have to rely on the under underlying smart contracts that that protocol is offering and um be"
+    },
+    {
+      "start": 1943.54,
+      "end": 1973.54,
+      "speaker": "SPEAKER_00",
+      "text": "mindful but we're seeing it man we're like slowly seeing bricks being added and just every week now i think we're hitting this like acceleration phase where it seems like every week more and more and more and more and more and more and more and more and more and more and more and more like tooling and options are being added to hyper core hyper evm and i think people are slowly realizing this whole like initially it was like oh hyper evm is like not even a beta like you can't do anything on it where each each week there's just"
+    },
+    {
+      "start": 1973.54,
+      "end": 2004.32,
+      "speaker": "SPEAKER_00",
+      "text": "like more composability more things that are coming online and then all of a sudden it's just gonna be the floodgates and it's gonna be like holy shit like like right now i don't really i haven't been to the salon trenches for quite a while and i it's funny like i don't even have fomo anymore if i go like house coin like i don't give a shit but um i'm pretty much doing everything and anything i would need to do exclusively on hyper liquid hyper core hyper evm yeah it's awesome like i don't ever want you know ideally"
+    },
+    {
+      "start": 2004.32,
+      "end": 2034.4,
+      "speaker": "SPEAKER_00",
+      "text": "i don't want to have to leave the ecosystem at all yeah how about you not bringing fart coin spot i'm stoked i'm gonna that's gonna be like yeah i have i definitely have a bag of coin dude i like it i'm gonna be like i'm gonna be like i'm gonna be like i'm gonna be like i'm gonna i don't know i don't have any yeah i've been underwater on that top blasted like months ago but finally it's it's close i'm i'm getting close to almost being breakeven but no i'm definitely gonna uh migrate my solano fart coin i can't i can't ever bring myself i mean i"
+    },
+    {
+      "start": 2034.4,
+      "end": 2064.52,
+      "speaker": "SPEAKER_00",
+      "text": "have in the past but i rarely buy something that's just a stupid name like it's just it's just not my thing anymore i don't i don't care if i would make money on it it's just not for me hot air rises man hot air rises it's true it's true um yeah i actually like it you know like all the unit ones have the prefix u i actually thought like in this example instead of them on the interface showing it as like they just like drop the u because you can say pdc"
+    },
+    {
+      "start": 2064.52,
+      "end": 2094.62,
+      "speaker": "SPEAKER_00",
+      "text": "and solar um should stay oh yeah i love you fart you fart is just like such a is that an amazing ticker and then i was like dude when liquid liquid farts liquid steak farts i could see it man i can see it i get omni on that one uh what else is going on uh how about that twitter hack i mean whatever"
+    },
+    {
+      "start": 2095.36,
+      "end": 2124.9,
+      "speaker": "SPEAKER_00",
+      "text": "anybody i felt for that i don't know how you did it was season two so long ago i don't know they were just way off it's yeah it was really surprising because i mean like one you know you'd like funny you like see these ex these like compromises on twitter or whatever yeah um to be clear like nothing happened to the protocol at all which is like completely just the twitter account um i mean i was hearing like the rumors it was like oh it was a twitter employee or admin"
+    },
+    {
+      "start": 2124.9,
+      "end": 2154.9,
+      "speaker": "SPEAKER_00",
+      "text": "yeah yeah i don't know what what's that based on per se but the one thing that is surprising um well i mean they have two two factor they have two factor yeah for sure you know and the only way to really beat that is like sim swap yeah they got it but how did they get they got it back in like two hours three like normally when a major account or any account loses access it's like days or weeks but somehow they got it back in like hours yeah i don't know um but yeah the the post itself"
+    },
+    {
+      "start": 2154.9,
+      "end": 2185.0,
+      "speaker": "SPEAKER_00",
+      "text": "was obviously so it's like like whoever did this had the technical competency to pull this off but yet like they did a research lack yeah it's like so much it's like season two dude it's not in the right season and then i was i was kind of like shit posting yesterday i was like the dead giveaway was when they had jeff doing the ama it's like right like you it's like was the defeat you snagged you uh snagged defeat from the jaws of victory it's like you were at the fucking"
+    },
+    {
+      "start": 2185.0,
+      "end": 2215.22,
+      "speaker": "SPEAKER_00",
+      "text": "finish line you almost got away with it and then you had to do that third post saying and jeff's gonna do an ama in our twitter like what like yeah homie homie does like a podcast like once a quarter he's not doing an ama what are you talking about yeah i just i got a random anonymous tip that the twitter account was frozen in 30 minutes it only took him to get it frozen after uh they were hacked yeah um i think everyone's like are you kidding me like obviously hype was breaking out um"
+    },
+    {
+      "start": 2215.22,
+      "end": 2245.34,
+      "speaker": "SPEAKER_00",
+      "text": "we had we had just closed the monthly we're not posing the issue by the way it's like such an insane monthly recovery like we oh yeah and this within the same month we whipped down to nine dollars nine and some change and we closed at 20 and like you look at that kind of like it just always pays to zoom out right like if you imagine you know i i would i would guess that in that moment when we were sub ten dollars you know if"
+    },
+    {
+      "start": 2245.34,
+      "end": 2275.38,
+      "speaker": "SPEAKER_00",
+      "text": "we were talking and said don't worry we're gonna close the month above 20 somebody's like you are fucking smoking a rock full of opium like what are you talking about there's no way this thing's going to goblin town sub five dollars right all right so it's pretty impressive but as soon as we like did that closing or breaking out and then of course the twitter account gets compromised yeah it's like okay who cares man yeah like it don't matter the funny thing is too i was i was asking somebody it was like no"
+    },
+    {
+      "start": 2275.38,
+      "end": 2307.78,
+      "speaker": "SPEAKER_00",
+      "text": "it's interesting when we when we nuked and it wasn't even honestly it wasn't that big in it we went to like 20 and some change then we nuked down to like the mid -19s um i was like actually is this nuking because people know the twitter account is compromised which by the way in and of itself like really should have very minimal if any implications on price like why people believe everything on twitter man yeah everything so so what i think is more actually insightful"
+    },
+    {
+      "start": 2307.78,
+      "end": 2338.02,
+      "speaker": "SPEAKER_00",
+      "text": "is that it was nuking because people thought there really was like points was official yeah and because they were insinuating the emissions yeah i mean that's weird because like all the speculation it was pumping when everyone started like doing the post about oh like you know the the test net um shows the points page reset like and it was pumping it felt like it was pumping because of that and then this fake announcement of like oh another points has gone live"
+    },
+    {
+      "start": 2338.02,
+      "end": 2368.3,
+      "speaker": "SPEAKER_00",
+      "text": "and there was nuking it is very interesting because you know intuitively you would think oh if this is where i don't know what the answer is because we all know that there's 38 supply set aside for the community now some of that is what is paying out the two percent apr for hype stakers but i haven't done all the math but like that would take years if not probably over a decade for like the 38 to pay out the two percent apr so it's it's"
+    },
+    {
+      "start": 2368.3,
+      "end": 2398.52,
+      "speaker": "SPEAKER_00",
+      "text": "i think it's well understood that there's probably some sort of emissions set aside and that is future hype that goes back into the market yeah i mean i've been in conversations with people about this back and forth and you know the whole points thing in season three and all that nonsense you know there's going to be another airdrop everybody always says and i'm like you know if you feel that even at 38 i don't even care whatever like if you think that there's going to be another airdrop to everyone that's been using the evm and whatever i"
+    },
+    {
+      "start": 2398.52,
+      "end": 2428.78,
+      "speaker": "SPEAKER_00",
+      "text": "think you're crazy and if you do feel that that's going to happen you should sell all of your hype right now and and just wait until the out like his you know how everybody is everybody will take it and sell it and do whatever with it like i just i think it would be pretty detrimental to let there's another to just drop my theory i i don't get it yeah but then but then i generally agree with you i think it could be staked i think it could be imagined it was emitted as a um"
+    },
+    {
+      "start": 2428.78,
+      "end": 2458.96,
+      "speaker": "SPEAKER_00",
+      "text": "as a forced stake maybe you get it but it is a staked version and you're getting all the money and you're getting all the money and you're getting all the benefits of that stake type i .e the fee discounts um other things but maybe it's like hey you're earning this you get the stake type but you're forced to have it staked for six months or yeah like investing or something that's possible because you know this is where like all the pawns you know ponzi on this defy whatever of like it's they're all"
+    },
+    {
+      "start": 2458.96,
+      "end": 2488.96,
+      "speaker": "SPEAKER_00",
+      "text": "ve stake tokens and like vote escrowed staking and like vote locking so when you're getting rewards you're not getting rewarded the liquid token you're getting emitted like a staked version of that token and then you can like convert that staked version for the liquid token at a at a uh at a penalty of like this is what you know like um an arbitrum camelot i mean a bunch of protocols do this but like you earn not grail their native token you earn x grail yeah"
+    },
+    {
+      "start": 2488.96,
+      "end": 2519.9,
+      "speaker": "SPEAKER_00",
+      "text": "and then if you want to convert that x grail to grail you take like a 50 haircut if you do it up front yeah and then you like vest over three months and it goes one to one to full liquid like those are all the different like ways in which you could emit more hype but like kind of you you drag out the the supply impact you know it'd be cool if uh you know instead they say they want to do a drop they drop it to all those wallets they don't drop to those wallets they take it and they stake it like you're saying on behalf of those wallets but"
+    },
+    {
+      "start": 2519.9,
+      "end": 2551.04,
+      "speaker": "SPEAKER_00",
+      "text": "there's no vest it's vested for life like it's locked to that way of forcing the people to actually own you know part of this they they can reap the rewards from it you know the lifetime of however long hyper liquid lasts and whatnot like you can only ever claim your rewards and stuff like that i mean that'd be pretty cool i mean i don't think it will happen but i think it's pretty neat i think that um yeah and it would to me if"
+    },
+    {
+      "start": 2552.48,
+      "end": 2581.2,
+      "speaker": "SPEAKER_00",
+      "text": "we get i just don't see them dropping to people i i think that'd be foolish not because i i'm a holder i've already gotten an airdrop or anything like that i just it just doesn't make too much sense to me yeah i mean there was a comment that jeff made when he did the study labs podcast a month or so ago and there was like a brief conversation about hype and the like kind of like the price you know obviously i don't think he ever wants to talk like specifically about price action but it was something along the lines"
+    },
+    {
+      "start": 2581.2,
+      "end": 2611.38,
+      "speaker": "SPEAKER_00",
+      "text": "of you know they're building obviously for the long term they're building for years not months you might even say like decades or whatever but um and i think it was just something as simple as they're very confident that the the long -term value of hype and hyper liquid is much higher than where it is right now and he said i think his observation was just simply well you know obviously we"
+    },
+    {
+      "start": 2611.38,
+      "end": 2641.38,
+      "speaker": "SPEAKER_00",
+      "text": "did a big distribution to the community and that was a lot of people that have a zero that was a lot of people that have a zero cost basis and it's going to take time for people in the market to digest all this value at a zero cost basis and i think so so to your point it kind of would be similar of like okay another big lump sum airdrop adds"
+    },
+    {
+      "start": 2641.38,
+      "end": 2671.7,
+      "speaker": "SPEAKER_00",
+      "text": "that much more zero cost basis supply that has to get like um absorbed and digested into the open market and like what does that look like so you're right i mean i don't know that's where i would say maybe it's a version of a staked token that isn't liquid immediately all right i mean the point of the airdrop and the original is you know to get it out into everybody's hands um you know for decentralization and stuff like that i don't i'm not saying that everybody stayed here"
+    },
+    {
+      "start": 2671.7,
+      "end": 2701.84,
+      "speaker": "SPEAKER_00",
+      "text": "you know that received the drop there's plenty of people i'm sure that cashed out and moved on and whatever and then you get the new people coming in and thinking oh my god i don't know what's going on it's a season whatever you know and they think they're going to do it but the airdrop now doesn't doesn't serve the same purpose i don't think as the original um i don't know you know i get people asking me what what what do they think is going to happen with the assistance fund you know i have no idea i thought maybe it will go to you know builders reward builders"
+    },
+    {
+      "start": 2701.84,
+      "end": 2731.89,
+      "speaker": "SPEAKER_00",
+      "text": "for building you know especially the ones early on and new ones to come and that you know as well could go into a vesting project you know and disperse over time but i don't know i think it's eventually the assistance fund is going to stop buying maybe not i don't know i'd say the dynamics so like i think a hyperlicic team is doing a really like for the tokenomics like balancing fundamentally like"
+    },
+    {
+      "start": 2731.89,
+      "end": 2762.32,
+      "speaker": "SPEAKER_00",
+      "text": "buyers and sellers right there's supply and there's demand um i think they really are like doing a good job you know of slowly rolling out these different um mechanisms so it's like you got a scale right and you got like your scale on either end and like your rock you like try to balance it out and so if they just announced a new points program that"
+    },
+    {
+      "start": 2762.32,
+      "end": 2792.36,
+      "speaker": "SPEAKER_00",
+      "text": "would obviously drop a whole lot of weight on the supply side in theory right whether it's immediately liquid or it was a staked version and it's going to that's like at the end of the day there are tokens sitting there that are not circulating that you are now officially giving a hard date of when those will become circulating and the market's reaction would be okay the current price in theory should be like to some extent in my mind like a representation of like future supply demand and so you"
+    },
+    {
+      "start": 2792.36,
+      "end": 2822.66,
+      "speaker": "SPEAKER_00",
+      "text": "know you've officially said like hey like this future supply is in fact going live on this date but right the hip three announcement in my mind is a really good job of like front running that with putting more weight on the demand side right again they're adding a new token sync with auctions and it's a very like reasonable question for someone to say well i don't even know like what is that auction going to look like right i mean right now the spot"
+    },
+    {
+      "start": 2822.66,
+      "end": 2852.73,
+      "speaker": "SPEAKER_00",
+      "text": "tokens are going for about 30 000 usdc um at their peak we hit one million uh a lot of them went into the six figures and we've come way off because mostly the byproduct of the spot market um which i think is more revealing that in fact i'm just like thinking out loud here it's really interesting if hip3 was always even on the road map or if it's a representation of the"
+    },
+    {
+      "start": 2852.73,
+      "end": 2882.79,
+      "speaker": "SPEAKER_00",
+      "text": "team acknowledging that the biggest product market fit they have is on perks and because spot market has really obviously taken a huge hit on volume obviously you know unit has been doing a good job with driving like the majors onto the spot market but if you look at all the meme coins like our beloved meme coins and all those obviously like undeniably the volume on spot and the prices on spot have come"
+    },
+    {
+      "start": 2882.79,
+      "end": 2912.97,
+      "speaker": "SPEAKER_00",
+      "text": "way down so what whereas perps have continued to grind higher in terms of all like meaningful metrics of open uh open interest volume you know etc etc and so it could be that they're like you know what decentralizing perps because that truly is like the market leader in terms of product something we need to do and then in"
+    },
+    {
+      "start": 2912.97,
+      "end": 2943.13,
+      "speaker": "SPEAKER_00",
+      "text": "doing that it drives the auction because i you know spot auctions were supposed to be a source of revenue and then um you know yeah i mean it's a as people come in and want to fire off their own perps and whatever they may want a token as well like uh well like unit will have a token i imagine uh in the future so you know that drives the spot as well i guess you know i mean opens up more for it's it's really like a creative dude because it opens up the space"
+    },
+    {
+      "start": 2943.13,
+      "end": 2973.83,
+      "speaker": "SPEAKER_00",
+      "text": "for hypervm right every spot token for every asset that has both a spot and a perp you now have a delta a delta neutral mechanism that could exist on hypervm to farm that basis right you cannot farm the basis if you don't have an instrument a a derivative instrument to short that against the"
+    },
+    {
+      "start": 2973.83,
+      "end": 3004.05,
+      "speaker": "SPEAKER_00",
+      "text": "spot instrument to go long right and so yes this is like it adds volume to perp and if you don't have an instrument to short that instrument it adds a volume to perp the hyper core because the the perp market it in theory adds volume to hyper core spot because now you're going to have you know hedging and arbitraging and funding to balance the spot token against the perp token and it's going to add volume to hyper uvm because"
+    },
+    {
+      "start": 3004.05,
+      "end": 3034.05,
+      "speaker": "SPEAKER_00",
+      "text": "in theory if you have a large disconnect between the funding of the perp and the spot for just some random token xyz you know other than market makers and individual like operators how do you get the normies to have access to that you open up a vault on hyper uvm that basically commercializes anyone to deposit capital into that vault and that"
+    },
+    {
+      "start": 3034.05,
+      "end": 3064.07,
+      "speaker": "SPEAKER_00",
+      "text": "vault you're going to have a lot of money in there and you're going to have a lot of money in there and that's just how you eat the quote all the finance and that's just like really where this is going and so that you know it's"
+    },
+    {
+      "start": 3064.07,
+      "end": 3094.49,
+      "speaker": "SPEAKER_00",
+      "text": "it's pretty massive yeah yeah no it's uh it's neat you know and i'm thinking i'm sitting here thinking maybe the hyper foundation has things that they want to build on top of this as well you know once once the chain is fully functional and they're done or whatever you know you know to utilize uh hip three as well you know the team's not going to want to just do nothing eventually um if you like hip three you're gonna fucking love"
+    },
+    {
+      "start": 3094.49,
+      "end": 3124.97,
+      "speaker": "SPEAKER_00",
+      "text": "hip three 33 two years two years from now it's like hyper hour 2028 well what do you think pbr hip 34 just came out and damn it was a banger right yeah i mean who knows who knows um it's just great how this team thinks uh you know and we're only just kind of guessing at what they're thinking i think that they are just you"
+    },
+    {
+      "start": 3124.97,
+      "end": 3155.57,
+      "speaker": "SPEAKER_00",
+      "text": "know they're just they're just they're just they're just you know like you said putting pillars down foundation building that foundation for for court for a long time um and they're doing it right uh like you talked about with the assistance fund buying whatever you know they're not you know pedal to the metal buying this shit up as fast as possible to the price just to die off anyway and it's just all the right moves so far i want uh i want in in year 2028 the uh the hip proposal that jeff has agreed to"
+    },
+    {
+      "start": 3155.57,
+      "end": 3186.11,
+      "speaker": "SPEAKER_00",
+      "text": "upload his brain to a uh llm so that we can um everyone can permissionally spin up a jeff bot and uh and you know you're like full decentralization does not happen until everyone has control of their own jeff to permissionlessly do all jeff things you know like access to such you know brain power should not be held by just one single person it should be though democratized"
+    },
+    {
+      "start": 3186.11,
+      "end": 3216.37,
+      "speaker": "SPEAKER_00",
+      "text": "across all of finance no it's good i mean like that's the deal right it's like it um it's a reminder that the team is consistently both able to you know execute the kind of like short -term products road map of like you know uh evm and pre -compiles and all that but then like i don't you know you and i are following the shit pretty closely"
+    },
+    {
+      "start": 3216.37,
+      "end": 3246.43,
+      "speaker": "SPEAKER_00",
+      "text": "and i mean yeah various chats and just like i like to i like to think i'm you know barely plugged into the hyper liquid ecosystem i had never heard anyone even throw out the idea of that i can recall uh permissionless perks i mean i don't think it's like the craziest novel con like in hindsight it seems so obvious right like oh yeah like of course that makes a fucking ton of sense like why in theory"
+    },
+    {
+      "start": 3246.43,
+      "end": 3276.87,
+      "speaker": "SPEAKER_00",
+      "text": "like if done correctly with again the risk parameters and how do you you know mitigate bad actors from spinning up a perp that's going to lose people a bunch of money but like shows that yeah the team themselves are thinking about all these things at all times and think very deeply about okay if we were to make it permissionless to spin up a perp market and the whole thing about perp market way different than spot because now you're talking about leverage and when you have leverage you"
+    },
+    {
+      "start": 3276.87,
+      "end": 3306.95,
+      "speaker": "SPEAKER_00",
+      "text": "start to open up issues where you know the oi exceeds you know the liquidity in the book and like how does that market stay solvent right um my biggest theory though is i really think that hlp would be extremely conservative on how it market makes if it market makes at all any of these permissionless and and it leads to think that it wouldn't because they're saying that these these markets are going to be very conservative markets also will not be featured on the hyper"
+    },
+    {
+      "start": 3306.95,
+      "end": 3336.99,
+      "speaker": "SPEAKER_00",
+      "text": "liquid front end these are simply going to be markets that can exist on the chain other front ends will display them but again like they said in the near term like when it first goes live you won't even be able to trade these markets on the hyper liquid official app yeah yeah i mean it may steer steer clear of it uh for regulatory reasons could be one you know numerous reasons so i don't know i guess"
+    },
+    {
+      "start": 3336.99,
+      "end": 3367.77,
+      "speaker": "SPEAKER_00",
+      "text": "you know they'd evaluate the risk of who and what you know is being traded i think that could come into play but but yeah i mean there's a lot to still to be answered or shown to us or whatever i mean imagine like look at if pump there's another example pump fun if pump fun really wants to continue to eat the entire uh supply chain right so they started with token creation that's the first step um"
+    },
+    {
+      "start": 3367.77,
+      "end": 3397.91,
+      "speaker": "SPEAKER_00",
+      "text": "then they just obviously launched their own amm so that is the second leg of their supply chain of launch the token on the bonding curve it graduates to a normal amm they launched their own amm the natural progression would be if i'm pump fun for these very large meme coins that ultimately do get perks on centralized exchanges if i pump fun team like what would"
+    },
+    {
+      "start": 3397.91,
+      "end": 3428.07,
+      "speaker": "SPEAKER_00",
+      "text": "it look like for me to capture that underlying token as its own perp market now they could try to build out their entire perp decks which is obviously becoming a very crowded space and the technology like you know is it's getting better but like still i mean there's a huge spectrum and as we've seen like hyper liquid is dominating and has proven like their competency in that space so i think that's a big part of it and i think that's a big part of it so do they want to try to compete and launch their"
+    },
+    {
+      "start": 3428.07,
+      "end": 3458.19,
+      "speaker": "SPEAKER_00",
+      "text": "own perp decks do they want to just say oh well we're just gonna help pay for perp listings on centralized exchanges we're gonna partner with some other perp market on solana we're gonna partner with drift or whatever or they're gonna say you know what like we think hyper liquid has has won and they are the dominant they are the singular force of decentralized perks we're going to acquire a million hype we're going to launch perps"
+    },
+    {
+      "start": 3458.19,
+      "end": 3488.51,
+      "speaker": "SPEAKER_00",
+      "text": "like pump fun perps using the hyper liquid stack and again we'll get to the point where it'll be abstracted like it doesn't matter that the underlying rails are hyper liquid like you're on solana like if you're using their front end it doesn't matter you're trading solana you're doing the meme coins on solana and maybe they launch a market and like the rails or hyper liquids chain like we'll be at the point where it doesn't matter you know soul and usdc and usdt on solana"
+    },
+    {
+      "start": 3488.51,
+      "end": 3519.19,
+      "speaker": "SPEAKER_00",
+      "text": "you're executing perp trades on hyper liquid using like but like these are the types of things that are they're possible right like that's where you really be like what is possible who would be the end user to launch their own perps like again yeah it's potentially protocols that aren't even on hyper liquid like massive ones that are on other chains you know right right yeah man i still can't get over the possibility of you know"
+    },
+    {
+      "start": 3519.19,
+      "end": 3549.33,
+      "speaker": "SPEAKER_00",
+      "text": "you know you described it like that like that's huge man huge i mean the fee yeah it's massive if like you know if one of them cough kinetic was to become the hub for being able to they lose you i mean my mic my"
+    },
+    {
+      "start": 3549.33,
+      "end": 3579.71,
+      "speaker": "SPEAKER_00",
+      "text": "mic went off um yeah i was just saying like staking protocols like if they're supplying the underlying stake type required and they're earning that revenue fee share it's massive like the amount of fees you can pass back to the stakers um i mean even if they don't do it themselves you know a partner exactly like they don't even need you all they need to do is they need to be the aggregator of the stake type and they say you know what like we don't want to be the ones to manage the technical um"
+    },
+    {
+      "start": 3579.71,
+      "end": 3610.03,
+      "speaker": "SPEAKER_00",
+      "text": "piece of like you know like you have to how do you get the listing request and like the parameters for that particular token because you know it says like you have to define the oracle you have to define the leverage like there's it's not as easy as launching a spot token where you just like pick the ticker pick the price range pick the the supplies like when you get to perp there's like definitely risk parameters you have to define and you have to actually like put some thought into to make sure that market stays"
+    },
+    {
+      "start": 3610.03,
+      "end": 3640.07,
+      "speaker": "SPEAKER_00",
+      "text": "sure solvent and liquid um so it could definitely make sense like oh i'm a big staking protocol like i'll provide the hype and let some other service provider you know manage the like creation of the individual perp tokens and how those are you know um overseen and then but ultimately what matters is the the fee share like a large and it's not without risk to make no mistake like it's not just because i gave up my hype the one time to launch"
+    },
+    {
+      "start": 3640.07,
+      "end": 3670.19,
+      "speaker": "SPEAKER_00",
+      "text": "the token it's that i'm not going to be underwriting the risk of that market staying solvent again to the slashing if for whatever reason the validators vote that that market was malicious not if it it was malicious yeah i want to say not that if it itself was exploited necessarily but if it was malicious your hype is getting slashed so like if i'm a user i'm gonna be like oh i'm not just gonna put up my hype and collect like a one -time fee like as long"
+    },
+    {
+      "start": 3670.19,
+      "end": 3700.23,
+      "speaker": "SPEAKER_00",
+      "text": "as that market exists i'm taking risks that my hype could get slashed as long as i've deposited into the staking protocol right so absolutely i better be rewarded by getting a healthy cut and what becomes not that crazy is the hype apr there's worlds in which yeah hype stake hype is paying 10 plus because you've got the underlying two percent you've got again mev that's going to come online with hyper evm at some point and then now this third"
+    },
+    {
+      "start": 3700.23,
+      "end": 3730.27,
+      "speaker": "SPEAKER_00",
+      "text": "tranche of payment flow which is you know underwriting perk markets yeah yeah no it's uh i don't know a lot to think about um for everybody you know uh yeah uh i gotta i gotta get we gotta start wrapping this up though we don't have many people here so they'll be fine i got my daughter's got a lacrosse game i want to get to that's why i need to bump it up i mean they'll get their"
+    },
+    {
+      "start": 3730.27,
+      "end": 3760.39,
+      "speaker": "SPEAKER_00",
+      "text": "ass kicked but whatever yeah it was a good chat with you man uh one of these days we're gonna get some more people in here i know max was gonna try to hop on and then i think uh he got pulled pulled into some stuff with the flurry of like different things happening but um yeah yeah i'd like to chat with him some he's always a good take on things and we should get i mean yeah i know i'm sure felix is going to be down to uh hop on the space again and talk and"
+    },
+    {
+      "start": 3760.39,
+      "end": 3790.85,
+      "speaker": "SPEAKER_00",
+      "text": "um i mean we'll get like we'll get kinetic on um once they get closer to launch or they're live and all that fun stuff yeah i think right now it's just more of uh it's funny like price like hype's doing amazing price is doing well but it still is a bit of like low because like spot market is still kind of just like meandering hyper evm is picking up a little bit but it still feels like um it's quiet it quite it is yeah it still feels quiet like and there's just like the core kind of like group of hardcore users that are just out there you know yeah"
+    },
+    {
+      "start": 3790.85,
+      "end": 3820.93,
+      "speaker": "SPEAKER_00",
+      "text": "day in and day out but i feel like we had a big swell of like new faces and users on like the heyday of spot and we haven't we haven't hit that yet which is even that much more bullish that like how strong hype price itself is doing and all the announcements and yet it still feels like the massive onboarding event for like hyper evm hasn't even happened yet right so probably wildly like under known like how to even navigate that so yeah i think we'll we'll probably see the next wave happen"
+    },
+    {
+      "start": 3820.93,
+      "end": 3838.21,
+      "speaker": "SPEAKER_00",
+      "text": "and you know in the fall in the fall you know the weather stops getting being as nice people come back indoors and have to work again i don't know but 100 all right man good chatting and uh catch you later okay later"
+    }
+  ],
+  "speaker_map": {}
+}
