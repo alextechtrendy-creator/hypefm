@@ -1,0 +1,668 @@
+{
+  "space_id": "yt-rHjgW5mannE",
+  "language": "en",
+  "duration_seconds": 3328.8816875,
+  "chunks": [
+    {
+      "start": 7.66,
+      "end": 38.2,
+      "speaker": "SPEAKER_00",
+      "text": "what's going on everybody super stoked to be back in black well not in black but black it's great to have you the founder of uh hypio how's it going man it's going great man good to be back with you didn't mean to didn't mean to take it there right off the right off the bat but we're gonna roll with it um so i guess for people who might be new to hyper liquid or hypio do you want to introduce yourself sure yeah i'm the founder uh director"
+    },
+    {
+      "start": 38.2,
+      "end": 68.4,
+      "speaker": "SPEAKER_00",
+      "text": "of operations for hypio we have a large team uh t taj z many other hands uh working on hypio hypermeet is proud to be sponsored by silhouette the shield exchange on hyperliquid protecting personal trade information awaken tax crypto taxes for crypto taxes for crypto taxes for crypto taxes for crypto taxes for crypto taxes for crypto taxes crypto natives and hyperfi leverage lending on hyperliquid remember nothing you"
+    },
+    {
+      "start": 68.4,
+      "end": 98.97,
+      "speaker": "SPEAKER_00",
+      "text": "hear on this show is financial advice you are responsible for your own decisions make sure you're doing your research all right buddies let's get back to the show okay so for people who do know hypo there was kind of a break where you stepped away from the timeline for a bit sure can you fill us in and what was happening in my view we kind of had uh basically the most successful nft that was happened sort"
+    },
+    {
+      "start": 98.97,
+      "end": 128.99,
+      "speaker": "SPEAKER_00",
+      "text": "of like from financial perspective and also community perspective in like a couple years you know we really kind of uh explosive six months after our mint and it exhausted everybody on the team including me and then the market also crashed you know in tandem with the whole trump trade and crypto and everything so it just kind of dovetailed that you know around the time when uh the floor peaked uh you know i stuck around that was our new york"
+    },
+    {
+      "start": 128.99,
+      "end": 159.25,
+      "speaker": "SPEAKER_00",
+      "text": "city party i think was the uh all -time high around then i was i was still working for a few months every day and then after that uh we had our singapore party and i just felt like i really needed a break because it was just non -stop uh building cryptos is really hard sometimes it's a very antagonistic kind of relationship with the community because there's so many scammers everybody feels kind of like abused"
+    },
+    {
+      "start": 159.25,
+      "end": 189.35,
+      "speaker": "SPEAKER_00",
+      "text": "i feel like so there's a time where like it's good to be around and then there's a time where it's not that good to be around we're like you know you could be you know jesus born again and nobody would care and like um and then by the same token you could be just a total scammer and if everybody you know the timing is market is good and everything's good everybody loves you you know so the energy just switched for us a lot you know eth eth took a lot of"
+    },
+    {
+      "start": 189.35,
+      "end": 219.39,
+      "speaker": "SPEAKER_00",
+      "text": "uh tension in the second half of the year away from hyperliquid and then hyperlink we got vampire attacked by astor and all the other stuff um around the time of our singapore event and then hypers came hypers obviously are like you know the coolest nft in years so um they definitely didn't just seemed like the right time for me to take a little break and uh take some time to reset and prepare for next year yeah that makes sense kind of took us all by surprise there hyper's coming"
+    },
+    {
+      "start": 219.39,
+      "end": 249.63,
+      "speaker": "SPEAKER_00",
+      "text": "onto the scene i mean we knew one day it happened right it was kind of a lot at one time not gonna lie we were very fortunate to have that sort of void uh that we were able to fill that spot and uh be the only nft on hyperlink kind of but i'm super happy with hyper like the way they done that collection is technically excellent i think yeah let's kind of touch base on that so kind of a hot take um i've heard you say something along"
+    },
+    {
+      "start": 249.63,
+      "end": 279.81,
+      "speaker": "SPEAKER_00",
+      "text": "the lines of there's basically only two nfts on hyperliquid like hypios and hyper like what do you mean by that no i i think that's just true like i mean i think you can say that there's hypercats you know and i think that that's fine like um but in terms of like actual nft projects that are like alive and and have stuff going on with them and really have formed a community um i think it's really us and then it's hyper you know and"
+    },
+    {
+      "start": 279.81,
+      "end": 309.89,
+      "speaker": "SPEAKER_00",
+      "text": "i think it's really hard to do that these days because there's so much cynicism around fds general you know there's just nobody enthusiastic about no teacher right now really so it's a very difficult environment and then the like the teams themselves have been found wanting like you know not just on hyperliquid but like on all chains nfts and teams have not been good so it's kind of like there's only us in hyper um it is kind of a weird time"
+    },
+    {
+      "start": 309.89,
+      "end": 339.99,
+      "speaker": "SPEAKER_00",
+      "text": "for nfts right now so you kind of touched on that like the current landscape of nfts on hyper evm isn't like as hot as it could be to be honest and you're kind of seeing this though not just with hyper evm that's the fault of both the buyers but also the people making the nfts you know what i mean like it's not it's not like a simple thing it's on everybody you know like the the founders of collections you know you mean like you can't just say that it's just the people who flip"
+    },
+    {
+      "start": 339.99,
+      "end": 370.01,
+      "speaker": "SPEAKER_00",
+      "text": "and sell and dump everything it's their fault so like people didn't make stuff that they wanted to hold like people didn't make interesting collections they didn't they didn't execute the bar has to be raised a lot so then what makes an nft collection successful today i think it's like hard man i think it's a a mix of art honestly like i honestly do you think it's like return to tradition like art"
+    },
+    {
+      "start": 370.01,
+      "end": 400.05,
+      "speaker": "SPEAKER_00",
+      "text": "has to be really good i think i think community is a big part of it i think identity i think the fact that crypto has this um sort of thing where a lot of people are student you know like you're obviously not named beef in real life and i mean i'm obviously not named black you know nfts serve a function as a proxy for identity and like an organizing principle where people can kind of identify with each other and build"
+    },
+    {
+      "start": 400.05,
+      "end": 430.17,
+      "speaker": "SPEAKER_00",
+      "text": "this online culture online has this uh profile picture thing where it's like you know in real life your body is your your body you know but online your profile picture is kind of your body your face so nfts get to serve as a face and that's where the art part comes in you know and i think that's the real potential of them and that's where i think hyper really exceed the you know what anybody would have expected i think"
+    },
+    {
+      "start": 430.17,
+      "end": 460.21,
+      "speaker": "SPEAKER_00",
+      "text": "that they kind of hit that like a zuki cat angle super well it's like this clean hyper liquid aesthetic anime cat which is exactly what everybody wanted you know like they understood the assignment perfectly and i i think you know think of us credit i think we understood the assignment with hypeo too but other people don't understand the assignment hey man that's quite the assumption not to you know assuming that i don't go buy beef"
+    },
+    {
+      "start": 460.21,
+      "end": 490.47,
+      "speaker": "SPEAKER_00",
+      "text": "in real life yeah yeah well let's kind of touch base and bring everybody up to date on like what's going on with hypeo so wealthy hypeo babies in case you guys didn't know they were like the largest nft collection on hyper evm for for a while for a long time until hypers came on the scene you're kind of doing this this refresh now and now it's called lucky hypeo winners yeah you want to explain kind of what the name change"
+    },
+    {
+      "start": 490.47,
+      "end": 520.51,
+      "speaker": "SPEAKER_00",
+      "text": "represents yeah you know it really dovetails with what we were just talking about which is like uh understanding what people want like you know understanding the assignment and like the assignment for last year was we had to make a sort of nft that spoke to the hyper liquid community it hit those themes um in a form that they would resonate with so a lot of people were familiar with never milio we come from the malady community we know all about like"
+    },
+    {
+      "start": 520.51,
+      "end": 550.67,
+      "speaker": "SPEAKER_00",
+      "text": "bpl and everything like that and have experience in that space so we were uh quite uh suited to make it and obviously i've been on hyper looking for a while as i have a number of people in the team and the community and sort of like the the attack that we took last year was like wealthy hypeo babies that's basically like giving remilia a new life on hyper liquid you know"
+    },
+    {
+      "start": 550.67,
+      "end": 581.83,
+      "speaker": "SPEAKER_00",
+      "text": "like really was back but this time he's a hyper liquid maxi and he's you know really like you know there's so much inspiration for really the guy who not not charlotte fang necessarily um although he had a huge part in uh making milio but the guy were millionaire made that account of a millionaire uh if you go back and post on like look at the old romeo babies i took a ton of inspiration from him and he really like kind of innovated"
+    },
+    {
+      "start": 581.83,
+      "end": 611.99,
+      "speaker": "SPEAKER_00",
+      "text": "this sort of like irreverent funny out there i mean i guess you can call it edgy i don't know what you would call it but like you know posting style it was a social media approach i guess and i just thought there was a huge potential to do that with hyper liquid because there's so many people who are going to be so excited and enthusiastic about hyper liquid that hypeo like deserved to exist you know so that year uh wealthy ipo babies you know it's the best eardrop"
+    },
+    {
+      "start": 611.99,
+      "end": 642.25,
+      "speaker": "SPEAKER_00",
+      "text": "of all time everybody was rich and wealthy right so wealthy ipo babies made a lot of sense you know we're new we're young we're evilios we're wealthy we're rich because we're on hyper liquid we live and everything and we captured this whole huge cross section because hyper didn't exist yet right so we didn't know but you know maybe hyper was going to come out a month early like right after we minted we didn't know but ended up letting us play that shit out for like a whole year basically and"
+    },
+    {
+      "start": 642.25,
+      "end": 672.33,
+      "speaker": "SPEAKER_00",
+      "text": "then uh hyper comes in and you know once hyper comes in it does reframe the whole situation like and we knew from day one that hyper you know hyper was announced months before we even minted right like that the nfc was going to exist and so we always knew that there was going to be a hyper and we were going to be you know second to the hyperlink nft but you don't become you're not really the wealthy nft anymore once hyper exists is being traded for 50k or 15k or 20k"
+    },
+    {
+      "start": 672.33,
+      "end": 702.37,
+      "speaker": "SPEAKER_00",
+      "text": "so we got a little taste of that um last year you know trading for what well over 5k for a long time all the way up to like flipping milady and zuki and you know almost 10k floor price it really captured that energy as wealthy hypo babies but now it's like time for a refresh you know like redirecting the energy because uh the room well the real wealthy hypo babies are hypers right"
+    },
+    {
+      "start": 702.37,
+      "end": 732.99,
+      "speaker": "SPEAKER_00",
+      "text": "i get what you mean now because they are going for considerable amounts they have like a lot of the eyes right now and that's where most of the big trades are happening yeah so it's like it's just like it's like it becomes kind of a stupid name for the second year like you're like are we're the wealthy babies like if we're like you know 10 times our price or whatever or 20 times whatever it is we wanted to reframe the energy because you have to like entities"
+    },
+    {
+      "start": 732.99,
+      "end": 763.01,
+      "speaker": "SPEAKER_00",
+      "text": "are so hard these days you have to kind of orient your community into a new direction and you have to focus on the pillars of what are these foundational kind of ideas that resonate with your community you know last year it was like we really had to speak the signs of money and wealth and like that was the language that crypto understood right like airdrops i really"
+    },
+    {
+      "start": 763.01,
+      "end": 793.29,
+      "speaker": "SPEAKER_00",
+      "text": "would have the massive airdrop you know hyperliquid is the buybacks you know like trying to like shake people and understand that like hyperliquid is all about crypto becoming real you know we were like kind of you know we had this sort of uncaring funny approach where it's like you know we're rich we don't give a and and you know we're wealthy ibo babies you know uh but this year it's more about like uh you know we had a lot of stuff happen last year we we kind of adopted that position of being like the hyper before hyper"
+    },
+    {
+      "start": 793.29,
+      "end": 823.33,
+      "speaker": "SPEAKER_00",
+      "text": "existed and that came with ups and downs you know people made a lot of money on hypos but then also a lot of people became excellent on hypos because they didn't understand the project that's really like a hype maxi project and not like a ponzi scheme you know what i mean people were buying it having no idea what it was or you know just thinking that it was an airdrop farm or what you know i mean and so this year is kind of a refocus on well why why are we rich why are we wealthy"
+    },
+    {
+      "start": 823.33,
+      "end": 853.39,
+      "speaker": "SPEAKER_00",
+      "text": "because we're lucky and because we win you know it's like and what makes a person lucky well preparation you know being a good person you know being right with god like that kind of stuff you know like keeping your things in order and you know preparing that's i think i think that's kind of the big focus this year it's like taking things seriously and realizing that nothing comes for free yeah and when you you kind of hint on that for"
+    },
+    {
+      "start": 853.39,
+      "end": 883.73,
+      "speaker": "SPEAKER_00",
+      "text": "me when i think of lucky i think of like just being in the position that we're in uh with hyperliquid and i feel like hyperliquid is winning right now so yeah i guess when you frame it all like that and think about it it does make sense uh lucky hypea winners like i'm blessed to be here and uh blessed to be seizing the opportunity that is hyperliquid yeah well it's all it also gets used as like uh kind of a way to dismiss people"
+    },
+    {
+      "start": 883.73,
+      "end": 913.83,
+      "speaker": "SPEAKER_00",
+      "text": "like it's like oh you're like you're just lucky to find hyperliquid or whatever right like you were just lucky and it's like bro like everybody would love to be that lucky i mean to find hyperliquid early you know i mean everybody's like yo i just wish i had nobody's thinking like yo i just wish i was like the smartest most genius trader everyone's like yo i just wish i had had been lucky enough to farm hyperliquid or found it you know i mean like um and i think that that's a very real thing bro i think it's better to be lucky than smart in"
+    },
+    {
+      "start": 913.83,
+      "end": 943.95,
+      "speaker": "SPEAKER_00",
+      "text": "some in a lot of cases i mean there's a lot of smart people who are broke you know i mean like like i'm not happy you know there's a lot of dumb people who are lucky and happy i think that's the most important thing though is the happiness and i feel like sometimes people on ct lose that you got to find that happy medium if you could find something that makes you happy and you make money from it you better hold on you better hold on tight absolutely absolutely and that's the other part of it is like you know that"
+    },
+    {
+      "start": 943.95,
+      "end": 974.17,
+      "speaker": "SPEAKER_00",
+      "text": "that's where we put the winners in which is like you know this is still real life you know like this is still serious this is still like you know it's like fun to joke about be lucky and everything but like you do still have to execute your train you know manage your portfolio like manage i mean how hellish has crypto been over the last couple years dude this has been a crazy imagine you held eat for the last like four years you know like this will go insane yeah"
+    },
+    {
+      "start": 974.17,
+      "end": 1004.29,
+      "speaker": "SPEAKER_00",
+      "text": "so it's like the point is manifesting you know that lucky winning dominating energy and not sort of that because the wealthy ipo baby is like it was a great uh brand for last year but it was also kind of like sitting on your coattails like yeah like we're rich like because we found hyperliquid this time it's like let's double down on it let's own that like yeah we're lucky and we're winners like you know what i mean and like we do the things to cultivate both aspects of that yeah man i"
+    },
+    {
+      "start": 1004.29,
+      "end": 1034.63,
+      "speaker": "SPEAKER_00",
+      "text": "vibe with that uh i'm excited now that i understand it a little bit more it makes sense so you kind of splashed on the scene there announcing a lot of this stuff kind of by just doing it so you know you changed your pfp like spill some details on this art upgrade what's going on so the art upgrade is something that we wanted to do the whole time and it's really about what i was talking about the beginning where"
+    },
+    {
+      "start": 1034.63,
+      "end": 1065.13,
+      "speaker": "SPEAKER_00",
+      "text": "i was saying like i really do think nfts are about art you know and i think like hyper uh you know just to glaze them again like like they really did uh understood the assignment like people really wanted sort of like an azuki type cat that was like really done well and they also like did some unique details for certain individuals who like like they knew the wallets of who was getting which nfts and they gave them like specific traits"
+    },
+    {
+      "start": 1065.13,
+      "end": 1095.27,
+      "speaker": "SPEAKER_00",
+      "text": "you know i'm talking about yeah dude i've had fantasies about being a recipient like that yeah yeah like beef traits well that's what i mean that's what i mean like that's the kind of stuff where i'm like that's like fucking cool you know i mean like that's like you actually are caring about the form and like making the art of the thing and like there's no like the hyper liquid team is not saying anything about like oh a hyper is going to give you like one hype a day for the rest of your life or something like that you know i mean like there's no like ponzi shit it's just like here's some dope"
+    },
+    {
+      "start": 1095.27,
+      "end": 1125.79,
+      "speaker": "SPEAKER_00",
+      "text": "art like this is our hyper liquid ip that we're developing you know i mean and like it's given to you there's only 4 000 of them and we've added some unique details for a few of you and just they did a really cool job with nfts form for our part right you know we're trying we're nfts project their hyper liquid project you know nft is just one facet of this big thing that they're doing and i think that they kind of did their nft as a proof of concept for other people like us you know i mean like like"
+    },
+    {
+      "start": 1125.79,
+      "end": 1155.85,
+      "speaker": "SPEAKER_00",
+      "text": "they're kind of setting the stage for other people to to execute on nfts but the nft is not the end game for them whereas for us like it kind of is you know i mean like nft is really you know we're an nft project right so nft is what it's all about and um getting the art done last year we did work on it for eight eight months off and on like i'm a perfectionist i would have preferred to have another year to work on the art you know i mean like there's still stuff"
+    },
+    {
+      "start": 1155.85,
+      "end": 1185.91,
+      "speaker": "SPEAKER_00",
+      "text": "that bothers me a lot with the original art just because it doesn't mean i think it's bad like you know i mean it's just because uh if you're a perfectionist there's always something you can improve man you know i mean like there's still stuff that bothers me a lot with the original art you know what i mean but good is the enemy of great like you have to ship something you have to ship something with timing that works for the market you know um so a lot of times with nfts it doesn't seem like it's about the art because it's about the market timing but i really do think that it is about the art in terms of making nfts last long"
+    },
+    {
+      "start": 1185.91,
+      "end": 1216.65,
+      "speaker": "SPEAKER_00",
+      "text": "term this is like a new primitive that people don't totally understand so the art of grade um was basically like okay we knew that we had a timeline to finish the original hypo art right we did finish it we finished it in such a way that like we kind of left it unfinished where we left we included like certain traits um many times over so that they could be replaced you know it means that there would be like very floor traits there's certain hairs that like appear many"
+    },
+    {
+      "start": 1216.65,
+      "end": 1246.81,
+      "speaker": "SPEAKER_00",
+      "text": "times over the certain outfits to appear many times over stuff like that not my hair though no no not the 800 but like you know i mean but like there's there's a bunch of hairs that do like appear like a thousand times of 5000 i mean and stuff like that and like the idea was let people remix their floors and it'll be a fun event that we can kind of give something back to the empty community later on and also like have done the best really derivative art ever um which like i think it is pretty much that"
+    },
+    {
+      "start": 1246.81,
+      "end": 1276.93,
+      "speaker": "SPEAKER_00",
+      "text": "right now but like i think it'll be definitive once we're done like not like no question definitive you know i mean as somebody who's been working on it for the past year with our team i think there's just not even a question that it's kind of we will have exhausted the potential of the kind of form of romellio so it's it's super cool um i can't go super in depth onto the mechanics of the art itself because we love to make it a surprise and a big part of it is like the fun of holding"
+    },
+    {
+      "start": 1276.93,
+      "end": 1306.95,
+      "speaker": "SPEAKER_00",
+      "text": "an nft and like you know having it all ready when it gets announced you know what i mean like when it gets announced i'd like you guys to be able to do it that day you know what i mean like i don't want to tell you guys now and then like you know wait wait a couple months or whatever you know but what i can say is you know it's really going to refresh the collection in a really cool way and before we do the art upgrade we're going to be doing some events like these where we've already done some stuff where like people send in hypios and"
+    },
+    {
+      "start": 1306.95,
+      "end": 1338.05,
+      "speaker": "SPEAKER_00",
+      "text": "burn them and get a custom special uh kind of event themed hypo that's gonna be in the actual real collection um and that's sort of a way to acknowledge people who are either whales or just big community members and also uh do something for the people who are holding rare nfts right because rare nft people can get a little bit uh skittish when you start messing with uh the art in the collection which is understandable we"
+    },
+    {
+      "start": 1338.05,
+      "end": 1368.69,
+      "speaker": "SPEAKER_00",
+      "text": "are definitely like seriously autistic about caring about do you write like a good job by the collection like make money and scam and mess things up we would you know just drop another nft right now you know rather than do an art break but but the the way that we're doing it is basically just show some love to the people holding rares and long -term supporters and really the idea is that this art is going to be really compelling for the next 10"
+    },
+    {
+      "start": 1368.69,
+      "end": 1398.77,
+      "speaker": "SPEAKER_00",
+      "text": "15 20 years and whole kind of stand the test of time which i think in crypto a lot a lot of people are just thinking about like what can i sell this for today and not about like next week let alone two years from now 10 years from now yeah oh that's i'm excited to see all this kind of reveal itself so i know people are going to want to ask is this is this like a mandatory upgrade or is this an optional thing no it's totally optional and like the way that people"
+    },
+    {
+      "start": 1398.77,
+      "end": 1430.17,
+      "speaker": "SPEAKER_00",
+      "text": "should think about it is like uh like first edition versus new like second edition and i think that the second edition are objectively going to be very cool i also think that we did a great job with the first edition you know what i mean so i think like as people shift into you know modify there's gonna be a real tension between do i redo my hypo i love my hypo but"
+    },
+    {
+      "start": 1430.17,
+      "end": 1460.31,
+      "speaker": "SPEAKER_00",
+      "text": "the new ones are really cool you know what i mean like like i think you for example you know you got your hypo pfb that you wrap in the you've got a brand built around it i probably if i was you i probably wouldn't read you back you know what i mean but you could get a super cool hypo do something to one of your other hypo's or something you know i know that whales it's a great thing for whales who get to you know have a lot of fun with their other hypo's that maybe they don't like as much some of them and i think it's gonna be really great for the floor i just think the floor is gonna look so much better"
+    },
+    {
+      "start": 1460.31,
+      "end": 1491.13,
+      "speaker": "SPEAKER_00",
+      "text": "and also the floor like will seep with potential because it's gonna be really great for the floor because someone comes in wants to buy a hypo right like people always come in and like like i get these dms where people are like oh i want to hype you but i need it to have a certain look right like the art upgrade really solves that problem because uh i can't give the full details but like it lets you kind of choose um a way that it's gonna look you know what i mean like you're gonna you have some sort of input into how it's gonna look right so"
+    },
+    {
+      "start": 1491.13,
+      "end": 1522.55,
+      "speaker": "SPEAKER_00",
+      "text": "it does you do get to put your own touch on it and it has that sort of like gotcha element where it's like kind of like gambling whatever like you get that sort of randomness but like in the direction that you want i just think that that's going to be a huge hit because now you can look at the hype go for and be like oh i don't really like this one but i can buy it and i can turn it into something that i like right yeah man it's like the uh call of duty nazi zombies uh pack -a -punch machine yeah"
+    },
+    {
+      "start": 1522.55,
+      "end": 1552.65,
+      "speaker": "SPEAKER_00",
+      "text": "yeah well i've been an artist for a while man i see these blind boxes everywhere and i'm like i've been working on this art for like a year and i'm like looking at the black box i'm like this is literally the art of grade like yeah well don't do this yeah dude that stuff's everywhere here too yeah you know i my uh my kids always trying to get me to buy them some of those boxes with like just different characters in them yeah so if you like the blind box stuff that's literally the"
+    },
+    {
+      "start": 1552.65,
+      "end": 1582.75,
+      "speaker": "SPEAKER_00",
+      "text": "art of grade is going to be exactly what you love you're going to love it okay cool all right well um i guess i have another question that people may be wondering like what it means uh i've seen you guys use tt on the timeline and it's even in your pfp i think it says tt in there too what does it mean the pfp the i don't know if you notice this but the eyes say tt the the eyes the eyebrows go under the eyes say tt but yeah tt is just like"
+    },
+    {
+      "start": 1582.75,
+      "end": 1613.05,
+      "speaker": "SPEAKER_00",
+      "text": "a it's a phrase i've been using it's a new i don't know what it's called but it's a phrase i've been using it's a new i don't know what it's called but it's a phrase i've been using it's a new alt logo for time it's a new i don't know what it's called but it's a phrase i've been using it's a logo for time market which is like the clothing brand that we're partnered with and the new collection for that is coming really soon but tt is more than just like the alt logo of time market it's kind of a uh thing that we we just noticed um like kind of in that vein of like synchronicity or whatever like it kept making itself unignorable to us um we just started seeing like teas everywhere we've got uh many"
+    },
+    {
+      "start": 1613.05,
+      "end": 1643.73,
+      "speaker": "SPEAKER_00",
+      "text": "people on our team with teas in their name like at the start of their name and at the start and like starting the end of their name like toast is one of the girls working on tide market we had a lot of you know tea we literally have tt is like director of operations is named t tej tej like you know and there was a lot of instances of us just noticing uh teas popping up and uh like for example we got a new guy i think i messaged you beef last"
+    },
+    {
+      "start": 1643.73,
+      "end": 1673.73,
+      "speaker": "SPEAKER_00",
+      "text": "week he got his computer set up and his keyboard started typing the t twice uh whenever you press t it would put t twice so we just noticed that like uh we had this t twice going on and it was happening at the time that we were talking with the guys working on time market um about the alt logo and uh yeah we just started realizing this is kind of like our symbol of like what's going on here it's like it's a flex phrase that that can be used in so many different contexts you know"
+    },
+    {
+      "start": 1673.73,
+      "end": 1703.87,
+      "speaker": "SPEAKER_00",
+      "text": "what i mean like it's it's it's very flexible you know you can say tt and it really has nothing to do with the content of tt itself it's about um what context you're replying to you know so if you say like oh i just hit a big trade longing bitcoin and i say tt to you you know i'm saying that if you say like i just lost a lot of money shorting bitcoin i said tt like you know what i'm saying too you know i mean it just kind of fits in as this uh phrase that serves many different functions but"
+    },
+    {
+      "start": 1703.87,
+      "end": 1733.95,
+      "speaker": "SPEAKER_00",
+      "text": "it also happens coming in wealth coming in in vietnam which is very uh synonymous with our energy obviously okay dope yeah i can i can get on with that i've been using it so i didn't even know what it was but it just felt right you know it's like a culture thing yeah no it is i think that's a lot of what what we do here is sort of uh i believe it is so finance coded you know like spreadsheet coded you know like like a lot of people are like traders you know and"
+    },
+    {
+      "start": 1733.95,
+      "end": 1763.99,
+      "speaker": "SPEAKER_00",
+      "text": "like a lot of why we've had success is we bring color here and like that has good and bad i mean obviously there's been drama because we bring a lot of people you know not just people trading but like people who are people and want to exist on hyperliquid as humans rather than just as people trading perps or spot or whatever and you know community people and that's what culture is and then you know tt i think is part of our contribution to the culture just like buddy was just like hypio is"
+    },
+    {
+      "start": 1763.99,
+      "end": 1794.39,
+      "speaker": "SPEAKER_00",
+      "text": "just like i think many other things just like hypionega is like there's there's gonna be many things in the future that i think will be kind of adding to the culture and some some people will like and some people won't and i i think that's great yeah all right buddy let's uh let's go to my next question here so yeah so so uh hypio points haven't heard about those in a while but can you share any updates with them um well i can say like you know the website currently"
+    },
+    {
+      "start": 1794.39,
+      "end": 1824.45,
+      "speaker": "SPEAKER_00",
+      "text": "is being revamped um it should be dropping very shortly there is going to be some work done on points um we had some issues with points over the kind of the start of the winter where it like seemed like it was double counting points for royalties on openc so this i'm kind of jumping into the middle here for people assuming that people understand how points work but basically hydro points are points that you get for holding hypo or buying ipo you lose them if your hypo leaves"
+    },
+    {
+      "start": 1824.45,
+      "end": 1854.61,
+      "speaker": "SPEAKER_00",
+      "text": "your wallet um and it's meant to be sort of a metric for holder quality i guess it's an imperfect metric but we also tried to tweak it ourselves by like you know giving people like you for example beef like we're content creators or like real people who've been in community events and so on we give them points and it's sort of a way to be like you know everybody talks about like hyper liquid aligned well it's like how hype you aligned are you you know what i mean? like how many points do you have like how many hypos do you hold"
+    },
+    {
+      "start": 1854.61,
+      "end": 1884.91,
+      "speaker": "SPEAKER_00",
+      "text": "you know it's just uh because it serves this function of somebody comes in and buys an nft right well especially like the second half of last year a lot of the people buying were just like buying to flip it right and that's not really happening anything to do with like hype your hype your community or have your project you're kind of you're almost like a freeloader basically you know what i mean like so like that person starts with basically zero points"
+    },
+    {
+      "start": 1884.91,
+      "end": 1914.91,
+      "speaker": "SPEAKER_00",
+      "text": "they get some points for buying and they get the points for holding but if they sell then they lose other points so if you know somebody wants to do airdrop to hypo's that person who's been holding for five seconds why would they get the same thing as somebody who's been holding 10 from mint you know what i mean and sold like two of them that's that's the idea behind hypo points so what's going to happen from here we plan to maintain them um we plan to kind of we've gone back to first principles on hypo points we're going to be kind of refining them"
+    },
+    {
+      "start": 1914.91,
+      "end": 1945.09,
+      "speaker": "SPEAKER_00",
+      "text": "like i said there was that glitch with the open c royalty points right where i think people lost a bunch of points that they thought they had because open c points were being counted twice but but yeah the the general idea here is that hypo points are intended to be a metric for people to show their kind of contribution and alignment to being a hypo holder and for people including us to use with stuff that we're building you know like i would say there's a safe chance that points are going to factor into"
+    },
+    {
+      "start": 1945.09,
+      "end": 1975.12,
+      "speaker": "SPEAKER_00",
+      "text": "the art upgrade you know i mean and any any other thing that we do any situation where we want to give preferential stuff to a select group of people we would probably consider points if it makes sense right i think that anybody else who's trying to do stuff for hypo community would do the same dope yeah i was kind of hoping you'd say it was tied to the art upgrade so yeah i'm interested to see where that goes yeah before you talk about tide market you"
+    },
+    {
+      "start": 1975.12,
+      "end": 2005.12,
+      "speaker": "SPEAKER_00",
+      "text": "know it's your brand on the side of next to hypo they make some merch but then it's also kind of like a lifestyle brand you want to give us like the updates here i've been seeing more posts from that account uh yeah that's uh sort of as as hypo has been going through this rebrand refresh process um the tide market team have been working on the brand itself i mean like the"
+    },
+    {
+      "start": 2005.12,
+      "end": 2035.32,
+      "speaker": "SPEAKER_00",
+      "text": "time market brand started existing you know well into hypo's existence i mean it didn't didn't come before hypo so that like that was being built sort of all through the past year um and i would say it like i don't think brand development is ever finished like you just saw with hypo like we just redid our whole brand like the lucky winners but um i think that the tide market brand last year did uh zero zero was"
+    },
+    {
+      "start": 2035.32,
+      "end": 2066.14,
+      "speaker": "SPEAKER_00",
+      "text": "like the new york city event with the merch and the idea behind that was like you know this isn't ready for like showtime but it's like preview and it looks like zero ones which is like you know really ready for game time is right around the corner so i know that there's going to be a bunch of people from high market at shenzhen china later this month for a big it's like one of the top fairs for the industry of like swimwear"
+    },
+    {
+      "start": 2066.14,
+      "end": 2096.34,
+      "speaker": "SPEAKER_00",
+      "text": "uh underwear loungewear sportswear in shenzhen um they're gonna be talking to suppliers there and kind of getting the word out and then launching shortly after with the spring summer collection which includes a bunch of hyper liquid merch and a little little hypo stuff and then a lot of time market stuff so it's like we're looking super cool yeah man that's that's exciting uh definitely gonna be some merch you know i'm actually side note"
+    },
+    {
+      "start": 2096.34,
+      "end": 2126.52,
+      "speaker": "SPEAKER_00",
+      "text": "don't mean to steal the spotlight at all but i'm actually gonna do a couple shirts too oh yeah yeah i tell you i i have a respect for like people who do merch like full time oh yeah i can't tell you how many times i got it reordered after making changes then you gotta wait and oh my gosh i did it like seven times i think so i can't imagine it is dude like it is it's a lot of work and it's you know even even now like you know i'm not gonna be i know like time market stuff is ready for showtime but it's like even"
+    },
+    {
+      "start": 2126.52,
+      "end": 2156.72,
+      "speaker": "SPEAKER_00",
+      "text": "even with it being substantially bigger than what we did last year it's still in that early phases because it's like you said like last year we made eight or nine different designs and we only sold two of them you know what i mean we literally have like hundreds of shirts that we'll just probably never sell or we'll keep internally or whatever um and this time it's definitely way more refined we've learned lessons from that but it is it's a lot of work to sort of get your vision clear and make something that's cool and cultivated and"
+    },
+    {
+      "start": 2156.72,
+      "end": 2186.78,
+      "speaker": "SPEAKER_00",
+      "text": "takes a lot of time and energy and thought and yeah i think merch is one of the coolest things i also think like hyperliquid deserves fire merch i mean i believe deserves fire culture i believe deserves fire nfts fire communities that's what we're trying to do here hell yeah dude did you see those boxes that went out from the hyperliquid teamed oh my gosh that looks so cool but also the hyper co guys with their hyper blind boxes right like they did a great job with those i got i'm literally looking at two of them right now saying right next"
+    },
+    {
+      "start": 2186.78,
+      "end": 2216.82,
+      "speaker": "SPEAKER_00",
+      "text": "to me dude shout out hyperco kirby the whole squad man i won we are gonna be giving a bunch of those by the way we have a bunch of them in the warehouse nice yeah i was saying i i actually won like the full set and i won a custom pickleball um paddle yeah yeah dude it was pretty dope yeah it's pretty cool man hey i'll sell it to you for like you know 50 hypeos no deal bro no deal i'm keeping"
+    },
+    {
+      "start": 2216.82,
+      "end": 2247.04,
+      "speaker": "SPEAKER_00",
+      "text": "that yeah no it's super cool though all right so dialing it back in you know super excited for tide market i'll make sure you guys got your notifications on when they drop stuff are we gonna get like a warning or is it gonna be like surprise i know there's definitely gonna be a warning there should be a warning for everything you know i i really love to do the surprise on uh well it's a different way um like just"
+    },
+    {
+      "start": 2247.04,
+      "end": 2278.44,
+      "speaker": "SPEAKER_00",
+      "text": "the way that the account has been like already is kind of a warning you know i mean like you can tell like we're working on stuff you know i mean we're telling you guys like start paying attention but that doesn't mean it's coming today i mean stuff is going to be happening continuously throughout the year and we tend to want to surprise announce it you know like maybe give 24 hours notice if that but with merch itself you know like something like the actual merch drop i would expect it's gonna be like a warning you know like some real warning and then the same thing with the art of grade i would expect um"
+    },
+    {
+      "start": 2278.44,
+      "end": 2308.56,
+      "speaker": "SPEAKER_00",
+      "text": "we're gonna be extremely loud when the art of grade is really ready you know i mean we're just gonna be doing some fun events in the meantime which sometimes come without warning like the way that the chinese new year thing did even this chinese new year event where we like rebranded lucky ibo winners i was saying like prepare for the new year for like three weeks we do give you guys hints on what's coming yeah for sure i'm paying attention yeah if you're paying attention you definitely like will will not miss it i guess"
+    },
+    {
+      "start": 2308.56,
+      "end": 2338.8,
+      "speaker": "SPEAKER_00",
+      "text": "it's obvious but hell yeah i guess i got some more general hyper liquid type questions before i kind of let you sure tease us with anything else you want you know i'm super comfy in hyper liquid and i feel like we're learning so much by just like watching the team you know follow through their actions uh whether it be unlocks or or what have you you know as a as a builder you know i guess it's different because you're doing an nft collection but still you're building yeah what are you taking away"
+    },
+    {
+      "start": 2338.8,
+      "end": 2368.83,
+      "speaker": "SPEAKER_00",
+      "text": "from like watching them i've gotten like a much deeper sort of respect and understanding for hyper liquid you know i think as a person who was trading on it years ago i initially sort of thought of it as just like a perp sex which i think i guess it was it was you know perp sex built on the r of l2 with its own custom thing and you know you're trusting them and look like their drop might be good um and then they switched to becoming a layer one"
+    },
+    {
+      "start": 2368.83,
+      "end": 2399.65,
+      "speaker": "SPEAKER_00",
+      "text": "and then it became really like obvious to me that these guys are uh very different in their execution of how they do everything um not just for like how crypto operates but like how the world operates they're kind of you know without reproach like you can't criticize them for much you know i mean i think the only thing you criticize them for is like maybe they don't like do too much bd or advertising but like that's all very very purposeful in terms of trying to make this neutral playing"
+    },
+    {
+      "start": 2399.65,
+      "end": 2429.91,
+      "speaker": "SPEAKER_00",
+      "text": "ground and as a founder myself and not obviously we're not building hyper liquid but we're in this weird position where like we were this huge nft and one of the bigger kind of entities in the hyper liquid eco last year um there was a lot of responsibility put on us to sort of elevate other projects and then you know um promote projects and stuff like that and uh as we sort of went through the growing pains of that uh it made me really really feel like i was like oh my god i'm not gonna be able to appreciate the level of neutrality and seriousness that"
+    },
+    {
+      "start": 2429.91,
+      "end": 2460.03,
+      "speaker": "SPEAKER_00",
+      "text": "the hyper liquid team takes with you know this task of building hyper liquid i think they really understand that they're building this neutral super neutral kind of internet for finance and that means that they can't play favorites with anybody they can't even be seen remotely to be playing favorites with anybody they still try to do their best to like enable builders and to build this thing but it means that they have to leave some of that to us and then you know it's just a challenge to the community the community the"
+    },
+    {
+      "start": 2460.03,
+      "end": 2490.19,
+      "speaker": "SPEAKER_00",
+      "text": "builders you know all of us to be better you know there's been times where i've been you know found wanting you know by myself and others and uh there's also been times where i've done a lot of good and you know platform protocols like hyper lend or kinetic or what have you that i think are good teams but people are going to make mistakes but you know the hyper liquid team has really done such a great job of setting an example for us in terms of how do we evaluate projects and also how do you run a project and i think"
+    },
+    {
+      "start": 2490.91,
+      "end": 2520.55,
+      "speaker": "SPEAKER_00",
+      "text": "i know my hope is that this is sort of the new era of crypto that it can inspire a lot of really interesting projects in the same vein and we lose sort of this era of crypto it's just a scam that's the hope right that's what we all want yeah yeah maybe we get fbx and we all get but i don't think so come on come on not even in the same league no i don't think so i would say unlikely so where do you think we are like"
+    },
+    {
+      "start": 2520.55,
+      "end": 2550.68,
+      "speaker": "SPEAKER_00",
+      "text": "generally in this cycle like will the bowl run resume sometime soon or is it just going to be decoupling season for hyper liquid and we're just going to go do our thing even when the cycles were like consistent i just didn't really believe in that cycle stuff i just think you know i think that everybody believed in it so it kind of happened and it looked like a cycle and i get why people you know i do believe in like fractals and ebbs and flows in the market i i do believe in that stuff but with crypto as"
+    },
+    {
+      "start": 2550.68,
+      "end": 2580.68,
+      "speaker": "SPEAKER_00",
+      "text": "an asset class it's just so different crypto you know when it's up it's like this is going to redefine the whole world this is the most revolutionary thing ever it's making me you know i mean blah blah when it's down it's like this is fucking nothing you know i mean as it's like very binary like one you know on and off switch right and that's what we kind of call the cycles but it seems to me that more than ever that has changed when you have blackrock and all these you"
+    },
+    {
+      "start": 2580.68,
+      "end": 2610.88,
+      "speaker": "SPEAKER_00",
+      "text": "know this sort of institutional nation -state adoption of crypto specifically bitcoin um seems like that's a little bit neutralized like it's not nothing now but it's also probably not gonna just make you rich so super fast so i think i think crypto gets a little bit more boring and i think i think that's a very good environment for hyper liquid to thrive in because hyper liquid is boring in the best way i mean it's not boring it's boring in terms of like this is a company that just buys"
+    },
+    {
+      "start": 2610.88,
+      "end": 2640.92,
+      "speaker": "SPEAKER_00",
+      "text": "back its own coin and that's all it does like it's just a great this is a great protocol that buys back its own coin and is redefining what token equity kind of means so i think we're interested i don't feel like we're in a cycle after we're in the new sort of thing like if you think of a cycle as like you're listening to a song and the song kind of has like a repeating part and then it plays like a different sound for a little bit sometimes you go back to that repeating part or sometimes the"
+    },
+    {
+      "start": 2640.92,
+      "end": 2671.86,
+      "speaker": "SPEAKER_00",
+      "text": "song shifts into a new sound for the rest of the song you know i mean i feel like we're in that part where it's stopped the repeating part we're kind of in like a little intermezzo and we'll see if we go back to cycles or if we go into some new kind of different kind of cycle thing you know i mean i don't think we're in the old game anymore yeah i did like that analogy there that was kind of nice so good one good one i agree in in like what hyperliquid is isn't"
+    },
+    {
+      "start": 2671.86,
+      "end": 2701.88,
+      "speaker": "SPEAKER_00",
+      "text": "probably something that immediately like gets the dgen super excited yeah but at the same time it's kind of frustrating to me that you can look at like the top coins in the market cap and people grant this like hopium to these market caps for justification and people have a hard time doing that same thing with hyperliquid even though we've laid like in a beautiful foundation i know at the same time like you know um a lot of like core hype people know that like i'm into"
+    },
+    {
+      "start": 2701.88,
+      "end": 2732.22,
+      "speaker": "SPEAKER_00",
+      "text": "astrology and like you know all these big movements and stuff and like if you understand like that concept of like sort of like world cycles and year cycles like you know the year like doesn't really start on the first day you know i mean like it does technically like the new year whether it's the chinese new year the regular new year you know it starts on it technically starts that first day but like you're not really into that new year until like a month or two months in you know what i'm saying like it has to settle in and shift right and i think we"
+    },
+    {
+      "start": 2732.22,
+      "end": 2762.54,
+      "speaker": "SPEAKER_00",
+      "text": "could take some solace in the crypto market with what you're describing where it's like okay there's all this nonsense like that has like quote -unquote value and then hyperliquid isn't really being valued like fairly because it just outshines them so much well that's kind of like saying like i expect the new year to be like fully going the way it is like june 5th and january 1st like it doesn't happen like just all at once it has to slowly everything"
+    },
+    {
+      "start": 2762.54,
+      "end": 2792.68,
+      "speaker": "SPEAKER_00",
+      "text": "has to slowly bleed out and die it shifts and like if you look at like what's actually happening that's what's happening like hyperliquid is slowly slowly outperforming everybody right it just doesn't happen it just happens over time as collectively everybody realizes it and you're literally seeing that happen so i have no worries yeah for sure it's kind of like making a soup you know you're not going to want to eat it instantly after 40 minutes you're going to want it yeah you're going to want"
+    },
+    {
+      "start": 2792.68,
+      "end": 2822.75,
+      "speaker": "SPEAKER_00",
+      "text": "it to sit for a little bit exactly exactly so let it sit let you know let people realize that hype is actually worth 300 400 500 bucks you know and then it'll happen all at once there you go there's the clip clip it yeah all right man so what will what will it take to get the masses to come to hyper evm we'll take the masses from hyper evm um oh man i really wish i could talk about uh some"
+    },
+    {
+      "start": 2822.75,
+      "end": 2852.77,
+      "speaker": "SPEAKER_00",
+      "text": "stuff that i can't talk about that we're working on it's gonna take people who are building really cool stuff for people that care about the user experience people who are cleverly obfuscating away the technical side of the evm in terms of like interacting with the evm because it's just uh it's just too much friction for for the normal people you know it's already too much to ask them crypto and this new thing and then to ask them to sign transactions blah blah"
+    },
+    {
+      "start": 2852.77,
+      "end": 2882.89,
+      "speaker": "SPEAKER_00",
+      "text": "blah you lost them already you know what i mean so you have to have people who really understand that um building here and luckily the hyper liquid team understands that that's what they're doing that's why hyper liquid's popular but to get down the hyper evm it's just going to take time it's just going to take time and people to realize that this is the best place to build because it is and uh you know i really think jeff is sort of like if you build it they will come mindset they do support people building like we've gotten support from the hyper liquid team trying to build stuff"
+    },
+    {
+      "start": 2882.89,
+      "end": 2913.21,
+      "speaker": "SPEAKER_00",
+      "text": "that we do and execute whether it's you know the bridging the nfts from based hyper liquid or whatever it is i know that they help teams um so i i think i you know i don't worry too much about the hyper evm you know i'm just because we're on the hyper evm doesn't mean i'm like staying up all day worrying about the hyper evm i care about hyper liquid itself hyper evm is one part of it um and i think it's gonna probably be shown again in the future maybe we're going to see the hyper evm uh launch on the prediction markets launching in a few months most likely you know maybe"
+    },
+    {
+      "start": 2913.21,
+      "end": 2943.39,
+      "speaker": "SPEAKER_00",
+      "text": "we're gonna again go like oh hyper evm is hated like you know no it's just it's a pivotal like prediction markets are going to add a lot of value to hyper vm again it's just not realized yet you know what i mean like hyper vm is very it's going to add a lot of value to all these things that they're building about fibrilic itself it's just just like hyper liquid is going to be realized as well as valuable as it should be in time like revm will also i think What do you think? What do you think will come to people? I think it's twofold."
+    },
+    {
+      "start": 2943.45,
+      "end": 2973.63,
+      "speaker": "SPEAKER_00",
+      "text": "I feel like people don't really know about Hyper -EVM when they hear Hyperliquid, they just think of HyperCore. So there needs to be more messaging, whether it be the individual communities, the builders, there needs to be more of a push to show people that there is another side. And then these pre -compiles or like these connections that you can do between HyperCore and Hyper -EVM, I think those need to be more openly discussed because even as like an active"
+    },
+    {
+      "start": 2973.63,
+      "end": 3003.73,
+      "speaker": "SPEAKER_00",
+      "text": "user on Hyper -EVM, HyperCore, like I don't really understand how that stuff works yet. There really hasn't been something that I'm aware of that's like in your face, like here we're using this new pre -compiled technology that works in this way. You know, it's not out there yet. Like that conversation hasn't been had, I think as much as it should have. I think time, like the soup thing again, it'll just take some time. I think it's"
+    },
+    {
+      "start": 3003.73,
+      "end": 3033.89,
+      "speaker": "SPEAKER_00",
+      "text": "still an alpha. Yeah. I feel like it's kind of in a beta right now, but like, yeah, I mean, I don't know, but I don't know what they call it. To me, it feels like it's in a beta. I mean, it's a lot of TBL, like people are using that. For sure. For sure. Yeah. I think it's time is coming. So it's just, we're going to have to wait. Hip force. Airdrop love wouldn't hurt. I would give it some help. I would say that too. That too. Yeah."
+    },
+    {
+      "start": 3034.01,
+      "end": 3063.99,
+      "speaker": "SPEAKER_00",
+      "text": "That's a whole nother thing. Spicy takes all over the timeline. People, people talking about airdrops. Should it happen? Should it not happen? What do you think? I think it's going to happen. I think, you know, they've earmarked a good amount for the community. I just think that, you know, maybe I'm projecting my own view onto them. I don't think that I am. I think I think my view has evolved from observing the hyperliquid team and the way that they do things and the way that they"
+    },
+    {
+      "start": 3063.99,
+      "end": 3094.33,
+      "speaker": "SPEAKER_00",
+      "text": "do things seems to be with a real long -term view, you know, and they're really trying to build something for, for the long time. And that that's mine too. And that's mine more than ever now. And if I was them, I would be, you know, definitely planning to do another airdrop, but also very purposeful about like, how does that work? And, you know, maybe 10 airdrops every two years, the next 20, 20 years, you know what I mean? This is about hyperliquid lasting and becoming like, you know, the house of finance. So"
+    },
+    {
+      "start": 3094.33,
+      "end": 3124.43,
+      "speaker": "SPEAKER_00",
+      "text": "if we're talking about a hype that is potentially four digits or at least three digits, these airdrops could be quite consequential, even if they're only a small amount every few years and the incentives from them are quite powerful and they've, they've managed to not play the incentives card yet, which I think is really something that they don't get given enough credit for, which is like the absorbed finances tax absorbed, like, later they absorb all this bullshit without having to pull out the like, oh, hyperliquid season three. I mean, like they, they,"
+    },
+    {
+      "start": 3124.43,
+      "end": 3154.77,
+      "speaker": "SPEAKER_00",
+      "text": "they kept that shit in the chamber, which is really cool. You know, that's what that tells me. Like they really know what they're doing. Um, and they're going to pull that out like when it's right. Um, which I think that just gives me so much confidence in this team. So I don't know, as a hype holder, I couldn't have more confidence in Jeff and the team, um, ever. And I, I do feel like people don't give them enough credit for like the gravity of what they've undertaken and what they've already done"
+    },
+    {
+      "start": 3154.77,
+      "end": 3184.83,
+      "speaker": "SPEAKER_00",
+      "text": "and what they continue to do. Um, I feel like people should glaze them and give them even more than they already got, because I think it's, it's a really monumental past that they're doing and when the airdrop comes, I think it's going to be amazing. Yeah, man. Amen. Can't wait for that day if, and when it happens. Yeah. Or was there anything else you wanted to say? You wanted to let our, you know, the hyperliquid community listening? No, uh, not particularly, you know, we are"
+    },
+    {
+      "start": 3184.83,
+      "end": 3214.89,
+      "speaker": "SPEAKER_00",
+      "text": "working on, uh, uh, some really significant stuff other than what I've mentioned, but just do the nature of crypto. I can't talk about it too much, but, uh, have your team has never been stronger than it is now. We've got a lot of people living together in real life, um, which was not the case last year. Everybody was remote. Um, the energy around our team is super fired up and super excited about, um, many different aspects about this. You know, we felt like we were kind of a way to make NFTs fun again last year, and we're gonna try to do it"
+    },
+    {
+      "start": 3214.89,
+      "end": 3244.89,
+      "speaker": "SPEAKER_00",
+      "text": "this year. And, you know, inshallah like for the years to come, we hope that everything will go well. And, uh, we thank everybody who stuck with us and for all the support and believed in us, you know, because that, that means a lot. And that's why we're still here. And people like you beef, you know, you've done a great job making content and you know, to me, like before prices, like before price, but like to see real people, people like you who are like cool, you know, regular for lack of a better word, you know what I mean? Like just normal people that are, are doing their thing here, you"
+    },
+    {
+      "start": 3244.89,
+      "end": 3275.01,
+      "speaker": "SPEAKER_00",
+      "text": "know, finding their space and hyperliquid in the ecosystem, whether it's making content, making funny posts, you know, trading, sharing, trading ideas, whatever it may be. Um, that's really the mark of success to me, um, of our community. So I, I thank you for being a part of it too. Hey, I appreciate that. That, you know, all of us who are allowed about hyperliquid or we are the marketing of hyperliquid and you guys, but you guys"
+    },
+    {
+      "start": 3275.01,
+      "end": 3305.67,
+      "speaker": "SPEAKER_00",
+      "text": "are also the marketing of pipe. Yeah. You know what I mean? Like, I feel like we're kind of like this fractal type of liquid, you know, like just having run the project, I noticed all these similarities where I'm like, yeah, we're the marketer of hyperlink. And also like you are also marketing us very well when you like make great content with IPO, PFP. You know what I mean? So I appreciate that. Hey man, I appreciate that too. Well, thanks again, black from carbon. Not some time talking with me about hypo and everything you guys got cooking. Make sure you guys give them a follow and be on the lookout for a tide mic for"
+    },
+    {
+      "start": 3305.67,
+      "end": 3322.93,
+      "speaker": "SPEAKER_00",
+      "text": "Todd. That's what I almost be on the lookout. I'm going to say it again, be on the lookout for the latest job coming out of tide market as well. So yeah, real excited, man. Thanks again."
+    }
+  ],
+  "speaker_map": {}
+}

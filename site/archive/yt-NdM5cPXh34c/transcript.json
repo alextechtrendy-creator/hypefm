@@ -1,0 +1,632 @@
+{
+  "space_id": "yt-NdM5cPXh34c",
+  "language": "en",
+  "duration_seconds": 3148.679,
+  "chunks": [
+    {
+      "start": 7.63,
+      "end": 37.63,
+      "speaker": "SPEAKER_00",
+      "text": "what's going on everybody super excited to be chatting with huff of pear protocol how's it going huff dude i'm very good how are you awesome dude i'm excited to uh to finally chat with you this has been in the works for a little bit and uh been consuming all of your your content recently so it's fresh on my brain here let's do it there's a lot of content yeah man so before we get into pear specifically do you want to let people know about your background and how you actually found"
+    },
+    {
+      "start": 37.63,
+      "end": 67.65,
+      "speaker": "SPEAKER_00",
+      "text": "hyperliquid hypermeet is proud to be sponsored by silhouette the shielded layer on top of hyperliquid not only will you be able to obfuscate your trades but you will be trading with some of the steepest hyperliquid feed discounts that are available awaken tax crypto taxes for crypto natives could not have submitted my taxes without the team at awaken awesome customer service and they are always improving their hyperliquid support get started with awaken today shout out to purposeful node"
+    },
+    {
+      "start": 67.65,
+      "end": 97.97,
+      "speaker": "SPEAKER_00",
+      "text": "for being our newest sponsor validator selection is in your hands which means who you stake with actually matters purposeful is part of the kinetic active set they're aligned with the ecosystem supporting builders and even donate to in real life initiatives stake with purpose stake with purposeful nothing discussed on hypermeet is investment advice always do your research and make your own decisions i'm not responsible for any actions you take myself and my guests may hope to help you out in the future hold positions in the protocols we talk about"
+    },
+    {
+      "start": 97.97,
+      "end": 128.17,
+      "speaker": "SPEAKER_00",
+      "text": "all right buddies let's get back to the show yeah for sure so hoff isn't my real name uh it's my like digital moniker but the people that know me know that i used to work for uh two investment banks in london um so that's how i started out of kind of college if you will uh worked on the trading floor at one of them and then uh the same for both of them actually was on the trading floor i then uh left that ended up in crypto a buddy of mine was managing some of the trading floors and i was like oh my god i'm gonna have to do some money in crypto and so essentially we were running"
+    },
+    {
+      "start": 128.17,
+      "end": 158.19,
+      "speaker": "SPEAKER_00",
+      "text": "a mandate together in that fund mandate we were doing some pair trading we were doing some vault trading and we were just doing some yield farming and then i kind of got the itch to build something uh when that fund wound up and so that's how i got into kind of uh blockchain stuff being more closely aligned with arbitrum etc and then as i was building pair our first few integrations were with gmx and vertex and an intent -based solver all on arbitrum and then with the growth of hyperliquid it was very natural for us to tap into builder codes i think"
+    },
+    {
+      "start": 158.19,
+      "end": 188.29,
+      "speaker": "SPEAKER_00",
+      "text": "we were one of the first uh 10 builder code businesses to deploy on top of hyperliquid so we were very early to the ecosystem that's awesome and then on a personal level you know how early were you to hyperliquid did you end up getting the airdrop did you get a hyper how did you fit in there yeah i didn't get any of those things so all my friends did and all my all my trading buddies uh were like really kind of happy at airdrop day and i kind of"
+    },
+    {
+      "start": 188.29,
+      "end": 218.53,
+      "speaker": "SPEAKER_00",
+      "text": "like rage full ported at seven um dollars and that's how it became a hyperliquid maxi so i didn't get an airdrop didn't get a hyper i did kind of like have a lot of friends that did well out of it and um there was like one wallet where i hadn't signed the terms and i'd done like a little bit of trading on there just to like try out a bit so i don't even i didn't even want to live with the regret of what it could end up becoming worth and they were just adding to it 15. and so yeah this this"
+    },
+    {
+      "start": 218.53,
+      "end": 248.53,
+      "speaker": "SPEAKER_00",
+      "text": "point came in and i just like took whatever cash i had in other places in crypto and kind of full ported in hype and was very happy with the decision hell yeah no i i have a similar story i did not receive the airdrop or a hyper i actually came in december of 24 i think and uh yeah i got to see some of the fun all right so let's let's kind of dive into pear so pear like it's a builder code product and you guys"
+    },
+    {
+      "start": 248.53,
+      "end": 278.83,
+      "speaker": "SPEAKER_00",
+      "text": "are one of the most active on the timeline as far as people talking about it and marketing which i love personally i like you guys marketing style a lot and i think you guys are our number 13 overall for revenue according to flow scan i think i looked it up and for people who aren't familiar generally you know what is pair protocol yeah so have is obviously a play on words on this idea of pair trading and pet trading is this idea that you are long one or more assets and then short one or more assets against it."
+    },
+    {
+      "start": 279.01,
+      "end": 309.17,
+      "speaker": "SPEAKER_00",
+      "text": "So a simple example might be long hype and short Solana. And the reason why somebody would do something like that is they don't necessarily care whether hype goes up or down. They just care that it's going to outperform Solana, either on the way up or on the way down, or even in sideways markets. And so if you look at the world of traditional finance, hedge funds with the hedge in quotation brackets have been long short by nature. They've been longing a whole bunch of equities. Let's say they're long Tesla and they might be short Ford against it, for instance."
+    },
+    {
+      "start": 309.25,
+      "end": 339.27,
+      "speaker": "SPEAKER_00",
+      "text": "Or they might be long Nvidia and short like IBM or something. And so these kinds of pair trades are ubiquitous in traditional finance. And when we set out to build pair protocol, and bear in mind, this was in 2023, 2024, where people just wanted to trade long only and meme coins would be long like ETH and other things. We got laughed at by a lot of people, but our big thesis was, as crypto evolves, more and more people will want to be doing long short trading, pair trading, whether that's basket trading or just"
+    },
+    {
+      "start": 339.27,
+      "end": 369.45,
+      "speaker": "SPEAKER_00",
+      "text": "one versus the other. And especially the view that equity markets and commodity markets one day would come on chain. And so we built pair protocol for what we believe is going to continue to grow over time. Yeah, fantastic. When I think of my experience with pair, and kind of how I trade in general, I guess, it's more of like a thesis I have. It's not just me. I'm solely longing. It's like, oh, I think this is going to do well. And this might be like the byproduct that suffers, you know, that might trend"
+    },
+    {
+      "start": 369.45,
+      "end": 399.53,
+      "speaker": "SPEAKER_00",
+      "text": "down. So having a tool like pair to trade on is really going to like, clear that up for me and really allow me to like, put that thesis down in a trade. I think doing it this way, even if I do like a basket of products, it's going to help me, not financial advice, it helps me be more profitable on the trade, because there's less specificity. And so I think it's going to help me be more profitable on the trade, because there's less specific, like pointed things I could fail at, you know what I mean? You're kind of getting that, that average of the basket, which really"
+    },
+    {
+      "start": 399.53,
+      "end": 429.57,
+      "speaker": "SPEAKER_00",
+      "text": "seems to help not so great trader like me. What are you seeing from like, your side, as far as what people are most commonly doing? What's interesting that you see people doing on your platform trade wise? Yeah, so as the product has evolved, we started off where you would like long one asset and short another. So let's say like long pipe short sold, and you'd have one entry price, one level of P &L and one chart for hype sold. What we found over time is that people didn't just want to long one asset and short another, they wanted to longer basket of"
+    },
+    {
+      "start": 429.57,
+      "end": 460.13,
+      "speaker": "SPEAKER_00",
+      "text": "things maybe long pipe, long Zcash, long Bitcoin, long some other stuff, and then short things like Solana, Sui, OP, ETH, etc. And so trend number one has been basket trading, since we launched the basket trading feature, I would say like more than 50 % of our volume is people doing basket trades. The other thing that's been a huge kind of thematic thing for us is that we've started to do a lot of basket trading, and we've been us has been the addition of all the HIP3 markets. So more recently, Paragon deployed things like Bitcoin dominance, others"
+    },
+    {
+      "start": 460.13,
+      "end": 490.77,
+      "speaker": "SPEAKER_00",
+      "text": "and Total2 as PERP markets. And people have been using them. So doing things like long hype and short Total2 or long hype and short others as thematic trades. Other people have been doing kind of equities versus commodity trades or equities versus crypto trades. So before all the kind of war tension broke out and there was all this like pessimism about crypto and how we should be trading equities instead, we saw people trade some of the trade XYZ markets like NVIDIA, like SanDisk,"
+    },
+    {
+      "start": 490.91,
+      "end": 521.73,
+      "speaker": "SPEAKER_00",
+      "text": "et cetera, Micron, and trading a basket of long equities versus short crypto, which worked out really well for them. And then we've seen people play thematic trades like being long oil and short gold or long oil and short crypto and those kind of more like geopolitical themes as well. I think what's encouraging for me as like a founder, pair is you're right. Like a lot of people come to pair for narrative trading and the narratives change from week to week. So one week you might be once you might want to put on like a geopolitical"
+    },
+    {
+      "start": 521.73,
+      "end": 551.93,
+      "speaker": "SPEAKER_00",
+      "text": "hedge trade and you don't need to have a long leg or have a short leg. You can just do some outright trading. And we saw people build like these war baskets where they were long oil. They were long like energy. They were long some other kind of things and they had no short leg against it. They were just long these things which should do well in, uh, a kind of geopolitical environment. So a tense geopolitical environment. And so the themes change from time to time, but they're some of the things that we've been seeing. Awesome. You know, I really"
+    },
+    {
+      "start": 551.93,
+      "end": 582.31,
+      "speaker": "SPEAKER_00",
+      "text": "want to do a couple of shout outs. First, you mentioned Paragon. Yeah. I just did an episode with them. I really like what they're bringing hip three wise to the table. It is a fantastic tool to be trading on. So that's cool to see you guys interacting with each other and, uh, putting out content too. And then, uh, the other shout out was Lou Nartha. She is. Yeah. Pumping out these awesome short videos where she breaks down pair concepts and how to trade it. Uh, you know, not financial advice, but that stuff is fantastic. And it really like inspires me personally"
+    },
+    {
+      "start": 582.31,
+      "end": 612.35,
+      "speaker": "SPEAKER_00",
+      "text": "to like take on some of those trades or like tweak them a little like with my viewpoint. That's really cool stuff. Good job working with her. Cause that's, that's awesome stuff she's doing for you guys. She's brilliant. She's smart. She communicates really well. She creates high quality video content and she started out as a pair user. And the thing that I like love about the journey of working with her and a handful of other ambassadors for pair is these are people that have come to us because they like the platform. They're part of the community. They've been"
+    },
+    {
+      "start": 612.35,
+      "end": 642.41,
+      "speaker": "SPEAKER_00",
+      "text": "in discord and they've just been active. And we've kind of started a DM conversation. Like we do with most people that are an active user of pair, built a relationship. And then from there, like started working together on, on some content. So I would say like one thing that makes Hyperliquid unique and one thing that makes pair kind of unique within that ecosystem is it's a very meritocratic space and people have like if if you're willing to talk about good technology and and build on top of the hyper liquid space then people have air"
+    },
+    {
+      "start": 642.41,
+      "end": 672.61,
+      "speaker": "SPEAKER_00",
+      "text": "time for you and i really like that about building in this space yeah awesome i'll make sure to uh link one of her videos down below in the thread below this interview so if you guys are interested in seeing exactly what we're talking about make sure you check it out another thing i really like about pair in general is the way you guys give control to your traders setting your parameters your stop losses take profits your trailing stops you know and managing the spread uh you guys took the time to build all that stuff"
+    },
+    {
+      "start": 672.61,
+      "end": 702.65,
+      "speaker": "SPEAKER_00",
+      "text": "in but one option i'm still trying to figure out how to use is or like manage i guess is the weighted ratio can you can you talk about that yeah so when most people think about pet trading right they'll they'll look at something like HypeSol and they might type that into tree terminal or they might type that into trading view. And by default, HypeSol is just 50 -50, right? Like what's the price of Hype and let's divide it by the price of Sol. Now, the reality is whether it's hedge funds, whether it's more professional crypto traders, whether it's like"
+    },
+    {
+      "start": 702.65,
+      "end": 733.59,
+      "speaker": "SPEAKER_00",
+      "text": "a more quantitative approach to trading, you don't necessarily want to be 50 -50 because Hype and Sol move in different ways, right? In a more extreme example, you don't want to be 50 -50 for something like Bitcoin and Fartcoin as a short leg, right? You might want to be like 60 -40, for instance. And so coming back to the HypeSol case, what we show on pair is the weighted ratio chart. So we don't show you the price ratio of Hype divided by Sol. We show you the weighted ratio in whichever ratio"
+    },
+    {
+      "start": 733.59,
+      "end": 763.81,
+      "speaker": "SPEAKER_00",
+      "text": "you choose, whether it's 60 -40, 70 -30. We have some suggested weightings as well, like a beta neutral weighting that you can have across different timeframes on one hour, four hour, one day. And so the chart is essentially what is the value of 55 % Hype divided by 45 % Sol. And what does a chart of that look like over time? And then whether you've done a 50 -50 trade or 55 -45 or whatever it might be, 60 -40, what we can do once we have that weighted ratio level,"
+    },
+    {
+      "start": 764.01,
+      "end": 793.83,
+      "speaker": "SPEAKER_00",
+      "text": "which is the level at which you have entered that trade, is then we can run bots against it. So we can have like a take profit or stop loss on the weighted ratio itself. We can have a trade like, we can have a stop loss on the weighted ratio itself. And so the reason why we brought that logic is because over time, what we found is many users don't just want to do a blind 50 -50 when they're selecting their long shorts, especially once you build a basket, because a basket obviously has maybe like 10 % of your basket is long this and 5 %"
+    },
+    {
+      "start": 793.83,
+      "end": 823.97,
+      "speaker": "SPEAKER_00",
+      "text": "is long that, and it adds up to say 50%. And then you have a whole bunch of stuff on the short side. What's the level of that basket trade, right? What is the weighted ratio basket level? For that long versus that short. And that's the level at which is your entry price on that basket trade. That's what you want to kind of track. And so we make it really clear in the UI that you are trading the weighted ratio. Yeah, I'm going to have to play around with that a little bit more, but one thing that I know will definitely help me is Agent Pair. I think"
+    },
+    {
+      "start": 823.97,
+      "end": 854.13,
+      "speaker": "SPEAKER_00",
+      "text": "I heard you guys talk about it in the space. I love when you guys do your spaces. It seems like Agent Pair has been in the works for a while now. What is the vision behind it? The Agent Pair and how do you see people using it frequently? Yeah, so it seems nowadays that AI agents are all the rage, right? Whether it's somebody building a platform for AI agents, or whether everyone has an AI agent for their own trading. We were very early to this. And so when all the eventual stuff started popping"
+    },
+    {
+      "start": 854.13,
+      "end": 884.23,
+      "speaker": "SPEAKER_00",
+      "text": "off in kind of Jan of last year, so Jan 2025, we saw all of this and we were like, there is going to be two types of agents. There's going to be the generalised agent. There's going to be the hyper -specialised agent who tries to be good at everything, right? And then there's going to be a hyper -specialised agent that helps you with one specific thing and gets very, very good at that one thing. And so we looked at these two things and we said, do we want to build a generalised agent for trading? And it starts pulling in things about RSI and about momentum and about the chart and Twitter sentiment"
+    },
+    {
+      "start": 884.23,
+      "end": 914.35,
+      "speaker": "SPEAKER_00",
+      "text": "and all of this. Or do we want to build a hyper -specialised agent that can give you insights into a pair trade or a basket trade that you're thinking of doing? And so, agent pair in its first phase was just about building a really good data library to build from because all these agents are as good as the data that they have access to. Now, most agents are built on top of, let's say like an open AI model or a Gemini model or whatever it is. So they share the same data that they do, that these LLMs have"
+    },
+    {
+      "start": 914.35,
+      "end": 944.71,
+      "speaker": "SPEAKER_00",
+      "text": "access to. And so for us, it was really important to build a proprietary database, which had real -time correlations, real -time Z scores, real -time betas, real -time kind of co -integration tests and things. And so phase one of agent pair was just how do we get the best possible data for pair traders and basket traders? And so that was phase one. Phase two was then how do we turn that into actionable signals and have an AI agent that is scanning this database in real time? And when a mean reversion trade opportunity pops"
+    },
+    {
+      "start": 944.71,
+      "end": 974.83,
+      "speaker": "SPEAKER_00",
+      "text": "up, it says, hey, this looks like a good asset to long versus this because historically they've had some kind of mean reverting relationship. So, that was phase two creating these signals from the database. I think phase three is where agent pair is currently, which is a it's essentially like an agent that you can chat with. We are in the process of launching something called the agent pair trading suite. And so users on telegram can connect their wallet and agent wallet that is then connected to"
+    },
+    {
+      "start": 974.83,
+      "end": 1005.13,
+      "speaker": "SPEAKER_00",
+      "text": "the hyperliquid account. They can then ask questions in natural language. Like I want to go long hype. What do you think now? Or I want to go long hype. Suggest me five shares. I want to go short against it. It will give you a very good answer based on that statistical library that we built. And then as part of that, you can also do natural language charting. So, hey, chart this for me on a one day timeframe and it can do natural language execution for you. Like, okay, great. With my connected wallet, execute this TWAP $10 ,000 over the next one hour. And so agent"
+    },
+    {
+      "start": 1005.13,
+      "end": 1035.33,
+      "speaker": "SPEAKER_00",
+      "text": "pair, where we're really at in phase three now is building a charting tool on telegram that is way better than a tree terminal, a order execution system that is way better than typing commands into PVP a LLM, which is feels very natural for you to chat to just like with chat GPT and you can say, Hey, I want to do this trade. What do you think? And then having superior kind of proprietary data that feeds all of that from my in -house library. And it all really begins with the data. The database is super valuable here and it's something"
+    },
+    {
+      "start": 1035.33,
+      "end": 1065.49,
+      "speaker": "SPEAKER_00",
+      "text": "which has gotten better over time. Over the past two years that we've built this out and more than a year and a half that we've been building this thing. And then the final phase of agent port agent pair story is to turn this into actionable vaults. And so the same signals that I talked about for people to be able to deposit into a vault on hyper EVM and agent pair is scanning for these opportunities, executing the trades, closing them and you're getting the performance of that. Wow. It sounds super bullish and something that I would totally be into. Cause like"
+    },
+    {
+      "start": 1065.49,
+      "end": 1095.57,
+      "speaker": "SPEAKER_00",
+      "text": "I said, I'm not the best. I'm okay at like theses and thinking about like where I think things are going to be. Going, but like executing on the trades and the timing and stuff like that is something I definitely need to work on and have been working on. This sounds like something I'm going to use for sure. Does, does this work with like a sub account? Is that how it would work? Like when you connect it to your hyper liquid wallet, it would just create its own. Yeah, exactly. So you would just, there'll be like, once you start"
+    },
+    {
+      "start": 1095.57,
+      "end": 1125.61,
+      "speaker": "SPEAKER_00",
+      "text": "your conversation with agent pair on telegram, you'll be able to link your wallet. Once you've done that, it will send you to. The desktop has a one -time kind of sign in. You choose your account right now. It doesn't work with sub accounts. It just works with whatever hyper liquid account you want to use. We recommend people use a fresh wallet if they don't want to kind of have any conflicts with their existing positions. But yeah, super simple. And what I will clarify about everything with pair, whether it's agent pair in the telegram app or whether it's the pair desktop app is we're just an"
+    },
+    {
+      "start": 1125.61,
+      "end": 1155.65,
+      "speaker": "SPEAKER_00",
+      "text": "interface on top of hyperliquid. Your deposits sit on hyperliquid withdrawals take place from hyperliquid. Uh, at any given time, you can log into hyperliquid and see your positions, right? So we are just a layer on top which provides users with all the UI and UX benefits of pair and basket trading and in the most efficient way. Awesome. We're just kind of having different conversations with people recently with all the hacks going on. Can you guys speak to your level of security? Like, um,"
+    },
+    {
+      "start": 1155.79,
+      "end": 1185.81,
+      "speaker": "SPEAKER_00",
+      "text": "people should feel comfortable, you know, integrating something like agent pair and giving it access to money. Do you want to touch on what you guys are doing to make sure you're ahead of the game in regards to any threats that are potentially arising? Yeah, so it's definitely been a sad time for DeFi with everything that happened in drift and then more recently with Kelp DAO and RS East as well. I think for us we use a very standardized flow with privy for wallet creation and then privy handle all"
+    },
+    {
+      "start": 1185.81,
+      "end": 1215.89,
+      "speaker": "SPEAKER_00",
+      "text": "the kind of authentication process that takes place there and so we never want to get into the world. of like storing your private keys or anything like that, that degree of encryption should happen through somebody that's an expert in account connection and privy is clearly like one of the leaders in this space. So like a lot of builder code businesses will be connected to hyperliquid and your hyperliquid account through privy and the agent wallet that gets kind of created there. I think above and beyond that, when you're using agent pair on telegram"
+    },
+    {
+      "start": 1215.89,
+      "end": 1245.99,
+      "speaker": "SPEAKER_00",
+      "text": "and getting confident that you have funds on this thing and you can execute the agent, these trades again, we rely on a very similar architecture to most of these like builder code front ends, which is we don't store any of that private key data anywhere and this is your account at any given time. Like you can, if you want to just connect to the hyperliquid front end, see your funds are there, withdraw it if you want, et cetera. But for a user to lose money essentially here, they"
+    },
+    {
+      "start": 1245.99,
+      "end": 1276.05,
+      "speaker": "SPEAKER_00",
+      "text": "would have to be hacked at the hyperliquid level. Okay, cool. No, thank you for, for touching on that. It is kind of a sensitive time out there, but yeah, that makes me more comfortable with it. I'm excited to try this out. I'm going to definitely fire up a new account and load it up and see what agent pair can help me do. What I will say is this, this version of agent pair is in beta, right? So it's invite only for a handful of people and happy for you to be one of them. And if anyone is listening and is part of your community for them to"
+    },
+    {
+      "start": 1276.05,
+      "end": 1306.11,
+      "speaker": "SPEAKER_00",
+      "text": "reach out to me or to you, and we can give them access to this as well. We've had a public version of agent pair, where you can ask questions and people have been able to see like the LLM in kind of action, but all these additional features like natural language execution, natural language charting, linking your agent wallet, being able to trade on the fly by just saying, Hey, enter this trade in like 10k TWAP over the next hour. That's all new and in beta and definitely open to giving you access to that. I'm super excited"
+    },
+    {
+      "start": 1306.11,
+      "end": 1336.15,
+      "speaker": "SPEAKER_00",
+      "text": "to try this thing out and just see how it performs. I'm really curious. You know, like as these things kind of develop, it's exciting to see from a trader like me who sucks and can, can have some cool tools to kind of get me caught up. I'm like, you know, hopefully one day the, to the levels of like lorical man, that guy's like crushing trading right now. Are you watching him? Are you aware of all the stuff he's been doing? I've, I've seen some of it. Like I kind of like to stay in my own lane. I trade myself. And"
+    },
+    {
+      "start": 1336.15,
+      "end": 1366.23,
+      "speaker": "SPEAKER_00",
+      "text": "one thing that I've found from, obviously I have a professional background in trading, I'm part of like different trading groups. I'm in my own like trading challenge is when you see what other people are doing, it can kind of blur your own conviction in your own system. And so I like to just stay kind of committed to my system that I have for my own trading, just because like, otherwise you can get really borrow. You can borrow conviction from other people and you never have"
+    },
+    {
+      "start": 1366.23,
+      "end": 1396.23,
+      "speaker": "SPEAKER_00",
+      "text": "borrowed. Conviction isn't never a good thing. Like you will sell too early. You will close too early. You'll mismanage it. You won't size it correctly. So I much prefer to like have my own system, my own risk management framework, my own tickets that I look at. And if other people are doing interesting stuff, I see it like entertainment, not necessarily as like something that I need to emulate myself. You know, you, you bring up a good point. Yeah. When you, when you do kind of view stuff like that, if you're not thinking at it from that mindset, it definitely can skew how comfortable you are in that"
+    },
+    {
+      "start": 1396.23,
+      "end": 1427.17,
+      "speaker": "SPEAKER_00",
+      "text": "trading position you're in. So yeah, maybe I need to, maybe I need to do more of that, but I'm still like not the best trader. So I guess I'm, I'm just trying to learn. So I'm definitely going to be using Asian pair, asking them questions and, and seeing what happens. So that's exciting. I'm going to hit you up for that, for that beta for sure. A hundred percent. Did recently you guys made a post where you talked about people who are building with the pair API? What, what's getting you most excited when you're seeing what people are built? Yeah."
+    },
+    {
+      "start": 1427.31,
+      "end": 1457.23,
+      "speaker": "SPEAKER_00",
+      "text": "So I, I'll start answering this in a different way, which is most people think they can do pet trading themselves, right? So they would go into the hyperliquid UI. Let's say they click one long of long hype. They then toggle over fine. So click short on that. And then they see these two lines on their kind of positions. And they're like, ha I'm pet trading now, mate. And I can kind of sympathize with that because in essence, in its simplest case, that's what you're doing. Now, when you get a little bit more complex and USA doing a 60, 40 trade, and you are like waiting this"
+    },
+    {
+      "start": 1457.23,
+      "end": 1487.37,
+      "speaker": "SPEAKER_00",
+      "text": "correctly, and you want to chart it in one place and have a take profit or stop loss on the ratio itself, you can suddenly see like, oh, okay. There are valuable features to pair. Like I can have a ladder order on, on a hype soul. I can tee up into hype soul as a ratio. I can have a hype soul trade, put on conditional on the price of hype or on the price of soul. There's like all these different things you can do with your pet trick. And when you start doing baskets, obviously it's very important to be able to chart that thing and to be able to adjust it and rebalance"
+    },
+    {
+      "start": 1487.37,
+      "end": 1517.73,
+      "speaker": "SPEAKER_00",
+      "text": "it. And see what you're like real true risk is. And that's what pair enables. So all those features that you can do on the front end, charting this management, adjusting trades, rebalancing trades, getting suggested weightings, all of that is possible through the API. Now the question is, who are these people that trade via API, as opposed to people that trade on a UI? Because most people think of an exchange like hyperliquid. They want to trade through the UI. The reality is hyperliquids like biggest traders are trading through the API. They're"
+    },
+    {
+      "start": 1517.73,
+      "end": 1547.93,
+      "speaker": "SPEAKER_00",
+      "text": "sending orders directly to the order book and they have their own system that sends the orders, right? They've built essentially their own interface to manage these positions. And so at the hyperliquid level, APIs are very kind of important way of executing trades. So the people that are using the pair API for basket trading, pair trading, mismanagement, and all of this stuff in the first instance, they were individual traders. They weren't going to use the UI. They have their own system, their own way of sending trades. They want to send these orders through an API. What's been more encouraging"
+    },
+    {
+      "start": 1547.93,
+      "end": 1578.11,
+      "speaker": "SPEAKER_00",
+      "text": "is other builders have also looked at this API and thought I can integrate pair and basket trading as a feature. And so we've seen telegram apps. We've seen different wallet providers. We've seen even people building simple games, incorporating pair and basket trading as an offering to their existing suite of users. Some of the ones that I really like is there's one called war dot markets. This dude, he built a essentially like a game, where it's an intelligence briefing and"
+    },
+    {
+      "start": 1578.11,
+      "end": 1608.23,
+      "speaker": "SPEAKER_00",
+      "text": "you go in and somebody gives you an intelligence briefing and says, Oh, the semiconductor industries is potentially going to blow up. Right. And these are like this short legs that you can trade on hyperliquid. And this is the basket, how it would trade. And once you've gone through this game and this intelligence kind of briefing, you can build the basket and you can kind of trade it and put it on. And then that's like a novel idea that he built out of a weekend and has sent the audience. What is through just now, we were speaking to one of the bigger,"
+    },
+    {
+      "start": 1608.27,
+      "end": 1638.27,
+      "speaker": "SPEAKER_00",
+      "text": "like mobile app providers on top of hyperliquid. And they were like, dude, I want to offer a pair of basket trading. Clearly you guys are the leaders in this. Clearly you have a superior backend for this, managing these positions for users. How can we add this as a feature to our existing product suite? And so you have everything from like individual traders through to like hobbyists, vibe coding, something right through to like existing hyperliquid ecosystem projects. I won't name them because we're like finalizing terms, but the reality is the API is really powerful"
+    },
+    {
+      "start": 1638.27,
+      "end": 1668.47,
+      "speaker": "SPEAKER_00",
+      "text": "for people across that entire spectrum. I'm excited to hear who you guys are partnering with on that. Now that you mentioned it, I think I did see that that war kind of app come across my, my timeline. And it looked interesting. I don't know that I would want to be like plugged into that all the time. Cause that's kind of like the doomer do take maybe. But it's cool to see people using the API and building creative things. I'm, I'm a creative, obviously it's cool to see people"
+    },
+    {
+      "start": 1668.47,
+      "end": 1698.73,
+      "speaker": "SPEAKER_00",
+      "text": "doing it at the code level and utilizing your guys' tools. So I'll be, I'll be posted on waiting to hear who you guys have partnered with for that mobile app of congrats on that. Thank you. And what I will say is like at a high level, people are going to misunderstand what pair is. They think it's just like a hyperliquid UI with like a fee. And they're just trying to like take this fee right on execution that you can do yourself. I think once you get, to use pair, you realize why users like to use pair, which"
+    },
+    {
+      "start": 1698.73,
+      "end": 1728.75,
+      "speaker": "SPEAKER_00",
+      "text": "is essentially not only to users tend to make more money by being pair trading or basket trading, cause they're not taking directional risks in the same way, but we do have the API that other people can use. We are coming up with this telegram, but we are launching vaults on hyper EVM. We do have the institutional version of pair, which is pet pro. And so we are so much more than just the one product that everyone can see. And I think the API is a good example of that, which is us being an. Infrastructure layer for any front end, whether it's a defy aggregator, whether it's an"
+    },
+    {
+      "start": 1728.75,
+      "end": 1758.93,
+      "speaker": "SPEAKER_00",
+      "text": "existing hyperliquid front end or wallet or mobile app that wants to start offering pair and basket trading. And they just don't have the in -house resources to really like build that at scale. It's the one thing that we have very specialized in. I wanted to talk to you about what you recently spoke at a New York city block works, digital asset summit, the DAS. What was that like getting up on stage and talking about pair in front of a, everybody on like a personal level. I can't even imagine what that was like. Are you comfortable in"
+    },
+    {
+      "start": 1758.93,
+      "end": 1788.99,
+      "speaker": "SPEAKER_00",
+      "text": "those types of situations? I'd be lying. If I said I wasn't nervous, I it's the first time I've spoken in front of that many people. So I was a main stage speaker on day one. And I think I was like fourth or fifth, right. To give you an example, like the sec chairman was after me. So it was like very high stakes, lot of people in this room and it's not my hometown either. I'm from London, right? So like being in a foreign town, having to give this presentation, in front of so many people that you don't know, it's kind of nerve wracking. And"
+    },
+    {
+      "start": 1788.99,
+      "end": 1819.03,
+      "speaker": "SPEAKER_00",
+      "text": "the dude who was miking me up, he gave me some really great advice at the time. He was like, what are you talking about? And I said, oh, I'm talking about how, how there's a growing relevance to being long, short positions and how crypto VCs kind of pivoting to more liquid mandates. And some of those same funds are doing this like long, short positioning, right. Buying a long basket of stuff and shorting some things against it. And he was like, you're probably one of the best people in the entire world to talk about this topic. And that just put"
+    },
+    {
+      "start": 1819.03,
+      "end": 1849.65,
+      "speaker": "SPEAKER_00",
+      "text": "my mind at ease. I was like, that is such a great way of framing what you're about to do on stage. Like, you know, more than 99 % of people in that audience about what you're going to talk about. You're the expert in the room. And so I kind of went out with that energy for sure. I was like nervous. I was well prepared. We had a decent like slide deck, but yeah, like as a bit of an aside, if anyone ever has to give like a presentation in front of a group of people, the sheer fact that you've been in the room, being invited to do that means somebody believes that you're the best place person in the world to talk about that topic. And"
+    },
+    {
+      "start": 1849.65,
+      "end": 1879.71,
+      "speaker": "SPEAKER_00",
+      "text": "I really liked that advice. It just put me in the frame of mind to go out there and be like, yeah, let me just talk about this thing that I love doing. And so that kind of framing was really powerful for me. Let me tell you, I watched this and your confidence was, was pretty good. And I really enjoyed your, your talk. So hats off to you. You did really well. It was smooth. You're a smooth talker. I mean, we talked about this before, before we started recording, but I really appreciate the way you communicate in your spaces. And, and"
+    },
+    {
+      "start": 1879.71,
+      "end": 1909.85,
+      "speaker": "SPEAKER_00",
+      "text": "apparently when you give a in real life presentations too. So if you guys are interested in watching the full breakdown, I'll, I'll include it in the thread below. Definitely check that out. I think it's worth your time. You touched on what the topic was, why crypto VCs are becoming more like hedge funds. Do you want to briefly touch on what you meant by that? And then you talked about, you talked about something called pair pro you want to tie that into. Yeah, for sure. So I will say"
+    },
+    {
+      "start": 1909.85,
+      "end": 1940.15,
+      "speaker": "SPEAKER_00",
+      "text": "it was a bit of a click bait title, like, like not every crypto VC is becoming like a hedge fund, but it's very clear that the crypto VC industry is in, in a pretty tough spot because that old model, which was invest really early in some infrastructure project, get a Binance listing, get to TG and like slowly get out of your position at a 10 X, a hundred X, whatever it might be. Right. That model is now broken. Like the marginal buyer for spot assets has gone. And so not only that, but blockchain"
+    },
+    {
+      "start": 1940.15,
+      "end": 1970.23,
+      "speaker": "SPEAKER_00",
+      "text": "hasn't really fulfilled its kind of promise in terms of users and transactions per second. And like this ubiquitous technology that loads of people are using and accrues for use. Right. And so with that kind of dynamic at play, these crypto VCs have an existential problem, which is most of them have taken money from outside. Do they go and give this money back or do they try and change their, their mandate? And so many of them, especially on the east coast of America are pivoting their mandates to become more like liquid token funds. And they've said, Hey,"
+    },
+    {
+      "start": 1970.27,
+      "end": 2000.57,
+      "speaker": "SPEAKER_00",
+      "text": "look, private venture doesn't work in the same way. We are still very good at researching and analyzing the crypto markets. And we think we can run a crypto liquid book. Even these guys, there's only 10, 12 things they can buy. Hype is one of them up until more recently. Ave was another things that generate revenue, maybe things like pump grass towel used to be one. Like there's, there's a, a really small subset of stuff that liquid token funds can do. And when these liquid token funds are buying these spot assets, they're typically looking"
+    },
+    {
+      "start": 2000.57,
+      "end": 2030.67,
+      "speaker": "SPEAKER_00",
+      "text": "at fundamentals like revenue revenues and growth metrics, et cetera. And they're looking at narratives like what is going to grow purpose as a category prediction markets as a category, et cetera. Right now we looked at that space and we spoke to a whole bunch of these liquid token funds. And many of them said to us, Hey, like what I really like to do is go along the stuff that I think will outperform and short everything else against it with huge token unlocks coming. And like all of this kind of stuff, we all know"
+    },
+    {
+      "start": 2030.67,
+      "end": 2061.09,
+      "speaker": "SPEAKER_00",
+      "text": "the kind of candidates that go in the short basket. And so my presentation that I gave was that there's this evolution happening where crypto VCs are changing their mandates to become more like liquid token funds. And the ones that have been doing the liquid token funds for a while are actually saying, Hey, let's do long, short positioning. And when you get into the world of long, short positioning, now you're in the world of being a hedge fund of, of kinds, right? And so the clickbaity title was why a crypto VC is becoming more like hedge funds. It's an evolution and it's an existential evolution. Like"
+    },
+    {
+      "start": 2061.09,
+      "end": 2091.13,
+      "speaker": "SPEAKER_00",
+      "text": "if you work for this crypto VC fund, you either change the mandate and provide superior risk adjusted returns to your LP. So you give the money back to them and you say, Hey, look, I can't add alpha here anymore. And so that's what we're starting to see pair pro is the answer to this. And so what we have seen is many, many of these people we spoke to, uh, about the pair product. They were very honest. They were like, look, I'm not going to connect my wallet to hyperliquid and pay you guys a fee and do it this way. I have existing"
+    },
+    {
+      "start": 2091.13,
+      "end": 2121.71,
+      "speaker": "SPEAKER_00",
+      "text": "KYC accounts. I have hyperliquid sub accounts. Um, I have accounts at by bit and crack and, and, uh, okay. X and places too. Um, I ideally just want to be able to connect my accounts to one front end, be able to see, see like my positioning for long, short baskets and to risk manage them really, really well. And so we had done 90 % of the work of this for already for pair. So pair pro is the institutional version of pair. And the main differences are that on when"
+    },
+    {
+      "start": 2121.71,
+      "end": 2151.73,
+      "speaker": "SPEAKER_00",
+      "text": "you connect your wallet, you'll be able to see like a dashboard with the correlations and said scores, the, uh, beaters, the, the volatilities, et cetera, for your, uh, longs and shorts. Um, and you'll be able to execute these at a slightly cheaper price bracket subject to doing much more volume a month. We're saying like 10 billion. A month of volume. So for the bigger kind of whales that might be listening or for the crypto funds that are looking to do more long, short positioning, pepper is really"
+    },
+    {
+      "start": 2151.73,
+      "end": 2181.79,
+      "speaker": "SPEAKER_00",
+      "text": "the product for them. Oh, that's exciting that you guys are, are making a product specifically for those types of users too. So I hope that they, uh, they catch on and hear what you guys are providing. It makes a lot of sense to hear them have to pivot from the old ways they used to do VC. It's like change or die, right? You need to keep up with the time. And if, if things can't be done the way that they were done in the past, you need to make a change. So that's awesome that you're doing that. Yeah. And the hype song is a great example"
+    },
+    {
+      "start": 2181.79,
+      "end": 2212.03,
+      "speaker": "SPEAKER_00",
+      "text": "of this, right? Like if you buy hype, let's say, right. As a liquid fund, hype can go up. It can go down. Like, I think most of us have like a consensus view that it can go up, but if the market turns to crap tomorrow and Bitcoins down at 50 K, let's say hype is not going to be trading at 40, right? It's going to be trading with some degree of beta to the wider market. Yeah. Now, if you trade something like hype soul compared to being just long hype in a liquid fund, you have considerably lower portfolio volatility. You have a considerably better max drawdown"
+    },
+    {
+      "start": 2212.03,
+      "end": 2242.07,
+      "speaker": "SPEAKER_00",
+      "text": "profile, and you have a better sharp ratio, which is a measure of your returns relative to the volatility that you take. And those kinds of conversations, like they, they get kind of stuck at the legal compliance stage where a fund manager says, Hey, like I want to do hype salt, right? And someone says, why don't you just buy? Hype instead. And then they come back with the counter argument. Yeah. But hype soul like works in all market conditions and it's lower portfolio volatility and better risk adjusted returns. And that's"
+    },
+    {
+      "start": 2242.07,
+      "end": 2272.39,
+      "speaker": "SPEAKER_00",
+      "text": "where pair pro slots in. Cause then at that same stage, the fund manager can be like, look, there's a platform they've been around a long time. I can connect my existing accounts. It's cheap to execute there. I have all the risk management tooling and overviews and charts and things that I would need. And I can execute these trades and keep an eye on them and export the CSV in, in the right format for, for reporting for the fund. And so that's really where we slot in with that product. So I want to get back to the, the block works a DAS. You guys did something special afterwards. You"
+    },
+    {
+      "start": 2272.39,
+      "end": 2302.67,
+      "speaker": "SPEAKER_00",
+      "text": "guys had this awesome poker night, kind of, you had like a custom poker table, custom chips. All I know is I looked at it, it looked like an awesome party spill some alpha here. Did you have any like crypto legends attend, you know, who is the big winner at the end of the night? You know, don't dock some, but if you want to say their acts. Yeah. So, so we did, it was an official event together with block works. Right. And we, it wasn't just one table. We had three tables. You're right. We had like custom"
+    },
+    {
+      "start": 2302.67,
+      "end": 2332.95,
+      "speaker": "SPEAKER_00",
+      "text": "chips and we had a custom felt and like dealers and all, all this kind of stuff, even like a custom drinks menu that was pair themed, et cetera. And it was at this like rooftop bar thing. Now, the reason why we chose to do a poker night is because we were obviously finding users for pair pro. And there's a huge, huge overlap between poker players and people that would use the terminal, like pair pro poker players and people that kind of pair trade long, short trade. They're very analytical people, right? They're thinking about risk all the time. They're thinking about"
+    },
+    {
+      "start": 2332.95,
+      "end": 2363.27,
+      "speaker": "SPEAKER_00",
+      "text": "making these like measured calculations, et cetera. And so running a poker theme night was just like a natural overlap with the people that we wanted there. I think for most people that I've ever been to like a crypto conference, that always the same as well, like drinks and some remote part of town, you stick around for half an hour, an hour, you talk to your buddies, and then you kick on to the next kind of thing. We wanted to create an event that had like some lock in for a couple of hours where it wasn't so much about the number of people that was there. It's about the quality of the conversations. And there's no, nothing better"
+    },
+    {
+      "start": 2363.27,
+      "end": 2393.91,
+      "speaker": "SPEAKER_00",
+      "text": "in my mind than sitting on the table with like nine other people, eight of the people. And you're all kind of like -minded. You all care about what's going on in macro. You all care about hyperliquid. You all care about long, short trading, and you all care about poker as well. And so to give you an idea, like Frank de gods was on. My left, a guy from galaxy was on my right. We had a whole bunch of pretty high profile, like fund managers and people there on the same table that I was on. We had people from like dragon fly and other kind of big venture firms as well. And so it was, it"
+    },
+    {
+      "start": 2393.91,
+      "end": 2424.01,
+      "speaker": "SPEAKER_00",
+      "text": "was a great evening. All three tables were kind of full. We had other people just came and like spectated and we're having a drink and whatever else. But I think the event was successful in the sense that Pepro is not only like a concept it's live and we've onboarded the first, first five users to the platform. So it's one of them where like, if I measured ROI of doing an event like this, we got the outcomes exact that we wanted, which was high quality conversations between people that were super aligned on the product that we were looking to promote. And"
+    },
+    {
+      "start": 2424.01,
+      "end": 2454.01,
+      "speaker": "SPEAKER_00",
+      "text": "we did it in a very curated way. Like we turned down more than 200 people that applied for this thing. Um, it was very much invite only. And if I was to do an event again, and I'm not the biggest fan of like sponsoring conferences, I think like for the large part, they were a waste of money to do that. Um, and I do think that that one event was like the thing that I would do again. And I saw those pictures and I heard you guys were going to do something and I so badly wanted to go, but my wife would have killed me, man. I've got a, I've got a seven month old and then a three"
+    },
+    {
+      "start": 2454.01,
+      "end": 2484.31,
+      "speaker": "SPEAKER_00",
+      "text": "year old. I'll have to, I'll have to go next time. She won't, you know, we'll have to figure it out when, when hype is like a hundred, uh, hi, she won't really, you know, I'll be like, Hey, look, you know, I was patient. It's time for me to go. I want to hang out. I want to hang out with my people. So we will, we will definitely invite you. I've, I've run poker games, like, uh, even outside of like the official block works thing. I did one at token 2049, um, in Dubai, one in Singapore as well. So whenever these like conference"
+    },
+    {
+      "start": 2484.31,
+      "end": 2514.51,
+      "speaker": "SPEAKER_00",
+      "text": "things are around, I like to organize a little poker game, keep it a curated group of people, get a nice venue, get some food and drinks and like, just talk about stuff that people actually care about. Like one thing I really get tired of my social media, my social battery doesn't have much time for is turning up to a conference and having like small talk for half an hour. That can be draining. You know, there's only so much of that energy for that, you know, so totally get that. Let's let's talk about some of the things pair offers here. So you have a pair token."
+    },
+    {
+      "start": 2515.21,
+      "end": 2544.53,
+      "speaker": "SPEAKER_00",
+      "text": "Um, you can acquire it on arbitrum and beyond fee discounts. Why would somebody acquire pair and stake it? What does that unlock for them? Yeah. So we do have a token, uh, the token we launched in September, 2024 and the token essentially had multiple reasons to hold it. The first was trading fee discounts. So our headline fee is six basis points. The reality is most of our traders hold pair and they get a trading fee discount of up to"
+    },
+    {
+      "start": 2544.53,
+      "end": 2575.05,
+      "speaker": "SPEAKER_00",
+      "text": "40 % just by virtue of them holding pair tokens. So that was like the first utility, which was trading fee discounts. The second utility of holding pair up until more recently was that 80 % of our revenue was. Paid to token stakers in the form of ETH or USDC. And so whenever we made revenue, let's say we made like 10 K in a day, we would pay eight K of that to the token stakers and they could collect that yield. And we'd been doing that for on chain in a transparent way, paying out hundreds of thousands of dollars of fees, um,"
+    },
+    {
+      "start": 2576.13,
+      "end": 2605.09,
+      "speaker": "SPEAKER_00",
+      "text": "all throughout 2024 and all throughout 2025. More recently, we changed the model to a 70 % buyback model. So now 70 % of the revenues are used to buy back the token. 30 % come to treasury and then the trading fee discounts have remained and we're in this world now where our token is on Arbitrum for legacy reasons. Our first integrations were with GMX and Vertex and we launched pair on Arbitrum and we're in this process now where we're looking at"
+    },
+    {
+      "start": 2605.09,
+      "end": 2635.67,
+      "speaker": "SPEAKER_00",
+      "text": "the token. We think it's mispriced and we have already bought a spot tick on Hypercore with the plan of doing a spot token relaunch. The buybacks are in place. So like it's providing some degree of a floor. To the price, if you will. And I'd really, it makes sense for us to align our token with the ecosystem that we're most aligned with, which is, is Hypercore. So it's really a case of across all these product lines that we have, whether it's the API, whether it's pair in its current form, whether it's pair pro, we haven't even talked about things like the vault offering that we're going to have or"
+    },
+    {
+      "start": 2635.67,
+      "end": 2665.85,
+      "speaker": "SPEAKER_00",
+      "text": "the agent pair telegram app that we have, like across all of those, we're very hopeful that the revenues become meaningful. And when the revenues are meaningful, moving the token to a venue, that's a lot more liquid, could probably make sense. The other thing I will say about tokens is 99 % of projects don't need a token. And so we think very deeply about what it means to have a token. And we are following very closely all the conversations around equity and token rights. And I think ultimately where this industry is converging is most tokens should have equity"
+    },
+    {
+      "start": 2665.85,
+      "end": 2696.51,
+      "speaker": "SPEAKER_00",
+      "text": "like features to them, either in the form of buybacks through revenues or in terms of like actually sharing the IP as well and bringing that as an asset of the DAO. And so we are at the forefront of really thinking, Hey, how do we like make this token as equity like as possible and really create like a fair world for, for token holders? Because up until now, token holders have been kind of subordinate to equity holders when it comes to, to"
+    },
+    {
+      "start": 2696.51,
+      "end": 2726.55,
+      "speaker": "SPEAKER_00",
+      "text": "rights over revenues or rights over IP or even rights in the event of acquisition. And that's just not like, that's not what we want to do at Penn. We really want to be at the forefront of building a good token that confers all the rights that you would expect when you invest in this thing. Awesome. Yeah. You're making me bullish. Want to scoop some up. I think you touched on it, but I guess I wanted to clarify your new pair pro product that the fees that are coming from"
+    },
+    {
+      "start": 2726.55,
+      "end": 2756.59,
+      "speaker": "SPEAKER_00",
+      "text": "that as well are also tied into this revenue buyback of the pair token. Absolutely. Awesome. 70, 30. Oh, that's great. And the vault. So our first vault, we'll be on hyper EVM. It will be the agent pebble with these statistical signals and then trading these trade ideas. It's like 20 trades a day that he's in and out of that vault will be on hyper EVM. And there will be like a performance fee attached to that. And even the revenues from that will be used to buy back the token as well. And so we're kind of in a, like, show me stage."
+    },
+    {
+      "start": 2756.85,
+      "end": 2786.85,
+      "speaker": "SPEAKER_00",
+      "text": "A lot of people are like, Oh, you know, pair looks cheap here and mispriced and whatever. We're just like, I don't even want to show my token. I just want to like, you know, you know, build great product, have the revenues buy back the token, and then the market can catch up when it's ready for it. And then you got all the API stuff that other people are building in this, this mobile app also working with you guys. So yeah, that's, this sounds bullish. All right, well, let's, let's talk about some more incentives. You guys have, you have something"
+    },
+    {
+      "start": 2786.85,
+      "end": 2816.93,
+      "speaker": "SPEAKER_00",
+      "text": "called high pair points. Love all the, you know, P E a R integrations you guys are doing there. Well, this was all over my timeline. When you guys did, the season to drop and I guess saw people getting some hype from you guys airdrop from you guys. That's super exciting. I'm not sure if you know offhand, but what was the average airdrop? Like one of your users received? Good question. I actually asked it last night. Okay. So for"
+    },
+    {
+      "start": 2816.93,
+      "end": 2847.19,
+      "speaker": "SPEAKER_00",
+      "text": "season one, the average that I use a received was a 12 .5 height in season two. It was a slightly lower, let's say like 10 hype per user in aggregate. We gave out more than 5 ,000 height across these two seasons. So like in today's prices, that's more than $200 ,000 and people are often confused about this high pair point season because most point seasons are trying to farm you for like a TG event"
+    },
+    {
+      "start": 2847.19,
+      "end": 2877.27,
+      "speaker": "SPEAKER_00",
+      "text": "for their own token. That's not what we've done up here up here. We bought a lot of hype, um, at $17 to be strategically aligned. With the hype ecosystem and to also potentially end up like one day with a trading fee discounts and things. And so we have a large treasury of hype. I'm very honest that the average buy price of that was $17. And so we've made money on it. And then we were like, well, what do we do with this money? Right? Like, do we just like take it out and be like, Hey, we've made some money. Let's like spend"
+    },
+    {
+      "start": 2877.27,
+      "end": 2907.41,
+      "speaker": "SPEAKER_00",
+      "text": "it on marketing. Or do we actually give some of that hype back to our users? And so that's the hyper point season. We're now in season three in season two, season one, we gave out 2000 hype in season two, we gave out 3000 hype. We haven't committed to any particular amount for the next season, but essentially if you trade on the pair, uh, use it in an organic way, do some volume on the platform, you'll accumulate these points on a weekly basis. And then there's points at the end of the season and we don't keep these"
+    },
+    {
+      "start": 2907.41,
+      "end": 2937.41,
+      "speaker": "SPEAKER_00",
+      "text": "seasons running forever. They're always like a couple of months at a time and you get the hype tokens. And so yes, 12 .5 high per wallet. The first season, just slightly less because there was more wallets trading in the second season. We had some people do really, really well out of this. Like some people made four or five, 600 hype just from participating in the point seasons. I know people appreciate that. It's really cool to see. It makes me want to get more active in season three. So season"
+    },
+    {
+      "start": 2937.41,
+      "end": 2967.47,
+      "speaker": "SPEAKER_00",
+      "text": "three just started though recently. Do you have any tips for a newer user hopping on pair now on the, uh, acquiring or, or stacking their high pair points besides just obviously doing some volume? Is there anything special, any like hidden points that we can get from talking to agent pair and asking them weird questions? Unfortunately, not much I can say other than like you are rewarded for using the platform and we think, and have a lot of conviction that"
+    },
+    {
+      "start": 2967.47,
+      "end": 2998.23,
+      "speaker": "SPEAKER_00",
+      "text": "the platform is very good and justifies like any fee that we might charge on top of hyperliquid. And so my honest answer to you, is just try the platform organically, see if you like it and you can do your directional training on pair. So what we've seen with some of our point accumulators is they know they want to be long, high Bitcoin, Z cash, whatever else. And they just do a basket trade where they long, all these stuff, they can see a chart of what the basket looks like and then they express their directional views through pair. And so that's"
+    },
+    {
+      "start": 2998.23,
+      "end": 3028.73,
+      "speaker": "SPEAKER_00",
+      "text": "like also been beneficial to some of these people, which is the trades that they otherwise would be doing on hyperliquid. They kind of, especially when it comes to basket, trades or pair trades, they've been doing them on pair and then finding themselves in a situation where it was positive EV for them to do so because of the way that the hype kind of rebate mechanism works. Well, is there anything else that you wanted the hyperliquid community listening to know about pair? So we really enjoy building on the hyperliquid ecosystem. You know, I don't want to be too guilty of like glazing,"
+    },
+    {
+      "start": 3028.79,
+      "end": 3058.83,
+      "speaker": "SPEAKER_00",
+      "text": "but we in hyperliquid UK, which I kind of was given the honor to run. We ran a hyperliquid hackathon and it was great. It was based in London. We had like three, 400 teams come through and build on top of the pair API. And I think if there are any like five coders and people that are really like playing around with Claude code, I'd invite you to go to our docs, take a look at the API, see if you couldn't do like some funky stuff for your own trading strategies around that. And then"
+    },
+    {
+      "start": 3058.83,
+      "end": 3089.33,
+      "speaker": "SPEAKER_00",
+      "text": "always hit us up as well. Like we are always available on discord and telegram for people in the community. So yeah, happy to like entertain anyone that's actively building on top of that. I'm not sure if you're familiar with one of the questions I end my interviews with, but are you a vegetarian? I guess I should ask. I'm not a vegetarian. No. Okay, awesome. So when you go to a restaurant, what's your favorite cut of meat? Oh, dude, I"
+    },
+    {
+      "start": 3089.33,
+      "end": 3119.37,
+      "speaker": "SPEAKER_00",
+      "text": "always get a Chateaubriand. If you know that is. Do I? Oh man, I love that dude. The barrel cut. Yeah. Yeah, my favorite. Like if I go for dinner with my wife, we there's a nice steakhouse near where we live. We get a Chateaubriand, two sides, glass of wine each, and it's just perfect. The perfect cut, nice sides, glass of wine. It goes down lovely and like you, I'm a father too. So it's few and far between that. I get to actually go out and have like a nice dinner with with my partner. But when we do that's like our thing that we do together. Sounds"
+    },
+    {
+      "start": 3119.37,
+      "end": 3141.71,
+      "speaker": "SPEAKER_00",
+      "text": "fantastic, man. How do you how do you like it cooked? Medium rare man. Is there any other way? Yeah, no, I agree with you. Thank you so much Huff. Make sure you guys follow along. You can follow Huff. I'll tag him in the thread down below and pair protocol. Make sure you guys check it out. Thanks again for spending some time with me Huff. Thank you so much beef for your time."
+    }
+  ],
+  "speaker_map": {}
+}

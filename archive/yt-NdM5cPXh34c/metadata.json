@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-NdM5cPXh34c",
+  "title": "Stop Trading Direction — Pair Trading Is the Edge",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-04-28T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Huff",
+      "handle": null,
+      "team": "Pear Protocol",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=NdM5cPXh34c",
+  "summary_title": "Pair Protocol's 45% basket trading shift and Agent Pair's proprietary data advantage",
+  "summary_description": "Huff on long-short pair trading, crypto VCs becoming hedge funds, and AI agents for relative value.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 97,
+      "label": "Huff's background: trading floors in London, then crypto fund management"
+    },
+    {
+      "timestamp_seconds": 248,
+      "label": "Pair Protocol explained: long one asset, short another to profit on relative performance"
+    },
+    {
+      "timestamp_seconds": 399,
+      "label": "Basket trading now 50%+ of volume; people trading thematic pairs like Hype vs Total2"
+    },
+    {
+      "timestamp_seconds": 702,
+      "label": "Weighted ratio feature lets you chart and trade at custom weightings, not just 50-50"
+    },
+    {
+      "timestamp_seconds": 854,
+      "label": "Agent Pair Phase 3: Telegram app with natural language execution and proprietary stat library"
+    },
+    {
+      "timestamp_seconds": 1427,
+      "label": "Pair API enables builders and hedge funds to integrate pair trading into their own products"
+    },
+    {
+      "timestamp_seconds": 1909,
+      "label": "Crypto VCs pivoting to liquid token funds, then long-short positioning like hedge funds"
+    },
+    {
+      "timestamp_seconds": 2515,
+      "label": "Pair token: 40% fee discount for holders, 70% revenue buyback, moving to Hyperliquid spot"
+    }
+  ],
+  "pull_quote": "Borrowed conviction isn't a good thing. You will sell too early, close too early, mismanage it, never size it correctly.",
+  "quote_attribution": {
+    "name": "Huff",
+    "team": "Pear Protocol",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3148.679,
+  "capture_failure_reason": null
+}

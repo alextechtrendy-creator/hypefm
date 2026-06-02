@@ -1,0 +1,380 @@
+{
+  "space_id": "yt-1FuaIpXmWVs",
+  "language": "en",
+  "duration_seconds": 1870.8763125,
+  "chunks": [
+    {
+      "start": 7.45,
+      "end": 37.47,
+      "speaker": "SPEAKER_00",
+      "text": "what's going on everybody super excited to be chatting with chandler once again the founder of silhouette chandler how's it going this morning yeah good this side of the world it's good this side of the world and thanks for having me on again yeah super excited um to be working with you guys too maybe for listeners who don't know you or aren't familiar with silhouette could you first give us a back of who you are before silhouette yeah of course uh i'm chandler co -founder"
+    },
+    {
+      "start": 37.47,
+      "end": 67.51,
+      "speaker": "SPEAKER_00",
+      "text": "of silhouette um i've been in the crypto space since about 2016 i worked for a centralized exchange uh predominantly trying to like expand the the exchange into multiple emerging markets malaysia nigeria south africa that's kind of where i cut my teeth in the early days in about 2021 i jumped into the defi space working at uma protocol and across protocol and worked at a various couple bunches of defi platforms afterwards kind of decided"
+    },
+    {
+      "start": 67.51,
+      "end": 97.65,
+      "speaker": "SPEAKER_00",
+      "text": "to jump into the into the founder space um when i realized that in this world of crypto privacy was going to be an important component and dived very deeply into the the zk space um kind of made my way around um all the all the communities um and then you know silhouette was born out of the idea of bringing some cryptographic technology into what we kind of know and love called defi today hypermeet is proud to be sponsored by silhouette the shield exchange on hyperliquid protecting"
+    },
+    {
+      "start": 97.65,
+      "end": 127.67,
+      "speaker": "SPEAKER_00",
+      "text": "personal trade information awaken tax crypto taxes for crypto natives and hyperfi leverage lending on hyperliquid remember nothing you hear on this show is financial advice you are responsible for your own decisions make sure you're doing your research all right buddies let's get back to the show defi today super dope man you want to expand on that what is silhouette yeah so it started with this idea of"
+    },
+    {
+      "start": 127.67,
+      "end": 157.95,
+      "speaker": "SPEAKER_00",
+      "text": "of kind of privacy trading on on public venues we built like a couple prototypes um throughout our the course of of our like history we've been very much focused on enabling users to kind of have some sort of privacy tools um in their favorite venues and today we were kind of within the hyperliquid ecosystem there's many reasons as to why we're there but at the end of the day we want to build very meaningful pieces of technology that brings more liquidity on"
+    },
+    {
+      "start": 157.95,
+      "end": 188.11,
+      "speaker": "SPEAKER_00",
+      "text": "chain more reasons for for folks to trade and our technology is really focused on enabling that sort of thing but at the end of the day you can kind of think of us as the shielded exchange on top of hyperliquid well currently you guys are in your open beta right so users can deposit like hype or usdc from hypercore and make shielded or naked trades of hype how's that been going going so far are there any stats you want to share or any cool feedback you've gotten from users yeah so one of"
+    },
+    {
+      "start": 188.11,
+      "end": 218.43,
+      "speaker": "SPEAKER_00",
+      "text": "the the really interesting parts is that we've just had one market live that probably the most popular one uh hype usdc we've had a ton of like early users testing the product out giving us some genuinely meaningful feedback on on how they see the system go and for you know kind of like a couple folks that are are you know looking at wanting to get large amounts of hype prop shop funds hip3 deployers that that sort of like uh caliber of users are very keen to actually ultimately use silhouette"
+    },
+    {
+      "start": 218.43,
+      "end": 248.89,
+      "speaker": "SPEAKER_00",
+      "text": "um to kind of do some of those trades uh there's a little bit of extra work that we want to do on on improving the performance on that side mainly around the fees which we'll get into in a second but from from our perspective that the beta is going uh pretty well we've made some meaningful upgrades on on the speed we've made some meaningful upgrades on the security side things that users don't typically see but for us is like really really fun and bold to like making sure that we have like a trustless system and that users can feel like the system works basically in the way that they want um"
+    },
+    {
+      "start": 248.89,
+      "end": 278.99,
+      "speaker": "SPEAKER_00",
+      "text": "in a continuous fashion yeah that's great that you guys are listening what your users are saying too um that's super important so as far as your like trading pairs obviously you said you're doing hype now what assets or pairings are next in the roadmap yeah so hype usdc for for um for hyperliquid is kind of an obvious starting off point start get some users trying it out getting some of that feedback but there are"
+    },
+    {
+      "start": 278.99,
+      "end": 309.15,
+      "speaker": "SPEAKER_00",
+      "text": "so many more really cool assets in in hyperliquid that we're we're really excited to um to to bring to the silhouette so first one being kind of more than one stable coin we we're going to go live soon with the usdh um pairs so hype usdh and usdh usdc basically enabling kind of the the flow between the stable coins and the rest hype markets from that this goes live next week so we're actually very very close to this being something that users can try after that very soon couple"
+    },
+    {
+      "start": 309.15,
+      "end": 339.53,
+      "speaker": "SPEAKER_00",
+      "text": "days after that we're going to be launching all the major markets um your btc your sold or eth the the rest of the kind of majors in there and then later after that like a couple of the thematic styled uh themed kind of like releases for markets so you know your hyper liquid native markets want to make sure all the ecosystem partners that have launched tokens you know get some silhouette love we're going to start going to be kind of doing like you know kind of close to our heart privacy uh focus themes of folks and can trade privacy coins on hyper liquid privately kind of a cool meme"
+    },
+    {
+      "start": 339.53,
+      "end": 369.55,
+      "speaker": "SPEAKER_00",
+      "text": "there and then realistically over the course of the next couple weeks we'll basically have full coverage of all all asset markets on on hyperliquid oh so we're on the the precipice of uh full go for silhouette for like a lot of stuff that's that's super exciting while i was doing research i i was curious so i kind of deal dm'd some of the whale that i kind of communicate with asking them about you guys how important was was your research"
+    },
+    {
+      "start": 369.55,
+      "end": 399.57,
+      "speaker": "SPEAKER_00",
+      "text": "phase like talking to whales or institutions before you started like building to solve problems with silhouette yeah it was kind of really the like the driving force behind that like if we looked at what happened before um most of the privacy protocols were coming from like a cryptographer cypherpunk ethos viewpoint and they built some of the most amazing pieces of tech that are out there but if you spoke to kind of where the gaps were missing in terms of like how do um market"
+    },
+    {
+      "start": 399.57,
+      "end": 429.67,
+      "speaker": "SPEAKER_00",
+      "text": "folks like folks that do trading folks that manage portfolios institutions whales these folks that have like an innate like ability to read and understand markets where that gap was sitting that's kind of the gap we wanted to fill so we spent a lot of time you know i ran around the big kind of trading hubs of the world new york singapore london uh getting into his of these prop shops um market for market makers and funds and really trying to like understand what they were trying to like what their objectives was now"
+    },
+    {
+      "start": 429.67,
+      "end": 460.11,
+      "speaker": "SPEAKER_00",
+      "text": "the problem set was actually a lot wider than just hey like these public chains we get front run we get copy traded um you know if we're running a strategy that's quite profitable people pick that up and then immediately like that that alpha erodes very very quickly a lot more quickly than than it would on a centralized exchange so the privacy component really tied into to that feedback that i got initially but then if you start thinking about like okay well like why aren't you putting more funds on chain if we can solve that problem what are some of the other barriers and then the"
+    },
+    {
+      "start": 460.11,
+      "end": 490.25,
+      "speaker": "SPEAKER_00",
+      "text": "the kind of like list of feedback um points really came down to well you know i i do want to trade privately but i also kind of got to make sure that my counterparty is somebody that i'm happy to trade with there are a couple like non -negotiables like i can't trade if the liquidity on the other side um is from an account that basically is on a sanctions list or part of the proceeds of crime these are some of the answers that are a little bit unanswered in these open permissionless networks and so we kind of took it on ourselves"
+    },
+    {
+      "start": 490.25,
+      "end": 520.43,
+      "speaker": "SPEAKER_00",
+      "text": "to try and work in that space to make it basically a bit more um comfortable for for some of these relatively large users to come and chain and then i think the last one is economics folks really care are like one of the biggest points i got in every conversation i got i had was that folks were fee if we could make uh trading and access to these markets a lot more efficient that would be a game changer for for almost all of them so fees and and"
+    },
+    {
+      "start": 520.43,
+      "end": 550.55,
+      "speaker": "SPEAKER_00",
+      "text": "the prices of on fees was actually a really really important part now if we look at like some of the problems that come out um when when you have these you know kind of alluding to what i was saying before if you have these public blockchains and my wallet gets kind of tracked and i realize okay this wallet's now being hunted or being copy traded what's the thing that you normally do well i then have to go and recycle that wallet i have to go to a centralized exchange mint up create a brand new wallet send funds over to that new wallet and then start trading again and the effects of"
+    },
+    {
+      "start": 550.55,
+      "end": 580.65,
+      "speaker": "SPEAKER_00",
+      "text": "that normally are that your volume and your kind of fee benefits that you you accrue through these volume based features that naturally dissipates and so you start from zero and you're basically paying the most amount of fees so the cost of this ultimately like recycling it's not necessarily more an operational side but it really gets tied to the users fees that they pay at the end of the day and so we thought of a a relatively easy low lift version of our technical stack"
+    },
+    {
+      "start": 580.65,
+      "end": 610.71,
+      "speaker": "SPEAKER_00",
+      "text": "that can basically mitigate a lot of those components for for users you guys recently published an article outlining you know hyperliquids fee tiers where silhouette kind of fits in and then kind of where you see it going so it seems like you guys are planning to offer the highest fee discount to your users yeah of course so how the how our setup works is we have a trusted execution environment that takes signatures and instructions from users so this is your let us"
+    },
+    {
+      "start": 610.71,
+      "end": 640.89,
+      "speaker": "SPEAKER_00",
+      "text": "call it your main account your predominant account and you can deposit into silhouette those funds then gets into an agent wallet that is managed by the trusted execution environment and then you can place trades from the users instruction so these are your standard normal hyperliquid trades because these agent wallets are you can kind of think of this as a circuit them as a series of wallets that pull funds on behalf of users they can make trades on behalf of the user from their specific instructions so at no point"
+    },
+    {
+      "start": 640.89,
+      "end": 670.89,
+      "speaker": "SPEAKER_00",
+      "text": "does silhouette control those funds there are escape mechanisms that we have um we try and make sure that the system is as uncentralized as possible so there's there's no like whatever you want to do as a user is the only thing that that trusted execution environment can do on your behalf but these wallets naturally because they're like a collection of trades um from a collection of users accrue a lot of the value um and and fee volume that the the the users are"
+    },
+    {
+      "start": 670.89,
+      "end": 701.15,
+      "speaker": "SPEAKER_00",
+      "text": "submitting through that wallet and so we can basically like okay well you know if this gets x amount of volume we get to this x amount of fee discounts um now that fee discount because it's like the sum total of everyone's trades and not every user's individual trade there is some you know benefit to scale there so you know 10 traders can probably get to seven billion dollars of of volume but each individual trader might not be able to do that so the more folks trade through silhouette the more value that accrues to all the users from"
+    },
+    {
+      "start": 701.15,
+      "end": 731.85,
+      "speaker": "SPEAKER_00",
+      "text": "from that perspective and then there is another component so you know that that's one side where we think like the aggregation mechanism works really well on the other side like there's also staking discounts and the hyperliquid are quite nice because you with just 10 hype you can get 10 discount fees with 100 hype you can get um so with 100 hype you can get 20 i can't remember the exact numbers on how that fee tier looks but with 500 000 hype you can get 40 percent discount on on your trading fees now it's quite hard for an individual to"
+    },
+    {
+      "start": 731.85,
+      "end": 761.89,
+      "speaker": "SPEAKER_00",
+      "text": "get 500 000 hype just to get that feature so again the aggregation mechanism here works to to use as benefit we can say like okay us as an entity you know we can try and um gather that hype put it to put it towards our wallets and then pass on all those volume and then we can see how that works and then we can see how that works and then we can see how that works and then we can see how that works and then we can see how that works and then we can see how that works so what this would mean for a user um which um is what we kind of outlined at the article is like okay your wallet's being tracked you don't necessarily want people to see all your trades but you also don't want"
+    },
+    {
+      "start": 761.89,
+      "end": 792.35,
+      "speaker": "SPEAKER_00",
+      "text": "to start from zero um on your on your volume rebates so instead just keep that same account simply use silhouette and you get the benefit of all the fee discounts that we've got on our side in a permissionless way trust this way our system doesn't have any way to manage or maintain any sort of instruction that does not come from the user's wallet signatures we also make sure that there are escape hatches so that any funds that are being managed under the silhouette trusted execution environment um isn't kind of done"
+    },
+    {
+      "start": 792.35,
+      "end": 822.71,
+      "speaker": "SPEAKER_00",
+      "text": "nefariously and that there are escape hatches and then the most important part is that we also don't have any payment for order flow mechanism there so the instructions that you said to us that you submit to us like are are executed as per your instruction on hyperliquid it's a lot to unpack there but it's super exciting for users who are aware of this that made me think of something though when you trade shielded versus naked does that have an effect on the the fee tier like are most of the the"
+    },
+    {
+      "start": 822.71,
+      "end": 853.49,
+      "speaker": "SPEAKER_00",
+      "text": "volume is it going to be the same i guess or is it different yeah it would be different so the way that we've defined this is kind of like our own sort of definitions here naked it's the standard hyperliquid trading experience instructions are from your wallet that's the main wallet uh it'll it'll show up on on any sort of explorer as your wallet and if you use any sort of hyperliquid front end builder code front end it's exactly that same experience so for"
+    },
+    {
+      "start": 853.49,
+      "end": 883.61,
+      "speaker": "SPEAKER_00",
+      "text": "us the naked experience is the vanilla experience the the one that folks are pretty used to and there there is no kind of value accrual mechanism because the the volumes coming from your actual wallet we're just the front end that's facilitating the hyperliquid api on the shielded side that's where the benefits start accruing because we we're kind of like aggregating your flow so your wallet submits the instruction to us we take that signature we take the instructions the the trusted execution"
+    },
+    {
+      "start": 883.61,
+      "end": 913.85,
+      "speaker": "SPEAKER_00",
+      "text": "environment then submits that instructions to that agent wallet that's that it controls and and submits the order on on behalf of the user and so that's where the aggregation comes in from so the benefits come in from the shielded side versus the standard vanilla experience okay yeah that makes sense maybe i could see where you'd go with this but what would you say to someone you know like the use case for this for like whales and institutions is pretty obvious um but for the maybe the smaller type"
+    },
+    {
+      "start": 913.85,
+      "end": 944.49,
+      "speaker": "SPEAKER_00",
+      "text": "traders why should they consider trading shielded yeah fees are fees just because you know just because you're not trading 100 million dollars a day or or even a million dollars a day does not mean that the you're paying percentage in fees so your hundred dollar trade or a thousand dollar trade you you're going to be paying those fees the other side of it that i actually kind of think about is the the likelihood of a whale to get to lower features and accrue much more hype is is"
+    },
+    {
+      "start": 944.49,
+      "end": 974.63,
+      "speaker": "SPEAKER_00",
+      "text": "a lot easier than the quote -unquote trumps so the so for for kind of folks that have smaller portfolios are still excited to trade don't want to be paying that amount of fees can still get that benefit and so think about it like you know your ability if you're trading a thousand dollars a day to get to a much higher fee tier is going to be harder you just have to spend so much more time trading and you're just going to eat all those fees so if you have that hundred dollars or that thousand dollars and you want to make the trade you want to buy some hype on spot"
+    },
+    {
+      "start": 974.63,
+      "end": 1005.23,
+      "speaker": "SPEAKER_00",
+      "text": "if you soon to be by um the the other majors that fee discount you get the same fee discount that the whale would get and so for us it's actually not necessarily you know while it's attractive to whales it theoretically could anyone could use it uh so this kind of made me think of another random question people like to speculate on things since you guys are kind of coordinating this this agent to bring all these trades together say something were to happen in regards to a"
+    },
+    {
+      "start": 1005.23,
+      "end": 1035.83,
+      "speaker": "SPEAKER_00",
+      "text": "hyper liquid airdrop how would that look for your users because you have the data would you just kind of you know obviously you you traded this much so you'd get this percentage or have you thought about that stuff yeah of course so how the system so we would have to naturally build these on a case -by -case basis you know we might tie into more than just the hyper liquid airdrop we might tie into some other protocols on hyper evm that might have airdrops later down the line so from our perspective it's actually quite quite"
+    },
+    {
+      "start": 1035.83,
+      "end": 1065.91,
+      "speaker": "SPEAKER_00",
+      "text": "easy for us to then build mechanisms to to kind of like pass on those points to users so while you know we can't promise what the mechanism looks like for each case because we don't know that information beforehand teams typically don't say how their points are accrued but what we can do is basically say okay like we're working with a protocol we get those points we know okay you know this amount of activity went to that protocol so and we accrued x and y amount of points okay"
+    },
+    {
+      "start": 1065.91,
+      "end": 1096.09,
+      "speaker": "SPEAKER_00",
+      "text": "that those points come to us we'll be able to then say okay as a user sign sign into silhouette here's a portal to go kind of retroactively figure out how much of those points you know we can do the math to say you know your pro rata rate of those points were with this amount and so we we don't necessarily want to uh be extractive and kind of like gain points unnecessarily like for us it's really around passing this value to the user on the fee side we're doing the same thing and so for the point side we'll obviously"
+    },
+    {
+      "start": 1096.09,
+      "end": 1126.71,
+      "speaker": "SPEAKER_00",
+      "text": "do the same thing but we will we'll manage that on a case -by -case basis as points come along i love it yeah keeping that customer that user at the center once again awesome there's a comment in the chat i will talk to you a bit more about that and then we'll keep in touch with you on that um so i just wanna thank you for keeping us up to date here on the chat with us today thank you so much uh and i'm sure you'll find that you've learned a lot today uh and"
+    },
+    {
+      "start": 1126.71,
+      "end": 1157.09,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of you that are watching this as you're using our website use all of the options next question and then we'll like you know um go through it and then just answer your questions all right let's throw in some of the questions that we got for you today so a question that we got from israel is how important are social networks and how important are trade history in He won, he's placed, you know, thousand million trades through Silhouette. We know the trusted execution environment knows these, these instructions came from you. And so your trade history will be seen by you. And so you can go and kind of pull your trade history and submit that to, you know, any"
+    },
+    {
+      "start": 1157.09,
+      "end": 1187.33,
+      "speaker": "SPEAKER_00",
+      "text": "sort of tax accountant to be able to calculate much in the same way that you would do it on Hyperliquid. And so, you know, the other way to think about it is deposits in and out of Silhouette have to come from the same account. So you know, you, you went in with a hundred thousand dollars. You came in with, you came out with two Bitcoin, great. You turned a hundred thousand dollars into two Bitcoin. That trade history is something that you would probably want to submit to your tax account. So you could definitely do that. In terms of, of access to that data, we,"
+    },
+    {
+      "start": 1187.47,
+      "end": 1217.95,
+      "speaker": "SPEAKER_00",
+      "text": "we won't, we won't have the keys to manage that. Access is managed by the, the user. Everybody uses cryptographic private keys. Ooh, nice. That gives me exactly what I, what I needed to know. Recently there was some news that broke that the US treasury acknowledged that mixers have legitimate privacy use cases on public blockchains. That's the statement that they put out. Silhouette isn't a mixer though. It's like a obfuscation system. But when you see stuff like that, like how"
+    },
+    {
+      "start": 1217.95,
+      "end": 1248.03,
+      "speaker": "SPEAKER_00",
+      "text": "does that make you think about future privacy features that you guys could maybe think about? Yeah. This is actually a question we get a lot, like why don't we become the mixing pool for, for these, for hyperliquid? And I think that there is an enormous amount of value behind it. I don't think the concept of wanting to keep your information to yourself is by any stretch of the imagination, a weird thing to, to want. Like, you know, I don't"
+    },
+    {
+      "start": 1248.03,
+      "end": 1278.79,
+      "speaker": "SPEAKER_00",
+      "text": "necessarily want the world to know what I do every single day. And it's my right to share that information. In these public blockchains, it's really hard, like, because almost everything is there for the world to see, and you have no choice in that matter. For us, we care about that choice. And so, you know, while, while I don't think what we're building is going to be for absolutely every single user, they might not see the need or the one for it, but there are a ton of users that do care about this sort of thing. And so if we look at like what the whole concept of mixing was, it's very simply"
+    },
+    {
+      "start": 1278.79,
+      "end": 1308.91,
+      "speaker": "SPEAKER_00",
+      "text": "a way for you to break your transaction history from one way to another. From one wallet to another, it works really well for the nefarious use case. It also works well for a ton of like legitimate use cases as the kind of, as what you kind of mentioned. And we really care about that legitimate use case and, you know, figuring out mechanisms to try and like stop the nefarious use cases and, and kind of only keep it in the legitimate space. It's a bit of a harder question to implement technically and like, you know, what policies"
+    },
+    {
+      "start": 1308.91,
+      "end": 1339.17,
+      "speaker": "SPEAKER_00",
+      "text": "you have. There, there's a lot of... There's a lot of... There's no definitive answer on that one, but to me, this shows that privacy is okay. That folks who want it, you know, aren't going to be victimized and criminalized. Mixers actually exist today in the world. I send my hype to centralized exchange, send it out to a new wallet. I've basically done a mixing service. The only problem is the government can have access to the, the, the centralized exchange, like deposit records"
+    },
+    {
+      "start": 1339.17,
+      "end": 1369.31,
+      "speaker": "SPEAKER_00",
+      "text": "if they so choose. But... But so that ability is actually something that the most folks have used today and it's the most common version of, of what we see in mixing. It's not fully private, obviously, because there are, there's a centralized entity behind it, but this uncontrollable smart contract version of how this mixing can work, that's a little bit scarier. At the end of the day, I think that there are many reasons for, for why that's the case. But to me overall, the sentiment here is bullish. It validates why we think privacy matters."
+    },
+    {
+      "start": 1369.43,
+      "end": 1399.73,
+      "speaker": "SPEAKER_00",
+      "text": "It validates the fact that privacy matters. Privacy is okay. People shouldn't feel bad that they don't want their information out there in the world. And I, at the end of the day, really, really want to make sure that we build systems that like cater towards that, those legitimate use cases. Because that's the way that you bring more folks on chain. Yeah, that really resonates with me too. Cause like, I mean, think about it. I'm using a Hypeo right now to talk to you. So obviously I value my privacy, you know, as, as a person not building a protocol, it's"
+    },
+    {
+      "start": 1399.73,
+      "end": 1429.87,
+      "speaker": "SPEAKER_00",
+      "text": "easier for me to do that. But yeah, I totally get, I totally get what you're saying. It makes a lot of sense. Before I ask your final thoughts here, Hyperliquid is all over the news right now. The world is kind of in a bad place overall, but, but right now the use case for Hyperliquid is just so strong. And that narrative is, is huge and people are noticing. Do you think that this truly is a decoupling event for, for Hyperliquid in regards to"
+    },
+    {
+      "start": 1429.87,
+      "end": 1460.07,
+      "speaker": "SPEAKER_00",
+      "text": "like, from, from Bitcoin and from other majors? Yeah, completely. So crypto has really been just around like this programmable money component and we built it on Ethereum. There's the L2s, there's Solana, there's like a whole bunch of crypto has been this like chain centric world that basically, you know, we can build all these financial primitives. We did it for some tokenomics, pumponomics. We done some very silly things that we, we, we quite, we can quite have."
+    },
+    {
+      "start": 1460.07,
+      "end": 1490.07,
+      "speaker": "SPEAKER_00",
+      "text": "I like happily admit to, but one thing that's been quite interesting is that the, the actual concept of like, how do you build sustainable markets and how do you build them in a, in a way that actually has a genuine benefits over and above the crazy hype that that's crypto that for me, I think was, was a couple like really, really important milestones. So if we see, if we look at what, like what happened with Hyperliquid, you know, they really nailed down what w the, the innovation that they kind of like perfected was the idea of"
+    },
+    {
+      "start": 1490.07,
+      "end": 1520.45,
+      "speaker": "SPEAKER_00",
+      "text": "purpose. Now purpose wasn't new. They just built it in a way that had a, you know, a couple winning formulas behind it that ultimately led to its adoption, but that, you know, if Hyperliquid, if we saw what they were in like 2024 and 2025, it was, it's not the Hyperliquid that we see today. So there's been a series of really big, massive improvements and wins that enable that specifically around the hip three markets and how we're tokenizing, sorry, how we perpifying like the trad. Five markets."
+    },
+    {
+      "start": 1520.61,
+      "end": 1550.61,
+      "speaker": "SPEAKER_00",
+      "text": "And so folks can speculate, you know, the whole, the one critique I saw, I didn't actually agree with it, but with the one critique I saw was like, you know, you've got all these trad five traders and you've got all these crypto traders. What's the actual Venn diagram of, of traders that would actually care about, you know, these traditional markets on, in crypto environments, but that, that argument really, and the show, the argument was that that's a really small subset, but that argument really misses the point that. You know, we've, we've, you've seen it on the timeline"
+    },
+    {
+      "start": 1550.61,
+      "end": 1580.69,
+      "speaker": "SPEAKER_00",
+      "text": "today, which is 24, seven markets. The idea that you be, there can be a series of events that happen out in the real world that affect markets, but we don't trade it 24 seven because it was an older system. That's it's a bit too costly to change and there'll be, you know, basically every engineer at every single bank and every single traditional exchange would have to rewrite their whole software stack. They, they've just kind of kept it at the standard. You know? 9 to 5, 5 days"
+    },
+    {
+      "start": 1580.69,
+      "end": 1610.97,
+      "speaker": "SPEAKER_00",
+      "text": "a week and you know, you can mimic 24 seven with going through the different markets across the globe, but there hasn't been one 24 seven market that's actually been available like that. That's truly global. That kind of unifies all these like disparate parts. So that for me, I think was, it was a completely like massive unlock and everyone that's within the hyperliquid ecosystem, like space takes us for granted. We're like, of course it's 24 seven. Why not? Why wouldn't it be? And it's kind of silly for"
+    },
+    {
+      "start": 1610.97,
+      "end": 1640.99,
+      "speaker": "SPEAKER_00",
+      "text": "us to think about that. But if you think about how the TradFi folks think about, they're like, oh, that's actually innovative. That's pretty cool. How do they do that? What system are they using? Like, how does it work in the background? Oh, they look at the tech and oh, it's actually pretty useful. It's pretty good tech underneath and it's actually growing in volume. And so I think those are sort of the data points that, that really have the shift within like the world and all the credibility, all the news, all the. Kind of discussion around hyperliquid at, you know, in the"
+    },
+    {
+      "start": 1640.99,
+      "end": 1671.45,
+      "speaker": "SPEAKER_00",
+      "text": "global scale is well -deserved because of, you know, decisions that were made very early on the principles by which they build. Yeah. You know, kind of the principles that Jeff and the team build hyperliquid with is really easy for, for folks who put an enormous amount of trust in them and you can kind of see it in just the data. Yeah. I have the utmost amount of respect and trust for the hyperliquid team. Maybe we don't understand why they do things at certain times. But then it ends up working out. So you made me think about something hip"
+    },
+    {
+      "start": 1671.45,
+      "end": 1701.45,
+      "speaker": "SPEAKER_00",
+      "text": "three markets and the upcoming hip four upgrade with prediction markets and options. Does Silhouette play a role in those as well? Like how does that work? Is it different? Yeah. So if, you know, kind of very generally take a step back on, on how Silhouette works within hyperliquid. We don't, we didn't build the underlying exchange and the underlying order book. We were basically a conduit to. Yeah. Instruments that hyperliquid build out. This works with spot market."
+    },
+    {
+      "start": 1701.63,
+      "end": 1731.57,
+      "speaker": "SPEAKER_00",
+      "text": "This worked with purpose market. We're going to be launching a soon, soon to be coming out product around that side. And the same modality actually works for, for prediction markets. So the important part about why a prediction market we let's use that as an example is kind of really important. Is that while the net aggregate flow for the market to see, even in the presence of Silhouette, um, on, on. On these markets is in the price. So the most important part about, uh, the, um,"
+    },
+    {
+      "start": 1731.79,
+      "end": 1762.17,
+      "speaker": "SPEAKER_00",
+      "text": "the prediction markets is that everything's in the price. That price is your, is your info, uh, is your source of truth. Like what, what the market thinks is the probability who placed bets, how much did they place? How did their size, all of that becomes secondary bits of information that, you know, kind of exists in the world, um, that folks can kind of speculate on. So. So, you know, if, if somebody prolific actually starts sizing up in a position, that's more information that, that kind of might sway the market and"
+    },
+    {
+      "start": 1762.17,
+      "end": 1792.37,
+      "speaker": "SPEAKER_00",
+      "text": "somebody might want to keep that private. But as long as the end price is a true reflection of what's happening in the market, Silhouette can play a role in hip four and the same thing with options pricing as well. So for us, what we really care about is that the market integrity stays the same. Whereas like individuals participation in those markets doesn't necessarily have to be disclosed. Okay. So I was curious on that. That's good to hear. It opens up tons more opportunities there for people to before we go, is there anything else you want the hyperliquid community"
+    },
+    {
+      "start": 1792.37,
+      "end": 1822.71,
+      "speaker": "SPEAKER_00",
+      "text": "to know about Silhouette? Anything coming super soon? I know you said like a week before we start getting more assets, you want to spill any alpha? Yes. So next week, new markets are coming online. You can trade more assets outside of the hype USDC pair. We're very excited about that. We're also going to be adding our fee module. Absolutely. The fee module for discounted fees on the volume is live and ready to go today. These accounts do need to start accruing some volume. So there'll be kind of a little bit of a cold start problem there, but we've got some solutions"
+    },
+    {
+      "start": 1822.71,
+      "end": 1852.87,
+      "speaker": "SPEAKER_00",
+      "text": "to solve that. And so once the volume tiers start accruing into the system, we'll be able to build out a mechanism that we can pass that on back to users. And then soon after that, which is kind of depending on how the stars align, we'll also be adding the staking discounts as well. So very, very quickly and very, very soon Silhouette will be the cheapest venue in the world for you to buy spot assets. And this includes the centralized exchanges for all users. There it is."
+    },
+    {
+      "start": 1852.87,
+      "end": 1864.59,
+      "speaker": "SPEAKER_00",
+      "text": "There's the clip. Silhouette. Make sure you guys go check them out. Set those notifications on to stay up to date and everything they got cooking. Thanks a lot, Chandler. I really appreciate you coming on again. Take care, sir. Thank you."
+    }
+  ],
+  "speaker_map": {}
+}

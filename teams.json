@@ -298,5 +298,35 @@
     "x_handle": null,
     "website": null,
     "description": null
+  },
+  "Hyperliquid Strategies": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hyperliquidstrategies.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Hypio": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hypio.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Silhouette": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/silhouette.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Tread": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/tread.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Propr": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/propr.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
   }
 }

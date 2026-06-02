@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-loFVV0nhTlM",
+  "title": "Inside Nest Exchange & The HYPE Engine | Hyperliquid’s Yield Machine?",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-05-18T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Ace",
+      "handle": null,
+      "team": "Nest",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=loFVV0nhTlM",
+  "summary_title": "Nest Protocol's $200K hype buyback machine: metadex yield farming on Hyper EVM",
+  "summary_description": "How Nest's hype engine vault generates 80-90% voting APR by capturing 100% of swap fees for token holders.",
+  "topic_tags": [
+    "vaults",
+    "ecosystem",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 38,
+      "label": "Ace intro: CSO means chief strategy officer, not security"
+    },
+    {
+      "timestamp_seconds": 280,
+      "label": "Found Hyperliquid through FriendTech speculation on Base"
+    },
+    {
+      "timestamp_seconds": 552,
+      "label": "Nest explained: metadex capturing 100% swap fees for locked token holders"
+    },
+    {
+      "timestamp_seconds": 856,
+      "label": "HyperSpring launch: $200K hype distribution from four months of fees"
+    },
+    {
+      "timestamp_seconds": 1188,
+      "label": "900% APR on new Nest locks in hype engine vault this epoch"
+    },
+    {
+      "timestamp_seconds": 1673,
+      "label": "Why hype is pristine: no VCs, TGE airdrop story, real buyback flows"
+    },
+    {
+      "timestamp_seconds": 2158,
+      "label": "Selling productive assets to fund ops is crypto's original sin"
+    },
+    {
+      "timestamp_seconds": 3099,
+      "label": "USDC-Native Markets deal: Circle bent the knee to Hyperliquid"
+    }
+  ],
+  "pull_quote": "Raining hype essentially every week during this period.",
+  "quote_attribution": {
+    "name": "Ace",
+    "team": "Nest",
+    "role": "co-founder and CSO"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3744.1136875,
+  "capture_failure_reason": null
+}

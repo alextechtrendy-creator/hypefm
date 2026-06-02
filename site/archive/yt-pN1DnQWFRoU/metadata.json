@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-pN1DnQWFRoU",
+  "title": "Funded Trading Onchain? Inside Propr’s System (Hyperliquid)",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-05-04T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Lou",
+      "handle": null,
+      "team": "Propr",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=pN1DnQWFRoU",
+  "summary_title": "Proper's transparent prop firm on Hyperliquid: 9.5% pass rate, AI agents, and radical disclosure",
+  "summary_description": "Founder Lou discusses building crypto's most transparent prop firm with open APIs for AI agents and a public P&L dashboard.",
+  "topic_tags": [
+    "perps",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 7,
+      "label": "Lou's background: traditional finance to crypto founder"
+    },
+    {
+      "timestamp_seconds": 159,
+      "label": "Banned from Bybit, fell in love with Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 250,
+      "label": "What prop firms do: evaluations, capital access, efficiency vs leverage"
+    },
+    {
+      "timestamp_seconds": 311,
+      "label": "Transparency as moat: public pass rates, margins, revenue on dashboard"
+    },
+    {
+      "timestamp_seconds": 492,
+      "label": "AI agent-first infrastructure: 33% of users are agents with funded accounts"
+    },
+    {
+      "timestamp_seconds": 583,
+      "label": "Pass rates: 9.5% overall, 10.14% one-step, 7.69% two-step challenges"
+    },
+    {
+      "timestamp_seconds": 1370,
+      "label": "Open-sourced algorithm determines A-book vs B-book based on Sharpe ratio and consistency"
+    },
+    {
+      "timestamp_seconds": 1582,
+      "label": "Proper Points reward early users; token-only fundraising to align value"
+    }
+  ],
+  "pull_quote": "Two CEOs of very large prop firms told me this approach is very wrong and I'm not welcome in the industry. That tells me I'm doing something different.",
+  "quote_attribution": {
+    "name": "Lou",
+    "team": "Propr",
+    "role": "founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1809.0523125,
+  "capture_failure_reason": null
+}

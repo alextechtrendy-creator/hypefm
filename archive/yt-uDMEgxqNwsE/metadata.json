@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-uDMEgxqNwsE",
+  "title": "Hyperliquid Trading Bots Explained | Tread.FI CEO on AI Trading & HIP-3 Markets",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-03-05T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "David",
+      "handle": null,
+      "team": "Tread",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=uDMEgxqNwsE",
+  "summary_title": "Tread's voting consortium, OpenClaw integration, and capital-efficient perpetual trading",
+  "summary_description": "David, CEO of Tread, discusses user-driven exchange voting, Dream Cash fee comparisons, and upcoming AI-powered terminal.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 31,
+      "label": "Tread's three-year history through market volatility and adaptation"
+    },
+    {
+      "timestamp_seconds": 182,
+      "label": "Growth in algo trading awareness as users seek capital-efficient strategies"
+    },
+    {
+      "timestamp_seconds": 304,
+      "label": "Grid and volatility-capturing bots designed for different market conditions"
+    },
+    {
+      "timestamp_seconds": 425,
+      "label": "Institutional vs. retail trading patterns; systematic and long-short fund behavior"
+    },
+    {
+      "timestamp_seconds": 636,
+      "label": "Tread partnerships with HIP3 deployers, vault incentives, and liquidity bootstrapping"
+    },
+    {
+      "timestamp_seconds": 1093,
+      "label": "Dream Cash fee comparison; Tread's 2 bps vs. Metamask's 10 bps"
+    },
+    {
+      "timestamp_seconds": 1337,
+      "label": "Tread Consortium voting and user-driven exchange integration decisions"
+    },
+    {
+      "timestamp_seconds": 1764,
+      "label": "Upcoming focus on terminal simplification and OpenClaw LLM integration"
+    }
+  ],
+  "pull_quote": "We're not scared to try new things. We'll just do what makes sense and do it to the best of our ability.",
+  "quote_attribution": {
+    "name": "David",
+    "team": "Tread",
+    "role": "CEO"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2060.9136875,
+  "capture_failure_reason": null
+}

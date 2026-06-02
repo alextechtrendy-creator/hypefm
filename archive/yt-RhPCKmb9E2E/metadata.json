@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-RhPCKmb9E2E",
+  "title": "Stop Picking Alts… Trade the Entire Market Instead (Paragon on Hyperliquid)",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-04-21T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Taha",
+      "handle": null,
+      "team": "Paragon",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=RhPCKmb9E2E",
+  "summary_title": "Bitcoin dominance, total2, others: actionable indices on Hyperliquid",
+  "summary_description": "Paragon transforms crypto market thesis into tradeable perpetuals—S&P 2.0 for on-chain markets.",
+  "topic_tags": [
+    "perps",
+    "listings",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 37,
+      "label": "Taha's background: tradfi to defi, Meridian Labs, Galaxy acquisition"
+    },
+    {
+      "timestamp_seconds": 248,
+      "label": "Why Hyperliquid: infrastructure for two-sided marketplace bootstrapping"
+    },
+    {
+      "timestamp_seconds": 370,
+      "label": "Paragon thesis: transforming ideas into instruments, S&P 2.0 for crypto"
+    },
+    {
+      "timestamp_seconds": 461,
+      "label": "Three markets: Bitcoin dominance, Total2, Others—measuring market regime flows"
+    },
+    {
+      "timestamp_seconds": 914,
+      "label": "Oracle design: Pyth + Hyperliquid fallback, true float circulating supply methodology"
+    },
+    {
+      "timestamp_seconds": 1278,
+      "label": "HIP3 deployment: raised ~300-400k stake from validators, single private backer"
+    },
+    {
+      "timestamp_seconds": 1582,
+      "label": "HIP3 volumes exceed 30% of Hyperliquid; prediction: HIP to $75 by end 2026"
+    },
+    {
+      "timestamp_seconds": 1884,
+      "label": "Call to action: onboard traders already tracking these charts to Hyperliquid"
+    }
+  ],
+  "pull_quote": "Bitcoin dominance, Total2 and others are actually now actionable. That chart you've been staring at for the last decade, you can now make a position in.",
+  "quote_attribution": {
+    "name": "Taha",
+    "team": "Paragon",
+    "role": "founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2130.0763125,
+  "capture_failure_reason": null
+}

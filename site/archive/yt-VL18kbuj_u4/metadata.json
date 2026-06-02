@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-VL18kbuj_u4",
+  "title": "Felix Protocol | Hyperliquid, HIP-3 Markets, RWAs & HyperEVM",
+  "state": "ended",
+  "created_at": null,
+  "started_at": null,
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Charlie",
+      "handle": null,
+      "team": "Felix",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=VL18kbuj_u4",
+  "summary_title": "Felix's 650M TVL strategy: RWA perps, spot equities, and mobile's distribution problem",
+  "summary_description": "Charlie from Felix discusses lending infrastructure, commodity markets, tokenized equities via Ando, and why Hyperliquid needs to own mobile.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 68,
+      "label": "Charlie's background: Antheus Labs risk firm, then Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 159,
+      "label": "Felix origin: from CDP protocol to vanilla lending on Morpho"
+    },
+    {
+      "timestamp_seconds": 220,
+      "label": "650M TVL across products; launched commodity RWA perps in November"
+    },
+    {
+      "timestamp_seconds": 310,
+      "label": "Strategy to bridge Hypercore and EVM: USDH-denominated markets"
+    },
+    {
+      "timestamp_seconds": 463,
+      "label": "Launching commodity and equity markets: price feeds, leverage, risk parameterization"
+    },
+    {
+      "timestamp_seconds": 826,
+      "label": "Ando partnership: 200+ tokenized equities day one, mint-redeem on ETH then EVM"
+    },
+    {
+      "timestamp_seconds": 1309,
+      "label": "Mobile is the perps onboarding choke point; Hyperliquid outsourced it to builders"
+    },
+    {
+      "timestamp_seconds": 1793,
+      "label": "2025 thesis: stablecoin growth will decouple from Bitcoin price, drive DeFi adoption"
+    }
+  ],
+  "pull_quote": "Perps will continue to be a retail-first product and capturing retail coming onto crypto will most likely happen at the mobile layer.",
+  "quote_attribution": {
+    "name": "Charlie",
+    "team": "Felix",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2040.0,
+  "capture_failure_reason": null
+}

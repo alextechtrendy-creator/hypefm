@@ -1,0 +1,566 @@
+{
+  "space_id": "yt-KoDXBbN-3cs",
+  "language": "en",
+  "duration_seconds": 2805.6746875,
+  "chunks": [
+    {
+      "start": 7.47,
+      "end": 38.81,
+      "speaker": "SPEAKER_00",
+      "text": "what's up everybody super stoked to be talking with omnia of kinetic the co -founder how's it going omnia everything good how about yourself then uh super good super good great day good vibes excited to chat with you uh i guess if you want we can just kind of we can just kind of dive in if you want to introduce yourself to maybe people that don't know you and what they should know about you sure super high level uh so i'm omnia i'm one of the three co -founders kinetic uh i started using"
+    },
+    {
+      "start": 38.81,
+      "end": 69.31,
+      "speaker": "SPEAKER_00",
+      "text": "hyperlake grid in may of 2023 so quite some time ago um close to three years now funny enough geez um so yeah i've been lucky enough i guess you could say to see the ecosystem kind of grow over time from a humble perp dex to now arguably the most important ecosystem in crypto yeah kinetic was started quite some time ago at the end of 2020 in order to basically solve what we foresaw"
+    },
+    {
+      "start": 69.31,
+      "end": 99.65,
+      "speaker": "SPEAKER_00",
+      "text": "would be kind of a an interesting problem on hyper liquid which would be you know at some point we would think that this protocol or ecosystem would have a token and it would need some form of liquid staking given you know the hyper vm was introduced in april of 2024 uh or announced in april 2024 i should say and here we are right quite some time after launch we're now what is it now nearly nine months in since we launched in july of 2025 and uh still largest protocol in the ecosystem by"
+    },
+    {
+      "start": 99.65,
+      "end": 129.95,
+      "speaker": "SPEAKER_00",
+      "text": "quite an interesting margin so couldn't be more humbled or proud of that but yeah just getting started so that's that's the super high level on you know us but yeah hypermeet is proud to be sponsored by silhouette the shield exchange on hyperliquid protecting personal trade information awaken tax crypto taxes for crypto natives and hyperfi leverage lending on hyperliquid remember nothing you hear on this show is financial advice you are responsible for your own decisions make"
+    },
+    {
+      "start": 129.95,
+      "end": 159.97,
+      "speaker": "SPEAKER_00",
+      "text": "sure you're doing your research all right buddies let's get back to the show fantastic man yeah congratulations on all your success on hyperliquid you guys are really crushing it just to kind of give our users like a picture here so you guys kinetic k hype controls about 75 percent of the lsts on hyperliquid and then you guys have semi -recently launched markets the hip 3 deployer and you guys have done over 2 .3 billion in volume so"
+    },
+    {
+      "start": 159.97,
+      "end": 190.07,
+      "speaker": "SPEAKER_00",
+      "text": "that's fantastic uh congratulations for both of those things appreciate how was that process like going through deploying these hip 3 markets was it easier or harder than you thought it would be yeah with regards to hfp3 uh definitely an interesting challenge i would say we didn't underestimate it or overestimate it so it's kind of as we expected with regards to the difficulty you know we always knew for quite some time that it would be a very interesting challenge uh most did not"
+    },
+    {
+      "start": 190.07,
+      "end": 220.09,
+      "speaker": "SPEAKER_00",
+      "text": "realize obviously for good reason that kinetic would enter the hip3 uh Deployer race if you will and I think it makes sense right kinetic is mostly looked at as a liquid staking protocol so why would we do this right and here we are uh now you know carving our own space in the equity perpetual landscape and doing quite an interesting job of doing so and yeah all right guys thank you so much for joining us and we'll see you next time obviously you know we are you know one of the faster growing exchanges but uh still nowhere near"
+    },
+    {
+      "start": 220.09,
+      "end": 250.49,
+      "speaker": "SPEAKER_00",
+      "text": "where we would like to be and yeah expect a lot very very soon but the point being that we're listing some very interesting new markets you know some of the first if not the first to list you know certain more alternative debts uh as well as other alternative assets like us bond for example which is um the ability to trade uh for the first time in the form of a tokenized or perpetual future Treasuries uh and some other really interesting stuff so so yeah I mean really"
+    },
+    {
+      "start": 250.49,
+      "end": 280.85,
+      "speaker": "SPEAKER_00",
+      "text": "great start so far in the last but two and a half months most deployers if not almost all of them have had like a head start on us and that's okay again I don't think most people realized that we would be entering this space in January we opened up km hype which allows people to stake to create the exchange and that was filled in an hour and a half through candy Q token holders exclusively so yeah it's been a very cool time uh about 490 people uh participated in in that hype crowd fund if you will uh and ultimately it's"
+    },
+    {
+      "start": 280.85,
+      "end": 310.97,
+      "speaker": "SPEAKER_00",
+      "text": "now grown to almost three times that in terms of KMI Boulder so once again accentuating the power of you know in hip3 deployment being ran by an lst so yeah ultimately very interesting very proud of where we are so far but a lot more to come right like a lot of really interesting challenges to solve and you know we're at the very very tip of the ice period hell yeah man definitely have some some questions regarding the the the token side of kinetic um I'll save those for a second though yeah you guys are crushing it so like what's it what's"
+    },
+    {
+      "start": 310.97,
+      "end": 341.31,
+      "speaker": "SPEAKER_00",
+      "text": "it feel like like how are you remaining focused while you're doing so many things at one time and just keep pushing things to market like how are you how are you managing that yeah uh we're lucky enough to work with a very talented and ultimately uh super strong team with regards to product development uh the social component as well with regards to managing a pretty large community of over 30 000 stakers and uh you know now almost 6 000 traders right so yeah"
+    },
+    {
+      "start": 341.31,
+      "end": 371.89,
+      "speaker": "SPEAKER_00",
+      "text": "ultimately I would say that this is not possible without the team that we've assembled and thankfully we've been able to be this I guess you could say a very uh community -centric arm of you know the hybrid ecosystem being the largest protocol and now working to be the largest hrp3 decks for sure and and Beyond so yeah this has obviously been like a huge uh challenge for sure it's been really fun as well we are I guess you could say known for having a team of close to 18 people most of which are Engineers and"
+    },
+    {
+      "start": 371.89,
+      "end": 402.17,
+      "speaker": "SPEAKER_00",
+      "text": "uh the front -facing side has obviously been fantastic in execution as well so ultimately there like you said there's a lot going on right like there's the primary liquid staking protocol that is kinetic that has several products on its own if you will or subproducts if you will but even more to come there right so yeah ultimately it's just been about serving a lot of different needs that exist in the hyper liquid ecosystem right a lot of people view it as simply a venue by which to trade but we look at it again I think very few people you know actually you know build"
+    },
+    {
+      "start": 402.17,
+      "end": 432.49,
+      "speaker": "SPEAKER_00",
+      "text": "towards this reality of of what hyper liquid calls itself right the house of all Finance so in order to actually you know realize this vision we do believe that there is a lot of different infrastructure and tooling um and different applications that should be kind of contributing to this and you know what better protocol than kinetic to fill many of these gaps so yeah liquid staking is very much yeah kinetics because you could say a primary offering and we've now expanded again as everyone now knows thankfully into the Equity perpetuals landscape"
+    },
+    {
+      "start": 432.49,
+      "end": 462.61,
+      "speaker": "SPEAKER_00",
+      "text": "through markets at xyz and there's much more to come we've announced obviously things like launch which is going to be very cool that's going to be along the lines of basically leveraging the staking technology to allow people to launch their own lsts whether it's you know you yourself right like you may want to launch bank type you can do that through launch uh you can also you know say at one point you know again hypothetically go and launch your own hfp3 decks right like this is the the cool part of the lst launching technology that we've built is that there is"
+    },
+    {
+      "start": 462.61,
+      "end": 493.59,
+      "speaker": "SPEAKER_00",
+      "text": "the the Dex launching component to it as well since we've gone through it ourselves uh effectively km hype used a privatized version of the launch a platform to ship the market sex was the exchange so anyway in short maybe a bit of a tangent but there's a lot that's going on for sure kinetic is by far the most audited protocol to uh you know kind of proudly stand by our security standards there and like you said we're doing a lot but there's a lot to do in hyper liquid right um I've"
+    },
+    {
+      "start": 493.59,
+      "end": 523.75,
+      "speaker": "SPEAKER_00",
+      "text": "said this quite a lot right a liquid staking protocol by itself is honestly extremely boring uh I you know it's a nightmare to me to just wake up and think only about staking every day but staking is a huge part of what we do in a lot of ways it's kind of the Gateway to what is the eventual kinetic ecosystem right through staking and trading and and much much more right because on hyper liquid you can do these things so yeah that is a super high level I I guess and should touch on kind of why the uh you know ambition of kinetic is seemingly"
+    },
+    {
+      "start": 523.75,
+      "end": 553.91,
+      "speaker": "SPEAKER_00",
+      "text": "never ending no I dude I can sense it too so you're super passionate about it I can feel that so I guess let's kind of talk about some of these uh these tokens that you guys like work through because sometimes people because you guys have a couple different offerings of what you guys brought to the market they're kind of confused how they work out on if there's fees and stuff so maybe we can Iron that out for people yes we could talk about like k -hype so that's the flagship LST can you walk"
+    },
+    {
+      "start": 553.91,
+      "end": 584.15,
+      "speaker": "SPEAKER_00",
+      "text": "us through like is it just basic and how the yield is generated and distributed to users yeah great question so I'm happy to jump into everything here and break down kind of the methodology uh or philosophy of the kinetic protocol and how we've built our products so at a high level like you said the flagship staking product is k -hype it and we've really taken this approach uh with risk isolation through all of the existing products right like there is this really annoying thing"
+    },
+    {
+      "start": 584.15,
+      "end": 614.23,
+      "speaker": "SPEAKER_00",
+      "text": "with DeFi that just seems to keep on happening and I really don't understand how people you know seem to continue with the risk appetite for this but there is this massive kind of contagion risk that's been like you know popularized amongst the you know people in DeFi whether it's like farmers that go out and search for yield or you know just general like yield Seekers right outside of like you know the pure farmer crowd right and this is where situations like resolve and many others end up happening right like I think xusd with"
+    },
+    {
+      "start": 614.23,
+      "end": 644.43,
+      "speaker": "SPEAKER_00",
+      "text": "the whole uh I forgot the name of their product I think it was stable or something no pun intended that was one recent example and then obviously now what's happened with resolve right like there is this weird notion of like massive contagion risk in which you involve a bunch of different service providers a bunch of different protocols get tangled up within each other across several different chains and ecosystems it's it's very annoying right so in our case what we realized there you know especially with building a liquid staking protocol is you know we could just simply build a liquid staking protocol"
+    },
+    {
+      "start": 644.43,
+      "end": 674.43,
+      "speaker": "SPEAKER_00",
+      "text": "we could have k -hype and call it a day right like there isn't much more to do there on the surface right but given that hyperliquid you know as an ecosystem has presented some really interesting challenges and really interesting opportunities by which to build on we realize there's a lot more cool stuff to do right so on and now what vk hype is which is kind of the next product in the in the staking suite is what we call earn right so earn is in collaboration with beta Labs who is the largest on -chain capital"
+    },
+    {
+      "start": 674.43,
+      "end": 704.73,
+      "speaker": "SPEAKER_00",
+      "text": "allocator so we work with one curator in this regard and no others right there's not this vault where like a bunch of different curators come in and like are taking their chunk of the pie and they get to do whatever the hell they want with it it's just one operator who is super trusted you know you know does really really good work and has ultimately been like the you know has earned their keep right you know Veda will come in basically and offer the ability for depositors whether of hype or k -hype to come and run basically partaking strategies that they'll run and"
+    },
+    {
+      "start": 704.73,
+      "end": 734.95,
+      "speaker": "SPEAKER_00",
+      "text": "get the best risk adjusted returns through this vault so what does what the hell does that all mean right so on hyperliquid especially like at the onset of hypervm there was a bunch of different things to do right from money markets to Dex's etc etc so how how did you know like how to DD and like verify which protocols were safe to deposit into and use and whatnot and that was kind of a challenge and it still is a challenge in many ways staying on top of an ecosystem whether on hypervm or any other so this earned"
+    },
+    {
+      "start": 734.95,
+      "end": 765.13,
+      "speaker": "SPEAKER_00",
+      "text": "vault basically simplifies that for all depositors and just says hey come deposit your k -hype and hype and Veda will handle the deployment so they deploy across hyperland Felix Pendle project X which is a Dex on hypervm and have ultimately been able to stream yield to depositors that sometimes in excess of over 50 percent more on the staking yield right so it's been very interesting to see and it still has about 50 million dollars in tvl today at some point it was the largest vault in all of DeFi with about 750 million dollars in deposits"
+    },
+    {
+      "start": 765.13,
+      "end": 795.13,
+      "speaker": "SPEAKER_00",
+      "text": "so yeah that was very cool to see ultimately and going further you know we realize there's a lot of institutions on hyperliquid who hold hype positions but aren't able to even stake it right it's hard to hold it on hyper core they must hold it on hypervm uh because this is where otc otc desks will be able to purchase for them uh we noticed there's a serious problem here custodians at the time weren't able to support staking infrastructure because hypercore is bespoke and complex so we built ihype which"
+    },
+    {
+      "start": 795.13,
+      "end": 825.57,
+      "speaker": "SPEAKER_00",
+      "text": "is basically kinetic state type for institutions and since then we now have you know several publicly traded companies or or you know hyperdats effectively that stake with us from Hyperion DeFi to hyoq strategy a couple of regulated Market Makers as well and then several other entities that we're working with to develop instances for so yeah ultimately this is the institutional product that we have every depositor is you know kyb'd they can work with Market Makers of their choice to mint and redeem these tokens and"
+    },
+    {
+      "start": 825.57,
+      "end": 855.83,
+      "speaker": "SPEAKER_00",
+      "text": "there's even some privatized DeFi applications like hyperland who have created specialized pools for them to use these assets in like private lending so that's ihype and then most recently is km hype right so km hype represents kinetic markets uh you know the the hiv3 decks it literally stands for kinetic markets type and like I said it was the first use of the launch platform in a privatized instance for our decks and yeah like I said so so it basically raised amongst"
+    },
+    {
+      "start": 855.83,
+      "end": 885.89,
+      "speaker": "SPEAKER_00",
+      "text": "490 individuals roughly 888 888 k hype so it represented a little bit more hype under the hood effectively you know why why did we do this in short so you have the 500 000 hype that you need for hrp3 staking and we realized you know given the nature of our business and our expertise in liquid staking why not actually create a liquid staking token for this right other protocols I've tried it before but they've left it uncapped which I think has been pretty problematic in allowing for you know people to really value staking"
+    },
+    {
+      "start": 885.89,
+      "end": 915.93,
+      "speaker": "SPEAKER_00",
+      "text": "with them especially like you know when people look at revenues and numbers of volume uh and users on the exchange so it's you know a sticky situation there but in our approach we basically decided to make it capped and you know allow for a liquid and withdrawable buffer that anybody can come in and either refill when when there's protocols or if there's liquidity you know take from it as well so again a liquid staking protocol but powering an underlying exchange so with km hype you earn a cut of the markets that exercise revenue so"
+    },
+    {
+      "start": 915.93,
+      "end": 946.11,
+      "speaker": "SPEAKER_00",
+      "text": "it's about 10 of the gross you know exchange fees or Deployer fees I should say so for those that don't really understand hrp3 hyperliquid takes 50 of the fees and then you know a Deployer can take up to 50 of the fees so the so we basically put up 10 of the fees that we have a say in right so yeah that goes to km hype depositors on top of all of the staking Guild so that is our staking suite in short right there's a couple of different products there that people can choose from but the point being and like one"
+    },
+    {
+      "start": 946.11,
+      "end": 976.13,
+      "speaker": "SPEAKER_00",
+      "text": "thing I really like to to hit home with is all of them have their own different risk profile right k -hype may be the least risky because it's not taking any other protocol risk besides just you know being staked ultimately natively on hybrid VM there is sorry I'm hyper core where the staking module exists for hyperliquid there is no a buffer in the smart contract there's no hype sitting around basically it's it's like fully and completely um allocated to native staking right there is then earn which may have a little bit more of a risk"
+    },
+    {
+      "start": 976.13,
+      "end": 1006.63,
+      "speaker": "SPEAKER_00",
+      "text": "profile because it's taking several other smart contract risk uh in depositing in protocols like hyperland Felix project X Etc a Pendle as well and then I hype is kind of the same as k -hype basically but just for institutions so retail cannot interact with this and then km hype has different risks right like that has all the staking yield yes take all on hypercore but there is the exchange operational risk right that people have to up into so that is kind of the philosophy of the kinetic protocol and like how we've built the staking Suite and I"
+    },
+    {
+      "start": 1006.63,
+      "end": 1036.95,
+      "speaker": "SPEAKER_00",
+      "text": "do believe this is key to why you know we retain you know the lion's share of liquid staking on hyper liquid and and now you know the next goal being to move over as much steak as possible from hypercore to uh you know our protocol the through the different products so I know I I yapped for quite some time here but I hope this does give quite some color on how we've built the product suite and what it looks like today I I really appreciate you going through all that in such detail so this is definitely going to be a section people probably play and then replay and"
+    },
+    {
+      "start": 1036.95,
+      "end": 1067.17,
+      "speaker": "SPEAKER_00",
+      "text": "probably replay again just to make sure they're digesting it all but no it thank you because that really does clear up some of that stuff for me you guys had a really successful launch of your um I'm not as smooth in saying it as you k -m -t -q token I gotta work on that I got to say it maybe another 50 times and it'll come out much more smooth. But yeah, it's like honestly one of the hottest traded tokens outside of hype in the ecosystem. So congrats on that."
+    },
+    {
+      "start": 1067.79,
+      "end": 1097.25,
+      "speaker": "SPEAKER_00",
+      "text": "Appreciate it. We're currently going through the second season of points and distribution. But like, can we talk about how KNTQ captures value and where that's coming from? And then versus like staked Kinetic and like what additional benefits do they get that it's different from unstaked? Yeah, we could definitely talk on that. Yeah, appreciate the notation on how KNTQ went live. We"
+    },
+    {
+      "start": 1097.25,
+      "end": 1127.71,
+      "speaker": "SPEAKER_00",
+      "text": "definitely pride ourselves on our understanding of the hyper liquid ecosystem and like how to go about these things. I know launching on Hypercore is definitely not the easiest thing, but I would say we've really stood out by, you know, uh, only listing on Hypercore as opposed to like the typical centralized exchange listing and so on and so forth. So yeah, in short, yeah, it was a very fun time. I'm very glad people appreciated the kind of the TLC that went into that. And,"
+    },
+    {
+      "start": 1127.83,
+      "end": 1157.99,
+      "speaker": "SPEAKER_00",
+      "text": "uh, you know, I definitely believe that, you know, I have to agree with you, right? Like it was, it was very good. I'm very proud of it, uh, as, as is the whole team. So yeah, on the SKNTQ. So I have to say, typically, when it comes to liquid staking, right? I think most people will look at protocols in a one sided fashion. I think like what we've done at Kinetic has actually been very interesting with regards to how we've approached this, right? Like we've really took the time to not only, uh, you know, study the liquid, like liquid staking"
+    },
+    {
+      "start": 1157.99,
+      "end": 1188.33,
+      "speaker": "SPEAKER_00",
+      "text": "landscape outside of Hyperliquid. I mean, if you think about it, you know, Hyperliquid went live with Hyper -EVM on February of 2025 and we launched five months later. So as you can imagine, it was kind of, uh, hell for me because I was dying to go live, you know, immediately. But we were waiting for CoreWriter, right? Because we are basically the primary and at the time only, you know, fully on chain liquid staking protocol on Hyperliquid. And, you know, this was done on purpose, right? So we, we went through the internal pain"
+    },
+    {
+      "start": 1188.33,
+      "end": 1218.75,
+      "speaker": "SPEAKER_00",
+      "text": "and suffering of waiting for CoreWriter to go live. And, you know, that's how we approached our launch in July of last year. And, you know, it was well worth it in every way, shape, or form. So, you know, our experience there and in liquid staking across various other. Ecosystems, you know, in the past, uh, with regards to using the protocols and interacting with them, seeing what makes them successful, what doesn't make them successful, et cetera, kind of played into this. And that's how you see and the product differentiators product differentiation right now, you know, with Kinetic, but on that point as well, right? So it"
+    },
+    {
+      "start": 1218.75,
+      "end": 1248.75,
+      "speaker": "SPEAKER_00",
+      "text": "was very important to make sure that KNTQ was and is the key part of the Kinetic protocol with regards to how do you actually take part in its growth, right? You, you, you, most people know that, you know, Kinetic ran a 13 week point program and, you know, we were very, very straightforward about the, you know, KNTQ token, right? Like there was no, you know, no bullshitting, no nonsense with regards to like timing market or whatever. I have this tweet I put out about it being very, very low"
+    },
+    {
+      "start": 1248.75,
+      "end": 1279.07,
+      "speaker": "SPEAKER_00",
+      "text": "T behavior to try and time a market, uh, with regards to token related stuff. And, and you could see this with regards to how we rolled out KNTQ, you know, it was a matter of maybe a month or even six weeks after the 10, 10 situation. You know, when most people in the space probably didn't have much left, right? So, you know, you could tell, like we, we didn't care, right? What we, what we want to do is basically get to market and show people that what we're building is for the long run. What we're building is for hyperliquid specifically, and we're not opportunists, right? We're here to obviously build"
+    },
+    {
+      "start": 1279.07,
+      "end": 1309.19,
+      "speaker": "SPEAKER_00",
+      "text": "and build alongside our community and do things with, you know, people who are not only going to use it, but going to appreciate it as much as we do. And on that point, uh, you could say that, you know, I'm not sure if, if, if you're familiar with this, but you, a tweet came out a little while ago about how, you know, kinetic rejected this pretty massive raise last year. So to give some color on that, I don't think I've ever spoken on this publicly, but maybe it's a good opportunity to do so and give people a little bit of color as to why, you know, why that was done, right? Kinetic was in the process of raising"
+    },
+    {
+      "start": 1309.19,
+      "end": 1339.43,
+      "speaker": "SPEAKER_00",
+      "text": "about $20 million last year. And we basically turned down that raise a little bit after our launch, uh, in order to ensure that, you know, KNTQ had the best conditions for launch possible. Um, it is unfortunate that, um, when you do take on a lot of VC money, especially if you don't need it, right. And in that case, we really did not need it. You know, you, you effectively doomed the token for the first few years of vesting and whatnot. So from a pound for pound perspective in the liquid staking space, you know, kinetic has"
+    },
+    {
+      "start": 1339.43,
+      "end": 1369.75,
+      "speaker": "SPEAKER_00",
+      "text": "raised the least amount of money per TVL, like for its TVL ratio, then pretty much any other protocol, right. Whether it's in the Ethereum ecosystem, Solana, et cetera, et cetera. Right. So like we've. Still retained less than $2 million raised lifetime. And this has put us in a very interesting position, right? So you don't have the massive, you know, overhang of insane amounts of insiders basically who will kill the investability of a token and you, and like make it really, really difficult to get behind. And that was the literal sole purpose"
+    },
+    {
+      "start": 1369.75,
+      "end": 1399.99,
+      "speaker": "SPEAKER_00",
+      "text": "of, you know, why we rejected that race and the opportunity to work with the investors that were keen to do that. And, uh, ultimately it's worked out for the better for us, thankfully. And. Um, you know, kinetic today only has about 7 .5 % of the protocol that's allocated to actual investors that was raised across two rounds in late 2024. So yeah, it, uh, it puts us in a really interesting spot, I would say. And that's why you kind of see how clean everything has been with K and DQ. You"
+    },
+    {
+      "start": 1399.99,
+      "end": 1430.05,
+      "speaker": "SPEAKER_00",
+      "text": "could very clearly see just like the hyper liquid team, there is absolutely zero, you know, insider related nonsense that goes on. It's ultimately just like, we've heard all the horror stories. Just like with, just like anybody has about like teams using their, you know, their treasuries or, uh, you know, weird like token inside, you know, dumping deals and stuff like that. And that was obviously a really huge problem. So not only did we raise money to allocate for, uh, not only did we not raise money to allocate for centralized exchange listings to go ahead"
+    },
+    {
+      "start": 1430.05,
+      "end": 1460.47,
+      "speaker": "SPEAKER_00",
+      "text": "and facilitate those shenanigans, but we did it in the most raw way possible. And it, we didn't really care what happened, uh, you know, with that, whether that means, you know, people would look at K and DQ. As you know, a liquid or, or whatever, right? Like the sole purpose was to send the message of like, we're going to be on hyper liquid and hyper liquid only. And this is exactly what we did. So the, for us, like the value in building up trust with the community, all of our token holders, people who use our products was so much more valuable than"
+    },
+    {
+      "start": 1460.47,
+      "end": 1490.71,
+      "speaker": "SPEAKER_00",
+      "text": "having, you know, backroom relationships where, you know, we, we may be in a position where, you know, we sit on a ton of money for no reason. But the token. Is uninvestable until all early investors are out, right? Like this is the common trend that we've seen. And obviously the hyper liquid team has recognized this themselves and w which is why they did what they did with hype. Right. So we're obviously not the exact same in the sense that, you know, we have a bigger team than them. You know, we, we do things obviously in our own way as"
+    },
+    {
+      "start": 1490.71,
+      "end": 1521.27,
+      "speaker": "SPEAKER_00",
+      "text": "well, since we're building a different product on top of theirs. But yeah, you could say that we have derived a lot from how they've gone about their, their business. And have implemented many of the same principles in ours. So, yeah, I hope that gives some color the SKM TQ component was actually very cool and interesting to us too. It's, it's great to see that nearly 40 % of circulating supply is staked at that went live in January as well, sometime after KM hype, you know, was filled and it's been great, super happy"
+    },
+    {
+      "start": 1521.27,
+      "end": 1551.39,
+      "speaker": "SPEAKER_00",
+      "text": "with everything so far and obviously only working to improve it. There's a lot of really cool stuff that we're in, that we're in the process of doing, right. So it, you know, between SKM. TQ and KM hype, but obviously with SKM TQ comes some very specific stuff, right? So the minting rights for KM hype, the ability to basically have a front end from markets, X, Y, Z take our discounts. So there's quite a lot that goes into it, right. There's the, the referral rate fee share as well. Right. So like more SKM"
+    },
+    {
+      "start": 1551.39,
+      "end": 1581.67,
+      "speaker": "SPEAKER_00",
+      "text": "TQ tier basically, you know, includes a higher rate of referral kickbacks. So yeah, there's a lot that has been done already. And there's a lot that we can do. The docs on KM TQ have been some of, at least we've been told some of the most polished and straightforward, you know, in the industry. So yeah, that's what we've aimed to be, right. Just fully transparent and straightforward about this whole process. And you know, what, what role KM TQ plays, because, you know, it's very easy to make a decision on it, right. There's no like obscurity or,"
+    },
+    {
+      "start": 1581.71,
+      "end": 1611.71,
+      "speaker": "SPEAKER_00",
+      "text": "or nonsense around, you know, you not being able to understand what it does or what role it plays. Right. So that is the super. High level. I hope that gives people color as to what, you know, level of importance that has in the ecosystem as kind of the singular way to speculate on the protocols growth, whether it's the kinetic staking protocol or the markets that XYZ exchange, it's all unified by KM TQ. And obviously staking it is how you partake in the upside. And that's how we have"
+    },
+    {
+      "start": 1611.71,
+      "end": 1641.89,
+      "speaker": "SPEAKER_00",
+      "text": "effectively designed it. The, the mechanic for SKM TQ is very straightforward and simple and the protocol will buy back KM TQ in the open market and distribute. This KM TQ to SKM TQ stakers. So yeah, that is a super straightforward mechanic. People are going to listen to that chunk of information too. That that's huge. And I love the way that you, you know, talked about going about raising for the token too. Obviously we all love the hyperliquid ethos. Getting as close to that as possible is"
+    },
+    {
+      "start": 1641.89,
+      "end": 1672.07,
+      "speaker": "SPEAKER_00",
+      "text": "refreshing for anyone launching a new token and just like maintaining your, your, um, like. Wanting to stay on type of on top of hyperliquid is, is awesome. And yeah, it has traded as a clean asset and it, like I said earlier, it's honestly, it's, it's people traded a lot, like as far as ecosystem tokens on hyperliquid, I'd say it's probably the top, the top one. I have, I don't have any data for that, but it feels like it"
+    },
+    {
+      "start": 1672.07,
+      "end": 1702.11,
+      "speaker": "SPEAKER_00",
+      "text": "when I'm watching like the ecosystem tokens. So super, super exciting stuff. It made me think of a couple other questions. So with the staked KNTQ, does that benefit any from like the revenue from the KM hype markets? Like, do they get a cut of that too? Or is like the, the revenue and the sharing aspect of it linked to the KM hype holders only? Yeah. So that is"
+    },
+    {
+      "start": 1702.11,
+      "end": 1732.25,
+      "speaker": "SPEAKER_00",
+      "text": "a, uh, very interesting question. So what we've effectively done is lay this out all in docs, like very, uh, cleanly thing. So, so I'll, I'm happy to go over this. So KM hype and SKNTQ basically earn the same share from markets .xyz. And effectively what we've done is allocated, you know, 10 % of the gross deployer revenue and the 10 and 10 % of the gross deployer revenue to, to both KM hype and SKNTQ respectively. So about 20 % of the gross deployer revenue is dedicated"
+    },
+    {
+      "start": 1732.25,
+      "end": 1762.59,
+      "speaker": "SPEAKER_00",
+      "text": "for those two specifically. Thankfully, you know, we do have some great partners on markets .xyz like Oracle providers, liquidity providers. Yeah. That do basically, you know, have a share of the remainder of the revenue to keep the exchange, you know, actually not only competitive, but to bring new listings to life as well and, uh, pay the relevant parties to ensure that, you know, everything goes smoothly. Right. But basically the entirety of the disposable markets income goes to SKNTQ, which is what we committed publicly. And we've, uh,"
+    },
+    {
+      "start": 1762.73,
+      "end": 1792.67,
+      "speaker": "SPEAKER_00",
+      "text": "begun following through on. Awesome. I was gonna, I was gonna ask more about launch. Cause I forgot to. Get the name, but, uh, could you refresh my memory on that? Just to touch on launch, I should say, so it is ultimately a platform by which people can ship LSTs that can act as a crowdfunding mechanism to deploy an HIP3 exchange. So the first one that's been announced is perps .fund. They are going to be launching more of like a selection of long tail assets. So"
+    },
+    {
+      "start": 1792.67,
+      "end": 1822.75,
+      "speaker": "SPEAKER_00",
+      "text": "things like, again, I could probably speak hypothetically here as well. Like you can imagine what they call sub deployers or any. Say, say you wanted to go and launch a perp with them. You could say, Hey, I'd like a Lububu perp, right? So you work with them to basically bring that perp to life on their platform, on their decks and the launch platform basically powers the stake for the exchange. And yeah, in short, they don't have to go build an LST, right. They could use launch, have an LST out of the box, uh, that allows"
+    },
+    {
+      "start": 1822.75,
+      "end": 1852.83,
+      "speaker": "SPEAKER_00",
+      "text": "them to go to market and, uh, raise from the public. So that is, that is it. So perps .fund is one of many. Who will be announced, they have just decided to come out, you know, earlier and basically say that they're using launch, but there'll be, there'll be several others, right. We've been in tens of conversation with, uh, prospective deployers who have their own ideas from compute to Forex, to long tail assets, to anything really. Right. So, uh, yeah, that is the high level in short of, you know, what the launch product overall looks like and, you"
+    },
+    {
+      "start": 1852.83,
+      "end": 1883.19,
+      "speaker": "SPEAKER_00",
+      "text": "know, expect many more deployers quite soon to start, uh, talking about their usage and involvement. Great. Thanks for covering. That, how does that tie in launch products, uh, in regards to the fees that are taken, where to, where are those directed to like which, which of the tokens? Yeah, great question. So KM hype only benefits from the markets that X, Y, Z exchange, right. It is only that right. Um, on the launch related product. So the"
+    },
+    {
+      "start": 1883.19,
+      "end": 1913.27,
+      "speaker": "SPEAKER_00",
+      "text": "business model is very straightforward for launch kinetic assesses 10 % of the deployer fees, which comes out. So. About 5 % of gross exchange revenue, like when you factor in hyperliquids cut and that a hundred percent of that will go to programmatically purchasing K and DQ for SK and DQ yield. Okay. Yeah, that's super straightforward. So then I don't know if you have stats between this, but like when you're evaluating kind of which of these tokens maybe to go heavier in, if you only have so"
+    },
+    {
+      "start": 1913.27,
+      "end": 1943.73,
+      "speaker": "SPEAKER_00",
+      "text": "much allocation, what has the yield been like for like a KM hype holder versus like. Yeah. S N T Q. Like it feels like to me, yeah. S S N T Q is like the way to go if you had to choose, but do you have any idea for that? Yeah, that's a, that's a good question. I don't have numbers on yield just yet because programmatic distribution about to kick off. So people can start to, you know, do the numbers there and like APR APY will actually be displayed natively on the portfolio"
+    },
+    {
+      "start": 1943.73,
+      "end": 1973.79,
+      "speaker": "SPEAKER_00",
+      "text": "pages, you know, on kinetic. So I can't say I have numbers on that yet, but. What I would say is, I mean, again, this, this doesn't come off as any financial advice, right. But like how the kinetic protocol is structured is that it allows people to basically keep exposure to whatever they like, right. If people, you know, effectively want to act as a, you know, a steward or a shareholder of the kinetic protocol, they can through K and DQ and stake that for SK and DQ and basically act as, you"
+    },
+    {
+      "start": 1973.79,
+      "end": 2003.83,
+      "speaker": "SPEAKER_00",
+      "text": "know, again, like a shareholder in the kinetic protocol or same thing with hyperliquid, right. If you want to act as purely. A shareholder in hyperliquid, you can do that by purchasing hype and you also get access to, you know, revenue from in underlying HP three decks, which again, so the markets exchange is the only one with actual announced and proven, you know, revenue share to depositors, right. We're the only one that, what that does that, and we'll likely be the only ones to do that until the launch"
+    },
+    {
+      "start": 2003.83,
+      "end": 2034.07,
+      "speaker": "SPEAKER_00",
+      "text": "platform comes out, because we basically ensure that deployers on the launch platform. We'll do that. With their stake is too. So you can basically choose, right. Whether you want to have hype exposure came to key exposure or both, right. It doesn't matter. It's up to you. And the kinetic protocols allows you to do that. Right. So it's, it's really ultimately been about ultimate fleet, freedom, and flexibility and having the optionality to do that within our protocol has been the most important thing, right? So we really leave no depositor on turned, right? Like you"
+    },
+    {
+      "start": 2034.07,
+      "end": 2064.19,
+      "speaker": "SPEAKER_00",
+      "text": "can basically come and deposit whether you're came to Q holder or a hype holder. right? And like get access to either the kinetic protocol growth, uh, hyperliquids growth through various means through our staking suite or both. Love it. Love it. Okay. Well, thanks for breaking all that down. I guess kind of segwaying into my next question. I'm a big fan of your guys' marketing. Uh, I'm not sure a hundred percent, but is chief Keith, the heading this"
+    },
+    {
+      "start": 2064.19,
+      "end": 2094.47,
+      "speaker": "SPEAKER_00",
+      "text": "effort doing a fantastic job? Yeah. Yeah. Chief Keith is, is the, uh, he, he is overall who oversees and orchestrates all of the marketing efforts at kinetic. We have a smaller forward facing team, but that's basically just a combination of chief Keith who heads it all myself and a couple of others. So yeah. Shout out chief Keith. Love Sosa. Love Sosa. Yeah. If you know, you know, exactly."
+    },
+    {
+      "start": 2096.09,
+      "end": 2125.45,
+      "speaker": "SPEAKER_00",
+      "text": "So, you know, most defy protocols play it safe with their marketing and you guys are pretty bold and loud. Uh, I like that personally, you know, these like hype videos you guys do when you introduce new products to are awesome. And then, you know, recently you guys had LC signed Tony make a like, yeah, make a video for you guys, which was hilarious. Um, this is obviously a deliberate strategy. Who are you guys trying to appeal to? You"
+    },
+    {
+      "start": 2125.45,
+      "end": 2155.69,
+      "speaker": "SPEAKER_00",
+      "text": "know, a lot of people have asked for a very long time and it's been very hard to keep our mouths closed about this. As you can imagine, like you said, you know, as you know, we're, we're bold and forward about this. Um, you know, a lot of people have asked for a long time and this kind of ties into what we released yesterday. People are asking for like a hyperliquid mobile app, right? Like how, how can I, how can somebody build some sort of hyperliquid mobile app that kind of appeals to mainstream, uh, retail. Right. And that is basically what we have set out to do. If markets that X, Y, Z. Um, so"
+    },
+    {
+      "start": 2155.69,
+      "end": 2185.79,
+      "speaker": "SPEAKER_00",
+      "text": "as you probably saw in collaboration with Dick, sorry, we released the private beta yesterday for our mobile app. That'll be live on both the app store and the Google play store. So yeah, ultimately we're, we're in a really, really great spot with that. We've been onboarding a few hundred people to test it ultimately privately, which has been great. Public beta will open soon where anybody can come and download and test. Uh, so yeah, ultimately it's been kind of the most fun we've had since, since launch. And, um, yeah, that is ultimately who we're appealing"
+    },
+    {
+      "start": 2185.79,
+      "end": 2215.89,
+      "speaker": "SPEAKER_00",
+      "text": "to. Obviously we have this base of CT users for sure, but the way we look at it is, you know, Kinetic has ultimately been this, this primary driver of USDA's growth, right? With our TGE, we added about 30 million in market capitalization, which is about 30 % of all USDA. With markets X, Y, Z launch, we added another 10 to maybe almost 20 million in, in USDA market capitalization, right? So Kinetic has ultimately been, you know, the primary driver of growth for, you know, native markets is USDA. And the way we look at it is if you look at the markets at X, Y, Z app, you don't"
+    },
+    {
+      "start": 2215.89,
+      "end": 2246.47,
+      "speaker": "SPEAKER_00",
+      "text": "even know that using USDH, you don't even know that you, you may be using USDC, right? So the, the element of abstraction within our applications is the ultimate component in being able to bring hyperliquid to mass retail audience without them knowing that they're using the hyperliquid blockchain or USDC as a stable coin, USDH as a stable coin, et cetera, et cetera. So I hope that overall gives quite some color, but yeah, that's, that's kind of, one of the several reasons you see us do, you know, what we do. So"
+    },
+    {
+      "start": 2246.47,
+      "end": 2276.57,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, I hope that that helps, but LC Sango is obviously very, very cool about this and super interesting. We, we purchased, as you may have seen in the video, we purchased quite a lot of signs off him, right? So you'll be seeing quite some interesting, you know, people who, who stream and whatnot using the markets at X, Y, Z sign. And yeah, I mean, who better than to purchase from him? That's super cool, man, maybe I'll have to figure out if I can add one"
+    },
+    {
+      "start": 2276.57,
+      "end": 2307.13,
+      "speaker": "SPEAKER_00",
+      "text": "to my background. Yeah. If you, if you, if you stream, right, like you can get a, you can get a sign, we'll get you on from, from Tony. So yeah. I'm not ready to dox yet. No, no, no. Yeah. That's fair. You know, you have been posting pictures of like all these classic phones, like the razor, you know, the sidekick type of deal. I wish I had a sidekick, man. I was so jealous of the people that had those, but I, my mom wouldn't buy me one. At that time. That's"
+    },
+    {
+      "start": 2307.13,
+      "end": 2337.39,
+      "speaker": "SPEAKER_00",
+      "text": "awesome that you guys are doing this mobile forward app. The, the mobile phones have been very interesting and, you know, I know people have a bunch of theories around them and whatnot, and that's cool. But, but in short, I think there's a very cool story to tell about, you know, in the pre iPhone era, you know, everybody believed that like the Blackberry and the sidekick would basically be. Like the end all be all right. Like if you didn't have a Blackberry, you like, who the fuck are you? You"
+    },
+    {
+      "start": 2337.39,
+      "end": 2367.43,
+      "speaker": "SPEAKER_00",
+      "text": "know, that was like, that was, it's almost like when the brick phone came out, right? Like you, if you, if you didn't have a brick, right? Like who the fuck were you? If you didn't have a pager, who the fuck were you? Right. So, so that is a very interesting realization that we had internally. And that's how we look at our entire product suite, right? You may look at certain things today and be like, this is the end all be all there's no, there is an undisputed, uncontested. Winner here, but you know, we live and die by the amount of innovation"
+    },
+    {
+      "start": 2367.43,
+      "end": 2398.27,
+      "speaker": "SPEAKER_00",
+      "text": "that we put into all of our products, right? Whether it's liquid staking and how do we change that? How do we, how do we innovate on liquid staking? How do we turn liquid staking into something that is way, way, way more flexible, way more portable, way more, you know, interesting as a product rather than just like, oh, boring, you know, vanilla liquid staking. Right. And how do we do that while adhering to a bunch of principles that, you know, keep people safe. Right. So this has been like one big challenge in the kinetic protocol. Well, if you apply the same thing to the markets that XYZ exchange, you"
+    },
+    {
+      "start": 2398.27,
+      "end": 2428.79,
+      "speaker": "SPEAKER_00",
+      "text": "know, how does markets XYZ grow outside of purely relying on the hyperliquid front end real estate. Right. And you can see the efforts that we're making in this regard. So that is ultimately what the mobile phones are all about. I hate to burst the bubble of several conspiracies around that, but yeah, the point being that this is kind of the prospect of ultimately what's happened with, you know, what we've been doing in the past, you know, what we've been doing in the past, you know, what we believe has been the previous dominance of the mobile phone space. And, and yeah, let's"
+    },
+    {
+      "start": 2428.79,
+      "end": 2460.67,
+      "speaker": "SPEAKER_00",
+      "text": "just say that as newer and newer things come out and as more and more innovation hits the tape, it becomes very, very clear that the incumbents become very shaky in their boots. Right. So that's how we look at it. Wow. You know, listening to you say that it's crazy because I was, you know, using chat GPT to kind of break down what you're posting and then like asking it. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah."
+    },
+    {
+      "start": 2460.67,
+      "end": 2491.03,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. That's crazy. I'm posting a brick phone as we speak. So agent K the main character for kinetic kind of a hilarious creature. I don't even know what you would describe him as either. Yeah. It's awesome. Like I personally really like him, you know, having that, that character that people can identify. instantly and think of you guys as cool yeah yeah what were the plans here with this guy you know is there anything uh bigger"
+    },
+    {
+      "start": 2491.03,
+      "end": 2521.03,
+      "speaker": "SPEAKER_00",
+      "text": "maybe like an nft with utility or like even an agent k coin oh man yeah that's that's funny there's no particular plan i would say i mean there is you know agent k is obviously just he's one account right that represents the broader blob right who who's like what our internal name for for this character is and yeah ultimately there's been a few really hilarious sticker packs that have been made some some pg some not so pg and you know some"
+    },
+    {
+      "start": 2521.03,
+      "end": 2551.87,
+      "speaker": "SPEAKER_00",
+      "text": "people have kind of taken you know agent k to the next level with his various uh features but yeah the point being that it's it was actually really funny in singapore like speaking with jeff like he had seen some of the the stickers right at we were all the all the hyper event and he had seen some of the stickers he's like oh i've seen this guy before and i was like oh so that was ultimately like really really funny um and yeah it's it's obviously great that it's taken hold you know in the within the ecosystem as this kind of cute but completely"
+    },
+    {
+      "start": 2551.87,
+      "end": 2582.69,
+      "speaker": "SPEAKER_00",
+      "text": "morphable i guess you could say you know character that can play several roles right like um agent k is just one persona of of the blob ultimately with uh you know he he's like the men in black type character with the with the flash stick you know so anyway yeah it's uh it's been really fun kind of bringing bringing him to life oh man i love agent k though so i'm happy that uh yeah yeah he really makes me laugh uh speaking of singapore you"
+    },
+    {
+      "start": 2582.69,
+      "end": 2613.17,
+      "speaker": "SPEAKER_00",
+      "text": "know i saw some really cool stuff on the timeline like tobias reasoner he's always rocking his like japanese style wave kinetic t -shirt you know it's badass i've seen lots of requests on the timeline for merch come on spill some dj's what's going on there you guys gonna release some merch yeah our next phase of merch is gonna be super crazy so obviously very very excited about that those were the whole that was like the whole singapore exclusive but yeah we're gonna have some crazy ones for sure so"
+    },
+    {
+      "start": 2613.17,
+      "end": 2643.29,
+      "speaker": "SPEAKER_00",
+      "text": "there'll be like kinetic merch markets merch there'll be some you know specific i think we we definitely balled out on merchant in singapore which is crazy like we had these super dope swag boxes that we gave out to the fans so we had like a promo back humbler in them it had a shirt it had socks agent k socks which were super dope so yeah i mean you can obviously expect there to be you know really cool shit for this year's event as well yeah dude i'm jealous of some of that stuff people"
+    },
+    {
+      "start": 2643.29,
+      "end": 2673.33,
+      "speaker": "SPEAKER_00",
+      "text": "got uh i think there's like a hoodie too yeah yeah yeah so there's there's new hoodies hitting the tape yeah it's gonna be good in case you're you know still kind of uh searching for new ideas uh how about you know some aging stuff or something like that yeah i think it's gonna be really cool yeah i think it's gonna be really cool yeah i think it's gonna be really cool k hairy nutsack like on a t -shirt or something i love that people love that one yeah people love that one it was it started as an inside joke and now it's become a fully public"
+    },
+    {
+      "start": 2673.33,
+      "end": 2703.43,
+      "speaker": "SPEAKER_00",
+      "text": "facing thing so yeah it's pretty funny yeah man do you want to give any insight as to like a timeline when people could expect this sort of thing uh on merch i mean it's really up in the air right like designs are still getting finalized we do thankfully have a lot of people who are interested in it so yeah i think it's gonna be really cool have a great partner that uh you know we get everything manufactured from so yeah now it's just about quality control and stuff like that so so definitely in time for singapore this year which is in october but yeah what we do want to get ready for sure is uh you know in"
+    },
+    {
+      "start": 2703.43,
+      "end": 2733.59,
+      "speaker": "SPEAKER_00",
+      "text": "the markets xyz mobile app we also have a store so people will be able to exchange their xp in the app for merch so yeah you don't even need to be in person to get it oh that's kind of cool awesome yeah yeah absolutely all right oh you spilled lots of alpha i'm i'm a fan of how this went so i think people are really going to enjoy this so before i uh i let you go though i don't know if you've caught any of my earlier episodes when i interview someone for the first time i like to ask them"
+    },
+    {
+      "start": 2733.59,
+      "end": 2764.77,
+      "speaker": "SPEAKER_00",
+      "text": "when you go to a restaurant and hopefully you're not a vegetarian when you go to a restaurant yeah i was gonna say it's not good for the tea you know if you're if you're not eating meat so exactly exactly but uh when you go to a restaurant and you're not a vegetarian you're not a vegetarian what is the preferred cut of meat that you get that's a good question so i used to be more of a like a fillet than ribeye guy um but now i'm just into tenderloin right like lean meats so tenderloin is currently what i would order at a restaurant that's"
+    },
+    {
+      "start": 2764.77,
+      "end": 2794.91,
+      "speaker": "SPEAKER_00",
+      "text": "solid and how do you like it cooked i'm a i'm a medium guy right like i don't uh i don't like too much too much juice but i also don't like it uh you know completely dry or whatever either right so i got i find it i'm a medium guy right in the middle respectful answer awesome well thanks for uh spending some time with me omnia make sure you guys check out everything kinetics got going set those notifications on and check out their mobile app if you're interested make sure to reach out and see"
+    },
+    {
+      "start": 2794.91,
+      "end": 2799.49,
+      "speaker": "SPEAKER_00",
+      "text": "if you can get access thanks again omnia for hanging out with me appreciate it man thanks for the time"
+    }
+  ],
+  "speaker_map": {}
+}

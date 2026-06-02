@@ -1,0 +1,79 @@
+{
+  "space_id": "yt-KoDXBbN-3cs",
+  "title": "Kinetiq Is Dominating Hyperliquid (75% LST Share)",
+  "state": "ended",
+  "created_at": null,
+  "started_at": null,
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Omnia",
+      "handle": null,
+      "team": "Kinetiq",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=KoDXBbN-3cs",
+  "summary_title": "Kinetic controls 75% of Hyperliquid's LSTs and just launched a mobile app",
+  "summary_description": "Omnia breaks down Kinetic's staking suite, $2.3B markets volume, and why they rejected a $20M raise to protect KNTQ.",
+  "topic_tags": [
+    "vaults",
+    "perps",
+    "tokenomics",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 38,
+      "label": "Kinetic founded in 2020 to solve Hyperliquid liquid staking"
+    },
+    {
+      "timestamp_seconds": 129,
+      "label": "Kinetic controls 75% of LSTs, $2.3B markets volume"
+    },
+    {
+      "timestamp_seconds": 250,
+      "label": "KM Hype crowdfund filled in 1.5 hours via Candy Q holders"
+    },
+    {
+      "timestamp_seconds": 553,
+      "label": "K-Hype, Earn, iHype, KM Hype staking suite explained"
+    },
+    {
+      "timestamp_seconds": 1309,
+      "label": "Kinetic rejected $20M raise to protect KNTQ token conditions"
+    },
+    {
+      "timestamp_seconds": 1792,
+      "label": "Launch platform: LST crowdfunding for HIP3 deployers"
+    },
+    {
+      "timestamp_seconds": 2155,
+      "label": "Markets XYZ mobile app private beta launched yesterday"
+    },
+    {
+      "timestamp_seconds": 2367,
+      "label": "Omnia compares Kinetic innovation to shift from Sidekick to iPhone"
+    }
+  ],
+  "pull_quote": "We rejected a $20M raise to ensure KNTQ had the best conditions for launch possible",
+  "quote_attribution": {
+    "name": "Omnia",
+    "team": "Kinetiq",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2805.6746875,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-1FuaIpXmWVs",
+  "title": "Silhouette: Shielded Trading on Hyperliquid Explained",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-03-16T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Chandler",
+      "handle": null,
+      "team": "Silhouette",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=1FuaIpXmWVs",
+  "summary_title": "Privacy trading on Hyperliquid: aggregating volume to slash fees for all users",
+  "summary_description": "Silhouette's trusted execution environment lets traders hide activity while pooling volume for fee discounts—even beating centralized exchanges.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "execution"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 37,
+      "label": "Chandler's background: CeFi expansion, DeFi protocols, then privacy focus"
+    },
+    {
+      "timestamp_seconds": 127,
+      "label": "Silhouette defined: shielded exchange on Hyperliquid protecting trade privacy"
+    },
+    {
+      "timestamp_seconds": 188,
+      "label": "Beta live with HYPE/USDC pair; prop shops and hedge funds testing"
+    },
+    {
+      "timestamp_seconds": 278,
+      "label": "Roadmap: USDH pairs next week, then BTC/ETH majors, then ecosystem tokens"
+    },
+    {
+      "timestamp_seconds": 399,
+      "label": "Research drove design: whales wanted privacy, counterparty checks, lower fees"
+    },
+    {
+      "timestamp_seconds": 610,
+      "label": "How it works: trusted execution environment, agent wallets, no fund custody"
+    },
+    {
+      "timestamp_seconds": 1460,
+      "label": "Hyperliquid decoupling from crypto via TradFi markets and 24/7 trading"
+    },
+    {
+      "timestamp_seconds": 1822,
+      "label": "Launching fee module, staking discounts; claiming cheapest fees vs CeFi"
+    }
+  ],
+  "pull_quote": "You can mimic 24 seven with different markets across the globe, but there hasn't been one truly global market that unifies all these disparate parts.",
+  "quote_attribution": {
+    "name": "Chandler",
+    "team": "Silhouette",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1870.8763125,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-rHjgW5mannE",
+  "title": "There Are Only 2 Real NFTs on Hyperliquid | Hypio Founder Speaks",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-03-20T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Black",
+      "handle": null,
+      "team": "Hypio",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=rHjgW5mannE",
+  "summary_title": "Why Hypio renamed to Lucky Winners and the art refresh coming",
+  "summary_description": "Hypio founder on rebranding from wealthy babies to lucky winners, the upcoming art upgrade mechanics, and why NFTs on Hyperliquid need better execution.",
+  "topic_tags": [
+    "ecosystem",
+    "community",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 38,
+      "label": "Hypio's explosive six months post-mint exhausted the team"
+    },
+    {
+      "timestamp_seconds": 159,
+      "label": "Market timing and energy shifts when Hypers launched"
+    },
+    {
+      "timestamp_seconds": 249,
+      "label": "Only two real NFT projects alive on Hyperliquid: Hypio and Hypers"
+    },
+    {
+      "timestamp_seconds": 370,
+      "label": "NFTs serve as identity proxy and organizing principle in crypto"
+    },
+    {
+      "timestamp_seconds": 490,
+      "label": "Rebranding from Wealthy Hypio Babies to Lucky Hypio Winners"
+    },
+    {
+      "timestamp_seconds": 1034,
+      "label": "Art upgrade is optional; lets holders customize their NFTs"
+    },
+    {
+      "timestamp_seconds": 1582,
+      "label": "TT as cultural symbol emerging from team synchronicity"
+    },
+    {
+      "timestamp_seconds": 2308,
+      "label": "Hyperliquid team's neutrality and seriousness sets example for builders"
+    }
+  ],
+  "pull_quote": "It's better to be lucky than smart in a lot of cases. There's a lot of smart people who are broke.",
+  "quote_attribution": {
+    "name": "Black",
+    "team": "Hypio",
+    "role": "founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3328.8816875,
+  "capture_failure_reason": null
+}

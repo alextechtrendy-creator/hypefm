@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-a0GliNinkgs",
+  "title": "Hyperliquid Strategies CEO: 17M HYPE, Buybacks & the Equity Flywheel",
+  "state": "ended",
+  "created_at": null,
+  "started_at": null,
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "David",
+      "handle": null,
+      "team": "Hyperliquid Strategies",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=a0GliNinkgs",
+  "summary_title": "HSI bought $140M of Hype at $26 average, now trading 1.02x MNAV",
+  "summary_description": "Public SPAC David discusses treasury strategy, yield enhancement plans, and Hyperliquid's AWS-like future with HIP3 and HIP4.",
+  "topic_tags": [
+    "HLP",
+    "tokenomics",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 7,
+      "label": "Closed December 2nd, now holds 17M tokens total"
+    },
+    {
+      "timestamp_seconds": 38,
+      "label": "First earnings call as public company CEO, nav dashboard launched"
+    },
+    {
+      "timestamp_seconds": 189,
+      "label": "Website shows live token price, 1.02x MNAV, one-week lag on share count"
+    },
+    {
+      "timestamp_seconds": 369,
+      "label": "Math: $1 Hype move ÷ 150M shares = impact to MNAV per share"
+    },
+    {
+      "timestamp_seconds": 703,
+      "label": "Treasury framework: buy above 1.1x MNAV, sell below 0.9x"
+    },
+    {
+      "timestamp_seconds": 1518,
+      "label": "Considering yield enhancement via options, but cautiously, not venture risk"
+    },
+    {
+      "timestamp_seconds": 1699,
+      "label": "38% of Hype reserved for community—HPC announced using 1M tokens"
+    },
+    {
+      "timestamp_seconds": 1884,
+      "label": "HIP3 real, HIP4 prediction markets coming, Hyperliquid as AWS infrastructure"
+    }
+  ],
+  "pull_quote": "Bitcoin is going to trade like digital gold, Hype like equity of a business generating revenue",
+  "quote_attribution": {
+    "name": "David",
+    "team": "Hyperliquid Strategies",
+    "role": "CEO"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2396.352,
+  "capture_failure_reason": null
+}
