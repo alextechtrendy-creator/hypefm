@@ -6,6 +6,7 @@ _Charlie from Felix discusses lending infrastructure, commodity markets, tokeniz
 > — Charlie, Felix
 
 **Host:** @B33Fbanks
+**Date:** 2026-02-09
 **Duration:** 34:00
 **Tags:** perps, ecosystem, infrastructure
 **Source:** https://www.youtube.com/watch?v=VL18kbuj_u4

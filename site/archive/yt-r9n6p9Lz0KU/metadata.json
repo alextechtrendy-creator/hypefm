@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-r9n6p9Lz0KU",
+  "title": "YouTube Video r9n6p9Lz0KU",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-06-04T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Demi",
+      "handle": "demi_hl",
+      "team": "Demi",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=r9n6p9Lz0KU",
+  "summary_title": "From ordinals to Hyperliquid: why one NFT founder went all-in on the chain",
+  "summary_description": "Demi shares his journey from early crypto through board apes to building Locals Only on Hyperliquid, plus AI stack secrets and polymarket bot strategies.",
+  "topic_tags": [
+    "ecosystem",
+    "community",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 98,
+      "label": "Getting into crypto since 2017, discovering Hyperliquid through Hypurds"
+    },
+    {
+      "timestamp_seconds": 188,
+      "label": "Why Hyperliquid team's silence and decentralization approach feels refreshing"
+    },
+    {
+      "timestamp_seconds": 278,
+      "label": "Tokenomics obsession: Hyperliquid as a quadruple-point asset thesis"
+    },
+    {
+      "timestamp_seconds": 368,
+      "label": "Comparing Hyperliquid NFT season to ordinals era airdrops and culture"
+    },
+    {
+      "timestamp_seconds": 942,
+      "label": "Locals Only project origins: photography collection tied to local memories"
+    },
+    {
+      "timestamp_seconds": 1725,
+      "label": "AI stack reveal: Hermes agents, Claude, Deep Seek, polymarket bot architecture"
+    },
+    {
+      "timestamp_seconds": 2455,
+      "label": "Polymarket bot integration ready for Hyperliquid outcomes markets"
+    },
+    {
+      "timestamp_seconds": 2787,
+      "label": "US perps approval as major unlock; withdrawing from leverage-addicted exchanges"
+    }
+  ],
+  "pull_quote": "A team that actually cared about crypto and decentralization like I'd never seen in history—silent and swag when they drop announcements, like boom, out of nowhere.",
+  "quote_attribution": {
+    "name": "Demi",
+    "team": "Demi",
+    "role": "founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3721.984,
+  "capture_failure_reason": null
+}

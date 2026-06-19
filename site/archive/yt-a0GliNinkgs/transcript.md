@@ -6,6 +6,7 @@ _Public SPAC David discusses treasury strategy, yield enhancement plans, and Hyp
 > — David, Hyperliquid Strategies
 
 **Host:** @B33Fbanks
+**Date:** 2026-02-26
 **Duration:** 39:56
 **Tags:** HLP, tokenomics, ecosystem
 **Source:** https://www.youtube.com/watch?v=a0GliNinkgs

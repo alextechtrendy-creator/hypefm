@@ -6,6 +6,7 @@ _Omnia breaks down Kinetic's staking suite, $2.3B markets volume, and why they r
 > — Omnia, Kinetiq
 
 **Host:** @B33Fbanks
+**Date:** 2026-03-27
 **Duration:** 46:45
 **Tags:** vaults, perps, tokenomics, ecosystem
 **Source:** https://www.youtube.com/watch?v=KoDXBbN-3cs

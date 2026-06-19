@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-ffu35g45G3o",
+  "title": "YouTube Video ffu35g45G3o",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-06-18T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "800",
+      "handle": null,
+      "team": "HyperBeat",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=ffu35g45G3o",
+  "summary_title": "Liquid banking on Hyperliquid: borrowing against assets without selling",
+  "summary_description": "Hyperbeat's non-custodial smart accounts let you spend via card against collateral, earning yield while you hold. 8,000+ users across 30 days.",
+  "topic_tags": [
+    "infrastructure",
+    "ecosystem",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 36,
+      "label": "800 joined Hyperliquid via Hyperfun telegram bot during OG community phase"
+    },
+    {
+      "timestamp_seconds": 247,
+      "label": "Liquid banking explained: unified on-chain account for trading, spending, saving, credit"
+    },
+    {
+      "timestamp_seconds": 459,
+      "label": "Card operates in two modes: cash mode (spend stablecoins) and credit mode (borrow against collateral)"
+    },
+    {
+      "timestamp_seconds": 549,
+      "label": "Credit borrowing is non-taxable: hold assets, borrow against them, avoid selling triggers"
+    },
+    {
+      "timestamp_seconds": 730,
+      "label": "Target markets: Hyperliquid traders first, then underbanked populations in Africa, Asia, South America"
+    },
+    {
+      "timestamp_seconds": 880,
+      "label": "World Cup fantasy football campaign: $150k prize pool, 4,000 players, 5% cashback in Hype"
+    },
+    {
+      "timestamp_seconds": 1455,
+      "label": "Four revenue pillars: interchange fees, stablecoin yield, trading revenue, credit interest"
+    },
+    {
+      "timestamp_seconds": 2457,
+      "label": "Hearts token TGE delayed until sustainable revenue scales to drive token value"
+    }
+  ],
+  "pull_quote": "This is how the rich gets richer, but in most cases it's not available to ordinary people. So that's what we've built.",
+  "quote_attribution": {
+    "name": "800",
+    "team": "HyperBeat",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3682.6666875,
+  "capture_failure_reason": null
+}

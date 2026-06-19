@@ -116,28 +116,20 @@ def main():
 
     episodes = [
         {
-            "id": "yt-KoDXBbN-3cs",
-            "title": "Kinetiq Is Dominating Hyperliquid (75% LST Share)",
+            "id": "yt-r9n6p9Lz0KU",
+            "title": "YouTube Video r9n6p9Lz0KU",
             "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=KoDXBbN-3cs",
+            "video_url": "https://www.youtube.com/watch?v=r9n6p9Lz0KU",
             "date_iso": None,
-            "file": "youtube_audio/yt-KoDXBbN-3cs.m4a",
+            "file": "youtube_audio/yt-r9n6p9Lz0KU.m4a",
         },
         {
-            "id": "yt-a0GliNinkgs",
-            "title": "Hyperliquid Strategies CEO: 17M HYPE, Buybacks & the Equity Flywheel",
+            "id": "yt-ffu35g45G3o",
+            "title": "YouTube Video ffu35g45G3o",
             "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=a0GliNinkgs",
+            "video_url": "https://www.youtube.com/watch?v=ffu35g45G3o",
             "date_iso": None,
-            "file": "youtube_audio/yt-a0GliNinkgs.m4a",
-        },
-        {
-            "id": "yt-VL18kbuj_u4",
-            "title": "Felix Protocol | Hyperliquid, HIP-3 Markets, RWAs & HyperEVM",
-            "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=VL18kbuj_u4",
-            "date_iso": None,
-            "file": "youtube_audio/yt-VL18kbuj_u4.m4a",
+            "file": "youtube_audio/yt-ffu35g45G3o.m4a",
         },
     ]
 

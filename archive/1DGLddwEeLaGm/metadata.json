@@ -1,0 +1,84 @@
+{
+  "space_id": "1DGLddwEeLaGm",
+  "title": "Hyperliquid Tap Trade Win",
+  "state": "ended",
+  "created_at": "2026-06-03T23:52:05Z",
+  "started_at": "2026-06-05T15:59:02Z",
+  "ended_at": "2026-06-05T17:07:55Z",
+  "scheduled_start": "2026-06-05T16:00:00Z",
+  "lang": "other",
+  "is_ticketed": false,
+  "participant_count": 42,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Joe Blau",
+      "handle": "joeblau",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DGLddwEeLaGm",
+  "summary_title": "BlockSwap: one-tap trading on Hyperliquid for people who hate UX friction",
+  "summary_description": "Joe Blau built a Flappy Bird–style perps app. 33% of traders profitable. Live on mainnet now.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 408,
+      "label": "Zerk introduces Joe Blau and BlockSwap to the space"
+    },
+    {
+      "timestamp_seconds": 469,
+      "label": "Joe's background: 25 years building UX, US government PKI, Amazon, Uber self-driving"
+    },
+    {
+      "timestamp_seconds": 651,
+      "label": "Crypto journey: Bitcoin mining 2013, Ethereum 2016, dApps 2017"
+    },
+    {
+      "timestamp_seconds": 742,
+      "label": "Discovered Hyperliquid through friend Andy at HyperFi five weeks ago"
+    },
+    {
+      "timestamp_seconds": 893,
+      "label": "Migrated from Drift (post-hack) to Hyperliquid in two days, SDK simplicity won"
+    },
+    {
+      "timestamp_seconds": 1166,
+      "label": "BlockSwap concept: one-tap up/down trading, inspired by Flappy Bird UX"
+    },
+    {
+      "timestamp_seconds": 2409,
+      "label": "Analytics: 33% win rate (1 winner, 2 losers), vs 20-30% on regular perps"
+    },
+    {
+      "timestamp_seconds": 2802,
+      "label": "Giving away first $250k builder fees to top 100 traders as rewards"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Bloxswap",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4129.1946875,
+  "capture_failure_reason": null
+}

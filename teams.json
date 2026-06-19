@@ -328,5 +328,23 @@
     "x_handle": null,
     "website": null,
     "description": null
+  },
+  "Demi": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/demi.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Cod3x": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/cod3x.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Bloxswap": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/bloxswap.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
   }
 }

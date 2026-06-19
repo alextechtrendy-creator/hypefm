@@ -1,0 +1,78 @@
+{
+  "space_id": "1jxXggAyakNJZ",
+  "title": "WIN MORE TRADES - COD3X HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-06-17T17:22:03Z",
+  "started_at": "2026-06-18T15:59:26Z",
+  "ended_at": "2026-06-18T16:58:05Z",
+  "scheduled_start": "2026-06-18T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 105,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "bebis",
+      "handle": "0xBebis_",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1jxXggAyakNJZ",
+  "summary_title": "AI agents trading perps profitably on Hyperliquid, four years in the making",
+  "summary_description": "Justin from Codex explains why LLMs fail at trading, how they fixed it, and what net-positive user returns actually look like.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 106,
+      "label": "Bitcoin skepticism and retail depression in crypto markets"
+    },
+    {
+      "timestamp_seconds": 349,
+      "label": "Justin's journey from yield products to perpetuals trading obsession"
+    },
+    {
+      "timestamp_seconds": 500,
+      "label": "Four-year AI research arc: agentic wallets, DeFi agents, trading agents"
+    },
+    {
+      "timestamp_seconds": 653,
+      "label": "Why existing AI agents lose money: billions of low-quality training data"
+    },
+    {
+      "timestamp_seconds": 805,
+      "label": "Models go long-only because they never learned to hedge in real markets"
+    },
+    {
+      "timestamp_seconds": 1109,
+      "label": "Codex V1 product walkthrough: chat with agent, fund it, watch it trade 24/7"
+    },
+    {
+      "timestamp_seconds": 1349,
+      "label": "Hyperliquid's API quality and 2-bip fees enable strategies impossible elsewhere"
+    },
+    {
+      "timestamp_seconds": 2534,
+      "label": "One year vision: meta-agents as intelligent ETF replacements, regime adaptation"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Cod3x",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3520.704,
+  "capture_failure_reason": null
+}
