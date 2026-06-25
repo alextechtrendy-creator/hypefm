@@ -1,0 +1,78 @@
+{
+  "space_id": "1mGPaamnZBbJN",
+  "title": "STOCKS ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-06-22T15:11:40Z",
+  "started_at": "2026-06-23T15:59:01Z",
+  "ended_at": "2026-06-23T16:31:45Z",
+  "scheduled_start": "2026-06-23T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 57,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Anna B. Wroblewska",
+      "handle": "annabelleacta",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1mGPaamnZBbJN",
+  "summary_title": "Tokenized US stocks on Hyperliquid: real ownership, dividends, and DeFi composability",
+  "summary_description": "Denari's dShares bring actual stock ownership on-chain with full corporate actions, not wrapped tokens.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "trading"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 451,
+      "label": "Zerk introduces Denari and tokenized equities topic"
+    },
+    {
+      "timestamp_seconds": 482,
+      "label": "Anna explains Denari's custodial model and regulatory approach"
+    },
+    {
+      "timestamp_seconds": 634,
+      "label": "Denari's history since 2021 across multiple chains"
+    },
+    {
+      "timestamp_seconds": 785,
+      "label": "18-month SEC and FINRA approval process for US broker-dealer"
+    },
+    {
+      "timestamp_seconds": 1148,
+      "label": "dShares pass through dividends, splits, mergers—everything"
+    },
+    {
+      "timestamp_seconds": 1393,
+      "label": "Choice between KYC wallets or permissionless DeFi trading"
+    },
+    {
+      "timestamp_seconds": 1636,
+      "label": "Roadmap: more composability, international markets, US access"
+    },
+    {
+      "timestamp_seconds": 1848,
+      "label": "Korean stocks as top community request, high priority"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Dinari Global",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1960.192,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-qO8-nn1jFBI",
+  "title": "Tokenized Leverage on Hyperliquid | Bounce.Tech",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-06-22T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Louis",
+      "handle": "louisohg",
+      "team": "Bounce Tech",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=qO8-nn1jFBI",
+  "summary_title": "Tokenized leverage tokens: composability, ecosystem plays, and why Bounce beats perps",
+  "summary_description": "Louis from Bounce Tech explains leverage token mechanics, rebalancing, and how tokenization unlocks DeFi composability on Hyperliquid.",
+  "topic_tags": [
+    "perps",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 97,
+      "label": "Louis's background: TLX protocol, leverage tokens, five years in crypto"
+    },
+    {
+      "timestamp_seconds": 158,
+      "label": "Why they couldn't build on Hyperliquid until precompiles launched"
+    },
+    {
+      "timestamp_seconds": 309,
+      "label": "Bounce Tech explained: tokenizes Hyperliquid perps as ERC20, no liquidation"
+    },
+    {
+      "timestamp_seconds": 339,
+      "label": "Hyperliquid precompiles: query bridge between Hyper EVM and Hypercore"
+    },
+    {
+      "timestamp_seconds": 491,
+      "label": "May Hype rally: 5x perp +400%, Hype 5L +650% due to up-levering"
+    },
+    {
+      "timestamp_seconds": 1127,
+      "label": "Composability unlocks ecosystem: Zcash 3x long protected holders vs liquidation"
+    },
+    {
+      "timestamp_seconds": 1580,
+      "label": "Revenue driven by volume and redemption fees, not TVL"
+    },
+    {
+      "timestamp_seconds": 1883,
+      "label": "Roadmap: expanding to multi-strategy tokenized vaults and agentic management"
+    }
+  ],
+  "pull_quote": "The largest order book on chain just became composable and liquidity is absolutely key for efficient leverage tokens",
+  "quote_attribution": {
+    "name": "Louis",
+    "team": "Bounce Tech",
+    "role": "founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2589.2693125,
+  "capture_failure_reason": null
+}

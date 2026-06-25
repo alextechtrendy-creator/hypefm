@@ -116,20 +116,12 @@ def main():
 
     episodes = [
         {
-            "id": "yt-r9n6p9Lz0KU",
-            "title": "YouTube Video r9n6p9Lz0KU",
+            "id": "yt-qO8-nn1jFBI",
+            "title": "Tokenized Leverage on Hyperliquid | Bounce.Tech",
             "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=r9n6p9Lz0KU",
-            "date_iso": None,
-            "file": "youtube_audio/yt-r9n6p9Lz0KU.m4a",
-        },
-        {
-            "id": "yt-ffu35g45G3o",
-            "title": "YouTube Video ffu35g45G3o",
-            "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=ffu35g45G3o",
-            "date_iso": None,
-            "file": "youtube_audio/yt-ffu35g45G3o.m4a",
+            "video_url": "https://www.youtube.com/watch?v=qO8-nn1jFBI",
+            "date_iso": "2026-06-22",
+            "file": "youtube_audio/yt-qO8-nn1jFBI.m4a",
         },
     ]
 
