@@ -33,3 +33,5 @@ modal_test*.py
 *.m4a
 *.mp3
 *.wav
+broadcast_downloads/
+youtube_audio/

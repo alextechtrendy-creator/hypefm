@@ -1,0 +1,78 @@
+{
+  "space_id": "1wxWjjkajMDJQ",
+  "title": "MAX YIELD ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-07-01T17:00:52Z",
+  "started_at": "2026-07-02T16:01:08Z",
+  "ended_at": "2026-07-02T16:34:19Z",
+  "scheduled_start": "2026-07-02T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 88,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Christophorus",
+      "handle": "christophorusan",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1wxWjjkajMDJQ",
+  "summary_title": "Harmonix: 10% USD yield and delta-neutral vaults on Hyperliquid",
+  "summary_description": "How Harmonix generates sustainable yield through delta-neutral strategies and TradeXYC funding rates.",
+  "topic_tags": [
+    "vaults",
+    "trading",
+    "perps"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 401,
+      "label": "Zerk introduces Christopherus from Harmonix"
+    },
+    {
+      "timestamp_seconds": 462,
+      "label": "Chris shares background: DeFi trader, now building basis trades"
+    },
+    {
+      "timestamp_seconds": 522,
+      "label": "USDC vault launch with 30% APY on commodities"
+    },
+    {
+      "timestamp_seconds": 795,
+      "label": "Deep dive: how delta-neutral strategy generates 10% APY"
+    },
+    {
+      "timestamp_seconds": 1129,
+      "label": "HYPE and kHYPE vault yields: 3.4% to 5% annually"
+    },
+    {
+      "timestamp_seconds": 1371,
+      "label": "TVL breakdown: 6M total across three vaults"
+    },
+    {
+      "timestamp_seconds": 1401,
+      "label": "Bullish on Hyperliquid EVM, integrating AI agents into strategies"
+    },
+    {
+      "timestamp_seconds": 1614,
+      "label": "HAAR token governance plans and convertible bond experiments"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Harmonix",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 1987.3493125,
+  "capture_failure_reason": null
+}

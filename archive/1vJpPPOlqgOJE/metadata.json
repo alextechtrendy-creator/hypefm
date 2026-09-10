@@ -1,0 +1,78 @@
+{
+  "space_id": "1vJpPPOlqgOJE",
+  "title": "TREAD.FI",
+  "state": "ended",
+  "created_at": "2026-07-02T20:39:33Z",
+  "started_at": "2026-07-03T14:59:52Z",
+  "ended_at": "2026-07-03T16:13:43Z",
+  "scheduled_start": "2026-07-03T15:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 191,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "DYJ",
+      "handle": "davidyjeong",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1vJpPPOlqgOJE",
+  "summary_title": "From Morgan Stanley quant to TradFi founder: How trading infrastructure beats fortune telling",
+  "summary_description": "David from TradFi discusses leaving TradFi after 7 years, why AI trading agents fail, and building execution-focused infrastructure on Hyperliquid.",
+  "topic_tags": [
+    "trading",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 168,
+      "label": "Host Zirk introduces David from TradFi"
+    },
+    {
+      "timestamp_seconds": 532,
+      "label": "David's journey: parents taught him to code, chose Waterloo computer science"
+    },
+    {
+      "timestamp_seconds": 897,
+      "label": "7 years at Morgan Stanley equities trading desk, working with Vanguard and Citadel orders"
+    },
+    {
+      "timestamp_seconds": 1018,
+      "label": "Crypto aha moment: Cryptowatch app revealed retail access to institutional-grade data"
+    },
+    {
+      "timestamp_seconds": 1201,
+      "label": "Left Morgan Stanley 4 years ago; FTX collapsed the week after garden leave ended"
+    },
+    {
+      "timestamp_seconds": 2148,
+      "label": "TradFi abstracts limit order books; agentic layer executes without manual trading decisions"
+    },
+    {
+      "timestamp_seconds": 2791,
+      "label": "100B in volume taught him: trading is hard, even quant PhDs can't consistently win"
+    },
+    {
+      "timestamp_seconds": 4250,
+      "label": "TreadFi name origin: tire treads reduce slippage, like tires on roads"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Tread",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4429.184,
+  "capture_failure_reason": null
+}

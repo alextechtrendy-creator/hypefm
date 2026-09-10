@@ -1,0 +1,848 @@
+{
+  "space_id": "1jGXggNjWPVKZ",
+  "language": "en",
+  "duration_seconds": 4300.16,
+  "chunks": [
+    {
+      "start": 55.63,
+      "end": 86.36,
+      "speaker": "SPEAKER_00",
+      "text": "GM, GM, how are you doing? GM, GM. All good, all good. How about you? How's everything? We're doing great. Would appreciate a greener market, though. Yeah, it's, you know, we, I think we're getting used to the red now that it's like, I don't even remember what green looks like, but it is what it is. We're close to the bottom, are you saying? I mean, I"
+    },
+    {
+      "start": 86.36,
+      "end": 117.16,
+      "speaker": "SPEAKER_00",
+      "text": "hope, I hope. I can say I've seen a lot of red. That's, that's the way I like to think about it. The only statement is I have seen a lot of red. Yeah, I have seen a lot of red. That's great. Let me just amplify the space real quick. We shall get started very shortly. I just made a tweet as well, saying that we're live now, and"
+    },
+    {
+      "start": 117.16,
+      "end": 147.27,
+      "speaker": "SPEAKER_00",
+      "text": "limited from risk account as well. I love this. You're managing two accounts at the same time. You know, founder mode. That's right. It depends, eh? When, when the charts are green, there's people joining in right away."
+    },
+    {
+      "start": 147.39,
+      "end": 177.35,
+      "speaker": "SPEAKER_00",
+      "text": "They want to, want to gamble. Yeah, I guess it's a different audience. Like now you probably gamble. You're more like passionate and, you know, you get very hardcore DeFi people to understand what's going on. You're so right. Last, or no, it was two weeks ago we had, you know, David from TreadFi. People were very interested in that, but, you know, it's mostly their run delta neutral strategies or perhaps points farming"
+    },
+    {
+      "start": 177.35,
+      "end": 207.61,
+      "speaker": "SPEAKER_00",
+      "text": "and, you know, long term strategies here, which is not the usual meme coin gamble. I agree, I agree. And I think it's very timely we have you today as well. So I'm, I'm a user of the product, but very recent user. I will add this and kind of regret not using it before. I know I met you in Singapore. It's been almost a year now. Yeah,"
+    },
+    {
+      "start": 207.67,
+      "end": 237.83,
+      "speaker": "SPEAKER_00",
+      "text": "it was still in 2049, right? So it was like a year ago. It's a long time. Exactly. And I remember you. Talking about this idea, and I was not 100 % sure I'm understanding it fully, but it's so easy when you're on the website. It's such an intuitive thing to do. So I feel like you made the user experience very seamless. So congrats on that. Yeah, thank you. You know, actually, that's the, that's the fun part about, like, I used"
+    },
+    {
+      "start": 237.83,
+      "end": 267.85,
+      "speaker": "SPEAKER_00",
+      "text": "to go out there and be teaching people about, you know, the product, why we're doing and all of that. And then. We started to do user testing. I'm talking about a year and a half ago now. So we had the app and we put it in front of people and we were like, okay, just go there and use it. And we realized that actually, that was the best pitch. It's like people saw the app and it was like, okay, I know what's going on. I understand that I'm using it. It's fine. Like, so don't even try to pitch, you know, the bigger picture here and so on. Just let me use the product."
+    },
+    {
+      "start": 268.03,
+      "end": 297.89,
+      "speaker": "SPEAKER_00",
+      "text": "And so from now on, I'm doing basically the same. I just tell people like, go check the app. That's the best way to see what. What we're building. Um, but yeah. Love it. Yeah. And because it's such a great app, it's easy to understand and people can get, you know, involved and participate really quickly. So let's kick this space off. I'm Zerk co -founder of wreck gang, and we love the host educational pieces on hyperliquid builders. We also have a validator on"
+    },
+    {
+      "start": 297.89,
+      "end": 328.01,
+      "speaker": "SPEAKER_00",
+      "text": "the hyperliquid blockchain. And today we have the privilege, the honor, the prestige of hosting. Dan from the risk team. How you doing Dan today? Um, let's say I'm doing great, but as we just mentioned, there is a lot of red, um, so it could be better, I guess, if the market was green, but we can't complain. I think I'm doing great. Love to hear it. Love to hear it. And if you have just joined the space, bottom right corner, there's a little purple bubble. You"
+    },
+    {
+      "start": 328.01,
+      "end": 358.01,
+      "speaker": "SPEAKER_00",
+      "text": "can give the space a light, give a little retweet, drop a comment always helps with the algorithm and as usual, the space. Spaces are recorded and transcribed, and then we archive them to hype FM afterwards. So on that note, I would love to hear more about how this idea came about and, you know, for the newcomers, what is risk exactly? Yeah. Yeah. Let me, let me tell a bit of the story of race because it's not, it's not a"
+    },
+    {
+      "start": 358.01,
+      "end": 388.07,
+      "speaker": "SPEAKER_00",
+      "text": "new product. Actually we, myself, I was doing options in defy with open. And back in 2020, so I basically have seen a lot of defy options and a lot of defy. And when we started risk, uh, it was about 2023, something like that. Our idea was to create some, something like to an AMM for options. That was the original idea. And we build a beautiful"
+    },
+    {
+      "start": 388.07,
+      "end": 418.17,
+      "speaker": "SPEAKER_00",
+      "text": "product to build beautiful challenge, but it was actually very hard to attract users. And the main. The main reason is that options per sale, like are complex and you basically have users that they have our time to understand why to use it, how to use it and benefit max out of it. And in parallel, when you think about it, there are most of the users, you know, what they want to do is like to express a view. And most of the times direction of view, I think the market is going to go up or market is going"
+    },
+    {
+      "start": 418.17,
+      "end": 448.23,
+      "speaker": "SPEAKER_00",
+      "text": "to go down. Right. And to do that in option is basically over complex. Uh, when. You compare that to something like a pair, but just simply my spot, for example. So that's how we started to raise like options. AMM, very complex, very hard time to get traction. And, uh, it was pretty much end of 2024. We were about to give up. We're like, okay, we try it. We'd be grinding, hustling. We build products, say, you know, we, we got users, we got a bit of traction, but like it was never able"
+    },
+    {
+      "start": 448.23,
+      "end": 479.05,
+      "speaker": "SPEAKER_00",
+      "text": "to, you know, be a sustainable model. Um, and then we were. Basically thinking like, should we just give up or let's do, you know, one more try. So we got scrappy. We started to get back to the office. The team back then was like five people, four people, five people. And we were all in, in the same office and we were just basically working every day. And one of the idea was like, what if we actually are able to focus on options,"
+    },
+    {
+      "start": 479.25,
+      "end": 509.27,
+      "speaker": "SPEAKER_00",
+      "text": "but instead of focusing on options as the. The product, now we focus on the benefit of options. So the product is actually not the op, like it's not the options. The product is the income that we can generate out of specific options strategies. And that's what we've done. So instead of like targeting traders or, you know, targeting people that want to trade options or everything like that, our idea was, can we actually target people that they are looking for income and that can get income out of options strategy? So"
+    },
+    {
+      "start": 509.27,
+      "end": 540.07,
+      "speaker": "SPEAKER_00",
+      "text": "we make that as simple as possible. But giving the user the power to do it, that was kind of the original idea. And so we got back, we started to do hundreds of user testing and try different apps and try, you know, different UIs and all of that. And the product that you see today is a result of like these iterations of going out there, talking to potential users. And basically the use case of risk is as simple as I have an asset and the asset could be hype, could be BTC, could be stable coin. And"
+    },
+    {
+      "start": 540.07,
+      "end": 570.15,
+      "speaker": "SPEAKER_00",
+      "text": "I'm willing to do it. I'm willing to take certain risk, let's say, that I know beforehand what they are and I'm going to earn by doing options strategies on the back. But in a simple way, you open the risk up. We literally ask you, like, which price you're willing to sell in the case of a covered call or which price you're willing to buy in the case of a cash -recruit put. So hype right now is, let's say, a 55, right? If you're willing to buy hype"
+    },
+    {
+      "start": 570.15,
+      "end": 600.47,
+      "speaker": "SPEAKER_00",
+      "text": "at 50, you're the put. If you're willing to deposit stable coin into cash -recruit puts and at expiry, if the price of hype is below 50, you're going to buy a 50. If it's above that, you're going to get your USDC back and you keep your premium that you earn upfront. That's basically what risk is. So we enable people to deposit an asset, which is stable coin in the case of cash -recruit puts or the volatile asset like hype in the case of covered calls. And you're willing to buy those assets or"
+    },
+    {
+      "start": 600.47,
+      "end": 631.07,
+      "speaker": "SPEAKER_00",
+      "text": "sell those assets. Basically, and most of the risk users, what they do is we're two type of users. One is the one that is happy to sell, they want to sell or they're happy to buy and they want to buy. So they select a price that you actually want to buy and they get paid to do it. That's the way they think about it. The other set of users is actually the one that is taking the bet. And it's like, I don't think the price is going to happen by certain dates or I don't know, today, again, hype is a 55. You can be like, I don't think hype is going to be below"
+    },
+    {
+      "start": 631.07,
+      "end": 661.25,
+      "speaker": "SPEAKER_00",
+      "text": "50. In a month time. So I'm down to do cash -recruit puts and receiving yield right now. And if the price of hype is above 50 in a month time, I'm just going to keep doing this over and over and getting the yield out of it. So two type of users, the one that they're willing to buy or sell and they get paid to do it, but also the one that they take this as a bet or like a speculation. It's like, I don't think it's going to hit that price. Let me get paid to make this bet. That's basically the way people think about it. Yeah,"
+    },
+    {
+      "start": 661.25,
+      "end": 691.53,
+      "speaker": "SPEAKER_00",
+      "text": "I love that. I want to dive in into two different type of users afterwards. But again, I want to congratulate you on making such a complicated concept so easy to understand on the risk app. So for those that haven't played with it yet, you know, just go click on Dan's X account or tap app dot risk dot finance. And it's so easy to understand how this whole. Thing"
+    },
+    {
+      "start": 691.53,
+      "end": 721.67,
+      "speaker": "SPEAKER_00",
+      "text": "works, even though the back end is quite complex. So as you just mentioned, for us that love hype or perhaps got a hype airdrop and want to sell hype, well, it's quite simple. You just pick the price you're comfortable with at selling or buying and you give us cash up front the day one, right? Like as soon as you click that transaction, you get the cash and that is the premium that you were talking about. And afterwards,"
+    },
+    {
+      "start": 721.83,
+      "end": 751.75,
+      "speaker": "SPEAKER_00",
+      "text": "depending on if it does hit the price or not, well, you either get your cash back or your hype back or you don't. And you sold them. That was the price you were happy to sell. So I really think it's such an easy to understand, like the wording here of choose the price at which you are happy to sell on that date and time. I really think it's very clever. Yeah, thank you. Actually, that was the result of like talking to a lot of. Potential users"
+    },
+    {
+      "start": 751.75,
+      "end": 781.79,
+      "speaker": "SPEAKER_00",
+      "text": "and also. Let's say they what we've done is like we got back to the first principle of like what an option is. And, you know, if you go on whatever I and you are like, what is an option? The explanation is an option gives you the right to buy an asset at a certain date, at a certain price or on the opposite, to sell an asset at a certain date, at a certain price. Right. So when you think about"
+    },
+    {
+      "start": 781.79,
+      "end": 811.83,
+      "speaker": "SPEAKER_00",
+      "text": "like, that's what an option is like. And if you want to make it as simple as possible, that's what it is. So when you go to risk, actually, it's like it is purely the definition of option, but in a way that is easy for everyone to understand and use. And because we also run in a very specific use case, all you all you can do is like you can use our product to earn income upfront while, you know, happy to sell or to buy. And again, this was the result of like talking to. Users and"
+    },
+    {
+      "start": 811.83,
+      "end": 841.83,
+      "speaker": "SPEAKER_00",
+      "text": "putting the product in front of people, get feedbacks and so on. So it was like a process of years of grinding. But yeah, I mean, it was also the fun part of it. It's like when we actually figured it out that we made it accessible, like actually now anyone can use the product, understand what's going on, understand what is the, you know, the payout, what happens and what scenario. Right. And everyone is able to do that. Like not a single user complained in over a year because they didn't understand what. What was going on. And"
+    },
+    {
+      "start": 841.83,
+      "end": 872.55,
+      "speaker": "SPEAKER_00",
+      "text": "to me, that's like the best outcome for what we built to say, OK, we made them accessible. Anyone can use it and then one can understand that. And that's kind of the goal that I wanted beforehand. Yeah, it's very reminiscent of a simple limit by or limit sell, but you get a premium, right? So why wouldn't you use this? I'm almost thinking to myself at this point. Yeah, there are some like. You"
+    },
+    {
+      "start": 872.55,
+      "end": 903.15,
+      "speaker": "SPEAKER_00",
+      "text": "know, things that you have to keep in mind, like one is and, you know, I like to talk about it because, you know, it's not always as easy as it looks like. But one thing to keep in mind is that the price that matters in this case is the one of the expiry, right? So in the case of before I piece of 55, you're willing to sell, let's say, a 70 and I is going to 70 tomorrow, but you have an open position for next week. What it matters is the price. Right."
+    },
+    {
+      "start": 903.41,
+      "end": 933.53,
+      "speaker": "SPEAKER_00",
+      "text": "So if next week the price is back to 55, you actually don't sell because that doesn't trigger. Right. So there are certain things that you have to keep in mind because basically what you're doing is that you're committing the capital for that specific time for that specific expiry. So you have to make sure that you understand those. But once you do, it's fine. And like now we are thinking about, for example, even doing shorter, which means, you know, you like if you actually really want to. Sell, you"
+    },
+    {
+      "start": 933.53,
+      "end": 963.93,
+      "speaker": "SPEAKER_00",
+      "text": "can say, OK, I'm willing to sell a 57 tomorrow. You can do this option and like you keep doing that, like, you know, on a daily base or whatever. So like with a short term, the probability of getting it is probably higher as well. So that's one thing to keep in mind. The other one is that obviously we can go deeper into like how we price all the options and so on. But we have an LFQ system. And on the other side, there are option desk or traders and they can participate into these LFQs. So when you click a button or risk, it's actually a two second. And on"
+    },
+    {
+      "start": 963.93,
+      "end": 994.01,
+      "speaker": "SPEAKER_00",
+      "text": "the other side, counterparty price, those options. Right. And the price is also a function of volatility. So if you sell in options in this case, when the volatility is higher, you get more premium. So there are things like it's actually better to sell when, you know, there is higher volatility, when you think the volatility is at the top and so on, because you can get a better premium. But all of these are like at the end, they are details that once you start using the product, you get comfortable with. But. Even with like, you know,"
+    },
+    {
+      "start": 994.01,
+      "end": 1024.39,
+      "speaker": "SPEAKER_00",
+      "text": "even without understanding all the implied volatility and so on, you can still go out there using it. You see exactly how much premium you're going to get. And if you think it's a good and fair price, you do it. If you don't like how much premium you're going to get, you just don't trade and you don't open the position. Right. So it's full transparency. Anyone can understand what's going on exactly at any point in time. So that's also like what I like about the product. Yeah, I love that you kind of explain this this nuance. I'm also wondering where the premium"
+    },
+    {
+      "start": 1024.39,
+      "end": 1055.41,
+      "speaker": "SPEAKER_00",
+      "text": "comes from, like, you know, you mentioned there is a market for this in the back end, but can you maybe explain a little more on how it's all calculated? Yeah. So if you go to RISC right now on the app, right, when you click a strike price, you see that there is a loading into the cart, like a nice fancy loading. Terminal look like UI, right? Basically,"
+    },
+    {
+      "start": 1055.51,
+      "end": 1085.51,
+      "speaker": "SPEAKER_00",
+      "text": "what happens on the back of that is that we, you know, we have the protocol sends a request to all the participants in the RFQ system to basically quote that specific position. So if you say I want to sell 100 hype at 75 end of the month, on the other side, all the counterparty receive that and they say, OK, there is a guy that wants to sell this, blah, blah, blah. And they price, I mean, they bought because the auction is two"
+    },
+    {
+      "start": 1085.51,
+      "end": 1116.27,
+      "speaker": "SPEAKER_00",
+      "text": "seconds. So you don't have time to go out there manually. So they bought pricing those options and we show the user the best price. So it's basically an auction. We show them the best one. So after two seconds, you see how much they're willing to buy the option from for the price they're willing to buy. And that's the premium that you see. So if you like the premium at that point, the price. Locked, you deposit the collateral and you open the position and"
+    },
+    {
+      "start": 1116.27,
+      "end": 1146.35,
+      "speaker": "SPEAKER_00",
+      "text": "that's it. And it's basically done. If you don't like the premium, you can try again, you know, in a few hours, maybe there is better pricing or you can try different size or whatever. And, you know, you can play with it and basically keep asking requests. Now, on the other side, we we have some option desk, some traders, some. What I call like options nerds, like I'm talking about a couple of people that they are"
+    },
+    {
+      "start": 1146.35,
+      "end": 1177.17,
+      "speaker": "SPEAKER_00",
+      "text": "somehow professionals. They understand, but they're not a market maker. They're not, you know, a big option. They said they love options. They're very passionate about they understand them. So they build the infrared, they quote. So the reason why the counterparties buy them, it's different reasons. Like sometimes it's because they want exposure. They simply want to buy the. You know. The option and take that convexity. Sometimes those guys are very good at edging themselves. So"
+    },
+    {
+      "start": 1177.17,
+      "end": 1207.27,
+      "speaker": "SPEAKER_00",
+      "text": "what they do is like the buy options and then they know how to edge probably with perhaps, for example. And so they try to harp this between options and parts. So, yeah, there are different cases. And honestly, we don't even care what they do in a sense that like once they buy the option, like it's not none of our business to know if they want to keep the exposure or if they want to edge or if they whatever the reason they do it. But they see their options buyers. So they are buying those options and"
+    },
+    {
+      "start": 1207.27,
+      "end": 1237.41,
+      "speaker": "SPEAKER_00",
+      "text": "again, managing their own book. And that's pretty much basically the product. So every time you are doing the trade, it means that on the other side, there is someone else willing to buy the option at that price. And that's pretty much what the product is about. Very cool. So speaking of the product, and I want to talk about this because you guys decided to build. This on hyper. Well, I mean, you are on ETH, but also on Hyper EVM. So how"
+    },
+    {
+      "start": 1237.41,
+      "end": 1267.83,
+      "speaker": "SPEAKER_00",
+      "text": "is that like? And maybe afterwards we can dive into Hyper EVM as a whole. But I feel like you guys are one of the most successful and interesting products to me on Hyper EVM. So congrats for that. But, you know, how is that experience all like building on Hyper EVM? Yeah, thanks for that. Every time I think about Hyper EVM so far, I think that's the best business decision I ever made. I"
+    },
+    {
+      "start": 1267.83,
+      "end": 1298.37,
+      "speaker": "SPEAKER_00",
+      "text": "would say in a sense that it was great for where we are today. It was great for like the users. It was great for the community. It was great because of the Hyperliquid team. It was great for any any reason. So overall, it was an incredible experience, in my opinion. But. A bit of background story on what that happened is that we, as I mentioned, we've been on the space for quite a long time, right? So we built"
+    },
+    {
+      "start": 1298.37,
+      "end": 1328.63,
+      "speaker": "SPEAKER_00",
+      "text": "somehow our network of users or, you know, passionate friends and, you know, like people like that. And we, we liked Hyperliquid, one of our, you know, the guy in the team was a massive Hyperliquid voice and very active, he still is. And he was like, you know, one of those guys that is like super active. And so on. I myself liked it a lot. So when we were thinking about we want to make this product and"
+    },
+    {
+      "start": 1328.63,
+      "end": 1358.77,
+      "speaker": "SPEAKER_00",
+      "text": "one thing about this product that makes sense is that you need good assets, right? Think about this way, like you want to run those strategies on assets that they are good. Like so our thesis back in, you know, late 2024, early 2025 is like hype is actually a good thing. And it was kind I would say like. It was such a, you know, looking back, it was such an easy take and the assumption."
+    },
+    {
+      "start": 1358.97,
+      "end": 1389.33,
+      "speaker": "SPEAKER_00",
+      "text": "But like back then, you know, Hyperliquid launched that token was like November. It was like about February, March. We're like, OK, hype is a very good asset. So building this product around hype makes a lot of sense because now you can use that as collateral. You can use that to earn on top of a, we can give a use case to the assets. So that's the main reason why we decided to do this. started to launch on Hyperliquid. Then there is also a reason of getting a venue"
+    },
+    {
+      "start": 1389.33,
+      "end": 1419.35,
+      "speaker": "SPEAKER_00",
+      "text": "for, as I mentioned before, like some of our option desk market makers or traders, they hatched themselves using Perps. So actually having Hyperliquid very accessible, you know, with a very easy bridging from Hyper -EVM to Hyper -Core with a very liquid market, it was a value asset, right? Because it was very easy for them to use. So that was also an unlock. But the main thing that happened there is that we had this idea of like, okay, Hype is a good asset. This product on Hype makes"
+    },
+    {
+      "start": 1419.35,
+      "end": 1449.35,
+      "speaker": "SPEAKER_00",
+      "text": "just so much sense. We can launch on Hyper -EVM. And in the meantime, when we started to somehow like bring this idea to, you know, friends or users and so on, like everyone was so excited about it. It was like, oh, Hyperliquid is great. Hype is great. You should definitely launch it. Like, and the community, they understand derivatives that, you know, they made a lot of the airdrop because of like trading and so on. So like they definitely would love a product like that. And, you know, once you start to see this from like one guy is fine, but like when it's like"
+    },
+    {
+      "start": 1449.35,
+      "end": 1479.37,
+      "speaker": "SPEAKER_00",
+      "text": "10 people, 20 people, you start to see, oh, maybe we are into something, right? And that's why we launched there. And it was basically the first place that we launched the new product on. There is V12 in production. And we stayed on Hyperliquid only for the year. We launched only on Ethereum mainnet on top of Hyperliquid like literally two weeks ago. So for like over a year, we've been on Hyperliquid only and it's been working great and it's still working great. Like I still think that"
+    },
+    {
+      "start": 1479.37,
+      "end": 1510.07,
+      "speaker": "SPEAKER_00",
+      "text": "probably like 80 % of users, if not more, they're still on Hyper -EVM. The reason why we launched on Ethereum is because the product works well with any asset, right? And on Ethereum, mainnet, we have a lot, especially when it comes to like RWAs. You know, last week we launched options or like Covered Call on XUAT and all of that. So Ethereum mainnet was actually a place, a playground to"
+    },
+    {
+      "start": 1510.07,
+      "end": 1540.15,
+      "speaker": "SPEAKER_00",
+      "text": "try all those different type of assets, RWAs, tokenized stocks and all of that. Right now, most of them, they're not available on Hyper -EVM. So that's one of the reasons why we also deployed on Ethereum mainnet. But still the volume and so on is coming from Hyperliquid. And if you ask me like, what's the main reason of that, I would say is because Hype is such a good asset. And it's an asset that people are willing to use and earn on top of that. So for you, it was a positive experience all"
+    },
+    {
+      "start": 1540.15,
+      "end": 1570.39,
+      "speaker": "SPEAKER_00",
+      "text": "in all building on Hyper -EVM. I feel like you guys reached a good product market fit and something that is quite unique that couldn't be replicated elsewhere is why you got so much success versus, you know, we had some builders that came and went on Hyper -EVM. Perhaps not enough differentiation there or not enough PMF, I feel. But on that note, you know, I don't want to be a bandwagoner. Robinhood chain has so"
+    },
+    {
+      "start": 1570.39,
+      "end": 1601.19,
+      "speaker": "SPEAKER_00",
+      "text": "many stocks now. I'm wondering if Hyperliquid doesn't get these RWA stocks, perhaps you guys are going to consider that too. Like I would love to do this for, like you said, like gold is cool, but you need good assets. And there's a lot there. So it could be an interesting play. Yeah, I guess the first question is like, are they coming to Hyperliquid as a spot? I think that's going to happen. I"
+    },
+    {
+      "start": 1601.19,
+      "end": 1631.31,
+      "speaker": "SPEAKER_00",
+      "text": "know projects that they're building there. So I think it's going to happen on Hyperliquid as well. Now, are they going to get the same traction of something like Robinhood when it comes to, you know, potentially on the stock, on tokenized stocks? Like, I don't know. You know, Robinhood definitely has high potential from its existing distribution, but Hyperliquid is Hyperliquid. And so maybe they can even do better, who knows. But my thesis when it comes to all"
+    },
+    {
+      "start": 1631.31,
+      "end": 1661.43,
+      "speaker": "SPEAKER_00",
+      "text": "these RWAs is, I'm somehow like debating myself, and I would love to get your view on that as well. But like, for me is, I think right now is a very odd narrative. But the use case is not there yet. Like I, I talked to, you know, users and people on chain, and only a few of them actually hold tokenized stocks or actually play with tokenized stocks. That doesn't mean that in the long term, it's not going to be an asset that"
+    },
+    {
+      "start": 1661.43,
+      "end": 1691.51,
+      "speaker": "SPEAKER_00",
+      "text": "we all, but like, as of today, it's probably not a major use case. But when I talk to some of them, they also say, like, I don't know that because I don't see a reason to do it. If you guys do cover a call on top of them, for example, then it gives you an idea of what's going to happen in the future. It gives me a reason to buy because I can earn on top of that, and to cover a call, which in ThreadFi, I cannot really do that, right? So I'm very debating myself when it comes to like, RWAs. That's really it. That's really it. Right now, there's few things you can do with the RWAs, and you're totally"
+    },
+    {
+      "start": 1691.51,
+      "end": 1721.57,
+      "speaker": "SPEAKER_00",
+      "text": "right. It seems like a lot of hot air. I hold very few of them. But if you go to Robinhood, again, it's not like my favorite chain, go on Uniswap, LP and video with cash, USDC, you are earning 100 % APY. And this is from real swaps. It's not like incentivized LPing. So LPing RWA and earning"
+    },
+    {
+      "start": 1721.57,
+      "end": 1752.03,
+      "speaker": "SPEAKER_00",
+      "text": "100%, it's probably crazy right now because just people discovering and there's not that much money. I think there's a million and a half in that Uniswap pool. But that's like a huge use case. LP, then you have all the borrowing lending that we can do, probably Aave or Aave fork and risk, right? Like covered calls and all these things. So if you unlock DeFi composability, then people will want to buy these good assets. So I'm looking forward to Hyperliquid"
+    },
+    {
+      "start": 1752.03,
+      "end": 1782.09,
+      "speaker": "SPEAKER_00",
+      "text": "developing this as well, and kind of focusing on spot stocks. And Purpose is amazing, but I feel like the spot should also be developed. So, yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. So in a sense, you're right today, there's nothing, but very soon, and there's a few use cases that show that with the DeFi stuff that you can do is kind of cool. Yeah. I agree. I mean, my point is like today there isn't much, but I think we can unlock the power of DeFi to build"
+    },
+    {
+      "start": 1782.09,
+      "end": 1812.21,
+      "speaker": "SPEAKER_00",
+      "text": "this entire ecosystem around that. And then at that point, it's like, why should I have my Tesla stock on my brokerage account instead of DeFi, where I can borrow against or where I can get very easy cover call, whatever. Now, there is a very strong reason to have it on chain rather than just a brokerage account. So that's what we've been thinking. And the way we designed the protocol, we can accept pretty much anything. So gold happened last week, and probably tokenized stocks is going to be"
+    },
+    {
+      "start": 1812.21,
+      "end": 1842.41,
+      "speaker": "SPEAKER_00",
+      "text": "next. Actually, we've been talking with a few teams about even launching strategies on top of RACE for tokenized stocks, which in my opinion is also a pretty cool use case. So yeah, we have a few ideas. And that's, again, beauty of DeFi. And the reason to be in DeFi, in my opinion, as you said, is like max composability. Now I have a use case for those stocks rather than holding them in just a brokerage account. So yeah,"
+    },
+    {
+      "start": 1842.49,
+      "end": 1872.51,
+      "speaker": "SPEAKER_00",
+      "text": "on the Robinhood chain, I honestly haven't done much job into getting something there. Don't go there. I would love to stay on Hyperliquid. It's just an example because you guys are saying that you're talking about future ideas. Yeah, but that's also the good part of DeFi. For us, deploying to a new chain is pretty straightforward if we believe it's the right decision for our users and so on. But yeah, we'll see. I mean,"
+    },
+    {
+      "start": 1872.57,
+      "end": 1902.87,
+      "speaker": "SPEAKER_00",
+      "text": "we're very open and we want to build a cool product. And if you and any other users out there think the risk will be cooler with like the robin hood ones let's start i mean that's what we're here for yeah i would love to you know i think there's spacex d on hypercore which is you know spacex by denari so they're coming to hyperliquid uh now we're talking a lot about spot assets"
+    },
+    {
+      "start": 1902.87,
+      "end": 1932.91,
+      "speaker": "SPEAKER_00",
+      "text": "is it possible to even do perps positions uh because that would be like a really cool use case of pre -compiles but i'm i'm still not sure because i think there was a lot of discussion about lending and borrowing from your purpose position but i don't know if it's ever been done or it's actually even feasible to do these things i think it's somehow the something on the roadmap for you know from hyperliquid as far as"
+    },
+    {
+      "start": 1932.91,
+      "end": 1962.95,
+      "speaker": "SPEAKER_00",
+      "text": "i know like the at the end the reason for hyper evm was to be an extension of hypercore right and they should talk each other because that's the value added other being on on hyper evm rather than any other chain right if you can actually plug into hyper core so you know with all the pre -gone bias and everything that was kind of the call um i know that something is happening there and they're working but as you know with hyperliquid is basically just the team logged in and building and shipping and"
+    },
+    {
+      "start": 1962.95,
+      "end": 1993.23,
+      "speaker": "SPEAKER_00",
+      "text": "one day you just see the announcement so i don't have any insider information or anything like that there are ways right now you know to use bolts and everything already between ipvm and hyper core um for us the way risk is designed it needs um basically a tokenized asset um which you know it has to be sports somehow i know some teams have been working on being able to actually tokenize the purpose position"
+    },
+    {
+      "start": 1993.23,
+      "end": 2023.27,
+      "speaker": "SPEAKER_00",
+      "text": "and use them on ipvm which i think it could be cool um so i actually think something that that is going to happen it's just a matter that so far we we haven't done anything on our side and we are waiting for you you know we also like the idea of being focused into one thing so for us the focus is building this product those strategies and so on so we hope that someone else is going to actually build the tokenization of those preposition that we can potentially use right um so yeah that's the"
+    },
+    {
+      "start": 2023.27,
+      "end": 2053.64,
+      "speaker": "SPEAKER_00",
+      "text": "thing is it's going to be an interesting one like you know having an hfp3 per position tokenized and borrowing as the sda or you know using this collateral into a cover call strategy i think it's a massive unlock but yeah it's not there yet but exciting very exciting to be building on hyper evm uh because it does unlock all these kind of new potential asset classes or i don't know these new potential defy strategies so speaking"
+    },
+    {
+      "start": 2053.64,
+      "end": 2083.72,
+      "speaker": "SPEAKER_00",
+      "text": "of this first thing you mentioned you have users that are happy to sell at a certain price or happy to buy at a certain price and there's nothing they're not very concerned about other than you don't really certain price they get a premium everybody's happy i feel like for the mental health of a trader this is very easy to understand and probably very few unsatisfied customers the other one you mentioned is some people do like to bet on these and they like to get the premium without having to sell or buy"
+    },
+    {
+      "start": 2083.72,
+      "end": 2114.68,
+      "speaker": "SPEAKER_00",
+      "text": "anything so perhaps more of a you know gambling strategy here but can you kind of explain to us what you've seen done successfully in terms of trying to farm the premium if that's the word that you use or however you want to put it yeah um so for those users the mental process is i try to maximize the"
+    },
+    {
+      "start": 2114.68,
+      "end": 2144.78,
+      "speaker": "SPEAKER_00",
+      "text": "income that i can get based on the scenario that in my opinion is not likely to happen or that i can you know price the risk of a so the way you can think of again like hype is a 55 right now and users go out there and like check the prices right and check this right prices and see what is the average premium of all of them and people are like oh i'm getting paid i don't know like 20 let's say um"
+    },
+    {
+      "start": 2144.78,
+      "end": 2179.54,
+      "speaker": "SPEAKER_00",
+      "text": "to sell eventually a 60. so that's when i think of like people are like oh that's that's the right thing to do like this is a good thing to do right now and so i'm going to start with the numbers but to give an idea and the way i see people thinking is like oh that's that's a good deal i'll take it i don't think it's gonna hit it right and that's basically the way that people do it now the most advanced users out there what they do is like they make that as a bet and they are also willing to not"
+    },
+    {
+      "start": 2179.54,
+      "end": 2209.96,
+      "speaker": "SPEAKER_00",
+      "text": "going to be happy somehow but it's the trade that they enter in right you know what i mean it's like i made that call of saying i don't think it's gonna hit it but if he hit the price but what i've seen some of them doing is also they hedge themselves so if the price is i don't know if something happens let's say there is a news of you know the price is gonna go up forever what they do they actually hedge themselves with perp so they try to basically hedge that position and i was like okay i made a wrong bet fine let me hedge myself but the"
+    },
+    {
+      "start": 2209.96,
+      "end": 2240.04,
+      "speaker": "SPEAKER_00",
+      "text": "the other mental process is the worst scenario here is that the price of the asset is going to pump so much and you're not going to participate into the upside but you're still selling an higher price from what you at the asset when you enter the trade so i think for most of the users like they don't really complain about it because for most of them it's like whatever i sold higher it's fine Yeah, I could have sold even higher than that, but whatever, you know, it's like similar to say I'd rather sell"
+    },
+    {
+      "start": 2240.04,
+      "end": 2270.1,
+      "speaker": "SPEAKER_00",
+      "text": "the round trip. So for most of the users at the end, that's the way they think about it. But yeah, it is just a different use case. I think the use case of I'll take this as a speculative bet of price not eating is probably the long term way to have like users engage it because you can always get a new price, you can always get, you know, a new trade, you can always get like a new speculation and whatever, like you can keep doing that"
+    },
+    {
+      "start": 2270.1,
+      "end": 2300.4,
+      "speaker": "SPEAKER_00",
+      "text": "forever. And that's probably the use case that is more even sustainable long term. Because at the end, you know, as I said, like you sell in higher if you don't cover a call. So you at some point you get the assets back and you can keep running the strategy with stablecoins and you keep doing that over and over and over, right? And it's at the end, it really becomes... It becomes purely a yield type of strategy for them. So yeah, those users... Yeah, you want traders, right? Because we're talking a lot about people selling their hype, eventually they're going to run out. So they"
+    },
+    {
+      "start": 2300.4,
+      "end": 2330.56,
+      "speaker": "SPEAKER_00",
+      "text": "should also place a call of buying it lower or lower than today's price, right? So for them, that's also probably... Do you have more sellers or buyers? Like is that even a metric you guys monitor? It's fun to actually see this metric. Because there is a very... There's a very good dashboard, it's called risk .watch. It was built by a RISC, very active user, Carlisle, incredible user, and he built this dashboard. But what we track is"
+    },
+    {
+      "start": 2330.56,
+      "end": 2361.38,
+      "speaker": "SPEAKER_00",
+      "text": "like, we actually track if people are doing call or puts, right? Because with calls, you are willing to sell a certain price, with puts, you're willing to buy a certain price, right? So what we track is like the aggregate of that, it's actually a very interesting metric, because you can see... Yeah. You can see at any time what users are doing. And you can see if they actually are bullish or bearish by looking at that, because... And looking at what Stripe's prices are doing as well. So a few weeks ago, like everyone was selling"
+    },
+    {
+      "start": 2361.38,
+      "end": 2391.62,
+      "speaker": "SPEAKER_00",
+      "text": "puts, which means they're willing to buy hype at 55. It was like such a massive consensus of 55, like everyone was like, oh, I think that's a fair price. I think I'm happy to buy it there, right? So actually looking at those stats, in my opinion, is a very interesting way to see what the consensus is in the market for specific assets. And if you see people... So you're saying we reached the bottom at 55? That was a couple of weeks ago on hype. And"
+    },
+    {
+      "start": 2391.62,
+      "end": 2421.8,
+      "speaker": "SPEAKER_00",
+      "text": "I can check what today is. Let me check. Give me one sec. So right now on hype... Give me a high number, please. The cash -secured puts on hype or the next expiry, which is in 2021. Two days. So, you know, very short. The consensus on the put was around 57. So that was like where most of the people were willing to buy. And below that, the biggest spike I see"
+    },
+    {
+      "start": 2421.8,
+      "end": 2451.82,
+      "speaker": "SPEAKER_00",
+      "text": "is about 48. So I think a lot of people are like, okay, at 48, I'm fine to buy, it's a good price. This is like in two days, but if I see end of July, sorry. Let me... If I see like end of August, yeah, end of August, the consensus is about 53 right now. That's where users are like, I'm willing to buy at that price. I think it's"
+    },
+    {
+      "start": 2451.82,
+      "end": 2481.88,
+      "speaker": "SPEAKER_00",
+      "text": "fine. Nice. I mean, we're close to it. You're not giving me 40 something. So I'm happy with that. I'm happy with that number. So basically, the risk .watch, I feel, is a good number. It's a great dashboard as well to kind of monitor these metrics. But even the people that are betting on these premiums are happy to buy or sell at certain prices. So you get no unhappy customers in essence, but you are hoping to"
+    },
+    {
+      "start": 2481.88,
+      "end": 2511.9,
+      "speaker": "SPEAKER_00",
+      "text": "get more people willing to trade, you know, because that kind of creates that loop and that volume grows everything, right? Yeah. I mean, I think some users... I mean, I think some users... I mean, obviously, I don't want to say that everyone is always happy, like, you know, some users, they are probably like, if they get exercise and they don't want to and so on, like, probably they're not happy, but what I'm trying to say is like that they know beforehand the trade they enter, right? So"
+    },
+    {
+      "start": 2511.9,
+      "end": 2541.94,
+      "speaker": "SPEAKER_00",
+      "text": "they don't complain about with us or with the protocol, it's just like, oh, you know, back then I was fine to do that trade, I thought that that was a good trade, and then I just entered a wrong trade, which happens. That's basically what I'm trying to say. But like, even a wrong trade is not a massive loss, is at the end of the game is an opportunity missed of selling even higher. That's the way most of the people think about it. But they're still selling higher, they're still making, you know, eventually some profits out"
+    },
+    {
+      "start": 2541.94,
+      "end": 2572.38,
+      "speaker": "SPEAKER_00",
+      "text": "of the assets out there. So again, even if they're not happy, they know exactly beforehand what happened, and they can just say, okay, you know, I was happy to do that trade when I entered, and so I'll take it and fine. And now I have dollars or I have higher. And I'm going to keep running the strategy on the opposite way. And basically, they keep doing they're starting to collect income out of it. Love it. Love it. So in terms of strategies, you know, just generic, not financial advice. What"
+    },
+    {
+      "start": 2572.38,
+      "end": 2602.72,
+      "speaker": "SPEAKER_00",
+      "text": "do you recommend? Do you recommend like the shorter timeframes or the longer timeframes? How does one go about kind of like, okay, I'm comfortable selling or buying hype in a week or a month's time? I don't know. Which one to pick and which premium to pick? Like, how does one choose? Because there are a few options. Yeah. So in terms of expiry, we've been, you know, running this for over a year now. So we have data that"
+    },
+    {
+      "start": 2602.72,
+      "end": 2633.4,
+      "speaker": "SPEAKER_00",
+      "text": "we've seen from users. And also, we looked, you know, at the options market in general that we have like, you know, like not hundreds, but like, a lot of years of, you know, options trading. When you do, you know, you have a lot of options. When you're selling, like, you know, in this case, you're selling calls and you're selling puts with covered call and cash secure puts, the best risk reward is actually like two, three weeks out, let's say two to four weeks out. And"
+    },
+    {
+      "start": 2633.4,
+      "end": 2663.62,
+      "speaker": "SPEAKER_00",
+      "text": "you can try to do that as a mental exercise. But try to think about today, you know, July 29, try to think about what you think the price of certain asset is going to be tomorrow. Yeah. Like, in a month, or in three days, or in a month, actually, it's crazy that probably you're going to be more accurate on a month time. And that's something that you see when people do actually options. And the reason I'm saying that is because in a day, you might have a news today"
+    },
+    {
+      "start": 2663.62,
+      "end": 2693.78,
+      "speaker": "SPEAKER_00",
+      "text": "of something crazy and the price can go up 5%, right? And so you completely probably make a wrong prediction, but then the price is going to adjust again. And in a month time, it's probably going to be more accurate. On a direction that you think beforehand. So actually, it's easier to get into like, three weeks, four weeks out prediction, let's put it this way. And the other reason is, it's more of like purely option, but when you"
+    },
+    {
+      "start": 2693.78,
+      "end": 2723.9,
+      "speaker": "SPEAKER_00",
+      "text": "when you are very short timeframe to actually get a decent premium, let's say that you need to take higher risk, right? Right. And that can happen in a day is like, it's not that much, right? So if I'm saying you like, do you think hype is going to be 100 tomorrow, you're going to say no. And if we check the cover call, hype 100 tomorrow is going to probably be priced like a few cents, probably even less than that, right? Because there is no real"
+    },
+    {
+      "start": 2723.9,
+      "end": 2754.06,
+      "speaker": "SPEAKER_00",
+      "text": "market for that. But if I asked you like price, hype being 100 end of September, now there is a price for that option, right? So you can actually get probably a few dollars or whatever. I don't even know the price, I should check it. So what I'm trying to say here is when you reduce the timeframe, you only have a few available options that you can sell strike price on, and you're basically taking a lot of risk that anything can happen between 24 hours,"
+    },
+    {
+      "start": 2754.24,
+      "end": 2784.08,
+      "speaker": "SPEAKER_00",
+      "text": "basically, just a small tweet could move the price. If you remember, what happened when you know, like Arthur Ayers wake up and it was like, oh, long guy. You know, price is up 10%. Just because of that, right? But then when you put that in a month time, in a month time, the price adjusts, right? So looking at, you know, data with on over a year time now and raise plus all the options like writing a three or four weeks out is the best if what you're trying to do is actually predicted the price. So"
+    },
+    {
+      "start": 2784.08,
+      "end": 2814.32,
+      "speaker": "SPEAKER_00",
+      "text": "if your goal is to not get exercised, if your goal is to try to maximize the income that you get, and so on, that's probably the best risk reward. But if your goal is to sell. Yeah. And you're happy to sell a 57 tomorrow, just go out there and do a cover call a 57 and you know, that's what you like to do. I just go for it. Nice. So, so two to four weeks time is where you feel is the sweet spot for getting a premium, but"
+    },
+    {
+      "start": 2814.32,
+      "end": 2844.5,
+      "speaker": "SPEAKER_00",
+      "text": "also being able to actually act accurately, somewhat predict where the price is going. Yeah. And you get a good risk reward out of that, like the premium that you get is good. Nice. To price the risk. And for buying, you would say it's the same thing, perhaps wait two to four weeks. That's where you'll be able to enter a dip or at least get a decent enough premium. Yes. Same. When you're selling cash secure puts, which means buying the asset"
+    },
+    {
+      "start": 2844.5,
+      "end": 2874.58,
+      "speaker": "SPEAKER_00",
+      "text": "or selling cover calls, which means selling the asset for both of them is the same thing. Like at the end, the price of the option is the same, same function and it's the same. Same thing. So two to four weeks hours is the best. Nice. That's great for, for, you know, for those that want to use this. You mentioned, and I guess this is in the pipeline, adding shorter timeframes as well is kind of one of the things you"
+    },
+    {
+      "start": 2874.58,
+      "end": 2904.62,
+      "speaker": "SPEAKER_00",
+      "text": "guys are planning to roll out. Hence because right now I think it's, it's almost, you know, weekly or monthly but perhaps even shorter timeframes. But then again, there's less market for this. So what, what is the, the, the plan here in terms of timeframes? Yeah. So right now we have usually three strikes. And the, the rule pretty much is that the shortest is like three or"
+    },
+    {
+      "start": 2904.62,
+      "end": 2934.82,
+      "speaker": "SPEAKER_00",
+      "text": "four days. So options always expire on Friday. So until Monday, Tuesday, you can trade the next Friday, basically. That's the shortest one. And the longest one, I think right now we have usually like two months out, something like that. We also adjust that sometimes based on requests, like some users say, okay, I want to try, you know, something longer. Can you guys enable that? And we actually can, because it's, you know, as long as there is market"
+    },
+    {
+      "start": 2934.82,
+      "end": 2965.16,
+      "speaker": "SPEAKER_00",
+      "text": "makers willing to quote from a protocol perspective, it's not there for us to have, you know, longer strikes or something like that. What we would like to do. But like, at least what we saw some user asking for is the very shortest one. And for them, the shortest is purely about I'm okay to sell, pay me to talk. And on a short timeframe, that kind of makes sense. So it's kind of like a different use case for, you know, for what we have today that is more oriented"
+    },
+    {
+      "start": 2965.16,
+      "end": 2995.26,
+      "speaker": "SPEAKER_00",
+      "text": "to like maximize the, the income. So the plan there is right now we are testing in the last couple of days we had expiry until, again, usually used to be like almost a week. And now we already have like three, four days. So the plan is that we try to, you know, go shorter and shorter until we see that the liquidity is good. And then we can enable shorter timeframe. So yeah, the plan is that we're working out, we just want to make sure that there is a good liquidity to"
+    },
+    {
+      "start": 2995.26,
+      "end": 3025.56,
+      "speaker": "SPEAKER_00",
+      "text": "do those trades. Basically, we want to have a good product, that's it. So speaking of liquidity here, I want to caveat that there is a minimum to participate. And it's 50 hype, which, you know, is fair for the market makers and I guess the payouts for the premiums to be meaningful thinking perhaps maybe there could be a scale to this, you know, if somebody is willing to sell an asset, let's say 10 hype, but in"
+    },
+    {
+      "start": 3025.56,
+      "end": 3055.72,
+      "speaker": "SPEAKER_00",
+      "text": "six months time, right? Like maybe they could get some sort of premium and then, you know, for them, it's kind of like I'm holding until that time. Or, you know, if I get it back in six months, I'm cool, if not, it's fine, versus, like you mentioned, huge size for I want to sell in three days, but plus give me a premium on top. So what do you think about kind of expanding for smaller sizes? And I mean, like for big, I think you can go up to 5000 hype or something like that. So"
+    },
+    {
+      "start": 3055.72,
+      "end": 3085.74,
+      "speaker": "SPEAKER_00",
+      "text": "there's quite a jump there. Yeah, you can go big if you want, you can also do multiple trades. So if you want to go big, you can, it's easy. On the small one, like the reason why we have it is, there are a few reasons for having a limit on how small you can be. And one is because as I mentioned, it's an RFQ system, and we have counterparties on the other side. And for them, it's like, because they"
+    },
+    {
+      "start": 3085.74,
+      "end": 3115.88,
+      "speaker": "SPEAKER_00",
+      "text": "need to open those edges, they need to, you know, go edge out there and so on. It's actually hard if the position is too small. And we realized that they were actually not pricing that effectively. So we had to pull like some sort of limit. That's one reason. The other reason is also because, you know, like, if you put their $100, you're gonna get $3 premium or something like that, just like, it's not, it's not $3, $3, $3 is"
+    },
+    {
+      "start": 3115.88,
+      "end": 3145.9,
+      "speaker": "SPEAKER_00",
+      "text": "$3. I agree with that. But yeah, we realized that, you know, that was somehow like, not the not the ideal. Use case for that, like, it kind of makes sense when you actually have, you know, those sizes. But we've been exploring, also, you know, as you said, like, there should be a function on how long you're gonna log that and everything like that. So it's still things that we are optimizing. So all those variables, like how short the experts could be, based on size, and so on, like"
+    },
+    {
+      "start": 3145.9,
+      "end": 3175.92,
+      "speaker": "SPEAKER_00",
+      "text": "that can be optimized. And at the end, when we started a year ago, we didn't even have much. Yeah. There were no market makers or traders that wanted to integrate, everyone was like, options that work in DeFi, options that work in crypto, we don't touch it. And then when we've proved them that, you know, we had a bit of demand, everyone was like, okay, you know, now we can integrate. So it took like a year, basically, to have, you know, good liquidity, good dust to go there and quote. And now that we have, you know, better liquidity, and it's still"
+    },
+    {
+      "start": 3175.92,
+      "end": 3206.5,
+      "speaker": "SPEAKER_00",
+      "text": "growing, because we still have, you know, more integrating and so on, we can basically do smaller sizes, we can do, you know, shorter experts and so on. So it's, that's the reality of when you build, like, it takes time to have like, you know, the good product with all the liquidity on the first day, it's like, it's just very hard. And for us, we've done this all organic, like we, we didn't pay any market maker, we didn't offer any, you know, insider deal with all of them. And so like, everyone is integrating"
+    },
+    {
+      "start": 3206.5,
+      "end": 3236.56,
+      "speaker": "SPEAKER_00",
+      "text": "at the same, you know, with the same infrastructure, we don't pay anyone to do it. There's not. Deals and so on, which means it takes way longer, like you, you know, the shortcut is you pay someone, you go out there and be like, hey, I'll pay you do an integration, but that's not the way we like to build that we want to build in a way that is fair, that is open. If the model is sustainable, it's because everyone is, you know, doing it for a reason to be there, not because he got paid to be there. So yeah, I'd like to, what"
+    },
+    {
+      "start": 3236.56,
+      "end": 3266.74,
+      "speaker": "SPEAKER_00",
+      "text": "I'm trying to get is, it takes time to build a product, it takes time to build liquidity. And once you have it, you can do all those optimization of, you know, shorter expertise, um, smaller sizes and all of that, but, and now fortunately we are there, but it took time. Yeah. Congrats on all the recent success. Cause TVL has been growing very organically and steadily and now you can do funkier and more interesting experiments, or I guess more crazy"
+    },
+    {
+      "start": 3266.74,
+      "end": 3297.7,
+      "speaker": "SPEAKER_00",
+      "text": "experiments, um, on that note, you know, this. There is a tab there that is very curious to me. It's called points. We love points on hyperliquid. What can you tell us about these mystical points that you guys have on your webpage? Yeah. So the, the point started when basically users very early on, um, they were asking for leaderboards"
+    },
+    {
+      "start": 3297.7,
+      "end": 3327.74,
+      "speaker": "SPEAKER_00",
+      "text": "and, and the way to measure. Like somehow they're asking. They're asking for activity. Right. And back in the days we were like, we, if we do points is because we started to see traction out of the product. So I remember very early on, we are like, you know, not enough users, but like they were very active. So we, we made a tweet or something like that. And we were like, I know you guys been asking for points, but we believe that points only make sense, you know, when the product already has a bit of traction"
+    },
+    {
+      "start": 3327.74,
+      "end": 3357.84,
+      "speaker": "SPEAKER_00",
+      "text": "and so on. So we put like something. Like if we reach, I don't know, 10 mil TVL, um, then we can add points. And I think we reached that like in a week. And, and so it was like, oh shit, now we, you know, now we have to do it. Like that's, uh, the users want it. So the reason about points is it's actually a way to measure for, especially for users like the activity and like how they actually contributed to, to the growth over time. Um, that being said, um,"
+    },
+    {
+      "start": 3357.96,
+      "end": 3389.2,
+      "speaker": "SPEAKER_00",
+      "text": "on the points, like, you know, people have been asking like, what is the point formula and everything like that, obviously it's like, you know, uh, everything you see that it is transparent and this is out there. If it's not there is because, you know, we, we didn't, we didn't say, so we didn't do anything in terms of, again, special agreements or anything like that. So the points right now is a way to measure the contribution of people, but the reality is that we've been, even with our users, with everyone out there, we'd be stressing out the idea of like, use"
+    },
+    {
+      "start": 3389.2,
+      "end": 3419.2,
+      "speaker": "SPEAKER_00",
+      "text": "the product. Um, because you like it, use the product because you get a benefit out of it. Risk is a very unique product as well. Like, you know, there are not many out there like us, and I think we built something cool. So use that as a main reason and use the point as a way to measure your, you know, your activity, um, similar to like what you do with gaming, right? That's the way we've been telling users. So we don't want to give anyone false expectation. What we want to do is like, make sure that you love the product."
+    },
+    {
+      "start": 3420.52,
+      "end": 3449.66,
+      "speaker": "SPEAKER_00",
+      "text": "We want people to come with feedbacks. We want people to be like, and even on that case, like I'll give an example, but if a user with a lot of points is asking for a new asset, we like, okay, you, you know, we, we value your, your feedback. Um, that doesn't mean that we don't value feedbacks of other users, but like, we believe that those guys, if they've been asking for certain assets and so on, like it's because there is demand and so on. So like we value, we"
+    },
+    {
+      "start": 3449.66,
+      "end": 3479.76,
+      "speaker": "SPEAKER_00",
+      "text": "use the points. Also, for reasons like that, um, again, we value everyone's feedback and so on, but like if someone with higher points is asking for something like that, we basically use those as a, as a metric. Um, but yeah, that's pretty much like we care about a lot about the product. We care about a good product, we care about growing and that's what we believe that everyone should focus on. So I'm the first one to say, don't use risk for the products, use risk for the income. If you don't like the income that we have, just tell me, like, you"
+    },
+    {
+      "start": 3479.76,
+      "end": 3510.78,
+      "speaker": "SPEAKER_00",
+      "text": "know, we tried to do a better job there. Um, if you don't like the product, that's what I want to hear. So don't use the product if you don't like it because you're trying to get points. That's not the, that's not how it should work. I love that. I love that PBR here is, uh, one of the advocates for this. He's always saying, you know, that's how the original hyperliquid airdrop happened. People used it. A lot of the people used it cause they liked it, not because, um, they wanted to form points. Eventually the points farmers came. Like,"
+    },
+    {
+      "start": 3510.78,
+      "end": 3540.78,
+      "speaker": "SPEAKER_00",
+      "text": "you know, that's a different story and I'm sure it's the same for risk right now. Like, especially today in hyper EVM where a lot of the protocols, you know, shut down people farm points for no reason, right? Like there's just here at least enjoy the product. If you do, you get points and if it, something happens out of it, then great. If not, will you enjoy the product? Yeah, I agree. I mean, to me with hyperliquid was the same, like I, the first time I use hyperliquid is because I'm actually. Yeah. Um, years"
+    },
+    {
+      "start": 3540.78,
+      "end": 3570.9,
+      "speaker": "SPEAKER_00",
+      "text": "ago and he told me about hyperliquid, it was very early on, right? And I checked it and I saw Frentac perp pre -launch, right? And I was like, I want a Sherp Frentac. And so I went there, I used the product, I shared the Frentac and I got liquidated out of the shirt. That was probably too early. I remember so many people played with that. I was too early on that, right? So many people got wrecked. But you know, I was too early. But"
+    },
+    {
+      "start": 3570.9,
+      "end": 3600.92,
+      "speaker": "SPEAKER_00",
+      "text": "I wasn't actually, I wasn't trying to fart points or airdrop or anything like that. I was literally, I had a thesis on Frentac and I wanted to express that to you. You were right, man. It shut down. I was too early, you know, I was too early. Sometimes like, you know, you can be too early and not making money and that's what happened to me. Big right. Yeah. Go ahead. But what I always say, it was like that liquidation, it was still the best trade I ever made. Yeah. Because of the points"
+    },
+    {
+      "start": 3600.92,
+      "end": 3631.04,
+      "speaker": "SPEAKER_00",
+      "text": "I got in the airdrops. It's funny that the best trade I made was getting liquidated. I think it's the case for most of us here. Yeah. That tells you a lot about how good traders we are. Yeah. Yeah. Don't trade, but you can use risk and sell at a price that you're comfortable with or buy at a price that you're comfortable with. And if that doesn't hit, well, at least you're getting a premium right from the get go. So it's very easy, John. I understand. I highly"
+    },
+    {
+      "start": 3631.04,
+      "end": 3661.1,
+      "speaker": "SPEAKER_00",
+      "text": "recommend you give Dan risk here, a follow the risk page here, a follow risk with a wide finance and play with it. We're coming to the top of the hour, Dan, I like to keep these spaces tight, but still, I want to kind of give you the opportunity to get people excited for some of the new things you guys are working on. So anything that is up and coming or alpha that you want to share, you know, guys have been working harder than this and going to be launching soon. Please let the community know,"
+    },
+    {
+      "start": 3661.26,
+      "end": 3691.44,
+      "speaker": "SPEAKER_00",
+      "text": "and then we'll close out with some call to action, some things that people can do, you know, in order to get involved a little more with risk. Yeah. I mean, on the alpha is we going to keep releasing assets and on the assets, we are also very flexible and we listen feedbacks a lot. So if any of you wants to do, you know, as you said, it's like I wanted to cover a call on Tesla or SpaceX, whatever, like if you have any feedback like that, let us know because we're going to be very happy to integrate"
+    },
+    {
+      "start": 3691.44,
+      "end": 3721.5,
+      "speaker": "SPEAKER_00",
+      "text": "the assets. So the alpha there is we're going to have a lot of assets, more opportunities. So if you want to contribute to give us feedbacks on that, go for it. We have also other products coming up on top of risk, which is more like automated vaults or like strategies on top of the current infra. So instead of going out there, like your price and so on, you can deposit curators can run the strategy. So very different use case. But it's also a way to be even more accessible for all"
+    },
+    {
+      "start": 3721.5,
+      "end": 3751.62,
+      "speaker": "SPEAKER_00",
+      "text": "those users that they don't want to get out there and, you know, select the strike price and open the trade, but they just want someone to do it for them. That's also something again, we're working on. So yeah, we have a we are going to release also more some of our advanced strategies like that, like similar strategies where I don't know if you played with the prediction on hyperliquid on on the outcome. Yeah. So if you play with outcome, you can do something like the bond, the"
+    },
+    {
+      "start": 3751.62,
+      "end": 3781.98,
+      "speaker": "SPEAKER_00",
+      "text": "bounded option, like, you know, they're called bounded options. We're going to do something similar, but like still income focused. So the idea is you can pick to strike prices and you're going to get paid if the price stays below, for example. But it's still income focused. So we're going to do stuff like that as well. Again, the these are not binaries in a sense of like on outcome, you only make money for right. On the trade on risk is the opposite, you know, you try to get paid to open"
+    },
+    {
+      "start": 3781.98,
+      "end": 3812.06,
+      "speaker": "SPEAKER_00",
+      "text": "this position before. So completely different approach, completely different strategies, but very similar mental process of thinking about price ended up in a range rather than just above or below. So like, we're going to do stuff like that as well to give more options to people. But yeah, I mean, if you guys have any feedback, ask that you like ideas, you know, you're, you're welcome. You mentioned Blanche and Robin Hood and stuff like that. If you guys have anything like that, that you'd like to share,"
+    },
+    {
+      "start": 3812.32,
+      "end": 3843.38,
+      "speaker": "SPEAKER_00",
+      "text": "I'd be happy to do it. Yeah, I think RWAs for this would be super interesting wherever they are. It doesn't have to be Robin Hood. Here we have Amir, who is a big listener of the show and always asks some good questions. Are you okay, Dan, if he asks you? 100%. All right. Sure. Cool. Go ahead. Yes. Hey, everyone. Thanks for having me. I want to ask you, I've been trading for a while and I want to know if you have like some kind of extended beginner documentation"
+    },
+    {
+      "start": 3843.38,
+      "end": 3874.64,
+      "speaker": "SPEAKER_00",
+      "text": "or something, because options is always kind of the most, it's, you know, theta, gamma, all this is a headbreaker, you know? So I want to know if you had this, yeah, this documentation. Yeah, we do have, if you go on Twitter on the risk page, there are a bunch of guides. One is called Simple Guide. That's very beginner -friendly documentation on how Covered Call and Cash Secure Puts work, designed"
+    },
+    {
+      "start": 3874.64,
+      "end": 3904.81,
+      "speaker": "SPEAKER_00",
+      "text": "for non -options traders. So if you go on the risk Twitter page, on the article section, you can see, and that's designed for newbies to understand what's going on, basically, with risk. Thank you. Because that's maybe probably the most... I've always been hearing that options work. That's where the real money and the risk is, you know, so yeah. Thank you also, Zerk, for doing this. I feel it's one year overdue, man."
+    },
+    {
+      "start": 3904.91,
+      "end": 3934.91,
+      "speaker": "SPEAKER_00",
+      "text": "I feel I should have hosted Dan a long time ago and for some reason it just popped up in my feed recently and I played with it and it's so intuitive, again, to the audience. You don't have to understand options, Emir wants to understand how it works, but it's so like simple and intuitive to use the platform. Yeah. I don't fully understand the back end either, but I enjoy how nice and simple it all feels and I get paid for it."
+    },
+    {
+      "start": 3934.99,
+      "end": 3965.01,
+      "speaker": "SPEAKER_00",
+      "text": "So it's great. Sounds good. Yeah. Don't worry about the podcast and thanks for having me today, it was a good one and always happy to chat about risk and I think I'll see you in real life. Yeah. I hope so. In Singapore. Yeah. In Singapore. Yeah. We're going to get a beer or something like that and talk about risk as well. Love it. All right, Dan, any closing thoughts and I'll give"
+    },
+    {
+      "start": 3965.01,
+      "end": 3995.19,
+      "speaker": "SPEAKER_00",
+      "text": "you like a second to think about it. For those that just tuned in, again, the space is recorded. You can listen to the recording at a time that works best for you. Give Dan here a follow, give the Risk account a follow. Risk with a Y .finance to play with the app. There are some points you can earn immediately, immediately if you're willing to sell or buy an asset. So it's very simple and intuitive to use. I feel like really one of the most unique and successful projects built on Hyper"
+    },
+    {
+      "start": 3995.19,
+      "end": 4025.51,
+      "speaker": "SPEAKER_00",
+      "text": "-EVM. They are expanding to other networks as well. But like I said, it's a very, very cool product, so give it a spin and yeah, Dan, any closing thoughts here? That's a good question. I think the... What I would like to share a bit about the study of the last year or so, but something I loved about Risk"
+    },
+    {
+      "start": 4025.51,
+      "end": 4055.61,
+      "speaker": "SPEAKER_00",
+      "text": "is how the community is getting together on a Friday, because Friday is Option X, right? So you can see all those users on a Friday morning at 8 AM UTC. Usually the settlement takes about two hours. So like 10 AM UTC. You can see everyone there being so excited about the price, because some of them, and usually what happens is most of the users"
+    },
+    {
+      "start": 4055.61,
+      "end": 4085.69,
+      "speaker": "SPEAKER_00",
+      "text": "are taking, I wouldn't say the same view, but like a very similar view, right? So you have weeks where you see everyone else like, oh shit, I got to exercise, oh me too. So you see all those users getting together, like so happy and opening positions again and so on. And that to me is probably like, you know, as a build, that's the coolest part. Because I, you know, when I joined crypto and DeFi, like the sense of community was the best part of it. And I think, you know, even you guys probably, we are a reg gang and so on, you know, you"
+    },
+    {
+      "start": 4085.69,
+      "end": 4115.77,
+      "speaker": "SPEAKER_00",
+      "text": "are a community and you hang out and so on. And to me, like doing the same on Risk right now is pretty much the same. So seeing all those users on a Friday morning being, you know, very happy and all like, you know, complain about the prices and being there together. And like, you know, I think that's the best part. Like, or even the day before everyone is like, oh, I hope it's going to go up, you know, like the 1 % because I don't want to, you know, sell and so on or the other way around. Like to me, that's the coolest part of Risk. So what I'm"
+    },
+    {
+      "start": 4115.77,
+      "end": 4145.81,
+      "speaker": "SPEAKER_00",
+      "text": "trying to say here is like, if you start using the product, make sure you are in the Telegram group because it's actually a fun place to hang out and you're going to see all the people like yourself with a very similar position and, you know, discussing that. And I think that's the best part. And to me, it's like every Friday morning, I know that I'm going to hang out with those people. And yeah, I just want to make sure that if you start using the product, also be part of the Telegram group. It's a fun place to hang out. Okay. I'm going to join right now. It sounds fun. I mean, you got a party happening on"
+    },
+    {
+      "start": 4145.81,
+      "end": 4175.97,
+      "speaker": "SPEAKER_00",
+      "text": "Friday because yeah, you're right. It's almost like a sporting event where everybody gathers at the same time to watch the same thing. Whereas, you know, Perpetual Slavs is always perpetual. So there isn't like a set time or I guess there's some events like the FOMC meeting earlier. But this is really like a native to risk where, you know, you got all these people kind of at the clock wondering what the price is going to be, which must make for some exciting conversations and some"
+    },
+    {
+      "start": 4175.97,
+      "end": 4206.15,
+      "speaker": "SPEAKER_00",
+      "text": "fun times. It is. Especially when the price moves, like you see people there discussing like, you know, and people be like, hey, you know, three hours missed, like, you know, three hours left. What are you guys thinking? Like, we're going to get exercise. We're not going to get exercise, you know, the sense of community of like gathering together for a price expert every week is fun. Nice. Love it. Absolutely. Fun time in that telegram, it seems. But on that note, thank you so much, Dan, for making the time here. And thanks to the audience"
+    },
+    {
+      "start": 4206.15,
+      "end": 4237.15,
+      "speaker": "SPEAKER_00",
+      "text": "for tuning in. Really, really great spaces, I feel it's going to make for a great recording too. Check out Risk, everybody. Great product. And I'm hoping we meet in Singapore. And we have another one of these spaces slash podcasts. Yeah. It's in a year's time when you guys are at a billion TVL, a lot of people using options and all those good things from success. Promise. If you go a billion TVL, I'll be the first one to ping you for the next podcast. Like"
+    },
+    {
+      "start": 4237.15,
+      "end": 4267.27,
+      "speaker": "SPEAKER_00",
+      "text": "the next live. I'm going to be guys who met it. It's going to happen. We need the billion dollar one. It's going to happen. We just crossed one billion dollar in deposit in a year, which is insane. Like, basically, you know, obviously we have experts and so on. But like last week we crossed one billion in deposit, which is crazy because, you know, risk is fully collateralized. So it literally means that people deposited a billion in a year is insane when you think about it. Yeah. It's not like a hundred X perps leverage or a"
+    },
+    {
+      "start": 4267.27,
+      "end": 4289.49,
+      "speaker": "SPEAKER_00",
+      "text": "billion dollars in volume with 10 bucks. Yeah. No. Here is real. Yeah. It's actually like people like to deposit that. Very cool, man. Well, all right. Well, thanks again, everybody, for tuning in. Thanks one more time, Dan. And on that note, I'm going to say hyperliquid. Hyperliquid. It's that simple. Hyperliquid."
+    }
+  ],
+  "speaker_map": {}
+}

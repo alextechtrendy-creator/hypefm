@@ -1,0 +1,704 @@
+{
+  "space_id": "1rGmqppqnPNGy",
+  "language": "en",
+  "duration_seconds": 3691.264,
+  "chunks": [
+    {
+      "start": 195.44,
+      "end": 225.94,
+      "speaker": "SPEAKER_00",
+      "text": "jim jim how you doing you hey jim how are you i'm doing great how you doing doing well man just uh it's a beautiful day today in new york city nice a beautiful green day for the ai chips and uh yes oh yeah the record as well so yeah awesome i think a lot of people enjoy"
+    },
+    {
+      "start": 225.94,
+      "end": 256.78,
+      "speaker": "SPEAKER_00",
+      "text": "trading stocks nowadays a little less invested in crypto a little more in the things that actually go up to the right yes i mean your robin exchange has been pretty hot so far uh the past month or so um the ai trade cooled down a little bit uh in some shop i think the past maybe a month and a half or so but i think it'll rotate back a little bit you've basically seen some pockets of outperformance for example neo clouds new"
+    },
+    {
+      "start": 256.78,
+      "end": 286.92,
+      "speaker": "SPEAKER_00",
+      "text": "clouds have been uh uh i think you know nbis core weave both of those names are up about 30 the past few days and i think that's going to give the market some some momentum that was missing before and you know the second order effect of these data centers being the data center build out you know memory names actually caught up it as well with micron so i think people are going to see that and and get more active in the markets again nice very"
+    },
+    {
+      "start": 286.92,
+      "end": 317.34,
+      "speaker": "SPEAKER_00",
+      "text": "cool they had to liquidate that poor guy on his wedding day or the day before his wedding day but on that note for those that are already in the space bottom right corner there's a little purple bubble give the space a like it'll retweet always helps with the algorithm i think i mentioned this already the space is recorded so most of our audience does listen to the recording it will be archived and i'm very excited about what you guys have been cooking and i guess talking to"
+    },
+    {
+      "start": 317.34,
+      "end": 348.12,
+      "speaker": "SPEAKER_00",
+      "text": "you about trading in general i think is going to be uh super fun yeah yeah i'm excited man let's do it nice very cool i will start in just one short minute so just for y 'all oh people tuning in i'm zerk co -founder of uh wrecking we like to host educational on hyperliquid and we also run a validator so if you want to stake with us you can do that and"
+    },
+    {
+      "start": 348.12,
+      "end": 378.44,
+      "speaker": "SPEAKER_00",
+      "text": "today we have the privilege uh the honor the prestige of hosting rio from legend trades and you got some pretty legendary traders in your ecosystem uh excited to learn more about what you guys have been cooking and as i mentioned previously talk to you about trading in general so how you doing yeah doing well man happy to be here very cool so maybe you can give us a quick introduction about yourself"
+    },
+    {
+      "start": 378.44,
+      "end": 411.77,
+      "speaker": "SPEAKER_00",
+      "text": "what you do at legend trading and we'll go from there yeah so i'm rio ceo of legend trade uh some bit of background for me i've been trading since i was probably you know first first time i ever turned to eight years old bought like an apple stock really started trading did you say eight years old i think i lost him you there i don't"
+    },
+    {
+      "start": 411.77,
+      "end": 442.56,
+      "speaker": "SPEAKER_00",
+      "text": "know if you're on mute somebody give me a thumbs up if they hear me if they don't hear me oh no that looked good oh thumbs up i'm getting thumbs up okay you guys hear me okay cool okay i see the thumbs up now rio that we don't hear you i'm gonna message you on telegram um"
+    },
+    {
+      "start": 442.56,
+      "end": 472.67,
+      "speaker": "SPEAKER_00",
+      "text": "i hope he hears me i this x space has been quite ruggy or i'm the only one that can't hear him would he dm me in uh on discord and tell me if you can hear me i'm seeing uh claps and all"
+    },
+    {
+      "start": 472.67,
+      "end": 502.67,
+      "speaker": "SPEAKER_00",
+      "text": "those things all right well a few technical difficulties i'm very curious to learn more i mean he had a great opener there telling us he started trading at eight years old okay he did the old uh leave and come back yeah now it's good okay i don't know what happens sometimes you know x i just got kicked"
+    },
+    {
+      "start": 502.67,
+      "end": 532.91,
+      "speaker": "SPEAKER_00",
+      "text": "out of the spaces for some reason um elon it was you know once he heard you traded uh when you were eight years old he's like this space is inappropriate um yeah all good uh i can start off from there yeah so trade eight uh since i was eight you know started 300 bucks trading turned out to high seven figures today um after college so i used to be a product manager at uh at polygon so uh i used to work on ck you remember you guys remember polygon it"
+    },
+    {
+      "start": 532.91,
+      "end": 562.95,
+      "speaker": "SPEAKER_00",
+      "text": "was like you know it was really cool at the time polygon ryan wyatt has one of our nfts we actually ran a validator on polygon and still yeah so i used to work there i did some zero knowledge research back when that was interesting uh moved over there after you know after that started working for this company called scale scale ai helped train a lot of the early models for gpt force obviously gp4 isn't like the main model right there's like a lot of experiment models"
+    },
+    {
+      "start": 562.95,
+      "end": 593.11,
+      "speaker": "SPEAKER_00",
+      "text": "that go into building it and did the reverse pivot you know i went from ai to crypto so that last year went from scale after i left after i got acquired to build legend and what legend is aspirational trading platform you know one of the one of the things i love about trading is like hey this is a tool that's accessible to everyone in the world doesn't matter where you are from with the same same ability as anybody else in the world right and if"
+    },
+    {
+      "start": 593.11,
+      "end": 623.13,
+      "speaker": "SPEAKER_00",
+      "text": "you're very very good at this particular set of skills you can beat everybody else basically and you know improve your situation and that was a very attractive thing for me in college it's super attractive i think for a lot of people around the world and i want to build the best platform for people to come and learn do so right uh the few things that are very special about our platform different to other people's platform is it's transparent the pnls are transparent um you can copy trade others right you know"
+    },
+    {
+      "start": 623.13,
+      "end": 653.81,
+      "speaker": "SPEAKER_00",
+      "text": "there's chatting directly in the execution interface so what's the number one thing right when you're trading how to learn how to trade it is generally talking to other traders right so we built that directly into the platform you can compete against your friends it's it's really just how do you make it feel like when you join a video game and you're leveling up right that same experience applied to trading um that's a very exciting platform i will i have a few questions before we dive into legend trade"
+    },
+    {
+      "start": 653.81,
+      "end": 683.91,
+      "speaker": "SPEAKER_00",
+      "text": "as a platform so one how is this pivot from ai to crypto because everybody does the upper you know journey um do you regret it at this point with all the chips popping up or it's just the beginning for crypto and you know maybe the top four ai yeah so a lot of people ask me this question and i actually think of speculation as within this same so ai's just going to affect everything right it's very clear that"
+    },
+    {
+      "start": 683.91,
+      "end": 714.33,
+      "speaker": "SPEAKER_00",
+      "text": "it's going to affect everything when when i left the industry it was basically a couple companies that i think were very useful to build in the air industry at the time it was you know obviously building a foundational model is very interesting that's a lot of fun um even though working at those companies is not as glamorous as you think it might be um and then the second one you know so applying a bunch of labeling and expertise and how it affects models right so that's what i did um and"
+    },
+    {
+      "start": 714.33,
+      "end": 744.39,
+      "speaker": "SPEAKER_00",
+      "text": "then three is applying taking this model and then applying it to another industry that's pretty boring right so when you're looking at the areas to work on is i was already two out of three right um i didn't really want to work for one of those big companies i wanted to i'm more of an entrepreneurial guy and what is crypto what is speculation in general it's actually a second order effect of ai really because more people are going to get into speculation more people are going to get into uh you know"
+    },
+    {
+      "start": 744.39,
+      "end": 774.63,
+      "speaker": "SPEAKER_00",
+      "text": "idea distribution and things like that as intelligence itself gets commoditized so um i actually think once ai hits hits its critical mass in terms of distribution around the world like that is going to be the start of of the super cycle and really really uh active population of traders i don't think trading i actually think trading is in a very very large mega trend as it is today love"
+    },
+    {
+      "start": 774.63,
+      "end": 804.71,
+      "speaker": "SPEAKER_00",
+      "text": "to hear it love to hear it okay i got a short follow -up question because you are experienced at training models um you spoke about gpt and i guess working at an ai company that is your expertise i'm gonna ask you why is ai so bad at trading i'm gonna put it right there because all the models i've seen are quite poor performing and i don't think you guys use ai models"
+    },
+    {
+      "start": 804.71,
+      "end": 834.97,
+      "speaker": "SPEAKER_00",
+      "text": "to trade for you as well so anything you can expand here yeah so this is a pretty interesting questions because obviously models are not bad at trading in general right so every single quant hedge fund or or great great you know great shop has pods that use some sort of models models are pretty good at trading right but when you look at what"
+    },
+    {
+      "start": 834.97,
+      "end": 865.09,
+      "speaker": "SPEAKER_00",
+      "text": "they actually use it's a combination of like generally very very advanced stat arb with with a data mode so they basically have access to information that you don't have access to and that allows them to arb between different pairs more efficiently than you can right that's essentially what people talk about when they say about you know these models that are effective now an llm which is like oh why can't i just like trade with claude right right why can't you say claude makes me 10 million dollars"
+    },
+    {
+      "start": 865.09,
+      "end": 895.13,
+      "speaker": "SPEAKER_00",
+      "text": "and then um it because it makes you 10 million dollars right it could do that with with coding and coding projects but not but not trading um this is because llms are essentially generalized to the mean so you basically give it a bunch of data you have thousands of humans tell so if you give it a ton of tons of data and uh it produces a bunch of outputs and then you have thousands of humans that go okay this output is better"
+    },
+    {
+      "start": 895.13,
+      "end": 925.13,
+      "speaker": "SPEAKER_00",
+      "text": "than the other this output's better than the other this output's better than the other and you get you get basically a nice little take at the end which is your output that you see in all these different models right so what is trading if if llms reversion to the mean what is trading well the whole point of trading is that you are not reverting to the mean right that you are finding these scenarios and this way of thinking that is not common because if it's common it's price then right that's the whole point of"
+    },
+    {
+      "start": 925.13,
+      "end": 955.33,
+      "speaker": "SPEAKER_00",
+      "text": "what makes you a successful trader is that you have to be a bit contrarian and by design llms are very uncontrarian right so um i'm i'm not very bullish on the actual full end -to -end execution of ai and trading it's pretty good at research it's pretty good summarizing ers right summarizing a bunch of information on twitter to then give you some information for you to make that decision but um yeah i think it's very very"
+    },
+    {
+      "start": 955.33,
+      "end": 985.63,
+      "speaker": "SPEAKER_00",
+      "text": "unoriginal i i love i love how you explain this because i've had four different ai agent uh you know enablers or trading helpers or just you know strategy makers on spaces and i always ask this question and i think this is the first time i get the answer that i feel is most correct uh to me what you just said makes a lot of sense and yeah"
+    },
+    {
+      "start": 985.63,
+      "end": 1015.93,
+      "speaker": "SPEAKER_00",
+      "text": "so yeah you gotta have an edge here and not be like everybody else is the gist of it basically all right well to have an edge you can join a group of traders and i think that's what legend trade is at the core so tell me more about you know the motivation of building this out because you're a very successful trader yourself um why make this yeah"
+    },
+    {
+      "start": 1015.93,
+      "end": 1046.05,
+      "speaker": "SPEAKER_00",
+      "text": "so um legend is supposed to about the it's supposed to be about expanding the pie of traders right so obviously you see an industry right now probably pvp with each other the pvp with us right um stealing your traders from each other but what i think is billions of people on the earth should be in markets i think the markets are very equitable and if you believe that you have some sort of viewpoint or ability better than the rest of the world you should be participating in"
+    },
+    {
+      "start": 1046.05,
+      "end": 1076.23,
+      "speaker": "SPEAKER_00",
+      "text": "financial markets right and the number one barrier of friction to getting motivated to participate in markets is getting you know a group of friends or a group that you feel accustomed to this is why trading group chats are so popular this is why we're all on twitter right now right is we want a source of information we want people to rely on to go on to this journey together right it's essentially like a large journey and that's why we call this legend right the whole entire"
+    },
+    {
+      "start": 1076.23,
+      "end": 1106.25,
+      "speaker": "SPEAKER_00",
+      "text": "slogan of the company has become legends because at the start it's very it's very lonely right and as you continue on this journey um you make friends you learn and everything like that so the way that we've designed the product is very much so in support of this thesis is you onboard onto the platform let's say you don't trade at all you onboard onto the platform right we immediately have a global chat available for you with traders talking about the market right there's this trader you know who might"
+    },
+    {
+      "start": 1106.25,
+      "end": 1136.81,
+      "speaker": "SPEAKER_00",
+      "text": "be up fifty thousand dollars today what is he in what is nbis i look at his positions what is nbis okay then i could look at nbi nbis oh it's an ai stock there's there's 30 other people that are in nbis why is this okay then i can kind of look into neoclouds right i'm getting familiar with neoclouds understand the narrative a little bit and so forth and so forth you can do that with basically any trader on the platform right on any type of asset class and i think perps are going to get more liquid and"
+    },
+    {
+      "start": 1136.81,
+      "end": 1167.9,
+      "speaker": "SPEAKER_00",
+      "text": "the universe of assets being able to be traded on purpose is going to get you know very very wide in the next couple of years so you can basically do this with any viewpoint you have in the world right so legends basically the home of you know getting on board into the participation of financial markets i have a question for you um i believe in the perfect purification of all assets and we're seeing this already with you know stocks commodities um"
+    },
+    {
+      "start": 1167.9,
+      "end": 1198.22,
+      "speaker": "SPEAKER_00",
+      "text": "crypto it's been very successful so i definitely echoed a sentiment that we're gonna see perps everywhere that being said i don't know if everybody should be trading we've seen phantom and fomo and all these different retail oriented apps integrate perpetual swaps and the win rates on those apps are just horrendous right like they're the worst versus somebody using"
+    },
+    {
+      "start": 1198.22,
+      "end": 1228.74,
+      "speaker": "SPEAKER_00",
+      "text": "in silico or hyper dash has probably twice or even three times higher win rate there hence maybe not everybody should be a trader what do you think about that or do you think anybody needs more education around it and your platform offers this yeah so what is the gap here that we're looking at right so why does let's look at why so in silico you can see basically that there are people that are profitable trading right"
+    },
+    {
+      "start": 1228.74,
+      "end": 1258.84,
+      "speaker": "SPEAKER_00",
+      "text": "and then let's say on fomo uh uh or maybe you know any other parts app like phantom there are people that are unprofitable so what's the gap what makes this guy profitable versus unprofitable that's kind of the answer or that's the question that we want to answer with legend right so if you're going in silico versus phantom perks you really don't know who these traders are right you don't know why they're in these positions uh you can't really talk to them there's just like an address right but you can't really learn from this guy at all right he might be delta hedge for example on silica"
+    },
+    {
+      "start": 1259.52,
+      "end": 1289.12,
+      "speaker": "SPEAKER_00",
+      "text": "on legend right we basically surface everything and we believe that by surfacing everything that it will let you understand that gap right of why is this person profitable versus unprofitable so to answer your question that you don't think everybody should be trading uh i i do believe that there are probably some people that shouldn't be trading right this is why we implemented full copy trading as well um but completely this skill it's definitely a skill that you can learn to do better and"
+    },
+    {
+      "start": 1289.12,
+      "end": 1320.84,
+      "speaker": "SPEAKER_00",
+      "text": "i think the gap in profitability between these two platforms actually you know is evidence towards that gap that you can learn how to be profitable right and i love that yeah that's what you're saying there is another platform to bridge that education right and we've taken a lot of i've been very intentional with how i built the platform and how i designed the platform to support that kind of like you know education gap nice"
+    },
+    {
+      "start": 1320.84,
+      "end": 1350.96,
+      "speaker": "SPEAKER_00",
+      "text": "love it and you know i really appreciate the effort of getting more people to win because that's what we want we want more winners it seems like with phantom they just want you know i don't want to say they want more losers but they're not fulfilling their duty of educating and giving people the best tools to become better traders yeah exactly so you know the"
+    },
+    {
+      "start": 1350.96,
+      "end": 1381.34,
+      "speaker": "SPEAKER_00",
+      "text": "way that we've built the platform is like for example um if you're looking at core weave and you're asking why it went up 10 percent right and you know you go through all your different group chats why i went to 10 we actually built an agent ai agent to surface all that information for you directly in the ui so it's like you don't have to ask if why i went up 10 you just read that whatever the ai summary is right and those are the types of different little little features i mean that's kind of like a small feature um"
+    },
+    {
+      "start": 1381.34,
+      "end": 1411.48,
+      "speaker": "SPEAKER_00",
+      "text": "that we've built in order to kind of support you know traders at different stages just being more informed in general yeah and i feel like there's a lot of information in there that's kind of like a lot of information for those that haven't tried it i mean you guys should just type app .legend .trade on your web browser and then it kind of gets you into this really sleek and beautiful website kudos to y 'all for building this out uh yeah where you can i think the most important part"
+    },
+    {
+      "start": 1411.48,
+      "end": 1441.54,
+      "speaker": "SPEAKER_00",
+      "text": "right you mentioned this copy trading so for those that are just starting would you recommend that as a strategy or approach just copy somebody that is perhaps known what he's doing here i i i don't think it's a bad approach right i i wouldn't recommend a particular strategy for anybody because i think everybody's at a different skill level and and where they at with the markets the different risk tolerance and stuff like that right like you should be very mindful you know whoever you copy trade right"
+    },
+    {
+      "start": 1441.54,
+      "end": 1471.58,
+      "speaker": "SPEAKER_00",
+      "text": "what their risk tolerance is right how swingy are they for example me i swing pretty hard i i can stomach draw down i swing pretty hard right so if you don't have a high risk tolerance i do not recommend copy trading me but there are three consistent winners as well um you know there's there's a couple of cool features that we're thinking about internally is like you know for everybody let's say you know 10 people copy trade me right and 10 10 individual people copy trade me okay well we can"
+    },
+    {
+      "start": 1471.58,
+      "end": 1501.7,
+      "speaker": "SPEAKER_00",
+      "text": "open up a chat room we have native chat interface into our platform we'll open up a chat with myself and everybody that copy trades me and then we can talk about the market right so you're copy trading me let's talk about why we took that trade right we can talk about the Bitcoin impediments right so let me pick who's narrative it'll probably force me to take better trades right if people are copy trading me i truly do believe that at some point there's going to be such a rock star trader on legend with thousands of people capturing them on perps right so very very importantly we do"
+    },
+    {
+      "start": 1501.7,
+      "end": 1531.94,
+      "speaker": "SPEAKER_00",
+      "text": "perps not meme coins because with perps you can win with people and not against them right which makes copy trade a very very effective tool in our platform and i think that there's going to be somebody that has thousands and thousands of people copy trading him who's making so much money because they're such a great trader and they've essentially formed their own hedge fund directly on legend yeah that's super cool i i really like that concept of you know perhaps the"
+    },
+    {
+      "start": 1531.94,
+      "end": 1562.34,
+      "speaker": "SPEAKER_00",
+      "text": "on -chain hedge fund the copy trading on -chain hedge fund yeah that's the concept of both right like that's the original concept of both is you know now with the clarity act they might be registered as rias because you're storing these funds in this smart contract right um with the way that we've designed copy trading is essentially separate wallets so there's really uh uh it's even even under the strictest terms it wouldn't be considered ria because these are separate wallets"
+    },
+    {
+      "start": 1562.34,
+      "end": 1592.58,
+      "speaker": "SPEAKER_00",
+      "text": "that you control these are self -custodial wallets that are copy trading you know essentially mirroring the positions of another platform non -custodially uh sorry another wall it non -custodially right so it's not our ria even in the strictest terms of a vault so basically you know tldr this concept is super generalizable um um and scalable as time goes on especially as these markets get more liquid yeah it's on you the copy trade versus a vault where"
+    },
+    {
+      "start": 1592.58,
+      "end": 1622.9,
+      "speaker": "SPEAKER_00",
+      "text": "it's a manager right and we don't control the assets right this is this is a privy non -custodial eoa that is completely under your control i told you this we are launching vaults but it's uh it's just to fill the gap because uh hyperliquid has not upgraded anything to their vaults and from actually i think they deprecated the whole thing by instoring a ten thousand dollar fee so right this is public good more than anything yeah so"
+    },
+    {
+      "start": 1622.9,
+      "end": 1653.1,
+      "speaker": "SPEAKER_00",
+      "text": "you know i've heard i've heard some stuff with the clarity act that um these vaults are going to be considered ras and yeah that's probably why they that's right with the move i think they have some advisors right and uh we've seen one circle got on board i think they also re -delegated stake there's a lot of moves that they're doing for compliance purposes but moving moving uh along here so right now you have some really good traders already you"
+    },
+    {
+      "start": 1653.1,
+      "end": 1683.22,
+      "speaker": "SPEAKER_00",
+      "text": "have 10 people copy trading you so you know how does one get started i think i kind of coming back to my original answer in the middle of the conversation so i'm kind of coming back to question of i'm a beginner maybe i do have risk tolerance because i am in the crypto ecosystem uh how would you know you recommend somebody to go about uh discovering legend trade yeah so in terms of like starting how to trade and hitting learning how to trade in general or just to serve on the platform on the"
+    },
+    {
+      "start": 1683.22,
+      "end": 1713.26,
+      "speaker": "SPEAKER_00",
+      "text": "platform because i think most people here already are familiar with hyper liquid but how to get most out of the platform yeah so the strongest qualities of that platform is my favorite features that i enjoy a lot is we've basically replaced a lot of the fake signal that you might see from twitter and and other sorts of information say like discord and telegram you're talking about the market with people and i'm sure you guys all are familiar with somebody in your group chat that's like kind of larpy"
+    },
+    {
+      "start": 1713.26,
+      "end": 1743.7,
+      "speaker": "SPEAKER_00",
+      "text": "you know what i mean like no one's going to really call them out for being a larp but everyone knows this guy's kind of larping right and like oh i'm going to take this position whatever um you know with legend everything's transparent everything is right there in your face and you know uh so you kind of know what people's positions are if they're larping or not right you really put your money where your mouth is and that forces everybody to have higher quality conversation so you log in you have a feed right these are the feeds these are people posting real theses on intel"
+    },
+    {
+      "start": 1743.7,
+      "end": 1773.8,
+      "speaker": "SPEAKER_00",
+      "text": "on amd on nvidia right any hyperliquid supported asset um and you know you can engage with the chat room so there's a really good trader you can dm him talk about exactly why he took this trade this is one of the features that i think a lot of our users like right is if i'm in a position and i just entered this vision you just saw it in real time on a notification on your phone right we have android and ios support you get that notification that i entered you can either join it with me like maybe i caught like a great wick or"
+    },
+    {
+      "start": 1773.8,
+      "end": 1803.88,
+      "speaker": "SPEAKER_00",
+      "text": "something um or you can ask me why i like this trade or you can just like entering here right and you can you can i i can also tell you oh i'm just gambling don't don't don't come in with me or i can say hey this is actually i really like google here right for this reason this reason and that reason and that lets you kind of cut through the noise a little bit right versus maybe another app where you don't have a communication channel open with them you can have group chats with your friends you know we have a clan feature as well uh that we've had for about four months now um and"
+    },
+    {
+      "start": 1803.88,
+      "end": 1834.0,
+      "speaker": "SPEAKER_00",
+      "text": "you can also compete with your friends so if you let's say boris you know boris says that hey i think i'm a better trader than you okay let's bet some money on it well we can actually just prove that we can trade over a week right about 50 bucks 100 bucks whatever some guy just did like 600 bucks the other uh yesterday or a couple days ago over 24 hours against his buddy right that's 600 bucks he's a better trader today and they just trade against each other it's paper money"
+    },
+    {
+      "start": 1834.0,
+      "end": 1864.18,
+      "speaker": "SPEAKER_00",
+      "text": "but the end that wager gets sent to the win bank based on p l right so there's a lot of cool features like that that just make trading a lot more fun and engaging and this is the type of thing that scales very well with density right so right now we have about 500 active users that check the site every day right imagine you know by the end of the year you wake up 9 30 a .m est market opens there's a thousand people there's Two thousand people talking about the markets in the chat room right now right with the execution"
+    },
+    {
+      "start": 1864.18,
+      "end": 1895.66,
+      "speaker": "SPEAKER_00",
+      "text": "environment right there everyone's present right now with the execution environment right now everyone's positions going crazy right talking about the markets what's everyone in it's like the best group chat you can be best group chat in the world that you can be in essentially like a publicized Bloomberg terminal right that's kind of the vision of where I want this to go to um it's like no question I would love them to be no question the best place for a normal trader to come and join because you just lose out on so much information and so much socialization by not being on the platform nice love"
+    },
+    {
+      "start": 1895.66,
+      "end": 1925.84,
+      "speaker": "SPEAKER_00",
+      "text": "it and people can join today and trade right now everything's on mainnet you guys are using uh builder codes correct for for the the front end is pretty sweet there's a lot of Advanced features um previously that hyper liquid perhaps didn't even have and now you know I think everybody has Chase orders and p -wops and things like that so all the tools that Traders need you guys have on the front end as well we also have yeah beautiful mobile"
+    },
+    {
+      "start": 1925.84,
+      "end": 1955.88,
+      "speaker": "SPEAKER_00",
+      "text": "app as well right so um US mobile app Android iOS doesn't really matter I think the only country we don't support or a few countries don't support North Korea for some reason the United Kingdom as well for some legal issues but um yeah fully end -to -end execution also executing in telegram too right so we also support telegram as well if you want to support uh attitude group chat right with charts FC charts LG charts and all that type of things we support it so"
+    },
+    {
+      "start": 1955.88,
+      "end": 1986.18,
+      "speaker": "SPEAKER_00",
+      "text": "pretty much everywhere that you might need to execute you can execute it through through our account seamlessly within the same portfolio so for very very seamless powerful Traders um we made it really really easy for you to get in and out like doesn't really matter what device you're using that was really important to me um because when I'm actively trading like I can tell you a story when I when I first got into perks I first got into person maybe two years ago actually I'm pretty new and you"
+    },
+    {
+      "start": 1986.18,
+      "end": 2016.6,
+      "speaker": "SPEAKER_00",
+      "text": "know now I'm glued to the screen I'm glued I think everybody's new to perps by the way it's not like a new it's a pretty recent product and hyperliquid it's three years old so you know unless you were doing bitmex stuff and that wasn't great yeah I wasn't I wasn't I wasn't there yet in my my trading journey um but you know this is two years ago just had the the the US website right on mobile there's like no really apps yet there's like no really good hyperliquid"
+    },
+    {
+      "start": 2016.6,
+      "end": 2046.72,
+      "speaker": "SPEAKER_00",
+      "text": "apps yet I'm just glued to the laptop screen right like seven figures positions moving up and down I'm glued to the screen so it's really important to me that you don't really have to be included to the screen and you can go on the go right um and you know we we actually run we built our own infrastructure so it's our own um own indexer that we run on the back end so uh the uptime isn't depending on like let's say having something like that we actually built our own indexer our own"
+    },
+    {
+      "start": 2046.72,
+      "end": 2076.98,
+      "speaker": "SPEAKER_00",
+      "text": "nodes with a bunch of backups uh uh a bunch of uh yeah a bunch of backups everywhere globally so um yeah I'll try to get you a deal for hydromancer by the way they are are uh staking I like that team hydromancer there are good buddies I like that team they're a great team but uh for us it's just very important for us to own the full um we might be some endpoints or some data that we might want to query that"
+    },
+    {
+      "start": 2076.98,
+      "end": 2107.08,
+      "speaker": "SPEAKER_00",
+      "text": "is not supported by hydrogen of course you can ask them but I think it's just easier for us to build it right um so I actually think it's kind of a competitive advantage that we run our own indexer um so yeah I I thought it was very important for us to do this agree a question for you I have not downloaded the web app or I guess the phone app wondering does that have all the cool features you have on the front end on the desktop because asking this because i feel a lot of these mobile apps are"
+    },
+    {
+      "start": 2107.08,
+      "end": 2137.1,
+      "speaker": "SPEAKER_00",
+      "text": "focused again on very simple uh very kind of fomo -y if i can use that word you know trading but i don't want that i want to take my time i want to place my limit orders i want to place my chase orders you know that's kind of what i'm looking for more of a power user phone uh application for perps so i i'm going to look into it yeah so the one thing we don't it's that full parity with the web app right now one thing we don't support mobile what's"
+    },
+    {
+      "start": 2137.1,
+      "end": 2167.72,
+      "speaker": "SPEAKER_00",
+      "text": "coming out in the next release is charting so so advanced charting so what that means is like uh uh you know your bollinger bands and things like that um sms that is coming the next update but other than that you have full um you know on the chart limit orders uh stop limit all the type of stuff we have that on the app as well um beautiful one big update yeah one big update on the app is our chatting experience uh we want to get that to telegram level parity"
+    },
+    {
+      "start": 2167.72,
+      "end": 2197.88,
+      "speaker": "SPEAKER_00",
+      "text": "essentially uh within the next couple of weeks so um yeah it's going to be really good i'm actually very bullish on our mobile app in fact just to leak some information um a lot of our users are from mobile actually like actually the majority of our volume and our users spend more of the time on the go on the mobile apps versus our that's really that's really interesting to know because um someone had done this research and most of the volume actually comes"
+    },
+    {
+      "start": 2197.88,
+      "end": 2228.16,
+      "speaker": "SPEAKER_00",
+      "text": "from desktop on hyperliquid uh because again like if you want to trade in size you kind of want to be precise about things but if you guys offer this precision uh this step of tools and and features then i feel that kind of changes the game yep yep exactly so it's just an experience that is accessible for the normal person right but i don't want to lose any power right like i still want to do the"
+    },
+    {
+      "start": 2228.16,
+      "end": 2258.35,
+      "speaker": "SPEAKER_00",
+      "text": "things i want to do all right you mentioned you you were leaking some alpha here so what can you tell us about the new the latest and greatest coming out of legend perhaps in a few weeks or months what are you guys working on yeah so we're probably really focused on building kind of the best experience that we can and um the future of trading and what i actually think that kind of looks like is i i i think it's"
+    },
+    {
+      "start": 2258.35,
+      "end": 2289.37,
+      "speaker": "SPEAKER_00",
+      "text": "going to get more social as time goes on the reason why i believe that is because when you look at the the kind of sources of information that what people trade on today obviously you know social training is so big right now this is something we've been building on for for quite some time i actually think the future interfaces for the best trading part is going to look more like discord than anything else i think it's going to look more like discord uh it's going to be a combination of like discord and some and"
+    },
+    {
+      "start": 2289.37,
+      "end": 2319.37,
+      "speaker": "SPEAKER_00",
+      "text": "like a hyperlocal if you can combine the two i i truly do believe so uh because you get so much more out of talking about the markets and communicate with the markets and anywhere else i mean if you really take the inverse like why is every single crypto trading group child on telegram right it's because the community has already lived there that's why versus versus it being a better experience so like why are there so many telegram boss unless you execute into telegram right why"
+    },
+    {
+      "start": 2319.37,
+      "end": 2349.37,
+      "speaker": "SPEAKER_00",
+      "text": "there's so many different functionalities that let you trade more it's because communication and social aspects have such large product market fit on trading um but it's very hard to bootstrap Network effects so uh as the future goes on what we want to build is if you were to just take it from first principles what what does it mean to build a platform that helps elevate a trader from their from their core learning time learning how to trade from let's say it takes you six months"
+    },
+    {
+      "start": 2349.37,
+      "end": 2379.45,
+      "speaker": "SPEAKER_00",
+      "text": "to learn how to be a great trader you know how do you how do you turn that into two weeks to a month right what does that look like and keep going towards that type of future um so the product is going to evolve probably to be more similar to that more ways to earn as well so uh right now we have a basic feature of copy trading right which is like you copy this person and you know they have a p l share right it could be zero to twenty percent whatever they set it to that feature I think is going to be more important porn as time goes on"
+    },
+    {
+      "start": 2379.45,
+      "end": 2409.81,
+      "speaker": "SPEAKER_00",
+      "text": "because we support our rwas and not uh and not meme coins like you guys can all copy me for example with a hundred thousand dollars notional can you do that on a meme coin no because they'll probably just like dump on your head right if you copy trade one of these you know like sent it or something they're just gonna that was the matter the Frank matter I don't want to throw names that's what people felt happened he's going to have a wallet that bought 50 bucks worth before he bought it on FOMO"
+    },
+    {
+      "start": 2409.81,
+      "end": 2440.45,
+      "speaker": "SPEAKER_00",
+      "text": "and then that 50 bucks after everyone buys after him is now ten thousand thirty thousand dollars and boom he just paid for his rent for two months right uh with perps you copy trade someone on Apple for a hundred hundred thousand dollars uh is that hundred thousand dollars gonna do anything to Apple probably not right so uh that's kind of why we we really believe in that thesis um the whole"
+    },
+    {
+      "start": 2440.45,
+      "end": 2470.54,
+      "speaker": "SPEAKER_00",
+      "text": "entire flywheel of the product is let's make the best product for the people that want to lock in and if you want to lock in and build identity on Legend and make this your home for trading you should get rewarded for it right so we're investing a lot into the media the media side of the business and uh uh you know all that you know good distribution marketing type of stuff but the core what matters the most is the product nice there's a few things I want to dive deeper in the media aspect uh you know I put this up on the nest which"
+    },
+    {
+      "start": 2470.54,
+      "end": 2501.0,
+      "speaker": "SPEAKER_00",
+      "text": "is the x -faces uh jumbotron you know copy trading is super important but uh these e -sports tournaments do you think they're important or like South Korea has them streaming and I think I saw a few of your guys's uh tournaments for trading like it's almost like a sport or you know like like gaming right this is super cool and unique and very different I I feel yeah so"
+    },
+    {
+      "start": 2501.0,
+      "end": 2531.36,
+      "speaker": "SPEAKER_00",
+      "text": "I do think it's important so the large metathesis that we have is like trading is the world's biggest video game because that's you know what it really does feel like it really does feel like a video game and we just wanted to build this culture around trading that's really cool really fun um getting people outside of their laptops and into uh the world about something that they love to do right and we found like a group of like the best traders we can the most entertaining changes we can we"
+    },
+    {
+      "start": 2531.36,
+      "end": 2561.4,
+      "speaker": "SPEAKER_00",
+      "text": "put them somewhere um it's like underground and like a boxing gym for example for ours and we made them kind of compete against each other who's the best trader right turns out it was this 45 year old white guy balding who's the best trader maybe that maybe that says something about it but uh um I do think it's important I think it engages people to kind of learn about the markets in a in a new and new form that they're used to which is you know right now obviously the current form that people learn about the markets it's like TJR YouTube video or"
+    },
+    {
+      "start": 2561.4,
+      "end": 2591.48,
+      "speaker": "SPEAKER_00",
+      "text": "like a TikTok guy making money on like meme corn or trade right I think you can do it in a much more engaging and cool way and you can do it with real people like in in the real world and I actually do think that there's again there's skill to it so you can actually do it and scale it and find people who you know at the core you know are good at are good at this right and elevate them and and making them a whole entire platform so uh yeah they're really fun uh we're going to do another one in LA probably"
+    },
+    {
+      "start": 2591.48,
+      "end": 2621.62,
+      "speaker": "SPEAKER_00",
+      "text": "in two weeks more details about that soon um obviously Korea as well um but yeah you know I feel like this could create a really uh unique culture you have your pro athletes you know your pro gamers and now you're gonna have your pro Traders and these people actually make money uh it's not just entertainment right it's entertainment and they're actually generating Capital generating value so perhaps uh"
+    },
+    {
+      "start": 2621.62,
+      "end": 2652.14,
+      "speaker": "SPEAKER_00",
+      "text": "yeah it's gonna be very coveted people we'll see we'll see it's a fun fun thing to think about um you mentioned as well rewarding a lot of the folk that have joined Legend trade I think you're you guys do lots of giveaways you have all these contests this will there be some sort of um you know i guess point system with with something else afterwards uh how much you want to share here yeah"
+    },
+    {
+      "start": 2652.14,
+      "end": 2682.18,
+      "speaker": "SPEAKER_00",
+      "text": "i mean we track everything we do a lot of prizes so you know some of our traders have gone a bunch of chrome hearts watches things like that i want to keep doing it i i really like giving people real things uh real things that like you actually feel in the real world for your money because you know a lot of times people forget this money does is something you can actually buy stuff with the money so i just want imaginary points man no i know i got the same"
+    },
+    {
+      "start": 2682.18,
+      "end": 2712.2,
+      "speaker": "SPEAKER_00",
+      "text": "thing sometimes i'm looking at i'm like this is real but no it's real and uh i think it's very good that we kind of getting these real stuff that we think is cool and we think that you would like and just like it's nothing really much to it honestly it's not that deep it's just like something we like to do um so yeah we're going to keep doing it i think one of our one of our choices we just got them like a specked out specked out macbook pro who knew that these can be so expensive to be honest with you macbooks are so expensive he says"
+    },
+    {
+      "start": 2712.2,
+      "end": 2742.48,
+      "speaker": "SPEAKER_00",
+      "text": "but uh yeah we got him we got him a new macbook nice very cool yeah uh but it's very generous of y 'all and to reward people with real value instead of imaginary points which uh some people think are worth more but most of them are worth more money so we'll keep it that way so yeah we're going to keep doing it Most of the hyper -EVM or even hyper -liquid protocols just sunset their points program and then people got nothing, basically, for paying fees. We've seen this story play"
+    },
+    {
+      "start": 2742.48,
+      "end": 2773.18,
+      "speaker": "SPEAKER_00",
+      "text": "out before. Okay. All right. So let me ask you, you know, we spoke a lot about the platform. Since you have so much experience on trading, like, where would somebody that does zero perps trading start? Do you recommend they read some threads or some posts or maybe they shouldn't get involved in this space? Like, how does one, like, super beginner newbie start? Zero perps trading. So perps"
+    },
+    {
+      "start": 2773.18,
+      "end": 2803.22,
+      "speaker": "SPEAKER_00",
+      "text": "is very hard, in my opinion, to trade with, like, 50 to 100 bucks, right? It's just, like, it's leverage spot, right? So in my opinion, just, you know, I'm actually being completely honest here. I think 500 to 1 ,000. This is, like, the best amount to start off with trading for perps. I think, like, zero to 100 is very, very hard to effectively trade perps because it forces you to kind of use a lot of leverage, which is really not that good. You know, it's"
+    },
+    {
+      "start": 2803.22,
+      "end": 2833.92,
+      "speaker": "SPEAKER_00",
+      "text": "one of those things where it's like, as I said, none of that do. But I think keeping your leverage to about 3x max is the best, especially with how volatile the stock market's been. So first thing is, even though that Bitcoin slider says you can go 40x, do not do 40x. In terms of leverage, yeah, it's a really common misconception for newer perp traders is because they'll look at the slider and it's like, oh, let's do half the slider. Okay, half the slider is 20x leverage, right?"
+    },
+    {
+      "start": 2834.04,
+      "end": 2863.92,
+      "speaker": "SPEAKER_00",
+      "text": "So this is actually some product stuff that I want to build as well in terms of, like, really educating the user how much is how much. Yeah, keep the leverage low. Treat it as informative. You know, think about narrative. Think about why you're placing the trade to really, you know, really be aware of your biases and your biases around the P &L, like that red number could be scary. For example, Micron. Micron is a trade that has"
+    },
+    {
+      "start": 2863.92,
+      "end": 2893.92,
+      "speaker": "SPEAKER_00",
+      "text": "been terrorizing my legend account. I think I was at 200k P &L on that account trying to do my $1 million challenge. I'm back at breakeven. I lost all my P &L on fucking Micron, right? Micron's back at 960. I sold out at 850. Why did I sell out at 850? Really? I just didn't want to look at the red numbers on my screen anymore. I'm sure, you know, anyone that can see that knows, nothing changed fundamentally with the thesis, right? Still very bullish AI. A"
+    },
+    {
+      "start": 2893.92,
+      "end": 2924.04,
+      "speaker": "SPEAKER_00",
+      "text": "very bullish memory, actually. I still have it on my main account, but, you know, I didn't want to, you know, deal with that position anymore. I was very emotional. I cut it. That's definitely not how you want to trade. So, yeah, I'd be very aware of the biases and things like that. Like, if I held that, I'd probably be up 20, 30k right now instead of cutting it for, you know, however they lost. But yeah, that's the advice that I would give for newer traders."
+    },
+    {
+      "start": 2924.82,
+      "end": 2954.08,
+      "speaker": "SPEAKER_00",
+      "text": "And just talk to people. Talk to people about why they're doing things. Yeah, that was going to be my last point. I mean, join a group, right? That knows what they're doing. Or runs a business. Or somewhat knows what they're doing. And they're going to teach you. I think a lot of people are quite helpful in crypto, especially like you mentioned in Perps trading. There is no incentive to dump on you. So, at that point, it's more of a team effort. Yeah, it's super helpful. Like, the"
+    },
+    {
+      "start": 2954.08,
+      "end": 2984.16,
+      "speaker": "SPEAKER_00",
+      "text": "way I see it is, like, okay, newest trader, they come in, all right, what's the best place for a new trader to actually join? It's 100 % logic because there's people that, you know, are chatting with you. You can see everyone's positions, you know, all that type of stuff. The thesis is right in front of your face. This is by far the best place for a newer to intermediate trader to execute. Versus I think something like in Silica, there's a lot of information there, but a lot of the headlines, for example, in my opinion,"
+    },
+    {
+      "start": 2984.16,
+      "end": 3014.18,
+      "speaker": "SPEAKER_00",
+      "text": "are very wishy -washy. Like many headlines are priced in. And those headlines you want to, you know, a very bullish headline can mark the top. Yeah. Right. Which you saw in memory. What you saw in memory at 1200, when Micron was 1200, was like an amazing, amazing beat. And because that beat was so good, the news was so good, that marked the local top there. I definitely don't think that"
+    },
+    {
+      "start": 3014.18,
+      "end": 3044.24,
+      "speaker": "SPEAKER_00",
+      "text": "was a global top, but that marked the local top. Because it was so good, it basically ran out of marginal buyers in that time because everyone thought it would be so good. So, there's a very good saying, which is like, bull markets end. Bull markets don't end on bad news, right? They end on good news. And this is kind of like the same thing. If you guys remember COVID, trading in COVID, in COVID, you get the worst news ever. Oh, so many people are dying. So many people are dying. These many people keep getting sick and"
+    },
+    {
+      "start": 3044.24,
+      "end": 3075.62,
+      "speaker": "SPEAKER_00",
+      "text": "the market keeps ripping up, right? Because we basically priced in the whole entire headline news. So, you have to be very wary about headlines and these platforms that just give you the headlines. Because I think that makes you execute even worse without having the contrarian view, right? Same thing I said about LLMs at the start of this podcast. Yeah. There you go. If you want an edge, don't use LLMs, for one. And two, join a group like LegendTrade, where you can discuss some of these trades. The"
+    },
+    {
+      "start": 3075.62,
+      "end": 3105.98,
+      "speaker": "SPEAKER_00",
+      "text": "platform has great execution. You guys build out the stack. You guys have very cool features, neat features. Four. Doing these trades, I feel like not everybody has the tools that you guys got. And you do reward your traders. So if you participate in the ecosystem, everything's tracked. Perhaps you'll win a brand new MacBook Pro, fully tricked out, and, you know, cash instead of just imaginary points,"
+    },
+    {
+      "start": 3106.18,
+      "end": 3136.08,
+      "speaker": "SPEAKER_00",
+      "text": "lots to be earned. So, yeah, kind of my mini recap right here. Anything else you want to share with us? Or with the audience that we haven't discussed, any feature or advice that you want to give out to people? Yeah. I would say it took me, if you guys are early in your journey in trading, it took me years for me to become"
+    },
+    {
+      "start": 3136.08,
+      "end": 3166.34,
+      "speaker": "SPEAKER_00",
+      "text": "like a profitable trader, took me a long, long time. Right? And there are times in the market when the market conditions are just so bad. For whatever reason, they're just so, so good with so much marginal bid, where it's really hard not to make a lot of money, right? And the opportunity cost of being early to times like that is very, very"
+    },
+    {
+      "start": 3166.34,
+      "end": 3196.34,
+      "speaker": "SPEAKER_00",
+      "text": "high. Because those times are very short. Most recent time when it was just like so insane was when Trump got elected. November to January. About a month. A month and a half. Right? That's all you really had. And I was positioned for that about six months earlier, right? Those are market times when things are just so unbelievable that you need to be positioned for, because that's going to be as a momentum trader, a lot of us are momentum traders. Because momentum"
+    },
+    {
+      "start": 3196.34,
+      "end": 3226.4,
+      "speaker": "SPEAKER_00",
+      "text": "traders are just going to make most of their money off, right? So what I'll say is like, you know, stay very informed. Don't let... Don't let the boring... Don't let the boringness of the situation distract you from the opportunity that exists in markets. Okay? That'd be my biggest advice. It's one of the biggest mistakes I think anyone that is learning how to trade makes. Nice. Thanks for that."
+    },
+    {
+      "start": 3226.5,
+      "end": 3256.46,
+      "speaker": "SPEAKER_00",
+      "text": "Really great advice. I think PBR here though, he was like, I'm out of the market now, but it's a little boring, but I will come back when things come back. Right? So it's okay to touch grass, but be always on the lookout. Yeah. Yeah. Basically. All right. Let me do one more quick recap for the folks that tuned in. Give Rio here or Rio, I'm sorry, a follow, give Legend Trade"
+    },
+    {
+      "start": 3256.46,
+      "end": 3286.46,
+      "speaker": "SPEAKER_00",
+      "text": "a follow, join their group. They got lots of good traders in there chatting about how they're positioned, lots of information as well. So if you want to be more successful, it doesn't cost you anything. I mean, just check it out, right? Like there's no cost to join this group. So why not see if it's the right fit for you or not? As I said earlier, you can win some prizes. They got lots of new cool shit cooking too, and a great mobile app that I will be checking out because I want to try a little more"
+    },
+    {
+      "start": 3286.46,
+      "end": 3316.68,
+      "speaker": "SPEAKER_00",
+      "text": "of that mobile trading. I've been desktop only for so long. And anything, any other call to action to the community? You want to check it out? If you want to let them know something, let me know, or something with Legend Trade. No, just hope you guys love the products as much as we do, and basically any feedback or ways that we can improve your experience, just let me know, really. I want all our users"
+    },
+    {
+      "start": 3316.68,
+      "end": 3346.72,
+      "speaker": "SPEAKER_00",
+      "text": "to make sure, I want to make sure that all of our users feel empowered to be successful at trading. That's really what we want to do with the platform. Yeah. Yeah. Give lots of feedback. That's a great point because that's how he can improve. Okay. Last question that I want to ask you, we're coming up to the top of the hour, not financial advice. Give me your top two, three trades that you're into right now. I feel like that's actually - Yeah. I love SpaceX. I love SpaceX. I thought I'd go"
+    },
+    {
+      "start": 3346.72,
+      "end": 3377.72,
+      "speaker": "SPEAKER_00",
+      "text": "to like 80 recently, but I love SpaceX. I love the space industry. Yeah. I love what they're doing. Yeah. Yeah. I have a lot of friends on the XII team. There's a lot of thrash actually. Elon basically nuked the whole entire team, especially like Rock Imagine, he fired everybody. He actually nuked the whole thing. But it's a good team. It's a really good team. And what they're doing with space is unreplicable."
+    },
+    {
+      "start": 3379.56,
+      "end": 3407.8,
+      "speaker": "SPEAKER_00",
+      "text": "And I think it has the largest TAM possible ever. So when there's large TAMs, it's a good team. It's going to catch a lot, a lot of bid. And it's all about the key with playing these things, I guess, SpaceX is you need to get in when the IV on the asset is very low, because something like that, that is a shelling point for a lot of speculation over time and the IV will heat up. So the very important"
+    },
+    {
+      "start": 3407.8,
+      "end": 3439.08,
+      "speaker": "SPEAKER_00",
+      "text": "part is to get yourself exposed to the IV, which can do with the leap or something like that when it's cheap. That's the best way to play these things. So what would you say is a good price for SpaceX? You know, again, not financial advice, like what entry would you be looking at? Oh, I don't know about entry. It's just more like when it feels right. I can't really, you know, technically speaking, it's so overpriced. It's really hard to give like a bottom entry point. But"
+    },
+    {
+      "start": 3439.08,
+      "end": 3469.22,
+      "speaker": "SPEAKER_00",
+      "text": "the asset itself is really good. I mean, sub 100, sub 100. I would say like 40 to 60 is like super, super fair value, which means it probably won't ever touch that. I personally was looking for something like 80 something. I didn't get that. I still have some, obviously. But the more important part is when it's low IV to get exposure on something like that. That's great. Wait for the next unlock FUD and that's where you buy, right?"
+    },
+    {
+      "start": 3469.38,
+      "end": 3499.32,
+      "speaker": "SPEAKER_00",
+      "text": "Something like that. Yeah. That's that. And I just I loveomics. I literally have a lot of FUD like prods and real estate интерval with Colossus. Yeah, I'm also bullish. Like Robinhood, obviously, as well. But SpaceX is such an easy, such an obvious trade. Obviously, it's a technological loss. Yeah. Anybody, anybody would say that, but. I see. So he's extremely bullish as well. He got the. The retail price. I think he got picked"
+    },
+    {
+      "start": 3499.32,
+      "end": 3529.68,
+      "speaker": "SPEAKER_00",
+      "text": "for a. Yeah. year so he's happy about that i mean it's one of those things where it's like you know that you know that meme was like left curve middle curve right curve i think yeah i think face x is a total like bang your head on the wall type of trade um at certain prices okay okay so um i hear the stocks what about crypto any time that you think bitcoin or e4 i mean hype's been doing okay because it has a business uh"
+    },
+    {
+      "start": 3529.68,
+      "end": 3559.76,
+      "speaker": "SPEAKER_00",
+      "text": "but uh any time you think bitcoin's gonna turn around i don't have a particular narrative in mind for bitcoin i i i am bullish on it just from like a tactical perspective but the revival narrative on on the asset i really is very hard for me to describe and and find right now to get that type of conviction to size very heavy into it but from a technical standpoint like this is a great opportunity to buy it um"
+    },
+    {
+      "start": 3559.76,
+      "end": 3590.32,
+      "speaker": "SPEAKER_00",
+      "text": "but i just really can't think of a like a driving narrative that makes it attractive um in terms of like actual crypto assets i don't really buy too many mid -cap cryptos the only thing that i'm particularly bullish on is it's pretty obvious like i think i think hype is the the best asset to own in crypto i think lighter is great as well i actually think light is great i don't have much of a view in terms of like dilution and and and the the unlocks around that particular asset but very"
+    },
+    {
+      "start": 3590.32,
+      "end": 3620.36,
+      "speaker": "SPEAKER_00",
+      "text": "bullish on on lighter because if you look at like the second and third order effect it's just very clear that they're going to get integrated more and more deeply into robin hood right which is the key to retail distribution exactly what robin had to do with calci five is going to have that same type of distribution at some point Regel was doing 90 of calcivol right perps and perps and robin hood is probably going to be as more more powerful than the prediction might have been and i think it's going to be even more powerful markets in Robin hood. All right. Uh, in terms of volume and"
+    },
+    {
+      "start": 3620.36,
+      "end": 3651.86,
+      "speaker": "SPEAKER_00",
+      "text": "revenue, I think that's pretty clear. Right. So, uh, yeah, a lot of light is great as well. Especially if you're bullish regulated post -clarity act regulated perks in the U S um, and, and yeah, a lot of light is a great bet, um, to do that. So hype and lighter and a SpaceX and Robin hood are kind of your go -to let's take this back in a year, obviously. Yeah."
+    },
+    {
+      "start": 3651.86,
+      "end": 3682.1,
+      "speaker": "SPEAKER_00",
+      "text": "Remind me, remind me in a year. These spaces are recorded. So I got receipts here. I got to jump, but this was fun. This was fun. Thank you. Thank you so much. Shoot me a DM, shoot me a DM. Uh, uh, uh, maybe send you like a little gift. Gift or something. No worries. No need to. All right. Thanks for tuning in. Thank you for your time and have a lovely rest of your day, everybody."
+    },
+    {
+      "start": 3682.68,
+      "end": 3683.0,
+      "speaker": "SPEAKER_00",
+      "text": "Bye."
+    }
+  ],
+  "speaker_map": {}
+}

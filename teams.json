@@ -352,5 +352,29 @@
     "x_handle": null,
     "website": null,
     "description": null
+  },
+  "Monetrix": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/monetrix.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "LegendTrade": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/legendtrade.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Harmonix": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/harmonix.png",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Rysk": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/rysk.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
   }
 }

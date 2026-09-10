@@ -1,0 +1,78 @@
+{
+  "space_id": "1rGmqppqnPNGy",
+  "title": "LEGENDS ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-08-13T13:51:19Z",
+  "started_at": "2026-08-13T16:00:53Z",
+  "ended_at": "2026-08-13T17:02:27Z",
+  "scheduled_start": "2026-08-13T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 31,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "ryoh 🕊️",
+      "handle": "ryohhno",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1rGmqppqnPNGy",
+  "summary_title": "Trading as a skill you can learn: why LegendTrade beats phantom on education",
+  "summary_description": "Rio from LegendTrade on why copy trading perps wins, AI can't trade, and how transparent PnL changes everything.",
+  "topic_tags": [
+    "trading",
+    "ecosystem",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 225,
+      "label": "Why AI models fail at trading despite quant success"
+    },
+    {
+      "timestamp_seconds": 562,
+      "label": "Rio's pivot from scaling GPT-4 at Scale AI to founding LegendTrade"
+    },
+    {
+      "timestamp_seconds": 623,
+      "label": "LegendTrade core thesis: transparent PnL, copy trading, native chat"
+    },
+    {
+      "timestamp_seconds": 1198,
+      "label": "Why InSilico traders win 3x more than Phantom users: transparency gap"
+    },
+    {
+      "timestamp_seconds": 1501,
+      "label": "Copy trading perps creates on-chain hedge funds without RIA registration"
+    },
+    {
+      "timestamp_seconds": 2501,
+      "label": "Trading as esports: underground boxing gym tournaments finding pro traders"
+    },
+    {
+      "timestamp_seconds": 2803,
+      "label": "Beginner advice: start with 500-1000 USDC, keep leverage at 3x max"
+    },
+    {
+      "timestamp_seconds": 3346,
+      "label": "Rio's positions: SpaceX at low IV, Hyperliquid, Lighter for post-Clarity Act"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "LegendTrade",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3691.264,
+  "capture_failure_reason": null
+}

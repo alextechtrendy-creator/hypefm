@@ -1,0 +1,307 @@
+# From Morgan Stanley quant to TradFi founder: How trading infrastructure beats fortune telling
+
+_David from TradFi discusses leaving TradFi after 7 years, why AI trading agents fail, and building execution-focused infrastructure on Hyperliquid._
+
+**Host:** @rekt_gang
+**Date:** 2026-07-03
+**Duration:** 1:13:49
+**Tags:** trading, infrastructure, ecosystem
+**Source:** https://x.com/i/spaces/1vJpPPOlqgOJE
+
+## Who's talking
+
+- **Rekt Gang** (@rekt_gang) _host_
+- **DYJ** (@davidyjeong) _guest_
+
+## Key moments
+
+- **[2:48]** Host Zirk introduces David from TradFi
+- **[8:52]** David's journey: parents taught him to code, chose Waterloo computer science
+- **[14:57]** 7 years at Morgan Stanley equities trading desk, working with Vanguard and Citadel orders
+- **[16:58]** Crypto aha moment: Cryptowatch app revealed retail access to institutional-grade data
+- **[20:01]** Left Morgan Stanley 4 years ago; FTX collapsed the week after garden leave ended
+- **[35:48]** TradFi abstracts limit order books; agentic layer executes without manual trading decisions
+- **[46:31]** 100B in volume taught him: trading is hard, even quant PhDs can't consistently win
+- **[1:10:50]** TreadFi name origin: tire treads reduce slippage, like tires on roads
+
+## Transcript
+
+**[2:48] SPEAKER_00:** GMGM. Hope everybody's doing well. David, how are you doing? I'm good. How are you? I'm doing great, thanks. It's a lovely Friday afternoon here. I think Friday evening where you're at. Yeah, where are you calling in from? Montreal. So we had Canada Day a couple days ago and 4th of July tomorrow.
+
+**[3:19] SPEAKER_00:** I guess all the holidays lining up. Yeah, my parents live in Toronto. And so I was aware of Canada Day. They gave me a call. Very cool. It's been very warm in Toronto. It's been a very hot summer, actually. Yeah, I heard it's like mid 40. That's kind
+
+**[3:49] SPEAKER_00:** of crazy. Yeah, pretty intense. And yesterday they had the summer. Soccer match between Croatia and Portugal as well, which was quite exciting. Oh, in Toronto? Yep. Oh, yeah. I'm surprised they did it at the BMO. The BMO field. Because I remember when they first built it, I went to go watch an international soccer game as well at Friendly. And it was like
+
+**[4:19] SPEAKER_00:** a high school. Actually, it's worse than high school. Maybe like an American... Middle school stadium. Yeah, I don't know. They made it work. They figured it out, I guess. It's great. I agree. We don't even host any games in Montreal because the infrastructure is not there. So it is what it is. It's fine. No, you guys shot the Olympic stuff from like 40 years ago, 30 years ago. Yeah, it's pretty broken
+
+**[4:49] SPEAKER_00:** down, man. I don't know if you've been recently, but it's not holding up well. Yeah, actually, I used to, or I lived in Montreal for about half a year, many years ago for an internship. Strangely, it was a winter internship, and I just remember it being just ridiculously cold. Now you're living in warmer pastures, which is great. Yeah, I do miss
+
+**[5:20] SPEAKER_00:** the cold sometimes. I miss wearing a jacket. I miss wearing like a parka. Actually, it's different to be out in the hot, humid weather and then cool down with air conditioning. Or like that's a very different feeling than if you're outside in the cold and you come into a warm apartment. So I miss that. I agree. Yeah. It's a nice feeling. All
+
+**[5:50] SPEAKER_00:** right. So love the Weber talk. But let's get the spaces started. So for those that already tuned in, bottom right corner, there's a little purple bubble. Give the space a like, give it a little retweet, drop a comment. It always helps with the algorithm. As all our spaces, this one is recorded, it will be timestamped, it will then be uploaded to YouTube and archived on Hype FM, so you'll be able to listen at a time that works best for you. But this is kind of
+
+**[6:20] SPEAKER_00:** the premiere with David today. I'm very, very excited. I think it's going to be a great show. So let's kick this off. Cool. Yeah. Excited to be here. Yeah. Thanks so much for making the time, David. I know you're super busy with everything that you've been cooking at BreadFi. So I'm really happy that you made some time for us today. I'm Zirk, co -founder of RecGang, and we do host builders of hyperliquid on
+
+**[6:50] SPEAKER_00:** spaces. I do enjoy creating some educational content. And might as well give you a little bit of an overview of what we're doing. So let's give a shout out to Beef here, who's another content creator from HL Media. I think he already hosted you probably months ago at this point, something like March. I don't remember how long ago it was at this point. Yeah. No, I was on twice. So the first time was very early in the middle of the period when BreadFi was going viral.
+
+**[7:21] SPEAKER_00:** So always a pleasure to talk to you. And I'm excited to be on Beef's podcast as well. Yeah, he's really great. And funny enough, I learned about BreadFi through Beef actually. So it comes full circle right there. But today we have the privilege, the honor, the prestige of hosting you, David, from BreadFi. So thank you so much once again for making the time. I want to kind of do a
+
+**[7:51] SPEAKER_00:** little different format. Because usually I focus a lot on the project. And I had asked you this. I want to focus a little more on the founder, on the person to begin with. Because you have a very special journey into Web3 or just as a human being. So I kind of wanted to chat about that, if that's okay with you. Yeah, yeah, for sure. They're all connected on some level. So it's rare I get to talk about DontreadFi
+
+**[8:21] SPEAKER_00:** stuff. So more than happy. Yeah. And I'm going to give a shout out to Mr. Higao. I'm not even sure how to pronounce this. But he was kind of the one that tipped me into talking about this. So he kind of talked about your resilience and I guess your journey into crypto. So maybe you can walk us through however you want here and talk to us about how you got involved in the crypto ecosystem. But also talking
+
+**[8:52] SPEAKER_00:** about resilience as well. Yeah. I guess I'll bring in a little bit or I'll go back quite a way. I'll have to go back all the way back to my school, my university years. So my parents are both programmers. I guess back then computer science was still niche. So I consider them programmers.
+
+**[9:22] SPEAKER_00:** And I think when I was like 10 or so, they taught me and my brother how to write code. And initially I was just interested in creating video games. And it's not even it's more like it's like I don't know if you've I think it's called like RPG maker or something. But I would just create like Pokemon games and stuff like that. But I ended up doing it. I ended up spending most of my summers, my free
+
+**[9:52] SPEAKER_00:** hours coding. And back in the day, like even finding a compiler was really hard. So I ended up getting a copy of a seed compiler called I believe it was called Borland. And then I printed out the documentation. So I would just sit in the basement reading this. Going through different functions, like different concepts.
+
+**[10:23] SPEAKER_00:** And so I got into computer science quite early. And when it came down to choosing a college or university, I grew up in Toronto. And so I in Canada, they keep without taking or you don't have to take an SAT or some sort of standardized test. But you get at least in Ontario, you get like three applications, three freebies. Where you can submit your application to three different programs within
+
+**[10:52] SPEAKER_00:** Canada without paying a fee. And then afterwards, I think it's like 100 bucks per application or something like that. But my family wasn't necessarily well off. And so I just got three applications I didn't want to pay. And it just applied to Waterloo because at the time for computer science, Waterloo was by far the best school. And so I ended up getting accepted to all of them. But
+
+**[11:24] SPEAKER_00:** I chose. Well, there's a nuance of like software engineering, which is a little bit more like computer science and engineering. And just pure computer science, which doesn't have the engineering requirement. But I ended up choosing computer science and business. So I took a double major. And then, yeah, once you get into Waterloo computer science, it's like, okay, I'm going to do this. It's like a whole new world. Like everybody's just writing code. Vitalik Buterin
+
+**[11:54] SPEAKER_00:** went to Waterloo, for those that don't know. Oh, yeah. The founder of Ethereum. Yeah. The Waterloo crowd is quite big, I think, within the crypto community. A lot of the people are not doxxed, so I can't really oust them. But I think some of the public ones are Vitalik for sure. He actually joined Waterloo about a year after or a year or two after I joined. So we did have overlap. But I never actually
+
+**[12:24] SPEAKER_00:** met the guy. My roommate in college was very close with him. And he's a big kind of like OG in the ecosystem. And then I think like Smokey from BearChain is from Waterloo. Yeah, there's a lot of us. But back in the day, there was no. The founder of Axelar as well. Yes. Yeah. Teaching, right? Yeah. I actually didn't know anybody back
+
+**[12:54] SPEAKER_00:** in the Waterloo days that ended up doing crypto, except like one of my buddies. There's a company that's a competitor to Privy. I think they were the OG kind of embedded wallet provider called Magic Labs. And so Jay, one of the co -founders. Is a close friend of mine. And he's probably the only guy I met at Waterloo who did blockchain. But yeah, no, I'd like at the time it was. I think there was a saying among the Waterloo students. Which
+
+**[13:26] SPEAKER_00:** was SF or bust. The goal was really just to get an internship in an SF like San Francisco tech company and then move over. And so this was back in like 2010 to 2015. 2015 was when I graduated Waterloo has like a five -year program. So in 2015, that's when Facebook, Google, Amazon, these jobs were very, very popular. And just
+
+**[13:57] SPEAKER_00:** starting to get popular as well. The benefits to pay everything kind of added up. And so most of my friends ended up. Going to the Bay area. For to be a software engineer. But. I don't know what. What. Or like why, but I always. I'm not too interested. Following everyone and going with the grain. And so. I believe I was one of two people from my class that
+
+**[14:27] SPEAKER_00:** ended up going to New York. And I think the other guy went to work at like Facebook at New York or something, but I ended up going into. Into trading. And so my first job out of college. Was at Morgan Stanley. Where I worked on the equities training desk in New York. As a quant researcher. And so. Yeah, without really. Knowing anything about trading really like, I didn't know what a limit order book was. I didn't even. Know what the stock market was
+
+**[14:57] SPEAKER_00:** really. I just knew that there were prices, but. Without knowing anything, I decided to jump in and. For seven years, I just stayed on that one desk. Specifically, it was like a. Execution desk. So we were focused on algo execution and taking orders from hedge funds or asset managers. And these are all the big names you've heard about, like everyone from Vanguard and black rock. All the way to like Citadel. And even like
+
+**[15:27] SPEAKER_00:** rent tech, like these guys would all route orders or at least send orders through our engines. And so I was on the desk of about. I think it was like 30 or 40 people globally. Who are. In charge of. Designing and maintaining the trading algorithms. That would go in. Execute these trades for the hedge funds or the institutional guys. And so, yeah, for seven years I was on that one desk. And. At
+
+**[15:58] SPEAKER_00:** some point, I think near the end of my. Tenure at Morgan Stanley. Crypto was starting to get really popular. And. At first, I. I'm not a huge investor and still to this day. I'm actually not an investor or a trader on my own. But. Part of the reason why is. In TradFi, especially like a bank like Morgan Stanley. There's a lot of trading restrictions. If I opened up my computer, I could actually
+
+**[16:28] SPEAKER_00:** see. The hedge funds like everyone from Ken Griffin all the way down to like. The asset managers. I can see their trades as it's going on, going on. Imagine there's a lot of personal restrictions for people who have this. Level of access. And so I wasn't really allowed to actively trade anyway. And so I never got into it. But when crypto came along. I believe it was like Coinbase. No, actually, no. The thing that got me started was crypto watch.
+
+**[16:58] SPEAKER_00:** I don't know. Like this dates me a little bit. Cause they got acquired by cracking and sunset. But back in the day, there was an app called crypto watch. That would let you go look at everything. Like it was actually an amazing app. I tried to like. Try to bring it back. Or like reverse engineer and try to bring it back just for myself, but. It was just a really live and. Responsive chart of everything in crypto, especially the limit order book exchanges. So. When I saw that, I
+
+**[17:29] SPEAKER_00:** think a lot of kind of alarm bells went off in my head. Especially because I'm trying to fight. Just getting market data could cost. Potentially millions of dollars. Especially in that resolution with that much data. And that's kind of what the crypto is. If I had a computer that was open in the first detail in real time. It would be something that wouldn't be open for retail users, but I just downloaded it onto my Mac book. And I think that's when I realized. Like this crypto thing. Yes. I understood how blockchain worked. I understood kind of like
+
+**[17:59] SPEAKER_00:** just coming from computer science. I understood all of the fundamental technology, but from a trading perspective. It was. It was just so new to me that this kind of stuff would be open for everyone. And then I realized afterwards that Coinbase had an API where you can submit orders. And this kind of thing, once again, in TradFi is blocked off for everybody except the big hedge funds. Like you can't just log into NYSE and put in a limit order. When you go and put a limit order in through Robinhood,
+
+**[18:29] SPEAKER_00:** it goes probably through like four or five steps before it gets onto the exchange. But ultimately, it's a broker dealer. So it's usually like Citadel or whoever's handling your flow that would place the order for you. But in crypto, it was open access. Everything was API and WebSockets, so a lot easier to build on than fix. And so I started looking at this stuff. And I remember going to my compliance officer at Morgan Stanley and asking, like, is
+
+**[19:01] SPEAKER_00:** crypto like, can I trade crypto? Because we don't trade crypto at Morgan Stanley. So I asked, I remember explicitly asking, can I trade crypto? What limits do I have? And at the time, he was like, yeah, it's just a commodity. Or it's FX. You can do whatever you want. And so I started poking around and building stuff with APIs. And then that's really when I saw the light, especially with crypto trading. This was... A
+
+**[19:31] SPEAKER_00:** much more efficient exchange mechanism. And it was available 24 hours a day. You can clearly tell that the tech is another generation compared to what TradFi is. And then once I started kind of like exploring and I saw I started getting into like Uniswap where everything's on chain, at the time, there were not too many perplexes, but really, the choice was obvious
+
+**[20:01] SPEAKER_00:** when I saw that this could, I mean, this industry exists and it's just full of quote unquote cowboys who are just building the best tech without really caring about much else. It's just, it's a full meritocracy. And so I left Morgan Stanley after seven years, and that was about four years ago, to try my shot at crypto. Because at the end of the day, in trading, it's like, I don't know. In TradFi, you can be seven years in. And so I was
+
+**[20:31] SPEAKER_00:** a vice president up for promotion to be an executive director. But that's kind of a nobody in TradFi. Like, yeah, you get paid a little bit of money, your title sounds great, but you're still not in a position to make meaningful decisions. And when I saw crypto and kind of the meritocracy that was driving it, I really wanted to just go and build something of my own. I was confident that I had some ideas. I can bring to the table, to the industry, and
+
+**[21:03] SPEAKER_00:** then fun story, actually, the first week after my garden leave ended at Morgan Stanley, FTX went down. And so that's like a whole different thing. But yeah, well, you know, the writing was on the wall, like I watched Luna just collapse in real time. And that was, I guess, around the time I was about to leave. And the industry was not doing so hot, but I never would
+
+**[21:33] SPEAKER_00:** have guessed FTX would go down so fast. But it's strange enough, like, the founder mindset is super weird. And so I was actually very optimistic, because I remember thinking, if FTX goes down, the bigger guys are going to hurt a lot more than me, because, like, I'm just getting started, let me do my fresh land grab. But
+
+**[22:05] SPEAKER_00:** unbeknownst to me, turns out, I mean, it affects the whole industry. And so it was like, really hard to get started and raise money and hedge funds were going left and right. I mean, we're going down left and right. And so I was a bit naive, but regardless, I mean, you were right, because Hyperliquid started because of that collapse. Jeff was using, you know, FTX. And, yeah. And that was kind of an opportunity for him to build something better. So I guess, yeah,
+
+**[22:35] SPEAKER_00:** one's downfall is another man's opportunity here. Yeah, I think that's the beauty of crypto, right? Like 2008, a lot of systems failed in TradFi, but the same guys came back. And yes, they're not doing the exact thing that they're doing before, but they're doing similar stuff. And it just happens over and over. And over again. But crypto as an industry, I think it's very honest with itself. And
+
+**[23:06] SPEAKER_00:** the user base is really full of early adopters who are always looking for the best next best thing or the best technology. So when FTX went down, we didn't really see another FTX rise and we saw a superior framework take over. And that's where we are on the perplexes. So, yeah, it speaks to the strengths of the industry, even to this day. And
+
+**[23:36] SPEAKER_00:** in a lot of ways, it was good that it happened. A world where SBF is kind of the overlord of crypto, it's just the stakes get bigger and there's a chance that he could have fallen, but much bigger, like on a much bigger scale as well. So. Yeah. It's. Not good. Failure is not good in the long run. A very cool journey here that you described, though,
+
+**[24:07] SPEAKER_00:** for you, the aha moment. Was it more about the tech? You said like this tech felt was next generation. You were working at Morgan Stanley for seven years and now you see this on chain, transparent, everything's working very smoothly. So was it about the tech or was it more about. Kind of the ethos of crypto? I think you mentioned the word meritocracy. And when you go on Treadfi,
+
+**[24:37] SPEAKER_00:** this is what, you know, democratizing market making, democratizing all these tools and making them available for retail, which is super cool, right? Like, you know, just conceptually speaking, it's great to see that even the little guy can use it. I think that tech is a product or a side effect of the ethos. It is. The ethos itself is find the best solution, not just the easiest one, but the
+
+**[25:08] SPEAKER_00:** most elegant and the most communally value add. So it benefits everyone, not just certain parties. Find those systems or frameworks and promote those and build upon it in a kind of a building block way where we started off with just proof of work on Bitcoin and then eventually spun off to proof of stake and smart
+
+**[25:38] SPEAKER_00:** contracts. And now we're getting into more hybrid applications on chain and off chain. Like all of this is just incremental where things in crypto move in every possible direction. But the one. But the people in the industry. Are. Smart enough to and smart enough and care enough to make sure that the the right direction gets
+
+**[26:08] SPEAKER_00:** picked most of the time. And you repeat that exercise over and over again. And that's where the current technology is. That's where the current landscape is. So in a lot of ways, it's the good guys end up winning and the best technology ends up winning. And that evolves over time. And so I'm highly confident that we're really in just the beginning of everything. There's a lot of different directions that crypto is
+
+**[26:38] SPEAKER_00:** going right now, but because this is how it started and this is what the industry cares about. The tech will evolve, but the ethos will really keep it grounded in there and going in the right direction. I think that's the way I think about. Yeah. Ethos versus tech. No, that's great to hear. And you also mentioned the 2008 financial crisis. Do you feel today like
+
+**[27:08] SPEAKER_00:** you see the same patterns of high leverage and these RAM stocks going crazy, repeating the same mistakes versus what you talked about for crypto? There is that incremental change if it's broken. Usually it's broken. You haven't seen a second FTX basically this cycle. Yeah. I don't know exactly what it is, but with 2008 and the financial crisis, I think part
+
+**[27:38] SPEAKER_00:** of the reason why the public didn't really learn from it was because there are so many layers in TradFi that only the insiders, so the people at the banks who are making these trades, truly understand. What caused it to happen. It wasn't necessarily the over leverage. It wasn't necessarily the mortgage bonds or subprime loans. It
+
+**[28:10] SPEAKER_00:** was just a fundamental kind of like misalignment of values. And it's a very weird industry where the banking, everything in TradFi is simplified. It's simplified for the end user, but archaically complex under the hood that the same mistakes that end up happening come from that. There's
+
+**[28:40] SPEAKER_00:** almost no effort to simplify what's under the hood. And so I think when I say 2008 happens over and over again, it's due to the overly complex nature of how everything works in TradFi. Yeah. Yeah. And yeah, there's no real effort to make it better. There's no real efforts to improve things, mainly because the people who understand the complex topics can keep it for themselves. And
+
+**[29:11] SPEAKER_00:** they obviously make a lot of money by understanding these complex systems. And then aside from that, for better or for worse, there's a lot of regulation that goes around making sure that these complex systems stay. And they keep them the way that they have been for a while and just adds a lot of red tape. So some things, like for example, one of the things that affected me, which was kind of like 2008 was when
+
+**[29:42] SPEAKER_00:** Archaegos went down, it was just, for a regular person, it just looks like a hedge fund blew up. But if you work in risk or if you're working, trading on the bank, you understand that this guy just found a complexity or like a kind of like a loophole within all of the complexity and kind of took it too far and it blew up and a lot of banks lost money credit suites went under and yeah
+
+**[30:13] SPEAKER_00:** we're gonna keep seeing that um as long as the disconnect is there so you probably believe in in jeff's vision of you know housing all the finance on hyperliquid or i guess on chain in a transparent open manner versus kind of having these people only these very very elite people understanding behind closed doors what's actually happening yeah i think the
+
+**[30:44] SPEAKER_00:** thing that jeff and hyperliquid did really well is it made normal people like retail traders interested in learning more about how everything works before hyperliquid it would be very hard for and before it's not just hyperliquid it's like things like all the chain explorers it's like d5 llama it
+
+**[31:16] SPEAKER_00:** would have been very hard for for normal people to go look at things like oi and turnover and make a judgment on whether perpdex is wash trading or not but and back in the day like for centralized exchanges you couldn't do it because actually the like sbf was looking at the binance liquidations and we're making tweets about it and so binance actually nerfed their api quite a bit and to this day you can't really see the liquidations properly on
+
+**[31:46] SPEAKER_00:** binance so hyperliquid came in designed the system in a way that it was much better than what currently existed and got a lot of people passionate enough to ask why and i think you look at the perpdex kind of like competition right now with all of the perpdexes part of it is because the founders saw the money that could be made in perpdexes but
+
+**[32:16] SPEAKER_00:** the other half is the users themselves understand a lot of really complex topics very very intimately to a point where if a new perpdex comes out let's say it's fully on chain or it's got a couple different like things they understand it so going back to the 2008 financial crisis and why that happened and why i think it keeps happening there's a big knowledge gap between the insiders and the
+
+**[32:46] SPEAKER_00:** people who actually use the platforms or who you who work with the banks um that really doesn't exist in crypto twitter or at least with the dot hls and that's really the beauty of what hyperliquid has done um it's started off with all the trades and positions are on -chain uh for accountability and this was the original ethos coming out of the ftx um kind of blow -up but really it's
+
+**[33:16] SPEAKER_00:** evolved to a lot more than that so giving power to the people um was that kind of the NiE2 on their side? the motivation to create tread fi in the first place basically coming full circle here of you know empowering retail empowering everybody for me i like we're we're not an infrastructure company the same way hyperliquid is because hyperliquid has built almost like a full stack exchange
+
+**[33:48] SPEAKER_00:** that or i guess you can call it a house of finance because they have the evm doing a ton of other things so let me give like just a full stack financial system with the l1 at the bottom the way that i see tread fi is where hyperliquid stops especially the hyper core like the exchange side we continue we are building a full stack abstraction layer on top of the exchanges this really fundamentally comes
+
+**[34:17] SPEAKER_00:** down to limit order books and just exchanges in general um to put it into context a lot of you if not all of you who probably already forgot what it felt like when you first went on finance or hyperliquid and saw the ui um you don't know what a limit order is you don't know what a market order is you don't know how to do the quantities properly you don't know like if your position is opened correctly or not but through so much trial and failure
+
+**[34:48] SPEAKER_00:** um you become a natural clicking through this ui but for the mass public and even for a lot of people twitter they they're still unfamiliar with how these things work and that's really just a fundamental truth of what limit order books are in limiter books are probably the most efficient way to find the fair price among buyers and sellers as well as allow people to access and provide liquidity but as a
+
+**[35:18] SPEAKER_00:** product it's it's horrible ux it's horrible ui and what we're trying to do with treadfi is where the hyper liquid front end ends we continue it so that we can abstract away everything that has to do with limit order books and allow users to use it for use exchanges in limit order books for really what they're good for which is the liquidity and the trading side of things so with the bots you can see this
+
+**[35:48] SPEAKER_00:** quite easily you don't see a limit order book you don't see a market order limit order you don't even see a buy or sell actually you just see the pair you see a margin and then you click a button and then the trading engine for hours or or like minutes or hours it will go and trade for you so that you never have to worry about what is the limiter book looking like like when should i get fills and so we abstracted away a
+
+**[36:18] SPEAKER_00:** lot of what the ui does on the bots and then what we're doing now with the agentic trading stuff is to abstract it even further because the market maker bought delta neutral bot that stuff seems easy and natural for people who have who have been using perfect x's because it's an easier version of it but for people who have no idea about trading um it's still quite hard to use and so our thesis and my high conviction play is you
+
+**[36:48] SPEAKER_00:** abstract even in the form you abstract everything about trading you just get one agent that knows everything about tread fight and all of the trading engine um kind of like training strategies and it has access to all of the data feeds and you can just talk to it and it can go and execute stuff for you so it's a it's almost like a universal abstract ui for everything that exists in crypto trading wise so yeah i think it's moving that's the direction where
+
+**[37:19] SPEAKER_00:** um crypto trading is going i mean in the past two weeks i've hosted robonet codex sempa i hosted all the agentic you know platforms building on top of hyperliquid and they're all extremely bullish on this concept of ai executing the trades for you and it seems you're leaning towards that direction as well um yet to this day i don't think they're that great at trading so this has been my experience so far uh would love for you to expand on
+
+**[37:49] SPEAKER_00:** this topic and we'll see you in the next one yeah um i mean it's all it's a hard product to bring to market um but i think part of the reason why a lot of these ai trading products are not that great is they're kind of like fortune tellers um where you talk to it and it's very similar to as if you ask chat gpt like any sort of advice it'll give you something sometimes it'll give you something that you want to hear it'll
+
+**[38:20] SPEAKER_00:** grab all of the data sources to infer why that is true and that's what llms are really good at but when it comes down to trading it's statistically speaking it's a 50 50. um you'd have to give it a little bit of extra kind of like extra functionality you have to give it a little bit of an extra original thought in order for it to skew towards not being a 50 50. um so these ai trading agents or ai
+
+**[38:50] SPEAKER_00:** trading tools right now i think they're primitive um some of them are like monolithic like llms that have a bunch of pre -props built in and so they talk like a trader and maybe they can send some market orders and limit orders but at the end of the day um it's still a vanilla chat gpt model uh that's kind of larping what we're trying to do is actually instead of building these fortune tellers we want to build a uh
+
+**[39:26] SPEAKER_00:** the sum of what we're going to do in general uh you know i think that's why the here is that we're building this fortune teller so that we're able to do things differently and optimize things like we could do a lot of different types of trading um but we don't really know about the things i'm going to do and i'm really worried about better than they could ever do it ever do by themselves and so our agentic trading kind of i
+
+**[39:56] SPEAKER_00:** guess the whole harness of infrastructure is built on top of the rest of trend fight so all of the the mmbot the dm bot the vwops the participation radar goes the agentic layer knows all of that and so it's more of an execution focused play as opposed to um the kind of mainstream i guess trade idea generation play so yeah
+
+**[40:27] SPEAKER_00:** i think it in a lot of ways it is the right approach because you should just really outsource the things that lms could consistently be good at as opposed to trying to outsource um what the human could be better at and so we'll see how it goes but it is very early and i think the the downfall of ai really i'm building on ai right now is it's so easy to get started um that you're gonna see a lot of projects come out with an mcp or like a simple
+
+**[40:57] SPEAKER_00:** kind of like chat with a chart but it's also so early that going beyond that is going to be quite challenging because a lot of what we're building right now just doesn't exist and i'm not saying that in crypto or in trading lms it straight up doesn't exist in all of ai um so we have to kind of rely on our own intuition to figure out like how we're going to build things what we're going to build um so
+
+**[41:28] SPEAKER_00:** takes time but really the potential is infinite it is it is moving in the direction of eventually allowing everyone to be just as good as a hedge fund if they can bring some ideas to the table yeah that's a great excellent point at the end so i mean obviously exciting times with ai but what i understood here is don't try to use ai to be your fortune
+
+**[41:58] SPEAKER_00:** teller try to you know come up with your own strategy or concept and then ai will help you with the execution of that trading strategy is that kind of where you see it going right yeah and the way that we've done it is a bit different than everyone else because we have this trading platform already and so instead of having the ai run the trades the ai is very knowledgeable about all of the things
+
+**[42:28] SPEAKER_00:** that we built on the terminal or the algo execution side and so it's really just using and building on top of that and that's kind of our secret sauce that took three to four years for us to build it took us over 100 billion dollars of volume to battle test it to where it is today and so as far as the execution goes i think that's where we shine but it doesn't have to do with the ai part and then from a technical aspect it's also much
+
+**[42:58] SPEAKER_00:** better because we can do signal processing really quick because it's not ai it's like it's code we can do very complex strategies and we can do it all without having to rely on the llm so if you notice like some agents or some bots like they're turn -based like you have to call them every minute or every five minutes for to do something but our stuff because the ai is just really directing an automation layer
+
+**[43:28] SPEAKER_00:** below it if it wakes up every five minutes within the five minutes that it wasn't awake the algo engine is handling everything so yeah we'll we'll you know it's still once again it's still very early but i think once it comes together it will be very clear it'll be night and day kind of like it'll kind of seem like magic as to ai is continuously thinking and acting but that's what i that's the direction that
+
+**[43:58] SPEAKER_00:** we're headed we're still early in this space we can say that every day it feels um but i would love to for you to come back you know you said 100 billion dollars flowed through tread fight you must have some key learnings of what strategies you know are have you been most impressed with or you know just like sharing a couple of snippets of learnings from all that experience you gathered over the years from people
+
+**[44:29] SPEAKER_00:** using tread five um that's a tough one uh so most of our flow actually came from hedge funds and i don't i'm i the way that tread by is is uh the tread fight works for institutional guys is we give them our our infrastructure for them to run privately so that they have like just secure opsec as well as full privacy
+
+**[44:59] SPEAKER_00:** over their trades like hedge funds really don't like other people looking at their trades because their whole business model is having an alpha that isn't mined out and so i don't see the hedge fund trades but i do see a lot of retail trades and part of the reason why i don't trade is once again like i see everyone's trades i feel uncomfortable making trades with my own based on that information um but yeah i don't know like crypto
+
+**[45:30] SPEAKER_00:** is a weird place uh and it's like i've seen 100 billion dollars of flow or like 100 billion dollars has gone through chud by but on the trad fight side you know i've seen like trillions of dollars go through and the the kind of like the one thing that i learned that i think most people have a really hard time grasping is is this is more of a lesson from the trad fight side and i don't know if i've ever done that before but i've seen a lot of but it's especially true in crypto. It's trading is really
+
+**[46:00] SPEAKER_00:** hard. And what I mean by that is when I was in TradFi, when I was at Morgan Stanley, I would be regularly in meetings with the smartest people that I've ever met. And these are like the quant researchers that have like PhDs and they work at these really fancy hedge funds. And you would guess that people like those or people like them would have it figured out. But
+
+**[46:31] SPEAKER_00:** the reality is, if they are right, even 50 .1 % of the time, they are Jim Simons, a friend type. Everybody, it doesn't matter who you are. It's really hard to find an edge and consistently make it work and scale it up. When you win on a trade, chances are, I mean, if there was no like insider trading going on, chances are you got lucky. So
+
+**[47:01] SPEAKER_00:** yeah, it's the one thing I learned is trading is really hard. And it's not even just like the alpha side of things, but it's even the risk management. You make one mistake and your whole fund can get liquidated in crypto. It is. It is not a retail thing. It's an institutional thing as well. But once you see the trading, like, I guess like trading in that
+
+**[47:31] SPEAKER_00:** lens, you start thinking differently about the type of strategy you should employ. You start thinking about the different, I mean, you start thinking differently about your risk management. You stop looking for these like quick wins that are like really high leverage. You start thinking about like hedge trades and locking in wins and just get really paranoid that whatever you think is, is, is
+
+**[48:02] SPEAKER_00:** complete luck. So, yeah, nobody knows what's going on. Trading is really hard. The smartest guys can't even figure it out. It takes a lot of effort to find a niche. How do I get unlucky all the time, though? Because eventually, you know, you said it's 50%. I feel like traders looking at the metrics, they're winning 20, 30 % of the time. It's, it's way less than 50%. Yeah. A lot of that has
+
+**[48:32] SPEAKER_00:** to do with the kind of like the tail results for perps. Perps are actually a really bad instrument to trade long term because you get liquidated and there's no way for you to. Gain it back. And so part of the reason why a lot of people are at like 20, 30 % win rate is because they'll get liquidated. So statistically speaking, it's just as hard to be unlucky
+
+**[49:02] SPEAKER_00:** as it is to be lucky. It's, it's normally distributed. And so just make sure that you're careful with leverage. You don't get liquidated. You don't over trade because also part of why a lot of people just race down to zero is because you take a leverage. Trade, let's say you do a 10 X and you pay two bits on that. It's really 20 bits on your capital. And so every time you make a trade like that and it doesn't work out and you round
+
+**[49:32] SPEAKER_00:** trip, that's, that's, you know, two bits, both ways. That's four bits, 10 X leverage, that's 40 bits on your, on your, on your capital. And you better have more than 40 bits PNL to that, like back that up, but consistently getting more than 40. Bits of your PNL is, is really hard. So there's a lot of small things like that where I think for retail investors, oftentimes the best strategy and the
+
+**[50:02] SPEAKER_00:** most winning strategy is just buy and hold. But that's the kind of unfortunate reality about crypto is unlike equities and stocks, which tend to trend over time upwards. But I think the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, and the, the, the, the, the, the, the, the, the, the. The, the, the, the value that they create crypto spot has been down only. So it's just a tough market in general, but. Good to see you. I don't know, like knowing all of this, it doesn't really help you become more profitable.
+
+**[50:33] SPEAKER_00:** I think it just helps you become less, less profitable. If that makes sense. So you're saying I should be a DJ and, and roll the dice and maybe I get lucky. That's the strategy. Yeah. Yeah. loof and not knowing that it's all a coin flip perhaps can work out sometimes yeah you just want to make sure that you find the coins that are slightly weight weighted and then you just keep flipping those um but yeah it's
+
+**[51:03] SPEAKER_00:** if it from a quant angle everything's a 50 50 um but there are inefficiencies in the market there are kind of like oversized gains um relative to risk and they might not be able to support like 100 million dollars but they can definitely support like 100 000 or even like a million dollars sometimes so it does take a little bit of time to identify those but that's where i i'm hoping like
+
+**[51:33] SPEAKER_00:** our agentic stuff goes um it's much easier to have an agent that's trained to look for these opportunities uh help you find them and make you become a more efficient and kind of like well -versed trader so that's hopefully a reality in the near future but um we'll see yeah i would love to see that as well um we're speaking we're talking about trading right now long short but the tread
+
+**[52:04] SPEAKER_00:** pie offers some safer strategies and and i feel like you know market making perhaps can have its risk delta neutral to me is usually a good deal obviously you're not making 100x on the trade there and also i think one of the use cases i don't know if this was intentional and you've probably seen this is people trying to generate some volume or perhaps some sort of airdrop on you
+
+**[52:34] SPEAKER_00:** know whatever protocol they're doing this on yeah um so i guess first comment on delta neutral it is definitely a um it is definitely a way for people to get uh like low risk returns the edge exists because there is an inherent inefficiency um and especially in perp texas you have less institutional traders going
+
+**[53:05] SPEAKER_00:** and um kind of like they don't have the ability to arb this because of the regulatory aspect of whether they can trade or not on perp texas so sure um it doesn't really matter if the underlier goes up or down within some reasonable kind of range because of leverage but it doesn't really matter um and if you can find an edge you can consistently win on it but as you mentioned it isn't
+
+**[53:35] SPEAKER_00:** a hundred x strategy um you'd be lucky to get a hundred percent apy um but it is one that helps because of this the second point which is there's these points and i don't really know the history about airdrops or points but in a lot of ways a lot of these crypto projects who are trying to compete are offering these points and airdrops almost as a
+
+**[54:05] SPEAKER_00:** way for retail investors to be venture capitalists and invest their time and money into the success of a project so yeah if you have conviction not only on the trade but you have conviction on the venue um and so with like novel ideas like variational if you think rfq could be a big way or a big part of retail trading then do
+
+**[54:36] SPEAKER_00:** these trades aren't variational be like that vc who puts your who puts kind of like your time and effort into that project and you could get rewarded in the future so that's also a asymmetric trade as well um because it is a little bit of a self -fulfilling prophecy where you showing up can influence it to do better but as retail users you probably know better than anyone else whether a certain product a
+
+**[55:06] SPEAKER_00:** certain team is going to end up succeeding and so yeah it's an interesting mechanism for sure and if you bake that into your trading strategy it might be a long -term one but it is definitely an edge for retail traders yeah i mean we've seen it with hyper liquid and in your case i mean it's a double dip if you're using treadfi at the same time you're getting those points on top of it right not just from variational
+
+**[55:36] SPEAKER_00:** or whatever perp decks but also from from you guys yeah like i had to go on a little bit of like a deep think when the market making bot was just popping off as to what i did like what happened um and what i realized was we we made points and kind of like airdrop farming into a service or a product um because before
+
+**[56:06] SPEAKER_00:** market making bug came out there was just a lot of like wash trading bots out there um and they those come came with inherent risk because you are conducting something against your rules and illegal jurisdictions um and so you could end up putting a lot of money and effort into it and end up with nothing but with the market making bot the incentives are very transparent and aligned to a degree where most of the protexes we work with not only um like work with us to
+
+**[56:38] SPEAKER_00:** integrate the exchange but they promote trade fine because it does this one thing which is allow users to get involved in the productive way that helps with the purchase of new products and services for them to exchanges out in an area that they need a lot of help in especially in the early days with limited order book liquidity and so yeah it was it was very interesting and i think at the time and even to this day to a certain degree and i think it's coming back it's a very good product market fit um so
+
+**[57:10] SPEAKER_00:** yeah there's no denying it you know this is kind of what people are interested in and points exist and airdrops exist this is probably the most productive way for people to get direct exposure to these things so it's uh actually if you look at the history of airdrops like some of the biggest hyper liquid recipients are market makers um they were marketing firms they
+
+**[57:39] SPEAKER_00:** were hedge funds or prop funds that got involved really early i think all the market making bot on tread fight does is i like the word but it democratizes it so anyone can become like the hedge funds or the funds that got the biggest hyper liquid airdrops if they had the conviction the gap was really just the infrastructure and the tools yeah i love that word but um
+
+**[58:10] SPEAKER_00:** just the fact that you know like i said it allows even retail to run these complex strategies and perhaps like you said farm points um while providing a service i feel like especially nowadays for for hip4 there's a lot of there was some complaints about liquidity and you guys integrated as well prediction markets so um definitely a service that all these products need liquidity so it makes a lot of sense but
+
+**[58:41] SPEAKER_00:** can you talk to us a little more about tread i don't know what you're allowed to share i don't know what you're allowed to share i don't know what you're here about the the token and the points but whatever you feel comfortable sharing i feel like a lot of people are interested in that yeah um well yeah just like i think a lot of people are not aware but uh with any sort of kind of token project there is a labs entity and there's a foundation and the last entity is not the
+
+**[59:11] SPEAKER_00:** one issuing the token the foundation is and they are two separate entities and i'm not part of the foundation so unfortunately i'm not at liberty to speak about or even like discuss and i don't know um some of the details around it so i can't really talk about the token until the foundation has made an announcement um but as far as what's happened so far um the foundation has announced the token and
+
+**[59:42] SPEAKER_00:** i think in the next few weeks there'll be more information that will be disseminated about what the token is going to be about. But for us, I think for TradFi and kind of like the platform, we're gonna fully support the token. And I guess the only thing I can say is right now, we have had this word democratization really
+
+**[1:00:12] SPEAKER_00:** has been kind of one to many where we have the platform and we let people access to tools that will allow them to step up their trading game or like have access to tools that only institutions have. But with the token, we want to take it from democratization to decentralization where it's not just us providing these things. The token economy allows for us to
+
+**[1:00:42] SPEAKER_00:** have a many to many relationship there. So, yeah, very excited. We fully support the token and hopefully we can expect news from the foundation soon so that we can kind of build on it. All right. I feel like I teased out a little bit. So let me ask this hypothetical question. You know, if you were to hypothetically
+
+**[1:01:13] SPEAKER_00:** launch a token, would you say that the platforms, the platform's economy needs to support it, right? Like there needs to be enough revenue or enough value within the platform for it to have a token, hypothetically? Yeah, no, I can talk about other projects as well and their tokens, but I think my general thoughts on
+
+**[1:01:44] SPEAKER_00:** where things stand right now, as far as tokens go, is, there's very little, or there's too much ambiguity as to what the token does. And I'm not a huge believer in governance and we've seen that model fail multiple times in the past, even recently, but I think what Ethereum tried to do when it first came out as a utility token, that idea has a lot of different kind
+
+**[1:02:15] SPEAKER_00:** of like manifests or implementations. or different ways of implementing it that could be explored. I think we are very far from exhausting all of the original ideas that could be explored. So yeah, it's like, I think when the market was doing really well, we just got too complacent like as an industry and started just copy pasting what worked and never really questioned like why
+
+**[1:02:45] SPEAKER_00:** or whether things could be improved upon. And there are certain projects that try to do things differently. Some of them failed, some of them succeeded. Obviously Hyperliquid changed the entire game with the community -driven model. And I'm a strong believer in that. It helps, it truly helps decentralization, maybe not on the node level, but on an ownership and kind of like stewarding level. There's other ones like I saw flying Tulip
+
+**[1:03:15] SPEAKER_00:** like to this day, I don't really understand how it works. Like I understand how it works, but I don't know, like there's a lot of different like caveats on how it succeeds, but that was an interesting one. And recently there was like, you know, I think Venice AI, they've been popular recently, or they've been like kind of like talked about recently, due to their race. But
+
+**[1:03:46] SPEAKER_00:** despite all of that, I think they're really thinking differently about how, like what a token means and how it can interact with the system, kind of like broader ecosystem. So yeah, all I can really say at least is like, I don't know why, but I'm very stubborn when it comes down to doing things my way. And I think that everyone's kind of
+
+**[1:04:16] SPEAKER_00:** doing it wrong and I'm not afraid to challenge it. So I think more creativity can, or like people can benefit from more creativity in that aspect. I'm excited to see what you come up with. And yeah, Hyperliquid with 98%, 99 % buybacks. I think no one really expected that this cycle. Especially that they have the revenue to back it up. It's
+
+**[1:04:46] SPEAKER_00:** kind of a different experiment here. So hoping to see whatever you come up with or the foundation comes up with. Yeah, I think like, I have a hot take, but the, and Hyperliquid obviously pulled it off. Oh, we're here for hot takes. Please tell us. Yeah, but like, just put yourself in Jeff's shoes. You're doing 99 % buybacks. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. You cannot go down. You're stuck. It doesn't matter what
+
+**[1:05:16] SPEAKER_00:** happens. You're stuck. So all credits to Jeff. I mean, that was great, but that was a decision. I mean, I don't think that was a very ephemeral decision that was made. And then, and then, yeah. It didn't start at 99, by the way. It started lower and then they upped it. Oh, right. No, I think, yeah, it was like, we just need money to run the labs. But then they make so much money. I think it became 99, but you know, the amount of
+
+**[1:05:47] SPEAKER_00:** thought that would come out if they were to reduce it, I think they're stuck. So kudos to them, but it's not an active decision. I think there's other, other ones like, like, like pump. I have no idea what's going on with pump, but they've been buying back a ton of tokens and it's been down only. So yeah, I don't know. I think there's a time and place. They've been selling more. Than they've been buying. So yeah, emissions are higher potentially. I don't know. Like we
+
+**[1:06:17] SPEAKER_00:** really don't know. Right. Although we, we should, there was a controversial tweet. I retweeted like last week and people were kind of upset. And I've known, I don't really know that much about the project, like the collectors. I think it was a collector or something. Oh, crib cards. I love that project. I love the project. I'm not necessarily the token, but the, I like, you know, Pokemon and gotcha and all that, so. Oh yeah. Yeah. No, I actually just, I ran into like a full
+
+**[1:06:47] SPEAKER_00:** art magic carp, like the one from Paldea and I bought it. So I'm actually a huge Pokemon fan as well. Although I I've never been able to afford the cards, but the, yeah, the, the, there was a tweet, some guy like used Claude. So he got a lot of flack for that, but essentially like he did on chain analysis of, of how the funds are flowing and where the revenue is coming from for that project. And
+
+**[1:07:18] SPEAKER_00:** it could have been presented better, but almost as if it was like back in the day, there was like mythos and people were scared that mythos is gonna just like scrape through code bases and APIs and find vulnerabilities similar to that. Turns out, like, I think Fable is quite good at on -chain sleuthing and his conclusion was like, like, I don't know. I'm just, I'm trying to remember, but it was like 70 % of the revenue comes from 2 % or 1 % of the wallets. So he's like,
+
+**[1:07:49] SPEAKER_00:** what's going on? Is it wash trading? Like, do they have real users? You mentioned this, right? DeFi Llama allowing folks to see how much revenue people are generating or see the open interest. But these metrics now that they're transparent can be also gained. So I fully believe that there's some of that, especially for Pump. I can put them on the line because it makes no sense for them to make that
+
+**[1:08:19] SPEAKER_00:** much money and for that token to be down only. Yeah, yeah. Whoever's listening, just like, you know, ask Fable. Yeah. Run it, run it. Just run it. Yeah. We'll make for a great X post. We'll amplify you. Oh, it'll get, it'll get $100. It'll get hundreds of thousands of retweets. So yeah, we'll, yeah, we'll look into it. I mean, anyone can look into it. But stuff like that, I think it's
+
+**[1:08:49] SPEAKER_00:** never black and white. It's, there's a lot of variables in play. And I think as a founder, the hardest part about being a founder is with almost any other job, conventional job. There, when you're stuck, there are people that you can look up to. There
+
+**[1:09:19] SPEAKER_00:** are people that you can ask for advice. But as a founder, and the longer you are a founder, the problems you're solving are completely new. There are ways to cop out and just do what other people do or take the advice of an advisor who, like, you talk to once a month. But to really excel at the job, you have to solve problems that no one has ever solved in the context that only you
+
+**[1:09:49] SPEAKER_00:** understand. And so, yeah, it's never black and white. Kind of have to trust your intuition. And people say this a lot, like, failing is very important. And the reason why it is is you need to, like, for you to be better at your job as a founder, you need to have that intuition. You need to fail. So many times that you know, like, you can't explain it, but you know that this thing might work better than another. And you just
+
+**[1:10:20] SPEAKER_00:** have full conviction to go and execute it the way that you think works best. And you hope that your feelings become more honed. So yeah, it's a scary job. Yeah, I agree, man. We like to say everything is an experiment, even if it's a failed experiment, at least you learned something there. David, I feel like I could chat with you for hours, but I want to be mindful of your time here. So I kind of want to close out with
+
+**[1:10:50] SPEAKER_00:** this fun question of where the name TreadFi comes from. Yeah, it's actually quite simple. So we care a lot about slippage. And so the algos are a way for you to reduce slippage when you're trading and something that also helps you reduce slippage. On roads, it's tires. So the tread actually comes from tire treads. We're the tire treads of trading that
+
+**[1:11:20] SPEAKER_00:** help you reduce slippage. And our logo kind of looks like a tire too, and tire treads. So there's a fun little pun. But at this point, it's a brand and we've got distribution. So it's here to stay. Yeah, I think a lot of people thought it was like a play on words on trad. Five, but it's actually tire tire treads. So, you know, yeah, there's a lot of ways to look at it. But the the the
+
+**[1:11:51] SPEAKER_00:** lore is tire treads. Love it. Love it. Well, on that note, please give David a follow. Give TreadFi a follow. This space, as I mentioned in the beginning, is recorded. Will timestamp put it on YouTube. You still have time to get those points. For the Tread airdrop, which is coming from the foundation, perhaps there'll be some utility. It seems like David likes utility for these tokens and some creative mechanics on top of it.
+
+**[1:12:21] SPEAKER_00:** We'll see how that plays out. I'm excited to learn more about it. They're probably going to come out with some agentic trading or agentic execution of your trades, which I'm also curious to learn more about. So that's coming up soon. And yeah, I just really enjoy the chat, David. Thank you so much for. You know, taking the time. I hope we can have another one of these because I feel like I could ask so many more questions and just enjoy listening to you. Thanks. Yeah, we talked a lot about myself
+
+**[1:12:51] SPEAKER_00:** and Tread, but I could talk all day about everything else. And so I think current events and stuff like that pops up and Pokemon cards. Yeah, I don't know. I, I like a lot of things and I get really into it. So. I don't think I can say anything. But you got to stay curious. All right. Well, on that note, I appreciate everybody's time. A happy belated Canada Day for for those that celebrate that. And
+
+**[1:13:21] SPEAKER_00:** happy fourth of July tomorrow for those that celebrate the fourth of July and enjoy watching the World Cup as well. So thank you once again, David. Thanks to the audience for tuning in and have a lovely weekend, everybody. Thanks.

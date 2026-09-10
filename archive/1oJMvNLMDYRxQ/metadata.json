@@ -1,0 +1,84 @@
+{
+  "space_id": "1oJMvNLMDYRxQ",
+  "title": "MONETRIX ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-09-01T14:24:47Z",
+  "started_at": "2026-09-02T13:59:14Z",
+  "ended_at": "2026-09-02T14:59:45Z",
+  "scheduled_start": "2026-09-02T14:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 43,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Syc.hype",
+      "handle": "Sychype",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Monetrix",
+      "handle": "monetrix_xyz",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1oJMvNLMDYRxQ",
+  "summary_title": "Delta neutral yield on hype and stablecoins: Monetrix's transparent on-chain strategy",
+  "summary_description": "Monetrix builds yield-bearing stablecoins and hype tokens using funding rate arbitrage and portfolio margin on Hyperliquid.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 540,
+      "label": "Monetrix introduces USDM and MX hype yield products"
+    },
+    {
+      "timestamp_seconds": 631,
+      "label": "On-chain transparency solves off-chain yield protocol risks like Ultra and Neutral"
+    },
+    {
+      "timestamp_seconds": 751,
+      "label": "Delta neutral hedge mechanism: long spot hype, short perp with portfolio margin"
+    },
+    {
+      "timestamp_seconds": 1515,
+      "label": "MX hype launches with 18% APY first week, caps increased from 5k to 50k hype"
+    },
+    {
+      "timestamp_seconds": 1667,
+      "label": "MX hype clarified: hype deposited is collateral for strategy, not delta hedged itself"
+    },
+    {
+      "timestamp_seconds": 2061,
+      "label": "Points campaign and SBT for genesis depositors, future governance token planned"
+    },
+    {
+      "timestamp_seconds": 2974,
+      "label": "RWA strategy roadmap: delta neutral yield on stocks once spot assets and portfolio margin enabled"
+    },
+    {
+      "timestamp_seconds": 3156,
+      "label": "Stocks as collateral plus yield could be the execution unlock for Hyperliquid's next phase"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Monetrix",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3628.3093125,
+  "capture_failure_reason": null
+}

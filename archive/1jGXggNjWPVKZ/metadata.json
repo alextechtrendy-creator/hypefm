@@ -1,0 +1,84 @@
+{
+  "space_id": "1jGXggNjWPVKZ",
+  "title": "RYSK ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-07-28T17:59:09Z",
+  "started_at": "2026-07-29T17:00:10Z",
+  "ended_at": "2026-07-29T18:11:53Z",
+  "scheduled_start": "2026-07-29T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 66,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Dan Rysk",
+      "handle": "DanDeFiEd",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Em𝕊///Rekt101",
+      "handle": "scrtlovers",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1jGXggNjWPVKZ",
+  "summary_title": "Risk: selling covered calls on Hyperliquid to earn premium without options complexity",
+  "summary_description": "How Risk pivoted from a failed options AMM to a simple income strategy protocol now dominating Hyper-EVM.",
+  "topic_tags": [
+    "perps",
+    "vaults",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 358,
+      "label": "Risk pivoted from options AMM to income-focused strategies after struggling with traction"
+    },
+    {
+      "timestamp_seconds": 509,
+      "label": "Core insight: target people seeking income, not traders seeking options complexity"
+    },
+    {
+      "timestamp_seconds": 661,
+      "label": "Two user types: those willing to buy/sell at a price, and those betting against price movement"
+    },
+    {
+      "timestamp_seconds": 1055,
+      "label": "RFQ system: counterparties quote options in 2 seconds, users see best price instantly"
+    },
+    {
+      "timestamp_seconds": 1267,
+      "label": "Building on Hyper-EVM described as best business decision; launched only there for over a year"
+    },
+    {
+      "timestamp_seconds": 2602,
+      "label": "Two to four weeks optimal expiry for best risk-reward and price prediction accuracy"
+    },
+    {
+      "timestamp_seconds": 3327,
+      "label": "Points system launched after users requested leaderboards and activity measurement"
+    },
+    {
+      "timestamp_seconds": 3691,
+      "label": "Upcoming: automated vaults, bounded options, and more RWA assets on Risk"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Rysk",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4300.16,
+  "capture_failure_reason": null
+}
