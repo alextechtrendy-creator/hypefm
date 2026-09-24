@@ -1,0 +1,764 @@
+{
+  "space_id": "yt--Hgq2PlQjPI",
+  "language": "en",
+  "duration_seconds": 3807.0826875,
+  "chunks": [
+    {
+      "start": 6.41,
+      "end": 36.55,
+      "speaker": "SPEAKER_00",
+      "text": "What's going on, everybody? Super excited to be chatting with Tangle and Crouton of HL Names. How's it going this fine day, gentlemen? Fantastic. Thanks for having us on. Yeah, going great. Thank you. Yeah. The market's actually cooperating for once today, so that's exciting. Yeah. A little bit up, a little bit up. Let's see how far this can continue. Yeah, for sure. All right. So, I guess before we dive into HL Names, do you guys"
+    },
+    {
+      "start": 36.55,
+      "end": 66.61,
+      "speaker": "SPEAKER_00",
+      "text": "want to break down your stories, give us a little bit of your background and how you found Hyperliquid? Hypermeet is proud to be sponsored by Silhouette, the shielded layer on top of Hyperliquid. Not only will you be able to obfuscate your trades, but you will be trading with some of the steepest Hyperliquid fee discounts that are available. Awaken Tax, crypto taxes for crypto natives. Could not have submitted my taxes without the team at Awaken. Awesome customers. And they are always improving their Hyperliquid support. Get"
+    },
+    {
+      "start": 66.61,
+      "end": 96.93,
+      "speaker": "SPEAKER_00",
+      "text": "started with Awaken today. Shout out to Purposeful. Validator selection is in your hands, which means who you stake with actually matters. Purposeful is part of the Kinetic Active set. They're aligned with the ecosystem, supporting builders, and even donate to in real life initiatives. Stake with purpose, stake with Purposeful. Super excited to share that our newest sponsor is HL Names. Claim your .hl name today and start a staff. He's the first one to send us a link to the podcast. Also, if you've never been to our podcast, we've got a free podcast."
+    },
+    {
+      "start": 97.07,
+      "end": 128.37,
+      "speaker": "SPEAKER_00",
+      "text": "If you want an update on our podcast, you can get it at the link in the description below. Grab yours today using the link down in the thread below. Nothing discussed on Hypermeet is investment advice. Always do your research and make your own decisions. I'm not responsible for any actions you take. Myself and my guests may hold positions in the protocols we talk about. All right, buddies, let's get back to the show. Good. Yeah, sure. I've been in crypto forever. It feels like at this point. I think I was mining Dogecoin back in 2013 when"
+    },
+    {
+      "start": 128.37,
+      "end": 158.57,
+      "speaker": "SPEAKER_00",
+      "text": "it first came out and yeah, just really in love with this idea of what Bitcoin was and what it could do. And I mean, that was like, obviously the big thing back then couldn't mine it because it was no longer tenable to do it with a GPU. So I was always finding new ways to get into with that through Dogecoin and Litecoin and all this other stuff. But yeah, that was a real technical hurdle to figure all that out in order to get into the ecosystem. But I just really loved"
+    },
+    {
+      "start": 158.57,
+      "end": 189.07,
+      "speaker": "SPEAKER_00",
+      "text": "what was happening there and just kind of kept following along with it for quite a while. And obviously it was relatively early in comparison to afterwards. Started working at SushiSwap actually. That was kind of my first breakout part into crypto and we're working in it and I was leading community there for quite a while. But obviously there was some, went right through the drama and everything that took place with Sushi, which was, if everybody recalls how that was. Yeah."
+    },
+    {
+      "start": 189.19,
+      "end": 219.07,
+      "speaker": "SPEAKER_00",
+      "text": "And then moved on to layer zero and Stargate and then I've just been helping out other projects along the way and it's helped create Hyperliquid Names and here we are now. Badass. Yeah. What about you Kurtan? Yeah. I came across crypto in 2017. It was one of those things. It was one of those things where my friend was like, Hey, you got to check out this crypto thing. Look at all this money that I'm making. And he got me"
+    },
+    {
+      "start": 219.07,
+      "end": 249.15,
+      "speaker": "SPEAKER_00",
+      "text": "to buy the top. So that was pretty impressive by him. But I realized that despite my poor financial decision at the time, I had actually come across something that was very, very special and had the potential to change the world many ways. As I continued to learn about it. Yeah. And realize what I had actually invested in. Maybe lesson there is like learn about the thing first and then put your money in it. But we did it backwards and it"
+    },
+    {
+      "start": 249.15,
+      "end": 279.63,
+      "speaker": "SPEAKER_00",
+      "text": "worked out. I was studying finance at the time. And after I graduated, I realized that I didn't really want to work in a bank or at a fund or anything like that. None of it really interested me, but this crypto thing was very fascinating. So I did everything that I could to find a way to make that my career. So yeah, I actually, I, I'm at Tangle around that time at a Christmas party of all places. And he invited me to his secret"
+    },
+    {
+      "start": 279.63,
+      "end": 310.09,
+      "speaker": "SPEAKER_00",
+      "text": "crypto basement and that's kind of where it all started. Did a bunch of local community stuff here in Vancouver where I'm based. And that kind of helped me show to people that I actually knew what I was talking about. And I actually worked briefly at Layer Zero. alongside tangle and more recently i was the head of ecosystem at superform for about two and a half years along the way discovered hyperliquid"
+    },
+    {
+      "start": 310.09,
+      "end": 340.37,
+      "speaker": "SPEAKER_00",
+      "text": "and in fact the principles and the ethos kind of harkened back to the original ideals that got me into crypto in the first place and i think that's like i resonated with it so much and was just drawn to it and wanted to be building a lot of things within this space specifically because like one of the last like pure things remaining within crypto in my opinion and yeah so that's how we ended up deciding to build in hyperliquid and every chain needs"
+    },
+    {
+      "start": 340.37,
+      "end": 370.57,
+      "speaker": "SPEAKER_00",
+      "text": "a name service awesome awesome man you know tangles crypto basement like questions there sounds sus come to my basement maybe before we get into the basement i'll add that i kind of glazed over the hyperliquid side of things there and how we got involved but i found hyperliquid i guess like i first started trading i was trading a lot on like bitfinex and uh then went into"
+    },
+    {
+      "start": 370.57,
+      "end": 400.87,
+      "speaker": "SPEAKER_00",
+      "text": "bitmex and xeno was starting to do perps there and leverage and blowing up accounts and i was always like a little bit sus on the whole custodial side of things because i had been wrecked by so many sexes um just have four four centralized exchanges have rugged me so far so not too bad in considering uh so i really was looking for any kind of solution other than using centralized exchanges so like dydx came along and that seemed quite interesting to me at the time i obviously had its trade -offs and some concerns"
+    },
+    {
+      "start": 400.87,
+      "end": 431.13,
+      "speaker": "SPEAKER_00",
+      "text": "and issues but um when you know fdx was always a really great place to trade or you know have that good experience for users and when hyperliquid came along this is like the experience we're looking for we've got you know something that's super performing and we're looking for something that's super performant liquid and decentralized you know so i am in control of all my things so that was like a real win and then obviously like finding ways hey how do we get involved what can we do how can we be a part of this ecosystem and"
+    },
+    {
+      "start": 431.13,
+      "end": 461.23,
+      "speaker": "SPEAKER_00",
+      "text": "obviously yeah as a crouton i mentioned here like a name service is pretty crucial for identity and whatnot so yeah that's a little bit more on the hyperliquid side of things and then yeah that's the last piece to come so i'm gonna stop here and Yeah. The crypto basement that we have actually, we're really fortunate here in Vancouver. There's been a kind of a clubhouse, I guess, or a hacker space as we'll call it. It's been running for over 10 years and it's called Decentral or Decontrol. So DCTRL. And"
+    },
+    {
+      "start": 461.23,
+      "end": 491.25,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, it's been incredible to just as like a shelling point or a place for people to come and hang out. And we've had hosting meetups there as well. So, and presentations. So we were generally holding like Ethereum Vancouver every Thursday and have held several other events that are hyperliquid related. Even Solana has come down and done a couple of things. And some of the Bitcoin will host some things. And we even have this like really rad machine called the Pepsi machine. And it's an"
+    },
+    {
+      "start": 491.25,
+      "end": 521.41,
+      "speaker": "SPEAKER_00",
+      "text": "old converted Pepsi machine from like the seventies or eighties. And it's got a raspberry pie in the inside and it's all hooked up and wired in so that you can actually use crypto. We have it on a bunch of different networks, hyperliquid included, where you can send some funds to the Pepsi and the drink will be dispensed. So like a pretty cool real world experience where you can literally use crypto to get a, you know, real world asset. So I'm actually getting a Pepsi as we call"
+    },
+    {
+      "start": 521.41,
+      "end": 551.71,
+      "speaker": "SPEAKER_00",
+      "text": "it. Yeah, it's a pretty rad space and we've recently moved locations. So that's been a pretty cool undertaking and now have, you know, going to be expanding out quite a bit. So yeah, it's going to be a bit more, we've got 5 ,500 square feet, co -working and a big, huge event space will be taking place there. So a lot's going on, lots going on in Vancouver. Yeah, I think I saw pictures of your new place and I think it looks fantastic. So congrats on securing that. And that's"
+    },
+    {
+      "start": 551.71,
+      "end": 581.79,
+      "speaker": "SPEAKER_00",
+      "text": "great that you guys had that like network of people to like talk to and like build your knowledge with. Cause like when I started like crypto, like it was just me, man. So I wish there was something close to me. Like that, but I doubt it. The crypto basement isn't as creepy as I thought it was. So that's well, the basement, I mean, it was just a black door for a long time and went downstairs into a basement and it had like some teeth on the walls"
+    },
+    {
+      "start": 581.79,
+      "end": 611.81,
+      "speaker": "SPEAKER_00",
+      "text": "as it looked like it was like to be the mouth of the bear whale was kind of the way it was painted. So when people looked in it, they're like, am I in the right place here? What's going on? So it was a little bit sus. But of course it was a pretty cool place because we even had it set up to use a discord bot to open the door. We even had that wired in as well. So we got all kinds of hacky things going on and doing what we can to keep the dream of using crypto alive down there. Wow. Yeah. The discord"
+    },
+    {
+      "start": 611.81,
+      "end": 641.85,
+      "speaker": "SPEAKER_00",
+      "text": "bot. That's crazy. I've never heard of anything like that. And then Crouton I'm sure was regretting all of his life decisions walking into this black door with the teeth above it. Let's hop into, to HLM. HL names now. So for someone hearing about HL names for like the first time, what is a dot HL name? You know, like why should someone own one? Is it, is it more than like a username? Yeah. I mean, hyperliquid names is your identity and that was of all finance. So it's a digital asset that's deployed on hyper EVM chain and it"
+    },
+    {
+      "start": 641.85,
+      "end": 671.99,
+      "speaker": "SPEAKER_00",
+      "text": "resolves your long hexadecimal address to a human readable name. Applications that integrate with hyperliquid names can just interact with your name so they can pull data from it, like your dot HL. So your actual name that you have, your PFP can be pulled from it as well. Additional addresses that are added into it and any variety of other texts and string and data. So it's basically like your on -chain hyperliquid ID is kind of how we're looking at it. So yeah, people are probably familiar with ENS or some people may be"
+    },
+    {
+      "start": 671.99,
+      "end": 702.11,
+      "speaker": "SPEAKER_00",
+      "text": "as well. So, you know, very similar in that sense and yeah, just like a name service on top of hyperliquid. So you can have your name inside of the house of finance i guess for some backstory on me i used to be an ensd gen on ethereum yeah i used to just mint crazy names i even went as far as minting dollar sign names underscore name yeah dude that's how addicted ems names that was oh so in your docs and"
+    },
+    {
+      "start": 702.11,
+      "end": 732.39,
+      "speaker": "SPEAKER_00",
+      "text": "kind of like the socials you guys put out it seems like you guys are wanting to make hl names more social like what does social like mean to you guys what makes hl names social i guess being more social can mean like several different things i mean we've seen more and more people like particularly on the timeline like on x and twitter and we're being kind of referred to if you're a hyper liquid enthusiast as a dot hl and we've seen this all the way back from you know jeff starting to rep it in the early days"
+    },
+    {
+      "start": 732.39,
+      "end": 762.39,
+      "speaker": "SPEAKER_00",
+      "text": "we want to see more and more people running that uh just across the timeline so it's helping create the social aspect of hyper liquid right we are just spreading the good word and that's the easy way to do it right yeah and i mean we've got like a bunch of things in the pipeline here i kind of planned out with it to make like the dot hls like more relevant and uh you know kind of create some further integrations so people want to actually own a dot hl and i mean we've got a few new plans already people"
+    },
+    {
+      "start": 762.39,
+      "end": 792.39,
+      "speaker": "SPEAKER_00",
+      "text": "want like privacy because they're like well wait i don't want to just like rep my dot is now it's associated with like an address and if that's all connected to what you can see on chain some people just don't like that so we've got some kind of some privacy stuff that's kind of in the pipeline as well so that you can still be social with your dot hl and uh still kind of have your privacy so we've got uh some stuff coming on there some people will also look at your when they see like dot something they will always associate that kind of with um like"
+    },
+    {
+      "start": 792.39,
+      "end": 822.55,
+      "speaker": "SPEAKER_00",
+      "text": "a web domain and we've got some plans rolling out around that and some features they'll be coming out very soon so we're going to keep that in mind and we'll see you in the next episode we just want people to feel like dot hl is their identity and being able to use that in multiple places and being able to share that comfortably to continue pushing the good word of hyperliquid and i mean we just want we just want to spread hyperliquid everywhere and we think dot hl is a great way of doing it uh particularly when we're seeing"
+    },
+    {
+      "start": 822.55,
+      "end": 852.81,
+      "speaker": "SPEAKER_00",
+      "text": "other major players from other chains referring to us even if it is in a negative light it's going to It's like, wait, they're recognizing and they're like addressing that like Hyperliquid has its own community and it has its own people within it and they have their own identity and they're .hl's. So just continuing to spread that in a lot of different ways. And even on the more community and social side of the community, we want to help with supporting different events"
+    },
+    {
+      "start": 852.81,
+      "end": 883.09,
+      "speaker": "SPEAKER_00",
+      "text": "and different initiatives out there too. So we've supported a handful of events and meetups and things like this and plan to continue to do so as well because that's another great way of not only just spreading .hl's, but an extension of spreading further the good word of Hyperliquid. So anybody that's doing things like that, we're really looking to help out with that too. Yeah, you touched on integrations. I think last I checked, 43 different applications have"
+    },
+    {
+      "start": 883.09,
+      "end": 913.71,
+      "speaker": "SPEAKER_00",
+      "text": "integrated you guys. If there's a builder on Hyperliquid watching, listening to this, what's the process like and what value do you think incorporating .hl names does for their protocol? The process is really simple for integrating .hl names into an app. We have a simple REST API that you can use and any developers should have no time. We've seen teams spin it up in under 30 minutes. And."
+    },
+    {
+      "start": 913.95,
+      "end": 943.71,
+      "speaker": "SPEAKER_00",
+      "text": "For the most part, the simplest integration is that you're just doing a name lookup. So a user connects to your app with their address and then they'll ping our API and then our API will return them the .hl that the user is set as their primary name. And that's just, if I have multiple names in my wallet, which one do I want an app to read by default? And as a user, I"
+    },
+    {
+      "start": 943.71,
+      "end": 974.33,
+      "speaker": "SPEAKER_00",
+      "text": "can. I can select what that is and that's the primary name. So yeah, from the app side, it's just this simple integration of this REST API. And then what that manifests as with the first level of the integration is typically in the top corner, you'll see your address and instead user will see their username or their .hl name. This provides value to the app and the user in a few different ways. I mean. We like. At"
+    },
+    {
+      "start": 974.33,
+      "end": 1004.55,
+      "speaker": "SPEAKER_00",
+      "text": "the simplest form, just this concept of readability and personalization. So it's nice if I can just hop around the hyperliquid ecosystem and connect to an app and see, oh, look, I'm beef .hl in this app that I'm just connecting to. I don't have to see my, my zero X address. It adds that touch of personalization and that carries across different applications as well. One thing that we've been thinking about a little bit. On that note is"
+    },
+    {
+      "start": 1004.55,
+      "end": 1034.75,
+      "speaker": "SPEAKER_00",
+      "text": "there's some applications that have their own built -in usernames that are just specific to that app. In some cases, you might set your username on that app, but then maybe you don't have the same username on another app. There might be some fragmentation there. So this unifies that experience and it's essential that you have the same username across all applications by default. And you own an asset on chain that represents that identity. So for people who are passionate about"
+    },
+    {
+      "start": 1034.75,
+      "end": 1065.6,
+      "speaker": "SPEAKER_00",
+      "text": "that concept, it adds that value for the users of the app. Another deeper level of the integration is we have a builder program that also VR API allows apps to have. Dot HL minting built in directly. So they could push the users through a flow where they can mint a. Dot HL name without"
+    },
+    {
+      "start": 1065.6,
+      "end": 1095.68,
+      "speaker": "SPEAKER_00",
+      "text": "leaving that app that adds an additional revenue source for the app. We give a portion of the mint sale to any apps that integrate. So there's like this additional ability to, while you're like expanding in our eyes, the the number of people who hold dot HLs, which kind of like perpetuates that. That. Hyperliquid community and brand"
+    },
+    {
+      "start": 1095.68,
+      "end": 1126.04,
+      "speaker": "SPEAKER_00",
+      "text": "and kind of helps everybody else win as, as that dot HL identity grows, like you can kind of contribute to that. And at the same time, your app can like monetize off that as well. Yeah. I mean, as a user myself, it is kind of nice to see when you log in, you see your name and it feels like familiar and you instantly know you're connected. Like it's all good to go. I personally like that a lot. The builder program's pretty interesting too. I'm going to talk. Talk to, um, Demi"
+    },
+    {
+      "start": 1126.04,
+      "end": 1156.06,
+      "speaker": "SPEAKER_00",
+      "text": "and see if we can incorporate this, uh, with our new HL media website. So that's pretty cool. Cause yeah, I do think that the HL names are a super crucial piece of kind of really diving into this ecosystem. You guys have this awesome affiliate program. Do one of you guys want to break that down for how that works? Can you break it down for us? Yeah, for sure. So yeah. Do you have that builder program for builders? Yeah. And then we have the affiliate program for"
+    },
+    {
+      "start": 1156.06,
+      "end": 1186.24,
+      "speaker": "SPEAKER_00",
+      "text": "users. They're technically the same. The builder program kind of inherits the functionality of these affiliate codes, but the way it works is quite simple. If I own a dot HL, um, I can then use that dot HL as a affiliate or referral link. And now if another person comes and enters a dot HL or they can either follow my link, which is like slash. My name dot HL, or they can"
+    },
+    {
+      "start": 1186.24,
+      "end": 1216.46,
+      "speaker": "SPEAKER_00",
+      "text": "just enter that dot HL directly into the purchase page on our app or an app that has integrated, uh, the builder program. And then the person who is purchasing the name gets 10 % off, regardless of the code that they're using. And then the refer or the affiliate will receive a 20 % kickback. So that's total like"
+    },
+    {
+      "start": 1216.46,
+      "end": 1246.64,
+      "speaker": "SPEAKER_00",
+      "text": "30 % deducted from the mint price of the name. And so for example, if someone mints a $20 dot HL, then the, uh, person who is minting the name saves $2. And then the affiliate gets a $4 kickback. It's all for the most part, all sales are in hype. Uh, we did, uh, add USDH. Uh, a token you can use to buy names, which"
+    },
+    {
+      "start": 1246.64,
+      "end": 1277.02,
+      "speaker": "SPEAKER_00",
+      "text": "was like a week before the sunset, which was kind of funny. But so what this allows is a way to simultaneously like grow the hyperliquid ecosystem and that like concept of dot HL as the identity of the hyperliquid community. So if you're like a community leader or a KOL or anybody with any sort of following, or you just want to share it with your friends, you can. Grow hyperliquid in the same time. You can earn hype"
+    },
+    {
+      "start": 1277.02,
+      "end": 1307.66,
+      "speaker": "SPEAKER_00",
+      "text": "from doing so, so far since implementing it, we've had our users earn about, um, um, 37 hype from, uh, referrals. And that's just like getting started. I think that, uh, once people realize that they can, uh, have this additional way to grow their stack of hype while onboarding people to the ecosystem, um, I think that's like a pretty powerful tool for growing hyperliquid. And that's like what we're really committed"
+    },
+    {
+      "start": 1307.66,
+      "end": 1337.82,
+      "speaker": "SPEAKER_00",
+      "text": "to is just growing hyperliquid. Um, just one more thing I'll mention is that, uh, like I said, this is kind of connected to the builder program. So when you integrate HL name minting into your app, what you're doing is kind of building on top of that affiliate program. And if an app goes through the trouble of integrating in app minting, then we. Typically would increase that default 20 %"
+    },
+    {
+      "start": 1337.82,
+      "end": 1368.1,
+      "speaker": "SPEAKER_00",
+      "text": "kickback, uh, to a higher percentage. Uh, so, you know, you can earn say like 40, 50 % of all, um, Wow. And I think this really leans into the social side of things too, right? Where we're allowing people to, there's having a reason to be social with your name, right? So people now, if you're even just a KOL, who's just, Hey, really passionate about hyperliquid. You can go out and share your ref name, right?"
+    },
+    {
+      "start": 1368.16,
+      "end": 1398.14,
+      "speaker": "SPEAKER_00",
+      "text": "And you use just your hyperliquid name and it's that simple, right? So you could be using beef dot HL that gets, you know, somebody uses that to mint and, uh, you know, the kickback goes directly to you. And I think this is, we don't really see too many other name services doing this. I'm actually, you know, I, I have not really sure that anyone else is doing this, where it's allowing for, you know, this kind of allowing for sharing, uh, like almost a revenue share type concept. Right. Or there's a reason for them to, to be involved and to integrate"
+    },
+    {
+      "start": 1398.14,
+      "end": 1428.36,
+      "speaker": "SPEAKER_00",
+      "text": "with it as well. So it's trying to be more social, trying to grow the pie and trying to make it make sense for people as well. Here's a whole new re for you to do so, so that you can actually capture a bit of revenue for your protocol or just for your efforts in yourself too. Right. Yeah. Not seeing too many other places do this. And I think it's a great way to kind of add to the social layer as well. I think it really speaks to you guys, uh, you know, trying to grow, taking that, sharing that revenue. Uh, with the people that are helping you is fantastic. I know I'm"
+    },
+    {
+      "start": 1428.36,
+      "end": 1458.46,
+      "speaker": "SPEAKER_00",
+      "text": "going to be sharing my, my affiliate link. Make sure you guys check out the thread below for that. It's awesome to see you guys doing that. And that aligns with the hyperliquid ethos, right? I think it's like involving the people who are supporting you and taking care of them. Uh, make sure you guys check out that affiliate. And if you're a builder, incorporate the builder program right on your website. You guys have some, some new branding, you know, your PFP on X is different. Super clean, love it. Is this a"
+    },
+    {
+      "start": 1458.46,
+      "end": 1489.32,
+      "speaker": "SPEAKER_00",
+      "text": "refresh just for cosmetic reasons, or are you signaling something like a new phase for HL names? Uh, I guess you could say it's both. We definitely needed, uh, a refresh, especially of the logo. And we have some further brand refresh and the app redesign coming really soon. We've had that previous logo, which was like the little dude with the eyeball. That was kind of, you know, showing,"
+    },
+    {
+      "start": 1489.42,
+      "end": 1519.58,
+      "speaker": "SPEAKER_00",
+      "text": "uh, that it's, uh, to do with your identity. And it's like this, this, this little guy that, uh, is supposed to signify that we're making this like personalization layer. And this is, this is you on hyperliquid, but we really wanted to lean further into this, into like the dot HL specifically, especially when like tangle was saying earlier that you have. Uh, even people from other ecosystems, uh, even if they're not"
+    },
+    {
+      "start": 1519.58,
+      "end": 1549.6,
+      "speaker": "SPEAKER_00",
+      "text": "saying it in necessarily a positive way sometimes, but they're referring to the hyperliquid community is dot HLs. That what's the, the most pure visual representation of our brand. It literally just should be dot HL, right? Not some even fancy overdrawn representation of it. Just like a simplistic we have a little italicized there. And I. Really wanted it to look kind of similar to even just how a dot HL looks like on"
+    },
+    {
+      "start": 1549.6,
+      "end": 1579.6,
+      "speaker": "SPEAKER_00",
+      "text": "X. Cause that's kind of where it originated from. And when somebody sees our logo, they immediately think and identify with the concept of dot HL, uh, hyperliquid community members. So that was kind of big direction that we wanted to go in just like to simplify things and to have that like instant connection with this community that we were building and associated with. And also just, uh, wanting to, as we go into the"
+    },
+    {
+      "start": 1579.6,
+      "end": 1609.74,
+      "speaker": "SPEAKER_00",
+      "text": "rest of the rebrand, like this would kind of become more apparent, but just trying to more align with, I think what we think hyperliquid is, at least from this, like, you know, brand and identity side and, you know, hyperliquid is very cool. It's very sleek. It's sexy. It's not like trying too hard. And these are kind of some of the kind of things that we wanted to come across visually in our brand. And. Yeah. In terms of it signaling a new phase for us, yeah, you could say it's like a bit of maturing"
+    },
+    {
+      "start": 1609.74,
+      "end": 1639.98,
+      "speaker": "SPEAKER_00",
+      "text": "the brand and, I guess we can talk about this a little later, but we're going to the hyperliquid summit in New York later this month, which is going to be attended by a lot of institutional participants and we thought that, you know, having a brand that kind of was more like profession and was able to resonate with even like these participants and not just like the brand itself. The hyperliquid degens, um, was like a good direction to go as the brand matures"
+    },
+    {
+      "start": 1639.98,
+      "end": 1670.16,
+      "speaker": "SPEAKER_00",
+      "text": "and as hyperliquid itself matures and grow and becomes more attractive to like the, this like broader traditional financial audience. Those are just some of the ideas that we had when we wanted to like really, you know, go back to the basics and think what is the core of, of dot HL of HL names and how can we represent that visually? Fantastic. Since you brought it up, you guys are sponsoring. Yeah. The first. Yeah. Hyperliquid summit in New York city. It's fantastic seeing, all the other people"
+    },
+    {
+      "start": 1670.16,
+      "end": 1700.6,
+      "speaker": "SPEAKER_00",
+      "text": "who are sponsoring it too, like circle bitwise Hyperion. It really feels like our ecosystem's taking the next step forward. Why don't you tell us about it? Who's speaking, who got you excited to sponsor it? Why was it an easy decision for your team to do this? Well, I will say off the bat that I am, in addition to working on HL names, I'm one of the co -founders of. Of HL global, which is the entity that is organizing the, the hyperliquid summit. So"
+    },
+    {
+      "start": 1700.6,
+      "end": 1730.64,
+      "speaker": "SPEAKER_00",
+      "text": "from that perspective, it was like pretty easy for me personally, but I still had to convince my team of course, like, Hey, why should we like back this? If you just look at like the, the people that we've managed to attend and sponsor this event, like you said, you have, you have circle, you have bitwise, you have Hyperion there's hyperliquid strategy. Hyper dash flow desk and a lot of other like big players within. Hyperliquid that's kind of also attracted attendance from other VCs"
+    },
+    {
+      "start": 1730.64,
+      "end": 1761.06,
+      "speaker": "SPEAKER_00",
+      "text": "and institutions, even some that aren't necessarily involved in hyperliquid yet. It's important as hyperliquid trends in this direction of we talk about the ecosystem and the product maturing. Right. And I think this event is something that show that that's happening. And. And happening quickly alongside all the other news items that have been coming. You can see that the traditional"
+    },
+    {
+      "start": 1761.06,
+      "end": 1792.08,
+      "speaker": "SPEAKER_00",
+      "text": "financial world is super interested in hyperliquid ever since they found out they could trade oil futures on the weekend. Like for example and you have people saying it's gonna be bigger than the NASDAQ and all these things. So being in a, in a room with the people who are coming from this traditional financial world and like super excited about. Hyperliquid and what its potential is and being able to get in front of them, I think is like a, a no -brainer for,"
+    },
+    {
+      "start": 1792.24,
+      "end": 1822.14,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, for, for HL names as a team, but also just, you know, in our goal of growing hyperliquid generally, I think it was important for us to, to be there. Oh, if we can get it a couple of trad five folks to be rocking a dot HL afterwards. I think that's a big win, you know? Come on, David, Seamus, add it, add it to your name. David's a cool guy. I've interviewed him a couple"
+    },
+    {
+      "start": 1822.14,
+      "end": 1852.3,
+      "speaker": "SPEAKER_00",
+      "text": "times. He's super nice. A good guy. That's fantastic. I love HL global. I, I like what you guys are doing on that side too. I like the recorded interviews, the IRL ones that you guys do. You know, it hits different than like a normal podcast. It's different flavor. Just as good. So big fan of that. I love the effort again. Just signaling. Where you guys are coming from that point of view of growing hyperliquid guys. We're all trying to do this, right? It's a, we all have the passion. We see the vision,"
+    },
+    {
+      "start": 1852.46,
+      "end": 1882.34,
+      "speaker": "SPEAKER_00",
+      "text": "the aspects, the builder code. The list goes on and on pivoting back here. When I go to like the HL profile page, you know, I can see my own names collectibles, you know, which I have questions for that. And the ecosystem integrations is there like, cause you know, ENS kind of did a version. Of this. Like, do you guys see a long -term version where you guys make like a profile? That's kind of like a, I'm going to date myself like a MySpace or like"
+    },
+    {
+      "start": 1882.34,
+      "end": 1912.42,
+      "speaker": "SPEAKER_00",
+      "text": "a Facebook. How do you guys see that growing or evolving over time? This is your identity in the house of all finance, right? So we want to continue growing this out to be a variety of ways of keeping it social. And you know, that's we kind of alluded to a few of those things earlier, but yeah, absolutely. We want to have where you could have it as your identity that you can take around with you. Right. So it ends up, that's kind of why we like these social pages and what we"
+    },
+    {
+      "start": 1912.42,
+      "end": 1942.7,
+      "speaker": "SPEAKER_00",
+      "text": "see with like, even sign -ins too, right? Like, you know, you can, there's, there's, you're signing in with X sometimes into applications or discord or your Google account, right. With kind of that, you know, OAuth type situation. So yeah. Yeah. Being able to have your .hl to have further utility throughout all of throughout all of the, you know, blockchain ecosystem and particularly hyperliquid admit there's a, we really want to try and lean into that further. And again, Crouton really brought their talked"
+    },
+    {
+      "start": 1942.7,
+      "end": 1972.74,
+      "speaker": "SPEAKER_00",
+      "text": "about that earlier with you know, saying how you have different usernames on different applications and how can we help unify that too? Right. And so this is where that kind of this that's the, you know, you are able to come and have your identity. That is relevant to you and your account and you know, maybe even finding ways to tie this in together with your socials with like X as well. Like obviously that's our biggest our biggest place that we like to share all of our social side of things, whether it's been"
+    },
+    {
+      "start": 1972.74,
+      "end": 2002.76,
+      "speaker": "SPEAKER_00",
+      "text": "beneficial or not, but X is a big place for it. So being able to even tie that together with it as well. And maybe even like, you know, I've got some ideas around reputation too. So I think we've got some other things to focus on first, but you know, being able to put reputation. Into your identity as well, I think is something that is it hasn't really been dialed in perfectly yet. And I think there's something we can work towards there and just, you know, there's so many places that are building this stuff already and being able to kind of aggregate and put"
+    },
+    {
+      "start": 2002.76,
+      "end": 2032.78,
+      "speaker": "SPEAKER_00",
+      "text": "it all together. I think that could be a pretty cool way to do things too. So, you know, not only are you able to see your entire history of what you've done and chain but also like having a reputation that's associated. Associated with it. And that's something I think is kind of missing with a lot of social platforms. Like you just kind of have to know that that person has been around for X amount of time or whatnot. So you don't have you know, having some sort of badges or something that"
+    },
+    {
+      "start": 2032.78,
+      "end": 2062.78,
+      "speaker": "SPEAKER_00",
+      "text": "can be reputation showing that I think is is a pretty cool way to do it. And yeah, even with our milestone stuff too, like that's just showing, Hey, you were here at this time. Right. And almost kind of goes back to like, I really have. Passionate about PO apps. I've been a huge fan of those for years. And I feel like it's, you know, it's the, they've referred to it as like the bookmarks of your life and, you know, dropping these kinds of things are similar to that kind of concept. Right. With you know, your proof of participation. Right. And that's, I think the"
+    },
+    {
+      "start": 2062.78,
+      "end": 2093.08,
+      "speaker": "SPEAKER_00",
+      "text": "more that we can do it within that, within the ecosystem, I think it's pretty cool too. So yeah, we want to see this grow and continue it. Yeah. Continue trying to make this like your own account and your own. Thing that you're going to be able to take everywhere with you. And ideally the house of finance grows so big that yeah, this is the one place for you. Love it. Love it. You touched on it. So that was kind of what I was going to ask about next. You guys airdropped these milestone NFTs"
+    },
+    {
+      "start": 2093.08,
+      "end": 2123.68,
+      "speaker": "SPEAKER_00",
+      "text": "to kind of symbolize different like growth milestones. What was the idea behind these? Is it just like a PO app in your eyes or did a historical collectible the flow these things is going to shoot up after this, but will they eventually play a role with like your reputation or maybe some utility? No, there's lots of aspects you guys can do with this. Yeah. There's a bunch of things. We've got some ideas and you know, and again, like I say, I like these ideas of PO apps and things. Right. So that's just from my side of it. We"
+    },
+    {
+      "start": 2123.68,
+      "end": 2153.78,
+      "speaker": "SPEAKER_00",
+      "text": "want to keep track of stuff. We want to know who was early and be able to do these things too. We don't have any official plans as of right now with it, but we're keeping it in mind. That's for sure. Yeah. Ooh, sneaky. Not too deep in the details there. I like it. I like it. Cool. All right. So let's talk season three. People love to talk about it and I like hearing other people's viewpoints. Is it going to happen? Is it a net good or bad for hyperliquid? And then there's"
+    },
+    {
+      "start": 2153.78,
+      "end": 2183.92,
+      "speaker": "SPEAKER_00",
+      "text": "also the side, like, do you think that they're just going to purely do trading volume? We'll think of all the farmers that are going to just get rewarded. The real community members who have been grinding. We're going to talk about all aspects of hyperliquid. How do you equate those two things? How do you take care of the right people? I think that the team has shown that they really appreciate their users, the people who really use their product. I personally think that like HL names, utilizing hyper EVM protocols really, it kind of differentiates you"
+    },
+    {
+      "start": 2183.92,
+      "end": 2214.02,
+      "speaker": "SPEAKER_00",
+      "text": "from like your baseline farmer, because like, they're not going to do that stuff. Like the community building, like ecosystem type stuff. Those types of users are not generally doing it. I through loud at you there. Like, what are your thoughts on season three. And yeah, what do you think about HL names and NFT use or, you know, utilizing protocols being a key D differentiating factor for potential S3? Yeah, I've made the joke and"
+    },
+    {
+      "start": 2214.02,
+      "end": 2244.1,
+      "speaker": "SPEAKER_00",
+      "text": "crack here for a while that like season three airdrop will go to the burn address or to the assistant fund. But yeah ,ir I don't really know and I don't have any info. I wish I had some intel on further on season three. Yeah, I think like obviously with the initial airdrop that, you know, Hyperliquid did, they really nailed it as far as finding and applying to the right people and just dropping it with no cliff, no just here you go, here's tokens, do"
+    },
+    {
+      "start": 2244.1,
+      "end": 2274.1,
+      "speaker": "SPEAKER_00",
+      "text": "what you want with it. There's also some other aspects of it, like there is no VC fund overhead and all this other investor stuff. The team has been really good about how they handle things as well. It's kind of like put the token in a very unique place. And when we go to look at, okay, if you're going to reward again, where you, you know, where do you target, where you aim? It's going to be really crazy because, you know, you've got so many different aspects to focus on. Yeah, it's great"
+    },
+    {
+      "start": 2274.1,
+      "end": 2304.1,
+      "speaker": "SPEAKER_00",
+      "text": "to see Hyper -EVM activity. And then you got to be careful though, because like now there's been a handful of projects that are going on. Projects that have just wound down, they came, they came up and even things that were quite large, popular and, you know, have, you know, either sunset or have wound down or just no longer tenable. And so it's probably good that those, you know, that there wasn't an airdrop, you know, that happened, you know, a little while ago because, you know, a lot of these projects just weren't able to continue to sustain or be sustainable. And if we"
+    },
+    {
+      "start": 2304.1,
+      "end": 2334.28,
+      "speaker": "SPEAKER_00",
+      "text": "look at it like Hyperliquid, it didn't need to have some sort of VC funding to get it going. Like sure. It was bootstrapped. It was bootstrapped by Jeff and, you know, they had to, you know, some, they were able to make it work, but that's where, if you are a builder in this ecosystem, we want to be able to see you continue to push and be able to build without incentives and, you know, perhaps later that can be beneficial. And, you know, we didn't have just, I don't really know"
+    },
+    {
+      "start": 2334.28,
+      "end": 2364.4,
+      "speaker": "SPEAKER_00",
+      "text": "where you would airdrop all of this to people. You're going to have another hype airdrop. Like you've got so many places to look at, like, you want to try and grow out HIP three stuff. You want to grow at HIP four, you want to invent incentivize all that, but like, and then the hyper EVM side of it, like, yeah, now, okay. What happens to some of the protocols that have died off? Are you looking, is it just base activity for each user? Like, because you've interacted with X amount of contracts or whatnot and then do support protocols, right? Is that another thing?"
+    },
+    {
+      "start": 2364.5,
+      "end": 2394.44,
+      "speaker": "SPEAKER_00",
+      "text": "Like we, we look at what happened with some of these other projects in the past, like you look at Arbitrum optimism. For example, those were, you know, they try to support a variety of different things and saying, Hey, we'll give protocols tokens as well. It's just going to be, it's going to be really complicated, really complicated. And yeah, who do you support in all this? So I think that to me, it just looks like such a headache and I am glad that I am not having to be a part of here and having to think about the process of,"
+    },
+    {
+      "start": 2394.44,
+      "end": 2424.66,
+      "speaker": "SPEAKER_00",
+      "text": "you know, how you would allocate and do that properly because, you know, now with like the way that the. Token prices, you could have a massive, like dumping event, which could come along pretty quickly. So I don't really have, I don't know where this is all going to end up and who to support. Like, obviously I want to see, you know, the builders get supported as well. Like that would be amazing to help keep them incentivized and keep them alive. But yeah, ideally just the idea that"
+    },
+    {
+      "start": 2424.66,
+      "end": 2454.66,
+      "speaker": "SPEAKER_00",
+      "text": "you are able to support yourself throughout this ecosystem, which is just blossoming. And budding already, you know, that's, uh, what's where I think they'll, they'll maybe look at that too and just be like, okay, this is a product that is able to like pieces, you know, survive and isn't just going to dump as soon as you get it as well. Just so that you guys can have a payday. So a bit of a kind of twisted take on that. It's a tricky one when it comes to airdrops, because we haven't seen too many good things happen, uh, aside from, you know, hyperliquid being like this"
+    },
+    {
+      "start": 2454.66,
+      "end": 2484.74,
+      "speaker": "SPEAKER_00",
+      "text": "really special, uh, special, you know, TGE that just. Somehow kept going up, which was pretty wild to see super interesting. The different takes crouton. Did you have a different take you wanted to share or you're going to pass, keep it a secret. I mean, Tango got pretty deep into it. We can speculate, but we'll never actually know. You could also think that does it even make sense for hyperliquid to"
+    },
+    {
+      "start": 2484.74,
+      "end": 2515.16,
+      "speaker": "SPEAKER_00",
+      "text": "do another airdrop with all these different groups that you'd want to maybe incentivize. And a lot of tokens that would probably go to people who would just dump it as soon as they got it. Does that make sense? Or should you just like reserve all these tokens for staking rewards for the rest of time? Right. Maybe that makes more sense. I thought about it a lot and like, like what, what benefit is there to doing another big airdrop? Like at this time, it,"
+    },
+    {
+      "start": 2515.24,
+      "end": 2545.28,
+      "speaker": "SPEAKER_00",
+      "text": "when you have so many people expecting it and, uh, it's. It's a difficult, difficult thing to do in a way that actually benefits all holders. I think like all current holders, I mean, in terms of like the distribution and, and who it goes through, you were talking about farmers before I like to think about, uh, you know, when layer zero went on their like month long Sybil hunt, I thought that was like kind of fun and interesting, actually the way they went about it in such like a data driven way."
+    },
+    {
+      "start": 2545.38,
+      "end": 2575.48,
+      "speaker": "SPEAKER_00",
+      "text": "I think they worked with like Nansen, uh, on that. So. There's always ways. To identify your real users versus just your airdrop farmers for sure. So I don't think that like a huge issue and I'm sure like hyperliquid could figure that out easily and do a good job of rewarding people that they thought should deserve more tokens. But I just question if any time, if the near future, it makes sense for the team to give out more of these tokens"
+    },
+    {
+      "start": 2575.48,
+      "end": 2606.06,
+      "speaker": "SPEAKER_00",
+      "text": "to people. And what would the benefit actually be? Unless. There was a large user group or like a bunch of users who don't have hype tokens and could like the, the only thing that would be beneficial is if you could like increase the distribution. I think like if you compare hype to some other major tokens, the number of holders is actually quite low. So if you're trying to crease that number, then an airdrop makes sense. Um, but,"
+    },
+    {
+      "start": 2606.16,
+      "end": 2636.32,
+      "speaker": "SPEAKER_00",
+      "text": "uh, you know, I, I do see a lot of people, yeah, they're just, they're just. Farming it and they would, they would dump it as soon as they get it. And that kind of hurts existing holders. So it's definitely a tricky thing to balance. I don't know what the right answer is. I don't know the proper way to distribute it. And I don't know if it's even gonna happen. Obviously it would be nice for those of us who have been dedicated to the ecosystem and building and, and just, um, you know, obviously everybody is financially motivated, but you know, we are here because"
+    },
+    {
+      "start": 2636.32,
+      "end": 2666.4,
+      "speaker": "SPEAKER_00",
+      "text": "we are passionate about what. Hyperliquid is building, not just cause not just to make money. So obviously it's nice to be rewarded for having that idealism, but, uh, I definitely don't expect it. Well, this it's always interesting just hearing the different takes, um, none of us know, it's all speculation. It's just fun conversation. People like to talk about it. you know how it is. I had a couple other questions before I let you go."
+    },
+    {
+      "start": 2668.3,
+      "end": 2696.4,
+      "speaker": "SPEAKER_00",
+      "text": "So ENF. Like on Ethereum, it's kind of been a hot topic lately, and I feel like maybe we could talk about, oh, it's kind of fitting, uh, naming service they've had, you know, governance debates regarding like what they should do with their treasury and like the Dow proposals and like, who's going to control funds. Uh, it's been kind of messy and I've seen some pretty strong takes, uh, on the timeline from your guys' perspective as, you know, founders of another"
+    },
+    {
+      "start": 2696.4,
+      "end": 2726.56,
+      "speaker": "SPEAKER_00",
+      "text": "naming protocol. Like, are you guys watching? Are you guys watching all this unfold, you know, like, uh, what are you learning from this? What, what's your take, what's going on there? What are you learning? Yeah. I mean, ENF has been basically the pioneers in all of this, right. They've done so much great work. They've done so much within the Ethereum ecosystem. And I mean, they've been the inspiration for, for all of this for some of the other projects, you know, obviously they've got a massive war chest as"
+    },
+    {
+      "start": 2726.56,
+      "end": 2756.6,
+      "speaker": "SPEAKER_00",
+      "text": "well, which is pretty amazing. But they are subject to be, you know, to Dow, uh, Dow influence. And we haven't as much as I, I mean, I was super passionate about Dow's and still am, but we just haven't seen it really work properly. I mean, you get into these kind of messes like this, things can get really messy, really quick. And I can tell you firsthand from being at Sushi and just, you know, the things that we went through back in those days. And I mean, we were very active with, with Dow governance,"
+    },
+    {
+      "start": 2756.78,
+      "end": 2787.22,
+      "speaker": "SPEAKER_00",
+      "text": "right. And we wanted to believe that that could work. You know, you end up with voter fatigue is a main thing and we see like the delegation side of stuff, you know, you know, on the NS, like being kind of redistributed, you know, not being distributed enough and not enough people showing up to vote. And, you know, then you just have like a smaller handful of people who can kind of have, um, effectively influence or control. Now, a lot of this stuff too, was also set up at the time of like a very unfavorable regulatory landscape."
+    },
+    {
+      "start": 2787.88,
+      "end": 2817.4,
+      "speaker": "SPEAKER_00",
+      "text": "And so a lot of these. Dows got created in order to be like, Hey, we are, this is the way to do it so that we can be safe. We don't have to like worry about going to jail. We don't have to worry about, you know, um, you know, being out of compliance and then having even just the protocol shut down. Right. Like that's, uh, you know, those were things that people were aiming for. So again, now we're trying to, as we move into kind of a little more favorable environment, this is maybe where there could be some different shifts or things could have been done differently"
+    },
+    {
+      "start": 2817.4,
+      "end": 2848.26,
+      "speaker": "SPEAKER_00",
+      "text": "if they were launched now. Yeah. So many things compared to, you know, what they had to go through before in the previous administration. They're kind of the pre I shouldn't say administration, but just like the previous regulation that was in place here. So you know, obviously there's a lot of really good work that's happening as far as making digital asset and growing the digital assets sector. So. On the, on the Dow side of things, I'm not surprised. I'll just put it that way that, you know, there's the drama that is happening because we've seen this time and time again, oftentimes. It's."
+    },
+    {
+      "start": 2848.26,
+      "end": 2878.32,
+      "speaker": "SPEAKER_00",
+      "text": "it's almost like you kind of need to have some benevolent dictators because that's literally what ends up happening. Anyhow, you end up with dictators that come through buying tokens and having influence. And you also need to be careful of some of these people that will come in and put up proposals and then be psyopsing some stuff too. That is also something I'm not suggesting that's happening at ENS right now. You need to be careful about who has a voice and whose voices needs to be heard. And especially when you have people"
+    },
+    {
+      "start": 2878.32,
+      "end": 2908.66,
+      "speaker": "SPEAKER_00",
+      "text": "who have been a part of these projects forever and have been in the ecosystem and kind of perhaps feel what's best or know what's best for the project. Those things need to be taken into consideration too. So with the ENS side of things, I don't particularly have a side right now. I do want to just watch it unfold and see what happens. It's definitely getting messy. Yeah. DAO stuff is just like, it's super messy. It's super messy. So hopefully"
+    },
+    {
+      "start": 2908.66,
+      "end": 2938.78,
+      "speaker": "SPEAKER_00",
+      "text": "maybe what can happen out of this is we'll see like, hey, this is a better way to reform things. And you get some proposals that come up. And this is what I kind of liked about proposals or kind of the DAO governance side of things was you see one extreme from one area, then another extreme. And then so enough proposals come along and eventually you get to something that's refined and something that says, hey, this is a better path forward for everyone. And that's the end goal. Or that's what I like to see out of these things, whether that happens or not. And in this ENS side of it, I don't, I'm not sure if it will. This is where you have"
+    },
+    {
+      "start": 2938.78,
+      "end": 2968.8,
+      "speaker": "SPEAKER_00",
+      "text": "that ability to like come up with better ideas and get more people and more eyeballs on it to say, hey, what is a better path forward for us to be sustainable and secure and do what we can to grow the ecosystem further with, in a decentralized way too. And at the end of the day, the contracts are all still going to be there. And there's probably a way for, or I'll be on chain and they're ideally being, you know, continue to be decentralized. And like unstoppable, that's what we really want. And then as far as"
+    },
+    {
+      "start": 2968.8,
+      "end": 2999.85,
+      "speaker": "SPEAKER_00",
+      "text": "the funding side of things go, like who's in control of the treasury and whatnot, like we see, and it sounds like people are looking at it, like Nick's going to take control of the treasury. Well, I don't think that's really the case and how it's going to work is just, we need to have people, more people voting and delegating and growing things. Respect to ENS. That was my first big airdrop that I ever got, which was fantastic at the time I was, you know, talking about it. Totally surprised and ecstatic. But, you"
+    },
+    {
+      "start": 2999.85,
+      "end": 3034.39,
+      "speaker": "SPEAKER_00",
+      "text": "know, I don't know with DAOs, it's keeping some sort of incentive. You almost need for somebody to stay engaged, like a normal user to stay engaged in voting. Now with the ability of incorporating revenue flow into the token seems like the hot new thing. If that were the case, I think people may be more engaged in what they currently are, because then, well, they would be thinking about, you know, what's going to happen next. Yeah. I"
+    },
+    {
+      "start": 3034.39,
+      "end": 3064.61,
+      "speaker": "SPEAKER_00",
+      "text": "mean, it's going to be interesting now that we can do a few different things, how all this ends up shaking out, but it is exciting to watch. It is exciting. It is exciting. And like, yeah, maybe there is, like I say, some of this can actually come into a better form where we finally say, you know what, we can do things now that we couldn't do before. And let's unlock this in a new way. Right. And that's, that would be. The beautiful goal that we see. And, you know, I just really want to like lay out there too, that like ENS is, and I mentioned this earlier, but like ENS"
+    },
+    {
+      "start": 3064.61,
+      "end": 3094.83,
+      "speaker": "SPEAKER_00",
+      "text": "has done a lot of great work and it's not just like about, Hey, we made this protocol and we've, you know, have, we have all this treasury. It's like the integrations that they've done too. And other things that they've done with, you know, within kind of the tech stack of Ethereum. And that's like, you know, you look at all the integrations that they've done with wallets and like, you know, it's really amazing when you can just log in. To your, you know, log into an application and you see your, you know, dot ETH up in the corner, right. When you see your dot ETH in the corner, it's like, Hey, that just works. You don't have to,"
+    },
+    {
+      "start": 3094.83,
+      "end": 3124.97,
+      "speaker": "SPEAKER_00",
+      "text": "you know, you don't have to expect like an application to integrate that. It's just, you know, the wallet, you know, on the wallet level that has been done and that integration has taken place. So like, there's a lot of that kind of work too. That's another big effort that I'm looking to push on as well. Like how do we just get direct integration with wallets? So people and users don't have to think about it. And it's not even like we have to do it directly with applications. How do we go further where we say, how can we get this to just instantly show up so that your, you know, your dot HL can actually"
+    },
+    {
+      "start": 3124.97,
+      "end": 3155.37,
+      "speaker": "SPEAKER_00",
+      "text": "go and work with this integration, but with this wallet you know, right out of the box. So it doesn't even have to be at an application level because that's a pretty tricky thing to, you know, continue to, you know, integrate with and if apps do it, that's awesome. And we've tried to make it as easy as possible. But like I say, just the fact that, you know, all of that ground work has been laid by ENS. Like huge shout out to them for that. And you know, definitely want to continue kind of standing on the shoulders of giants in a lot of ways. Ideally,"
+    },
+    {
+      "start": 3155.43,
+      "end": 3185.49,
+      "speaker": "SPEAKER_00",
+      "text": "we want to continue to work with, you know, continue to work with them too, throughout the whole ecosystem and see if there's ways that we can do stuff with them too. So regardless of all the drama and everything, there's some good stuff that can still come out of that. It's going to be fine, but yeah, there's a lot of, a lot of groundwork laid by them. So. Shout out. We'll see how it all shakes out. I think it'll work out. You know, it's not going to go away. We'll kind of reining it back in here. Final couple questions here."
+    },
+    {
+      "start": 3185.55,
+      "end": 3216.55,
+      "speaker": "SPEAKER_00",
+      "text": "What can we look forward to in the future from HL Names? We have a lot of things in the pipeline that we've kind of alluded to the course of the episode here. We want to always have in mind this goal of growing hyperliquid, right? Like that's kind of what drives us and what should inform our decisions and, and also making it as, as,"
+    },
+    {
+      "start": 3216.79,
+      "end": 3246.87,
+      "speaker": "SPEAKER_00",
+      "text": "you know, valuable and useful as it can be to, to hold a dot HL, like, why would I want to have one of these? So expanding the functionality through, like some of these things we've talked about through, like the social aspect or privacy, Right. Yeah. making it more uh interesting for applications to integrate as well i think maybe something we didn't quite talk about was you know within a name's"
+    },
+    {
+      "start": 3246.87,
+      "end": 3276.87,
+      "speaker": "SPEAKER_00",
+      "text": "text records you can kind of store any arbitrary data one example would be just like an image you can use like a profile picture so an app could just pull the pfp from from a user's name using our api and then that can be something they can display an app or if we go with more like social connectivity like applications can build on top of that functionality as well so both from the user and app perspective"
+    },
+    {
+      "start": 3276.87,
+      "end": 3307.03,
+      "speaker": "SPEAKER_00",
+      "text": "you know making it more interesting to hold these names i think is something that we'll want to be working towards making it easier to get into hyperliquid and easier to just get a name generally this is actually something that we're um a prototype that will be used at the events that we're going to coming up here for somebody who's not even on board to hyperliquid yet how"
+    },
+    {
+      "start": 3307.03,
+      "end": 3337.25,
+      "speaker": "SPEAKER_00",
+      "text": "can you get them a name as quickly as possible just so they can be you know part of the ecosystem i don't have a wallet i don't have any hype they only have a mobile phone on me right now how can you run into somebody on the street and get them to on board to hyperliquid as quickly as possible via hl names something else that we're thinking about yeah we have this rebrand that we're going to continue pushing towards um making the application it's like our app more"
+    },
+    {
+      "start": 3337.25,
+      "end": 3367.49,
+      "speaker": "SPEAKER_00",
+      "text": "intuitive and user -friendly i think it's something that we want to do as well maybe tangle you want to keep going on that like there's a bunch of things that we have in the pipeline it's just about the question of like prioritization and you know how we decide what we want to build first yeah uh and i think that's you know you've touched on a lot of it already and we do have so many ideas going on in our heads here and some of our team calls are you know they go on for longer than they need to but yeah we just it's"
+    },
+    {
+      "start": 3367.49,
+      "end": 3397.59,
+      "speaker": "SPEAKER_00",
+      "text": "literally a matter of prioritization and seeing like what does the industry need and what does the ecosystem need but uh yeah onboarding is like such a cool way one of the first things that happen like after you come into this world for example when you're born you get a name right people say hey this is where this new child is going to be and so we kind of want to go on that aspect too where hey as soon as you come in and do hyper liquid let's get you a name right and so that can be your identity across uh across everything onboarding being an awesome being an"
+    },
+    {
+      "start": 3397.59,
+      "end": 3427.93,
+      "speaker": "SPEAKER_00",
+      "text": "easy thing and you know like we say we're going to be heading into a room of like tradify people who may not even have a wallet yet right they might still be trading on centralized exchanges or you know literally not even a centralized exchange they might be on you know buying etfs or dats and that's like as far as it goes so when they say no i don't have a wallet i don't have this or that like okay let's let's get you in let's figure this out people associate dot something with like domain names and and websites and"
+    },
+    {
+      "start": 3427.93,
+      "end": 3458.27,
+      "speaker": "SPEAKER_00",
+      "text": "whatnot so would like to be able to try and bake that together so that people can say what one simple thing that like you know even tradify people would think about is like when i see a period behind something i'm associating that with like an on with an internet or domain name or something like that and i'm like oh my god i'm how does that work how can we actually make that happen so that's like a quick you know a relatively easy win that i think we're we're looking to aim into and you know as far as like integrations go like i really want to hammer home on this like whole builder program and like and ref link affiliate link style stuff because"
+    },
+    {
+      "start": 3458.27,
+      "end": 3488.73,
+      "speaker": "SPEAKER_00",
+      "text": "this is just like an easy win for anybody that just hey i'm thinking about getting a name even if you're going to mint a name yourself like you should be using a ref link because you're going to get a discount you're going to get uh you know some basically cash back effectively or hype it back at your to yourself so this is just the simplest way to lean into this working with other projects they can integrate to um you know we if anybody that's listening to this is you're building a project whether you're brand new or you've been here since day zero of"
+    },
+    {
+      "start": 3488.73,
+      "end": 3519.57,
+      "speaker": "SPEAKER_00",
+      "text": "uh of hyperliquid like reach out to us we want to have you integrated so easy to do it our devs have done an amazing job with you know this rest api it's a simple call we've got this builder program that you can just bake into it and it's like you know you're going to get a name and you're going to like set it and forget it that user flow where people aren't leaving your website they can stay within it and then mint it you benefit from it they benefit from it like it's just a no -brainer to me we do need to hit the ground running harder on this i think you know sharing the good word of it so i hope that this definitely helps with some people integrating"
+    },
+    {
+      "start": 3519.57,
+      "end": 3549.65,
+      "speaker": "SPEAKER_00",
+      "text": "all of that so we're continuing to push this out we'll aim to have some more social side of things for you know some more forward -facing docs so that people can understand that hey this is literally all the things that we do ultimately we really just want to push out this builder and affiliate link stuff further and further so that it helps grow the pie for hyperliquid and helps grow the pie for for protocols and kols builders everything's i expect to see us at uh you know multiple"
+    },
+    {
+      "start": 3549.65,
+      "end": 3580.13,
+      "speaker": "SPEAKER_00",
+      "text": "events and you know i'll actually be doing the radio show at in new york so i'll be just popped off in the corner there if you're there please say hi to me and uh you know hoping to talk with you in the future and i'll be happy to talk to some other cool people there too so yeah i hope that's enough uh for now on uh on integrations but we don't have we don't we don't plan to stop we got more of people are have idea want to integrate just reach out to us on x that's the simplest way our dms are open uh you know hl names is uh you"
+    },
+    {
+      "start": 3580.13,
+      "end": 3610.13,
+      "speaker": "SPEAKER_00",
+      "text": "know on our x side of things reach out to us and you know or dm any of us we're on telegram all the time and in groups and whatnot so reach out and we're happy to put a group together and just get you guys integrated i'm really excited for everything you guys got cooking they're very excited to watch your recorded sessions because they are recorded right and for the hl global event these people that you're having i think it's invite only and you guys are recording it so how soon after the event can we expect"
+    },
+    {
+      "start": 3610.13,
+      "end": 3640.19,
+      "speaker": "SPEAKER_00",
+      "text": "to see the videos yeah i don't know how soon those will be afterwards i mean ideally the next day would be great but uh last uh you know during denver we were able to like do events and we were able to do a lot of things and we were able to do a lot of things and we captured you know the the online recordings or whatever we were able to just like capture them and put out clips relatively quick so there should be some clips out like either you know next day or even potentially same day uh which would be uh the real goal there but uh you know full length uh there may be some you know edits or whatever but"
+    },
+    {
+      "start": 3640.19,
+      "end": 3670.25,
+      "speaker": "SPEAKER_00",
+      "text": "ideally like asap would be would be great so yeah hopefully fantastic after a week or so hopefully yeah there we go setting the goal that always helps same thing with me and my my editing on a personal note i do want to thank you guys hl names for becoming my newest sponsor so as you guys may have noticed check up there in the marquee and then they'll be down in the thread below a bunch of information will actually be in the thread below so make sure you guys"
+    },
+    {
+      "start": 3670.25,
+      "end": 3700.31,
+      "speaker": "SPEAKER_00",
+      "text": "check that out uh before i let you go final question when you guys go out to eat what is your favorite cut of meat i gotta go with the ribeye i mean that's pretty standard i feel but like the marbling in that is uh always a win and actually i remember when the first time i was in new york i went to a pretty nice steakhouse with a buddy and i was like oh i gotta get a new york cut just because you know i'm in new york it was more of a meme for that and he got the ribeye and i'm like i should have done that too and that"
+    },
+    {
+      "start": 3700.31,
+      "end": 3730.31,
+      "speaker": "SPEAKER_00",
+      "text": "was yeah big mistake on my part because uh that i mean mine was great but god damn his was uh on fire so i've always been a ribeye guy i was also gonna say ribeye and i don't know i would be curious beef how many people on your show say ribeye or what the i'd like to see like a chart of the answers of to this question i'm very curious actually uh i was gonna change my answer just because tango already said it but like the best steaks i've ever had have been ribeyes so i can't i"
+    },
+    {
+      "start": 3730.31,
+      "end": 3760.37,
+      "speaker": "SPEAKER_00",
+      "text": "don't think i can mention anything else yeah there's just something about that marbling right just makes it so much more flavorful uh i think like off the top of my head i'd say the majority of people have said ribeye so i think we're all on the same page there how do you guys like it cooked please don't tell me like well oh no no god no yeah there's only one answer there's only one answer it's medium rare um sometimes rare if you're at the right place all right yeah that's true that's true"
+    },
+    {
+      "start": 3760.37,
+      "end": 3790.51,
+      "speaker": "SPEAKER_00",
+      "text": "yeah it's a good point because sometimes medium rare ends up being medium and then you're like well wait a sec they should have been rare because you guys don't know what you're doing but then at that point maybe you're like wait a sec is this even steak to begin with but yeah love it love it critiquing mistakes you're my kind of people so that's great all right thank you so much tangle and crouton for spending time with me make sure you guys follow them make sure you follow elta hl names make sure you follow hl"
+    },
+    {
+      "start": 3790.51,
+      "end": 3805.87,
+      "speaker": "SPEAKER_00",
+      "text": "global for everything all of them have cooking and this has been a fantastic time thank you guys again so much hyper liquid hyper liquid hyper liquid thanks beef appreciate it had a lot of fun"
+    }
+  ],
+  "speaker_map": {}
+}

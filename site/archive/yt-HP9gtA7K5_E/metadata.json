@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-HP9gtA7K5_E",
+  "title": "HyperMeat YouTube HP9gtA7K5_E",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-07-21T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33F",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "George",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=HP9gtA7K5_E",
+  "summary_title": "From Solana KOL to Hyperliquid conviction: inflation, alignment, and why hype wins",
+  "summary_description": "George explains why he holds Hyperliquid over Solana, the deflation thesis, and what would break his conviction.",
+  "topic_tags": [
+    "perps",
+    "tokenomics",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 28,
+      "label": "Host introduces George as active Hyperliquid ecosystem voice"
+    },
+    {
+      "timestamp_seconds": 119,
+      "label": "George's crypto origin story: paper trading, lost it all, 401k YOLO"
+    },
+    {
+      "timestamp_seconds": 270,
+      "label": "Burned out by 2024 euphoria, took a year off crypto, came back healthier"
+    },
+    {
+      "timestamp_seconds": 420,
+      "label": "First encountered Hyperliquid via Frog, parked six figures in HLP vault, 20-30% returns"
+    },
+    {
+      "timestamp_seconds": 1784,
+      "label": "Price down, people bitter, realized Hyperliquid was only thing worth allocating to outside Bitcoin"
+    },
+    {
+      "timestamp_seconds": 2057,
+      "label": "Hyperliquid as wealth redistribution machine, rewarding early users like Facebook never did"
+    },
+    {
+      "timestamp_seconds": 2542,
+      "label": "Why own hype over sol: solved inflation problem, token accrues all value, no VC debt"
+    },
+    {
+      "timestamp_seconds": 3479,
+      "label": "For those who think they missed it: winners average winners in bull markets, buybacks compound"
+    }
+  ],
+  "pull_quote": "Hyperliquid is the very best example of wealth redistribution from early users to a business, rewarding those most critical users at most critical time of growth.",
+  "quote_attribution": {
+    "name": "George",
+    "team": null,
+    "role": "guest"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4409.3013125,
+  "capture_failure_reason": null
+}

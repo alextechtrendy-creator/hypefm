@@ -1,0 +1,578 @@
+{
+  "space_id": "yt-JF5-eg8wr2M",
+  "language": "en",
+  "duration_seconds": 2878.336,
+  "chunks": [
+    {
+      "start": 28.86,
+      "end": 59.06,
+      "speaker": "SPEAKER_00",
+      "text": "what's going on everybody super excited to be chatting with hansu jong ceo of hyperion defy what's up hansu how's it going what's good beef i'm well how are you guys i am doing fantastic i've got my liquid caffeine flowing through my veins i am pumped to have this conversation with you cool so before we kind of get into hyperion and all the details and stuff like that tell us about yourself like what were you doing before this how did you first come across hyperliquid i started my career in m &a at ey parthenon so i was leading the digital transformation"
+    },
+    {
+      "start": 59.06,
+      "end": 89.62,
+      "speaker": "SPEAKER_00",
+      "text": "and finance work streams for the united technologies deal back when carrier and otis were splitting off from the company and utc was merging into raytheon following that deal so while there we there were actually discussions about ethereum enterprise solutions back in 2018 when it was down quite a bit from the previous cycle highs it was compelling enough for me to get involved more meaningfully i was involved in bitcoin prior but ethereum and smart contract applications were just starting to really get off the ground and accelerated a ton into d5 summer in 2021. i really enjoyed being"
+    },
+    {
+      "start": 89.62,
+      "end": 119.66,
+      "speaker": "SPEAKER_00",
+      "text": "able to use permissions finance through applications like ave and uni and it led me to move to crypto full -time professionally so i started working as a pm at dharma capital which is a billion dollar plus asset manager registered with cftc in the nfa and they were the one of the first private institutions really moving size on chain we deployed over a billion dollars of eth into validators following the merge where ethereum became a proof of stake network and i spent a lot of time in d -pin or decentralized physical infrastructure networks uh you know i've been working with ethereum for a long time and i've particularly did a lot of work in filecoin we deployed over 300 million dollars worth of fill into the data center"
+    },
+    {
+      "start": 119.66,
+      "end": 149.68,
+      "speaker": "SPEAKER_00",
+      "text": "space from 2021 to 2024. so precursor to ai traveling around the world you know engaging with over 50 data center teams to basically have them utilize the utility around the file point token to pledge and store data receive subsidy from the network and basically create its decentralized network for storage uh throughout all that i was based in puerto rico max was probably my earliest friend in crypto and you know that bear market from 2022 2023 we were tossing around different ideas about what would be the next major unlocker innovation"
+    },
+    {
+      "start": 149.68,
+      "end": 180.28,
+      "speaker": "SPEAKER_00",
+      "text": "in the space and he was really obsessed with hyperliquid so i was doing some research listening to some of the early podcasts that jeff has had done and there was a moment where i was like okay this guy's obviously super cracked but would perpdex's really be the meta after what we'd seen from gmx and gns and some of these other uh platforms their rate of innovation was extremely meaningful and after the token tge and they announced the assistance fund with the buybacks it was very clear that the value approval was meaningful for the team and the future development of the protocol so that's"
+    },
+    {
+      "start": 180.28,
+      "end": 210.5,
+      "speaker": "SPEAKER_00",
+      "text": "what led me to get 100 all into hyperliquid and going into 2025 summer when the dat meta started to pick up i saw an opportunity where you could accumulate a substantial amount of hype and more importantly use the utility of it for launching at the time hyp3 with a million hype tokens and actually build businesses on chain through a public company vehicle so that's the path that led me to where hyperion is today dude you are cultured as far as like a crypto background for sure that's super impressive lots"
+    },
+    {
+      "start": 210.5,
+      "end": 240.66,
+      "speaker": "SPEAKER_00",
+      "text": "of experience there um wow and were you referring to max uh dot hl from the usdh native markets team max vega the one and only yes nice shout out he never came on the pot i invited him uh but yeah no he was he was quiet so i have to get him at a later point but man that's awesome that you saw that so you didn't participate it early enough that you got the airdrop though you it was after tge i would just say that i was involved late 2023 all through 2024. dude that's that's fantastic"
+    },
+    {
+      "start": 241.24,
+      "end": 270.84,
+      "speaker": "SPEAKER_00",
+      "text": "yeah dude coming across hyperliquid and just realizing like the opportunity and like what's being built has been like one of the uh one of the best things i think for me um as far as investing not financial advice but yeah dude it's it's incredible what's happening here and it's just getting stronger and stronger and that picture's getting much more clear as time goes on we didn't get the clarity bill but we'll touch on that we'll touch on that later um cool man so of hyperion d5 for someone hearing about hyperion for the first time like simply put"
+    },
+    {
+      "start": 270.84,
+      "end": 301.16,
+      "speaker": "SPEAKER_00",
+      "text": "what is it in many ways it's very simple and others it's very complicated right because what we're doing has never really been done before but hyperion d5 is the only public company that's directly building institutional grade products and services on chain specifically we're focused on hyperliquid and across validator operations proprietary products like the hype asset you service which enables us to back new deployers via hyp3 and hyp4 as well as products built on the hyper evm for institutional credit and yield strategies via vaults we're basically creating a full stack comprehensive exposure"
+    },
+    {
+      "start": 301.16,
+      "end": 331.5,
+      "speaker": "SPEAKER_00",
+      "text": "to on -chain finance and particularly with respect to the growth of hyperliquid offering rwas outcome markets unified portfolio margin and various other integrations that unify finance on -chain and so there is a world where we are simply an operating company that is generating revenues using hype as the engine for that growth but we are also getting token and equity exposure to our partner projects which means that we're creating an index for investors that may not want to or be maybe figuring"
+    },
+    {
+      "start": 331.5,
+      "end": 362.24,
+      "speaker": "SPEAKER_00",
+      "text": "out what is the best way to get exposure to hyperliquid and ultimately the goal is that we are building for a future that is cross -chain where d5 products can span across ecosystems and actually serve all forms of on -chain activity love it man yeah so you guys are kind of different in regards that you're you're like uh this is my take you guys are like kind of maxis right like you have hype but then also you're deploying the hype and then investing here and building the ecosystem too and watching it develop so that's that's super cool i really like that personally awesome so from"
+    },
+    {
+      "start": 362.24,
+      "end": 392.28,
+      "speaker": "SPEAKER_00",
+      "text": "like an investor perspective with hsi the etfs like what kind of investor is hyperion built for it's really unique in in many ways right we've demonstrated from an execution perspective that our revenues and incomes are increasing quarter over quarter but we're also cutting costs we're becoming a very lean operating company and that's based that's really built on the idea when i was operating in the filecoin ecosystem it really was myself and then to a technical expert and then also like an accounting expert"
+    },
+    {
+      "start": 392.28,
+      "end": 422.8,
+      "speaker": "SPEAKER_00",
+      "text": "that would help you manage whatever 50 plus deals that we had with uh storage fighters globally right and so the beauty of on -chain infrastructure is that once you've developed that construct you're able to scale it pretty efficiently because most of it is managed on -chain and then obviously now you have more support from agentic processes that can monitor things like slashing or volume participation into some of these other metrics and uh that's the same principle that we're applying to hyperion so we can be an operating company we've already demonstrated that we're able to generate revenues unlike any other passive vehicle"
+    },
+    {
+      "start": 422.8,
+      "end": 452.84,
+      "speaker": "SPEAKER_00",
+      "text": "in the space and so it is that differentiation between passive and active and the the active approach is not something where we are putting dollars at risk right it's the dollars that are going into hype but the hype is then being deployed into the ecosystem to generate unique revenues and so uh david knox our cfo quoted this term called the triple dip right so there's triple dip trying to target 3x the base staking return but also being a revenue generating business create providing that exposure to hype and also uh various forms of products and services that are generating revenue in addition to"
+    },
+    {
+      "start": 452.84,
+      "end": 482.89,
+      "speaker": "SPEAKER_00",
+      "text": "having that exposure and equity upside to uh partner projects so it is uh to reference our tagline more than just hype yeah that's super dope i'm a big fan of uh david too i watched um the hl global interviews i watched yours too it's awesome that you guys participated in that and it was a great uh like they put on a great show for everybody and all those are all great recordings so if you guys don't know what i'm talking about go to youtube search hl global and you can kind of check out the events and all the interviews and discussions that they"
+    },
+    {
+      "start": 482.89,
+      "end": 513.63,
+      "speaker": "SPEAKER_00",
+      "text": "had fantastic stuff well that's that's great man um you guys recently had your earnings and congratulations on it you guys also raised your guidance so you generated about you know these are maybe accurate numbers close 1 .15 million in gross profit in q2 and now you guys are expecting two to two and a half million in q3 is driving the acceleration in that growth really great question so for those that may recall right around middle of may usdh was sunset we had around 800"
+    },
+    {
+      "start": 513.63,
+      "end": 544.11,
+      "speaker": "SPEAKER_00",
+      "text": "000 or so hype that had been deployed across hyp3 with felix which was tied to a usdh market as well as supporting native markets with the aqa b1 deployment so there were there was obviously an unexpected headwind there and it required us to wind down these deals to turn off the hyp3 market and go back to our pipeline and we had a lot of people who were looking to work with us to basically come back to both hyp3 in addition to continuing to prepare for the eventual permissionless launch of hyp4 so what you're seeing is i believe"
+    },
+    {
+      "start": 544.11,
+      "end": 574.33,
+      "speaker": "SPEAKER_00",
+      "text": "it was by the end of june going into july we had announced new deals with both entropy and sku and that is revenues coming from those commercial deals so you you are seeing real revenue uh dollar dollar based returns that are coming from the high basket you service in addition to growth across our ecosystem rewards and other strategies to improve things that we're doing to see if we can accelerate it and take that to the market so with that our earning supplement and other materials there are five pillars that exist today that generate revenue and it's all of those continue to compound and grow over time so we're very proud of the fact that the expectations"
+    },
+    {
+      "start": 574.33,
+      "end": 604.71,
+      "speaker": "SPEAKER_00",
+      "text": "that we've set for the market we're continuing to work towards them and we are targeting operating cash flow positive this year so in the first year really of operating as a company in d5 we're able to do that so i think it's a testament to what we can continue to do in the future and going forward How big of a deal was it to make that change from USDH being like a trading pair to USDC? Admittedly, we had expected more support from labs"
+    },
+    {
+      "start": 604.71,
+      "end": 634.99,
+      "speaker": "SPEAKER_00",
+      "text": "around, call it just, you know, USDH pairs for perps would have been impactful for improving the liquidity of USDH. I think the underlying value of USDH for HIP3 and other constructs in the ecosystem, as well as being a native stablecoin, would have been beneficial. But I can also understand their perspective, right? When you have Circle coming and offering you a substantial amount of the revenues from USDC, it's hard to say no. So with that in mind, it was challenging, of course, when you have, I would say, an entire business that is trading"
+    },
+    {
+      "start": 634.99,
+      "end": 665.01,
+      "speaker": "SPEAKER_00",
+      "text": "on literally one stablecoin, and that stablecoin is going to migrate to another one. We had to go through the technical process of figuring out, you know, we were the first thing to really have to, like, unwind this entire existing market. It hadn't really been done before, and we were able to do that smoothly with no issues. So again, just again, testament to our ability to be able to navigate changes, innovation. We're in a very dynamic ecosystem space, and I think we've come back stronger, right? Entropy's markets with the pre -IPO for Anthropic and OpenAI, amongst some of the other pairs that are trading like Nebius, have been doing very well. They've, from the last time I checked, are now operating as, like, the second largest deployer."
+    },
+    {
+      "start": 665.13,
+      "end": 695.09,
+      "speaker": "SPEAKER_00",
+      "text": "And it just goes to show that we are able to, again, maneuver changes very quickly, but also work with extremely high -caliber teams to grow and monetize within the hyperliquid ecosystem. Awesome. And you know, with that guidance, like, you're getting the combo from, like, the activity across your businesses, but also, like, from the higher hype price, right? Not financial advice. But that's pretty sweet, man. You know, the pristine asset that is hype. Just again, in awe. So how did you decide buying back your shares is going to create more"
+    },
+    {
+      "start": 695.09,
+      "end": 725.27,
+      "speaker": "SPEAKER_00",
+      "text": "value for your shareholders than maybe adding hype to treasury? Like, how are you balancing that? As noted earlier, it is about the flexibility and dynamism that we take with approaching not just our work in the hyperliquid ecosystem, but with our own public company vehicle, right? So it's this. It's this balance of incremental value in deploying hype, the market conditions, our share price. It's something that we constantly have to evaluate and iterate on as a management team for the benefit of our shareholders. So fundamentally, our job is to accrete value for our shareholders. We have a very flexible"
+    },
+    {
+      "start": 725.27,
+      "end": 755.39,
+      "speaker": "SPEAKER_00",
+      "text": "capital structure that gives us multiple levers. And to say it simply, the math and investor value creation will dictate how we operate. So we had to authorize that buyback mechanism just so that we could have it in place. And now, as we go forward, right, there will be times when it is, more accretive if we, so in the other avenue, right, is that it's not like we are just a passive vehicle that's okay, great. We're buying more hype and now the hype sits there. And if the hype goes up more, maybe you can issue more shares. And like this is a two"
+    },
+    {
+      "start": 755.39,
+      "end": 785.47,
+      "speaker": "SPEAKER_00",
+      "text": "sided seesaw, I guess it's there's the revenue generating component plus the equity and token component of other partners. So you have multiple forms of optionality around when is the best decision to make around all the assets in our balance sheet and the levers that we can pull. So. Pretty simple way to put it all together is that we want to accrete value and we are able to iterate very quickly just based on the market conditions and the share and the value of both the shares and the value of hype, along with the other assets on our balance sheet. Yeah, dope. Flexibility is"
+    },
+    {
+      "start": 785.47,
+      "end": 815.61,
+      "speaker": "SPEAKER_00",
+      "text": "key there. You guys got a lot at your disposal. So like these buybacks, are they going to be funded through the income from these these businesses that you guys have invested in? Or is it possible you guys would sell hype to to do this? So it's again, it just comes down to that flexibility. I would say that right now. The focus is that we recognize that we're trading at a discount and it's believe it was impacted by the announcement around USDA and some of the headwinds there. But as we continue to just to show the market that we are growing, cutting costs,"
+    },
+    {
+      "start": 815.81,
+      "end": 845.63,
+      "speaker": "SPEAKER_00",
+      "text": "becoming a very effective and lean DeFi company, we will have that optionality where if we are still at a discount, but we've generated to our guidance, seven to eight million dollars of income, we could use some of that to buy back shares. We could use it to buy back hype if there are more use cases. So. Yeah. There's some more options for hype that we calculate has a higher commercial value than potentially the value of getting back to and now or above. And that's how we would kind of optimize for our decision making. Sweet. Let's dive into some of these"
+    },
+    {
+      "start": 845.63,
+      "end": 875.99,
+      "speaker": "SPEAKER_00",
+      "text": "awesome partnerships you guys have. So I guess first thing, Kinetic, you guys are working closely with Kinetic. What's your thoughts on Elysium? Like, that's like a, you know, they kind of made waves when they announced that Elysium was coming out, the first L2 for Hyperliquid. What do you think? I think Omnia and the team have always been really innovative, and you can see that they're a very quick -moving team, right? Shout out to KHype and being the largest LST and their movement into HIP3 with"
+    },
+    {
+      "start": 875.99,
+      "end": 906.01,
+      "speaker": "SPEAKER_00",
+      "text": "KMHype and Markets and now with Elysium. I think that it is very compelling. They've shown me some of the constructs around how the sequencer fees and the value distribution approach is something more unique than we've seen with other ecosystems. We haven't had enough insight into who's planning to build there and how does that kind of affect the broader expansion of the Layer 2, but everything that they've done so far has been impressive, and so we're excited to see what comes from that end. Yeah, I agree. It's"
+    },
+    {
+      "start": 906.01,
+      "end": 936.23,
+      "speaker": "SPEAKER_00",
+      "text": "interesting stuff. I think today they announced the testnets opening up, so we'll see what people talk about and who's maybe deploying there shortly. Okay, well, cool. So you guys partnered with Kinetic almost like right out the gate. After launching Hyperion, what has that partnership grown into, and what does Black Day Mount, where does it fit in? So we knew from very early on, and I call it being an early participant and user of the"
+    },
+    {
+      "start": 936.23,
+      "end": 966.47,
+      "speaker": "SPEAKER_00",
+      "text": "Kinetic platform, that their LST would continue to be able to have a lot of utility in the ecosystem. So Hyperion uses KHype. We also use iHype, which is the institutional hype LST as well, which was designed specifically for the Kinetic platform. And we have continued to participate as they've expanded to the rollout of Kinetic markets with our exposure to KM Hype and also KNTQ. So it is a way where we continue to build upon the Lego building blocks of DeFi, and Kinetic was a really great partner on that front. And then with Black Day Mount, they were a team."
+    },
+    {
+      "start": 966.51,
+      "end": 996.55,
+      "speaker": "SPEAKER_00",
+      "text": "They provide institutional on -chain services for various firms, both in and out of the space. I've had a relationship personally with them for a while, and as they were looking to come to Hyperliquid and providing validator services for their clients, we saw a way where we could optimize our validator operations for institutional use cases and basically service their own clients. So it's kind of like what you see when you have specific validator infrastructure providers tied to custodians or other exchanges or platforms. So that's the relationship with Black Day Mount. And obviously, with"
+    },
+    {
+      "start": 996.55,
+      "end": 1026.55,
+      "speaker": "SPEAKER_00",
+      "text": "our joint validator operation partners, both Kinetic and Maven, it gives us a way to broaden the reach of our validator, and it is the fundamental basis for which our business is able to operate well. All of the hype that we own is staked, too. Our validator, which is then able to be redeployed into various strategies such as fee reduction, HIP3, HIP4, and anything that may come in the future. Fantastic. You guys also have something called House, H -A -U -S, and you're giving builders access to"
+    },
+    {
+      "start": 1026.55,
+      "end": 1056.61,
+      "speaker": "SPEAKER_00",
+      "text": "some of this stake type you guys have to launch their markets or to lower their trading fees. How do deals like that work? What is Hyperion aiming to receive with these deals? Right. So House, the hype asset use service, is a proprietary product that we built. Knowing that you could effectively monetize the utility of the hype token. So it's a, in many ways, it requires a very precise knowledge of teams that are building in the space, knowing how it can be best designed so that there is long term value created for both of"
+    },
+    {
+      "start": 1056.61,
+      "end": 1086.85,
+      "speaker": "SPEAKER_00",
+      "text": "the parties involved. That's something that's very important for us, right? Is that it's not, when you look at other ecosystems or what other DATs, although we don't really view ourselves as a DAT, are trying to do, it's great to purchase tokens of the ecosystem. And it's great to be directionally correct in its growth. But we believe that it's more valuable to build long term products and services on that ecosystem of what you're already long, right? Call it working for your backs. That's really what we're doing. So in some of these structures, like with Silhouette, right there, they kind of started as a privacy trading layer. And we knew"
+    },
+    {
+      "start": 1086.85,
+      "end": 1117.03,
+      "speaker": "SPEAKER_00",
+      "text": "that the aggregating trading account that they would use had the opportunity to basically combine a lot of the flows from traders looking to use that shielded trading infrastructure. And so we were able to link hype to there. And basically offer all of their users trading fee reductions. And now they've expanded more into RFQ. They'll be supporting tokenized stocks. And they're going to play a key role from our view on bridging stocks to hyper EVM and then also the interoperability with hyper poor. And through that product, every time"
+    },
+    {
+      "start": 1117.03,
+      "end": 1147.07,
+      "speaker": "SPEAKER_00",
+      "text": "fees are saved, a portion of that comes back to us as revenue. So it's a volume based game which can scale very well if they are able to continue to execute on that roadmap. And in addition to that structure, we also received to date, 1 % of equity and or token upside to Silhouette. So that ensures that even if they choose not to use hype asset use service in the future, we would still have that exposure to their upside growth. And that's the same model that we've taken with both Entropy and SKU, where we receive dollar based fees based on the amount or the notional value"
+    },
+    {
+      "start": 1147.07,
+      "end": 1177.19,
+      "speaker": "SPEAKER_00",
+      "text": "of hype that's been provided to them for use. While on the other side, having that upside exposure to further growth that they may have beyond just that hype asset use service product. Fantastic. You know, you touched on them, Silhouette. Shout out Silhouette. They sponsor my show. Love that RFQ stuff they're putting out now with X stocks. It's really heating up. I think the SEC today gave some guidance that was really positive for tokenization. So exciting stuff there. You mentioned"
+    },
+    {
+      "start": 1177.19,
+      "end": 1207.36,
+      "speaker": "SPEAKER_00",
+      "text": "some of the other ones too. SKU, Entropy, HyperLend, Risk. I don't know if you mentioned that one, but Risk has got a lot cooking too, man. You know, options are heating up. Derive is also a big one that's popping up on people's radar. But I like the HyperLiquid focused aspect of Risk a lot. I appreciate that. With these partnerships that you have, where are you seeing the most demand and kind of where do you think people are overlooking? What should people check out? I would like to say, I like to think"
+    },
+    {
+      "start": 1207.36,
+      "end": 1237.46,
+      "speaker": "SPEAKER_00",
+      "text": "that Hyperion has done a good job of aligning with the right partners within the HyperLiquid ecosystem. So if you look at our earnings supplement and the teams that have been listed, all of them offer really great products and services. So shout out to all the partner teams, Silhouette, SKU, Entropy, HyperLend, Risk. And the great thing is that these projects have all started or built upon HyperLiquid, but they've also really started to expand. So you mentioned Risk, but Risk also deployed into Ethereum Mainnet, I"
+    },
+    {
+      "start": 1237.46,
+      "end": 1267.62,
+      "speaker": "SPEAKER_00",
+      "text": "believe a month or so ago. They started to also service XAUT or Tethered Gold, which is the first indication of RWA support on their platform. It's very easy to use. The vault infrastructure is becoming more robust. It's something that Hyperion has been working on for a long time. It has also piloted ourselves. And we expect that as there's more rulemaking and kind of clarity from the SEC and the CFTC about what you can do on chain, these kinds of products will be very well positioned as there is a substantial amount of capital that is still looking to come on chain and access these outsized yields or basically"
+    },
+    {
+      "start": 1267.62,
+      "end": 1297.66,
+      "speaker": "SPEAKER_00",
+      "text": "yield generation opportunities. So the same concept applies with HyperLend. Avia Finance announced a deal with Anchorage where they're the exclusive partner for natively staked hype, amongst other things that are tied to custodied infrastructure for the Hyper EVM. I had mentioned earlier already with Entropy being the first to push out Anthropic and open AI pre -IPO perps silhouette with the RFQ. SKU we're really excited about. The private beta actually went live today. There's a lot of strong early traction with around 16 ,000 walls or so on the waitlist that are going to be onboarded over the coming weeks. And so we"
+    },
+    {
+      "start": 1297.66,
+      "end": 1327.66,
+      "speaker": "SPEAKER_00",
+      "text": "expect there to see more outcomes built across crypto and RWAs, liquidity incentive programs and mobile. So it's just exciting to be at the forefront of. Not only accumulating a lot of hype, but being able to work with partners, being able to grow their products and services and provide this whole suite of institutional platform effectively for HyperLiquid via Hyperion. Fantastic, man. I got a hot take question for you. HIP4 markets really haven't taken off"
+    },
+    {
+      "start": 1327.66,
+      "end": 1357.68,
+      "speaker": "SPEAKER_00",
+      "text": "yet. Like they're still in this weird growing phase. They are just starting out, but there's not a lot of liquidity on every market. What do you think a reason could be? Like why hasn't this picked up more? Because like if you're looking at data, like I don't know if you visit HL .eco, but like they're really if that's accurate, there's really not that many traders trading HIP4 markets. Like I don't know where they're getting their like number of traders from, but some of them have like 20 people. Like I'm making it rain right now because the way I'm thinking about it is like, you know, I'm a"
+    },
+    {
+      "start": 1357.68,
+      "end": 1387.76,
+      "speaker": "SPEAKER_00",
+      "text": "season three believer. If you're early and if you're like testing things out and just a real genuine user, you know, maybe you'll be rewarded for that. But it's also like awesome. Like I love hyperliquid. I love sports. I did do the Fed, you know, decision as well. So like I don't know if you're into the NFL, but yeah, there's like 20 of us that are trading those markets right now on some of them. So it's interesting stuff. Why do you think that hasn't gotten as much traction yet? Hypermeat is proud to be sponsored by Silhouette, the shielded layer on top"
+    },
+    {
+      "start": 1387.76,
+      "end": 1418.74,
+      "speaker": "SPEAKER_00",
+      "text": "of hyperliquid. Not only will you be able to obfuscate your trades, but you will be trading with some of the steepest hyperliquid fee discounts that are available. Awaken Tax, crypto taxes for crypto natives. Could not have submitted my taxes without the team at Awaken. Awesome customer service and they are always improving their hyperliquid support. Get started with Awaken today. Our next sponsor is HL Names. Claim your .HL name today and start establishing your on -chain identity. Already"
+    },
+    {
+      "start": 1418.74,
+      "end": 1448.78,
+      "speaker": "SPEAKER_00",
+      "text": "integrated with 43 apps and counting? Grab yours now by using the link down in the thread below. Hypermeat is also sponsored by RIP .XYZ. If you're bullish on the hyperliquid eco, but can't get your own hyper or just want to increase your current exposure to hypers, RIP .XYZ offers a solution. Their Rhyper Vault gives you tokenized exposure to a managed portfolio of hypers. And this is for the S3 believers, with holders also receiving a proportional share of any"
+    },
+    {
+      "start": 1448.78,
+      "end": 1479.14,
+      "speaker": "SPEAKER_00",
+      "text": "airdrops that are earned by the vault. Check out RIP .XYZ today. Nothing discussed on Hypermeat is investment advice. Always do your research and make your own decisions. I'm not responsible for any actions you take. Myself and my guests may hold positions in the protocols we talk about. All right, buddies, let's get back to the show. I do think that it comes down to the UI and that for perps, it works well. For outcomes,"
+    },
+    {
+      "start": 1479.42,
+      "end": 1509.56,
+      "speaker": "SPEAKER_00",
+      "text": "it's a little bit less intuitive to use compared to existing platforms like Call Street and Polymarket. I also think that mobile distribution is really valuable. When we talk about it more from a liquidity perspective, we've spoken to all the market makers prior. We spent months preparing for HIP4 to become permissionless and understanding what would be required for this market to be extremely liquid very early on. And of course, in classic Hyperliquid Labs fashion, it came out pretty unexpectedly. It was like, hey, in the next upgrade, markets"
+    },
+    {
+      "start": 1509.56,
+      "end": 1539.84,
+      "speaker": "SPEAKER_00",
+      "text": "will be permissionless. And then it ended up being a day later on Saturday. And these market makers are just not prepared to put the resources towards having that infrastructure as it is today. So in some ways, I see it as the early phases of Hyperliquid as the platform, as when it was just the crypto perps. And it's going to take some time. But of course, you have the benefit of the builder codes and other ways to distribute these products. That's why we were excited to work with teams that are building their own front ends to service that distribution. But longer term, we do"
+    },
+    {
+      "start": 1539.84,
+      "end": 1569.98,
+      "speaker": "SPEAKER_00",
+      "text": "feel very confident that there will be more liquidity on Hyperliquid's outcomes just because of the fact that it's substantially cheaper than what exists on Polymarket and Kalshi. On the other side of it, too, is when you talk to people that are not in crypto. I remember last weekend I was talking to a few friends of mine that were like doctors and investment bankers, and they all love being able to participate in sports outcomes. But they're very much tied to their incumbent platforms like FanDuel and DraftKings. And the switching costs are real. So"
+    },
+    {
+      "start": 1569.98,
+      "end": 1600.34,
+      "speaker": "SPEAKER_00",
+      "text": "there has to be some incentive and mechanism, maybe it is S3, right, that will enable a meaningful shift. But I think it's, you know, you want to kind of follow that process of having the time to ensure that the infrastructure is robust, that there's enough of these templates, that enough of these markets have been built, that the right players have been integrated to be able to service that liquidity and then open it really for that classic flow of new users the same way that we saw with HIP3. Yeah, no, I agree. It's interesting. I"
+    },
+    {
+      "start": 1600.34,
+      "end": 1630.4,
+      "speaker": "SPEAKER_00",
+      "text": "don't know if you could speak to it. Do you know if SQ has a plan to try and convert some of these traditional users of like DraftKings or what have you to take that chance and to try and make that pivot to SQ? Yeah, so right now they've, like I said, launched the private beta for the desktop application, there's mobile coming soon, and another one of the reasons that we had gone through the diligence process and felt comfortable with backing them was the people that they have involved within their organization that are coming from some of these incumbent platforms and a good view on both the growth and what"
+    },
+    {
+      "start": 1630.4,
+      "end": 1660.51,
+      "speaker": "SPEAKER_00",
+      "text": "it takes to provide a product that's tied to these outcomes that will encourage participation in a more intuitive way than I think what's what's available today. Awesome. Awesome. OK, kind of pivoting back to what we were talking about a second ago before I got us lost in the weeds there on HIP4, how do you guys handle the tokens and the fees that you get from your partnerships? Like, are you, is there like a blanket"
+    },
+    {
+      "start": 1660.51,
+      "end": 1690.99,
+      "speaker": "SPEAKER_00",
+      "text": "contract you have? Is it something you can even talk about? Like, I don't know. How deep you want to go into it, but how do you decide to hold it or to convert it to hype? I think I think I saw in the earnings report that you guys sold the Max airdrop, which made me laugh because I mean, who didn't? It was free hype, but it was hilarious. I could be wrong about that, but I think that the dog meme that everyone got like airdropped, you want to comment on any of that? So first of all, yeah, shout out to Max, shout out to the airdrops. It's"
+    },
+    {
+      "start": 1690.99,
+      "end": 1721.09,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, it's awesome, right? Like anyone that's been, a super user in crypto across chains, right? Ethereum, Solana, Avalanche, right? I think airdrops are probably one of the best parts of trying things in the space, right, is you get rewarded for testing things out and being creative and figuring out ways of where future value may be accrued. And so because that part's public, yeah, we're happy to share. You know, we got Max, right? This is great. Dump it. Buy more hype. Counts as income for our general reporting. And it's a testament"
+    },
+    {
+      "start": 1721.09,
+      "end": 1751.25,
+      "speaker": "SPEAKER_00",
+      "text": "again to our ability to do these things on chain. And find opportunities where others may not have. And when it comes to our partner protocols, it's a little bit different. Again, as we talked about with managing share buybacks versus hype versus the ways that we can be very flexible in terms of our management. That's how we view our partner projects as well. So our sense ultimately is that a lot of this is still early. We have to remind ourselves of that a lot. Like even we're even with hyperliquids trading out today, it's still so early in terms of where it could continue"
+    },
+    {
+      "start": 1751.25,
+      "end": 1781.33,
+      "speaker": "SPEAKER_00",
+      "text": "to grow if the crypto paradigm shift that we're starting to see really does fulfill. There's this convergence with AI and all of finance is running on chain. And so when it comes to these partner projects, right, we own like 0 .2 % of Kinetic, we own 1 % of Hyperland, and there's a few others that are both in the pipeline that can be added to the balance sheet. And I would say that we also want to support our partners. So up until Kip5, we were staking our KNTQ so that we could compound our KNTQ position because they were very thoughtful about value accrual to holders. So"
+    },
+    {
+      "start": 1781.33,
+      "end": 1811.39,
+      "speaker": "SPEAKER_00",
+      "text": "we just want to be very, very intentional about how we're managing these assets. But the point of it is that we're not paying for any of them ever directly outright. They're always part of the deals that we structure. So it really is kind of just a plus plus like boost that we get for our activity in monetizing on hyperliquid. Love it. You know, when you were talking, you mentioned Hyperland again and then it clicked something. We don't have to include this if you don't want to. But something that came across the timeline that I thought was interesting was"
+    },
+    {
+      "start": 1811.39,
+      "end": 1841.65,
+      "speaker": "SPEAKER_00",
+      "text": "people were commenting about portfolio margin and how that's like making things immensely more difficult for like a Hyperland. How is Hyperland? Do you know? Are you familiar with how they're viewing the situation? And I know they're offering other products, too. What are your thoughts? They're aware of it. I think the Avia Finance deal with with Anchorage is like an example of how they are trying to differentiate from what Hyperliquid is offering. Right. So if let's say like the permissionless, the permission path is in route, but"
+    },
+    {
+      "start": 1841.65,
+      "end": 1872.03,
+      "speaker": "SPEAKER_00",
+      "text": "there are other ways for institutions, that may already be custodied at banks like Anchorage to be able to interact with HyperAVM. Right. So there's different avenues. Again, our view is that it's early enough that none of this has been entirely defined, but it is going to continue to be very competitive. And I think at this point, all of the builders in the Hyperliquid ecosystem have realized that Hyperliquid will continue to innovate and accelerate and do things for the greater good of the Hyperliquid protocol. And as a builder, it"
+    },
+    {
+      "start": 1872.03,
+      "end": 1902.07,
+      "speaker": "SPEAKER_00",
+      "text": "may be in your favor, it may not be. So it's about being very dynamic and trying to position as optimally as one can. I think HyperLint has done a good job so far. Yeah, but there are things that they should be cautious about as well. I guess we're all like publicly seeing. Yeah. And they are doing extremely well, like still. So that's good to hear. And it is an interesting balance. The feedback I've gotten from other builders, too, like you touched on. It's kind of like I've heard people say things like, well, the"
+    },
+    {
+      "start": 1902.07,
+      "end": 1932.85,
+      "speaker": "SPEAKER_00",
+      "text": "Hyperliquid team is going to front run you. But yeah, I think thinking of it from the lens of they're going to make it the best as possible for like hype holders first and foremost. And we're all building around hype, you know, the token as well, too. So, yeah, it's an interesting balance act for builders for sure. But I'm sure, yeah, as time goes on, you know, people will figure that out and ways to continue to build and develop in ways that, you know, Hypercore can't. So. So cool."
+    },
+    {
+      "start": 1934.39,
+      "end": 1963.15,
+      "speaker": "SPEAKER_00",
+      "text": "All right, so let's let's kind of zoom out a little bit. There's been, you know, the Clarity Act didn't pass, unfortunately, but we have the Hyperliquid Policy Center and I'm a huge fan of all the efforts that that team is doing, Jake Trevinsky is an amazing speaker. You know, Jake, if you're listening, dude, we got to we got to sit down and record something he's been pushing me off now for a few months. I'm waiting, Jake. But hop on the pod, Jake. Shout out to Jake Trevinsky and the team. And I'm super, super happy"
+    },
+    {
+      "start": 1963.15,
+      "end": 1993.25,
+      "speaker": "SPEAKER_00",
+      "text": "that they're part of everything that we have going on and for just DeFi in general as well, like they're they're warriors. In your in your opinion, what would meaningful progress look like for Hyperion and builders in our ecosystem that you support? Like what can the Hyperliquid Policy Center do like accomplish or what could be passed besides like the Clarity bill that would help you guys probably like the most? To be honest, I really do believe that Jake and his team have done an incredible job already getting"
+    },
+    {
+      "start": 1993.25,
+      "end": 2024.27,
+      "speaker": "SPEAKER_00",
+      "text": "Hyperliquid's unique benefits all the way to the top. Right. We saw it's been a month ago now, Trump saying Hyperliquid on national television. I mean, that's probably the biggest sign that you could get in terms of, OK, people are paying attention to this meaningfully with regard to Clarity and it being unable to pass, right, it just paves the way for the SEC and the CFTC to continue to advance via rulemaking. And I was going to say that we expected to see it quickly, but we're already seeing right announcements from the SEC like a day after the vote or a day or two after the vote. So. From"
+    },
+    {
+      "start": 2024.27,
+      "end": 2054.59,
+      "speaker": "SPEAKER_00",
+      "text": "the builder perspective, I think Clarity providing some protection for builders in the U .S. has was important. And if I recall correctly, that language had had been changed going into the most recent vote. So I think that there's still several aspects of it that would be beneficial. It will probably come back in a different form. And what that looks like will be interesting to see. But in terms of just the general support from, again, agencies for perpetuals and for outcome markets, I"
+    },
+    {
+      "start": 2054.59,
+      "end": 2084.67,
+      "speaker": "SPEAKER_00",
+      "text": "do find it to be very bullish or good tailwinds for Hyperliquid. And then, of course, you saw the announcement from PayWord, now HFP3 Star. So there is a path and I don't think that Clarity in and of itself was going to really inhibit Hyperliquid from continuing its roadmap. Amen. Yeah, and I think Jake said that as well, like Hyperliquid will be fine, DeFi will be fine. So good stuff, man. I'm excited for the future. Yeah, I think I heard a rumor that the"
+    },
+    {
+      "start": 2084.67,
+      "end": 2114.67,
+      "speaker": "SPEAKER_00",
+      "text": "CFTC is going to be saying something specifically about perpetual futures very soon in the coming days or weeks. Shout out Andy from the roll up. He he said that publicly and yeah, I tend to believe him. Those I don't know if you're familiar with the roll up, but those guys are pretty awesome. And they're kind enough to have me on the show every once in a while and I just chat up and I'm a bull for Hyperliquid. So it's fun. Yeah, they're good. Yeah. All right. So. How are you viewing the broader markets right now? I know like the past few days have"
+    },
+    {
+      "start": 2114.67,
+      "end": 2145.63,
+      "speaker": "SPEAKER_00",
+      "text": "been super turbulent right now. Currently, we are up only again. What's giving you confidence and like what are you watching for like most closely? So it's been a it's been an interesting month to say the least. Right. So you had you had to vote on Clarity. You now had the FOMC decision and they did raise, which I think was largely priced in. And you can also see this as like a testament to the accuracy prediction markets and just how much information now is available going into these kind of major events. And so I think"
+    },
+    {
+      "start": 2145.63,
+      "end": 2175.81,
+      "speaker": "SPEAKER_00",
+      "text": "the response that you're seeing right now in the markets is, OK, you have this kind of currency debasement issue going on. You there's this question of what is the slowdown actually mean? Where are the industries or sectors that will still benefit regardless of changes to like this huge amount of capex spend and innovation that's tied to it or growth and innovation that's tied to it. And crypto now serves multiple functions. Right. It's it's is it like with hyperliquid, I would say specifically, right. You"
+    },
+    {
+      "start": 2175.81,
+      "end": 2206.05,
+      "speaker": "SPEAKER_00",
+      "text": "have this situation where the SEC, the CFTC on chain finance will continue to accelerate and a lot of that will bring new capital on chain. And our position is that a lot of that will land on hyperliquid. So all of that to say, it's we remain largely bullish. And that's not to say that you may see moves up substantial pullbacks. I think dips are generally for buying. And for hyperliquid specifically, why we remain bullish is, again, you have all these tailwinds from from the administration."
+    },
+    {
+      "start": 2206.25,
+      "end": 2236.51,
+      "speaker": "SPEAKER_00",
+      "text": "You're seeing major firms become more aligned, starting to build on hyperliquid. The value accrual is still ninety nine percent of the fees that are being generated are going back to buy the token. You have utility around the token. The execution from labs still is breakneck. Right. And I think that there will likely be, to your point, to some interesting announcements or other updates coming from. The team over, you know, KBW in Singapore. So it's still a great time to be a builder and investor and largely"
+    },
+    {
+      "start": 2236.51,
+      "end": 2266.85,
+      "speaker": "SPEAKER_00",
+      "text": "an active participant in hyperliquid and crypto generally. Love it. Yeah, man, I'm trying to I'm trying to rope in everybody to try hyperliquid. It's once you get started, you realize just how awesome it is and how much fun it is. Let's talk like hyperliquid culture. You know, do you do you have any personally own any NFTs or any memes or anything like that you want to mention? I don't know if I I don't know if I should be shilling memes or anything. I would just say that we talked a little bit before for the pod. Right."
+    },
+    {
+      "start": 2266.91,
+      "end": 2296.85,
+      "speaker": "SPEAKER_00",
+      "text": "But was a huge fan of the hype. It was very early on. I think the labs team did a really great job with the hyper NFTs. And in terms of memes, I don't really follow a lot of them too closely. But I think that there is a really cool ecosystem and community that's been built around it. I do remember the first wave of attention around the meme economy of hyperliquid and just kind of it was cool to see. It almost felt like the twenty twenty one cycle where you just saw like the classic like lead coin moves"
+    },
+    {
+      "start": 2296.85,
+      "end": 2326.93,
+      "speaker": "SPEAKER_00",
+      "text": "a lot. And then you've got like the kind of applications that move a lot and then the memes and just seeing that speed run of a cycle. Now it's it's it's become a lot more. That I don't know, fragmented is a better word, but the value accrual will become more based on what teams are building and call it the utility and value that they're bringing to the ecosystem. Longer term. So I think it'll be exciting to see which ones do well as hopefully we head into like another meaningful bull cycle. Come on, so you don't want to"
+    },
+    {
+      "start": 2326.93,
+      "end": 2356.93,
+      "speaker": "SPEAKER_00",
+      "text": "show a sub 100 K meme. I thought I'd answered that pretty, pretty well from a from a political perspective. No, no means to show on my end. Fantastic. No, I didn't expect you to, but it would have been hilarious if we're talking if we're talking some one hundred million, though. Hyperion DeFi, I think trading around 50 mil right now. So there's there's my pick personally. Not a meme. It's yeah, but that's true. Not a meme. Hype D. Oh, yeah. All right. So I have to ask, are you a believer in the hyperliquid season"
+    },
+    {
+      "start": 2356.93,
+      "end": 2386.93,
+      "speaker": "SPEAKER_00",
+      "text": "three airdrop? It's all over the timeline. People are even making memes on Solana about it. What's your take? All I know is that there's like the 30 or so percent of the token set aside for the community, how much of it is distributed through what means on what timeline, it's all speculation, and I'm sure you have seen as much as I have. The community is really, really good at speculation. I would say that in conversations that I have had with Jeff, where it's not so much about directly about the airdrop, but more like what is the the longer term"
+    },
+    {
+      "start": 2386.93,
+      "end": 2416.95,
+      "speaker": "SPEAKER_00",
+      "text": "vision for hyperliquid, he does value further decentralization of the network. And from our perspective, right, when when you look at like how Robin Hood or any other ecosystem, both incumbent off chain and those that are moving on chain can incentivize participation. I don't really see any of them having that same kind of super high value. Very impactful catalyst as much as like a potential airdrop season could be. Now, that doesn't mean I think it's going to happen or not, but it could"
+    },
+    {
+      "start": 2416.95,
+      "end": 2446.97,
+      "speaker": "SPEAKER_00",
+      "text": "be potentially one of the first times ever where you can announce an airdrop, maybe you only end up giving away one percent of the remaining supply, but you could potentially out -earn what you give away. There is a really unique dynamic between the value that you can generate over X amount period of time versus how much you end up giving away and the amount of what you're giving away could potentially be increasing because of the fees that are generated. So we haven't sat down and done the actual math. But if you just think about like what's been done before and what could happen in the future, there is a very powerful"
+    },
+    {
+      "start": 2446.97,
+      "end": 2477.67,
+      "speaker": "SPEAKER_00",
+      "text": "tool that the the labs and foundation have what they choose to do with it. I'm I'm excited to see just as much as everyone else. Yeah, no, that was a very well -spoken answer. I liked it. Tons of different ways the team could decide to do this. I don't know what's true and what's not. I heard the SEC, I think, say something like unannounced airdrops, you know, just retroactively are cool, like they're all right. And then point seasons where you're kind of openly enticing is"
+    },
+    {
+      "start": 2477.67,
+      "end": 2507.83,
+      "speaker": "SPEAKER_00",
+      "text": "kind of more of a gray area. So I don't know. I don't know if they would like announce the season or if it would just be like a retroactive deal. But man, is it fun to think about just all the different ways, you know, Jeff loves Bitcoin, could he could he do like five percent, eight percent and then wait another four years, two years and then do another couple percent. You know, like it'll be interesting how this is all done. But yeah, I do agree. It's in the docs, you know, that there's going to be I think it's like 70 some odd percent is to the community. So how"
+    },
+    {
+      "start": 2507.83,
+      "end": 2537.91,
+      "speaker": "SPEAKER_00",
+      "text": "they end up doing that, we'll have to tune in and find out. I think there's tons of excitement about the events in Singapore happening. Are you going to be there? Yes, we'll be there. David, myself and we're super excited to see the team again. Everyone else that's in the ecosystem. It is so cool to be building in this space and to also have an annual thing where you can go and reconnect with everyone. So, yeah, man, very excited. It's happening like two or three weeks, so it will be awesome. Yeah, I"
+    },
+    {
+      "start": 2537.91,
+      "end": 2569.55,
+      "speaker": "SPEAKER_00",
+      "text": "really wish I could go. My wife's pregnant with her third and I you know, it's a lot of chaos happening right now and it'd be really rough if I left for like five days. So, yeah, maybe next year I'll be able to go have maybe an in -law come over and then and then I can come hang out with everybody. But a couple of my teammates from HL Media are also hosting an event, I think, on the seventh called Event .HL. So, oh, yeah, I think I saw I think I saw that floating around. Yeah, we'd love to attend. And"
+    },
+    {
+      "start": 2569.55,
+      "end": 2599.65,
+      "speaker": "SPEAKER_00",
+      "text": "shout out to B for being a great dad. But we will hopefully see you sooner than later and hope everything goes well with the wife and kids. I appreciate that, man. All right. Let's let's dial it back in here for the last few questions here. Looking into the future, do you expect most of Hyperion's value to come from owning hype, you know, getting that income from your staking rewards or whatever, or owning pieces of the businesses that you guys have invested in? Some of parts. We really do believe in the DeFi flywheel that"
+    },
+    {
+      "start": 2599.65,
+      "end": 2629.89,
+      "speaker": "SPEAKER_00",
+      "text": "we've built. We can see it accelerating in real time. We try to be as transparent as possible when we have information like that. That's why we put out the press release a few weeks ago about raising guidance and operating cash flow positive. And as I highlighted earlier, it is still thinking about how early we are. You can look at incumbent protocols like Aave, Union, Curve, and even though I would say pure on -chain DeFi is still broadly in a bear, these protocols generate millions of dollars a month. And we're positioning for that activity to pick up meaningfully and more of that capital"
+    },
+    {
+      "start": 2629.89,
+      "end": 2660.51,
+      "speaker": "SPEAKER_00",
+      "text": "to come to Hyperliquid. So from Hyperion's perspective, right, if Labs continues to execute and the ecosystem builds and the Hyperliquid infrastructure does become further globally distributed, hype should continue to do well and we benefit from owning that asset. But we really care about how well we're able to operate as a company that is generating income and also owning and directly attributing or accruing value and revenue from having built alongside our partners, right? And so for context, we're the only public company today that has revenue share exposure to core protocols such"
+    },
+    {
+      "start": 2660.51,
+      "end": 2690.59,
+      "speaker": "SPEAKER_00",
+      "text": "as hyperlend or risk premium, the trading revenues or trading fee savings from Silhouette, and then, of course, the volume and activities on HIP3 and HIP4 through Entropy and SKU. And that's just as it is that exists today, where we are a little bit over a year since launch and call it almost a year into HIP3 being live. Right. So even when we it's not to deviate too much, but it's kind of funny when I think at some point last year, right, the community was like, when is"
+    },
+    {
+      "start": 2690.59,
+      "end": 2721.21,
+      "speaker": "SPEAKER_00",
+      "text": "the next Hyperliquid airdrop season happen? It's like, guys, Jeff just dropped a couple billion dollars for all the early participants. And there is a very much of this short term focus of, oh, how can we see the results quickly? And in reality, when you think about all the great protocols that have been built since 2018 prior to where they are today, right, it's like almost been a decade. And that's how long it takes. And so I one of the favorite things that I like to say is like patients required conviction mandatory, you"
+    },
+    {
+      "start": 2721.21,
+      "end": 2751.51,
+      "speaker": "SPEAKER_00",
+      "text": "have to really believe that Hyperliquid will win long term, that this capital will come and that we are the best position to capture a lot of that value. And that's where we think about where Hyperion's value really comes from is all of that together, our thesis being correct, but having also designed products and services that are meaningful and long term, sustainable and scalable. Love that triple dip. Is there is there anything else you want the Hyperliquid community to know or prospective investors? We're still early. We're"
+    },
+    {
+      "start": 2751.51,
+      "end": 2781.83,
+      "speaker": "SPEAKER_00",
+      "text": "working hard. I expect us to continue to execute. We've already shown that through Q3 and quite frankly, we're trading at a discount. And it's for anyone that is looking and looking at value and ways to capture more upside. I just see a lot of great opportunity here. I still view Hyperion DeFi to be one of the most asymmetric bets in both the ecosystem, but broadly as as a public company vehicle. Fantastic. All right. I got one more super serious, important question"
+    },
+    {
+      "start": 2781.83,
+      "end": 2812.13,
+      "speaker": "SPEAKER_00",
+      "text": "for you. When you go to a restaurant, what's your favorite cut of meat? That's a good one. So I am actually a huge fan of skirt steak. Skirt steak. I spent many years in Puerto Rico before Hyperion and Churrasco was a very big thing there. So that would be my answer. Not not not. Yeah. I don't know if you've heard. Yeah, no, I've gotten skirt steak before. OK, great. It's a great cut. Yeah, super juicy."
+    },
+    {
+      "start": 2812.57,
+      "end": 2842.29,
+      "speaker": "SPEAKER_00",
+      "text": "Love making tacos and other things with it. So I agree with you, man. And if you marinate it to like beforehand. Oh, dude. And you exactly. You got to you got to you got to start a cooking podcast beef at this point. Dude, I hope I have the time to do that. You know, I work full time, too. My wife and I work at different shifts at a hospital, so I'm grinding 24 seven. Hopefully one day I'll be able to do that. And and really, I want to start live streaming, too, in the hyper liquid community, you know, like trying my hand"
+    },
+    {
+      "start": 2842.29,
+      "end": 2872.29,
+      "speaker": "SPEAKER_00",
+      "text": "at trading or the hip for markets, I think would be pretty cool. I'm getting my hyper rigged up. So you guys will be able to see me with my mouth moving and stuff. That'll be cool, too. I do. But I digress, man. I really appreciate you spending some time with me. Make sure you guys follow Hyperion and Hansu and I'll make sure to tag them in the thread below. Check all that information out. You guys are cooking. I appreciate you and your time. Like I said, thanks for coming on. Likewise. Thank you so much for having us. Was really, really enjoyed the conversation and I look forward to chatting with you and the team"
+    },
+    {
+      "start": 2872.29,
+      "end": 2876.01,
+      "speaker": "SPEAKER_00",
+      "text": "again in the future. Awesome. Hyper liquid, hyper liquid."
+    }
+  ],
+  "speaker_map": {}
+}

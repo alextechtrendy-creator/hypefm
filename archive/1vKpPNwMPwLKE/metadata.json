@@ -1,0 +1,126 @@
+{
+  "space_id": "1vKpPNwMPwLKE",
+  "title": "HL/MEDIA x Paragon: Everything is a market",
+  "state": "ended",
+  "created_at": "2026-08-25T14:55:36Z",
+  "started_at": "2026-08-27T18:00:35Z",
+  "ended_at": "2026-08-27T19:05:31Z",
+  "scheduled_start": "2026-08-27T18:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 121,
+  "host_username": "_LetMeDo_",
+  "participants": [
+    {
+      "name": "LetMeDo",
+      "handle": "_LetMeDo_",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "𝖉𝖊𝖒𝖎",
+      "handle": "demi_hl",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Taha",
+      "handle": "tahathinks",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Havoc.hl 𝕏",
+      "handle": "Havochl_",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "root",
+      "handle": "cryptobuddy777",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Scott | Bound",
+      "handle": "benny_options",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Evinho",
+      "handle": "0xEvinho",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "LollyTech",
+      "handle": "Sanya_Ololade",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Mon",
+      "handle": "moncif",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Trophy🏆",
+      "handle": "0x_trophy",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1vKpPNwMPwLKE",
+  "summary_title": "Paragon's bond perps, basket indices, and the HIP3 deployer wars",
+  "summary_description": "Taha from Paragon on listing 10Y/30Y Treasury perps, competing with TradeXYZ, and attracting Wall Street traders to Hyperliquid.",
+  "topic_tags": [
+    "listings",
+    "perps",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 188,
+      "label": "Paragon introduced as HIP3 deployer launching bond and exotic markets"
+    },
+    {
+      "timestamp_seconds": 311,
+      "label": "Paragon's model: full asset creation pipeline in one envelope"
+    },
+    {
+      "timestamp_seconds": 431,
+      "label": "10Y and 30Y Treasury perps chosen as first fixed-income listings"
+    },
+    {
+      "timestamp_seconds": 582,
+      "label": "Paragon claims first perpetuals on rates, not just on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 795,
+      "label": "Direct competition with TradeXYZ acknowledged; room for multiple deployers"
+    },
+    {
+      "timestamp_seconds": 1280,
+      "label": "Bitcoin dominance, Total2, Others basket indices standardize crypto exposure"
+    },
+    {
+      "timestamp_seconds": 1677,
+      "label": "Oracle pricing: external feeds anchor reality; internal pricing uses Hyperliquid book"
+    },
+    {
+      "timestamp_seconds": 3165,
+      "label": "5-year vision: 24/7 markets in every jurisdiction, brand synonymity with S&P and MSCI"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Paragon",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3912.8746875,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,74 @@
+{
+  "space_id": "yt-V2a7OXBDzvA",
+  "title": "HyperMeat YouTube V2a7OXBDzvA",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-06-30T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Kurt",
+      "handle": null,
+      "team": "LegendTrade",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=V2a7OXBDzvA",
+  "summary_title": "Legend Trade's arena duels and esports-style competitive trading on Hyperliquid",
+  "summary_description": "Kurt from Legend Trade explains gamified copy-trading, paper-trade wagering, and live trading competitions designed to turn markets into esports.",
+  "topic_tags": [
+    "trading",
+    "ecosystem",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 126,
+      "label": "Legend Trade explained: competitive social trading platform built on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 370,
+      "label": "Copy profile feature coming soon: automated copy-trading in same block as trader"
+    },
+    {
+      "timestamp_seconds": 582,
+      "label": "Top traders earn percentage of copying fees; ELO ranking based on decisions, not portfolio size"
+    },
+    {
+      "timestamp_seconds": 793,
+      "label": "Arena: 1v1 paper-trade wagering with live leaderboards, elimination rounds, and cosmetics"
+    },
+    {
+      "timestamp_seconds": 1186,
+      "label": "First Legend Trade Series in NYC: 8 traders, $10k prize pool, full esports production"
+    },
+    {
+      "timestamp_seconds": 1488,
+      "label": "Season one runs July-August; top two traders by ELO flown to September Seoul event"
+    },
+    {
+      "timestamp_seconds": 2486,
+      "label": "Merit-based rewards instead of points programs; 1-to-10k challenge with matched 10k prize"
+    }
+  ],
+  "pull_quote": "Markets are the world's biggest video game where anyone can learn, practice, and improve just like competitive gaming.",
+  "quote_attribution": {
+    "name": "Kurt",
+    "team": "LegendTrade",
+    "role": "head of esports"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2622.272,
+  "capture_failure_reason": null
+}

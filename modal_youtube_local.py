@@ -116,12 +116,52 @@ def main():
 
     episodes = [
         {
-            "id": "yt-qO8-nn1jFBI",
-            "title": "Tokenized Leverage on Hyperliquid | Bounce.Tech",
+            "id": "yt-JF5-eg8wr2M",
+            "title": "HyperMeat YouTube JF5-eg8wr2M",
             "host_username": "B33Fbanks",
-            "video_url": "https://www.youtube.com/watch?v=qO8-nn1jFBI",
-            "date_iso": "2026-06-22",
-            "file": "youtube_audio/yt-qO8-nn1jFBI.m4a",
+            "video_url": "https://www.youtube.com/watch?v=JF5-eg8wr2M",
+            "date_iso": "2026-09-22",
+            "file": "youtube_audio/yt-JF5-eg8wr2M.m4a",
+        },
+        {
+            "id": "yt-2M9Vd-cQdt0",
+            "title": "HyperMeat YouTube 2M9Vd-cQdt0",
+            "host_username": "B33Fbanks",
+            "video_url": "https://www.youtube.com/watch?v=2M9Vd-cQdt0",
+            "date_iso": "2026-09-15",
+            "file": "youtube_audio/yt-2M9Vd-cQdt0.m4a",
+        },
+        {
+            "id": "yt-HAyMUJvm0N8",
+            "title": "HyperMeat YouTube HAyMUJvm0N8",
+            "host_username": "B33Fbanks",
+            "video_url": "https://www.youtube.com/watch?v=HAyMUJvm0N8",
+            "date_iso": "2026-08-03",
+            "file": "youtube_audio/yt-HAyMUJvm0N8.m4a",
+        },
+        {
+            "id": "yt-HP9gtA7K5_E",
+            "title": "HyperMeat YouTube HP9gtA7K5_E",
+            "host_username": "B33Fbanks",
+            "video_url": "https://www.youtube.com/watch?v=HP9gtA7K5_E",
+            "date_iso": "2026-07-21",
+            "file": "youtube_audio/yt-HP9gtA7K5_E.m4a",
+        },
+        {
+            "id": "yt--Hgq2PlQjPI",
+            "title": "HyperMeat YouTube -Hgq2PlQjPI",
+            "host_username": "B33Fbanks",
+            "video_url": "https://www.youtube.com/watch?v=-Hgq2PlQjPI",
+            "date_iso": "2026-07-07",
+            "file": "youtube_audio/yt--Hgq2PlQjPI.m4a",
+        },
+        {
+            "id": "yt-V2a7OXBDzvA",
+            "title": "HyperMeat YouTube V2a7OXBDzvA",
+            "host_username": "B33Fbanks",
+            "video_url": "https://www.youtube.com/watch?v=V2a7OXBDzvA",
+            "date_iso": "2026-06-30",
+            "file": "youtube_audio/yt-V2a7OXBDzvA.m4a",
         },
     ]
 

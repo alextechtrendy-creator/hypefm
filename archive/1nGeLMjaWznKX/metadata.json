@@ -1,0 +1,90 @@
+{
+  "space_id": "1nGeLMjaWznKX",
+  "title": "HL/MEDIA x rip.xyz: The Hypurr thesis",
+  "state": "ended",
+  "created_at": "2026-09-08T17:31:33Z",
+  "started_at": "2026-09-10T18:00:32Z",
+  "ended_at": "2026-09-10T18:59:54Z",
+  "scheduled_start": "2026-09-10T18:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 109,
+  "host_username": "_LetMeDo_",
+  "participants": [
+    {
+      "name": "LetMeDo",
+      "handle": "_LetMeDo_",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "𝖉𝖊𝖒𝖎",
+      "handle": "demi_hl",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Solve the Elder",
+      "handle": "SolveMaxwell",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "DeanOG",
+      "handle": "DeanDividends",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1nGeLMjaWznKX",
+  "summary_title": "RIP.xyz's bet on Hyper NFTs: fractionalization, marketplace, and airdrop season 3",
+  "summary_description": "Solve from RIP.xyz discusses building on Hyperliquid, the Hyper NFT collection's potential, and Ensemble's leveraged structured products.",
+  "topic_tags": [
+    "ecosystem",
+    "vaults",
+    "perps"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 362,
+      "label": "Solve introduces himself as Bitcoin OG since 2011"
+    },
+    {
+      "timestamp_seconds": 483,
+      "label": "Solve found Hyperliquid by product fit, not airdrop farming"
+    },
+    {
+      "timestamp_seconds": 636,
+      "label": "RIP.xyz launches Hyper Vault for fractionalized Hyper NFT exposure"
+    },
+    {
+      "timestamp_seconds": 788,
+      "label": "Hyper Marketplace launching within 14 days, currently in audit"
+    },
+    {
+      "timestamp_seconds": 1303,
+      "label": "Discussion of Hyper IP potential compared to Pudgy Penguins and CryptoPunks"
+    },
+    {
+      "timestamp_seconds": 2211,
+      "label": "Solve speculates on Season 3 airdrop criteria and Hyper holder rewards"
+    },
+    {
+      "timestamp_seconds": 2547,
+      "label": "Ensemble building on-chain structured leverage baskets powered by Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 2912,
+      "label": "Ensemble targeting Q4 launch with videos rolling out within two weeks"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "ripdotxyz",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3579.7973125,
+  "capture_failure_reason": null
+}

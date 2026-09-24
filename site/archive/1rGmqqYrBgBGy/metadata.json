@@ -1,0 +1,138 @@
+{
+  "space_id": "1rGmqqYrBgBGy",
+  "title": "Hyperliquid Social",
+  "state": "ended",
+  "created_at": "2026-06-30T18:15:51Z",
+  "started_at": "2026-06-30T18:15:54Z",
+  "ended_at": "2026-06-30T19:34:44Z",
+  "scheduled_start": null,
+  "lang": "fr",
+  "is_ticketed": false,
+  "participant_count": 364,
+  "host_username": "_LetMeDo_",
+  "participants": [
+    {
+      "name": "LetMeDo",
+      "handle": "_LetMeDo_",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "MB.hl",
+      "handle": "MBxxvv",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "mickfr.hl",
+      "handle": "MickfromEU",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "SAKUNA",
+      "handle": "0Sakuna",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ryan (“Phunky”) Haczynski",
+      "handle": "ThePhunky1",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "UTXOCHEF",
+      "handle": "chefpino_",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "HYPEconomist",
+      "handle": "HYPEconomist",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "beef.hl HYPERMEAT",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "LollyTech",
+      "handle": "Sanya_Ololade",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "𝖉𝖊𝖒𝖎",
+      "handle": "demi_hl",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "𝑬𝑴𝑷𝓇𝑒𝓈𝓈⋮",
+      "handle": "Hope_ology",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "The Ghost.HL🇦🇱",
+      "handle": "theghost_alb",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1rGmqqYrBgBGy",
+  "summary_title": "HL Media launches as Hyperliquid's central news hub, S3 airdrop theories intensify",
+  "summary_description": "New media collective covers ecosystem builders, explores tokenomics speculation, and discusses regulatory progress with Jake Stravinsky at Hyperliquid Policy Center.",
+  "topic_tags": [
+    "ecosystem",
+    "community",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 360,
+      "label": "HYPE price discussion: sideways trading at $64, 84% up in three months"
+    },
+    {
+      "timestamp_seconds": 572,
+      "label": "USDH sunset complete; USDC now preferred stablecoin for Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 604,
+      "label": "S3 airdrop speculation heats up; conspiracy theories and tokenomics debates"
+    },
+    {
+      "timestamp_seconds": 1152,
+      "label": "OpenUSD announced with 140 partners including Visa, Stripe, MasterCard, BlackRock"
+    },
+    {
+      "timestamp_seconds": 1514,
+      "label": "HL Media official account and website launch; introduces collective mission"
+    },
+    {
+      "timestamp_seconds": 2211,
+      "label": "Rahim introduces Jake Stravinsky as Hyperliquid Policy Center CEO, blockchain regulation strategy"
+    },
+    {
+      "timestamp_seconds": 3489,
+      "label": "Lolly unveils Coban: social trading platform for copying profitable traders on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 3795,
+      "label": "Builder spotlight: wallet recovery contract standard passes smoke tests"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "HL Media",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4728.6613125,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-HAyMUJvm0N8",
+  "title": "HyperMeat YouTube HAyMUJvm0N8",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-08-03T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": "HL Media",
+      "role": "host"
+    },
+    {
+      "name": "Hypeconomist",
+      "handle": null,
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=HAyMUJvm0N8",
+  "summary_title": "From NBA Top Shot to Hyperliquid builder: spotting alpha in bear markets",
+  "summary_description": "Hypeconomist shares his journey from NFT speculation to building on Hyperliquid, calling early wins on NEST and SYN.",
+  "topic_tags": [
+    "ecosystem",
+    "trading",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 33,
+      "label": "Hypeconomist introduces himself and crypto background"
+    },
+    {
+      "timestamp_seconds": 154,
+      "label": "NBA Top Shot portfolio hit $400k in February 2021"
+    },
+    {
+      "timestamp_seconds": 216,
+      "label": "Lost everything to drainer, found Hyperliquid summer 2024"
+    },
+    {
+      "timestamp_seconds": 493,
+      "label": "Builder codes and ecosystem thesis crystallized post-Jellyfish"
+    },
+    {
+      "timestamp_seconds": 1127,
+      "label": "Early NEST call: bought at 150-200k market cap, went to 10-12m"
+    },
+    {
+      "timestamp_seconds": 1550,
+      "label": "2027 predictions: non-crypto perps 50%+ volume, 1T quarterly volume"
+    },
+    {
+      "timestamp_seconds": 2092,
+      "label": "Teasing unreleased product to remove HYPE from circulation"
+    },
+    {
+      "timestamp_seconds": 3214,
+      "label": "Final advice: buy HYPE cheap, stay in space when others leave"
+    }
+  ],
+  "pull_quote": "Whoever manages to get all the money from big investors on their platform will take the whole thing, because portfolio margin opens doors to new capital.",
+  "quote_attribution": {
+    "name": "Hypeconomist",
+    "team": null,
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3358.016,
+  "capture_failure_reason": null
+}

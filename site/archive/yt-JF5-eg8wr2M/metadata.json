@@ -1,0 +1,84 @@
+{
+  "space_id": "yt-JF5-eg8wr2M",
+  "title": "HyperMeat YouTube JF5-eg8wr2M",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-09-22T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Hansu",
+      "handle": null,
+      "team": "Hyperion DeFi",
+      "role": "guest"
+    },
+    {
+      "name": "David Knox",
+      "handle": null,
+      "team": "Hyperion DeFi",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=JF5-eg8wr2M",
+  "summary_title": "Hyperion DeFi's triple dip: staking returns, revenue share, and ecosystem equity",
+  "summary_description": "How a public company is capturing value across Hyperliquid's validator ops, HIP3/HIP4 deployers, and partner protocols simultaneously.",
+  "topic_tags": [
+    "HLP",
+    "ecosystem",
+    "infrastructure"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 28,
+      "label": "Hansu's path from M&A at EY to Hyperliquid operator"
+    },
+    {
+      "timestamp_seconds": 270,
+      "label": "What is Hyperion DeFi: validator ops, HAUS product, HyperEVM vaults"
+    },
+    {
+      "timestamp_seconds": 482,
+      "label": "Q2 gross profit $1.15M, Q3 guidance $2-2.5M after USDH sunset"
+    },
+    {
+      "timestamp_seconds": 604,
+      "label": "Navigating USDH to USDC migration, pivoting to Entropy and SKU"
+    },
+    {
+      "timestamp_seconds": 906,
+      "label": "Kinetic partnership, iHype LST, Black Day Mount validator operations"
+    },
+    {
+      "timestamp_seconds": 1026,
+      "label": "HAUS monetizes hype utility: Silhouette fee-sharing plus 1% equity"
+    },
+    {
+      "timestamp_seconds": 1327,
+      "label": "HIP4 markets slow adoption: UI friction, liquidity gaps, mobile coming soon"
+    },
+    {
+      "timestamp_seconds": 2387,
+      "label": "Season 3 airdrop speculation: potential catalyst, value accrual dynamics unknown"
+    }
+  ],
+  "pull_quote": "Patients required conviction mandatory. You have to really believe that Hyperliquid will win long term.",
+  "quote_attribution": {
+    "name": "Hansu",
+    "team": "Hyperion DeFi",
+    "role": "CEO"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2878.336,
+  "capture_failure_reason": null
+}

@@ -1,0 +1,343 @@
+# HL Media launches as Hyperliquid's central news hub, S3 airdrop theories intensify
+
+_New media collective covers ecosystem builders, explores tokenomics speculation, and discusses regulatory progress with Jake Stravinsky at Hyperliquid Policy Center._
+
+**Host:** @_LetMeDo_
+**Date:** 2026-06-30
+**Duration:** 1:18:48
+**Tags:** ecosystem, community, tokenomics
+**Source:** https://x.com/i/spaces/1rGmqqYrBgBGy
+
+## Who's talking
+
+- **LetMeDo** (@_LetMeDo_) _host_
+- **MB.hl** (@MBxxvv) _host_
+- **mickfr.hl** (@MickfromEU) _guest_
+- **SAKUNA** (@0Sakuna) _guest_
+- **Ryan (“Phunky”) Haczynski** (@ThePhunky1) _guest_
+- **UTXOCHEF** (@chefpino_) _guest_
+- **HYPEconomist** (@HYPEconomist) _guest_
+- **beef.hl HYPERMEAT** (@B33Fbanks) _guest_
+- **LollyTech** (@Sanya_Ololade) _guest_
+- **𝖉𝖊𝖒𝖎** (@demi_hl) _guest_
+- **𝑬𝑴𝑷𝓇𝑒𝓈𝓈⋮** (@Hope_ology) _guest_
+- **The Ghost.HL🇦🇱** (@theghost_alb) _guest_
+
+## Key moments
+
+- **[6:00]** HYPE price discussion: sideways trading at $64, 84% up in three months
+- **[9:32]** USDH sunset complete; USDC now preferred stablecoin for Hyperliquid
+- **[10:04]** S3 airdrop speculation heats up; conspiracy theories and tokenomics debates
+- **[19:12]** OpenUSD announced with 140 partners including Visa, Stripe, MasterCard, BlackRock
+- **[25:14]** HL Media official account and website launch; introduces collective mission
+- **[36:51]** Rahim introduces Jake Stravinsky as Hyperliquid Policy Center CEO, blockchain regulation strategy
+- **[58:09]** Lolly unveils Coban: social trading platform for copying profitable traders on Hyperliquid
+- **[1:03:15]** Builder spotlight: wallet recovery contract standard passes smoke tests
+
+## Transcript
+
+**[0:43] SPEAKER_00:** Hear me yes, I can we got ragged They were just getting fucking under now Yeah, this point of the night. It's our next problem, but I got right when I creates the new one Well, it's all more people come in here. It's probably the next problem Are
+
+**[1:25] SPEAKER_00:** we back? I think we're I think we're back. Yeah, I hear you I'm sorry. We have so many people. Let me share it somewhere Yeah, same here we're gonna retweet this face Everyone that's listening go ahead and
+
+**[1:48] SPEAKER_00:** like retweet comment at the bottom right? Yeah. Thank you LMD Wait for more people to join. No, I feel like oh, there you go. I
+
+**[2:23] SPEAKER_00:** join your ear pods You play a song to his laptop or something But you want some time you got one Dude, this is my like first face. I'm hosting ever I'm afraid of touching It Did you serve spaces with Julie? Yeah, but I mean I never
+
+**[2:54] SPEAKER_00:** like started a space myself. Oh always cost and you know, so I Don't wanna fuck up. Yo, yo, yo, can you hear me? Yes, we can Okay, I Was parked in the area where there was unfortunately just bad connection and I moved and it's better. Yeah, we can hear you. Well now Okay Let's
+
+**[3:26] SPEAKER_00:** go All right Coming Yeah, we were talking about our events events Then then he was about to have something to be for about the I permit space but that's I Don't know where if you want
+
+**[3:56] SPEAKER_00:** to like get back there Yeah Yeah We'll see get get a little people Let's get some people coming in still Wait while they load since this last base is rugged. I Think they're still looking for the spaces, but I went ahead and retweeted this one And I also commented as well Tommy I see you down there. What seem funky Wardog Kindle
+
+**[4:28] SPEAKER_00:** Victor or troll palm Raheem What's up, Raheem board ape Rhyme is my lovely former boss or select great fan of mine Oh really Right Yeah, he's the Dubai president Whatever you need about Dubai you just ask him and
+
+**[4:58] SPEAKER_00:** you shall receive Okay. All right That's good to know Thanks for being here right We also got the Italian chef You know, I think Pinot is gonna be in hyper liquid Italia yeah he's running the italian community oh great good job pinot pinot grigio you
+
+**[5:47] SPEAKER_00:** got a lot of legends here legends yeah i think we can start and you know i'm sharing it in a few group chats hoping we get the people from before
+
+**[6:00] SPEAKER_00:** okay um you know i think we should talk about uh the price of hype you know i haven't checked the price of life in a few days where we are now still the same price 64 yeah yeah see a little pump yeah i've been irl maxing too much these days i feel like i completely missed a bunch of stuff happening in the echo so if you can you know go
+
+**[6:31] SPEAKER_00:** through anything that's happening right now we'd be like great for me okay okay um well yeah there's there's definitely a lot to cover um so right now the price of hype is 64 64 76 and it has been trading sideways for i'd say about
+
+**[7:01] SPEAKER_00:** one month now since we saw the last all -time high was around june 3rd and then it dropped down to 55 53 actually and at that time as hype was dropping people were saying 30 hype 30 hype and it didn't go to 30 it actually went to 75 again and it went to 75 on june 16 so the half of the month and now we're
+
+**[7:31] SPEAKER_00:** technically another 15 days after that and it's possible we could see another upside who knows but uh it's been trading pretty much sideways for now the last three months three months ago it was at 35 three months ago um so right now it's at 84 percent up since
+
+**[8:01] SPEAKER_00:** three months in april um but yeah a lot of people are waiting to see if hype is down i'm not too sure it's not looking like it anytime soon a lot of people are also worried about bitcoin um with michael saylor selling you have black rock selling you have a lot of these institutions that are selling as well and uh and who knows it might go down it might go up but
+
+**[8:31] SPEAKER_00:** uh definitely good time to stack up so can you guys hear me yes we can okay good got my wi -fi back the moment i say we we hear you we can't hear you anymore it's always like that damien
+
+**[9:02] SPEAKER_00:** you're cutting yeah i guess we have some issue some technical issue tomorrow in this today in this space but i guess it's fine how about uh how about me can you hear me yeah yeah can you hear me very well now yes okay okay great great my connection is a little bad as well but uh yeah thanks for letting me know yeah um let's see one more news we have so on other news we also have the usdh sunset so
+
+**[9:32] SPEAKER_00:** usdh is uh no longer the preferred uh stable for hyperliquid now everyone's going on to usdc and for the builders and the projects that we're building we're going to be building a new one and we're going to be building a new one and we're with uh hyp three or hip three like beef likes to say um hyperliquid was actually able to settle out 10 million to those who were affected so if anyone was affected by that change
+
+**[10:04] SPEAKER_00:** go ahead and contact hyperliquid and get some help jeff one airdrop you know a lot of people have been saying soon i think they've seen itかな keep saying that dude ever since that that poster came out of that cat and the plane coming over everyone's like s3 and changed to like chinese new
+
+**[10:33] SPEAKER_00:** year's and everyone's trying to do some conspiracy fucking hat theories like shenanigans and i'm just like dude i don't know for me i would like more clarity from team but i guess this is how the hl team rolls i mean when they do announce something it's always something really big like hlp3 hlp4 etc you remember how i was back in the day demi with the board apes when we were in the club it was uh what was
+
+**[11:03] SPEAKER_00:** it how did it go under promise over deliver yep i think that's how they're gonna play the playbook is keep very quiet but keep shipping but do you guys really believe in this airdrop because they don't honestly uh i'm an s3 believer well yeah i'm a 50 50 there's a lot of conspiracies there's
+
+**[11:33] SPEAKER_00:** a lot of theories but nothing is really set in stone i don't know i feel like we are at a point where there is really too much at stake you know when institution comes in and you know big players that i don't really feel like they're gonna do another airdrop because i don't feel like it's gonna be like positive for a press section what i was thinking was more i you know hyperliquid doesn't do like any grants
+
+**[12:03] SPEAKER_00:** program or stuff like that but i can see like more the the core team doing some you know allocation for builders or community members like for example you know now they just sunset usdh and as you just mentioned and you know the core team gave some grants to the builders that were building usdh and now they're building usdh so that community rewards stake left over i feel like it's gonna be like something more like this i don't
+
+**[12:34] SPEAKER_00:** really think they're gonna do another airdrop honestly what up what up sorry i was putting the baby to bed what's up guys i heard uh season three theories it's like really fun thing to talk about um i had on 800 on the hypermeet by the way new episode came out today um check my pinned if you guys want to see it but um yeah
+
+**[13:04] SPEAKER_00:** 800 seems to think that they're for sure going to do another airdrop because of the the wording in which they kind of break down the tokenomics and then also the fact that technically we don't meet the fully decentralized aspect of it because there's too many tokens that are controlled right now so they have to do some sort of distribution doing a burn is like another theory i've heard either way i think um of course you're going to have people
+
+**[13:34] SPEAKER_00:** who dump when there's an airdrop but i don't think that they're going to do it all at once that's the thing i think that because they have so much in like usd because hype has gone up so much that they don't need to drop you know more than 10 percent uh of the what 41 percent because it was like 38 plus two or three i forget um they can continue to do like these percent airdrops uh over the next i
+
+**[14:05] SPEAKER_00:** don't know six to eight years just to keep people incentivized to continue to come try it out because there's this airdrop that comes every so often you know what i mean like that's another route they could go um yeah i don't know what are your thoughts on that and then there was some big news that came out today that i want to know what you guys think about well that that is very interesting beef uh i i just think of okay if anyone's going to get airdropped anything from uh from
+
+**[14:35] SPEAKER_00:** hyperliquid it would be people that are actually holding people that have used the project or traded or uh built something as well too um i'm not too sure how that would work but now that before it was okay you know only several people were actually committing to the project and using it so therefore that there is a reason why they got rewarded because they're early but now you got a lot of people that are actually so much money so much hype it's like uh being
+
+**[15:06] SPEAKER_00:** used by these um other people how it's gonna be a lot of hype distributed to them as well too like lmd was saying it's gonna be now you got institutions coming in got big players coming in so that that new s3 airdrop might not be as sweet as the first one oh no definitely not like that that literally printed millionaires but beef didn't you also say that it's a big way of like putting coins
+
+**[15:37] SPEAKER_00:** up and so yeah people have a lot of it but like if i put a million of it down i could be like oh i'm running out of money in the ATM i don't know what's called it but uh but uh but yeah so i think it also means you know that that the cash flow you know has to be you know spread a little bit and um and yeah in the final phase of the project and find out very quickly what's going on and be like i did that like i did that wrong but they have to do something about it right so teams obviously the core team and we don't know you know who
+
+**[16:07] SPEAKER_00:** else has got one I guess per se because they're all kept in that wallet but yeah it's interesting to think about like what are they going to do with those I don't know but I said it before and if you've been like watching any of my shows or come into a space where we talk about this I think there's just a big checklist I don't think it's purely going to be trading volume I think it's going to be have you tried every feature as it came out have you played on hyper evm with that official art that came out have you
+
+**[16:37] SPEAKER_00:** how many of these protocols have you used do you hold these nfts you know like proving that you're a real user I think is also going to give you like a bonus and this is all speculation but this would just be what I would expect from the team who like when the airdropped hypers looked at some of the wallets that were receiving them and then maybe tweaked some of the traits to fit the people that they were giving them and then they were like oh my god I don't know what to do with this I think they're going to go ahead and put in that work and create this giant system of you
+
+**[17:08] SPEAKER_00:** know like a checklist to see what you've done you know kind of proving that you're a real user and not just a bot or a huge entity that's purely trading I think that's like the perfect way that any protocol should be doing it especially like when it comes to airdrops nowadays I mean before back in like when you got the uniswap airdrop like you just had to interact with the airdrops and then you just had to interact with that dex once and the paradigm of like airdrops
+
+**[17:38] SPEAKER_00:** have completely shifted now you have to literally do backflips and fucking hula hoops and all this shit to get even ten dollars so the problem for me is that right now there are way too many things to farm you know because since the airdrop we saw a bunch of stuff like um hlp3 hlp4 that they just launched you know and yeah all the hyper evm activities and stuff like that so I think it's going to be it's going
+
+**[18:12] SPEAKER_00:** to be quite challenging you know to I mean of course Jeff is a child and he's a big brain so he can definitely come up with a formula but I don't know if like there's so many stuff to farm that it's hard to understand you know where to focus yeah that's the thing I've I've thought about making like a checklist but I also don't want to like dilute myself um but I mean I've sat down and like wrote it on paper um there's definitely
+
+**[18:42] SPEAKER_00:** ways you could do it just to kind of you know get my thoughts out there you know it looked good to me made sense I think they totally could do that but let's I don't know do you guys want to move on from the s3 speculation and keep covering the news I want to know what you guys think about that new stable coin announcement that came out today running what you got yeah there's this new stable that's like uh seems like a
+
+**[19:12] SPEAKER_00:** bunch of traditional huge companies organizations are like putting their weight behind it and um they're deciding to give most of the revenue um to the people who are actually utilizing it so they're taking a very small sliver um based on some of the things I've seen I haven't dove into it too much I think tether is somehow involved um because it seemed like you know they kind of realized when they saw what USD um c was doing with hyperliquid maybe it
+
+**[19:43] SPEAKER_00:** clicked that like it's going to be a race to whoever can provide the most um to the people that are using it to to increase the utilization of it so it's really interesting because like what does that mean for hyperliquid like say say this USD or oh I don't know if it's o or zero USD gets super popular is there going to be like another situation where we're trying to trying to figure out which one we should use
+
+**[20:13] SPEAKER_00:** for hyperliquid uh because you know a bunch of people are utilizing this other one or are we just going to keep with USDC because that's the one that benefits us the most but then we're sacrificing maybe the composability of it if these other organizations wanted to implement hyperliquid I don't know do you guys have any takes on it I mean I feel like it's like almost like why why would you want to like if USDC's been around for quite some time and obviously Coinbase is like
+
+**[20:43] SPEAKER_00:** a huge entity like I would probably still stick around and just funnel it straight to USDC I mean USDC's and every single chain and it's it's always in the top 10 as a stable point because that's where people usually park their money right that or Tether so I don't know how I feel about it I think they should just stick to USDC in my opinion well one thing I see beef is that But I see Open Standard announces OpenUSD,
+
+**[21:14] SPEAKER_00:** and it's a stable coin backed by 140 partners, including Visa, Stripe, MasterCard, BlackRock, Google, and Coinbase. So it looks like they're attacking the traditional market. Yeah, and I mean, that's what it comes down to, right? It's like distribution. So if you have buy -in from these legacy companies, then they're going to see utilization. It's just going to take time. So we won't have to answer this question now, like what this means
+
+**[21:44] SPEAKER_00:** for Hyperliquid. But down the road, if they actually do get adoption with this thing, it'll come back around. Okay, so I didn't really know that there was that many integrations with it, so that changed my mind. I mean, like, we've had, you know, two stable coins, three can't be USD, like so many types of stables, right? Tether, USDC. So what's another one to add that has, like? A lot of institutional banking. I
+
+**[22:14] SPEAKER_00:** don't really see any harm in that. It's just like a sort of pair. What about Circle? Circle Internet Group, which is actually down 15 % after the OUSD announcement. Oh, really? That's right. Yeah, I mean, this is why I think that's just a gut reaction, knee -jerk reaction, to be honest. But I do think that, you know, over the long run, when this thing actually launches,
+
+**[22:44] SPEAKER_00:** and it's, like, being really used, that'll be, like, the point where we'll have to figure out what we're going to do. But it might be another, like, USDH -type situation, where you can, like, bridge your zero or OUSD to hyperliquid, and it'll, like, convert for you. I don't know. I'm not too worried about it. Nobody, there's nothing we have to worry about right now. It is a little alarming, though, since it is backed by IC Visa and MasterCard, American Express. That's already just, like, a huge. A
+
+**[23:15] SPEAKER_00:** huge W. Yeah, but again, like, nothing is live. Like, so, sure, everybody can partner with everybody, do the Spider -Man meme. You know, like, we're all shaking hands, but, like, nothing's happening yet. So, there's really nothing to get too worked up about. Okay, interesting. All right, what. Is this a Spider -Man meme? Yeah, yeah. I pictured it. Okay.
+
+**[23:51] SPEAKER_00:** What else do we have? Should we, uh, should we pin the tweet? Um, do you have a tweet ready? I was waiting for the boss to say the word. Did you not have a pin tweet? What's
+
+**[24:43] SPEAKER_00:** going on? Are we, am I rugging, or are you guys all quiet and being shy right now? I'm sorry. I'm, uh, I'm mobile right now, and I'm moving. But, uh, I was trying to look through the news that I got. There is a few things as well, too, that I wanted to cover. Um, but I'm mobile right now. Sorry. Let's go. All right, give me a second. I'm
+
+**[25:14] SPEAKER_00:** about to pin something on top. I just pinned our very first tweet from the HL Media official account. And the website is officially live. Let's go. Okay. Congratulations.
+
+**[25:47] SPEAKER_00:** Aw, dude. I feel so good now. Wait, wait, Demi, I have a question. What is HL Media? HL Media is a collective, including me, newly joined LMD, MB Beef, where we cover everything hyperliquid, have builders on, interviews, we have hypermeat
+
+**[26:15] SPEAKER_00:** with beef, we have spaces with protocols, uh, events. I think let me do, uh, do you want to speak on the events as well? Yeah, sure. Yeah. So the thing is, um, we want to celebrate the builders that make this space great. So we were like, you know, we have so many protocols in the hyperliquid ecosystem, hyper EVM, you know, but feel like the, um,
+
+**[26:45] SPEAKER_00:** all the news are like some kind of like scattered, like we have like posts from people and, you know, some guys who run Twitter spaces, but we don't have like. We don't have like one hub that basically like covers everything. So our vision is basically try to, um, talk about the builders and the projects in the hyperliquid ecosystem in a engaging way, you know, like by running Twitter spaces, which is like
+
+**[27:15] SPEAKER_00:** a more interactive experience rather than, you know, just a post that you read at home and you maybe interact with, or like podcasts where, you know, we interview some people. And as I was saying before, like for me, IRL is alpha and like over the years I've been in the space, like for four, for five years now. And like the people I connected the most were the people I engaged with, like during, uh, IRL
+
+**[27:45] SPEAKER_00:** meetups, you know, events, conference, I always travel around the world because I want to meet builders and want to meet the community members, you know, I want to create that kind of connection that unfortunate. It's impossible to create, uh, online. So yeah, one of the thing we're gonna run is IRL events. We might be cooking something for Singapore, but I don't want to say anything much because it's still like all TBD.
+
+**[28:16] SPEAKER_00:** But yeah, we really like want to push these, um, part of the ECHO that I don't think it's celebrated enough, especially, you know, like. on the EVM side that you know is not getting like much love lately so yeah that's what we're trying to do and I think another gap that we're trying to fill is just we see that there is a lot of HIP3 protocols HIP4 protocols and there is
+
+**[28:45] SPEAKER_00:** no really uh go -to media outlet that covers just like almost everything so the goal is to be like the number one source of information whether it's you want to see how much hype is burned high mistakes NFT volume it's going to be an aggregator of that and use latest articles what's happening in hyperliquid so just all in one hub of information just
+
+**[29:15] SPEAKER_00:** go to that's great that is great yeah because you know we have a lot of hyperliquid is is really huge right now it's really really huge and I'm seeing a lot of builders commentating on the HIP4 protocol so I think that's a really good idea so I think that's a coming in from other networks as well solana ethereum and so forth just coming in and and wanting to build and being part of this it's a lot of opportunity happening especially with the builder codes and uh people are coming in so those same
+
+**[29:45] SPEAKER_00:** those same projects are also taking advantage of you know uh the users getting getting um getting some capital inflow from from the users and and a lot of people that are using these projects they're a little iffy they're always iffy they're always iffy hey is this okay are they gonna rug me we're scared um i hope to be able to interview these founders which
+
+**[30:16] SPEAKER_00:** is an interview by i think you're rugging mb and i can't i can only hear like every third word can you guys hear him clearly yeah so i mean i can hear the passion every third word but um yeah we're just we're looking to support builders in the eco um we're very much hyper liquid bulls excited just about
+
+**[30:46] SPEAKER_00:** everything we're trying to do our best uh without you know being sex -like and you know not presenting things but we're trying to do our best to be sex -like and We also are like, we have to make that decision sometimes because a protocol might be unknown that we might have to wait and see before we present to you guys for like the newer stuff because we're always trying to protect people who are watching. We just want to create like some sort of media that we would watch, you know what I mean? And like, since
+
+**[31:17] SPEAKER_00:** we love the ecosystem so much, it makes sense for us to do this. The passion's definitely there. You know, we're really excited to be able to team up like this because we all have like unique aspects that we'll be covering. And, you know, we're always open to feedback too. Like if there's something you guys think would be a great addition to the eco, you know, talk to us about it. You know, if there's a protocol that you're excited about, tell us about it and then say why. Because lots of people shill, but it's like, if you're really
+
+**[31:47] SPEAKER_00:** a fan about it, then you should know a little bit, you know? So, yeah, just super excited. Super excited for this. Happy that this is the squad we got going. And, yeah, be on the lookout for everything we got going. Well said, Dave. And I think also like how we approach these protocols too. Like we vet really, really, really hard for everyone that we interview. We don't want to, you know, have someone that's
+
+**[32:17] SPEAKER_00:** trying to pull a fast one on us and really just trying to highlight real builders. Right. It gets tricky because, you know, you can have these big accounts, big following, huge engagement, and they can just like not be legit, but you can have an actual real team, but they don't have that big of a following. And then, you know, they're actually a legit team. So it's like, it's a hard
+
+**[32:47] SPEAKER_00:** vetting process that we're all still like learning as we go, as we interview people and talk to them. So I think that's one of the key elements is making sure that we highlight and we vet these protocols that we are showcasing. Awesome. I mean, yeah. Was
+
+**[33:17] SPEAKER_00:** there any other news you guys wanted to talk about? I know just kind of looking in the crowd, we got Dave from Treadfy, Treadfy Foundation put out a post today. I don't know if you guys were using any of their bots. I'm a super big fan. I've had them on Hypermeet a few times. But yeah, we're getting closer and closer to when the Tread Foundation is going to give more specific and we'll see what happens here. But very excited for what they have cooking. Like I said, I've interviewed them
+
+**[33:47] SPEAKER_00:** a couple of times. So check out those Hypermeets if you want to learn what I'm talking about. An excellent tool for utilizing and deploying market making the markets for HIP3 markets. I do it all the time. I like supporting. I'm a huge fan of TradeXYZ. So I'll do all my trading on X, Y, Z and then with Treadfy. So it's pretty awesome. Definitely check it out. Yeah,
+
+**[34:19] SPEAKER_00:** I'm excited to see what this is going to turn into. Because at first, it was just the Hypermeet episodes and just like I guess any project or protocol, team members get added, stuff gets added to the quote unquote roadmap that we're trying to build with HLM. And having it unfold in real time is kind of surreal. For sure, for
+
+**[34:50] SPEAKER_00:** sure. Was there anyone who wanted to come up and talk with us, ask any questions or just shoot it with us? Yeah, I think there was Brian. If you can request him to speak again because he can't talk to you for some reason. Oh, wait, I do. I want to shout out the audience real quick. Empress, Funky.
+
+**[35:21] SPEAKER_00:** Hyper, Mick, TJ, Psycho Kitty, Tommy, UTXO Chef, Straw Hat, Dan Haps, Void, Bustin, Log, Cynic was good. Rekt, Pom, Iggy, DJ, Speculate, Shango, Kendall, Rudy, Eric and Wardog. Thanks for pulling up, man. They got Brian on stage, I
+
+**[35:50] SPEAKER_00:** believe. Yes, ma 'am. I'm glad that we got Rahim in here for a hot minute. I love your new BFP, by the way. I didn't recognize you at first. Yeah, I don't have my hippie world order. I don't have my hippie on right now because it's World Cup. And I saw that, I can't remember who, Maxine, I think? Yeah, yeah, yeah. And I don't have a Hyper. So I was like, well, this is a close time to get to Hyper because I can't spend. I
+
+**[36:21] SPEAKER_00:** did not get the airdrop or anything like that. So I luckily DCA'd in last summer and I have a tiny Hyper. I'm very stack and very bullish on the ecosystem, everything that they're building. I can't bring myself to spend the hype to buy a Hyper. But I was going to just chime in on some other stuff. I'll steer away a little bit from the S3 because we kind of put that talk to bed. But the one thing I was going to say is do not sleep on Jake Trevinsky. So just to give you guys a broader introduction about who I am,
+
+**[36:51] SPEAKER_00:** if I've never had been on a space with you before, thank you for having me up here. Really cool you guys to jump in. I've enjoyed the conversation, just listening. I am the head of protocol partnerships at an infrastructure provider, institutional grade infrastructure provider, global stake. And through some side work I do, we're trying to bring blockchain education to Florida classrooms. I make my home in Tampa, Florida. And I have a membership to the Blockchain Association, which is the biggest trade organization in the United States and the one that's really kind of pushing the needle in
+
+**[37:22] SPEAKER_00:** terms of bringing Clarity Act to bear and so on and so forth. And I'm going to give you guys a little bit of background So I'm going to start with Jake Trevinsky, who is the one that was tapped to become the Hyperliquid Policy Center CEO, is a board member on the Blockchain Association. This guy is an absolute legend in DC. And I don't think people really understand just how much this guy can move the needle. More importantly, last, so Blockchain Association has a policy
+
+**[37:52] SPEAKER_00:** summit every December. And this happens usually early in the, in the, in the month. And I'm not kidding when I say that two years ago, when I was at the BA summit, Senator Hagerty said, the number one thing that we're going to do is pass stablecoin legislation because it basically furthers the dollar hegemony, right? And ensures that the US dollar maintains its global status as a reserve currency. And now they're doing that by bringing a blockchain. You guys were talking about the Oath Alliance that was just made headlines today.
+
+**[38:23] SPEAKER_00:** This is all part of the plan. So two years ago, the talk was all about bringing stable coins. That was the first piece of legislation. Obviously there's been a lot of contentious issues with clarity act because the way president Trump has and his family has enriched themselves with our industry. And that's caused a lot of concern, especially with the ethics and everything else that's happening. Like that's a subset of the clarity act that Democrats are pushing back on. But last December, whereas two years ago, it was all about stable coins. I kid you not. The talk of the summit last December was
+
+**[38:53] SPEAKER_00:** perps, perpetual contracts, how sort of they are the latest and greatest iteration and primitive that crypto has brought to bear. And we know that it's going to change financial markets. And so I think Jake Stravinsky was very smart of Jeff to pick him. And then immediately he siphoned off a couple other important staff members from the BA. So it's a bunch of chads that are in the hyperliquid policy center. And my speculation about
+
+**[39:23] SPEAKER_00:** S3 was I would not be surprised if we get clarity act passed. And I think you guys brought up some really great points. You wouldn't even have to airdrop a whole bunch because the value of the hype token is substantially higher now. You could do a much smaller allocation. What better place if you had regulatory clarity to airdrop is to Americans that by all intents and purposes could not receive the airdrop on the first go. But if you drop that into the biggest capital market, especially
+
+**[39:53] SPEAKER_00:** as US is becoming the crypto capital of the world, so on and so forth, it would be a massive push. And the wind would be in the sails of hyperliquid. So I think having somebody like Jake Stravinsky leaving the hyperliquid policy center, knowing that he is, and they're very, very interested in perpetual contracts. I think hyperliquid is the de facto leader in this space. If they can solve these decisions, they can solve these decentralization issues like
+
+**[40:23] SPEAKER_00:** you guys are bringing up by further spreading out the token, especially with a clear path to providing it to US citizens. And all that's going to do is look at what the original airdrop did. It effectively made an army of people go out and, because it's a very small community originally. And I completely slept on it because I'm just not a purpose trader. So when I first saw hyperliquid, I'm like, oh, that's not me. I don't do that stuff. I feel stupid for not even trying. Because I'm a button
+
+**[40:53] SPEAKER_00:** masher in general. But I think that's the ultimate tailwind post Clarity Act is just putting it in the hands of Americans. Because now you saw what it did in the first wave. Imagine that on steroids with a bunch of hooligans in the US ready to just gamble on everything. Yeah, no, I'm so glad you came up and touched on Jake. I'm a huge fan. I've been watching him when he's been doing his interviews on Bankless years back. So like, I'm actually, you know, talking with
+
+**[41:23] SPEAKER_00:** him, we haven't set a definitive date, but he is going to come on Hypermeet for an interview. So I'm real excited for that. But they are a team of chads. And I don't think we could have chosen a better crypto lawyer to fight for us. You know what I mean? So this is super exciting stuff. I'm very happy. It's just another decision like the team made to like create this organization. Or I actually don't know who technically made the organization, but it was a fantastic call. Whoever
+
+**[41:53] SPEAKER_00:** did, because this is definitely the type of move that's going to further positive regulation for all of us. So, yeah, very excited about that. How long have you been a part? You said you were a part of the what kind of organization? What was it called? It's the Blockchain Association. So the side work that I do is with the ARK ecosystem. And they've been members for
+
+**[42:24] SPEAKER_00:** two years. Yeah, May of 24, they joined. So I missed the very first Blockchain Policy Summit. And then I was there in the end of 24, end of 25. Be there again this year. We also do fly -ins where we go and talk to legislators, although ostensibly we're talking mostly about what we're doing for bringing blockchain education in the context of financial literacy here in Florida at a state level. But yeah, so I've been involved with the BA for a couple of years. And that's how I knew Jake originally, because he was one of the board members. And until he left for the
+
+**[42:54] SPEAKER_00:** Hyperliquid Policy Center, he was always on the monthly member meetings. And I've been a steady presence there and gotten to know the BA staff really well. Yeah, that's freaking fantastic. Man, Florida's all in the news about legislation and stuff. I saw today, I think, no more property taxes. That's fantastic. It's a constitutional amendment. We'll see what happens because DeSantis, originally he wanted no property tax. He wanted to extend the, so currently it's
+
+**[43:24] SPEAKER_00:** $50 ,000, the homestead exemption. Then it was going to be up to $250 ,000, cover most of the median homes in the state. But the one that went before, that's actually going to be on the constitution or is going to be a constitutional amendment proposal that'll be voted on by the electorate in November. It's not the version that DeSantis wanted, which because the exemption was going to apply to every kind of tax. And the one carve out, they said, well, we can't do that for schools because
+
+**[43:54] SPEAKER_00:** it would just decimate the education budget. So DeSantis was in the paper today saying, well, I'm not going to put my weight behind it. And he's a lame duck. He's leaving anyhow. So, but I will say just because we're all interested in blockchain, the guy who's probably the forerunner for the Republicans is Byron Donalds, who is now in the house, the US house. And he is determined to turn Silicon Valley into Silicon Beach is what he called it because he wants to learn more tech here, especially blockchain companies. So he's very
+
+**[44:24] SPEAKER_00:** in tune with the industry. His wife runs a charter school. I've already been talking to them and the people who run Optima Ed about bringing blockchain education into their virtual school as well. So, yeah, we're really pushing the needle in Florida. We tend to be ones that are always at the vanguard and the tip of the spear with trying to bring new ideas to education. So hopefully we continue to make inroads there. I really applaud people like you that really take that initiative
+
+**[44:55] SPEAKER_00:** and the extra steps to further our eco. So, like, shout out to you and people like you that are putting in that work. You know, a lot of people could sit on X and tweet, but not many people are doing what you're doing. So thank you. Thanks, Beef. That's our praise. Appreciate you too. And hats off to you too, man. Oh, we got Mick on stage too. I think we said what's up to him. Mick, what's good, man? Mick
+
+**[45:30] SPEAKER_00:** going once. Hey. Hello. Hello, everybody. Hello. Hi, Jay. Hello, let me do. Hi, Mick. Thank you. Wow. Every chat here for me. Not up. Void. Sorry for my French language because I speak not a little bad English, but because I don't speak English every day. I am very happy to be in this space to see that the HL Media is on
+
+**[46:00] SPEAKER_00:** today. It's a good idea because we can we can put inside one ecosystem. So it's very good. And and we will see in the future what what three I'm raised here because I have a good day today. OK, so and Bonjour les baguettes. I hope there is French baguette inside. Nick
+
+**[46:30] SPEAKER_00:** is my favorite baguette guy. Merci beaucoup. I don't know why like people in this space ate French, but I actually like very in love with the French community, especially because I don't know if you guys, but they're really with French community. It's like huge. I really like think they're basically like holding most of hype. And they're basically like farming all the. The protocols are very, very, very huge
+
+**[47:00] SPEAKER_00:** community. They're all over the ecosystem. So shout out to Nick. Thank you for joining us. Thank you. Thank you. Merci. G. Pip. Nice. P. F. P. Love. Hyperliquid NFTs. You guys should be. You guys should be stacking them. Not financial advice. They're on sale. They're on sale. Bye. Bye. Bye, all of them. They're on sale. Deep,
+
+**[47:31] SPEAKER_00:** deep, deep, deep discount. We also got Sakuna as a speaker. Welcome, Sakuna. Sakuna. Can I. Can you hear him? I don't see him. So maybe my axis glitched. But.
+
+**[48:05] SPEAKER_00:** That the drop -down listener. Yeah, it does not. Okay. Cool. Um. um so what do you guys uh what have you guys been been up to lately on the chain any new stuff catching your eye making any good trades what do you what are you guys doing oh i'm actually like super deep into this hyper beat fantasy workup and outcome markets like
+
+**[48:31] SPEAKER_00:** i've been like fully focused on this workout trying to make you know uh actually like was in a very good position i was like 40 in the leaderboard but then i was like irl maxing in europe and then i missed a couple of match days but honestly like it's one of the most fun activation i engaged in the last few months on every abm so shout out to hyper beat very great team i love what they're building oh
+
+**[49:03] SPEAKER_00:** yeah it's so much fun i'm terrible at it but i'm really good at losing we also got hype economist on stage hello hey guys how are you doing the legend the myth and the legend it's way too hot here is it did you get the ac no
+
+**[49:32] SPEAKER_00:** not yet i i called up like four companies and they're all i like booked out until like late august or something i mean you guys know that you should like get the ac before the summer summer right it never has been this crazy though really we we had like hot days but it's been like two or three days at max and now we're like seven or eight days where it's been unbearable oh man like last week in paris was crazy and like i tweeted a
+
+**[50:02] SPEAKER_00:** bunch of stuff about it like in dubai is actually better because we have ac everywhere i don't know how you guys can live in such a situation don't mind me i'm just enjoying my ac over here in the land of the geo blocked but yeah what's up hype economies what you've
+
+**[50:32] SPEAKER_00:** been up to what you're cooking i know you're building something i don't know if you want to share it or it's still early uh for that it's a bit too early i've been talking to many people privately but um for the public it's a bit early but i'm doing a bunch of stuff like trading a bit um got a few good smaller cap cooks i recently hit on like front running are for haze on soon was pretty fun um but besides that like
+
+**[51:02] SPEAKER_00:** i'm i'm sitting there in like 35 degrees celsius in my apartment trying to like not break out in into like crazy sweat while doing nothing um and spending a lot of time outside going for swims so not that productive i guess i see you you've been touching grass yeah yeah yeah there's no way it's not possible to you you don't you don't touch grass hype economist you're not allowed i know i know i'm washed i'm washed i
+
+**[51:33] SPEAKER_00:** will get back inside soon well despite touching grass i saw you've been cooking like i'm in your telegram group and i saw a couple of calls very very great call so gg i don't know how you can do that you know touching grass and you know circle things so gg yeah that's what i was gonna say there was there was two that you hit on and i was like dang first was nest and i actually interviewed them like right before or maybe after you said
+
+**[52:03] SPEAKER_00:** something about them and i was like oh yeah i mean this interview i was super bullish like it's it's great i did not get as much as i would have liked um you know gg but then also i was dming um hypercall but their old name was what is it synthetics or something like that and we were just talking and all of a sudden i saw the price action all over the timeline i was like dude you could have told me that the token was like out like i wasn't familiar with that part and then
+
+**[52:33] SPEAKER_00:** i was like oh my gosh this is a crazy pump that i totally just could have partaken in because i was talking to him maybe five days before it started really moving bummer but yeah gg yeah um i actually also had a call with them and like we also just talked about that they're going into options and stuff and like i looked it up later they they didn't tell me either but um yeah that they just converting the old token to the new thing and
+
+**[53:03] SPEAKER_00:** i just bought a bag out of speculation like it's a team that's like had some success in the past and they had like some money left i think um so it was a great narrative but like the the pump is crazy like that's some insider buy nand bungled cabal at this point like i sold i think i have like five percent left of my original size but i sold like almost the the recent top like i have a pretty good entry and exit like almost a clean i think 15x um but
+
+**[53:33] SPEAKER_00:** yeah i i wouldn't buy here just to to be honest like i i don't think it's worth anything close to that like there are no fundamentals to back it up at this point um the narrative is good there are other other things to invest in this narrative like looking to see how it is it's a good thing for me um but yeah yeah it's it's an interesting one all right who's next i have uh one last question here um what's the best bet for this one uh it's been a long time but i think there's a good
+
+**[54:03] SPEAKER_00:** chance that you know jenny's gonna be like a good bet for this one and if they don't break they're coming right here like we were talking uh about on the team about a few weeks ago about five years ago like we are like five or six years of fights today yeah like five or six years but yeah still positive uh i think think 50x on like a 10x leverage but still like that's some crazy money made of dude very little in the bear market i think you can afford to get an air conditioning guy out there asap that was a great great trade the thing
+
+**[54:37] SPEAKER_00:** is in i don't know how it is in other european countries but like in austria where i am money doesn't get you like at least like some extra money doesn't get you very far like people are just too lazy or not interested in making a bit more money to do things faster that's just another thing here yeah yeah no it's true it's the same in italy unfortunately yeah it's very bad like compared to dubai where i can basically like get anything from my phone like
+
+**[55:07] SPEAKER_00:** there we have so many apps to you know just book services like in europe it's such a hard time to find the guy who can come you know it's free you want to do the job you know so it's not really a matter of money you need to be lucky to find the guy yeah um i don't know if i can share this but uh lmd we have something planned pretty soon i
+
+**[55:37] SPEAKER_00:** think um yeah we can say i mean i've been talking about irl maxing for like two hours now oh yeah that's fine yeah we we're going to meet next next week yes like yeah next week in italy um but i'm afraid the shit going to be hot as fuck right yeah like i'm i'm north of this like that's not gonna be fun definitely gonna be us but we're gonna get drunk for sure we're gonna you know take you to some you know very nice restaurant
+
+**[56:07] SPEAKER_00:** we're gonna have yeah so good food good wine we're gonna be fine yeah i will i'm still looking for for a hotel but i need something with a cold pool i need something to cool me down i need something to cool me down i need something to cool me down in this seat yeah just and then i see obviously just let me know and they'll show up sounds good sounds good all right we also got lolly as a speaker
+
+**[56:37] SPEAKER_00:** hi lolly can you hear us hi let's do yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah oh yeah i can hear you yeah you're like far away from the microphone maybe okay all right well
+
+**[57:08] SPEAKER_00:** that was like the exact opposite yeah yeah yeah um gm mbg and let me do it's amazing to be in the same space with amazing minds has kept me going on the space and um i mean it's a good space to be like the safe space to be right now yeah um yeah just i want to talk about what i'm building but maybe not now just continue the conversation
+
+**[57:38] SPEAKER_00:** and yeah thank you for coming up i know you've been cooking some stuff do you want to talk about that as well if it's not too early okay okay okay okay so um i'm building coban um so coban is a social trading platform on hyper liquid um i
+
+**[58:09] SPEAKER_00:** would spin that to the jumbotron the social trading platform on hyper liquid beautiful um traders and probably nummies um it's um one of the ways i um thought of onboarding the next um 100k plus users to hyper liquid and these are nummies and one of the ways to do this is to have um profitable traders like i pick nummies that we have here um post um signals in a community and we have um people that trust um
+
+**[58:39] SPEAKER_00:** the signals to follow them and um and um and um and um and um and um and um and um and in this case rather than a regular telegram where you post signals um anybody that get to click copy or copy that trade um that by just one click via your community you get to earn um a um share of the trading fees um that they generate from copying your um your signal so yeah um that's that's just a brief of it um and um yeah that's that's what i'm building i love you you
+
+**[59:11] SPEAKER_00:** can um ask and reach out to me um i would love the support of the community real real big right um since last year hackathon um where we won a bounty i was a corner so it really didn't work out well after that i got humble i'm back building again and this time around i need your support right and yeah so that's it for me thank you i already pinned it to the jumbotron you can check it out cool cool
+
+**[59:43] SPEAKER_00:** um thanks for coming up and sharing that uh hey some other news that came across the timeline i want to hear what you guys think about did you see that the ventures team is now a part of uh phantom wallet do you guys see that i did not see that yeah they came through and scooped i wonder if they're going to be a hip3 deployer that would be fantastic you know something i've always wondered is like if you're a hip3 deployer and you have all of the and
+
+**[1:00:12] SPEAKER_00:** you were able to like um route the trading through like one wallet somehow that like you could pass on that huge um you know staking discount to the users that like trade on your platform i don't know i don't know if that's possible or if that's what they're going to do but it's interesting to see them scoop these people with the experience you know what are they going to do next with all these like protocols
+
+**[1:00:43] SPEAKER_00:** like like these wallets and stuff like that just really brought me back to like the nft days like when yugo labs like oh my god yugo labs acquired this yugo labs acquired that and like i feel like everyone's coming to hyperliquid and like when you just said right now beef like and i saw on the timeline i'm like it doesn't even surprise me anymore like when crazy bullish news comes out i'm like i'm almost expecting everyone to come here just because of
+
+**[1:01:13] SPEAKER_00:** what jeff's built and what jeff's built and what jeff's built and what jeff's built and what jeff's built and like the the rails that he was able to like make possible for all these protocols to even exist right so i don't know i'm just when i see news like that i'm just like ah damn just another protocol coming in more bullish for us but i'm like not surprised does that make sense because i'm just like i'm just almost like almost expecting any type of thing yeah it's a bear market out there but on hyperliquid i
+
+**[1:01:43] SPEAKER_00:** mean it feels different right it's like i i talked to some of my friends who haven't taken the dip in the hyperliquid yet and it's awful vibes and you know i i'm always trying to welcome them get them to see um you know what's cooking over here but the sooner we get jake and co over to uh smooth it over with the vpn that'll be good but there are some front ends i guess you can use without a vpn like uh bullpen legend
+
+**[1:02:13] SPEAKER_00:** um i think wick might be another one i'm not sure but uh yeah you just gotta try and show them alternative methods and get them to buy in that way so yeah you guys uh how's it going with you guys who are trying to onboard people who might be geo -blocked is it smooth is it always the vpn or what's the biggest hang up did i
+
+**[1:02:45] SPEAKER_00:** get rugged no i think you're fine i can't relate because you know i'm not in us so i never had this problem it's true beef i think it worked i just got through all the smoke tests nice happy to have you how are you i'm good i think i just built a new contract standard to
+
+**[1:03:15] SPEAKER_00:** recover a compromised wallet oh which is good if you get a compromised wallet then you know they can jack your shit i think i found a way to gate it and get it back and it just passed all the smoke tests so i'm kind of stoked so when's the real test into five minutes like you know when i'm get it all loaded up but
+
+**[1:03:45] SPEAKER_00:** i'm a little nervous you know i've been working on it for over a month and a half so like yeah i don't i don't want to test it what if it fails what if i just pretend it works and leave it like this forever i think that's good maybe you put in a lot of work so i'd be i'd be pretty bummed for you if it didn't work out so i've got faith sending positive vibes if you really do end up you know solving this problem it will be a giant net good for for everyone who this has ever affected so
+
+**[1:04:15] SPEAKER_00:** best of luck and you got to keep us posted when you actually do test it regardless if it works or not well i i mean i got to be honest according to the blockchain it did work already the contact standard but since it can be weaponized like if you got a hacker drains your wallet and then they can take full control that's not good so i've encrypted it buried it nested it put embedded images and built a dashboard that's gate
+
+**[1:04:45] SPEAKER_00:** kept um it hopefully will keep that from happening so nobody can figure out the mechanism but we'll see if it works like i said yeah it's like any anything it can be used for good or it can be used for evil everyone's on their builder arc right now dude they got hype eco over here empress yeah i
+
+**[1:05:16] SPEAKER_00:** almost had my other dashboard repaired i got a dashboard guys where i uh you know found a way to potentially scrape the github that's gated versus the git book so a little early information on some of the hyper liquid moves that are going on spill it spill it spill it nope nope not until it's fixed come on you can share anything with us let's just
+
+**[1:05:47] SPEAKER_00:** say i think it's going to be a little bit more i think that coinbase is far more in mesh than people realized let's just let's just put that there oh you got some real alpha wait um is this just connecting through the hyper liquid api or the git book no it's going around all that oh okay gotcha brian she knows
+
+**[1:06:17] SPEAKER_00:** brian i don't know anybody jesus christ i'm up here with all the wells of hyper liquid no i meant like you know brian she knows not like you know brian you all better be following everybody up here they're putting the work in um
+
+**[1:06:47] SPEAKER_00:** and they're you know like i said kol is a hyper liquid i'm never gonna let them down let that down i'm just gonna keep calling them that um because it's fun for me uh yeah i don't even i don't even know what to say but uh hype you go there's this thing in the corner just like just put it put it right on the right hand side bottom corner
+
+**[1:07:17] SPEAKER_00:** of your banner kol right there i think that'd be good yes i'm mocking you all a little bit but i'm doing it lovingly that's all shut up hypeconomist you've been striving for freaking kol for a hot second and with that said i just uh posted my latest episode of hyper meat at the top if you guys are interested no but actually in all sincerity as much as i'm mocking um you guys especially the rookies whatever else have put in massive work and helped to build this
+
+**[1:07:47] SPEAKER_00:** ecosystem and you get nothing nothing but respect from me um ogs and new new guys appreciate it empress empress hosts her own uh spaces on hyper liquid too late night they get a little raunchy a little dirty i think they're all horny when they're recording it but yeah it's it's super good um i do not hope and given i'm the only chick half the time i definitely do not get that you are definitely
+
+**[1:08:17] SPEAKER_00:** the one who says weird shit all the time don't put that on me never i never say i don't i i go out of my way to not look skanky in spaces being the only easy on the bourbon easy on the bourbon yeah i know it's the bourbon empress but you used to ask these twitter spaces we talked about defy on every liquid don't you think that's a good idea i don't know i don't know you guys do anything anymore because they were super valuable even if they were like a very weird time for me but i remember i used to listen
+
+**[1:08:47] SPEAKER_00:** the recording was very very nice um well toast and groot are family men and i think they had to kind of rejoin that aspect of their life plus um the protocols like at the time had slowed down we went like slow in general um so yeah i don't know they're still around but i i just it's nice i'm i'm in retirement you guys pick it up i'm just i'm trading that's it well whenever you want to come on space
+
+**[1:09:18] SPEAKER_00:** you're always welcome okay i appreciate you i'm i'm glad this is going on beef put puts in the work you guys are getting it together it's a good time besides i'm building all the building you know ai is dangerous you guys i already got banned from grok companions um because i fought with it too much you know i'm making
+
+**[1:09:50] SPEAKER_00:** a sandwich sorry you are kind of um you guys are popping out on awkward silences for a space dude make me make me a hyper meat sandwich is there any um liquid banking liquid banking condiments what
+
+**[1:10:24] SPEAKER_00:** we got pino on stage ciao you can hear me yes you can it's good hi friend ah hey fam my x is but still bugged in the ui but okay i only going up for a say gg with hl media release and i'm grateful uh you're working on that gg fam
+
+**[1:10:55] SPEAKER_00:** you already hit my dinner time i was waiting at the end because it was uh the first message that uh got sent for joining up but gg guys do you think i had dinner i didn't like i probably went first then dinner i know but i i have the dinner planned with uh for my family and i cooked it for uh for my fam i haven't the possibility to skip
+
+**[1:11:25] SPEAKER_00:** what did you what did you cook tell this american what did you cook some italians like delicatessen what did you cook yeah we i cooked the zucchini ripiene zucchini with a with a lot of stuff inside right how do you translate zucchini zucchini no zucchini nothing
+
+**[1:12:00] SPEAKER_00:** really elaborate besides italian dishes what have you been cooking i know you're cooking some stuff you were working on a project as well who me yeah yeah i'm cooking for sure let me do i'm always cooking stuff yeah we're running some boat and helping everly with projects different
+
+**[1:12:31] SPEAKER_00:** i believe it's project right now farming a lot i'm a believer part i believe in the s3 airdrop in the future airdrop and hype emission and i continue to use hyperliquid on all the platform right now we're pushing a lot with the hyp4 and we continue also also trading stocks and everything possible
+
+**[1:13:01] SPEAKER_00:** there are a lot of builder who incoming on hyperliquid i'm in contact with different teams i'm pushing for bring a technology project and effort inside every liquid and there are a lot of news incoming yeah that's a big project i'm trying to convince a really big big project to enter inside the hyperliquid ecosystem for uh also for buy a lot of hype and
+
+**[1:13:33] SPEAKER_00:** push our bags yeah we're working we're cooking speaking of cooking maybe one of these times we'll be able to do like a hyperliquid cook -off where we go head -to -head and create a dish and then have people judge it i'm in contact with the other i believe with community and i want to do an event another event asap i don't know if in the 2026 or a start of the new year and maybe do something a kitchen
+
+**[1:14:03] SPEAKER_00:** hl kitchen live and cook for the for the community that would be great if you want we can make some pizza for you guys i'm very good good at making pizzas nice nice i got the lockdown on meat any meat honestly i love i love cooking meat like
+
+**[1:14:33] SPEAKER_00:** for me the main course is the meat and the meat is the main course is the main course for the main course you know so i don't have a specialty the sides i need somebody to help me out with that but the main course yeah i got seafood beef pork chicken whatever okay i can i can cook some jello fries i don't know if someone is ready for some nigerian jello i can i can help with that i'm good at jello fries that would be great you know if like each of us can cook like a different thing like we're gonna face like so good i
+
+**[1:15:03] SPEAKER_00:** can order you know or cereal or something, I don't know. You just come in and press, it's fine. Hey, yo. Benvenuto, Ghost. I hear you, I believe we're in social spaces. Yo, yo, what's up, bro? Ciao, Ghost! Hey, ciao. Scusate, ma purtroppo vorrei partecipare molto in tutti gli space, ma il mio English non è che very bad. So they don't
+
+**[1:15:34] SPEAKER_00:** like the translation? Yeah. He said he's very happy to be here, unfortunately he doesn't speak English, so he can't really join the spaces, but he's very happy to be here with us. Ormai sono diventato esperto scrivendo l 'inglese più che altro che parlandolo, con già GPT e il traduttore, ma... Dude, I... Come stai? Parlare è molto più difficile. I learned English in the space, like, before joining the space I couldn't, like, say a shit. I mean, not that now my English is
+
+**[1:16:04] SPEAKER_00:** good, but still, you know, like, I literally learned the English through the space, and, you know, going, grinding on Discord for whitelist and bullshit like that. You can do it. Thank you so much. I think you all are cap, I think all of you speak fine English. I think it's some sort of weird thing where you want us to say bad things because we think you can't speak English. But you guys all sound like you speak fluent English, FYI. Yeah, but it's
+
+**[1:16:34] SPEAKER_00:** more like, I mean, for me, it's more like, you know, I know I have this very strong Italian accent. I can't really get rid of. So it's like a pain. So I totally understand goth, you know, because I've been there. It's really hard, you know, when you speak a different language and you can't really interact with people the way you want. But it'll eventually get there. Wait, you're Italian? I am Italian, Vic, you didn't know? No, I'm just joking. Awesome.
+
+**[1:17:11] SPEAKER_00:** Well, I think this was a good kickoff for Hyperliquid Social with our, I mean, did we, did we say it officially? Like, LMD is on the squad now. Yeah. Super exciting stuff, guys. She brings a lot to the table. So we're really happy to have her with us and in our corner. LMD, it's, it's a pleasure working with you so far. I'm really excited to see what we all cook and, and for Hyperliquid in general. I think it's the best opportunity for us all. I'm happy you guys are
+
+**[1:17:41] SPEAKER_00:** plugged in with us and along for the ride. And yeah, it's going to be awesome. I think so. Thank you, LMD. Happy to have you. Thank you so much, guys. I'm super excited for what's next. Thank you, MBMB. And thank you for everyone who joined today. And I'll talk to you guys soon. Make sure to follow the HL Media new ex account. Yes, please. HL Media. HL Media underscore IO. All
+
+**[1:18:13] SPEAKER_00:** right. Hyperliquid. Thank you, guys. Hyperliquid. Hyperliquid. Hyperliquid. Just before y 'all go, make sure to follow Coban. Yeah. Give us a photo. Ipiknomist. I'm your DM, bro. All right, man. See you. Bye, guys. Take care. Bye, guys. Thank
+
+**[1:18:48] SPEAKER_00:** you.

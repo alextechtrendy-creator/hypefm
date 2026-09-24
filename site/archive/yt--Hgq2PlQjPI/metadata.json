@@ -1,0 +1,84 @@
+{
+  "space_id": "yt--Hgq2PlQjPI",
+  "title": "HyperMeat YouTube -Hgq2PlQjPI",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-07-07T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Tangle",
+      "handle": null,
+      "team": "HL Names",
+      "role": "guest"
+    },
+    {
+      "name": "Crouton",
+      "handle": null,
+      "team": "HL Names",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=-Hgq2PlQjPI",
+  "summary_title": "HL Names: Building Hyperliquid's identity layer with 43 app integrations",
+  "summary_description": "Tangle and Crouton discuss .HL names as the social identity protocol for Hyperliquid, affiliate programs, and ecosystem growth.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 36,
+      "label": "Tangle's journey from Dogecoin mining to SushiSwap to Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 219,
+      "label": "Crouton bought the top in 2017, later discovered Hyperliquid's ethos aligned with original crypto ideals"
+    },
+    {
+      "timestamp_seconds": 611,
+      "label": "What is a .HL name? Identity and data resolution on Hyperliquid EVM"
+    },
+    {
+      "timestamp_seconds": 883,
+      "label": "43 apps integrated; REST API integration takes under 30 minutes"
+    },
+    {
+      "timestamp_seconds": 1156,
+      "label": "Affiliate program: 10% discount for buyers, 20% kickback for referrers, users earned 37 HYPE so far"
+    },
+    {
+      "timestamp_seconds": 1458,
+      "label": "Brand refresh signals maturation toward institutional audiences at Hyperliquid Summit"
+    },
+    {
+      "timestamp_seconds": 2153,
+      "label": "Season 3 airdrop debate: rewarding real users vs. farmers, complexity of multi-chain distribution"
+    },
+    {
+      "timestamp_seconds": 3307,
+      "label": "Future roadmap: mobile onboarding, web domain integration, wallet-level support like ENS"
+    }
+  ],
+  "pull_quote": "Every chain needs a name service. We want your .HL to be your identity across everything.",
+  "quote_attribution": {
+    "name": "Crouton",
+    "team": "HL Names",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3807.0826875,
+  "capture_failure_reason": null
+}

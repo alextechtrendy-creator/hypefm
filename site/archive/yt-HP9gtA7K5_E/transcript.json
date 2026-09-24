@@ -1,0 +1,878 @@
+{
+  "space_id": "yt-HP9gtA7K5_E",
+  "language": "en",
+  "duration_seconds": 4409.3013125,
+  "chunks": [
+    {
+      "start": 28.23,
+      "end": 58.33,
+      "speaker": "SPEAKER_00",
+      "text": "what's going on everybody super excited to be chatting with George today he's an active voice in the hyper liquid ecosystem got quite a colorful pass to super excited to sit down with you George how you doing today I'm doing very well I just finished playing like two hours of tennis in the Sun so I'm I still have quite a red face but I'm doing good you know lots of Sun lots of outdoor time so can't complain awesome dude yeah I uh I recently got into pickleball a little bit and oh my gosh"
+    },
+    {
+      "start": 58.33,
+      "end": 89.35,
+      "speaker": "SPEAKER_00",
+      "text": "that is a workout dude so tennis I'm sure is a harder or just as hard so respect to you for doing that I don't know that I'll keep up that hobby but it was fun it was fun yeah I mean man it's it's perfect for summer I get outside run around I think I was like missing a bit of competition in my life as well so it's been good to have a little bit more like you know a bit more competition in the day -to -day I think it's nice getting those foreign levels up love it all right"
+    },
+    {
+      "start": 89.35,
+      "end": 119.41,
+      "speaker": "SPEAKER_00",
+      "text": "dude well before we kind of dive into hyperliquid do you want to uh tell us your your crypto background yeah my crypto background wow I mean I know do you want the the short the medium or the long version I can I can leave it up to you uh whatever you think is you know our listeners would enjoy I mean we got time man so it's up to you we got time okay so I mean essentially like I started trading assets when I was like quite young you know like paper trading accounts and things like that"
+    },
+    {
+      "start": 119.41,
+      "end": 149.89,
+      "speaker": "SPEAKER_00",
+      "text": "and then I I had a stock account that I managed to get in like my it's my money but like my dad's name or something with like you know just my paychecks would go into there and I ran that up and then I lost it all like as you do and then it's kind of like interested in trading stuff but like kind of got distracted by work and everything and then covered I was working in professional sports and they like obviously stopped playing um so I had more time and Australia"
+    },
+    {
+      "start": 149.89,
+      "end": 179.93,
+      "speaker": "SPEAKER_00",
+      "text": "did this really crazy thing where like they gave you access to your 401k essentially uh we have like a different name for it but that's kind of the equivalent in the US so they gave you access to the 401k and I'd been working since I was 14. so all of a sudden I was like well I'm just going to pull all of that out and I'll do the responsible thing and I'll invest it in you know conservative ETFs and I will wait for that to grow and then I'll buy a house with it and then I'll have a liquid version of my 401k that I have access to"
+    },
+    {
+      "start": 179.93,
+      "end": 209.97,
+      "speaker": "SPEAKER_00",
+      "text": "like you know before retirement age and I thought that was genius and then almost immediately I started going down the risk curve and like gambling on penny gold stocks and buying Esports shares and all of these ridiculous tokens or not even tokens back then all these stocks that you know I was in I was in the forums I was talking about like geo geologic reports trying to strike gold all of these ridiculous things and"
+    },
+    {
+      "start": 209.97,
+      "end": 240.15,
+      "speaker": "SPEAKER_00",
+      "text": "then through that kind of risk curve I I stumbled upon crypto bought my first ETH kind of middle of 2020 so probably I don't know I think it was around 200 US more or less um and then kind of went down that rabbit hole I God I I think I I remember it's funny like onboarding stories one of the first things I bought was from some YouTuber made a list of coins that he liked or something looking back on I'm sure he was paid for it but"
+    },
+    {
+      "start": 240.15,
+      "end": 270.25,
+      "speaker": "SPEAKER_00",
+      "text": "it was called like ether risk or something and it was a like chain link backed insurance protocol for like African farmers to get like be insured from droughts and things like that oh my God I mean just hilarious but yeah no so I I went through the normal rounds I like bought moon cat I bought a moon cat at like the absolute top and then kind of needed to justify that and stayed active in the nfts and then went through the"
+    },
+    {
+      "start": 270.25,
+      "end": 300.29,
+      "speaker": "SPEAKER_00",
+      "text": "ETH nft bull market then the Solana nft bull market like had a project of my own and then yeah now then I kind of logged off for like a year because I was pretty tired of it to be honest I sold pretty much all my stuff at the end of 2024 and was just like it I had some big life changes that I went through as well and I was like I just don't want to be active I'm pretty sick and tired of it like I think the more things are up the more euphoria is in the market I just"
+    },
+    {
+      "start": 300.29,
+      "end": 330.43,
+      "speaker": "SPEAKER_00",
+      "text": "it's really not a nice place for me to be in I think I just needed some time off and I felt like I'd I'd won I'd hit the targets that I wanted to do and I was like this is done for me and then I kind of came back at the start of the year and I there was a bit of an interesting process for me to fall back in love with crypto I started to write because I think it was really good for my brain to write and express and to to grow as a writer and then I realized that if"
+    },
+    {
+      "start": 330.43,
+      "end": 360.59,
+      "speaker": "SPEAKER_00",
+      "text": "I wanted to do that and I wanted people to read my things then I should lean on my Twitter and I should start you know sharing more about my thoughts and just doing it my own way and then now like all of a sudden Twitter was attached to a positive habit that I wanted to develop and it and it was there was positives that could be hard of you know getting in the space it also was the prices were stuff that interested me and I just for whatever reason this kind of cocktail of things happen in my life"
+    },
+    {
+      "start": 360.59,
+      "end": 390.73,
+      "speaker": "SPEAKER_00",
+      "text": "and I've kind of come back and fallen in love with it and I've got a really I I think I've got a kind of particip my level of participation now is much healthier than it has been in the past and it's much more me it's very much uncensored and it's kind of doing things in my own way and for my own reasons and I know I've kind of fallen in love with it again which is which maybe paired to the prices that are at the moment maybe the same thing will happen at the top yeah"
+    },
+    {
+      "start": 390.73,
+      "end": 420.77,
+      "speaker": "SPEAKER_00",
+      "text": "I guess that's like a zero to one of my my journey oh that's pretty cool thanks for sharing that story man um I got in trading options too kind of early and did that for a while um definitely was risky at times too oh man dude I remember one time I was holding so many contracts and the Nikola like that I'm gonna make 500 bucks today that's fine that's great if I just do this every day it's fine so I sold and then like"
+    },
+    {
+      "start": 420.77,
+      "end": 450.97,
+      "speaker": "SPEAKER_00",
+      "text": "five minutes later the CEO tweeted some dude and if I held it I would have made like I don't know 150 grand or something oh that one hurt dude but yeah eventually uh found my way to crypto too and I love that you're back dude I didn't know you prior to you talking about hyperliquids so from my perspective that's kind of where I'm at I saw you as like an interesting leader with some good opinions and you bring your own flavor to it like your sub stack uh you didn't really mention"
+    },
+    {
+      "start": 450.97,
+      "end": 481.31,
+      "speaker": "SPEAKER_00",
+      "text": "it but but I'll mention it it's pretty cool uh it's not what you'd expect yeah if you guys um are into reading cool ideas and and just listening to people's opinions who like actually put thought into it then check it out um thank you yeah I mean the sub stack's interesting because like I know my brain is so I think everyone's brains are so wired for return on investment so I think that's kind of where I'm at I think that's kind of where I'm at I think that's kind of my brain is so I think everyone's brains are so wired for return on investment investment you know what I mean like I spent so long I spent my entire youth being taught that"
+    },
+    {
+      "start": 481.31,
+      "end": 511.31,
+      "speaker": "SPEAKER_00",
+      "text": "your time is money and you know you should do the thing that's most valuable it has the highest return on your time and what's been really interesting for me with the sub stack is I could be making a lot more money I could be directing that at my crypto audience and I could be writing about things that are like Market base you know people at the end of the day most the time people just want financial advice say what do you think of the market when you're buying like this kind of thing and"
+    },
+    {
+      "start": 511.31,
+      "end": 541.53,
+      "speaker": "SPEAKER_00",
+      "text": "I have kind of refused to do that and kept this as my creative Pursuit to write about whatever I want sometimes it is it you know there's an overlap because it's a passion of mine and that happens but through my own I don't know reconfiguring of my North Star has been like no you know this is a creative Pursuit I'm gonna keep this as my own thing that I talk about whatever I want and that's it and then now I'm starting to be a bit more inspired like I think that there's potentially like a George podcast on"
+    },
+    {
+      "start": 541.53,
+      "end": 571.93,
+      "speaker": "SPEAKER_00",
+      "text": "the horizon and that would be more based on the crypto things because there are more topics that I want to talk about to that audience and I don't want to change that the sub stack as being like the just for creative Pursuit so it's been really interesting to kind of go through and figure out how I want to spend my time and what my North Star is you know what I mean because for so long and for so many people and for most people forever I suppose is just like North Star is money right"
+    },
+    {
+      "start": 571.93,
+      "end": 601.99,
+      "speaker": "SPEAKER_00",
+      "text": "like what brings me closer to success in the form of money and that's what I do now I've kind of bought my I bought the opportunity back to go hey you know what what would my North Star be if I didn't require the money and that's kind of the process that I'm trying to I guess publicly discuss uh that I'm going through at the moment which has been really interesting that's quite the blessing man to be able to uh you know make decisions like that um you know so many people never get that"
+    },
+    {
+      "start": 601.99,
+      "end": 632.13,
+      "speaker": "SPEAKER_00",
+      "text": "opportunity throughout their whole life and and yeah money is important but following your passions and doing what really brings you happiness is is far more important I think and as long as you have you know the ability to feed your family um you know and have shelter then the rest is just extra blessings so I know that sounds corny but that's how I feel about it no I mean there's there's like a concept it's I think it's a Japanese word I think it's called ikigai potentially"
+    },
+    {
+      "start": 632.13,
+      "end": 662.23,
+      "speaker": "SPEAKER_00",
+      "text": "uh it's basically like this concept of doing something that um I'm pretty sure it's that it basically is like a concept of the things that is like a picture of Venn diagram of all of the things that uh you like to do things that give you fulfillment things that you know you can provide the world that you can provide the world that is larger right so it's it's it's like a picture of entire tribe unique to you and then also like ideally there's a financial incentive you know what i mean like you want to be in the intersection of all"
+    },
+    {
+      "start": 662.23,
+      "end": 693.81,
+      "speaker": "SPEAKER_00",
+      "text": "of those things and i think that there's like that's what i'm kind of pursuing it's there is a world where i can help people through my specific knowledge and also have like incentives right you know i don't know what they are but maybe it's a podcast maybe it gets sponsored and that more than anything just incentivizes me to show up and do it every week and then you have that being something that helps and rewards you like i i think that i'm i'm starting to see the the"
+    },
+    {
+      "start": 693.81,
+      "end": 723.83,
+      "speaker": "SPEAKER_00",
+      "text": "like pluralism in all of the output you can do things that aren't just in a pursuit of money but they can still result in some money you can do things that are aren't just to help people but they can also help people you know i think we try and categorize everything as one thing or the other like you can donate to a charity because you think it makes you look good but you still do good you know it's not just virtue signaling and worthless like you're still contributing and you're getting the credit for it like i think that people people"
+    },
+    {
+      "start": 723.83,
+      "end": 753.91,
+      "speaker": "SPEAKER_00",
+      "text": "need to be more open to the concept of duality and pluralism with with effort like things shouldn't be just categorized as one or the other i agree dude and hey man i would welcome you to uh join me you know in the trenches here trying to get more people over to hyperliquid and uh you know talking talking to you and i think that's a really good idea and i think that's a really good idea and i think that's great and like i said before i like your take so yeah come on dude fire up the pod what are you what are you gonna call it have you thought about it uh i"
+    },
+    {
+      "start": 753.91,
+      "end": 784.29,
+      "speaker": "SPEAKER_00",
+      "text": "don't know i mean all of my other things are pretty a pretty stripped back just george you know so maybe it's a george podcast or maybe it's something more creative but i've been thinking about i've got some concepts in mind i've like started to press some buttons i go away for a little bit soon so i think i'm just gonna let it sit in the back of my mind and bounce around and i'll see you in the next one but i think when i'm when i'm back from holidays things won't happen but yeah at the end of the day i mean i think i think that there's a real edge to be found in doing the hard things that people don't want to do right"
+    },
+    {
+      "start": 784.29,
+      "end": 814.33,
+      "speaker": "SPEAKER_00",
+      "text": "like doing a podcast writing longer form taking longer longer to research things like obviously the immediate reward is fully geared towards fire out a tweet that makes people mad or just bull post and get people excited that is the ev positive position to take but it's not how you really kind of build up a strong reputation that lasts you know so i think for sure i encourage everyone to to do the the hard things that's what i"
+    },
+    {
+      "start": 814.33,
+      "end": 844.47,
+      "speaker": "SPEAKER_00",
+      "text": "am trying to find solace in you know like you spend you spend a few hours writing a sub stack you post it out it's very hard to measure success through that it's very hard to see you know how many people liked it how many people read it whatever but the the through line of it all is that people resonate with it more deeply and it's kind of these higher quality impressions versus net low value impressions for a better word so i think for sure like i think it's great that"
+    },
+    {
+      "start": 844.47,
+      "end": 874.77,
+      "speaker": "SPEAKER_00",
+      "text": "the people like you were doing the podcast and obviously the more people that know about hyperliquid the better and i think it's fun i think there's a lot of people who have come in and they know me from a few months ago and they pick up when i'm putting down and they know me as a hyperliquid guy and i have no problem with that i mean it's my my biggest holding and it's uh i've certainly not been quite as successful as i've ever been i just wanted to say that i'm very proud of myself and a lot of people have asked me and i think that's how you get respect as you put your reputation on the line like the easiest path forward for me would have been to just bull post solana"
+    },
+    {
+      "start": 874.77,
+      "end": 905.13,
+      "speaker": "SPEAKER_00",
+      "text": "and stay in the ecosystem i knew but that's not what i believed and at the end of the day you want to stake your reputation on something and that's how you actually get reward for it hell yeah man conviction all right man so let's kind of dive into high quality stuff hyperliquid and crypto in general here how did you first find about uh find hyperliquid and you know how early were you did you get the og airdrop did you get the nft the hyper hypermeet"
+    },
+    {
+      "start": 905.13,
+      "end": 935.37,
+      "speaker": "SPEAKER_00",
+      "text": "is proud to be sponsored by silhouette the shielded layer on top of hyperliquid not only will you be able to obfuscate your trades but you will be trading with some of the steepest hyperliquid fee discounts that are available awaken taxed crypto taxes for crypto natives could not have submitted my taxes without the team at awaken awesome customer service and they are always improving their hyperliquid support get started with awaken our next sponsor is hl names claim your dot hl name today"
+    },
+    {
+      "start": 935.37,
+      "end": 965.89,
+      "speaker": "SPEAKER_00",
+      "text": "and start establishing your on -chain identity already integrated with 43 apps and counting grab yours now by using the link down in the thread below hypermeet is also sponsored by rip .xyz if you're bullish on the hyperliquid eco you can get a free copy of the hyperliquid account and get a free copy of the hyperliquid but can't get your own hyper or just want to increase your current exposure to hypers rip .xyz offers a solution there are hyper vault gives you tokenized exposure to a managed portfolio of hypers and this is for the s3 believers with"
+    },
+    {
+      "start": 965.89,
+      "end": 996.35,
+      "speaker": "SPEAKER_00",
+      "text": "holders also receiving a proportional share of any airdrops that are earned by the vault check out rip .xyz today oh nothing discussed on hypermeet is investment advice always do your research and make your own decisions i'm not responsible for any actions you take myself and my guests may hold positions in the protocols we talk about all right buddies let's get back to the show yes and yes i actually first found it from"
+    },
+    {
+      "start": 996.35,
+      "end": 1026.53,
+      "speaker": "SPEAKER_00",
+      "text": "um a good friend of mine frog uh like wrong user 69 i'm not sure if you're familiar with him but he's a he was a good guy and he was kind of early to a lot of things and someone i respected and he posted about it and i'm like i think it was january of 2024 so i used his code signed up and parked um parked a bunch of money in the hlp vault and kind of didn't really actively trade on it to be honest and then took some trades"
+    },
+    {
+      "start": 1026.53,
+      "end": 1056.65,
+      "speaker": "SPEAKER_00",
+      "text": "and i started to just be like oh this is because previously right like i tried dydx i'd tried um the solana options which were pretty shit like i had mango markets back in the day then you had like a lot of other things like i had a lot of other things like i had a lot of other uh drift as well adrena like there was a lot of options it just felt like everyone was building a shitty dex for the sake of it and people would see a shitty dex and be like oh i can build a better one and then they just build their own shitty dex like it was this horrible loop that kept on"
+    },
+    {
+      "start": 1056.65,
+      "end": 1086.77,
+      "speaker": "SPEAKER_00",
+      "text": "happening and somehow they all got funded but for i think the most of 2024 if anyone would post a trade or a screenshot of of anything i would just be like oh you're insane like why aren't you using hyperliquid you know what i mean like it's kind of mental that you're not um and i think in hindsight i mean everything's clear in hindsight i could have done a lot better with shilling my ref code um because i think i did onboard a lot of people to hyperliquid but just by saying what are you doing not using hyperliquid and"
+    },
+    {
+      "start": 1086.77,
+      "end": 1117.27,
+      "speaker": "SPEAKER_00",
+      "text": "like we just send them the link you know i wouldn't send them my ref code for some reason so yeah i had a little bit of volume on it but i also just i had like six figures in the hlp vault and the vault returned 20 or 30 percent or something so i just remember thinking sick like as long as this thing doesn't get hacked it's a protocol that i'm super happy with like i think it's way better it's definitely the best thing to trade on and this hlp vault's making me money through liquidations so and there's like you know maybe an airdrop so i was pretty happy and i uh again"
+    },
+    {
+      "start": 1117.27,
+      "end": 1147.73,
+      "speaker": "SPEAKER_00",
+      "text": "hindsight i could have done a lot more but i was very blessed to get a good airdrop love it dude fantastic man you're talking about ref codes i've been i've been doing content since march of 25 and zero and i'm like oh my god i'm like oh my god i'm like oh my god i'm like oh my god zero people have used my ref code oh yeah you support your boy beef man hyper meat use it use the code oh my boy oh yeah dude happens man i mean i've like never showed a ref code the only ref code i shield um recently"
+    },
+    {
+      "start": 1147.73,
+      "end": 1177.91,
+      "speaker": "SPEAKER_00",
+      "text": "was the variational one just because i thought it was it is like kind of interesting to farm or whatever um and i was surprised how many people use my code to be honest and i it made me think i was like damn like i should have done that with hyper liquid i should have done that but i mean i don't want to i don't want to be shilling ref codes and things i i don't want to be a guy that chills ref codes you know what i mean like if i'm gonna show something it's because i i believe in it so i guess that's uh for the best but in hindsight i uh i definitely could have bag worked a bit more with my hyper liquid ref"
+    },
+    {
+      "start": 1177.91,
+      "end": 1208.31,
+      "speaker": "SPEAKER_00",
+      "text": "oh man yeah dude i mean it happens it happens it happened but i and i did get the i did get the hyper i i i don't know if it's good oh my gosh dude that's fantastic what a sale price yeah no i mean wow compared to what they are now i do think they're gonna have their day though yeah i think so too i like i sold"
+    },
+    {
+      "start": 1208.31,
+      "end": 1238.49,
+      "speaker": "SPEAKER_00",
+      "text": "it and i kept the hyper liquid and i was like you know what actually what happened i sold it for 1450 and then i sold the hyper liquid at whatever it was when i sold it which was i don't know like high 40s or something mid 40s 40 something and then i bought the hype back at like high 30s so that was like my journey and then i was like when they go down to when i can buy two i'll buy them and they kept on going down and i was like oh actually you know what i"
+    },
+    {
+      "start": 1238.49,
+      "end": 1268.91,
+      "speaker": "SPEAKER_00",
+      "text": "don't want to spend my hyper liquid bro like i really want to keep these tokens and then it was like oh i could buy three with the same things and i i still was like nah i think i should just keep the tokens so i think at some point for sure they'll have their day but you're gonna you have to fucking rip these hyper liquid tokens off my cold dead wallet bro that's the problem dude i'm telling you man i think they're a good price now and it's funny you say like you know rip uh there's like protocols now that like tokenize"
+    },
+    {
+      "start": 1268.91,
+      "end": 1299.03,
+      "speaker": "SPEAKER_00",
+      "text": "hyper kind of like that uh crypto punk punk punk strategy kind of thing yeah yeah yeah there's whole theories about s3 i'm gonna ask you about that later but oh dude i'm a believer in that i'm a believer in hyper i think they're gonna have their day for sure and i think right now is a great price not financial advice but you know but i think it is i i do i mean like to be honest i do i love it i love a jpeg it's part of my it's part of my law and i do love cats and i also love like they"
+    },
+    {
+      "start": 1299.03,
+      "end": 1329.19,
+      "speaker": "SPEAKER_00",
+      "text": "have snowboards they have surf they have like surfboards they got a lot of shit that i like and they're blue bro it's like it's heavily positioned towards my interest so at some stage i will definitely have a jpeg and i'm gonna have a jpeg and i'm gonna have a to repurchase some some cats awesome awesome all right so you know you've touched on this a little bit before you were a well -known you know solana figure solana voice what thank you for not saying solana influencer by the way i really appreciate that solana"
+    },
+    {
+      "start": 1329.19,
+      "end": 1359.23,
+      "speaker": "SPEAKER_00",
+      "text": "kol oh god thank you i was just joking what first attracted you to solana and like what did that whole experience like teach you about identifying like actual winners in the space uh i mean i think it's i think it's an interesting thing right like i think that solana ecosystem moved really fast and it had all the things in a normal l1 that you would hope to see you know like i think that you"
+    },
+    {
+      "start": 1359.23,
+      "end": 1389.31,
+      "speaker": "SPEAKER_00",
+      "text": "have all the dexes you had a very early i think in general it taught me identifying in a finish inefficiencies more than anything else it taught me how to identify a market that was not it was not a finish efficient and then had a lot of opportunities as a result right like the less efficient a market is the more opportunity is present and like when you were talking about like i"
+    },
+    {
+      "start": 1389.31,
+      "end": 1419.43,
+      "speaker": "SPEAKER_00",
+      "text": "remember being the soul punks discord back in the day and it was like you know you're you're trading discord messages you're trading you're trading an asset that barely moves and has zero liquidity and you're trading an asset that barely moves and has zero liquidity and that's where there's like a lot of opportunity and i think solana as an early ecosystem being objectively really early to it it taught me how to kind of identify inefficiencies in a market that was very very far from being efficient i think"
+    },
+    {
+      "start": 1419.43,
+      "end": 1449.71,
+      "speaker": "SPEAKER_00",
+      "text": "the being early in the solana ecosystem taught me a lot about market inefficiencies i think in general you have more opportunity in a market that's underdeveloped i actually had a tweet recently that said that if you're going to market inefficiencies i think you have more opportunity in a market that's underdeveloped recently about um robinhood basically saying because people were going oh you know Robert had change the thing i mean i'm sure people still are doing it for whatever reason but people were kind of oh you know it's it's finally like a new chain without it doesn't have all the bad things that solana has like the kols aren't extracting"
+    },
+    {
+      "start": 1449.71,
+      "end": 1480.49,
+      "speaker": "SPEAKER_00",
+      "text": "they're not bundled and everything like that and i was like what you're witnessing isn't what you think it is it's just an inefficient market with opportunities again like it's a market that hasn't been developed sorted and solved so that it can have max maximum extraction by those interested players you know and i think that's what solana taught me it taught me to be very able to identify opportunity in an inefficient market it was like okay i'm in the solana punks discord and"
+    },
+    {
+      "start": 1480.49,
+      "end": 1510.91,
+      "speaker": "SPEAKER_00",
+      "text": "you know there's like a hoodie that's just been advertised by some dude on a discord message i saw a message in a different channel of some guy wanting to buy it higher bang bang you know like just the less efficient a market is the more opportunities there are and that was true with nfts it was true with meme coins it was true with airdrops it was true with a lot of things in that ecosystem and it taught me to be more attuned to what is worth paying attention to"
+    },
+    {
+      "start": 1510.91,
+      "end": 1541.53,
+      "speaker": "SPEAKER_00",
+      "text": "and being curious enough to to try it out and just taught me in general like inefficiency means opportunity you know i think back to like alameda's origin when they were literally just like buying a coin on one market and selling a coin in a different market for the higher price like the same token and it's insane that they did that for kind of a long period of time and made a lot of money and that's just from market inefficiencies you know and that's where a lot of people make easy"
+    },
+    {
+      "start": 1541.53,
+      "end": 1571.91,
+      "speaker": "SPEAKER_00",
+      "text": "the easy money is from inefficiencies and that's why i think solana taught me a lot because i was early and was able to kind of witness them all yeah man i uh i did not do so great uh you know my time earning my education on solana back in the day um as i could have you know but it taught me a lot uh you know you got to learn and sometimes your lessons are hard market yeah dude i got uh i got i got wrecked and then you know i i felt"
+    },
+    {
+      "start": 1571.91,
+      "end": 1602.15,
+      "speaker": "SPEAKER_00",
+      "text": "you get wrecked or just everything dude everything well i got wrecked on everything and then you know i i fell of that just everything you know i'd i'd have a win and then i'd give it back you know it was that sort of loop that's just kept happening yeah can you remember like one one in particular that that hurt just to you know revisit old memories ah I can't, to be honest with you. I think I just blocked that"
+    },
+    {
+      "start": 1602.15,
+      "end": 1632.55,
+      "speaker": "SPEAKER_00",
+      "text": "shit out. But the obscure chain, I remember that because, dude, I put all of my effort into that and it just did not work out for me either. I think what I learned is to be open to new ideas and honestly look at them and not just look at them through the lens of how can I, like you said prior, how can I better myself financially as quickly as possible? You need to evolve past that when you're not"
+    },
+    {
+      "start": 1632.55,
+      "end": 1663.11,
+      "speaker": "SPEAKER_00",
+      "text": "doing trench work and really look at what makes sense. And I paid the price. I had to learn that. And I'm at a good spot now. Good. Good, man. I, fuck, I just, I've also, this is a memory I repressed as well until right now it just came back up. I fucking tried to be lazy and it was from a, it was a friend of a friend. So a guy. A guy that I really trust, like really vouched for this guy, which is a great start to any fucking story, but"
+    },
+    {
+      "start": 1663.11,
+      "end": 1693.33,
+      "speaker": "SPEAKER_00",
+      "text": "a guy really vouched for him. And I had multiple people that I respected vouched for this fucking guy and they were also participating. And it was in a moment that I was unfortunately feeling quite rich, which I wish I was not. But this guy like offered to do airdrop farming for basically all the things that I wanted to farm, like layer zero. Um, base and then like Jupiter and the main thing I wanted was wormhole was the main reason I wanted to fucking do it."
+    },
+    {
+      "start": 1693.61,
+      "end": 1723.75,
+      "speaker": "SPEAKER_00",
+      "text": "And then, so I gave a bunch of money to this fucking guy and in hindsight, I am so angry at it, but they didn't even do wormhole and then they spent all the, and then they had a falling out with some other guy who I didn't fucking know. I didn't realize that he was involved. It was just this, this guy I thought was trustworthy and I basically just lit a bunch of money on fire for no reason. And it was just cause I was like, you can call it laziness. You can call it trying to be efficient. I mean, if the guy did his job, it would have been good. Everyone could"
+    },
+    {
+      "start": 1723.75,
+      "end": 1754.35,
+      "speaker": "SPEAKER_00",
+      "text": "have won. You know what I mean? Um, but yeah, fuck like the second you get too lazy and you get too trusting with strangers in crypto, it can be very painful. So that was, that was a, we all have our, our moments that we'd like to repress. Yeah, dude. Uh, that got hurt too. Fuck that guy. Yeah. Fuck. Oh yeah. Fuck that guy. I forgot his name. Which makes you feel nice. Yeah, that's fine. He doesn't deserve a name. No, no. All"
+    },
+    {
+      "start": 1754.35,
+      "end": 1784.95,
+      "speaker": "SPEAKER_00",
+      "text": "right. Frick for it. What did, uh, what did hyperliquid go from interesting to like becoming one of your highest conviction investments? Like what changed? Honestly, you say like what changed? And I think what changed was the price. What changed was it? It went, um, it went down, you know? Like I was generally like there was a period last year where I was relatively sure I wasn't going to own crypto again. Or if I was, it was going to be maybe"
+    },
+    {
+      "start": 1784.95,
+      "end": 1814.97,
+      "speaker": "SPEAKER_00",
+      "text": "just Bitcoin is like kind of a, a portfolio hedge more than anything. Like I had just kind of, I'd hit the number that I wanted. I'd figured out what kind of cash flow I could achieve externally. And I'd kind of, I'd kind of grown up a bit and I made all these like, you know, grown up financial decisions with, with that kind of. The things that you, you do, um, and then the prices just kept on going down and down and down. And I was, you know, getting more and more interested and then people started like"
+    },
+    {
+      "start": 1814.97,
+      "end": 1845.05,
+      "speaker": "SPEAKER_00",
+      "text": "really giving up. People started getting really bitter. You know, you started hearing a lot about quantum and a lot about sailor and how the space is over forever and like people just started getting more and more upset. And then I was kind of like, Ooh, this actually kind of feels interesting. And I, as someone who. Yeah. I've been in this business and naturally like I'm a capital allocator, you know what I mean? Like I have money. I want to put it in places that will grow. And this is an interest of mine. And then I kind of started to"
+    },
+    {
+      "start": 1845.05,
+      "end": 1875.41,
+      "speaker": "SPEAKER_00",
+      "text": "grow and grow. And I was like, well, what do I, what would I put my money in theoretically? And the only thing that really interested me outside of Bitcoin was hyperliquid. I was like, this is one of the very few exceptions of a token that is fully aligned with the holders. I think once I had kind of determined once I had really understood the product and how far ahead of, of everything else it was. And then it started doing significant"
+    },
+    {
+      "start": 1875.41,
+      "end": 1905.61,
+      "speaker": "SPEAKER_00",
+      "text": "volumes of silver. Like I think that was the, the real sign that was, that was an easy trade. Like I think you had a few moments to make this trade that were quite obvious, even in the time, you know, like obviously hindsight things are always obvious, but at the time, it felt. Easy. You know? So I think when silver traded a significant portion of its notional value on hyperliquid, that was a moment where you go, oh, okay, this thing's got a lot of legs. And then you had the other"
+    },
+    {
+      "start": 1905.61,
+      "end": 1936.31,
+      "speaker": "SPEAKER_00",
+      "text": "moment where, you know, hit four and everything started rolling out. And then you also had the Coinbase moment, I think was a natural. Another one where you go, oh, I missed it before, but after this it's, you know, now it's obvious again. And I think we've had a few. A few moments of that along the way. But to me, I, I think the other thing was the article that was written as well. That like Colossus article, that was another one where if you fully read that, you kind of think, wow, okay, this is a unique opportunity to invest in this"
+    },
+    {
+      "start": 1936.31,
+      "end": 1966.31,
+      "speaker": "SPEAKER_00",
+      "text": "team versus what, what exists elsewhere in crypto. So I think there was a combination of me realizing that the crypto industry is a hobby of mine and a passion and something that I'm just generally interested in, like I shouldn't suppress it. Because I don't want to gamble or take risk or whatever. It's just a genuine interest of mine. And I should lean into that. And then prices kept on going down until people gave up. And I was like, oh, actually this shit looks pretty cheap right now. And as a capital allocator, what are you,"
+    },
+    {
+      "start": 1966.31,
+      "end": 1996.59,
+      "speaker": "SPEAKER_00",
+      "text": "what are you looking at? You're looking at equities at all time high, you're looking at metals at all time high, you're looking at tech at all time high. And then you have crypto like Bitcoin's fucking 55, 60 % off all time highs. And you think, oh, well as an allocator, this is also my niche. This is the most interesting industry for me to allocate to. And and I just think like, apart from, apart from hyperliquid, there's really not that much stuff that I would invest it in. And I just think it's, it's"
+    },
+    {
+      "start": 1996.59,
+      "end": 2027.43,
+      "speaker": "SPEAKER_00",
+      "text": "been fun how much it's played out so far, but I just, I, even today I would look at the market and I would pretty much think the same thing, you know? And that Colossus article, not only was it a great article, but it also gave us some fantastic pictures of Jeff, I was like, oh my gosh, she got professional pictures taken. Hmm. Yeah. It's a banger article. I've sent that to a few people who just like, if you want to get it, like read this, you know? Hell"
+    },
+    {
+      "start": 2027.43,
+      "end": 2057.53,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, dude. Okay. So if you had like five minutes to pitch hyperliquid to like someone who's, who's kind of dabbled in crypto before. So not like a brand new person. Well, what would be like the pillars of your, your. Yeah, I mean, I actually did kind of, I had an interview with, um, one of the Bloomberg girls who wrote about, uh, like CME is trying to get like hyperliquid to KYC and stuff like that. And I, I was talking to her and I just kind of said, it"
+    },
+    {
+      "start": 2057.53,
+      "end": 2087.67,
+      "speaker": "SPEAKER_00",
+      "text": "is hyperliquid is the very best example of kind of wealth redistribution from early users to a business, you know, like if you can imagine a world where Facebook, uh, rewards. Like the early users of Facebook who are their most critical users at their most critical time of growth, if they were able to get redistributed value in equity form, then you would have an incentive that works both ways."
+    },
+    {
+      "start": 2087.81,
+      "end": 2118.23,
+      "speaker": "SPEAKER_00",
+      "text": "You know, you have users that want to use and help grow and like increase metrics of, of new tech. And then you have tech that rewards those users, and then you have the ongoing aligned incentive that is implicit. Yeah. So instead of enriching the CEO, you have the CEO and the tokens being enriched alongside each other. So I think that in itself is kind of, is the way to fix this model. That's very, very clearly broken that we see with Anthropic and"
+    },
+    {
+      "start": 2118.23,
+      "end": 2148.65,
+      "speaker": "SPEAKER_00",
+      "text": "SpaceX and, uh, open AI as well. Like we have seen three of the biggest, we haven't seen two of them yet, but three of the biggest and largest wealth creation events. Does the company need to"
+    },
+    {
+      "start": 2148.65,
+      "end": 2178.97,
+      "speaker": "SPEAKER_00",
+      "text": "pay the managers? Yeah, definitely. Really? Yeah. like you don't have the ability or the infrastructure to be able to invest in that you need a system like hyperliquid has built like a model like hyperliquid is built and then of course i mean i think i think that's the more interesting answer that i would go to because of course i can talk about the revenue and"
+    },
+    {
+      "start": 2178.97,
+      "end": 2209.01,
+      "speaker": "SPEAKER_00",
+      "text": "the buybacks and the alignment and the the l1 as like a potential growth engine and the the everything like you know the amazon um the aws of finance essentially is kind of the pitch but i think the most interesting thing to talk about when you're talking to someone who really doesn't understand why crypto or what what model can exist and how do you improve on this thing that everyone knows is incorrect you can point to hyperliquid as"
+    },
+    {
+      "start": 2209.01,
+      "end": 2239.45,
+      "speaker": "SPEAKER_00",
+      "text": "an example of that and i think that's maybe more powerful than explaining the you know the smaller metrics about it i agree watching all these pre -ipos come on you know trade xyz has been doing a fantastic job of that uh has been really interesting it's really opened up people's eyes you know and we're seeing the metrics wise like people who are using builder code front ends uh those numbers are going up and i think each instance"
+    },
+    {
+      "start": 2239.45,
+      "end": 2269.69,
+      "speaker": "SPEAKER_00",
+      "text": "of this uh pre -ipo or something else that's interesting coming out from hyperliquid is a net good thing for crypto because i i do think hyperliquid's positioning in itself to become a main character just because of the value uh that it's providing with crypto but also just stuff people are familiar with rwa finance baby hell yeah dude and it's fantastic to see it actually playing out"
+    },
+    {
+      "start": 2269.69,
+      "end": 2300.23,
+      "speaker": "SPEAKER_00",
+      "text": "you know how many white papers have you read and it's like oh yeah sounds great and like how many have delivered you know what i mean it's like they haven't exactly laid out the roadmap they don't really need to because i feel like at this point their track record shows they they just keep shipping so um yeah sorry i got a little bullish there um let it out let it out you can't suppress that kind of energy yeah it just happens dude i can't control it yeah um all right so you've written posts"
+    },
+    {
+      "start": 2300.23,
+      "end": 2330.69,
+      "speaker": "SPEAKER_00",
+      "text": "about buybacks and tokenomics and alignment i know you didn't really want to get into the value accrual a second ago but like why is it so different from for hyperliquid than it is for like the rest of uh or the majority of crypto projects well i think it was just very open and transparent you know what i mean like you see how much teams like to tease out and blue ball their holders by kind of pretending that they're gonna be aligned with it you know what i mean like how long did we kick down"
+    },
+    {
+      "start": 2330.69,
+      "end": 2360.73,
+      "speaker": "SPEAKER_00",
+      "text": "the door asking for uni swap to try and actually align the token with the volume that was going through and the revenue and the the earnings of the the company you know what i mean it's this whole conversations around the company earnings and the team earnings versus the actual return to value of the token and you have the same thing with ave uni swap like jupiter you know and now we've got like jito they're trying to put some revenue back into their token with their new decks but of"
+    },
+    {
+      "start": 2360.73,
+      "end": 2390.85,
+      "speaker": "SPEAKER_00",
+      "text": "course like the mev stuff isn't going back there still and is that just to align with investor unlock so they get a bit of buy pressure coming into that i don't know now you've got collector crypt like everyone's basically gambling trying to predict and assume that they will um do bigger buybacks and align with something like a hyperliquid model the founder is kind of teased towards that but it's so often the conversation of like oh yeah you know this is coming in the future or like"
+    },
+    {
+      "start": 2390.85,
+      "end": 2420.97,
+      "speaker": "SPEAKER_00",
+      "text": "vague post king you know but now we with hyperliquid you just have every decision that is made is very clearly aligned with the token is what the return of value is every time it's not a guess it's a track record where you can have faith that if they do a deal with circle and coinbase to deploy um on hyperliquid you're gonna you're gonna get a return of value to the token holders like it's not a guess"
+    },
+    {
+      "start": 2420.97,
+      "end": 2451.63,
+      "speaker": "SPEAKER_00",
+      "text": "you know and then as a holder it's extremely comforting to know the the entire upside the ceiling the dream of the house of all finance at all times based on a fairly substantial track record they will try and reward their token holders and their people that kind of are their loudest ambassadors they will return value to them through the token and that is how it should be they were able to do this in a much cleaner way because they never accepted a dollar from venture"
+    },
+    {
+      "start": 2451.63,
+      "end": 2481.65,
+      "speaker": "SPEAKER_00",
+      "text": "capital which i think is very important to the hyperliquid story and it is just really comforting as a holder to know that's where you stand with the token you know like there is no world where you just get the rug pulled under you or you're not chasing false promises you're investing in a proven track record with a team that is aligned with the token and i think that's i mean as good as it gets from an investor point of view even if it goes down you know that they're they're you're fighting the same battle you know"
+    },
+    {
+      "start": 2481.65,
+      "end": 2511.81,
+      "speaker": "SPEAKER_00",
+      "text": "you're you're you're you're you're you're you're you're you're you're you're you're you're you're you're the same dream yeah i mean you heard jeff uh i don't know if you caught it that latest interview with the valor that uh i believe it's an african exchange sex that just integrated uh perps via builder codes he asked jeff kind of like what else he was doing and i think you know i'm paraphrasing uh jeff just said uh well nothing just hyperliquid so that's fantastic"
+    },
+    {
+      "start": 2511.81,
+      "end": 2542.41,
+      "speaker": "SPEAKER_00",
+      "text": "uh answer made me laugh um but no i appreciated it you know again everything is aligned everything flows back to hyperliquids all right let's trigger some people and i want to see how political you get here with how you answer this i'll be listening you've said solana is a great place to build but you'd rather own hype than soul why is that i think honestly like to me it's very obvious like that that answer is like"
+    },
+    {
+      "start": 2542.41,
+      "end": 2572.77,
+      "speaker": "SPEAKER_00",
+      "text": "that that answer is very obvious like that that answer is very obvious like that that answer is something that i would stick by quite strongly you know i think the first thing you got to talk about is inflation versus deflation like solana issuance is a problem that is a look we're having the same conversation i said in the past like just my last response i said how often do we see tokens and protocols talking about in the future they're going to solve this problem people trying to speculate on future changes hyperliquids already done it you know we we know where we stand that's the incentive if volume goes up in a bull market more hype"
+    },
+    {
+      "start": 2572.77,
+      "end": 2603.15,
+      "speaker": "SPEAKER_00",
+      "text": "is going to get burned as long as they keep the volume share boom like it's it's easy you don't have to think hard about it i don't have to predict what dow votes are going to do i don't have to predict what validators are going to vote in a future dow proposal like these are things that i don't want to have to care about you know like i love the comfort in knowing that that is a solved problem whereas in solana you have this constant issuance issue with like if you compare like there was 240"
+    },
+    {
+      "start": 2603.15,
+      "end": 2633.31,
+      "speaker": "SPEAKER_00",
+      "text": "or 250 or something like that to get to that same market cap all -time high it had to be uh way higher you know i mean the token had to be higher because the issuance is far higher um and it's like you just have this the same problem um with solana and you have the validators which don't really seem aligned with the token holders and then the foundation team have their own kind of ideas of what should and shouldn't happen and then you just have this problem with the token holders and then the foundation team have their own kind of ideas of what should and shouldn't happen and yeah"
+    },
+    {
+      "start": 2633.31,
+      "end": 2663.57,
+      "speaker": "SPEAKER_00",
+      "text": "the the staking issuance values like the staking revenue is really high and that's great as a validator and as a staking staker but if you're just holding it like i i think the the issuance is too high um and i think you have the same kind of extractive problem that most people a lot of people would point out and it's just the same the same thing again i think it's very simple to me it's like in hyperliquid all of the value"
+    },
+    {
+      "start": 2663.57,
+      "end": 2694.49,
+      "speaker": "SPEAKER_00",
+      "text": "of the chain is accrued to the token in solana it is not the case and you also have the same like i've highlighted in the past um the like the bid dilution you know and this is not necessarily a bad thing like toli has said in the past that he sees a select a successful version of solana where someone who builds on solana might be more valuable like they might have a token more valuable than solana itself and i think that's the appropriate mindset for an l1 like i think yes a team"
+    },
+    {
+      "start": 2694.49,
+      "end": 2724.79,
+      "speaker": "SPEAKER_00",
+      "text": "like solana foundation should be aligned with something like that like you want to build the rails for people to do great things but inevitably as we've already seen right like i even commented on a post yesterday about someone who wants to buy betas and instead of buying solana they're buying fat coin and instead of buying eath they're buying pepe but there is no instead of hype you know like people have tried with per tribe with kinetic like yes there are options that exist but inevitably why would you buy anything else but Hyperliquid"
+    },
+    {
+      "start": 2724.79,
+      "end": 2754.87,
+      "speaker": "SPEAKER_00",
+      "text": "is a value question that people kind of don't usually go past. So for me, it's again about bid comfort. It's about knowing where I stand with the issuance. It's about knowing where I stand with the future of the token. I just feel much more comfortable with holding Hyperliquid than I do Solana. But I will say it again, that does come with negatives on the Hyperliquid side. As I just highlighted, like why would you hold something else except for Hyperliquid? That's a negative if you're building on Hyperliquid. On"
+    },
+    {
+      "start": 2754.87,
+      "end": 2785.61,
+      "speaker": "SPEAKER_00",
+      "text": "Solana, you might get a grant, you might get some assistance from the foundation, you might build a shitty DEX and have the whole team shilling it on the timeline for weeks. You do get a lot more of a tailwind from building on an L1 that has a grant function and an ecosystem kind of coordination. But you do have access to a lot more users, especially if you try and fit into the builder code model that Hyperliquid has outlined. You have access to a"
+    },
+    {
+      "start": 2785.61,
+      "end": 2815.77,
+      "speaker": "SPEAKER_00",
+      "text": "lot of very sophisticated capital that is willing to try new things. So I think it depends on what your ideal outcome is. If you are wanting to generate revenue and be a builder code model, then you can absolutely direct your attention to Hyperliquid. And I think that's the future. If you are trying to build a protocol like a pump .fun and you want to release your own token and kind of build value on top of, of rails in a traditional L1 path, maybe you want to apply for a grant along the way,"
+    },
+    {
+      "start": 2815.83,
+      "end": 2845.77,
+      "speaker": "SPEAKER_00",
+      "text": "get VC capital investment. I do still see Solana as a leader in building in that kind of way. Okay. Okay. Nuanced answer. I liked it. Made me think of a lot of questions. It was good. You know, there's some follow ups I want to ask. You're right. It is hard as a builder to try and have a token compete with you. With hype, right? Because it's a pristine asset. You know, like, why would you want to"
+    },
+    {
+      "start": 2845.77,
+      "end": 2876.47,
+      "speaker": "SPEAKER_00",
+      "text": "hold anything else than hype? So I guess the first question, you talked about how Solana would like or totally said that he could see a future where a token on Solana is worth more than Sol. Could you see TradeXYZ doing a token and having that actually happen for Hyperliquid? I think that the hype EVM needs more attention before it can handle, kind of, more tokens, in my opinion. Like, I think TradeXYZ, I mean, obviously, TradeXYZ"
+    },
+    {
+      "start": 2876.47,
+      "end": 2906.95,
+      "speaker": "SPEAKER_00",
+      "text": "could be the one to actually do it. And I do think that it's a reasonable outcome. Like the TradeXYZ team, they're very happy, but there's no reason why they shouldn't be able to launch their token if they'd like to do it. Like, obviously, a lot of people, there would be a lot of value creation. A lot of people would make a lot of money. I think it could work alongside Hyperliquid. Like, it doesn't need to be forever. But we're still waiting on more understanding of what is in the roadmap for, like,"
+    },
+    {
+      "start": 2906.95,
+      "end": 2936.99,
+      "speaker": "SPEAKER_00",
+      "text": "Hyper EVM, right? Because it can, like, Hyper EVM, there's no reason why it can't develop into a fully functioning L1. Like, right now, it's in alpha. So alpha is, you know, we're barely even on mainnet. And I think that there is a world where attention does get put into that at some point, and you do see protocols much more interested in launching tokens, and adding an accruing value to, kind of, the Hyperliquid chain. But at least in my opinion, and it's certainly not"
+    },
+    {
+      "start": 2936.99,
+      "end": 2967.17,
+      "speaker": "SPEAKER_00",
+      "text": "up to me, I think it's beneficial if, kind of, people hold their tongues a bit with the tokens on Hyperliquid. But I'm just, I'm curious, you know, I want to understand a little bit more about what they want to do for Hyper EVM, because there are a lot of builders who are trying to do cool things, and it's difficult to... It's difficult to build with some constraints, if you're not sure about what, kind of, gets rolled out. So I think, like, you know, I'm"
+    },
+    {
+      "start": 2967.17,
+      "end": 2997.47,
+      "speaker": "SPEAKER_00",
+      "text": "never a maxi who's blind to reality, and there is, like, a downside in Hyperliquid's model. The upside is the token is immaculate, and the way everything funnels back to the token, everything is there, you don't have MEV and things that are just, like, mass extracting from users on the chain. Like, there is a lot of benefits to it, but there is also some downsides. And I think that's one thing that I would really like to see, is more clarity and alignment between the teams and"
+    },
+    {
+      "start": 2997.47,
+      "end": 3027.51,
+      "speaker": "SPEAKER_00",
+      "text": "the actual Hyperliquid team, of, like, what is the future of the EVM side alongside Hypercore. I'm happy you brought up Hyper EVM, because, yeah, that was also where I was going to go next. It's like, there are some cool things that are being built. It is very early, like you said, it's alpha. It might be a beta now, but either way, it's still early. What does that mean? You know, should you be checking it out? I mean, regardless of whether or not there's incentives, there's cool"
+    },
+    {
+      "start": 3027.51,
+      "end": 3057.83,
+      "speaker": "SPEAKER_00",
+      "text": "stuff being built. Precompiles are what make it different than other places. Having that interconnectivity with Hypercore, to some degree, is allowing new primitives to come forward, or, like, you know, fresh takes, and getting access to some of that liquidity. So there are some cool projects that are coming out and developing there. There will be some hot ones, though, that have caught a little bit of the eye. Like BounceTech. I don't know if you're familiar with Jez. He's doing paper trade. I think that's what it's called. That'll"
+    },
+    {
+      "start": 3057.83,
+      "end": 3087.87,
+      "speaker": "SPEAKER_00",
+      "text": "be interesting to see the excitement that comes around with that. And all of those are, you know, tokenizing perps. And I think Jez is doing something crazy, like 1000X, which will be nuts. But, dude, that's going to bring so much excitement. Just get people involved in the ecosystem. See what else is there. Because there is stuff there. Like, people sleep on it. People sleep on Hyper -EVM. But it's like the eighth highest TVL L1 when you look at the rest. Well,"
+    },
+    {
+      "start": 3087.97,
+      "end": 3118.09,
+      "speaker": "SPEAKER_00",
+      "text": "this is what we were talking about earlier with the Solana ecosystem. You know, like, inefficiency equals opportunity. And what you're seeing in the Hyper -EVM right now is it is underdeveloped, which means it is inefficient, which means there's opportunity. You know, like, I see that as one and the same, personally. So I think that's something that very much interests me. I think that there's going to be a lot of interesting things. And I definitely see a future where you have, you know, like a polymarket that is built on Polygon, but"
+    },
+    {
+      "start": 3118.09,
+      "end": 3148.09,
+      "speaker": "SPEAKER_00",
+      "text": "no one gives a fuck about Polygon. But it kind of excels on the rails of that particular chain. And I think you see the same with Hyperliquid eventually. You see other teams like, obviously, TradeXYZ, but other teams and things, maybe it's PaperTrade, maybe it's something else, will come in and will finally kind of tip the scale. Yeah. And I think that's the kind of thing that I'm really interested in. is that people will find a lot of opportunity, you know, I really believe that. And I think it's an ecosystem that's very interesting. And it's one that I've been very"
+    },
+    {
+      "start": 3148.09,
+      "end": 3178.55,
+      "speaker": "SPEAKER_00",
+      "text": "actively curious. It's actually kind of the only ecosystem that I've been actively curious on. Like I have no interest in, I have zero interest in Robinhood chain, but I'm very interested in the things that happen on Hyperliquid. And I'm very interested in the future of Hyper -EVM because I think it's one of the few inefficient markets that is backed by something pretty special. And I think there's opportunity there. So yeah, I've been talking to a lot of teams building over there. I've been understanding the constraints, the benefits,"
+    },
+    {
+      "start": 3178.79,
+      "end": 3208.57,
+      "speaker": "SPEAKER_00",
+      "text": "and I've been pretty excited to see kind of how people roll out interesting things because there's a lot of, you know, there's a lot of very financial products, like bundles of ETFs and things like that, which is, yeah, you know, it's nice. It's cool. That can be done on Hyperliquid in a way that's not true or not possible in other chains. But at the end of the day, like people want to gamble. People want to have fun. People want to do things that are interesting and they want a"
+    },
+    {
+      "start": 3208.57,
+      "end": 3238.59,
+      "speaker": "SPEAKER_00",
+      "text": "bit of innovation. And I think there's going to be a wave of that that comes out in Hyperliquid in a, in a unique way that I'm quite interested and excited for. All right. All right. So it sounds like you've been, you've been in that side. Are you collecting any mementos of culture? You know, any tiny, tiny hyper. Cats. Any odd oddies. Mementos of culture. I love that. You know, are you collecting anything? As of right now, my good man, I am, uh, I do not have any mementos"
+    },
+    {
+      "start": 3238.59,
+      "end": 3268.61,
+      "speaker": "SPEAKER_00",
+      "text": "of culture, but I am, I'm, I've been having a lot of conversations, you know, I've been, I'm jumping on calls with teams and chatting and just kind of being curious and interested in what's going on. So I've been, it's been fun to kind of watch the, the cogs in my brain tick over and, uh, and get curious and interested again, you know, like I, I feel like I haven't done that for a while in this space and I, um, yeah, and I I've, I've been having a lot of fun with it. So that's, that's what I've"
+    },
+    {
+      "start": 3268.61,
+      "end": 3298.79,
+      "speaker": "SPEAKER_00",
+      "text": "been doing. All right. I got a couple more questions on hype and then we can get into psychology on the thought process, which you like to, you like to talk about sometimes. What do you think is the, the strongest bear case for Hyperliquid today? Like. What, what would have to happen for you to invalidate your, your theses of, uh, of where Hyperliquid's going? Yeah. I mean, it's a good question. I think like one thing that can happen is, is"
+    },
+    {
+      "start": 3298.79,
+      "end": 3328.95,
+      "speaker": "SPEAKER_00",
+      "text": "serious innovation on another chain. Um, that allows similar performance and similar output, which would grow in liquidity. And if you had a, if you had a protocol that really kind of fulfilled the dream, that a lot of protocols have tried or not protocol, but DEXs, you know what I mean? Like if you had someone that came out and, uh, I don't understand the technical constraints that exist, but maybe there's someone who figures out a better way"
+    },
+    {
+      "start": 3328.95,
+      "end": 3359.33,
+      "speaker": "SPEAKER_00",
+      "text": "of operating a DEX in and kind of competes with the AWS of liquidity. And they do it in a way that is. Backed by serious players and they could get some market makers off Hyperliquid and they start kind of vampire attacking it with, um, token incentives and things like that. I think that's the, the beginning of what could turn into a bear thesis. Um, if like, uh, if that was done a serious way, I think people have mentioned that it's worth being"
+    },
+    {
+      "start": 3359.33,
+      "end": 3389.35,
+      "speaker": "SPEAKER_00",
+      "text": "cautious of, um, Robinhood being that player. I, for me, it's not that interesting. I don't really deem that as a, as something that's a bear case, but I think I would be, you know, I would be. Aware or alert to other metrics, like metrics of, of different DEXs and things that it could happen. Obviously there's the big one of a hack because it is, um, not like a traditional L1 in the sense of you have a very, very decentralized, um, kind"
+    },
+    {
+      "start": 3389.35,
+      "end": 3419.35,
+      "speaker": "SPEAKER_00",
+      "text": "of system. It does have a like core team that is, um, that is responsible for a lot of things. Like if Jeff. Something bad happened to Jeff or the team got disrupted. Or, you know, they were arrested in Singapore or something like that. You know, like there is obviously outliers that can happen that would require reassessment. Um, there's, uh, it getting hacked. There's probably some regulation things. I think if it was to get banned in the U"
+    },
+    {
+      "start": 3419.35,
+      "end": 3449.37,
+      "speaker": "SPEAKER_00",
+      "text": "S it would be bad, but it wouldn't invalidate my thesis to be honest. Um, but yeah, in general, I think like you want to be a lot to, if the things that you believe in change, I also, for me, if they. Release a bunch of new updates with revenue coming into the chain, but they decided that that revenue went straight to the team and didn't go back to the token. And there was a, an obvious pattern change of like team alignment with token. I think those are the things that would invalidate my"
+    },
+    {
+      "start": 3449.37,
+      "end": 3479.45,
+      "speaker": "SPEAKER_00",
+      "text": "thesis as it stands. Um, but in general, a lot of the things that people kind of say might happen is not really things I'm worried about. But. Those are the things that would, would certainly make me question where I stand with hyperliquid in my investment. Oh, solid takes. I agree with a lot of those. Okay. So for someone who might feel like they've, they've already missed hype, like what would you tell them? I think, I mean, honestly, I was looking"
+    },
+    {
+      "start": 3479.45,
+      "end": 3509.45,
+      "speaker": "SPEAKER_00",
+      "text": "at buying stuff yesterday because the market's down. I think it looks pretty good. I still think everything's quite cheap and I was looking at things to buy and yeah, I mean, hyperliquids, it's 60 something dollars now. And. That's not as cheap as it was, but I mean, the market overall tells you the story of, of where it's at. You know, I, I think in general, if you think that the market is going to be up a lot, do you think that the coin that's performed better than everything else for the last nine months will suddenly underperform everything?"
+    },
+    {
+      "start": 3509.55,
+      "end": 3539.51,
+      "speaker": "SPEAKER_00",
+      "text": "Like that's how I see it. It's kind of winners, average winners. And I don't see a world where like, you gotta think about a bull market, right? Like right now we're still very depressed. We're still, I mean, equity is different, of course, tech is same, but when you're talking about crypto, the volumes are down, the users are down. The people who are trying to buy and sell things are down if just nothing else, but hyperliquid was to keep it same market share. And we go into a crypto bull market where"
+    },
+    {
+      "start": 3539.51,
+      "end": 3569.61,
+      "speaker": "SPEAKER_00",
+      "text": "volumes go up a lot. Then buybacks go up a lot. You know, that has a direct correlation with price. Then you have the TVL on the chain goes up a lot. The USDC yield. Like buybacks, like yield driven buybacks, they haven't even started yet. Like I would just say, instead of trying to zoom in on the price, look at the market. And if you think that Bitcoin is going to go up to X and you know, everything else is going to go up a lot, I just can't imagine a token that's"
+    },
+    {
+      "start": 3569.61,
+      "end": 3599.75,
+      "speaker": "SPEAKER_00",
+      "text": "outperformed everything. Just finding a glass ceiling and stopping like at the end of the day, what is the friction between it going up? And it's really not a lot, you know, like the buybacks increase. The circulating market cap's not very high. There's a lot of demand, even in a bear market. And I just can't really see that stopping that momentum. So I would just say that I said, if you think that the overall market goes up, then winners average winners. And that's what I would say. And if you're afraid of"
+    },
+    {
+      "start": 3599.75,
+      "end": 3629.75,
+      "speaker": "SPEAKER_00",
+      "text": "the price, because you could have bought it lower, then that is a way of missing out opportunity on everything forever. Agreed. You know, the, the thing it's interesting. You know, people are willing to factor in the hopium and the someone will buy this higher than what I'm paying right now to like the majority of crypto tokens. Right. And then you have hyperliquid and people love to talk about the revenues and the flows and the ratios. And it's like, well, sure,"
+    },
+    {
+      "start": 3629.99,
+      "end": 3659.91,
+      "speaker": "SPEAKER_00",
+      "text": "you can apply that to hyperliquid. And that's one of the reasons why it's special. But then also remember, this is crypto. You can have both. And I think that like in a. Full on bull market, you know, screw your ratios, man. This thing, in my opinion, not financial advice is going to go crazy. You know, it's, it's the best performing token. The team is unmatched. So yeah, dude, I agree with you. I mean, it's very simple. It's, it's what are the things that"
+    },
+    {
+      "start": 3659.91,
+      "end": 3689.95,
+      "speaker": "SPEAKER_00",
+      "text": "need to happen for it to go up versus the things that need to happen for it to go down and underperform. And to me, that is very obvious. Like you've got relatively low. Circulating supply, you have extremely high demand from buybacks and rising volume would equal more buying pressure inherently. And then you've got, you know, obviously market turns and people speculating. Like it, it just needs to be, it doesn't matter of valuations. If it's overvalued, undervalued, whatever else it's just like, is there more"
+    },
+    {
+      "start": 3689.95,
+      "end": 3720.29,
+      "speaker": "SPEAKER_00",
+      "text": "buyers than sellers? And I think in this particular situation, the friction required for it to go much higher is it's pretty low. And that's a, it's good as an investor. Hell yeah, dude. Okay. So, uh, I got one more hyperliquid question and then we'll talk a little bit, you know, wisdom, and then I'll ask you about meat. Uh, so first, do you believe in season three S3? Would that be a good thing for hyperliquid? What's your take? Uh, I mean, this one's really hard"
+    },
+    {
+      "start": 3720.29,
+      "end": 3750.37,
+      "speaker": "SPEAKER_00",
+      "text": "actually. I don't think I have a, a proper opinion that I've landed on, you know, like, I don't think I've actually figured out my stance. Yeah. Um, in general, I have not, like, I haven't really been actively trading like last year and this year too much. So my net volume and hyperliquid is actually not that high. So I think inherently, like, I mean, my net volume since the airdrop. Isn't that high, which means I'm kind of like, I don't know, bro. Like, do we need a season three?"
+    },
+    {
+      "start": 3750.77,
+      "end": 3780.63,
+      "speaker": "SPEAKER_00",
+      "text": "Cause I think it naturally, like your, your perspective is based on your own bias. So obviously I think I would get an airdrop, which would be nice. Like I. I certainly have some volume and I've done all of the, the things that would tick the box, I would say, but I am not someone who's sitting on, you know, like multi -billion dollars of volume and thinking, damn, like what, when season three. So I think it, it leaves me in a position where I'm not really incentivized that much to care about it. And I'm also, um,"
+    },
+    {
+      "start": 3780.85,
+      "end": 3810.67,
+      "speaker": "SPEAKER_00",
+      "text": "just a holder of the token. So I would want whatever's best for the token rather than myself, um, which I still haven't really landed on, uh, exactly what I want. I, I would prefer, I think that the distribution is something like a grant system. Like I, I would love a world where a lot of the tokens that are held in reserve go towards some form of a grant system to build out hyper EVM and incentivize people to build on the chain. Like maybe you have builder"
+    },
+    {
+      "start": 3810.67,
+      "end": 3841.19,
+      "speaker": "SPEAKER_00",
+      "text": "codes and then you also have grants given out, um, like Nate, like native VC. You know what I mean? But. It doesn't necessarily need to be fed back. You know what I mean? It's like grants in native VC, but you don't get a percentage of tokens and incentivize the whole kind of extractive VC behavior. So I think there's a lot of interesting creative things that can be done with it. Um, I think the most bullish thing for them to do is basically just hold that up their sleeve for as long as possible until they have"
+    },
+    {
+      "start": 3841.19,
+      "end": 3872.21,
+      "speaker": "SPEAKER_00",
+      "text": "the exact kind of time to nail it. Whether that be future incentives to vampire attack, something else, or go directly off to like the CME or whatever, you know, I think using that card is like the longer they hold that up to see up their sleeve, the more powerful it becomes and probably more valuable it is as well. So I would like them to pretty much just keep that cut up the sleeve until it's, um, worth playing. And I trust that they'll do the right job, but I don't really have a, I"
+    },
+    {
+      "start": 3872.21,
+      "end": 3902.73,
+      "speaker": "SPEAKER_00",
+      "text": "don't have a great answer for it. I think, cause I'm not, I'm not really sold on either direction. I agree with a lot. Of the things you said there, uh, I was not a OG airdrop recipient. So obviously my bias, my perspective is please bless us. I think that there's a lot of ways they could go about it. They don't have to do it all at once. That's another thing as the token goes up, you know, you can still airdrop a sizable amount of, you know, USD value, uh,"
+    },
+    {
+      "start": 3902.81,
+      "end": 3932.87,
+      "speaker": "SPEAKER_00",
+      "text": "without needing to blow a huge portion of what the 38%. And then there's. I don't know if it's true or not. There's like supposedly an unclaimed portion that brings it up to like 42%. But, uh, I think that there is, yeah, there's an unclaimed portion that they, I don't think that they've burned, but I'm not a hundred percent sure about that. And then there's also hyper EVM. I feel like it it'll show who like is a real hyper liquid enjoy your, as opposed to just somebody who's"
+    },
+    {
+      "start": 3932.87,
+      "end": 3962.91,
+      "speaker": "SPEAKER_00",
+      "text": "trying to farm and just doing volume on, not to say that's not important, but like you're talking. And somebody who's trading on hyper core and then also playing in the hyper EVM ecosystem pretty good. And then, you know, participating in those culture mementos, you know, maybe a dot HL name, uh, some key NFTs, a hyper, you know, I feel like there's a lot of filters on Twitter. Yeah, yeah, yeah, yeah. If you have a hyper meat podcast, you know, um, I think all of those things would be great,"
+    },
+    {
+      "start": 3963.01,
+      "end": 3992.95,
+      "speaker": "SPEAKER_00",
+      "text": "uh, filters for them to like really reach core community members who will take advantage of like portfolio margin, dude. Like I love portfolio margin. I think it's a fantastic, uh, I've never really experienced anything like that before. So just having the ability to take my hype, I used to have BTC in there. I've, I've converted it all to hype and have that be my, uh, my portion that I can borrow some stables against and, and I just buy spot hype and then trade that way. I'm having"
+    },
+    {
+      "start": 3992.95,
+      "end": 4023.73,
+      "speaker": "SPEAKER_00",
+      "text": "a great time. We'll see what they do. You know, it is what it is, man. I'm just happy there. I'm in the eco as early as I am. And, uh, I am an enjoyer regardless of what happens. Uh, so yeah, as you should be. So you love talking about psychology and kind of big ideas. Okay. So again, sub stack, check it out. If you guys haven't, uh, just your normal posts every once in a while, you'll throw one of these too, but you talk about borrowed conviction, unfalsifiable,"
+    },
+    {
+      "start": 4023.79,
+      "end": 4053.99,
+      "speaker": "SPEAKER_00",
+      "text": "uh, theses and, you know, selling your winners too early. What mental model regarding trading or life have, have made you where you are today? Well, I think I, I, I really like, um, I read this book called mistakes were made, but not by me. And it's kind of this book on like cognitive dissonance and self -justice self -justification, which I really like it's kind of understanding how people get to certain positions"
+    },
+    {
+      "start": 4053.99,
+      "end": 4084.11,
+      "speaker": "SPEAKER_00",
+      "text": "and how they get to. Yeah. Seem very far away from you and also understanding why you feel the way that you do in a lot of things. I think that has been really helpful for me. So it's like, I guess an example, it's, I don't know, you cheat on your girlfriend and then they find out and you start to self -justify be like, yeah, but you know, she's been so rude lately. And like, we never talk and whatever, like she kind of had it coming, you know, like you start to self -justify"
+    },
+    {
+      "start": 4084.11,
+      "end": 4114.37,
+      "speaker": "SPEAKER_00",
+      "text": "and those thoughts that happen. Uh, just self -justification of dissonance, because you can't, you need to learn to hold two positions at once where like you did. I did say, well, let's not say I, cause this is not a real example, but you know, you can do something that is objectively incorrect, take accountability and be aware of it, but also think like, well, you know, there was nuance to it. Maybe there's gray areas, there's things that exist, but you can view it objectively and know that those self -justification"
+    },
+    {
+      "start": 4114.37,
+      "end": 4144.53,
+      "speaker": "SPEAKER_00",
+      "text": "self -justifications will come. And I think that's been really. Helpful. Even with, you know, trades that you can take a bad trade and immediately you start thinking like, oh yeah, but you know, it made sense or it was good, or it's only this, oh, I'm just giving back profits. Like it was basically free money. Like those thoughts will always come because it's how the brain is wired, but it's much better to be able to kind of stop and be just view them objectively and say, Hey, you know, I fucked up or I did something good or whatever the situation actually is, and"
+    },
+    {
+      "start": 4144.53,
+      "end": 4174.63,
+      "speaker": "SPEAKER_00",
+      "text": "just kind of be more aware of. Yeah. The reality rather than that. God, I think the other thing that I really like, I have an article that I wrote about baselines, which is kind of adjusting your day and your goals based on how you feel in any given day. So I think people over -commit to a certain task and they say, oh, you know, I want to run a marathon. I'm fat right now, and I'm going to start running 20 Ks a week and then they get hurt or they go really hard and they can't keep up that. And then they just kind of burn"
+    },
+    {
+      "start": 4174.63,
+      "end": 4204.71,
+      "speaker": "SPEAKER_00",
+      "text": "out and stop doing it. I. Really like the idea of going, you know, Hey, today I'm going to wake up. I'm going to do my journal and I'm going to brush my teeth before I look at my phone. And on a day that I feel bad, I'm going to at very least brush my teeth before looking at my phone on a day that I feel great. Maybe I'll do all of those things and I'll go for a walk or I'll go for a surf or a workout or whatever, before I look at my phone, you know, like the ceiling leave very high, the baseline leave very achievable, and then they have like"
+    },
+    {
+      "start": 4204.71,
+      "end": 4234.83,
+      "speaker": "SPEAKER_00",
+      "text": "different increments in between where you can strive to be better, but the baseline has to be kept, which is achievable and, and reasonable. Um, so I know those are two frameworks that I think are nice, but God, I could talk a lot about this kind of stuff, you know? And again, check out that sub stack if that's your, that's your vibe. No, I think goal setting, uh, even at the day to day level is very important. I try and do it. I haven't been into journaling, but maybe I should do that."
+    },
+    {
+      "start": 4234.95,
+      "end": 4264.83,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, I don't know though. You know, do not, I'm juggling, uh, a toddler, a 10 month old and, uh, yeah, it's, it's pretty difficult to do in the podcast, man. Congrats. That's big ups to you. Grinding dude. And I work full time. So yeah, I, uh, I'm definitely sacrificing on the sleep side because of how exciting this ecosystem is. So yeah. Good advice though, man. Thanks for, thanks for sharing that. Of course."
+    },
+    {
+      "start": 4264.93,
+      "end": 4294.97,
+      "speaker": "SPEAKER_00",
+      "text": "All right. Final question. When you go to a restaurant, what is your favorite cut of meat? Uh, fuck. I think, I think I'm either, I think I'm either a tenderloin guy or just a really good rack of ribs. You know, I think it's, it's either the good stuff, the tenderloin, or just give me ribs in any form. You can give me shit, like a shit rack of ribs, but if it's all saucy in that, I'll just get my hands in there. Or,"
+    },
+    {
+      "start": 4295.21,
+      "end": 4325.43,
+      "speaker": "SPEAKER_00",
+      "text": "you know, if I'm feeling a bit fancy, I just want some good stuff. I'll, I'll go the tenderloin. Dude, ribs. I don't think I've gotten that answer at all, but a tenderloin. Yeah. Quite a few people. Yeah. What kind of barbecue sauce do you like? Man, I'm, to be honest, I usually lean towards like the hot stuff, you know, like I don't have a good barbecue sauce where I live that I've, that I've identified to be honest. Um, I'm much more of like the Sriracha mayo kind of guy throw that on a lot of things. Um, but I think honestly. I don't"
+    },
+    {
+      "start": 4325.43,
+      "end": 4355.67,
+      "speaker": "SPEAKER_00",
+      "text": "know what it is, but I think you could give me a shit rack of ribs with like a shit barbecue sauce and I would still be really happy. Hell yeah, dude. I like ribs too. Except if somebody, you say shit rack of ribs, if they don't remove the membrane on the back of the ribs, you're going to have such a tough time trying to eat those things. Maybe you haven't experienced that, but like the first time I cooked ribs, I didn't know that. So, you know, I love cooking, you know, everything's learning. Mm -hmm . I did not remove that membrane. And man, a lesson learned."
+    },
+    {
+      "start": 4355.85,
+      "end": 4386.15,
+      "speaker": "SPEAKER_00",
+      "text": "So always remove it. The important stuff. Hell yeah, dude. All right. Well, thanks for, uh, thanks for hanging out with me, Jords. Make sure you guys give Jords a follow. Subscribe to his sub stack and stay up to date on what he's thinking. Uh, really enjoy your contributions to our ecosystem with your voice. Continue to be that. Roll out that podcast. And if you ever want your boy to come on, I'd love to. I'm excited to, uh, to watch how everything unfolds. Man, I'm happy you're, you're with us. Yeah,"
+    },
+    {
+      "start": 4386.25,
+      "end": 4407.91,
+      "speaker": "SPEAKER_00",
+      "text": "I appreciate you, man. And, and congrats for, I mean, making time to, to do interesting things and do the like harder, longer stuff to put together, even though you've got a lot juggling and you've got a lot in, in real life you've got to manage, but it's, uh, it's full credit to you that you, you still find the time. So well done. And thanks for having me. I appreciate that, man. Hyper liquid. Hyper liquid."
+    }
+  ],
+  "speaker_map": {}
+}

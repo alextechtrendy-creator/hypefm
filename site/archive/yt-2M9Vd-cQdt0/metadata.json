@@ -1,0 +1,78 @@
+{
+  "space_id": "yt-2M9Vd-cQdt0",
+  "title": "HyperMeat YouTube 2M9Vd-cQdt0",
+  "state": "ended",
+  "created_at": null,
+  "started_at": "2026-09-15T00:00:00",
+  "ended_at": null,
+  "scheduled_start": null,
+  "lang": null,
+  "is_ticketed": false,
+  "participant_count": null,
+  "host_username": "B33Fbanks",
+  "participants": [
+    {
+      "name": "B33Fbanks",
+      "handle": "B33Fbanks",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Zerk",
+      "handle": null,
+      "team": "Buoy Finance",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://www.youtube.com/watch?v=2M9Vd-cQdt0",
+  "summary_title": "Buoy Finance unlocks $1 vaults, HIP3/HIP4 trading, and the spot market problem",
+  "summary_description": "Zerk on why Hyperliquid's vaults needed a rebuild, treasury diversification, and why spot assets remain dangerously underutilized.",
+  "topic_tags": [
+    "vaults",
+    "perps",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 6,
+      "label": "Zerk intro: RecGang validator, Buoy Finance founder, trader"
+    },
+    {
+      "timestamp_seconds": 37,
+      "label": "Host's YouTube channel deleted; Zerk archived Hypermeet episodes on Hype FM"
+    },
+    {
+      "timestamp_seconds": 399,
+      "label": "Buoy Finance launch: $1 vaults vs. $10K Hypercore gatekeep, HIP3/HIP4 enabled"
+    },
+    {
+      "timestamp_seconds": 551,
+      "label": "Vaults as wealth management: retail gets passive exposure to pro traders, traders earn performance fees"
+    },
+    {
+      "timestamp_seconds": 1035,
+      "label": "Spot, HIP3, HIP4 assets now tradeable in Buoy vaults; AI industrial complex vault at 30% APR"
+    },
+    {
+      "timestamp_seconds": 1790,
+      "label": "Crypto markets overlooked; meme season on Solana, Robin Hood drawing volume from Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 2062,
+      "label": "Hypercore spot anemic despite HYPE 2-year performance; gas and UX failures on HyperEVM"
+    },
+    {
+      "timestamp_seconds": 3301,
+      "label": "Biggest opportunity: distribution via Kraken validator, apps, and CEX integration for US users"
+    }
+  ],
+  "pull_quote": "Everything's on-chain transparent. If you ran a vault, there's no proof, probably have a losing vault. The proof is in the pudding.",
+  "quote_attribution": {
+    "name": "Zerk",
+    "team": "Buoy Finance",
+    "role": "co-founder"
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4701.888,
+  "capture_failure_reason": null
+}

@@ -376,5 +376,41 @@
     "x_handle": null,
     "website": null,
     "description": null
+  },
+  "Size": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/size.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HL Media": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hl-media.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "ripdotxyz": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/rip.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Hyperion DeFi": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hyperion.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "Buoy Finance": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/buoy.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
+  },
+  "HL Names": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/hl-names.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
   }
 }
