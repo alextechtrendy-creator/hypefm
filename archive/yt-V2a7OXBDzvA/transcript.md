@@ -3,7 +3,7 @@
 _Kurt from Legend Trade explains gamified copy-trading, paper-trade wagering, and live trading competitions designed to turn markets into esports._
 
 > Markets are the world's biggest video game where anyone can learn, practice, and improve just like competitive gaming.
-> — Kurt, Legend Trade
+> — Kurt, LegendTrade
 
 **Host:** @B33Fbanks
 **Date:** 2026-06-30
@@ -14,7 +14,7 @@ _Kurt from Legend Trade explains gamified copy-trading, paper-trade wagering, an
 ## Who's talking
 
 - **B33Fbanks** (@B33Fbanks) _host_
-- **Kurt** — Legend Trade _guest_
+- **Kurt** — LegendTrade _guest_
 
 ## Key moments
 

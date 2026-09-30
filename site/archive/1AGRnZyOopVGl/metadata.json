@@ -1,0 +1,121 @@
+{
+  "space_id": "1AGRnZyOopVGl",
+  "title": "ASCEND ON ELYSIUM, HYPERLIQUID L2",
+  "state": "ended",
+  "created_at": "2026-09-29T18:51:56Z",
+  "started_at": "2026-09-30T17:00:10Z",
+  "ended_at": "2026-09-30T18:18:58Z",
+  "scheduled_start": "2026-09-30T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 398,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Memo.hl",
+      "handle": "OgElevensixx",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ryan (“Phunky”) Haczynski",
+      "handle": "ThePhunky1",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "skaar",
+      "handle": "benskaarx",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "prodzy",
+      "handle": "0xprodz",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "tommy 🌙",
+      "handle": "CryptoTomYT",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ascend",
+      "handle": "AscendLaunch",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Ruto",
+      "handle": "GianTheRios",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Huntclubhero.eth",
+      "handle": "huntclubhero",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1AGRnZyOopVGl",
+  "summary_title": "Ascend, the Elysium launchpad: stake Hype, earn meme coins",
+  "summary_description": "Token launch platform on Hyperliquid's L2 called Elysium. Lets Hype holders gain on-chain exposure via staking, with four reward streams and zero protocol token extraction.",
+  "topic_tags": [
+    "ecosystem",
+    "HLP",
+    "listings",
+    "tokenomics"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 407,
+      "label": "Ascend solves Hype holder problem: exposure without selling"
+    },
+    {
+      "timestamp_seconds": 529,
+      "label": "Why Elysium over Robinhood: HyperEVM had 7 TPS, high gas fees"
+    },
+    {
+      "timestamp_seconds": 649,
+      "label": "Tokenomics reveal: 50% net fees to Hype buyback, 60% Elysium burn"
+    },
+    {
+      "timestamp_seconds": 801,
+      "label": "Elysium's anti-fragmentation bridge allows same token across chains"
+    },
+    {
+      "timestamp_seconds": 1258,
+      "label": "Four staker reward streams: ecosystem tokens, rev share, referrals, points"
+    },
+    {
+      "timestamp_seconds": 1468,
+      "label": "500-supply free NFT mint with yield boost tied to stake TVL"
+    },
+    {
+      "timestamp_seconds": 1649,
+      "label": "Builders get 25-50% creator rev share and HyperCore spot/HIP3 perp pathway"
+    },
+    {
+      "timestamp_seconds": 3040,
+      "label": "Six-month vision: \\ daily fees = 50-75% of Hype total buyback pressure"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Ascend",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4718.9973125,
+  "capture_failure_reason": null
+}

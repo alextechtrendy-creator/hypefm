@@ -412,5 +412,11 @@
     "x_handle": null,
     "website": null,
     "description": null
+  },
+  "Ascend": {
+    "logo": "https://pub-09a0dd3dd2e44d25b3f0948f1c3d2b33.r2.dev/logos/ascend.jpg",
+    "x_handle": null,
+    "website": null,
+    "description": null
   }
 }

@@ -1,4 +1,4 @@
-# Hyper IP and structured products: why Hyperliquid is paving the way for DeFi
+# RIP.xyz's bet on Hyper NFTs: fractionalization, marketplace, and airdrop season 3
 
 _Solve from RIP.xyz discusses building on Hyperliquid, the Hyper NFT collection's potential, and Ensemble's leveraged structured products._
 

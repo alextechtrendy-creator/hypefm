@@ -1,0 +1,78 @@
+{
+  "space_id": "1jGXgBONaveKZ",
+  "title": "HYPERLIQUID CULTURE WITH .HL NAMES",
+  "state": "ended",
+  "created_at": "2026-09-29T17:01:02Z",
+  "started_at": "2026-09-29T17:01:07Z",
+  "ended_at": "2026-09-29T18:01:35Z",
+  "scheduled_start": null,
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 41,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": ".hl names",
+      "handle": "hlnames",
+      "team": null,
+      "role": "host"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1jGXgBONaveKZ",
+  "summary_title": "HL Names: building identity across Hyperliquid's ecosystem",
+  "summary_description": "Christian from HL Names on the culture, tech, and three-year vision for .HL identity.",
+  "topic_tags": [
+    "ecosystem",
+    "infrastructure",
+    "community"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 268,
+      "label": "Christian introduces HL Names, contributor to the project"
+    },
+    {
+      "timestamp_seconds": 510,
+      "label": "Origin story: team pivoted from Axelar omnichain name service to Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 661,
+      "label": "HL Names was first or among first projects to launch on Hyper-EVM"
+    },
+    {
+      "timestamp_seconds": 844,
+      "label": ".HL culture preceded on-chain implementation; Jeff inspired the movement"
+    },
+    {
+      "timestamp_seconds": 1241,
+      "label": "Vision: universal Hyperliquid username across all apps and leaderboards"
+    },
+    {
+      "timestamp_seconds": 2031,
+      "label": "ENS integration via wildcard resolution and CCIP read now live"
+    },
+    {
+      "timestamp_seconds": 2944,
+      "label": "Christian on tokens: only launch if decentralization or real utility exists"
+    },
+    {
+      "timestamp_seconds": 3185,
+      "label": "Call to action: get a name, set primary name, use affiliate program"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "HL Names",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3631.2746875,
+  "capture_failure_reason": null
+}
