@@ -1,0 +1,85 @@
+{
+  "space_id": "1DGleVzryDzJL",
+  "title": "ELYSIUM: ACCELERATING HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-10-26T19:05:16Z",
+  "started_at": "2026-10-28T16:00:08Z",
+  "ended_at": "2026-10-28T17:08:19Z",
+  "scheduled_start": "2026-10-28T16:00:00Z",
+  "lang": "other",
+  "is_ticketed": false,
+  "participant_count": 290,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Omnia π",
+      "handle": "0xOmnia",
+      "team": "Kinetiq",
+      "role": "guest"
+    },
+    {
+      "name": "Pbr713",
+      "handle": "pbr713",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DGleVzryDzJL",
+  "summary_title": "Elysium: Kinetiq's L2, launch plans and ecosystem",
+  "summary_description": "Omnia on why Kinetic built a high-performance Layer 2 atop Hyperliquid, bringing Uniswap and tokenized equities to the ecosystem.",
+  "topic_tags": [
+    "infrastructure",
+    "L1",
+    "ecosystem",
+    "perps"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 514,
+      "label": "Why Elysium: Hyper-EVM plagued with performance issues"
+    },
+    {
+      "timestamp_seconds": 787,
+      "label": "Elysium 600x faster than Hyper-EVM; 30ms block times"
+    },
+    {
+      "timestamp_seconds": 938,
+      "label": "Kinetic aggressively onboards infrastructure: Goldsky, Alchemy, QuickNode"
+    },
+    {
+      "timestamp_seconds": 1030,
+      "label": "Only non-extractive L2; uses Hype as gas, settles to Hyper-EVM"
+    },
+    {
+      "timestamp_seconds": 1453,
+      "label": "Builder program: 25% sequencer fees to Kinetic Treasury, 25% to builders pro-rata"
+    },
+    {
+      "timestamp_seconds": 1758,
+      "label": "Built on Arbitrum Orbit; precompiles enable L1 read and write"
+    },
+    {
+      "timestamp_seconds": 2062,
+      "label": "Precompiles enable on-chain options hedging and prop AMMs on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 3725,
+      "label": "Launch November 9th; native Hype bridging; Uniswap V4 goes live day one"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Kinetiq",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 4090.0906875,
+  "capture_failure_reason": null
+}

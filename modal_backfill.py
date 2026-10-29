@@ -31,7 +31,7 @@ model_cache = modal.Volume.from_name("hype-fm-models", create_if_missing=True)
 
 @app.function(
     image=image,
-    gpu="L4",
+    gpu=["L4", "A10"],
     volumes={"/archive": volume, "/models": model_cache},
     secrets=[
         modal.Secret.from_name("anthropic-api-key"),
@@ -160,7 +160,7 @@ def main(space_id: str = "", limit: int = 0, ids_file: str = "space_ids.json"):
         return
 
     # Batch mode
-    data = json.loads(Path(ids_file).read_text())
+    data = json.loads(Path(ids_file).read_text(encoding="utf-8-sig"))
     space_ids = [s["space_id"] for s in data.get("spaces", [])]
     if limit:
         space_ids = space_ids[:limit]

@@ -1,0 +1,78 @@
+{
+  "space_id": "1DxLdZPBwAwxm",
+  "title": "PEAR on Hyperliquid",
+  "state": "ended",
+  "created_at": "2026-10-20T17:30:43Z",
+  "started_at": "2026-10-21T13:29:44Z",
+  "ended_at": "2026-10-21T14:15:07Z",
+  "scheduled_start": "2026-10-21T13:30:00Z",
+  "lang": "fr",
+  "is_ticketed": false,
+  "participant_count": 47,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "C-l 🏰🍐",
+      "handle": "ClBlockchain",
+      "team": "Pear Protocol",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1DxLdZPBwAwxm",
+  "summary_title": "Pear Protocol: long-short trading and trading strategies",
+  "summary_description": "Pair Protocol shipped Orchard v3, vaults, and token launch on Hyperliquid. How pair trading achieves the highest perp win rate.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "vaults"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 136,
+      "label": "Token launch announced on Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 529,
+      "label": "Pair Protocol history: from GMX to Hyperliquid v1, v2, v3 timeline"
+    },
+    {
+      "timestamp_seconds": 741,
+      "label": "Win rate comparison: 15% phantom, 30% advanced, 45% pair protocol"
+    },
+    {
+      "timestamp_seconds": 861,
+      "label": "Pair traders 40-45% profitable on Hypertracker vs 10-15% builder code average"
+    },
+    {
+      "timestamp_seconds": 1072,
+      "label": "Orchard v3 features: Ask chatbot, Pick pre-populated baskets, Grow auto-management"
+    },
+    {
+      "timestamp_seconds": 1435,
+      "label": "Two vaults live: Agent Pair ($1M TVL) and Pasta Capital (S&P 500 of crypto)"
+    },
+    {
+      "timestamp_seconds": 2014,
+      "label": "Token migration motivation: escape Arbitrum, go native to Hyperliquid"
+    },
+    {
+      "timestamp_seconds": 2195,
+      "label": "Token utility: 50% fee discount, 70% buyback, $500K+ repurchased since January 2026"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Pear Protocol",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2718.656,
+  "capture_failure_reason": null
+}
