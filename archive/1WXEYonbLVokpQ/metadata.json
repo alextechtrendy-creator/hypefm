@@ -1,0 +1,84 @@
+{
+  "space_id": "1WXEYonbLVokpQ",
+  "title": "TRIGR ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-11-04T19:00:30Z",
+  "started_at": "2026-11-05T15:59:52Z",
+  "ended_at": "2026-11-05T16:50:42Z",
+  "scheduled_start": "2026-11-05T16:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 18,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Jeremie",
+      "handle": "JeremieCG",
+      "team": null,
+      "role": "guest"
+    },
+    {
+      "name": "Trigr.xyz Intern (dot hl)",
+      "handle": "Trigrxyz_Intern",
+      "team": "TRIGR",
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1WXEYonbLVokpQ",
+  "summary_title": "Why AI is terrible at trading, and what TRIGR built instead",
+  "summary_description": "Jeremy from Trigger explains why LLMs fail at trading, and how Trigger's strategy marketplace solves it with 1,000+ live-tested strategies on Hyperliquid.",
+  "topic_tags": [
+    "trading",
+    "infrastructure",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 488,
+      "label": "AI is terrible at trading — millions of predictions proved it"
+    },
+    {
+      "timestamp_seconds": 549,
+      "label": "LLMs trained for mean reversion, best traders use standard deviation"
+    },
+    {
+      "timestamp_seconds": 1096,
+      "label": "Pivot: AI is good at coding, so build strategy builders instead"
+    },
+    {
+      "timestamp_seconds": 1217,
+      "label": "Overfitting trap: backtest looks great, live trading fails"
+    },
+    {
+      "timestamp_seconds": 1368,
+      "label": "Trigger's solution: 1,000 strategies frozen, tested live for 100+ days"
+    },
+    {
+      "timestamp_seconds": 1825,
+      "label": "Strategies boost prop firm pass rates from 15% to 30-70%"
+    },
+    {
+      "timestamp_seconds": 2128,
+      "label": "Build custom strategies with third-party APIs, almost like personal vaults"
+    },
+    {
+      "timestamp_seconds": 2523,
+      "label": "Long-term moat: network of thousands building, thousands of live-validated strategies"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "TRIGR",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 3049.1093125,
+  "capture_failure_reason": null
+}

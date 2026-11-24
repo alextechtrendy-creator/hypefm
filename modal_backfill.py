@@ -17,6 +17,7 @@ image = (
         "nvidia-cublas-cu12",
         "nvidia-cudnn-cu12==9.*",
     )
+    .run_commands("python -m pip install --upgrade --pre yt-dlp", force_build=True)
     .env({
         "PYTHONPATH": "/root",
         "PYTHONUNBUFFERED": "1",
@@ -54,7 +55,7 @@ def archive_one_space(space_id: str) -> dict:
     archive_root = Path("/archive")
     entry_dir = archive_root / space_id
 
-    if (entry_dir / "metadata.json").exists() and (entry_dir / "transcript.json").exists():
+    if (entry_dir / "metadata.json").exists() and (entry_dir / "transcript.json").exists() and (entry_dir / "audio.m4a").exists():
         log(f"already archived, skipping")
         return {"space_id": space_id, "status": "skipped"}
 

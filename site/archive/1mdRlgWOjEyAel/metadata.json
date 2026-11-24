@@ -1,0 +1,84 @@
+{
+  "space_id": "1mdRlgWOjEyAel",
+  "title": "POWER PERPS ON HYPERLIQUID",
+  "state": "ended",
+  "created_at": "2026-11-09T19:19:29Z",
+  "started_at": "2026-11-11T17:00:00Z",
+  "ended_at": "2026-11-11T17:38:52Z",
+  "scheduled_start": "2026-11-11T17:00:00Z",
+  "lang": "en",
+  "is_ticketed": false,
+  "participant_count": 41,
+  "host_username": "rekt_gang",
+  "participants": [
+    {
+      "name": "Rekt Gang",
+      "handle": "rekt_gang",
+      "team": null,
+      "role": "host"
+    },
+    {
+      "name": "Paragon²",
+      "handle": "tradeparagon",
+      "team": "Paragon",
+      "role": "guest"
+    },
+    {
+      "name": "Taha",
+      "handle": "tahathinks",
+      "team": null,
+      "role": "guest"
+    }
+  ],
+  "space_url": "https://x.com/i/spaces/1mdRlgWOjEyAel",
+  "summary_title": "Paragon Power Perps: convex exposure without expiries",
+  "summary_description": "Paragon's new primitive lets you trade squared and cubed assets with built-in convexity, funding-based pricing, and vault strategies.",
+  "topic_tags": [
+    "perps",
+    "trading",
+    "ecosystem"
+  ],
+  "key_moments": [
+    {
+      "timestamp_seconds": 319,
+      "label": "Zerk introduces Paragon as HIP3 deployer with treasury yields"
+    },
+    {
+      "timestamp_seconds": 410,
+      "label": "Taha: creating on-chain exposures that don't exist elsewhere"
+    },
+    {
+      "timestamp_seconds": 651,
+      "label": "Power perps explained: price of asset raised to a power"
+    },
+    {
+      "timestamp_seconds": 1109,
+      "label": "Pay-as-you-go funding vs. upfront options premium model"
+    },
+    {
+      "timestamp_seconds": 1290,
+      "label": "50-70% gross funding yield on power perp shorts during normal markets"
+    },
+    {
+      "timestamp_seconds": 1715,
+      "label": "Straddle strategy: long volatility bet using power and linear perps"
+    },
+    {
+      "timestamp_seconds": 1867,
+      "label": "Paragon.trade/power with FAQs; vault products coming soon"
+    },
+    {
+      "timestamp_seconds": 1959,
+      "label": "Vision: convexity market for every major asset on Hyperliquid"
+    }
+  ],
+  "pull_quote": null,
+  "quote_attribution": {
+    "name": null,
+    "team": "Paragon",
+    "role": null
+  },
+  "audio_captured": true,
+  "audio_duration_seconds": 2329.0666875,
+  "capture_failure_reason": null
+}
